@@ -1,12 +1,11 @@
-nname: Update Whitelist
-
-       # Controls when the workflow will run
+name: Update Whitelist
 on:
-  # Triggers the workflow every 5 minutes
+  push:
+    paths-ignore:
+    - '.github/**'
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
 
-     # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   build-blocklist:
     runs-on: ubuntu-latest
@@ -24,6 +23,8 @@ jobs:
       - run: |
           chmod +x ./whitelist-aggregator.sh
           ./whitelist-aggregator.sh -o whitelist.txt
+          chmod +x ./whitelist-aggregator.sh
+          ./whitelist-aggregator.sh -o domains-allowlist.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
