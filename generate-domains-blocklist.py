@@ -1,7 +1,5 @@
 #! /usr/bin/env python
 
-# run with python generate-domains-blacklist.py > list.txt.tmp && mv -f list.txt.tmp list
-
 import argparse
 import re
 import sys
@@ -46,9 +44,11 @@ def list_from_url(url):
     try:
         response = urllib2.urlopen(req, timeout=10)
     except urllib2.URLError as err:
-        raise Exception("[{}] could not be loaded: {}\n".format(url, err))
+        sys.stderr.write("[{}] could not be loaded: {}\n".format(url, err))
+        exit(1)
     if trusted is False and response.getcode() != 200:
-        raise Exception("[{}] returned HTTP code {}\n".format(url, response.getcode()))
+        sys.stderr.write("[{}] returned HTTP code {}\n".format(url, response.getcode()))
+        exit(1)
     content = response.read()
 
     return parse_blacklist(content, trusted)
@@ -77,7 +77,7 @@ def whitelist_from_url(url):
     return list_from_url(url)
 
 
-def blacklists_from_config_file(file, whitelist, ignore_retrieval_failure):
+def blacklists_from_config_file(file, whitelist):
     blacklists = {}
     all_names = set()
     unique_names = set()
@@ -93,24 +93,22 @@ def blacklists_from_config_file(file, whitelist, ignore_retrieval_failure):
             if str.startswith(line, "#") or line == "":
                 continue
             url = line
-            try:
-                names = list_from_url(url)
-                blacklists[url] = names
-                all_names |= names
-            except Exception as e:
-                sys.stderr.write(e.message)
-                if not ignore_retrieval_failure:
-                    exit(1)
+            names = list_from_url(url)
+            filtered_names = set()
+            for name in names:
+                if not (has_suffix(whitelisted_names, name) or name in whitelisted_names):
+                    filtered_names.add(name)
+
+            blacklists[url] = filtered_names
+            all_names |= filtered_names
 
     for url, names in blacklists.items():
         print("\n\n########## Blacklist from {} ##########\n".format(url))
-        ignored, whitelisted = 0, 0
+        ignored = 0
         list_names = list()
         for name in names:
             if has_suffix(all_names, name) or name in unique_names:
                 ignored = ignored + 1
-            elif has_suffix(whitelisted_names, name) or name in whitelisted_names:
-                whitelisted = whitelisted + 1
             else:
                 list_names.append(name)
                 unique_names.add(name)
@@ -118,8 +116,6 @@ def blacklists_from_config_file(file, whitelist, ignore_retrieval_failure):
         list_names.sort(key=name_cmp)
         if ignored:
             print("# Ignored duplicates: {}\n".format(ignored))
-        if whitelisted:
-            print("# Ignored entries due to the whitelist: {}\n".format(whitelisted))
         for name in list_names:
             print(name)
 
@@ -129,12 +125,9 @@ argp.add_argument("-c", "--config", default="domains-blocklist.conf",
     help="file containing blacklist sources")
 argp.add_argument("-w", "--whitelist", default="whitelist.txt",
     help="file containing a set of names to exclude from the blacklist")
-argp.add_argument("-i", "--ignore-retrieval-failure", action='store_true',
-    help="generate list even if some urls couldn't be retrieved")
 args = argp.parse_args()
 
 conf = args.config
 whitelist = args.whitelist
-ignore_retrieval_failure = args.ignore_retrieval_failure
 
-blacklists_from_config_file(conf, whitelist, ignore_retrieval_failure)
+blacklists_from_config_file(conf, whitelist)
