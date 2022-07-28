@@ -17,53 +17,139 @@ block_lists:
   -
     url: https://badmojr.github.io/addons_1Hosts/kidSaf/hosts.txt
   -
-    url: https://block.energized.pro/porn/formats/domains.txt
+    url: https://adaway.org/hosts.txt
   -
-    url: https://blocklistproject.github.io/Lists/drugs.txt
+    url: https://azorult-tracker.net/api/list/domain?format=plain
   -
-    url: https://blocklistproject.github.io/Lists/gambling.txt
+    url: https://block.energized.pro/bluGo/formats/domains.txt
   -
-    url: https://blocklistproject.github.io/Lists/vaping.txt
+    url: https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt
   -
-    url: https://dbl.oisd.nl/nsfw
+    url: https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
   -
-    url: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
+    url: https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
   -
-    url: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
+    url: https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
   -
-    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
+    url: https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
   -
-    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/gambling/hosts
+    url: https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
   -
-    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/brijrajparmar27/hosts
+    url: https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt
   -
-    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/clefspeare13/hosts
+    url: https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
   -
-    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/sinfonietta-snuff/hosts
+    url: https://dbl.oisd.nl/basic/
   -
-    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/sinfonietta/hosts
+    url: https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
   -
-    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/tiuxo/hosts
+    url: https://gitlab.com/quidsup/notrack-blocklists/raw/master/trackers.hosts
   -
-    url: https://raw.githubusercontent.com/cbuijs/ut1/master/dating/domains
+    url: https://hostfiles.frogeye.fr/firstparty-trackers.txt
+  -
+    url: https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+  -
+    url: https://pgl.yoyo.org/adservers/serverlist.php?showintro=0;hostformat=hosts
+  -
+    url: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
+  -
+    url: https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+  -
+    url: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
+  -
+    url: https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt
+  -
+    url: https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/domainsonly
+  -
+    url: https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
+  -
+    url: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+  -
+    url: https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+  -
+    url: https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
+  -
+    url: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+  -
+    url: https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+  -
+    url: https://raw.githubusercontent.com/cbuijs/airelle/master/ads.domains.list
+  -
+    url: https://raw.githubusercontent.com/cbuijs/airelle/master/malware.domains.list
+  -
+    url: https://raw.githubusercontent.com/cbuijs/airelle/master/trackers.domains.list
+  -
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
   -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/doh/domains
   -
-    url: https://raw.githubusercontent.com/cbuijs/ut1/master/drugs/domains
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/malware/domains
   -
-    url: https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
+    url: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
   -
-    url: https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
+    url: https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls.txt
+  -
+    url: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+  -
+    url: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+  -
+    url: https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
   -
     url: https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
   -
     url: https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/safesearch-not-supported
   -
+    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa
+  -
+    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple
+  -
+    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei
+  -
+    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku
+  -
+    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung
+  -
+    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos
+  -
+    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows
+  -
+    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi
+  -
+    url: https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
+  -
+    url: https://raw.githubusercontent.com/nextdns/metadata/master/security/typosquatting/exclusions
+  -
     url: https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies
   -
-    url: https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/dating/domains
+    url: https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
   -
-    url: https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/gambling/domains
+    url: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
+  -
+    url: https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
+  -
+    url: https://raw.githubusercontent.com/t0ny54/test/main/blocklist.txt
+  -
+    url: https://rescure.me/rescure_domain_blacklist.txt
+  -
+    url: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+  -
+    url: https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+  -
+    url: https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
+  -
+    url: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+  -
+    url: https://v.firebog.net/hosts/AdguardDNS.txt
+  -
+    url: https://v.firebog.net/hosts/Easylist.txt
+  -
+    url: https://v.firebog.net/hosts/Easyprivacy.txt
+  -
+    url: https://v.firebog.net/hosts/Prigent-Ads.txt
+  -
+    url: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+  -
+    url: https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 
 # list of domains to remove from the lists
 allow:
