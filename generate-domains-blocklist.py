@@ -1,6 +1,5 @@
 #! /usr/bin/env python
 
-import argparse
 import re
 import sys
 import urllib2
@@ -34,7 +33,7 @@ def parse_blacklist(content, trusted=False):
     return names
 
 
-def list_from_url(url):
+def blacklist_from_url(url):
     sys.stderr.write("Loading data from [{}]\n".format(url))
     req = urllib2.Request(url)
     trusted = False
@@ -44,20 +43,19 @@ def list_from_url(url):
     try:
         response = urllib2.urlopen(req, timeout=10)
     except urllib2.URLError as err:
-        sys.stderr.write("[{}] could not be loaded: {}\n".format(url, err))
+        sys.stderr.write("[{}] could not be loaded: {}\n".format(err))
         exit(1)
     if trusted is False and response.getcode() != 200:
         sys.stderr.write("[{}] returned HTTP code {}\n".format(url, response.getcode()))
         exit(1)
     content = response.read()
-
     return parse_blacklist(content, trusted)
 
 
 def name_cmp(name):
-    parts = name.split(".")
+    parts = name.split('.')
     parts.reverse()
-    return str.join(".", parts)
+    return str.join('.', parts)
 
 
 def has_suffix(names, name):
@@ -70,22 +68,10 @@ def has_suffix(names, name):
     return False
 
 
-def whitelist_from_url(url):
-    if not url:
-        return set()
-
-    return list_from_url(url)
-
-
-def blacklists_from_config_file(file, whitelist):
+def blacklists_from_config_file(file):
     blacklists = {}
     all_names = set()
     unique_names = set()
-
-    if whitelist and not re.match(r'^[a-z0-9]+:', whitelist):
-        whitelist = "file:" + whitelist
-
-    whitelisted_names = whitelist_from_url(whitelist)
 
     with open(file) as fd:
         for line in fd:
@@ -93,14 +79,9 @@ def blacklists_from_config_file(file, whitelist):
             if str.startswith(line, "#") or line == "":
                 continue
             url = line
-            names = list_from_url(url)
-            filtered_names = set()
-            for name in names:
-                if not (has_suffix(whitelisted_names, name) or name in whitelisted_names):
-                    filtered_names.add(name)
-
-            blacklists[url] = filtered_names
-            all_names |= filtered_names
+            names = blacklist_from_url(url)
+            blacklists[url] = names
+            all_names |= names
 
     for url, names in blacklists.items():
         print("\n\n########## Blacklist from {} ##########\n".format(url))
@@ -120,14 +101,8 @@ def blacklists_from_config_file(file, whitelist):
             print(name)
 
 
-argp = argparse.ArgumentParser(description="Create a unified blacklist from a set of local and remote files")
-argp.add_argument("-c", "--config", default="domains-blocklist.conf",
-    help="file containing blacklist sources")
-argp.add_argument("-w", "--whitelist", default="whitelist.txt",
-    help="file containing a set of names to exclude from the blacklist")
-args = argp.parse_args()
+conf = "domains-blocklist.conf"
+if len(sys.argv) > 1:
+    conf = sys.argv[1]
 
-conf = args.config
-whitelist = args.whitelist
-
-blacklists_from_config_file(conf, whitelist)
+blacklists_from_config_file(conf)
