@@ -1,0 +1,32 @@
+name: Update Blacklist
+on:
+  push:
+    paths-ignore:
+    - '.github/**'
+  schedule:
+    - cron: '0 5 * * *'
+
+jobs:
+  build-blocklist:
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+
+      - name: Build blocklist
+        uses: actions/checkout@v2
+      - run: |
+          curl -LO https://raw.githubusercontent.com/creativeprojects/hosts-filter/main/install.sh
+          chmod +x install.sh
+          sudo ./install.sh -b /usr/local/bin
+          hosts-filter -c config1.yaml -q
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "update blacklist"
+          git push
