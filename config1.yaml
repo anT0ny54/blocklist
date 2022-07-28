@@ -1,0 +1,73 @@
+---
+# hosts file to update (leave blank for the system default)
+hosts_file: ./lists/hosts
+
+# IP used for filtered domains: default is 0.0.0.0
+# ip: 0.0.0.0
+
+block_lists:
+  # -
+  #   url: http://winhelp2002.mvps.org/hosts.txt
+  # -
+  #   url: http://someonewhocares.org/hosts/hosts
+  # -
+  #   url: http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext
+  # -
+  #   url: http://www.malwaredomainlist.com/hostslist/hosts.txt
+  -
+    url: https://badmojr.github.io/addons_1Hosts/kidSaf/hosts.txt
+  -
+    url: https://block.energized.pro/porn/formats/domains.txt
+  -
+    url: https://blocklistproject.github.io/Lists/drugs.txt
+  -
+    url: https://blocklistproject.github.io/Lists/gambling.txt
+  -
+    url: https://blocklistproject.github.io/Lists/vaping.txt
+  -
+    url: https://dbl.oisd.nl/nsfw
+  -
+    url: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
+  -
+    url: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
+  -
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
+  -
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/gambling/hosts
+  -
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/brijrajparmar27/hosts
+  -
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/clefspeare13/hosts
+  -
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/sinfonietta-snuff/hosts
+  -
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/sinfonietta/hosts
+  -
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/tiuxo/hosts
+  -
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/dating/domains
+  -
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/doh/domains
+  -
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/drugs/domains
+  -
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
+  -
+    url: https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
+  -
+    url: https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
+  -
+    url: https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/safesearch-not-supported
+  -
+    url: https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies
+  -
+    url: https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/dating/domains
+  -
+    url: https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/gambling/domains
+
+# list of domains to remove from the lists
+allow:
+  - github.com
+
+# file containing a list of domains allowed (one per line)
+allow_from: whitelist.txt
