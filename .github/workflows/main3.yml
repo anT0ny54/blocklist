@@ -19,7 +19,7 @@ jobs:
       - name: Build blocklist
         uses: actions/checkout@v2
       - run: |
-          sudo python3 generate-domains-blocklist.py > blocklist.txt
+          sudo python2 generate-domains-blocklist.py > blocklist.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
