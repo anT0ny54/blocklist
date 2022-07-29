@@ -15,8 +15,6 @@ block_lists:
   # -
   #   url: http://www.malwaredomainlist.com/hostslist/hosts.txt
   -
-    url: https://badmojr.github.io/addons_1Hosts/kidSaf/hosts.txt
-  -
     url: https://adaway.org/hosts.txt
   -
     url: https://azorult-tracker.net/api/list/domain?format=plain
