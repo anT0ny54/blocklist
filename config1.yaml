@@ -33,15 +33,11 @@ block_lists:
   -
     url: https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
   -
-    url: https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt
-  -
     url: https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
   -
     url: https://dbl.oisd.nl/basic/
   -
     url: https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
-  -
-    url: https://gitlab.com/quidsup/notrack-blocklists/raw/master/trackers.hosts
   -
     url: https://hostfiles.frogeye.fr/firstparty-trackers.txt
   -
@@ -64,8 +60,6 @@ block_lists:
     url: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
   -
     url: https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-  -
-    url: https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
   -
     url: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
   -
@@ -124,8 +118,6 @@ block_lists:
     url: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
   -
     url: https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
-  -
-    url: https://raw.githubusercontent.com/t0ny54/test/main/blocklist.txt
   -
     url: https://rescure.me/rescure_domain_blacklist.txt
   -
