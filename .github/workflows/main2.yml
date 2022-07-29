@@ -5,6 +5,12 @@ on:
     - '.github/**'
   schedule:
     - cron: '0 4 * * *'
+    - 'lists/**'
+    - '*.txt'
+    - '*.yaml'
+    - '*.conf'
+    - '*.txt'
+    - '*.sh'
 
 jobs:
   build-blocklist:
