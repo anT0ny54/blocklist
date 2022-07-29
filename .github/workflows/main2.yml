@@ -5,6 +5,7 @@ on:
     - '.github/**'
     - 'lists/**'
     - '*.txt'
+    - '*.yaml'
     - '*.conf'
     - '*.txt'
     - '*.sh'
