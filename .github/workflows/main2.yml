@@ -6,7 +6,6 @@ on:
     - 'lists/**'
     - '*.txt'
     - '*.yaml'
-    - '*.conf'
     - '*.txt'
     - '*.sh'
     - 'README.md'
