@@ -3,14 +3,14 @@ on:
   push:
     paths-ignore:
     - '.github/**'
-  schedule:
-    - cron: '0 4 * * *'
     - 'lists/**'
     - '*.txt'
     - '*.yaml'
     - '*.conf'
     - '*.txt'
     - '*.sh'
+  schedule:
+    - cron: '0 4 * * *'
 
 jobs:
   build-blocklist:
