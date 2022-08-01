@@ -464,6 +464,7 @@ fetch_domains_comments \
                 "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt" \
                 "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt" \
                 "https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list" \
+                "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INACTIVE.txt" \
                 "https://raw.githubusercontent.com/t0ny54/deadhosts/main/inactive.txt" 
 
 
