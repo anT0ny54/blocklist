@@ -366,11 +366,11 @@ sanitize_domain_list() {
     # remove single/double quotes (artifacts from parsing)
     sed -e "s/'/ /g" -e 's/\"//g' |\
     # remove ips
-    # grep -v '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}$' |\
+    grep -v '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}$' |\
     # remove invalid domain names
     grep '\.' |\
     # filter out IDNA non-conforming domains
-    #python_idna_encoder |\
+    python_idna_encoder |\
     # sort (and remove duplicates) entries
     sort -u |\
     # remove all white-listed domains
