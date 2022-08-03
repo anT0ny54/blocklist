@@ -465,8 +465,19 @@ fetch_domains_comments \
                 "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt" \
                 "https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list" \
                 "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INACTIVE.txt" \
-                "https://raw.githubusercontent.com/t0ny54/deadhosts/main/inactive.txt" 
-
+                "https://raw.githubusercontent.com/t0ny54/deadhosts/main/inactive.txt" \
+                "https://raw.githubusercontent.com/cbuijs/ut1/master/child/domains" \
+                "https://raw.githubusercontent.com/cbuijs/ut1/master/bank/domains" \
+                "https://raw.githubusercontent.com/cbuijs/ut1/master/shopping/domains" \
+                "https://raw.githubusercontent.com/cbuijs/ut1/master/social_networks/domains" \
+                "https://raw.githubusercontent.com/cbuijs/ut1/master/sports/domains" \
+                "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/connectivity-tests-common.txt" \
+                "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/list-manage-core.txt" \
+                "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/signal.txt" \
+                "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/netflix.txt" \
+                "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/plex.txt" \
+                "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/spotify.txt" \
+                "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/youtube.txt"
 
 sanitize_domain_list > "$OUT_FILE"
 
