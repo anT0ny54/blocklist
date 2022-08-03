@@ -65,11 +65,9 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
   -
-    url: https://raw.githubusercontent.com/cbuijs/airelle/master/ads.domains.list
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/proxy/domains
   -
-    url: https://raw.githubusercontent.com/cbuijs/airelle/master/malware.domains.list
-  -
-    url: https://raw.githubusercontent.com/cbuijs/airelle/master/trackers.domains.list
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
   -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
   -
