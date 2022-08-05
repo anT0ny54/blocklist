@@ -111,8 +111,6 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies
   -
-    url: https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
-  -
     url: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
   -
     url: https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
