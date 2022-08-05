@@ -473,11 +473,50 @@ fetch_domains_comments \
                 "https://raw.githubusercontent.com/cbuijs/ut1/master/sports/domains" \
                 "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/connectivity-tests-common.txt" \
                 "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/list-manage-core.txt" \
-                "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/signal.txt" \
-                "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/netflix.txt" \
-                "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/plex.txt" \
-                "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/spotify.txt" \
-                "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/youtube.txt"
+                "https://raw.githubusercontent.com/nextdns/metadata/master/security/ddns/suffixes" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/security/ddns/exclusions" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/security/bin-hostnames" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/security/bin-domains" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/security/typosquatting/protected-domains" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/security/url-shorteners" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/security/public-suffixes-extras" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/9gag" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/amazon" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/blizzard" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/dailymotion" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/discord" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/disneyplus" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/ebay" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/facebook" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/fortnite" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/hulu" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/imgur" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/instagram" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/leagueoflegends" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/messenger" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/minecraft" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/netflix" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/pinterest" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/primevideo" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/reddit" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/roblox" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/signal" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/skype" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/snapchat" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/spotify" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/steam" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/telegram" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/tiktok" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/tinder" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/tumblr" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/twitch" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/twitter" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/vimeo" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/vk" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/whatsapp" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/xboxlive" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/youtube" \
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/zoom"
 
 sanitize_domain_list > "$OUT_FILE"
 
