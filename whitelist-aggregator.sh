@@ -439,8 +439,6 @@ mkdir -p "$TEMP_DIR/sources"
 
 echo "[*] updating domain list..."
 fetch_domains_comments \
-                "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt" \
-                "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/android.txt" \
                 "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt" \
                 "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/firefox.txt" \
                 "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/issues.txt" \
