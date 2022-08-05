@@ -448,7 +448,6 @@ fetch_domains_comments \
                 "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt" \
                 "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/windows.txt" \
                 "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersDomainsAllowlist.txt" \
-                "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt" \
                 "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list" \
                 "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt" \
                 "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt" \
@@ -457,9 +456,7 @@ fetch_domains_comments \
                 "https://raw.githubusercontent.com/cbuijs/shallalist/master/updatesites/domains" \
                 "https://raw.githubusercontent.com/cbuijs/shallalist/master/urlshortener/domains" \
                 "https://raw.githubusercontent.com/cbuijs/ut1/master/shortener/domains" \
-                "https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/whitelist_domains.txt" \
                 "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains" \
-                "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt" \
                 "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt" \
                 "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt" \
                 "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt" \
