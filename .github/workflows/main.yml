@@ -8,6 +8,7 @@ on:
     - '*.yaml'
     - '*.conf'
     - '*.txt'
+    - '*.sh'
     - '*.py'
     - 'README.md'
   schedule:
