@@ -463,6 +463,9 @@ fetch_domains_comments \
                 "https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list" \
                 "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INACTIVE.txt" \
                 "https://raw.githubusercontent.com/t0ny54/deadhosts/main/inactive.txt" \
+                "https://raw.githubusercontent.com/t0ny54/blocklist/main/domains-whitelist-local-additions.txt" \
+                "https://raw.githubusercontent.com/t0ny54/blocklist/main/domains-allowlist.txt" \
+                "https://raw.githubusercontent.com/t0ny54/whitelist/main/whitelist.txt" \
                 "https://raw.githubusercontent.com/cbuijs/ut1/master/child/domains" \
                 "https://raw.githubusercontent.com/cbuijs/ut1/master/bank/domains" \
                 "https://raw.githubusercontent.com/cbuijs/ut1/master/shopping/domains" \
