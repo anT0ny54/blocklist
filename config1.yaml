@@ -17,8 +17,6 @@ block_lists:
   -
     url: https://adaway.org/hosts.txt
   -
-    url: https://azorult-tracker.net/api/list/domain?format=plain
-  -
     url: https://block.energized.pro/bluGo/formats/domains.txt
   -
     url: https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt
