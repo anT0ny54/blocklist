@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 371161
+# Ignored duplicates: 371354
 
 marketing.globalpointofcare.abbott
 marketing2.globalpointofcare.abbott
@@ -34758,7 +34758,7 @@ cfa.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 2mf9kkbhab31.com
-xmr.2miners.com
+2miners.com
 2mouses.com
 2mycomputer.com
 www2.2ndgear.com
@@ -41073,6 +41073,7 @@ akamai-edge-trial.amplitude.com
 allaccess.amplitude.com
 amplify.amplitude.com
 analytics.amplitude.com
+api.amplitude.com
 api2.amplitude.com
 bounce.amplitude.com
 casestudies.amplitude.com
@@ -41783,6 +41784,7 @@ apptdvibrate.com
 apptentive.com
 apptera.com
 api.apptimize.com
+brahe.apptimize.com
 get.apptimize.com
 go.apptimize.com
 growth.apptimize.com
@@ -43747,6 +43749,7 @@ bbaannrr11.com
 bbbadshostnet.com
 ssc.api.bbc.com
 click.email.bbc.com
+sa.bbc.com
 bbcrgate.com
 flagpoles.gnl-live.bbcverticals.com
 ads.bbcworld.com
@@ -44581,7 +44584,7 @@ bing-analytics.com
 bat.bing-int.com
 ads.bing.com
 adserver.bing.com
-r.bat.bing.com
+bat.bing.com
 c.bing.com
 g.bing.com
 intent.bingads.com
@@ -51599,9 +51602,7 @@ deadpantruck.com
 mms.deadspin.com
 sourcepoint.deadspin.com
 deafeningdock.com
-ww1.deai-sos.com
 ww17.deai-sos.com
-www.deai-sos.com
 dealcurrent.com
 dealdotcom.com
 analytics.dealer.com
@@ -52874,6 +52875,7 @@ accounts-citi.dnset.com
 accountsecuredchs01.dnset.com
 acezobfffl.dnset.com
 acntlgnsecurdnfx.dnset.com
+actupdate.dnset.com
 acvtive-procedure09-acess.dnset.com
 adil.dnset.com
 adivoxtubeang.dnset.com
@@ -52924,6 +52926,7 @@ adobeshare0hr.dnset.com
 afsi.dnset.com
 aguamanantial.dnset.com
 airdrops14.dnset.com
+ajudin12.dnset.com
 alaska-ge1212.dnset.com
 alaskausa.dnset.com
 albusberger.dnset.com
@@ -53073,6 +53076,7 @@ authorizeafcuverify.dnset.com
 authsafe-security.dnset.com
 authsecure03-chaseredirect.dnset.com
 authsecured02-info0.dnset.com
+authy.dnset.com
 autofollowerstiktok.dnset.com
 autwels-fargo03seonnline.dnset.com
 avalanche1.dnset.com
@@ -53107,8 +53111,11 @@ bavixt.dnset.com
 bbrdspin18.dnset.com
 bbs.dnset.com
 bdckids.dnset.com
+bdo-unibank.dnset.com
+bdounibank.dnset.com
 becu-online-loginbecu.dnset.com
 becu-onlineaccount-becu.dnset.com
+becu-sec.dnset.com
 belilofuyztk5vq.dnset.com
 benny.dnset.com
 bepmgwzgihbktpv.dnset.com
@@ -53254,6 +53261,8 @@ castration-itself.dnset.com
 casual.dnset.com
 ccpubg.dnset.com
 ccrwditems18.dnset.com
+cd.dnset.com
+cd2.dnset.com
 cdn.dnset.com
 cefiperlo.dnset.com
 cemili.dnset.com
@@ -53425,13 +53434,16 @@ citizenzonline-verify.dnset.com
 citizenzverify-online.dnset.com
 citiznsonline-scure.dnset.com
 citizsup00rt.dnset.com
+citz365onlin.dnset.com
 citz9resauth-verifi.dnset.com
+citzconf.dnset.com
 citzenonline.dnset.com
 citzenonline-scure.dnset.com
 citzensonlinescure-verify.dnset.com
 citzeonline-scure.dnset.com
 citzn009verify.dnset.com
 citznsteam3.dnset.com
+citzonln.dnset.com
 cla0802.dnset.com
 clailmclnfree.dnset.com
 claim-gems-free18.dnset.com
@@ -53692,6 +53704,7 @@ eren0507.dnset.com
 ertfretygu.dnset.com
 eruyguijsd.dnset.com
 esmesrv.dnset.com
+espace-socielegererale.dnset.com
 espaol.dnset.com
 espin17frosnew.dnset.com
 este.dnset.com
@@ -53944,6 +53957,7 @@ gmlareens.dnset.com
 gnnppmokzv.dnset.com
 gofate.dnset.com
 goldars.dnset.com
+goomi.dnset.com
 gotcha.dnset.com
 gprewardspin18.dnset.com
 gqxns.dnset.com
@@ -54022,6 +54036,7 @@ hyu7jjuij.dnset.com
 hzpmoplevk.dnset.com
 i0l9zr.dnset.com
 i26767.dnset.com
+iaccess-landbank.dnset.com
 iawntsilk.dnset.com
 icafegm.dnset.com
 id.dnset.com
@@ -54341,6 +54356,7 @@ mediaplayer.dnset.com
 meji.dnset.com
 membershipsecure-accountlogin-appstores.dnset.com
 menra1306.dnset.com
+merchantusertd.dnset.com
 merfweb.dnset.com
 metafx.dnset.com
 metropubgm16.dnset.com
@@ -54387,6 +54403,7 @@ mliaiicml.dnset.com
 mllbfreeluckyspin.dnset.com
 mmclareensshear.dnset.com
 mnc07-host07-secure07.dnset.com
+mnt365.dnset.com
 mnttvrfy.dnset.com
 mntverify-user.dnset.com
 mo-tr.dnset.com
@@ -54473,6 +54490,7 @@ mtbverify-security.dnset.com
 mtonline.dnset.com
 mtonlinesupport.dnset.com
 mtreview-panel.dnset.com
+mtsbbs.dnset.com
 mtsecure.dnset.com
 mtsupport.dnset.com
 mttbverrfy.dnset.com
@@ -54626,6 +54644,7 @@ ofad.dnset.com
 off365.dnset.com
 officemicsoftt.dnset.com
 officepatch.dnset.com
+official-postal-mailer-us-official-service-eusps.dnset.com
 officialeventbug.dnset.com
 offlce.dnset.com
 ohmyga.dnset.com
@@ -54736,6 +54755,7 @@ page-authorize-chase.dnset.com
 panel.dnset.com
 panelto.dnset.com
 papagayo.dnset.com
+partlcluliers.dnset.com
 passwinter.dnset.com
 patbibi.dnset.com
 pawel.dnset.com
@@ -55083,9 +55103,11 @@ rebel-alliance.dnset.com
 rec-mycitizensonline.dnset.com
 recorded.dnset.com
 recover-citizens-acct.dnset.com
+recoveryafcuaccount.dnset.com
 recvry-53rd-info.dnset.com
 redb.dnset.com
 redeempubgmobille.dnset.com
+redel-reform-request-official-postal-eusps.dnset.com
 redirect-03423v.dnset.com
 redirect-07.dnset.com
 redirect-information.dnset.com
@@ -55112,6 +55134,7 @@ retrack-postal.dnset.com
 retrch2surncyrekdl.dnset.com
 retrieve-53rdonline.dnset.com
 revenxsuit.dnset.com
+reviewconnectmtb.dnset.com
 reviewsecure009.dnset.com
 revo.dnset.com
 revo-web.dnset.com
@@ -55291,6 +55314,7 @@ secure-auths06.dnset.com
 secure-banking-login.dnset.com
 secure-chase.dnset.com
 secure-chaseonline.dnset.com
+secure-citionline.dnset.com
 secure-citizenonline-access.dnset.com
 secure-citizensprofile00.dnset.com
 secure-citizensprofile000.dnset.com
@@ -55299,6 +55323,7 @@ secure-citizensprofile01.dnset.com
 secure-citiznsonline.dnset.com
 secure-ctbkvrfy-online.dnset.com
 secure-dhl.dnset.com
+secure-dverify.dnset.com
 secure-login-auth01m.dnset.com
 secure-login-auth01x.dnset.com
 secure-login-auth02a.dnset.com
@@ -55435,6 +55460,7 @@ secure5a-chase.dnset.com
 secure7c-recover-online.dnset.com
 secureaccountrecovery.dnset.com
 secureauth-verinfy.dnset.com
+secureauth0.dnset.com
 secureauth09-loginchase5.dnset.com
 secureauthentification20.dnset.com
 secureauthwellonline.dnset.com
@@ -55510,6 +55536,7 @@ servermtbsecureooo.dnset.com
 serverrrruu.dnset.com
 service05c-approvesignin.dnset.com
 serviceclient.dnset.com
+services-online-reveiw-e-paypal.dnset.com
 servicesmaneger.dnset.com
 servperso.dnset.com
 serwrdbug18.dnset.com
@@ -55718,6 +55745,7 @@ supera-kvaliteta.dnset.com
 supercell-gift.dnset.com
 supercell20.dnset.com
 superellmagic.dnset.com
+supermax07.dnset.com
 support-citizensbank-online.dnset.com
 support-mycitizenonline.dnset.com
 support0apple.dnset.com
@@ -55794,6 +55822,7 @@ tp3fe25.dnset.com
 tpaglucerne.dnset.com
 tpeea.dnset.com
 trajan.dnset.com
+tranchesnass.dnset.com
 trebphiesterun0905.dnset.com
 trechlo3csvrfsertf3xca.dnset.com
 trenbodoublotilitt.dnset.com
@@ -55806,6 +55835,7 @@ trudmars0406.dnset.com
 trustbnk.dnset.com
 trustdns.dnset.com
 trustwallet.dnset.com
+trustwallete.dnset.com
 tsbf.dnset.com
 tsciu.dnset.com
 tsitemrwardss.dnset.com
@@ -55921,6 +55951,7 @@ user-wells-fargo.dnset.com
 user01bonline.dnset.com
 user01bsecureonline.dnset.com
 useraccount-services.dnset.com
+usermtsession.dnset.com
 useronline-mtb-secure.dnset.com
 userprofile-secure-panel11.dnset.com
 usersonlineverificationauth.dnset.com
@@ -55947,6 +55978,7 @@ verfication03-required.dnset.com
 verfy-gncu.dnset.com
 verhaege.dnset.com
 veriaccsafe101.dnset.com
+veridiancudisput8.dnset.com
 verification-paypal.dnset.com
 verificationswells0312.dnset.com
 verificitiizens-online.dnset.com
@@ -56008,6 +56040,7 @@ verve4.dnset.com
 verver4e.dnset.com
 veuiamnsah.dnset.com
 videoservice.dnset.com
+visaeddprepaiddebit.dnset.com
 visasafe.dnset.com
 visersprepeidactive.dnset.com
 vlsa-prepaidsecure.dnset.com
@@ -56051,6 +56084,7 @@ wedding.dnset.com
 weikai.dnset.com
 welisfargo.dnset.com
 well-fargo-onlineusers.dnset.com
+wellauthserver.dnset.com
 wellfarg0.dnset.com
 wellllsssf4rgo.dnset.com
 wellonlineserver.dnset.com
@@ -56139,6 +56173,7 @@ www3llsf4rgoo.dnset.com
 www3zccitizi33ensbankonline.dnset.com
 www3zccitizi3ensbankonline.dnset.com
 www4citizensbankonline.dnset.com
+wwwonline53.dnset.com
 wwwonlineseucreportal.dnset.com
 x-itemsspin.dnset.com
 x-poseidon.dnset.com
@@ -57607,6 +57642,7 @@ banners.ebay.com
 epnt.ebay.com
 autotrack.g.ebay.com
 mobiletelemetry.ebay.com
+pulsar.ebay.com
 stats.ebay.com
 ebayadvertising.com
 ebayclassifiedsgroup.com
@@ -58265,12 +58301,7 @@ info.emoment.com
 response.emoneyadvisor.com
 tracking.emoneyadvisor.com
 ed.emp-online.com
-ww11.emperorguesthouse.com
-ww16.emperorguesthouse.com
-ww2.emperorguesthouse.com
-ww25.emperorguesthouse.com
-ww35.emperorguesthouse.com
-www.emperorguesthouse.com
+emperorguesthouse.com
 empfilx.com
 dyn.empflix.com
 ifa.empflixlive.com
@@ -58723,6 +58754,7 @@ esobuild.com
 esoeoanl.com
 esomniture.com
 ads.espaciolatino.com
+espalhaai.com
 espiondiscret.com
 espiritoequestre.com
 dcf.espn.com
@@ -59483,7 +59515,6 @@ kvfumh.fairwaystyles.com
 fairypays.com
 fairysag.com
 fairysearch.com
-faishonara.com
 faithaiy.com
 faithbrown.com
 faithfulfacultativeladder.com
@@ -63257,7 +63288,7 @@ ads.google.com
 alt364731905043.adservice.google.com
 captive.adservice.google.com
 ampcid.google.com
-region1.analytics.google.com
+analytics.google.com
 contributor.google.com
 dns.google.com
 fcmatch.google.com
@@ -63646,9 +63677,7 @@ greatarcadehits.com
 education.greatbatch.com
 greatbundle.com
 marketing.greatcall.com
-ww11.greatcanadianmale.com
-ww25.greatcanadianmale.com
-ww38.greatcanadianmale.com
+greatcanadianmale.com
 greatcpm.com
 greatdebtconsolidationpro.com
 greatdexchange.com
@@ -65406,6 +65435,7 @@ ads.hogtied.com
 hoguchiphe.com
 hogyp.com
 hohosearch.com
+hohupa.com
 hoianbeachresort.com
 hoidenbinate.com
 cv.hoikushi-bosyu.com
@@ -69259,6 +69289,7 @@ jwmarriottorlando.com
 jwmstats.com
 v.jwpcdn.com
 info.jwpepper.com
+entitlements.jwplayer.com
 jwpltx.com
 g.jwpsrv.com
 jwt8e5vzc1.com
@@ -77639,6 +77670,7 @@ mktoresp.com
 396-kom-684.mktoweb.com
 396-nwb-941.mktoweb.com
 396-omj-820.mktoweb.com
+396-oqg-949.mktoweb.com
 396-ppv-146.mktoweb.com
 397-oqc-482.mktoweb.com
 397-ptp-191.mktoweb.com
@@ -77835,6 +77867,7 @@ mktoresp.com
 437-cfk-530.mktoweb.com
 437-eqm-665.mktoweb.com
 437-iim-894.mktoweb.com
+437-klf-380.mktoweb.com
 437-pzc-084.mktoweb.com
 438-kyk-786.mktoweb.com
 438-lao-187.mktoweb.com
@@ -81962,6 +81995,7 @@ takechargeamerica.mktoweb.com
 takipi.mktoweb.com
 talend-ssl.mktoweb.com
 talkdesk.mktoweb.com
+taskstream.mktoweb.com
 taulia2.mktoweb.com
 tbi.mktoweb.com
 tcsmktgsandbox.mktoweb.com
@@ -83090,6 +83124,7 @@ mobileads.msn.com
 mobileleads.msn.com
 analytics.msnbc.msn.com
 c.no.msn.com
+otf.msn.com
 popup.msn.com
 preview.msn.com
 r.msn.com
@@ -83907,7 +83942,7 @@ nakedcraig.com
 nakedfulfilhairy.com
 nakedglamsexpertise.com
 nakedreel.com
-ww25.nakenpart.com
+nakenpart.com
 nakharinitwebhosting.com
 nakirfettle.com
 nalapop.com
@@ -91781,6 +91816,7 @@ pinterert.com
 ads.pinterest.com
 ads-dev.pinterest.com
 analytics.pinterest.com
+ct.pinterest.com
 log.pinterest.com
 trk.pinterest.com
 trk2.pinterest.com
@@ -94801,6 +94837,7 @@ noah.reddion.com
 ads.reddit.com
 test.alb.reddit.com
 www.alb.reddit.com
+e.reddit.com
 events.reddit.com
 pixel.reddit.com
 events.redditmedia.com
@@ -101159,7 +101196,7 @@ web.sidsavage.com
 sielsmaats.com
 cookies.siemens-advanta.com
 cookies.siemens-energy.com
-ww25.siemens-homeappliance.com
+siemens-homeappliance.com
 app.response.siemens-info.com
 cookies.siemens.com
 strack.sw.siemens.com
@@ -103666,6 +103703,7 @@ statdynamic.com
 statecollegefarmers.com
 ddc.statefarm.com
 smetrics.statefarm.com
+statefarmus.com
 statementsorb.com
 statementsweater.com
 statesmancontinuedeacon.com
@@ -112834,7 +112872,7 @@ ww1.www-avon.com
 ww25.www-avon.com
 www.www-avon.com
 www-banorte.com
-www-gayromeo.com
+www.www-gayromeo.com
 www-gemini.com
 www-mvetherwallet.com
 www-myethervvallet.com
@@ -113749,9 +113787,7 @@ cc.xiaodapei.com
 xiaodongjun.com
 xiaodongrui.com
 admin-ssp.ad.xiaomi.com
-matrix.api.ad.xiaomi.com
-new.api.ad.xiaomi.com
-ssp.api.ad.xiaomi.com
+api.ad.xiaomi.com
 matrix.avatar.ad.xiaomi.com
 benteng.ad.xiaomi.com
 branding.ad.xiaomi.com
@@ -114904,10 +114940,6 @@ ad.yemeksepeti.com
 simg.yemeksepeti.com
 rek.yemlee.com
 yemonisoni.com
-dev.yempee.com
-test.yempee.com
-ww25.yempee.com
-www.yempee.com
 yempid.com
 yengo.com
 yenlm.com
@@ -116923,6 +116955,7 @@ anzeigenlieferant.de
 im.aol.de
 architektur-und-mehr.de
 arcor-partner.de
+image.ard.de
 hauhws.asgoodasnew.de
 tracking.asialadies.de
 asnetworks.de
@@ -123474,7 +123507,7 @@ jinseikenko.info
 jinsoku.info
 dc-a89f1a01fabd.jitely.info
 ww25.hostmaster.hostmaster.jitely.info
-mvideo.jitely.info
+ww16.mvideo.jitely.info
 ww1.jitely.info
 ww16.jitely.info
 ww25.jitely.info
@@ -124405,6 +124438,7 @@ spywarepc.info
 spywaresite.info
 ssmatomeantenna.info
 stafa.info
+ww17.stafabanddl.info
 ww38.stafabanddl.info
 startbeestlife.info
 statcounters.info
@@ -124596,29 +124630,13 @@ tt128.info
 ttpsdk.info
 pc.tunnel-vision.info
 tuntu.info
-turcambrils.info
+www.turcambrils.info
 turfwars.info
 turkishairines.info
 tut0r1allsvu.info
 tutvse.info
 tv168.info
-barracuda.tvorbita.info
-m.tvorbita.info
-mail6.tvorbita.info
-mailin.tvorbita.info
-mailserver.tvorbita.info
-mx1.tvorbita.info
-mx2.tvorbita.info
-outmail.tvorbita.info
-poczta.tvorbita.info
-pop.tvorbita.info
-postmaster.tvorbita.info
-root.tvorbita.info
-secure.tvorbita.info
-srv.tvorbita.info
-ww16.tvorbita.info
-ww25.tvorbita.info
-www.tvorbita.info
+tvorbita.info
 tvporinternet.info
 tw-drupal.info
 twentyone.info
@@ -129975,7 +129993,7 @@ pzd.rakuten.co.jp
 api.ranking.rakuten.co.jp
 shopapi.ranking.rakuten.co.jp
 rat.rakuten.co.jp
-anz.rd.rakuten.co.jp
+rd.rakuten.co.jp
 count.upc.rakuten.co.jp
 ebis.randstad.co.jp
 adebis.real-style.co.jp
@@ -133594,6 +133612,7 @@ adsupplyads.net
 adsyst.net
 cdn.adt357.net
 cdn.adt511.net
+cdn.adt523.net
 adt545.net
 cdn.adt567.net
 adtegrity.net
@@ -148676,6 +148695,7 @@ ae.nflximg.net
 www.nfscars.net
 ogilvy.ngadcenter.net
 cdn-rum.ngenix.net
+tms-st.cdn.ngenix.net
 ngmco.net
 nhacaisodo.net
 ads.nhadatmoi.net
@@ -152575,7 +152595,6 @@ antifilter.org
 anvar.org
 anyouseeme.org
 ww1.aoe2hd.org
-ww11.aoe2hd.org
 www.aoe2hd.org
 om.aopa.org
 api-246.org
@@ -159653,34 +159672,7 @@ rcounter.rambler.ru
 redsquare.rambler.ru
 scnt.rambler.ru
 scounter.rambler.ru
-100profile.ssp.rambler.ru
-110profile.ssp.rambler.ru
-58profile.ssp.rambler.ru
-adblock.ssp.rambler.ru
-adblock-docs.ssp.rambler.ru
-click.ssp.rambler.ru
-click01.ssp.rambler.ru
-click02.ssp.rambler.ru
-img.ssp.rambler.ru
-img01.ssp.rambler.ru
-img02.ssp.rambler.ru
-img2.ssp.rambler.ru
-itp.ssp.rambler.ru
-lk.ssp.rambler.ru
-mg02.ssp.rambler.ru
-mobile.ssp.rambler.ru
-profile.ssp.rambler.ru
-profiule.ssp.rambler.ru
-rofile.ssp.rambler.ru
-rtb.ssp.rambler.ru
-stun.ssp.rambler.ru
-thumbs.ssp.rambler.ru
-thumbs01.ssp.rambler.ru
-video.ssp.rambler.ru
-www.ssp.rambler.ru
-zvedzda.ssp.rambler.ru
-zvesda.ssp.rambler.ru
-zvezda.ssp.rambler.ru
+ssp.rambler.ru
 sync.rambler.ru
 top100.rambler.ru
 top100-images.rambler.ru
@@ -162295,6 +162287,7 @@ adca.st
 5u9l.adj.st
 5w4t.adj.st
 5wwx.adj.st
+5x2m.adj.st
 5y2z.adj.st
 5yd3.adj.st
 5z4s.adj.st
@@ -165291,7 +165284,9 @@ stressthem.to
 thefreshstuffs.to
 ad.top50.to
 tracking.to
+cooleefbaldw.uk.to
 musicmaargarit63.uk.to
+roseemariepatterson.uk.to
 advert.uloz.to
 updateplayer.to
 groups.us.to
