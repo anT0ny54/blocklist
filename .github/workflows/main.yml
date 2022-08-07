@@ -20,14 +20,11 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-
       - name: Setup Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3
 
       - name: Build blocklist
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - run: |
           chmod +x ./whitelist-aggregator.sh
           ./whitelist-aggregator.sh -o whitelist.txt
