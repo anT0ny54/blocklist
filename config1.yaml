@@ -19,11 +19,7 @@ block_lists:
   -
     url: https://block.energized.pro/bluGo/formats/domains.txt
   -
-    url: https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt
-  -
     url: https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
-  -
-    url: https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
   -
     url: https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
   -
@@ -134,6 +130,8 @@ block_lists:
     url: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
   -
     url: https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+  -
+    url: https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/custom_blacklist.txt
 
 # list of domains to remove from the lists
 allow:
