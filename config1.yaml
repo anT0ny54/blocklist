@@ -49,8 +49,6 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/domainsonly
   -
-    url: https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
-  -
     url: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
   -
     url: https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
