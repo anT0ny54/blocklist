@@ -59,15 +59,15 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
   -
-    url: https://raw.githubusercontent.com/cbuijs/ut1/master/proxy/domains
-  -
-    url: https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
-  -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
   -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/doh/domains
   -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/malware/domains
+  -
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/proxy/domains
+  -
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
   -
     url: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
   -
@@ -109,6 +109,8 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
   -
+    url: https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/custom_blacklist.txt
+  -
     url: https://rescure.me/rescure_domain_blacklist.txt
   -
     url: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
@@ -130,8 +132,6 @@ block_lists:
     url: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
   -
     url: https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-  -
-    url: https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/custom_blacklist.txt
 
 # list of domains to remove from the lists
 allow:
