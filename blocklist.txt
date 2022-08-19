@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 367409
+# Ignored duplicates: 367408
 
 marketing.globalpointofcare.abbott
 smetrics.abbott
@@ -142,7 +142,6 @@ msg.71.am
 ads.adnet.am
 cache.am
 circle.am
-myetherwallet.com.am
 tds-banner.do.am
 govazd.am
 tru.am
@@ -156,7 +155,6 @@ bhaagya.app
 bigboi.app
 stats.bitpost.app
 privacy.blade.app
-boredapeyachtclub.app
 stats.breathly.app
 link.alerts.busuu.app
 link.announce.busuu.app
@@ -1297,7 +1295,6 @@ bestbreadmachine.biz
 bestnews.biz
 betcdn.biz
 bigdate.biz
-biockchain.biz
 e62ndy5gz80q.bitdomain.biz
 f0tiojboxnc1.bitdomain.biz
 blackname.biz
@@ -1402,7 +1399,6 @@ highlevel.biz
 hihumi.biz
 homenick.biz
 huge-cocks.biz
-hydrominer.biz
 hyipbrowser.biz
 icdecidents.biz
 igaming.biz
@@ -1782,7 +1778,6 @@ adserver-2.ig.com.br
 adserver-4.ig.com.br
 adserver-5.ig.com.br
 pxbnou.ig.com.br
-iluminatto.com.br
 imperiodasespumas.com.br
 elqtrk.intel.com.br
 www91.intel.com.br
@@ -1981,7 +1976,6 @@ pudalz.gismeteo.by
 gruzof.by
 www.infra.by
 karer.by
-ledgerwallet.by
 ad.onliner.by
 omn.rockwool.by
 seed.by
@@ -2375,7 +2369,6 @@ athirstinwind.cam
 avickhoseman.cam
 awigglespouter.cam
 banesnorttat.cam
-bittrex.cam
 cabbingpolynya.cam
 caribedtucana.cam
 checkmy.cam
@@ -2493,7 +2486,6 @@ styeoursmack.casa
 uglycotsjade.casa
 waitmetrodeuce.casa
 waredscots.casa
-bittrex.cash
 exodus.cash
 azartplay.casino
 vn88.casino
@@ -2541,14 +2533,12 @@ adop.cc
 ads.cc
 adtag.cc
 aifaka.cc
-airswap.cc
 aiwen.cc
 anews.cc
 appfile.cc
 baiyuandian.cc
 baizhu.cc
 bizxmr.cc
-bluzelle.cc
 buo.cc
 bxgz.cc
 cctg.cc
@@ -2643,7 +2633,6 @@ dgp.cc
 pop.dojo.cc
 stats.dreamsub.cc
 dy-home.cc
-envion.cc
 ertdsi.cc
 ww7.extratorrnt.cc
 fdfgf.cc
@@ -2690,7 +2679,6 @@ k8dl08.cc
 k99.cc
 pixel.kknews.cc
 knkyeterla.cc
-kodakone.cc
 kuajingtao.cc
 pdk.lcn.cc
 mediabridge.cc
@@ -2700,7 +2688,6 @@ minero.cc
 l.miyachan.cc
 mobiletop.cc
 stat.mydaddy.cc
-myetherwallet.cc
 n258.cc
 l.namjai.cc
 netflame.cc
@@ -2748,7 +2735,6 @@ bentent.steampiay.cc
 centent.steampiay.cc
 centent.steanplay.cc
 centent.stemplay.cc
-stormtoken.cc
 centent.streanplay.cc
 cintent.streanplay.cc
 stresser.cc
@@ -2759,7 +2745,6 @@ taiiwinclub.cc
 teaser.cc
 cv.tenjin.cc
 tesla-x2.cc
-tgram.cc
 thinkcode.cc
 ads.topsex.cc
 tracepath.cc
@@ -2865,7 +2850,6 @@ cloudir.cf
 cloudirs.cf
 cmfgen.cf
 coinpirate.cf
-bittrex.com11648724328774.cf
 consulta-activacion-de-avance-cl.cf
 cupo-avance-credito-en-linea-cl.cf
 cupo-avance-online-cl.cf
@@ -2902,7 +2886,6 @@ hostas8.cf
 hostprotokolssn.cf
 hostprotokolssntor.cf
 hugeincome.cf
-iconexus.cf
 incremento-avance-en-tarjeta-cl.cf
 ingreso-cupo-de-tarjeta-cl.cf
 ingreso-para-avance-cl.cf
@@ -3283,7 +3266,6 @@ ads.avct.cloud
 log.codemarketing.cloud
 codez.cloud
 connectif.cloud
-daddi.cloud
 spyoff.dislo.cloud
 advertising-cdn.dpgmedia.cloud
 dyjcydn.cloud
@@ -3327,7 +3309,6 @@ crane.trescolori.cloud
 stats.urlaubsverwaltung.cloud
 valuad.cloud
 pages.vuzion.cloud
-wanchain.cloud
 web-security.cloud
 xianka.cloud
 yurosikua.cloud
@@ -3903,7 +3884,6 @@ zzxxli.club
 statsncount.bz.cm
 doga.cm
 download.cm
-myetherwallet.cm
 analytics.send.cm
 en.001phone.cn
 00xvppy.cn
@@ -6851,7 +6831,6 @@ track.aptitudemedia.co
 arabicdessert.co
 areyouahuman.co
 arrkii.co
-artoken.co
 koi.artsvp.co
 stats.atrl.co
 swallow.axiom.co
@@ -6883,9 +6862,7 @@ pony.bylt.co
 cannoninstrument.co
 cardgen.co
 casamuseoayerbe.co
-cashaa.co
 ebd.cda-hd.co
-bepartof.change-bank.co
 chiangmaihotels.co
 chiptionics.co
 email.chope.co
@@ -6912,7 +6889,6 @@ smetrics.familiaynutricion.com.co
 integragroup.com.co
 cookies.jll.com.co
 smetrics.los40.com.co
-myetherwallet.com.co
 smetrics.nexgard.com.co
 dzrefa.panamericana.com.co
 nnofmj.studiof.com.co
@@ -7087,11 +7063,9 @@ tracking.unisabana.edu.co
 ehinkitwkuo.co
 app-config.enhance.co
 data-location.enhance.co
-envion.co
 eputfeable.co
 erne.co
 securetags.esri.co
-eventchain.co
 blackbird.everythinginmoderation.co
 cdn-channels-pixel.ex.co
 prd-collector-anon.ex.co
@@ -7161,7 +7135,6 @@ hconsukulti.co
 marketing.healthcasts.co
 hedmisrepu.co
 a.hellonext.co
-herotoken.co
 go.heybianca.co
 munnin.hicsuntdra.co
 highwaystech.co
@@ -7183,7 +7156,6 @@ s.inspectelement.co
 instantfox.co
 intellimize.co
 intravert.co
-iost.co
 app.ipapi.co
 status.ipapi.co
 ww.ipapi.co
@@ -7210,7 +7182,6 @@ keywee.co
 ad.kissanime.co
 klub046.co
 euclid.kuula.co
-tokensale.kyber-network.co
 ladnet.co
 rum.ingress.layer0.co
 rum.layer0.co
@@ -7220,7 +7191,6 @@ invite.leanlab.co
 track.leanlab.co
 lemnisk.co
 lightminer.co
-linknetwork.co
 trck.linkster.co
 vox-static.liverail.co
 track.lobi.co
@@ -7254,7 +7224,6 @@ track.mobird.co
 ad2.mobring.co
 ads.mobring.co
 monditomasks.co
-monetha.co
 monetiza.co
 moneyfree.co
 wtm.monitoringservice.co
@@ -7265,7 +7234,6 @@ aka.ms-ads.co
 c.mtro.co
 mycdn.co
 mycdn2.co
-myetherwallet.co
 openx.vps48615.mylogin.co
 myorange.co
 albatross.mypromo.co
@@ -7290,7 +7258,6 @@ ad.ohmyad.co
 elk.okcrowd.co
 i.oksg.co
 oldschool-runescape.co
-omegaone.co
 omkt.co
 apicosdk.onemt.co
 apicssdk.onemt.co
@@ -7308,7 +7275,6 @@ api-h.outgrow.co
 api-live.outgrow.co
 api-n.outgrow.co
 oxneww.co
-myetherwallet-forkprep.pagedemo.co
 partoukfar.co
 pbbl.co
 pcrl.co
@@ -7369,7 +7335,6 @@ sa.scorpion.co
 track.searchiq.co
 seizefile.co
 sele.co
-selfkey.co
 servertrack.co
 shahidmosalsalat.co
 shoppanda.co
@@ -7377,7 +7342,6 @@ shortyz.co
 sift.co
 silverpush.co
 simpletraffic.co
-sirinlabs.co
 slimdownload.co
 smartconvert.co
 smartology.co
@@ -7388,7 +7352,6 @@ smitionsory.co
 smrturl.co
 snackly.co
 snapchathack.co
-soam.co
 socialtrack.co
 solegingly.co
 2.speedknow.co
@@ -7409,7 +7372,6 @@ tagon.co
 tagtoo.co
 tctm.co
 teemo.co
-tenxwallet.co
 tglyr.co
 thabet88.co
 thadinnoo.co
@@ -7425,7 +7387,6 @@ go.tracksz.co
 traffic-media.co
 trampam.co
 trigr.co
-tronlab.co
 truedata.co
 turboeagle.co
 tvshare.co
@@ -7459,8 +7420,6 @@ videocampaign.co
 tr.vitals.co
 vivachina.co
 links.official.vsco.co
-wabicoin.co
-wanchain.co
 watchmovieshd.co
 wdfl.co
 webadv.co
@@ -33962,7 +33921,6 @@ aa.0755rc.com
 0tracker.com
 0w1rqq69fi0e.com
 0x01n2ptpuz3.com
-0xtoken.com
 0xxd.com
 1-1ads.com
 1-cl0ud.com
@@ -39366,9 +39324,7 @@ aino2.com
 code.ainsyndication.com
 aintdoinshit.com
 aintere.com
-aionfoundation.com
 atiws.aipai.com
-air-token.com
 air2s.com
 airairgu.com
 pix.airbusgroup.com
@@ -43743,7 +43699,6 @@ bimsld.com
 t.bimvid.com
 bin40.com
 binalbamp.com
-binancc.com
 binance-2.com
 binance-gives.com
 binance-trade.com
@@ -43751,7 +43706,6 @@ binance2.com
 binancebonus.com
 binancedeals.com
 binancetop.com
-binancie.com
 binaryad.com
 binarybizz.com
 binaryoptionsgame.com
@@ -43856,8 +43810,6 @@ go.bitnami.com
 bitonclick.com
 a.bitporno.com
 cod.bitrec.com
-bitsdigit.com
-bitspark2.com
 bitstarz.com
 bittads.com
 bitterbear.com
@@ -44053,7 +44005,6 @@ smetrics.blockbuster.com
 blockchain-ads.com
 blockingdarlingshrivel.com
 stats.blockleviton.com
-blocknux.com
 blockscoolest.com
 blockskipad.com
 blockthrough.com
@@ -45294,7 +45245,6 @@ byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 byvue.com
 byxon.com
 byyanmaor.com
-myetherwallet.com.byzantiumfork.com
 smetrics.bzees.com
 bzhualin.com
 bzlwe.com
@@ -46227,7 +46177,6 @@ llkdiu.chacos.com
 chaesfinance.com
 chafferimpex.com
 chain-reaction-pro.com
-chainlinksmartcontract.com
 gdsngr.chainreactioncycles.com
 chainwalladsy.com
 chairgaubsy.com
@@ -46787,7 +46736,6 @@ ckwlurries.com
 cl0udh0st1ng.com
 clacson24.com
 claiks.com
-claimether.com
 clamcelery.com
 clammytree.com
 clamskeined.com
@@ -47293,7 +47241,6 @@ rabble-res.cloudinary.com
 cloudiq.com
 cloudlogobox.com
 my.cloudme.com
-cloudpetstore.com
 cloudpsvn.com
 cloudsdestruction.com
 sedigital.cloudseidor.com
@@ -47577,7 +47524,6 @@ track.coherentpath.com
 coherepeasant.com
 cohesionapps.com
 coin-ad.com
-coin-dash.com
 coin-have.com
 coin-hive.com
 coin-service.com
@@ -47601,7 +47547,6 @@ coinminingonline.com
 coinnebula.com
 coinomac.com
 limpet.coinponent.com
-coinrbase.com
 coins45.com
 coinshunt.com
 coinspokemongo.com
@@ -48128,7 +48073,6 @@ comunicazio.com
 tracker.comunidadmarriott.com
 comvng.com
 comwgi.com
-bittrex.comze.com
 smetrics.concardis.com
 concealedtripssurgical.com
 conceiveintentlybookie.com
@@ -49130,7 +49074,6 @@ cryptobara.com
 cryptofollow.com
 cryptoforextrading56.com
 cryptoforhealth.com
-cryptokitties.com
 cname01.cryptolootminer.com
 cname03.cryptolootminer.com
 cname04.cryptolootminer.com
@@ -49670,7 +49613,6 @@ dagasaka.com
 dagfart.com
 dagnar.com
 dahanedu.com
-dai-stablecoin.com
 daichoho.com
 daildaily.com
 dailybet365vn.com
@@ -49803,7 +49745,6 @@ dashrom.com
 dasperdolus.com
 data-capital.com
 data-data-vac.com
-data-token.com
 tracker.data-vp.com
 data8a8altrk.com
 databerries.com
@@ -56578,7 +56519,6 @@ marketing.enhancedvision.com
 enheir.com
 enhencer.com
 eniedu.com
-enigmatoken.com
 eningspon.com
 adsrv.ads.eniro.com
 pixel-profile-cloud.eniro.com
@@ -56928,20 +56868,13 @@ etg98.com
 eth-pocket.com
 ethaiinfo.com
 ethairdrops.com
-ether-api.com
-etherdelta-glthub.com
-etheream.com
 ethereum-2.com
 ethereum-cashcard.com
-ethereum-code.com
-ethereum-org.com
 ethereum-pocket.com
 ethereumads.com
-ethereumchamber.com
 kta.etherscan.com
 mct.etherscan.com
 nasi.etherscan.com
-ethewallet.com
 ethfw0370q.com
 ethgift.com
 eloqua.ethicalcorp.com
@@ -60778,7 +60711,6 @@ goldsiver.com
 goldspotmedia.com
 goldstats.com
 goldvertise.com
-golem-network.com
 plausible.golfbreaks.com
 golfdebegard.com
 stats2.golfdigest.com
@@ -61168,7 +61100,6 @@ graizoah.com
 gnar.grammarly.com
 treatment.grammarly.com
 gramombird.com
-grampreico.com
 ads.granadamedia.com
 grand-ads.com
 evkjai.grandado.com
@@ -62414,7 +62345,6 @@ aurora-d3.herokuapp.com
 bundle-geoip.herokuapp.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
-cryptoalliance.herokuapp.com
 evening-badlands-6215.herokuapp.com
 fftf-host-counter.herokuapp.com
 filament-stats.herokuapp.com
@@ -66862,7 +66792,6 @@ kipasdenim.com
 kipyn.com
 marcom.kirbyrisk.com
 kirgeemo.com
-kirkik.com
 metric.kirklands.com
 metrics.kirklands.com
 xqtcur.kirklands.com
@@ -66882,7 +66811,6 @@ kitopr.com
 kitrigthy.com
 sp.kitsapsun.com
 kittyaction.com
-kittystat.com
 kityamurlika.com
 kivitie.com
 a8cv.jp-shop.kiwabi.com
@@ -68221,7 +68149,6 @@ linksecurecd.com
 linkshare.com
 linkshighway.com
 linksmart.com
-linksmartcontract.com
 ferret.linksoftwarellc.com
 linkstorms.com
 linkswaper.com
@@ -69518,7 +69445,6 @@ madspmz.com
 madvapors.com
 madvertise.com
 maebtjn.com
-maetherwallet.com
 mva1.maeva.com
 stats.maferland.com
 marketing.mafiahairdresser.com
@@ -69881,7 +69807,6 @@ bmi.marketing-bmiimaging.com
 device.marketingcloudapis.com
 marketingenhanced.com
 marketingg2.com
-marketingleads4u.com
 lp.demo3.marketingpoc.com
 marketizator.com
 marketleverage.com
@@ -70606,13 +70531,11 @@ urs.metacritic.com
 metaffiliation.com
 metalanddesign.com
 metalboxer.com
-metallpay.com
 analytics.metalocator.com
 cdn.metalocator.com
 code.metalocator.com
 marketing.metaltanks.com
 metalyzer.com
-metamask.com
 metamx.com
 metanetwork.com
 metaphysical-tools.com
@@ -70625,7 +70548,6 @@ engagefront.meteomedia.com
 meteorclashbailey.com
 meteorsolutions.com
 werbung.meteoxpress.com
-metherwallet.com
 methidpossum.com
 methodcash.com
 methoxyunpaled.com
@@ -80003,7 +79925,6 @@ smetrics.mycontrolcard.com
 www.mycpvlife.com
 ads.mycricket.com
 mycricketvedio.com
-myctherwallet.com
 mycuentadehomedepot.com
 connect.mycwt.com
 mycycletrainer.com
@@ -80024,39 +79945,10 @@ mydomainbest.com
 mydownstore.com
 mydownzone.com
 site.connect.mydrreddys.com
-myeatherwallet.com
-myeherwallet.com
-myehterwallet.com
-myeitherwallet.com
-myelherwallel.com
 myeloma-info.com
-myerherwallet.com
 myerizon.com
 myesaytv.com
-myetcwallet.com
-myetehrwallet.com
-myetharwallet.com
-myethcrwallet.com
-myetherawllet.com
-myethereallet.com
-myetherswallet.com
-myethervallet.com
-myethervvallet.com
-myetherwaiiet.com
-myetherwaillet.com
-myetherwalet.com
-myetherwaliet.com
-myetherwaller.com
-myetherwallets.com
-myetherwallett.com
-myetherwalliet.com
-myetherwalllet.com
-myetherwallt.com
-myetherwallte.com
-myetherwatlet.com
-myetherwllet.com
 myetherzero.com
-myethrewallet.com
 myevecondo.com
 myexnude.com
 myezads.com
@@ -80786,7 +80678,6 @@ netglog.com
 ad.netgoo.com
 netgravity.com
 netgreatlyavailable.com
-netherum.com
 nethousesprices.com
 netincap.com
 sdc.netiq.com
@@ -81741,7 +81632,6 @@ nubsnobwebcam.com
 nucahu.com
 nuclear3.com
 nuclearads.com
-nucleusico.com
 nuconomy.com
 ads.nudereviews.com
 click.nudevista.com
@@ -81843,7 +81733,6 @@ nyctrl32.com
 activate.nydailynews.com
 adserver.nydailynews.com
 nydql.com
-nyeihitervvallet.com
 nyetm2mkch.com
 track.msadcenter.nyfg.com
 nyhat.com
@@ -82235,7 +82124,6 @@ ablink.book.omio.com
 ablink.email.omio.com
 ablink.news.omio.com
 ablink.referral.omio.com
-omisegotoken.com
 mdws.omista.com
 omitbailey.com
 omitneitherrover.com
@@ -88632,7 +88520,6 @@ s.powerfulcleaner.com
 up1.powerfulcleaner.com
 powerfulhacks.com
 powerfulrobin.com
-powerledger.com
 powerlinks.com
 powermax-hipac.com
 powermelting.com
@@ -89736,7 +89623,6 @@ qkkjd.com
 qkptx.com
 qksrv.com
 qling.com
-qlink-ico.com
 qlitics.com
 somni.qlmortgageservices.com
 qlnomb.com
@@ -90382,7 +90268,6 @@ marketing.rdoequipment.com
 rdraws.com
 rdrceting.com
 rdrctgoweb.com
-myetherwallet.com.rdrgh.com
 rdrtrk.com
 rdsrv.com
 ads.rdstore.com
@@ -93623,7 +93508,6 @@ marketing.ripconciv.com
 secure.ripe8book.com
 www.ripe8book.com
 ripeabacktuition.com
-ico.ripiocredits.com
 ads.ripoffreport.com
 ripplead.com
 riqosf.com
@@ -93717,7 +93601,6 @@ rnldustal.com
 rnnuw.com
 rnotraff.com
 rnwbrm.com
-rnyetherwallet.com
 ro-casinogames.com
 metric-android-am.road404.com
 metrics.roadandtrack.com
@@ -94187,10 +94070,7 @@ ru-traffic.com
 4nb437eugn.ru.com
 children.ru.com
 cscccase.ru.com
-myetherwallet.ru.com
-myltherwallet.ru.com
 networkbest.ru.com
-nnyetherwallelt.ru.com
 pubg.ru.com
 shpovaw8wu.ru.com
 vcdnads.ru.com
@@ -96054,7 +95934,6 @@ shanozoje.com
 shanprint.com
 shanta-jos.com
 shanxige.com
-shapeshlft.com
 shar-m.com
 shar3yourf1le.com
 rovauy.share-now.com
@@ -97127,7 +97006,6 @@ skysporthd1.com
 tracking.skyword.com
 sl-ct5.com
 slabshookwasted.com
-slackconfirm.com
 partner.sladkemameni.com
 ads.sladur.com
 pfmram.slamjam.com
@@ -97261,7 +97139,6 @@ smartcj.com
 ads.smartclick.com
 smartclicks.com
 smartclip-services.com
-smartcontractlink.com
 smartctr.com
 tr.news.smartdeals-transavia-fr.com
 tr.welcome.smartdeals-transavia-fr.com
@@ -99138,9 +99015,7 @@ ads.storm8.com
 s8log.storm8.com
 stormcontainertag.com
 stormiq.com
-stormxtoken.com
 stormyachiever.com
-storrntoken.com
 storystack.com
 stoshoos.com
 stoveseashore.com
@@ -100641,7 +100516,6 @@ tag-manager.teladoc.com
 telaria.com
 metrics.tienda.telcel.com
 smetrics.tienda.telcel.com
-telcointoken.com
 teleam.com
 telechargementspremium.com
 telecharger1.com
@@ -100738,7 +100612,6 @@ www.tent0mown.com
 tentations-intimes.com
 tenthsfrumpy.com
 tentmess.com
-tenx-tech.com
 tequanma.com
 terabytemedia.com
 teracreative.com
@@ -103309,7 +103182,6 @@ csgosteamanalyst.uk.com
 cyclingshorts.uk.com
 pixel.geotex.uk.com
 insight.lcp.uk.com
-myetherwallet.uk.com
 marketing.rfl.uk.com
 search123.uk.com
 www.ukbanners.com
@@ -104072,7 +103944,6 @@ urtyert.com
 uruswan.com
 uryod.com
 polafu.us-appliance.com
-myetherwallet.us.com
 sgs.us.com
 us4post.com
 pool.usa-138.com
@@ -104403,8 +104274,6 @@ vnet.vacationstx.com
 www.vacationstx.com
 zimbra.vacationstx.com
 zmail.vacationstx.com
-digitaldevelopersfund.vacau.com
-karbon.vacau.com
 vaccine-coronavirus.com
 vaccineu.com
 vacwrite.com
@@ -105622,7 +105491,6 @@ w88yes.com
 wa-track.com
 wa4y.com
 waardex.com
-wabitoken.com
 wackeerd.com
 metrics.wacken.com
 wackotracko.com
@@ -105691,7 +105559,6 @@ momotaro.walkkumano.com
 cdn.walkme.com
 ec.walkme.com
 ks.walkq.com
-wallet-ethereum.com
 wallmart1.com
 wallmartgiftcard.com
 wallmatr.com
@@ -107162,7 +107029,6 @@ wwlolbs.com
 wwrpfevyca.com
 www-6pm.com
 www-banorte.com
-www-gemini.com
 www-omegle.com
 www-orkut.com
 www-path.com
@@ -107218,7 +107084,6 @@ wwwlongjiekejijishu.com
 wwwlostinporn.com
 wwwmaxgame.com
 wwwmundogaturo.com
-wwwmyetherwallet.com
 wwwmynycb.com
 wwwnewbridgebank.com
 wwwnewkerala.com
@@ -108446,34 +108311,17 @@ xn--80aa0aehiwrr.com
 xn--80ak6aa92e.com
 pkjsre.xn--9n3bn6nimh.com
 a8aspconv.xn--biglobe-kc9k.com
-xn--birex-leba.com
-xn--bitrex-k17b.com
-xn--bittrx-th8b.com
-xn--bnance-bwa.com
-xn--bttrex-w8a.com
-xn--bttrx-esay.com
 xn--c1aafnv4byb.com
-xn--cinbase-90a.com
-xn--coinbas-pya.com
-xn--coindes-jhb.com
-xn--condesk-sfb.com
 xn--discrd-zxa.com
 xn--eskikitaplarm-fbc.com
 xn--flckr-o4a.com
 xn--gmail-rta.com
 xn--googlebersetzer-4vb.com
 xn--ieksat-vuab58dmo.com
-xn--inance-hrb.com
 xn--infidle-6xa.com
 xn--mdchenspiele-gcb.com
 xn--megavido-h1a.com
-xn--myetherwallt-ce6f.com
-xn--myetherwallt-cfb.com
-xn--myetherwallt-ovb.com
-xn--myethrwallet-zwb.com
-xn--mytherwallet-2d6f.com
 xn--niasxxx-5za.com
-xn--os-g7s.com
 xn--parfmevi-95a.com
 xn--paypa-sta.com
 stat-ssl.xn--pckua2a7gp15o89zb.com
@@ -108483,7 +108331,6 @@ xn--ssyoutube-r3a.com
 xn--tlchargements-bhbb.com
 xn--trktelekom-9db.com
 xn--trtocuk-wxa.com
-xn--ttrex-ysa9423c.com
 xn--xhamstr-7xa.com
 xn--yahooenespaol-skb.com
 xn--yahooespaol-9db.com
@@ -110124,7 +109971,6 @@ zzxhx.com
 zzxjlr.com
 zzycj.com
 sa.flux.community
-icon.community
 myads.company
 wshsoft.company
 gm-it.consulting
@@ -110429,7 +110275,6 @@ partneri.motmot.cz
 partner.motoobchod.cz
 affilbox.mutumutu.cz
 affil.mydrinks.cz
-myetherwallet.cz
 js.nahnoji.cz
 mine.nahnoji.cz
 affiliate.nakladatelstvi-riva.cz
@@ -110938,7 +110783,6 @@ analytics.cnd-motionmedia.de
 k.cocooncenter.de
 stats.code-it-studio.de
 csmoney.com.de
-myetherweb.com.de
 commindo-media-ressourcen.de
 stats.computecmedia.de
 as.computerbild.de
@@ -112225,7 +112069,6 @@ fsd2.digital
 index-markets.digital
 wl-pixel.index.digital
 integr8.digital
-kyber.digital
 prawn.lionsmouth.digital
 messenger-notify.digital
 trk.nuernberger.digital
@@ -112763,7 +112606,6 @@ bitcoin-cashcard.eu
 bitcoin-pay.eu
 bitcoin-pocket.eu
 ad.bluepartner.eu
-bluzelle.eu
 sadobemarketing.boden.eu
 braze.eu
 budgetapotheek.eu
@@ -113067,7 +112909,6 @@ tr.politicomarketing.eu
 js.pornolab.eu
 ppcnt.eu
 prdele.eu
-pundix.eu
 ip1.qqww.eu
 quadran.eu
 ea.quiksilver.eu
@@ -113143,7 +112984,6 @@ fortnite.events
 gateway.optimove.events
 pzz.events
 trace.events
-curves.exchange
 sessions.exchange
 elonmusk.expert
 machan.fans
@@ -113168,8 +113008,6 @@ scout.bergfreunde.fi
 dii2.bitiba.fi
 tracking.bonava.fi
 stats.crema.fi
-curves.fi
-curwe.fi
 p2.danskebank.fi
 qzl8.destinia.fi
 sw88.disney.fi
@@ -113263,7 +113101,6 @@ stats.training.fit
 timesnow.fitness
 ad.apps.fm
 audionews.fm
-curve.fm
 feature.fm
 whitefish.kenku.fm
 aa.last.fm
@@ -113278,9 +113115,7 @@ eel.transistor.fm
 tortoise.transistor.fm
 r.z2.fm
 discord.foundation
-iconn.foundation
 stats.nonprofit.foundation
-vechain.foundation
 nafmxc.1083.fr
 a.20minutes.fr
 24log.fr
@@ -114378,7 +114213,6 @@ zlin.fun
 pmcares.fund
 rari.fund
 ads.a-snag-smartmoney.fyi
-curve.fyi
 gain-a-dentalimplantssite.fyi
 stats.glyphs.fyi
 antlion.launch.fyi
@@ -114407,7 +114241,6 @@ carlostevez.ga
 cfasync.ga
 ckssplcom.ga
 colompna-youm.ga
-bittrex.com1987465798.ga
 creativecompetitionawards.ga
 dajjuooltd.ga
 datarcha.ga
@@ -114435,7 +114268,6 @@ handuruz.ga
 hostprotokolssn.ga
 hostprotokolssntor.ga
 hotideiasnetwork.ga
-iconexus.ga
 igogos.ga
 inmailadmin.ga
 interkomarabipay.ga
@@ -114596,7 +114428,6 @@ dlfja.gdn
 msjzz.7jtalqshjo.firc.gdn
 myszz.zdebc.hico.gdn
 mousehous.gdn
-myetherwallet.gdn
 adword.ge
 revive.agenda.ge
 baudesign.ge
@@ -114747,7 +114578,6 @@ dii1.zooplus.gr
 dii2.zooplus.gr
 acceder.gratis
 nur.gratis
-aventus.group
 chiyan.group
 tr.clients.idaia.group
 kon.mediaplatform.group
@@ -115527,7 +115357,6 @@ iloug.org.il
 kids-world.org.il
 physicaplus.org.il
 shin-tech.org.il
-aragon.im
 tracker.awr.im
 count.im
 ngegas.files.im
@@ -115582,7 +115411,6 @@ adstacks.in
 adtorque.in
 adzincome.in
 adzmaza.in
-airswap.in
 digianalytics.airtel.in
 alaziz.in
 alertsecurities.in
@@ -115641,7 +115469,6 @@ earnco.in
 www.tpt.edu.in
 vaidikdentalcollege.edu.in
 securetags.esri.in
-etherscan.in
 affiliates.expaus.in
 plausible.factly.in
 fanli.in
@@ -115655,7 +115482,6 @@ fusionadvisors.in
 gccon.in
 get-me-wow.in
 ggsteal.in
-tokensale.gizer.in
 smetrics.goindigo.in
 goldoverseas.in
 googlle.in
@@ -116117,7 +115943,6 @@ bizbuildermastery.info
 bizx.info
 bkhcm.info
 bled.info
-blockcbhain.info
 blockchani.info
 blogclub.info
 blogtippek.info
@@ -116555,7 +116380,6 @@ estatus.info
 esurf.info
 etain.info
 ethanfletcher.info
-ethereum-wallet.info
 plausdj2ajskljzx0ikwkiasible.ethics.info
 etrai.info
 euro-news.info
@@ -117664,7 +117488,6 @@ my-desktop.info
 my-stats.info
 myboard.info
 mydogecoin.info
-myetherwallet.info
 myfqdn.info
 mygeoweb.info
 mygoodblog.info
@@ -118197,7 +118020,6 @@ www.simming.info
 simpliftsbefore.info
 sinaunrelean.info
 sinazucar.info
-singularitynet.info
 sinyang.info
 sirri.info
 sitedata.info
@@ -118840,7 +118662,6 @@ tr.emailing.coe.int
 public.wmo.int
 stats.centerforvalues.international
 s.0cf.io
-0xtoken.io
 1dmp.io
 1rx.io
 1rxntv.io
@@ -119044,7 +118865,6 @@ i.bigin.io
 landsnail.bindle.io
 bitads.io
 bitcoadz.io
-bitcoinsilver.io
 bitmedia.io
 bitsc.io
 bittraffic.io
@@ -119120,7 +118940,6 @@ burt.io
 buzzad.io
 cactusglobal.io
 calq.io
-sale.canay.io
 url7962.careerkarma.io
 caroda.io
 api.carrottrack.io
@@ -119312,8 +119131,6 @@ f1d3e77c28954b1a80f189c1698e38ed.apm.us-west1.gcp.cloud.es.io
 www.apm.us-west1.gcp.cloud.es.io
 escalated.io
 eshkol.io
-ethereum.io
-etherwallet.io
 ethicalads.io
 acme.ethn.io
 antispam.ethn.io
@@ -119384,8 +119201,6 @@ vps.ethn.io
 w.ethn.io
 ws.ethn.io
 www.ethn.io
-ethscan.io
-ethtrade.io
 9kkjfywjz50v.www.eventus.io
 xstats.evoload.io
 ew3.io
@@ -119447,13 +119262,10 @@ rat.gimlet.io
 giraff.io
 achicih.gitee.io
 altunminyum.github.io
-ethrdelta.github.io
 googleads.github.io
 gumetale.github.io
 jspenguin2017.github.io
-kvnuke.github.io
 morcelik.github.io
-pyro0.github.io
 siparisler.github.io
 glassboxdigital.io
 crunch.gleam.io
@@ -119760,9 +119572,7 @@ mediago.io
 mediasmart.io
 analytics.video.meredithcorp.io
 metaconex.io
-metamak.io
 metrics.io
-mettamask.io
 stats.michaell.io
 microanalytics.io
 midan.io
@@ -120024,7 +119834,6 @@ www.plausible.io
 stats.portabella.io
 api.postscript.io
 sdk.postscript.io
-powrledger.io
 tag.pprl.io
 predic.io
 presage.io
@@ -121580,7 +121389,6 @@ seoab.io
 seon.io
 ab.servogram.io
 analytics.servogram.io
-shape-shift.io
 sheilds.io
 louse.sigle.io
 simpleanalytics.io
@@ -123836,7 +123644,6 @@ sdk.starbolt.io
 stated.io
 stephenfarrell.io
 storetail.io
-stormtokens.io
 trk.storyly.io
 streambeam.io
 stats.streamhub.io
@@ -124099,7 +123906,6 @@ api-logsink-prod.zedge.io
 zentrick.io
 log.zepeto.io
 mosquito.zero.io
-ziber.io
 dii2.shpd.ext.zooplus.io
 dii2.shpp.ext.zooplus.io
 zprk.io
@@ -126110,7 +125916,6 @@ co.dewrain.life
 int.dewrain.life
 doubleprofit-now.life
 ejd3q.life
-ethereumdoubler.life
 f8ij9.life
 featurewinning.life
 foxcdn.life
@@ -126186,7 +125991,6 @@ inlive.link
 kingyonlendir.link
 krut.link
 mno.link
-myetherwallet.link
 nokaut.link
 oconner.link
 o7i9jl.of5h8n.link
@@ -126252,9 +126056,7 @@ displaynews.live
 stats.doors.live
 drizey.live
 ecgfj.live
-envion.live
 ethchain.live
-ethconnect.live
 ethpromo.live
 id.fc2-ppv.live
 www.fitnesspro.live
@@ -126275,7 +126077,6 @@ makemoneyeasy.live
 manclub.live
 wsapi.master.live
 wsapi-global.master.live
-mercuryprotocol.live
 movie-pass.live
 alpaca.myfitpro.live
 nero.live
@@ -126285,10 +126086,8 @@ overengineered.live
 playgamefa88.live
 track.pnicnik.live
 private-show.live
-privatix.live
 profitsurvey365.live
 jsc.marketgid.com.p.pstl.live
-requestnetwork.live
 rikgame.live
 samegresites.live
 seedbreakgoal.live
@@ -126296,10 +126095,8 @@ tag.search.sensefuel.live
 sentwrote.live
 track.shellshock.live
 sieukeo.live
-simpletoken.live
 skgroup.live
 sloto.live
-smartcontract.live
 support-maps.live
 track.swaptrap.live
 sxzx.live
@@ -126455,7 +126252,6 @@ asdqwe.ltd
 autumnleaf.ltd
 ayunzhizuo.ltd
 bitcointraffic.ltd
-bittrex.ltd
 caiwuwang.ltd
 changqingteng.ltd
 plausible.chmod777.ltd
@@ -126463,7 +126259,6 @@ cjy200107152004.ltd
 clouddream.ltd
 coderjim.ltd
 csjs.ltd
-dmarket.ltd
 dscloud.ltd
 eslipdd.ltd
 analytics.fabricators.ltd
@@ -126490,7 +126285,6 @@ mayuting0821.ltd
 meitaolianmeng.ltd
 mengxing.ltd
 mocc.ltd
-monetha.ltd
 moonight.ltd
 netshare.ltd
 nmyp.ltd
@@ -126672,7 +126466,6 @@ affiliazioni.me
 ahfy.me
 aidata.me
 aihu.me
-myetherwallet.com.ailogin.me
 int.akisinn.me
 ampower.me
 antennasync.me
@@ -126743,7 +126536,6 @@ e-v-e-n.me
 edrone.me
 eeps.me
 efatik.me
-enjincoin.me
 esou.me
 excited.me
 express-news.me
@@ -126787,7 +126579,6 @@ haogame.me
 happycastle.me
 ukonline.hc0.me
 hdstreaming.me
-hellobloom.me
 hentai-tube.me
 heyblink.me
 heybuddycn.me
@@ -126854,11 +126645,9 @@ midy.me
 minecraftcode.me
 tags.mli.me
 tags2.mli.me
-monetha.me
 lxj.vvn.mybluehost.me
 yfo.yag.mybluehost.me
 666.myddns.me
-myetherwallet.me
 stat.myshows.me
 nairn101.me
 networx.me
@@ -126870,7 +126659,6 @@ octonew.me
 offerjuice.me
 okaynews.me
 okdigital.me
-omise-go.me
 one88.me
 log.mediation.onebooster.me
 ahejtw.onelink.me
@@ -126895,7 +126683,6 @@ populr.me
 tontent.povwideo.me
 premium-news-for.me
 privatexmpp.me
-privatix.me
 promofor.me
 analytics.proxer.me
 publicwiki.me
@@ -127101,8 +126888,6 @@ cpseeds.ml
 darley.ml
 delightful-development.ml
 deviantartt.ml
-dfinity.ml
-dfinitydrop.ml
 download-file.ml
 dsmbil.ml
 erimbil.ml
@@ -127120,7 +126905,6 @@ googlechromeupdate.ml
 hiperdex.ml
 hostprotokolssn.ml
 hostprotokolssntor.ml
-iconmainnet.ml
 illumin8blinds.ml
 imageshack.ml
 inmailadmin.ml
@@ -127140,7 +126924,6 @@ microsoft-ml.ml
 miratechs.ml
 mjnalha.ml
 myshopify-admin-privacy.ml
-myyethwallet.ml
 nucleo.ml
 offensepayinter.ml
 onedrivemail.ml
@@ -127379,7 +127162,6 @@ track.opentable.com.mx
 smetrics.marketing.lighting.philips.com.mx
 uurykr.pizzahut.com.mx
 ads.seccionamarilla.com.mx
-security-steemit.com.mx
 sercon.com.mx
 ad.terra.com.mx
 smetrics.tiffany.com.mx
@@ -129647,7 +129429,6 @@ ads.biscom.net
 bitads.net
 ad.bitbay.net
 bitcoin-generator.net
-bitcoin-wallet.net
 bitcoinclicks.net
 bitfiles.net
 bitlib.net
@@ -141595,9 +141376,6 @@ estrack.net
 estrenodorama.net
 estudiaenlinea.net
 etcher.net
-ether-wallet.net
-ethereum-wallet.net
-etherwallet.net
 ethicalads.net
 etisalatebill.net
 ad.ettoday.net
@@ -144203,10 +143981,8 @@ myaisec.net
 rqyxdk.myanimelist.net
 mybailbonds.net
 mybestclick.net
-mycoinwallet.net
 mycomscore.net
 mydownlodablethings.net
-myetherwallet.net
 myeverydaylife.net
 mymrt.net
 mynunu.net
@@ -144925,7 +144701,6 @@ pauzajoo.net
 paxmedia.net
 smetrics.payback.net
 ads.paymonex.net
-paypie.net
 activate.pbmonthly.net
 pcdlinks.net
 pcgamez.net
@@ -146402,7 +146177,6 @@ xinmeiren.net
 xinray.net
 ads.xmov.net
 xmrpool.net
-xn--btstamp-rfb.net
 xn--hava-85a.net
 xn--index-ducation-gkb.net
 xn--jtk-ela5b.net
@@ -146597,21 +146371,14 @@ adtracker.network
 alright.network
 bibugal.network
 bitclub.network
-bluzelle.network
 capturemedia.network
 cdn7.network
-cindicator.network
 cleanbrowser.network
 conative.network
 cpaoffers.network
-dimnsions.network
 etarg.network
 hydracdn.network
-intchain.network
-kybernet.network
-kyberr.network
 lynx.lumy.network
-mobus.network
 moonicorn.network
 adblock.mydns.network
 miner-deu-1.inf.nimiq.network
@@ -146670,31 +146437,14 @@ seed-7.nimiq.network
 seed-8.nimiq.network
 seed-9.nimiq.network
 nykaa-events.nyk00-int.network
-oracls.network
 owndata.network
 panda.network
-polkodot.network
 pub.network
-raidan.network
-raidens.network
-ralden.network
-reqest.network
-requestt.network
-riaden.network
-riden.network
-ripiocerdit.network
-ripiocredlt.network
 analytics.saas-vn.network
 searchdims.network
 sitizy.network
-tokensale-kyber.network
-tomocoin.network
 trkad.network
-tronlabs.network
 newt.turtle.network
-wanchain.network
-wepowers.network
-www-request.network
 yoads.network
 1rt0n.news
 alertme.news
@@ -147303,9 +147053,7 @@ aneduker.one
 ankingwit.one
 ationpeci.one
 big88.one
-bittrex.one
 bleaborahm.one
-blockstack.one
 cantpastelli.one
 cationinina.one
 cellojapanel.one
@@ -147484,7 +147232,6 @@ educatiocenter.online
 electrumbase.online
 ervicoren.online
 esheprice.online
-etherwallet.online
 f-io.online
 facebruek.online
 famousletterss.online
@@ -147593,7 +147340,6 @@ purplepatch.online
 qqqwww987.online
 qtd95fj.online
 quickreview.online
-raiden.online
 rasuridin.online
 mysubber.redirdvi.online
 ruokareseptit.online
@@ -148162,7 +147908,6 @@ blacksuninvictus.org
 blendswap.org
 blessingyouthmission.org
 blhtrust.org
-blnance.org
 blobar.org
 blockdetector.org
 blocksly.org
@@ -148273,7 +148018,6 @@ promotions-884485.c.cdn77.org
 1686607364.rsc.cdn77.org
 cdnondemand.org
 ce7.org
-cedarlake.org
 smetrics.cedars-sinai.org
 cejam.org
 celador.org
@@ -148295,7 +148039,6 @@ smetrics.cfainstitute.org
 cfinc.org
 cgeparis.org
 chando.org
-change-bank.org
 channelinternational.org
 channelmyamar.org
 channelmyanmr.org
@@ -148391,7 +148134,6 @@ metrics.consumerreports.org
 oascentral.consumerreports.org
 smetrics.consumerreports.org
 vole.contemporaryartlibrary.org
-convexfinance.org
 yourhealth.cooperhealth.org
 coresera.org
 cornerstonerecovery.org
@@ -148469,8 +148211,6 @@ dcserv.org
 de6.org
 www.dearbornsoccer.org
 deathmap.org
-decentraiand.org
-decentralland.org
 delsolhigh.org
 deltagreens.org
 derechoepja.org
@@ -148599,7 +148339,6 @@ sm.edweek.org
 web.care.eehealth.org
 anon-stats.eff.org
 ehsonlinehighschool.org
-ehtereum.org
 eiceresources.org
 eisenhoweracademy.org
 el-tiempo.org
@@ -148645,10 +148384,6 @@ esicjharkhand.org
 espncricket.org
 estesparkwiki.org
 etete.org
-ethereum-giveaway.org
-etherexx.org
-etherswap.org
-etherwallet.org
 sitestats.ets.org
 battertr.eu.org
 free-torrents.eu.org
@@ -149081,7 +148816,6 @@ go.icann.org
 realtime.icecyber.org
 stable.icecyber.org
 icj-cji.org
-ico-telegram.org
 icun.org
 idealit.org
 ideasemu.org
@@ -149534,7 +149268,6 @@ mycigarblog.org
 mydignity.org
 myecc.org
 myelectrum.org
-myetherwallet.org
 mtcareers.myftp.org
 myhippo.org
 myloma.org
@@ -149548,7 +149281,6 @@ mypmi.org
 myshopify.org
 mytaxforms.org
 myvidster.org
-gift-token-events.mywebcommunity.org
 mywebstats.org
 myworkplace.org
 myzou.org
@@ -149582,7 +149314,6 @@ neffautomation.org
 nehra.org
 target.nejm.org
 neki.org
-myetherwallett.neocities.org
 neosante.org
 netce.org
 dns.neutopia.org
@@ -150232,7 +149963,6 @@ spacepools.org
 spamfrei.org
 sparkey.org
 spartanburgsherriff.org
-spectre-ai.org
 assets.spectrumhealthlakeland.org
 speechmachine.org
 speedtes.org
@@ -150426,7 +150156,6 @@ toasmasters.org
 toastmsters.org
 todaymag.org
 todoensobrepesoyobesidad.org
-tokenswap.org
 tommycombs.org
 stats.tomorrowacademy.org
 embed.tonews.org
@@ -150514,7 +150243,6 @@ uacportal.org
 uasb.org
 ubclss.org
 ubersugest.org
-ubiqcoin.org
 ping.ublock.org
 uceprotect.org
 elqview.uclahealth.org
@@ -150636,13 +150364,11 @@ wahealthpathfinder.org
 web.care.wakemed.org
 walgreen.org
 info.walkingclassroom.org
-wallet-ethereum.org
 wallhaven.org
 wallpapersblog.org
 walnutavenueumc.org
 wanderingnotlost.org
 waplib.org
-warchain.org
 lixir.wargers.org
 warianos.org
 warnertheater.org
@@ -151390,7 +151116,6 @@ ad.plus
 ssc.bet.plus
 link.get.discovery.plus
 link.support.discovery.plus
-ethereum.plus
 trk.fensi.plus
 moxiang.plus
 musk.plus
@@ -151453,7 +151178,6 @@ artsmalle.pro
 atmnjcinews.pro
 audriasite.pro
 aution.pro
-aventus.pro
 axdst.pro
 axdsz.pro
 axzsd.pro
@@ -151466,7 +151190,6 @@ bgtrs.pro
 asg.bhabhiporn.pro
 bigmister.pro
 c3s.bionestraff.pro
-bluzelle.pro
 bonertraffic.pro
 bonertraffic12.pro
 bonertraffic13.pro
@@ -151487,7 +151210,6 @@ chitaglipti.pro
 chykohija.pro
 chystechagre.pro
 cigrylecha.pro
-cindicator.pro
 ciwhacheho.pro
 clairiose.pro
 clcknads.pro
@@ -151512,7 +151234,6 @@ cyberlink.pro
 cyberprivacy.pro
 date4sex.pro
 dbbp1.pro
-decentraland.pro
 defcon.pro
 defutohy.pro
 dejionsite.pro
@@ -151522,7 +151243,6 @@ derler.pro
 sdg.desihamster.pro
 dewapsithi.pro
 dithesetha.pro
-dmarket.pro
 dofohuwha.pro
 domparce.pro
 a8cv.downjacket.pro
@@ -151755,9 +151475,7 @@ sapsixysho.pro
 tr.scienceshumaines.pro
 sdkengine.pro
 20193a.secure-cloud.pro
-seele-ico.pro
 semireproji.pro
-shapeshift.pro
 shillivee.pro
 shiryharu.pro
 shoptylasty.pro
@@ -151770,11 +151488,9 @@ t.smartverify.pro
 snessubsets.pro
 sotetahe.pro
 sourcecode.pro
-sparc.pro
 spdfkvk.pro
 speciadnessing.pro
 sskmnews.pro
-starbase.pro
 starewhupsu.pro
 stenadewy.pro
 stepsothohe.pro
@@ -151793,7 +151509,6 @@ tedropkinthenligh.pro
 tr.news.teklifim.pro
 televeniesuc.pro
 terttalkinhitin.pro
-the-ether.pro
 theyarehugevid.pro
 thichawheja.pro
 thinkphp.pro
@@ -151875,7 +151590,6 @@ zichymaka.pro
 zyhifata.pro
 zypanafo.pro
 zyyz.pro
-tokensale.bluzelle.promo
 eurex.ps
 gazacham.ps
 ads.shasha.ps
@@ -152070,9 +151784,6 @@ easyshot.pw
 edublog.pw
 egsa.pw
 enable.pw
-enjincoin.pw
-my.ether-wallet.pw
-etherdelta.pw
 euirterhgt.pw
 eurogov.pw
 exeinfo.pw
@@ -152226,7 +151937,6 @@ tradexskins.pw
 tvas-a.pw
 tvas-b.pw
 tvas-c.pw
-tzero.pw
 tzwaw.pw
 ucrack.pw
 ugrym.pw
@@ -153179,7 +152889,6 @@ codata.ru
 codeenter.ru
 coderoute.ru
 cofenator.ru
-coindash.ru
 colimavdar.ru
 com-y.ru
 adx.com.ru
@@ -153187,11 +152896,9 @@ bizcom.com.ru
 ad.kissanime.com.ru
 ad.kissasian.com.ru
 sw88.marvel.com.ru
-myetherwallet.com.ru
 nextclick.com.ru
 rand.com.ru
 rtb.com.ru
-slack.com.ru
 notebookservisru.161.com1.ru
 beldiplomcom.75.com1.ru
 com495.ru
@@ -154681,7 +154388,6 @@ tc.mybb.ru
 tg.mybb.ru
 mycdn4.ru
 mycpm.ru
-myetherwallet.ru
 mykaren.ru
 mykinotochka.ru
 mynewdomen.ru
@@ -155109,7 +154815,6 @@ sys.refocus.ru
 log.reformal.ru
 parking.reg.ru
 reg88.ru
-myetherwallet.com.u0387831.cp.regruhosting.ru
 wm.rehdd.ru
 rekhatov.ru
 rekl2.ru
@@ -156036,10 +155741,6 @@ engage.3m.com.sa
 marketing.alkhaleej.com.sa
 qmoyfh.xcite.com.sa
 smetrics.marketing.lighting.philips.sa
-bluzele.sale
-datum.sale
-enjincoin.sale
-universa.sale
 somni.home.saxo
 dns.sb
 adserver5.sbs
@@ -156053,7 +155754,6 @@ chainblock.science
 matomo.chande.science
 cheapdomains.science
 cnn-news-us.science
-docai.science
 stats.hey.science
 www.hostingcloud.science
 sn5wcs89.science
@@ -156323,7 +156023,6 @@ livestatsnet.services
 marketingautomation.services
 pushad.metajoy.services
 easy.mmoney.services
-myetherwallat.services
 eye.rd.services
 ripost.services
 tracking.shopgate.services
@@ -156331,7 +156030,6 @@ delivery.smashing.services
 stresser.services
 terminus.services
 towme.services
-uniswap.services
 duck.wings-dark.services
 audio.sex
 l.rated.sex
@@ -156506,7 +156204,6 @@ stats.chapterist.show
 affil.11teamsports.si
 stats.belic.si
 ads.citymagazine.si
-curve.si
 eppmedia.si
 privacydns.go6lab.si
 kos.interseek.si
@@ -156591,7 +156288,6 @@ bendibao.site
 best-binary.site
 bestperforming.site
 bin-tds.site
-bluzelle.site
 boyalebut.site
 bringstarsdownward.site
 briticatederfd.site
@@ -156656,7 +156352,6 @@ en-continue.site
 enduringlive.site
 ensinger964.site
 enterprise327.site
-envion.site
 er2fl22b1w.site
 europertsticke.site
 evaporator558.site
@@ -156720,7 +156415,6 @@ hzs1202.site
 i-main.site
 i56ad.site
 icedewear.site
-iconfoundation.site
 ifsmatbeg.site
 ihjection.site
 ilkmawgod.site
@@ -156832,7 +156526,6 @@ o2vcb5uw.site
 odmenarmi9z.site
 ohso.site
 oligar.site
-omisegonetwork.site
 online-exchange.site
 onlinelovest.site
 onlinemacraigs.site
@@ -156899,7 +156592,6 @@ smsk.site
 snapchatscorehack.site
 soltitate.site
 spacedrain.site
-spectre.site
 spongteens.site
 ssl-verified.site
 st4ck-game.site
@@ -156909,7 +156601,6 @@ st4ck-tournament.site
 st4ckgives.site
 st4ckgiveway.site
 stardomforus.site
-stormtoken.site
 straightbreak.site
 subplots341.site
 sun66387567606.site
@@ -156936,7 +156627,6 @@ trahes.site
 tranquilodobem.site
 trav4life.site
 triostagunite.site
-tronlab.site
 tubbingduo.site
 hep.tucm.site
 tudotecnologia.site
@@ -157083,7 +156773,6 @@ wblt.oui.sncf
 zum7cc.oui.sncf
 events.btw.so
 stats.cohere.so
-curve.so
 analytics.pgncs.notion.so
 stats.shoutout.so
 stats.soundbite.so
@@ -160316,7 +160005,6 @@ cardingforum.su
 cc-shop.su
 cif.su
 kapatelu.clan.su
-coindash.su
 cpro.su
 crdclub.su
 curtainshare.su
@@ -160326,7 +160014,6 @@ dfile.su
 drp.su
 dumpsbuy.su
 earnmore.su
-etherdelta.su
 ferumshop.su
 fflyy.su
 freshnews.su
@@ -160352,10 +160039,8 @@ widget.market-place.su
 mbn.su
 msrv.su
 my.su
-myethereumwallet.su
 top.myfilms.su
 neoban.su
-nimiq.su
 google.nov.su
 octavian.su
 owap.su
@@ -160369,14 +160054,12 @@ skyadvert.su
 slava.soloway.su
 sraphicshouldn.su
 stat.su
-suncontract.su
 tds77.su
 ds38.test-hf.su
 threedrive.su
 tradeleads.su
 pop.turnik.su
 twodrive.su
-tzero.su
 userclick.su
 wand.su
 wbn.su
@@ -160424,7 +160107,6 @@ ads.adecosystems.tech
 aghtag.tech
 agorahtag.tech
 ahref.tech
-air-swap.tech
 alertvirus.tech
 alsedu.tech
 analytics.appservice.tech
@@ -160440,12 +160122,8 @@ bkam.tech
 bme9usxpo.tech
 stats.cable.tech
 capturescreen.tech
-chainlink.tech
 ckiller.tech
 coinbasepro.tech
-coindash.tech
-decentraland.tech
-district0x.tech
 woodpecker.eatfresh.tech
 fast-trade.tech
 fenkang.tech
@@ -160453,7 +160131,6 @@ fsdn.tech
 futurehybrid.tech
 fyan.tech
 wh.giftd.tech
-gifto.tech
 cdn.gimbal.tech
 gracetime.tech
 hdblog.tech
@@ -160474,11 +160151,7 @@ firefly.maier.tech
 maksa988.tech
 s.mannes.tech
 msjj.tech
-myetherwallet.tech
-numerai.tech
-ocoin.tech
 offsolo-gbb.tech
-omise-go.tech
 onlyforyou.tech
 st.onlygip.tech
 paht.tech
@@ -160492,13 +160165,10 @@ pahtzh.tech
 palibs.tech
 channelwatcher.panda.tech
 paservices.tech
-paypie.tech
 picturesjpg.tech
 praght.tech
 marketing.precisiondoor.tech
 projectagora.tech
-propsproject.tech
-red-pulse.tech
 ree56vxln.tech
 revhunter.tech
 track.robee.tech
@@ -160508,18 +160178,13 @@ s.schlachter.tech
 screenpicture.tech
 servboost.tech
 track.skipper.tech
-smartlands.tech
-starbase.tech
 super-web-homes.tech
 superior-net.tech
 dsp-eu.surfy.tech
-syncfab.tech
 taoyao.tech
 technicalfault.tech
 tienu.tech
-tokensale-tenx.tech
 api.trig.tech
-tronlab.tech
 trueskincare.tech
 tsds.tech
 tthehackk.tech
@@ -160530,7 +160195,6 @@ viaqoo.tech
 videoblog.tech
 volvelle.tech
 analytics.vpplayer.tech
-wanchain.tech
 xianwei.tech
 yinan.tech
 zdwsh.tech
@@ -160572,7 +160236,6 @@ pixel.smartmedia.tj
 admob.tk
 adsfree2.tk
 aeros01.tk
-myetherwallet.applytoken.tk
 sdk.appsflyer.tk
 axoncoho.tk
 bformu12.tk
@@ -160608,7 +160271,6 @@ patita.tk
 doh.post-factum.tk
 progexer.tk
 prxii.tk
-quanstamptoken.tk
 rencontreangers.tk
 rotf.tk
 rutors.tk
@@ -160704,7 +160366,6 @@ a8cv.dotpro.tokyo
 a8.hitohana.tokyo
 ac-3.mix.tokyo
 a8.nanafu.tokyo
-telegram.tokyo
 a8cv.xn--1lqs71d2law9k8zbv08f.tokyo
 feed.aservice.tools
 heatmap.emma.tools
@@ -160905,7 +160566,6 @@ goog.emailon.top
 entmatchw.top
 entractta.top
 entsconsesi.top
-envion.top
 eotglx.top
 eovpxhvi.top
 eth-buterin.top
@@ -161545,7 +161205,6 @@ www.tdms.saglik.gov.tr
 ups-spor.org.tr
 ads.web.tr
 chochokiw205-015jw.trade
-ethconnect.trade
 revart.trade
 rtb.trade
 trafiq.trade
@@ -162207,14 +161866,12 @@ mediatraffic.com.ua
 megaban.com.ua
 brkoev.minfin.com.ua
 mycounter.com.ua
-myetherwallet.com.ua
 myinfod.com.ua
 nextclick.com.ua
 informers.openmedia.com.ua
 opinion.com.ua
 adnet.pravda.com.ua
 profiremont.com.ua
-quantstamp.com.ua
 rang.com.ua
 recreativ.com.ua
 adversting.riamedia.com.ua
@@ -163260,7 +162917,6 @@ carset.vip
 cccfw.vip
 ccfa.vip
 ccioo.vip
-centra.vip
 chenqi.vip
 cloudassistant.vip
 cloudweekly.vip
@@ -164025,13 +163681,11 @@ scuffereggnog.website
 scunderqueller.website
 accounts.secure-ua.website
 shevrinavis.website
-sirinlabs.website
 sonofgraceoffice.website
 thatyoucan.website
 the-adblocker.website
 stats.thelion.website
 tiffybetween.website
-tzero.website
 ucdn.website
 uncavefertile.website
 unhelerrevoke.website
@@ -164205,7 +163859,6 @@ films.ws
 freeserials.ws
 freestat.ws
 freestats.ws
-gladius.ws
 googlanalytics.ws
 jaxx.ws
 mediarich.ws
@@ -164216,7 +163869,6 @@ toplist.raidrush.ws
 recovery-facebook.ws
 redirect2719.ws
 sarov.ws
-sether.ws
 news.soptv.ws
 soso.ws
 sparkads.ws
@@ -165591,7 +165243,6 @@ mybblog.xyz
 mybravo.xyz
 mycloudbook.xyz
 mycmvkhghej.xyz
-myetherwallet.xyz
 myfengyi.xyz
 mykadule.xyz
 mynebo7.xyz
@@ -166458,7 +166109,6 @@ drhanneserasmus.co.za
 ebuysa.co.za
 metrics.egencia.co.za
 emaids.co.za
-etherwallet.co.za
 financialfitnessservices.co.za
 firestoppers.co.za
 greenlizard.co.za
