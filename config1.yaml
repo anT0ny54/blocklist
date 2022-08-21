@@ -119,17 +119,15 @@ block_lists:
   -
     url: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
   -
-    url: https://v.firebog.net/hosts/AdguardDNS.txt
-  -
-    url: https://v.firebog.net/hosts/Easylist.txt
-  -
-    url: https://v.firebog.net/hosts/Easyprivacy.txt
-  -
-    url: https://v.firebog.net/hosts/Prigent-Ads.txt
-  -
     url: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
   -
     url: https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+  -
+    url: https://raw.githubusercontent.com/t0ny54/core/main/blacklist.txt
+  -
+    url: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  -
+    url: https://raw.githubusercontent.com/t0ny54/blocklist/main/blocklist.txt
 
 # list of domains to remove from the lists
 allow:
