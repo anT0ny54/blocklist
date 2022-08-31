@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 368345
+# Ignored duplicates: 368544
 
 marketing.globalpointofcare.abbott
 smetrics.abbott
@@ -6394,6 +6394,7 @@ wangchuijun.cn
 wangkeduo.cn
 ads.waps.cn
 ads.wapx.cn
+afpcreative.wasu.cn
 delivery.wasu.cn
 bd.watu.cn
 wc-host.cn
@@ -34188,12 +34189,10 @@ box.19840.com
 comune.19840.com
 cs.19840.com
 direct.19840.com
-email.19840.com
 eml.19840.com
 gateway.19840.com
 gw.19840.com
 hermes.19840.com
-home.19840.com
 host.19840.com
 ipe.19840.com
 m.19840.com
@@ -34201,12 +34200,9 @@ mail01.19840.com
 mail12.19840.com
 mail6.19840.com
 mail7.19840.com
-mail8.19840.com
 mail9.19840.com
 mailapp.19840.com
-mailgate.19840.com
 mailhost.19840.com
-mailin.19840.com
 mailrelay.19840.com
 mails.19840.com
 mailserver.19840.com
@@ -34216,20 +34212,15 @@ mta1.19840.com
 mx0.19840.com
 mx01.19840.com
 mx02.19840.com
-mx1.19840.com
 mx10.19840.com
-mx20.19840.com
 mx3.19840.com
 mx4.19840.com
 mx5.19840.com
 mx7.19840.com
 mxs.19840.com
-ns1.19840.com
 out.19840.com
 outmail.19840.com
-poczta.19840.com
 pop.19840.com
-postmaster.19840.com
 relay2.19840.com
 root.19840.com
 send.19840.com
@@ -34345,6 +34336,7 @@ awogtl.1stopbedrooms.com
 2022welcome.com
 20239be1ae.com
 202ch.com
+u1.2048sj.com
 206ads.com
 206solutions.com
 20a840a14a0ef7d6.com
@@ -35103,6 +35095,7 @@ t1.612.com
 61739011039d41a.com
 6185059.com
 6198399e4910e66-ovc.com
+u1.61sou.com
 620c663bca9a4.com
 622lq.com
 623762.com
@@ -39152,7 +39145,6 @@ afriji.com
 afrikad.com
 mail.afripa.com
 webdisk.afripa.com
-ww16.afripa.com
 www.afripa.com
 afsanalytics.com
 afssdmin.com
@@ -44523,7 +44515,6 @@ bolssc.com
 secure.bolt8snap.com
 www.bolt8snap.com
 boltfiles.com
-ww16.boltikahaniya.com
 www.boltikahaniya.com
 bomar-spa.com
 bombalts.com
@@ -45455,6 +45446,9 @@ c-cf.com
 api.c-launcher.com
 receive.client.c-launcher.com
 d.c-launcher.com
+ww1.c-loverz.com
+ww17.c-loverz.com
+www.c-loverz.com
 c-o-u-n-t.com
 c-on-text.com
 adtrack.c-sharpcorner.com
@@ -46293,7 +46287,6 @@ century21pattysnell.com
 autodiscover.centuryautobodylv.com
 laravel.centuryautobodylv.com
 mail.centuryautobodylv.com
-staging.centuryautobodylv.com
 test.centuryautobodylv.com
 www.centuryautobodylv.com
 logagent-wf.centurygame.com
@@ -46605,6 +46598,7 @@ tmetrix.my.chick-fil-a.com
 chickafila.com
 adserver.chickclick.com
 mogofockerdu94.chickenkiller.com
+projecttestingforedu.chickenkiller.com
 chickensstation.com
 chicks4date.com
 chicoryapp.com
@@ -51570,6 +51564,7 @@ auth-0b-verifysecure.dnset.com
 auth-citizens2.dnset.com
 auth-online.dnset.com
 auth-secure-safe.dnset.com
+auth00053.dnset.com
 auth001.dnset.com
 auth0053.dnset.com
 auth0122.dnset.com
@@ -51587,6 +51582,7 @@ authsafe-security.dnset.com
 authsecure03-chaseredirect.dnset.com
 authsecured02-info0.dnset.com
 authy.dnset.com
+auto00.dnset.com
 autofollowerstiktok.dnset.com
 autwels-fargo03seonnline.dnset.com
 avalanche1.dnset.com
@@ -52347,6 +52343,8 @@ form-staticweb-review-online-uspservice.dnset.com
 form-staticweb-review-online-uspsostal-usps.dnset.com
 form-staticweb-review-online-uspspostal.dnset.com
 form-sticweb-review-online-carrier-review-postal.dnset.com
+form-sweb-review-online-official-epostal-mail-view.dnset.com
+form-sweb-review-online-official-postal-mail-eview.dnset.com
 form-sweb-review-online-official-postal-mail-view.dnset.com
 form-sweb-review-online-postal-mail-carrier-review.dnset.com
 form-usermail-official-review-carrier-delay.dnset.com
@@ -52708,6 +52706,7 @@ lamiel.dnset.com
 landbank-account.dnset.com
 landbank-iaccess.dnset.com
 landbank-lbpiaccess.dnset.com
+landbankph-iaccess.dnset.com
 lanet.dnset.com
 langlang.dnset.com
 larensmcskin19rewds.dnset.com
@@ -53804,6 +53803,7 @@ savecars.dnset.com
 sbugfrost16.dnset.com
 sc0072bsecurechas.dnset.com
 schein93.dnset.com
+scs.dnset.com
 scu-member.dnset.com
 scure03-onlinechas3.dnset.com
 scurechas3-verify.dnset.com
@@ -54725,6 +54725,7 @@ wurmloch.dnset.com
 wvww.dnset.com
 ww3llsf4rgoo.dnset.com
 wwrewads18items.dnset.com
+www-nexi-key.dnset.com
 www03-citizenbanonline.dnset.com
 www03-citizensbnak.dnset.com
 www3citizensonline.dnset.com
@@ -55501,6 +55502,7 @@ ducmissy.com
 ductrealistic.com
 ducubchooa.com
 dudslubesviol.com
+a.duduji.com
 duellosheliced.com
 duetads.com
 dufibepe.com
@@ -59378,7 +59380,6 @@ ftravelocity.com
 c.ftstats.com
 fttcj.com
 ftvcash.com
-ww1.ftvdb.com
 www.ftvdb.com
 ftvpparadise.com
 ftylpm.com
@@ -60325,18 +60326,13 @@ ggtraf.com
 ghaahq.com
 ghaires.com
 ghanaenergyawards.com
-dev.ghanamotoin.com
 lms.ghanamotoin.com
-magento.ghanamotoin.com
 office.ghanamotoin.com
 old.ghanamotoin.com
 pay.ghanamotoin.com
-pm.ghanamotoin.com
 preprod.ghanamotoin.com
 staging.ghanamotoin.com
-status.ghanamotoin.com
 ww1.ghanamotoin.com
-ww25.ghanamotoin.com
 ghananations.com
 ghanantion.com
 ox.ghanasoccernet.com
@@ -61756,6 +61752,7 @@ gyro-n.com
 gysapiny.com
 gytychuna.com
 gz7pz.com
+share.gzdsw.com
 gzhbnz.com
 gzktpf.com
 gzmxybg.com
@@ -63528,6 +63525,7 @@ smetrics.huntington.com
 ensighten.huntingtonbank.com
 huntmad.com
 a.huocheba.com
+dm.huochepiao.com
 hupdr.com
 huppahshoras.com
 hurdlewantingfalcon.com
@@ -65443,6 +65441,7 @@ is-apple.com
 isam-france.com
 isanalyze.com
 sal.isanook.com
+1.isanxia.com
 go.isbamutual.com
 b.isbnrs.com
 isdlvtgikrpw.com
@@ -68120,11 +68119,8 @@ les-experts.com
 api.lesbianay.com
 laravel.lesbianay.com
 mail.lesbianay.com
-site.lesbianay.com
 test.lesbianay.com
-v1.lesbianay.com
 ww16.lesbianay.com
-wx.lesbianay.com
 oi.lesbianbliss.com
 ads.lesbianpersonals.com
 plausible.lesbianromantic.com
@@ -80338,11 +80334,8 @@ sstats.myafco.com
 myaffiliateprogram.com
 myaffiliates.com
 myagkiy2sviter11f.com
-app.myaircel.com
 dev-app.myaircel.com
 m.myaircel.com
-pay.myaircel.com
-reports.myaircel.com
 sms.myaircel.com
 ww1.myaircel.com
 ww16.myaircel.com
@@ -80458,9 +80451,6 @@ mygoodlives.com
 mygooglemy.com
 mygtmn.com
 api.myhappyads.com
-erp.myhealthdish.com
-getsimnum.myhealthdish.com
-h5.myhealthdish.com
 pos.myhealthdish.com
 site.myhealthdish.com
 staging.myhealthdish.com
@@ -90444,6 +90434,7 @@ radiationcrag.com
 ablink.a.radio.com
 click1.e.radio.com
 ablink.p.radio.com
+lyz.radio366.com
 smetrics.radioacktiva.com
 stats2.radiocompanion.com
 radiodysney.com
@@ -93772,6 +93763,7 @@ rfeidvpm.com
 rfese.com
 rfihub.com
 rfity.com
+track.msadcenter.rfjq.com
 rfksrv.com
 rfpozf.com
 rfpx1.com
@@ -98657,6 +98649,7 @@ affiliatemedia.speedybet.com
 speedyhosted.com
 speedyhub.com
 spekband.com
+spellenl.com
 spellercity.com
 spellingreasoningexamine.com
 spellsalsa.com
@@ -103389,6 +103382,7 @@ statistics.tuv.com
 track.msadcenter.tux.com
 tuxbotax.com
 adapi.tuyensinh247.com
+s1.tuzhaozhao.com
 aa.tv.com
 tv1s4d6klh4n.com
 tvadsync.com
@@ -105276,7 +105270,6 @@ vidhaze.com
 snaps.vidiemi.com
 ww16.vidio9.com
 ww35.vidio9.com
-www.vidio9.com
 vidiookeman.com
 vidlcs.com
 vidoomy.com
@@ -106189,15 +106182,9 @@ wasp-182b.com
 waspaortascene.com
 wastedposterapostrophe.com
 watch-breaking-bad.com
-dev.watch32online.com
-magento.watch32online.com
-old.watch32online.com
-shop.watch32online.com
-staging.watch32online.com
 test.watch32online.com
 ww16.watch32online.com
 ww38.watch32online.com
-www.watch32online.com
 watch9.com
 watchahv.com
 watchboxinglive.com
@@ -107564,6 +107551,7 @@ wwwevercleanse.com
 wwwfaberlic.com
 wwwflhealthsource.com
 wwwfonacot.com
+wwwfrev.com
 wwwfrif.com
 wwwgallitoluis.com
 wwwgasparense.com
@@ -108450,7 +108438,7 @@ sdkconfig.ad.rus.xiaomi.com
 data.mistat.rus.xiaomi.com
 api.miui.security.xiaomi.com
 piwik.shenghuo.xiaomi.com
-a.stat.xiaomi.com
+stat.xiaomi.com
 stats.xiaomi.com
 register.xmpush.xiaomi.com
 xiaomilingjing.com
@@ -109381,6 +109369,7 @@ resources-us.yinzcam.com
 yiopse.com
 yipanhaocai.com
 yiqifa.com
+11.yiqig.com
 secure.yirr5frog.com
 www.yirr5frog.com
 yishengad.com
@@ -110408,6 +110397,7 @@ zvideo-live.com
 track.msadcenter.zvjw.com
 zvkytbjimbhk.com
 zvzoo.com
+1.zw3e.com
 zwappos.com
 horse.zwei-bags.com
 marketing.zwei.com
@@ -116249,7 +116239,6 @@ amazingporn.info
 amazonshoppingindir.info
 amine.info
 eu.amiro.info
-leeching.amiro.info
 uk.amiro.info
 amorous.info
 amsterdamsightseeing.info
@@ -116674,6 +116663,7 @@ deled.info
 delhi.info
 delhicallgirls.info
 demisroussos.info
+denada.info
 dentalxrays.info
 descargadictoz.info
 desiaunties.info
@@ -116957,13 +116947,8 @@ freerunescapeaccounts.info
 freesbmblog.info
 freeserver4sharing.info
 freevpshosting.info
-dev.freewebtutorials.info
 mail.freewebtutorials.info
-old.freewebtutorials.info
 webdisk.freewebtutorials.info
-ww1.freewebtutorials.info
-ww17.freewebtutorials.info
-ww38.freewebtutorials.info
 www.freewebtutorials.info
 freexboxcodes.info
 freshwallpapers.info
@@ -117820,6 +117805,14 @@ krzewy.info
 kumang45d.info
 kumis.info
 kurdishdrama.info
+english.kurumkan.info
+invest.kurumkan.info
+travel.kurumkan.info
+visit.kurumkan.info
+vizit.kurumkan.info
+ww39.kurumkan.info
+ww44.kurumkan.info
+ww5.kurumkan.info
 l33t-milf.info
 l3g.info
 l3op.info
@@ -117985,6 +117978,7 @@ meituyy.info
 ww16.arrow.meks.info
 auth.meks.info
 bank-america.meks.info
+ww6.forum.meks.info
 hermes.meks.info
 imap2.meks.info
 mail2.meks.info
@@ -118008,7 +118002,9 @@ relay1.meks.info
 tv.meks.info
 vmail.meks.info
 ww11.meks.info
+ww25.meks.info
 ww43.meks.info
+ww6.meks.info
 www1.meks.info
 www2.meks.info
 melonfresh.info
@@ -118038,9 +118034,6 @@ minregion.info
 mirandaim.info
 misex.info
 mitzi.info
-ww1.mlmnews.info
-ww17.mlmnews.info
-ww25.mlmnews.info
 www.mlmnews.info
 mmo24.info
 mnogosporta.info
@@ -118842,9 +118835,7 @@ topers.info
 toram.info
 torentgames.info
 torino.info
-ww16.torjacka.info
-ww25.torjacka.info
-www.torjacka.info
+torjacka.info
 torjacken.info
 torrentgamesps2.info
 torrentin.info
@@ -119759,6 +119750,7 @@ jstor.ethn.io
 lb.ethn.io
 linkedin.ethn.io
 m.ethn.io
+m2.ethn.io
 mail.ethn.io
 mail02.ethn.io
 mail10.ethn.io
@@ -119805,6 +119797,7 @@ updates.ethn.io
 vmail.ethn.io
 vps.ethn.io
 w.ethn.io
+webflow.ethn.io
 ws.ethn.io
 www.ethn.io
 9kkjfywjz50v.www.eventus.io
@@ -128378,6 +128371,7 @@ b1.51scw.net
 xmr.748pz.net
 777753.net
 777755.net
+a.78yx.net
 22intego.7eer.net
 22mcafee-home.7eer.net
 22mvmt.7eer.net
@@ -130037,6 +130031,7 @@ dns-tls.bitwiseshift.net
 adserver.bizland-inc.net
 bizspring.net
 bizzibeans.net
+2016.bkill.net
 ads.bl-consulting.net
 blackfiday.net
 blackhatsoft.net
@@ -144469,25 +144464,7 @@ cdn.media-a.net
 media-rotation.net
 media-servers.net
 mediabanner.net
-api.mediabong.net
-e.mediabong.net
-env.mediabong.net
-grafana.mediabong.net
-ipam.mediabong.net
-mail.mediabong.net
-pma.mediabong.net
-pop.mediabong.net
-preprod.mediabong.net
-recette.mediabong.net
-rgpd.mediabong.net
-sprint.mediabong.net
-staging.mediabong.net
-staging2.mediabong.net
-staging3.mediabong.net
-static.mediabong.net
-teampass.mediabong.net
-tools.mediabong.net
-vacances.mediabong.net
+mediabong.net
 mediafiregames.net
 utils.mediageneral.net
 mediainform.net
@@ -149105,10 +149082,6 @@ fileuploading.org
 ads.filezilla-project.org
 offers.filezilla-project.org
 filezillaproject.org
-mail.film-izle.org
-webdisk.film-izle.org
-ww11.film-izle.org
-ww16.film-izle.org
 www.film-izle.org
 filmhot.org
 streaming.filmsgratuits.org
@@ -150301,6 +150274,7 @@ progepe.org
 progettocrea.org
 res.programme-television.org
 projectgazelle.org
+projectobolix.org
 projectyouthsafety.org
 www.promobay.org
 promobuster.org
@@ -151195,13 +151169,8 @@ xxx-babes.org
 xxxc2c.org
 vw.xxxmshel.org
 0b9608.y20turkey.org
-0d5866.y20turkey.org
-1c4094.y20turkey.org
-21a214.y20turkey.org
 22895c.y20turkey.org
 22e2a6.y20turkey.org
-23bff2.y20turkey.org
-293754.y20turkey.org
 2a90c3.y20turkey.org
 2c1807.y20turkey.org
 3598ba.y20turkey.org
@@ -151209,24 +151178,15 @@ vw.xxxmshel.org
 41244f.y20turkey.org
 4c3fd5.y20turkey.org
 4g.y20turkey.org
-524ad2.y20turkey.org
 5698c5.y20turkey.org
 5g.y20turkey.org
-801284.y20turkey.org
 86353a.y20turkey.org
-899713.y20turkey.org
-8acab1.y20turkey.org
 a07547.y20turkey.org
 anzhuo.y20turkey.org
 b67f26.y20turkey.org
-bd9f64.y20turkey.org
-c48ce9.y20turkey.org
 dcfd39.y20turkey.org
-f46e21.y20turkey.org
 f847eb.y20turkey.org
 fc7cb7.y20turkey.org
-ios.y20turkey.org
-m.y20turkey.org
 mobile.y20turkey.org
 vip.y20turkey.org
 wap.y20turkey.org
@@ -152156,7 +152116,6 @@ supletcedintand.pro
 surfe.pro
 suzanne.pro
 svekolasg.pro
-www.swants.pro
 syduzothu.pro
 syxylyche.pro
 talazywho.pro
@@ -166257,6 +166216,7 @@ minerarog.xyz
 minisms.xyz
 minismss.xyz
 minsistetricket.xyz
+miqaki.xyz
 mitonegbh.xyz
 mjyhgt.xyz
 mlgp.xyz
