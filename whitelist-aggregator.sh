@@ -515,7 +515,9 @@ fetch_domains_comments \
                 "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/xboxlive" \
                 "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/youtube" \
                 "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/zoom" \
-                "https://raw.githubusercontent.com/anT0ny54/deadhosts/main/nxdomains.txt"
+                "https://raw.githubusercontent.com/anT0ny54/deadhosts/main/nxdomains.txt" \
+                "https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt" \
+                "https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt"
 
 sanitize_domain_list > "$OUT_FILE"
 
