@@ -17,8 +17,6 @@ block_lists:
   -
     url: https://adaway.org/hosts.txt
   -
-    url: https://block.energized.pro/bluGo/formats/domains.txt
-  -
     url: https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
   -
     url: https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
