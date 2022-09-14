@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358420
+# Ignored duplicates: 358416
 
 marketing.globalpointofcare.abbott
 smetrics.abbott
@@ -96,7 +96,6 @@ ablink.notify.homecourt.ai
 analytics.humanautomation.ai
 hybrid.ai
 vzal21mooz.hyperwrite.ai
-perimeterx.widget.insent.ai
 interactiveads.ai
 iqdata.ai
 jst.ai
@@ -114,14 +113,12 @@ static.omnilocal.ai
 stats.p42.ai
 peruse.ai
 analytics.pixels.ai
-pub.pixels.ai
 popper.ai
 powerad.ai
 api.proba.ai
 rebel.ai
 static.rek.ai
 related.ai
-static.returngo.ai
 soko.ai
 stats.sprechstunde.ai
 analytics.superstructure.ai
@@ -4454,7 +4451,6 @@ ads.avct.cloud
 log.codemarketing.cloud
 codez.cloud
 connectif.cloud
-sitegenesis.production.deckers.coremedia.cloud
 s-s.spyoff.dislo.cloud
 advertising-cdn.dpgmedia.cloud
 dyjcydn.cloud
@@ -42326,9 +42322,6 @@ arened.com
 arennabg.com
 aretecnologia.com
 areyoulivingwell.com
-metabet.api.areyouwatchingthis.com
-metabet.static.api.areyouwatchingthis.com
-metabet.static.areyouwatchingthis.com
 argeersarchfoe.com
 srvads.argentina.com
 srvadsnew.argentina.com
@@ -44665,7 +44658,6 @@ bidphysics.com
 bidrughu.com
 bidsimulator.com
 bidsopt.com
-server.bidstack.com
 bidstalk.com
 ads.bidstreamserver.com
 bidswitch.com
@@ -49963,8 +49955,6 @@ courthouseworseflaw.com
 sc.coutts.com
 coutyardmarriott.com
 analytics.cloud.coveo.com
-static.cloud.coveo.com
-cloudplatform.coveo.com
 marketing.coveo.com
 ua2.coveo.com
 usageanalytics.coveo.com
@@ -60992,7 +60982,6 @@ g4mehacks.com
 g52bxi1v1w.com
 cdn.g5e.com
 ceg.g5e.com
-collecting-consent.g5e.com
 most-popular-info.g5e.com
 pgpl.g5e.com
 pushwoosh.g5e.com
@@ -61662,7 +61651,6 @@ getui.com
 getviously.com
 getvottak.com
 getwetvidoes.com
-app.getwoohoo.com
 collector.getyourguide.com
 gevmrjok.com
 gexcellerno.com
@@ -62094,7 +62082,6 @@ go4hack.com
 go6shde9nj2itle.com
 go777site.com
 go88.com
-marketing.goabode.com
 goadserver.com
 goadservices.com
 goaffmy.com
@@ -82546,7 +82533,6 @@ ssc.mtvjapan.com
 ssc.mtvla.com
 geo.mtvnn.com
 asmassets.mtvnservices.com
-cdn-aka.ts.mtvnservices.com
 mtvp05j.com
 mtway.com
 mtzenhigqg.com
@@ -83160,7 +83146,6 @@ nmxads.narrowline.com
 narrowstaredmaking.com
 narsap.com
 analytics.narvar.com
-assets.narvar.com
 noflake-aggregator-http.narvar.com
 analytics.nascar.com
 smetrics.nascar.com
@@ -85142,7 +85127,6 @@ stats.onepagelove.com
 tipstats.onepagelove.com
 discover.onepeloton.com
 ads.oneplace.com
-click.oneplus.com
 onepstr.com
 scvgzt.onequince.com
 www.onesafe-software.com
@@ -92805,7 +92789,6 @@ quanmindi.com
 quanta-wave.com
 aboutads.quantcast.com
 ak.quantcast.com
-cmp.quantcast.com
 widget.quantcast.com
 www.quantcast.com
 quantcount.com
@@ -93414,7 +93397,6 @@ rebevengwas.com
 rebiraert.com
 rebursteaseful.com
 rebusytoment.com
-cdn.rebuyengine.com
 rec3re23.com
 marketing.recarroll.com
 recastcompellease.com
@@ -97774,7 +97756,6 @@ oas.salon.com
 aa-metrics.salonboard.com
 adbmetrics.saloncomicdonostia.com
 salsify-ecdn.com
-images.salsify.com
 saltateblit.com
 saltscorn.com
 saltycarboninsulting.com
@@ -110614,7 +110595,6 @@ smetrics.worldmarket.com
 worldmathdays.com
 worldnit.com
 content.worldnow.com
-ftpcontent.worldnow.com
 kake.images.worldnow.com
 wtsdc.worldnow.com
 worldofgenerators.com
@@ -123686,7 +123666,6 @@ www1-cultivatedknowledge-com-edge.ntv.io
 o-s.io
 oghub.io
 cloud.ogury.io
-consent-manager-events.ogury.io
 dsp-1.ogury.io
 ohayoo.io
 ninja.onap.io
@@ -138018,7 +137997,6 @@ w4o7aea80ss3-a.akamaihd.net
 zvsuhljiha-a.akamaihd.net
 zynga2-a.akamaihd.net
 108vod-adaptive.akamaized.net
-113vod-adaptive.akamaized.net
 131vod-adaptive.akamaized.net
 159vod-adaptive.akamaized.net
 abcnewsads.akamaized.net
@@ -138040,8 +138018,6 @@ ninja.akamaized.net
 nmxliveads.akamaized.net
 speee-ad.akamaized.net
 static-ads.akamaized.net
-statics-marketingsites-eus-ms-com.akamaized.net
-statics-marketingsites-neu-ms-com.akamaized.net
 uz-analysis.akamaized.net
 video-akp-cdn-spotify-com.akamaized.net
 vop-yahoo.akamaized.net
@@ -149875,7 +149851,6 @@ banner.elisa.net
 elitehacking.net
 eluxer.net
 emachines.net
-assets.emarsys.net
 me-client.eservice.emarsys.net
 mobile-sdk-config.gservice.emarsys.net
 emercoin.net
@@ -152513,7 +152488,6 @@ minharenda.net
 analytics.mintegral.net
 analytics-http.mintegral.net
 analytics-tcp.mintegral.net
-pok.mintegral.net
 counter.mirohost.net
 mirskidok.net
 missbonline.net
@@ -172570,9 +172544,6 @@ blueseed.tv
 bas.boshi.tv
 ads.brandwire.tv
 stats.breadtube.tv
-cdn.brid.tv
-p.brid.tv
-services.brid.tv
 stats-dev.brid.tv
 cdn-media.brightline.tv
 events.brightline.tv
