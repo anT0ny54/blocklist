@@ -15,8 +15,6 @@ block_lists:
   # -
   #   url: http://www.malwaredomainlist.com/hostslist/hosts.txt
   -
-    url: https://adaway.org/hosts.txt
-  -
     url: https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
   -
     url: https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
