@@ -129,11 +129,7 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/ThioJoe/YT-Spam-Lists/main/SpamDomainsList.txt
   -
-    url: https://raw.githubusercontent.com/Discord-AntiScam/scam-links/main/list.txt
-  -
-    url: https://raw.githubusercontent.com/BuildBot42/discord-scam-links/main/list.txt
-  -
-    url: https://raw.githubusercontent.com/DevSpen/scam-links/master/src/links.txt
+    url: https://raw.githubusercontent.com/nikolaischunk/discord-phishing-links/main/txt/domain-list.txt
 
 # list of domains to remove from the lists
 allow:
