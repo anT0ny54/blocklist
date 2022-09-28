@@ -124,6 +124,16 @@ block_lists:
     url: https://raw.githubusercontent.com/t0ny54/blocklist/main/blocklist.txt
   -
     url: https://raw.githubusercontent.com/anT0ny54/core/main/blacklist.txt
+  -
+    url: https://raw.githubusercontent.com/kaythomas0/CryptoScamDB-Lists/master/cryptoscamdb-blocklist.txt
+  -
+    url: https://raw.githubusercontent.com/ThioJoe/YT-Spam-Lists/main/SpamDomainsList.txt
+  -
+    url: https://raw.githubusercontent.com/Discord-AntiScam/scam-links/main/list.txt
+  -
+    url: https://raw.githubusercontent.com/BuildBot42/discord-scam-links/main/list.txt
+  -
+    url: https://raw.githubusercontent.com/DevSpen/scam-links/master/src/links.txt
 
 # list of domains to remove from the lists
 allow:
