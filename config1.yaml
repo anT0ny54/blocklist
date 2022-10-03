@@ -15,6 +15,8 @@ block_lists:
   # -
   #   url: http://www.malwaredomainlist.com/hostslist/hosts.txt
   -
+    url: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  -
     url: https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
   -
     url: https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
@@ -47,6 +49,10 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
   -
+    url: https://raw.githubusercontent.com/ThioJoe/YT-Spam-Lists/main/SpamDomainsList.txt
+  -
+    url: https://raw.githubusercontent.com/anT0ny54/core/main/blacklist.txt
+  -
     url: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
   -
     url: https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
@@ -63,9 +69,9 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
   -
-    url: https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls.txt
-  -
     url: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+  -
+    url: https://raw.githubusercontent.com/kaythomas0/CryptoScamDB-Lists/master/cryptoscamdb-blocklist.txt
   -
     url: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
   -
@@ -97,11 +103,17 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies
   -
+    url: https://raw.githubusercontent.com/nikolaischunk/discord-phishing-links/main/txt/domain-list.txt
+  -
     url: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
   -
     url: https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
   -
+    url: https://raw.githubusercontent.com/t0ny54/blocklist/main/blocklist.txt
+  -
     url: https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/custom_blacklist.txt
+  -
+    url: https://raw.githubusercontent.com/t0ny54/core/main/blacklist.txt
   -
     url: https://rescure.me/rescure_domain_blacklist.txt
   -
@@ -116,20 +128,6 @@ block_lists:
     url: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
   -
     url: https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-  -
-    url: https://raw.githubusercontent.com/t0ny54/core/main/blacklist.txt
-  -
-    url: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-  -
-    url: https://raw.githubusercontent.com/t0ny54/blocklist/main/blocklist.txt
-  -
-    url: https://raw.githubusercontent.com/anT0ny54/core/main/blacklist.txt
-  -
-    url: https://raw.githubusercontent.com/kaythomas0/CryptoScamDB-Lists/master/cryptoscamdb-blocklist.txt
-  -
-    url: https://raw.githubusercontent.com/ThioJoe/YT-Spam-Lists/main/SpamDomainsList.txt
-  -
-    url: https://raw.githubusercontent.com/nikolaischunk/discord-phishing-links/main/txt/domain-list.txt
 
 # list of domains to remove from the lists
 allow:
