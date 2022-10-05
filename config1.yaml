@@ -128,6 +128,16 @@ block_lists:
     url: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
   -
     url: https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+  -
+    url: https://raw.githubusercontent.com/kowith337/ThaiConsentHosts/master/ThaiConsentHosts.txt
+  -
+    url: https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/ads.txt
+  -
+    url: https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/general.txt
+  -
+    url: https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/malware-malicious.txt
+  -
+    url: https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/scam-spam.txt
 
 # list of domains to remove from the lists
 allow:
