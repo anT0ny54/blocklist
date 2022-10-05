@@ -3,6 +3,15 @@ on:
   repository_dispatch:
   workflow_dispatch:
   push:
+    - '.github/**'
+    - 'lists/**'
+    - '*.txt'
+    - '*.yaml'
+    - '*.conf'
+    - '*.txt'
+    - '*.sh'
+    - '*.py'
+    - 'README.md'
     paths-ignore:
   schedule:
     - cron: '15 8 * * *'
