@@ -138,6 +138,12 @@ block_lists:
     url: https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/malware-malicious.txt
   -
     url: https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/scam-spam.txt
+  -
+    url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/fake.txt
+  -
+    url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/dyndns.txt
+  -
+    url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/personal.txt
 
 # list of domains to remove from the lists
 allow:
