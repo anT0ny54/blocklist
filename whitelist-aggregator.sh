@@ -471,10 +471,8 @@ fetch_domains_comments \
                 "https://raw.githubusercontent.com/cbuijs/ut1/master/sports/domains" \
                 "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/connectivity-tests-common.txt" \
                 "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/list-manage-core.txt" \
-                "https://raw.githubusercontent.com/nextdns/metadata/master/security/ddns/suffixes" \
-                "https://raw.githubusercontent.com/nextdns/metadata/master/security/ddns/exclusions" \
-                "https://raw.githubusercontent.com/nextdns/metadata/master/security/bin-hostnames" \
-                "https://raw.githubusercontent.com/nextdns/metadata/master/security/bin-domains" \
+                "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt" \
+                "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt" \
                 "https://raw.githubusercontent.com/nextdns/metadata/master/security/typosquatting/protected-domains" \
                 "https://raw.githubusercontent.com/nextdns/metadata/master/security/url-shorteners" \
                 "https://raw.githubusercontent.com/nextdns/metadata/master/security/public-suffixes-extras" \
