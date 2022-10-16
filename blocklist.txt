@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 371486
+# Ignored duplicates: 371561
 
 marketing.globalpointofcare.abbott
 smetrics.abbott
@@ -35810,8 +35810,12 @@ www.2p9fyvx.com
 2rr7y7gd2qrm.com
 2savemoney.com
 2seo8.com
+out.2sshoes.com
+smtpauth.2sshoes.com
+ww11.2sshoes.com
 ww16.2sshoes.com
 ww25.2sshoes.com
+www.2sshoes.com
 2sys.com
 a.2umovies.com
 2vulkan.com
@@ -37942,6 +37946,20 @@ uk.activeshopper.com
 ads.activestate.com
 app.activetrail.com
 activitytonic.com
+email.actm-trailor.com
+imap1.actm-trailor.com
+imap2.actm-trailor.com
+mailout.actm-trailor.com
+mailrelay.actm-trailor.com
+mailserver.actm-trailor.com
+ns.actm-trailor.com
+ns2.actm-trailor.com
+outmail.actm-trailor.com
+pop.actm-trailor.com
+relay.actm-trailor.com
+smtps.actm-trailor.com
+sniper.actm-trailor.com
+www1.actm-trailor.com
 actnx.com
 actonservice.com
 actonsoftware.com
@@ -42739,7 +42757,6 @@ ww11.antianxietyattack.com
 ww17.antianxietyattack.com
 ww25.antianxietyattack.com
 ww38.antianxietyattack.com
-www.antianxietyattack.com
 anticipatedlying.com
 www.anticlown.com
 anticodistretto.com
@@ -47547,21 +47564,11 @@ c-cf.com
 api.c-launcher.com
 receive.client.c-launcher.com
 d.c-launcher.com
-comune.c-loverz.com
-mail.c-loverz.com
-mail7.c-loverz.com
-mailer.c-loverz.com
-mx.c-loverz.com
-mx02.c-loverz.com
-mx10.c-loverz.com
-mx4.c-loverz.com
-relay2.c-loverz.com
-smtpseguro.c-loverz.com
+mail.comune.c-loverz.com
 ww1.c-loverz.com
 ww11.c-loverz.com
 ww17.c-loverz.com
 ww25.c-loverz.com
-ww31.c-loverz.com
 ww38.c-loverz.com
 www.c-loverz.com
 c-o-u-n-t.com
@@ -52552,6 +52559,7 @@ marketing.davidcbaker.com
 stats.davidickedelivery.com
 peacock.davidlevai.com
 stats.davidlms.com
+ww11.davidloyd.com
 davidludlow.com
 davidmannaudio.com
 davidmovi.com
@@ -56624,6 +56632,8 @@ exsteze.com
 exszakasz.com
 extafiles.com
 extasy-sp.com
+m.extellio.com
+script.extellio.com
 extendedcocktailchapel.com
 extendedmoreimposter.com
 sstats.extendedstayhotels.com
@@ -60831,9 +60841,6 @@ authsmtp.grannyvideos69.com
 home.grannyvideos69.com
 mailout.grannyvideos69.com
 mails.grannyvideos69.com
-ww25.mx.grannyvideos69.com
-ww25.newmail.grannyvideos69.com
-ww25.ns2.grannyvideos69.com
 poczta.grannyvideos69.com
 smtpauth.grannyvideos69.com
 grapheffect.com
@@ -62301,6 +62308,7 @@ yzvpco.hfashionmall.com
 hfc195b.com
 hfrcl.com
 hfshcalpha.com
+hfuostp.com
 hfvamxbcfccycm.com
 hfyxdl.com
 hfzq1600.com
@@ -67632,7 +67640,6 @@ lion.lastfrontiermagazine.com
 lasthacks.com
 boelsl.lastijerasmagicas.com
 lastikadi.com
-www.lastminurte.com
 lastorb.com
 lasvegastravelcompany.com
 lat49.com
@@ -82300,47 +82307,30 @@ nanigans.com
 ads.nano4x.com
 authsmtp.nano4x.com
 barracuda.nano4x.com
-box.nano4x.com
 by.nano4x.com
 comune.nano4x.com
-correo.nano4x.com
 cups.nano4x.com
 email.nano4x.com
-gateway.nano4x.com
 gw.nano4x.com
 hermes.nano4x.com
-home.nano4x.com
 host.nano4x.com
 imap2.nano4x.com
-mail.nano4x.com
 mail01.nano4x.com
 mail02.nano4x.com
-mail1.nano4x.com
 mail10.nano4x.com
 mail2.nano4x.com
 mail3.nano4x.com
-mail4.nano4x.com
-mail5.nano4x.com
 mail6.nano4x.com
 mail7.nano4x.com
-mail9.nano4x.com
 mailer.nano4x.com
-mailgate.nano4x.com
 mailgw.nano4x.com
 mailhost.nano4x.com
 mailin.nano4x.com
-mailrelay.nano4x.com
-mails.nano4x.com
 mailserver.nano4x.com
-mailsrv.nano4x.com
 mailx.nano4x.com
 mbox.nano4x.com
 ms.nano4x.com
-ms1.nano4x.com
-mta.nano4x.com
-mx0.nano4x.com
 mx01.nano4x.com
-mx02.nano4x.com
 mx1.nano4x.com
 mx10.nano4x.com
 mx20.nano4x.com
@@ -82349,26 +82339,15 @@ mx4.nano4x.com
 mx5.nano4x.com
 mx7.nano4x.com
 newmail.nano4x.com
-ns1.nano4x.com
 ns2.nano4x.com
 out.nano4x.com
 outmail.nano4x.com
-poczta.nano4x.com
-pop.nano4x.com
 post.nano4x.com
-postmaster.nano4x.com
-relay1.nano4x.com
-relay2.nano4x.com
 root.nano4x.com
-server.nano4x.com
 server2.nano4x.com
-smtp01.nano4x.com
-smtps.nano4x.com
 sniper.nano4x.com
-srv.nano4x.com
 ua.nano4x.com
 ww1.nano4x.com
-ww16.nano4x.com
 ww17.nano4x.com
 ww25.nano4x.com
 ww38.nano4x.com
@@ -82376,7 +82355,6 @@ www.nano4x.com
 www1.nano4x.com
 www2.nano4x.com
 zimbra.nano4x.com
-zmail.nano4x.com
 nanoadbite.com
 nanoadexchange.com
 nanointeractive.com
@@ -91416,7 +91394,6 @@ outdoorplay.postaffiliatepro.com
 ovmarketing.postaffiliatepro.com
 oxygenresearchinstitute.postaffiliatepro.com
 pandasecurity.postaffiliatepro.com
-panosociety.postaffiliatepro.com
 parleylabs.postaffiliatepro.com
 partner-busymice.postaffiliatepro.com
 partnersmy.postaffiliatepro.com
@@ -108689,6 +108666,7 @@ pdw-ipr.userreport.com
 pdw-pmt.userreport.com
 pdw-scl.userreport.com
 pdw-usr.userreport.com
+postalcodes.userreport.com
 qa-relay.userreport.com
 qa1-admin.userreport.com
 qa1-app.userreport.com
@@ -108696,6 +108674,7 @@ qa1-cp.userreport.com
 qa1-feedback.userreport.com
 qa1-ics.userreport.com
 qa1-panel.userreport.com
+qa1-postalcodes.userreport.com
 qa1-privacy.userreport.com
 qa1-sak.userreport.com
 qa2-admin.userreport.com
@@ -111313,9 +111292,6 @@ athena-ads.wikia.com
 wikia-ads.wikia.com
 wikigifth.com
 wikiodeliv.com
-mail.wikisaces.com
-walthamlibrary.wikisaces.com
-ww1.wikisaces.com
 wiktravel.com
 images.response.wild.com
 secure.wild0army.com
@@ -122035,6 +122011,7 @@ actualites.info
 actupv.info
 adatmentes.info
 adblockerapp.info
+www.adblog.info
 adchoices.info
 adidasi-nike.info
 4jslg.adidasspringblade2.info
@@ -122408,6 +122385,7 @@ mail.chatstory.info
 ww17.chatstory.info
 www.chatstory.info
 chatynaprenajom.info
+www.chavara.info
 cheatsplace.info
 checkcode.info
 checkip.info
@@ -122610,13 +122588,6 @@ doctorette.info
 stats.docu.info
 dodgecolors.info
 dog-training-online.info
-autodiscover.dogecoinfaucets.info
-mail.dogecoinfaucets.info
-mvideo.dogecoinfaucets.info
-webdisk.dogecoinfaucets.info
-whm.dogecoinfaucets.info
-ww17.dogecoinfaucets.info
-www.dogecoinfaucets.info
 dola88.info
 dolly.info
 doma2.info
@@ -122627,6 +122598,7 @@ domowybudzet.info
 ww1.donpennington.info
 ww25.donpennington.info
 ww38.donpennington.info
+www.donpennington.info
 donquixotesmusic.info
 dopor.info
 doshkolniku.info
@@ -123073,6 +123045,7 @@ hdrezka.info
 headcodes.info
 healthbeautyvn.info
 healthdiet.info
+www.healthontrack.info
 ww16.healthtips1.info
 ww25.healthtips1.info
 ww38.healthtips1.info
@@ -123360,6 +123333,7 @@ lemetri.info
 leonardoschool.info
 leopalace21.info
 letsweb.info
+www.lhmdaakl.info
 lichsuvietnam.info
 lidian.info
 lienz.info
@@ -123615,8 +123589,6 @@ nabimuhammad.info
 nadie007.info
 naeri.info
 nagamochi.info
-mail.najac.info
-ww1.najac.info
 www.najac.info
 najnovije-vijesti.info
 najnovijevesti.info
@@ -123716,6 +123688,7 @@ prevision.olas.info
 ww1.olas.info
 www.olas.info
 oldhorse.info
+www.olioli.info
 olmsoneenh.info
 omatri.info
 onderlea.info
@@ -124546,6 +124519,7 @@ wikimost.info
 wikipenza.info
 wikiseda.info
 willalland.info
+www.win-prize.info
 winner-topper-1.info
 winnerprizezona.info
 winnpxx.info
@@ -154015,7 +153989,6 @@ zw.effectivemeasure.net
 efmag.net
 track.eg-innovations.net
 eiei.net
-www.eighteenboys.net
 ads.eircom.net
 eiya.net
 ekotastic.net
@@ -155485,7 +155458,6 @@ go.gemapowdercoating.net
 gemeinderat.net
 ads.gencgazete.net
 geniad.net
-ww1.dev.gentlecode.net
 shop.gentlecode.net
 log.genyt.net
 geoaddicted.net
@@ -157681,12 +157653,6 @@ cdn.preciso.net
 predicta.net
 predictiveresponse.net
 predirect.net
-mail.premierpro.net
-mail2.premierpro.net
-mailgw.premierpro.net
-mailsrv.premierpro.net
-mbox.premierpro.net
-mxs.premierpro.net
 ww16.premierpro.net
 ww38.premierpro.net
 premium-cheats.net
@@ -157913,10 +157879,8 @@ rockincontent.net
 rockyou.net
 roi-rocket.net
 cv.www.rokuzan.net
-ww1.rollinggreengolf.net
 ww17.rollinggreengolf.net
 ww38.rollinggreengolf.net
-www.rollinggreengolf.net
 views.romaniatv.net
 ronalo7.net
 ronniescatfishandmore.net
@@ -164775,8 +164739,6 @@ cpursera.org
 cracketgames.org
 crackgame.org
 cracking.org
-ww38.craigslistmaine.org
-www.craigslistmaine.org
 creativecommoms.org
 crecweb.org
 creditlevel.org
@@ -165311,7 +165273,6 @@ gutenbrg.org
 guttenbergproject.org
 cpcalendars.gutwrenchingrpg.org
 cpcontacts.gutwrenchingrpg.org
-mail.gutwrenchingrpg.org
 www.gutwrenchingrpg.org
 gwinnetttech.org
 gxcttdvn.org
@@ -165415,7 +165376,6 @@ stats.htp.org
 httpsecurity.org
 huellaecologica.org
 hurenkind.org
-ww25.hustlermowers.org
 ww31.hustlermowers.org
 hypeads.org
 i8bet.org
@@ -167023,6 +166983,8 @@ wallpapersblog.org
 walnutavenueumc.org
 wanderingnotlost.org
 waplib.org
+ja.wardpress.org
+ww1.wardpress.org
 lixir.wargers.org
 warianos.org
 warnertheater.org
