@@ -171,7 +171,9 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
   -
-    url: https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/quad9_blocklist.txt
+    url: https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
+  -
+    url: https://raw.githubusercontent.com/jawz101/subdomain_blocklists/main/hosts.txt
 
 # list of domains to remove from the lists
 allow:
