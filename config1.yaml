@@ -143,7 +143,7 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/personal.txt
   -
-    url: https://hole.cert.pl/domains/domains.txt
+    url: https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt
   -
     url: https://threatfox.abuse.ch/downloads/hostfile
   -
@@ -168,6 +168,10 @@ block_lists:
     url: https://data.netlab.360.com/feeds/dga/virut.txt
   -
     url: https://dl.red.flag.domains/red.flag.domains_fr.txt
+  -
+    url: https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
+  -
+    url: https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/quad9_blocklist.txt
 
 # list of domains to remove from the lists
 allow:
