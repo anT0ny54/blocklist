@@ -141,8 +141,6 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/fake.txt
   -
-    url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/dyndns.txt
-  -
     url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/personal.txt
 
 # list of domains to remove from the lists
