@@ -142,6 +142,32 @@ block_lists:
     url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/fake.txt
   -
     url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/personal.txt
+  -
+    url: https://hole.cert.pl/domains/domains.txt
+  -
+    url: https://threatfox.abuse.ch/downloads/hostfile
+  -
+    url: https://cert-agid.gov.it/download/log4shell-iocs-raw-domain.txt
+  -
+    url: https://data.netlab.360.com/feeds/dga/chinad.txt
+  -
+    url: https://data.netlab.360.com/feeds/dga/conficker.txt
+  -
+    url: https://data.netlab.360.com/feeds/dga/cryptolocker.txt
+  -
+    url: https://data.netlab.360.com/feeds/dga/gameover.txt
+  -
+    url: https://data.netlab.360.com/feeds/dga/locky.txt
+  -
+    url: https://data.netlab.360.com/feeds/dga/necurs.txt
+  -
+    url: https://data.netlab.360.com/feeds/dga/suppobox.txt
+  -
+    url: https://data.netlab.360.com/feeds/dga/tofsee.txt
+  -
+    url: https://data.netlab.360.com/feeds/dga/virut.txt
+  -
+    url: https://dl.red.flag.domains/red.flag.domains_fr.txt
 
 # list of domains to remove from the lists
 allow:
