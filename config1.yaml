@@ -47,8 +47,6 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/ThioJoe/YT-Spam-Lists/main/SpamDomainsList.txt
   -
-    url: https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
-  -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
   -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/doh/domains
