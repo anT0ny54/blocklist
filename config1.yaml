@@ -131,8 +131,6 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/fake.txt
   -
-    url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/personal.txt
-  -
     url: https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt
   -
     url: https://threatfox.abuse.ch/downloads/hostfile
