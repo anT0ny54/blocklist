@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 330978
+# Ignored duplicates: 331008
 
 chameleon.ad
 pixel.ad
@@ -35367,7 +35367,6 @@ www.chargeplatform.com
 zenith.chargeplatform.com
 charlesschwa.com
 charlottestcarriagehouse.com
-wordpress.charpentes-du-centre.com
 chartbeat.com
 chartboost.com
 v-collector.dp.aws.charter.com
@@ -38074,6 +38073,7 @@ ffconf.ecbsn.com
 mobgeo.ecbsn.com
 search.ecbsn.com
 secure-checkout.ecbsn.com
+ww25.ecc-biz.com
 sts.eccmp.com
 p.ecfwds.com
 echosmouche.com
@@ -42660,8 +42660,20 @@ laybrookscooters.com
 lazerlending.com
 lce9v.com
 lcoste.com
+auth.lcs-solar.com
+autoconfig.lcs-solar.com
+autodiscover.lcs-solar.com
 citrix.lcs-solar.com
 mail.lcs-solar.com
+mail2.lcs-solar.com
+mx.lcs-solar.com
+mx0.lcs-solar.com
+mx1.lcs-solar.com
+pop.lcs-solar.com
+secureimap.lcs-solar.com
+securemail.lcs-solar.com
+securepop.lcs-solar.com
+shop.lcs-solar.com
 ww1.lcs-solar.com
 ww16.lcs-solar.com
 ww17.lcs-solar.com
@@ -62682,7 +62694,6 @@ given.quiosconline.com
 ww38.quiosconline.com
 quisma.com
 quizflavor.com
-ww1.quizlety.com
 ww11.quizlety.com
 ww16.quizlety.com
 ww25.quizlety.com
@@ -66709,6 +66720,7 @@ vsdk.sascdn.com
 www.sascdn.com
 sasmsclub.com
 sasolbusaries.com
+wlamazcsrv1.satangay.com
 ww1.satangay.com
 ww11.satangay.com
 ww2.satangay.com
@@ -67157,6 +67169,7 @@ www.bt.segoogle.com
 www.matvarlden.segoogle.com
 z-net.pilen.nordnet.segoogle.com
 vaderkalendern.segoogle.com
+ww25.segoogle.com
 seiko5ers.com
 sekindo.com
 selecat.com
@@ -67892,7 +67905,6 @@ ns1.slasinet.com
 relay.slasinet.com
 server.slasinet.com
 srv.slasinet.com
-www.slasinet.com
 www1.slasinet.com
 www2.slasinet.com
 slatetheschool.com
@@ -76539,7 +76551,6 @@ ww17.chavara.info
 www.chavara.info
 checkcode.info
 checkip.info
-mvideo.chemia-gimnazjum.info
 chequamegonbay.info
 chinamaps.info
 chirurgie-refractive.info
@@ -76625,6 +76636,7 @@ de-mi-nis-ner.info
 ww11.de-ner-mi-nis4.info
 ww12.de-ner-mi-nis4.info
 ww16.de-ner-mi-nis4.info
+ww17.de-ner-mi-nis4.info
 ww25.de-ner-mi-nis4.info
 ww38.de-ner-mi-nis4.info
 ww7.de-ner-mi-nis4.info
@@ -76665,7 +76677,6 @@ digitalsignature.info
 dinistor.info
 diphterie.info
 directory100.info
-ww38.directory2010.info
 directoryelite.info
 dirproject.info
 display-systems.info
@@ -76869,6 +76880,7 @@ ww1.formadv.info
 ww11.formadv.info
 ww16.formadv.info
 ww17.formadv.info
+ww2.formadv.info
 ww25.formadv.info
 ww3.formadv.info
 ww38.formadv.info
@@ -76960,17 +76972,7 @@ gighoe.info
 girlsvideosonline.info
 gitorm.info
 giveawayforyou.info
-autodiscover.glee-episode.info
-mail.glee-episode.info
-movielist1.glee-episode.info
-spikymovies.glee-episode.info
-webdisk.glee-episode.info
-ww11.glee-episode.info
-ww16.glee-episode.info
-ww17.glee-episode.info
-ww38.glee-episode.info
-ww7.glee-episode.info
-www.glee-episode.info
+glee-episode.info
 globaldew.info
 godspeakstoday.info
 goldrock.info
@@ -77005,7 +77007,6 @@ gta5apkdownload.info
 gtcpoci.info
 guardatv.info
 guesthouse.info
-www.guidebox.info
 guineenews.info
 guizubb.info
 gunxue.info
@@ -77418,6 +77419,7 @@ ww38.mmo24.info
 ww4.mmo24.info
 www.mmo24.info
 mnogosporta.info
+mail.mobile-damz.info
 mail2.mobile-damz.info
 mobile-tech.info
 mobilemovie.info
@@ -77862,7 +77864,6 @@ servercore.info
 service4refresh.info
 sese377.info
 sese755.info
-webdisk.setuweb.info
 seventorrents5.info
 sexesex.info
 everyoneflv.sexitunes.info
@@ -78114,6 +78115,7 @@ ww1.thebestcloudcomputing.info
 ww25.thebestcloudcomputing.info
 ww3.thebestcloudcomputing.info
 ww38.thebestcloudcomputing.info
+www.thebestcloudcomputing.info
 theendoflawyers.info
 theforce.info
 thehealingplace.info
@@ -78575,7 +78577,6 @@ wtftds.info
 wurzen.info
 vv.wuyexuan.info
 ww11.wuyexuan.info
-ww16.wuyexuan.info
 ww17.wuyexuan.info
 ww38.wuyexuan.info
 wwpc.info
@@ -99230,6 +99231,8 @@ connecting-to-the.net
 connexity.net
 vmi503011.contaboserver.net
 contactphoto.net
+api.content-recommendation.net
+cdn.content-recommendation.net
 delivery.content-recommendation.net
 tracking.content-recommendation.net
 updater.content-recommendation.net
@@ -116389,7 +116392,9 @@ homeschoolingbenefits.net
 dns.hostux.net
 hotbest.net
 houken.net
-housesoflight.net
+ww16.housesoflight.net
+ww25.housesoflight.net
+www.housesoflight.net
 hozim.net
 hubspot-test-subdomain.hs-analytics.net
 js.hs-analytics.net
@@ -123138,6 +123143,7 @@ www.youlaugh.online
 666av.org
 6iranfilm.org
 ww17.6ixty9ine.org
+ww25.6ixty9ine.org
 ww38.6ixty9ine.org
 ww7.6ixty9ine.org
 720pfilm.org
@@ -123280,7 +123286,6 @@ arshcenter.org
 arsuicideprevention.org
 arteterapiaforo.org
 ww1.artisanbuilderscollective.org
-ww38.artisanbuilderscollective.org
 www.artisanbuilderscollective.org
 as3js.org
 asburywarren.org
@@ -124497,12 +124502,14 @@ radiowymsey.org
 17030154.radyotiyatrosu.org
 21603118.radyotiyatrosu.org
 30003098.radyotiyatrosu.org
+301341u.radyotiyatrosu.org
 40771070.radyotiyatrosu.org
 61108460.radyotiyatrosu.org
 70909080.radyotiyatrosu.org
 90808109.radyotiyatrosu.org
 92040117.radyotiyatrosu.org
 ww17.radyotiyatrosu.org
+www.radyotiyatrosu.org
 raftmaster.org
 raiin.org
 railroadcu.org
@@ -124726,7 +124733,6 @@ sunsetclubs.org
 super6.org
 supergreatness.org
 suttonyouth.org
-www.switzerlandjobsdb.org
 swmd.org
 synaxis.org
 syrolympsc.org
@@ -124867,7 +124873,6 @@ tvropes.org
 tweeker.org
 txcom.org
 txcp8.org
-ww1.txlottert.org
 uacportal.org
 uasb.org
 ubersugest.org
