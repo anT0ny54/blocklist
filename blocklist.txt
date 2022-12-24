@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 331008
+# Ignored duplicates: 331034
 
 chameleon.ad
 pixel.ad
@@ -35576,6 +35576,7 @@ scripts.cleverwebserver.com
 click-cdn.com
 click2freemoney.com
 click2pawn.com
+clickadz.com
 clickagents.com
 clickagy.com
 clickbank.com
@@ -37130,6 +37131,7 @@ www1.db-ip.com
 www2.db-ip.com
 www3.db-ip.com
 dbbsrv.com
+dbgpkg.com
 dbidatatech.com
 dbmvideos.com
 dbrauexm2013.com
@@ -41843,6 +41845,7 @@ installermoney.com
 installfarm.com
 instantcheckmate.com
 instantflashupdates.com
+instantmadness.com
 insticator.com
 instinctiveads.com
 instrumentsponge.com
@@ -62694,7 +62697,6 @@ given.quiosconline.com
 ww38.quiosconline.com
 quisma.com
 quizflavor.com
-ww11.quizlety.com
 ww16.quizlety.com
 ww25.quizlety.com
 quizzicalzephyr.com
@@ -66915,7 +66917,6 @@ searchesnews.com
 searchesshop.com
 searchexclus.com
 searchextrem.com
-searching-place.com
 searchingbank.com
 searchingbar.com
 searchingblog.com
@@ -66964,7 +66965,6 @@ searchnon.com
 searchoper.com
 searchorde.com
 searchprem.com
-searchramp.com
 searchrfu.com
 searchrnd.com
 searchrockets.com
@@ -68237,6 +68237,7 @@ sootheside.com
 sophia-network.com
 sopitayponvistiendoamores.com
 sopubok.com
+soquj.com
 sordidsmile.com
 sortable.com
 sotujof.com
@@ -68248,7 +68249,6 @@ soundza.com
 sourmaths.com
 soursejone.com
 ww11.southernwestairlines.com
-ww6.southernwestairlines.com
 southparkstoudios.com
 southwestairliones.com
 click.i.southwesternrailway.com
@@ -76104,7 +76104,21 @@ ansatsu.info
 answkey.info
 antilles.info
 antiviruspro.info
-apartman-szallas.info
+devo.apartman-szallas.info
+fupy.apartman-szallas.info
+jebu.apartman-szallas.info
+jydu.apartman-szallas.info
+kowy.apartman-szallas.info
+lice.apartman-szallas.info
+nyqi.apartman-szallas.info
+piwe.apartman-szallas.info
+qezo.apartman-szallas.info
+qyzy.apartman-szallas.info
+tiqe.apartman-szallas.info
+ww38.apartman-szallas.info
+www.apartman-szallas.info
+xysa.apartman-szallas.info
+zapi.apartman-szallas.info
 aplgo.info
 auth.applifier.info
 ci.applifier.info
@@ -76316,7 +76330,6 @@ btbt.info
 btcerise.info
 btfly.info
 ww11.bt.btsearch.info
-www1.btsearch.info
 btsoso.info
 buddhadhamma.info
 buffalos.info
@@ -77313,7 +77326,6 @@ lsrd.info
 lucario.info
 lucklayed.info
 lucypindergallery.info
-lukisan.info
 luluge.info
 luoli.info
 lupian.info
@@ -78110,7 +78122,9 @@ ww17.thambiluvil.info
 ww38.thambiluvil.info
 www.thambiluvil.info
 theae.info
+m.thebestcloudcomputing.info
 mail.thebestcloudcomputing.info
+wap.thebestcloudcomputing.info
 ww1.thebestcloudcomputing.info
 ww25.thebestcloudcomputing.info
 ww3.thebestcloudcomputing.info
@@ -78184,6 +78198,7 @@ ww25.tutvse.info
 ww38.tutvse.info
 www.tutvse.info
 tv168.info
+tvon.info
 tvorbita.info
 tvporinternet.info
 tw-drupal.info
@@ -116367,7 +116382,6 @@ halloweenghostcostumes.net
 handbaghouse.net
 analyticsapi.happypancake.net
 revive.haskovo.net
-havamedia.net
 hawaiiatel.net
 hbfstech.net
 hclips.net
@@ -124499,14 +124513,25 @@ adserver.radiomediagroup.org
 radiowymsey.org
 10070534.radyotiyatrosu.org
 11802047.radyotiyatrosu.org
+12157181.radyotiyatrosu.org
 17030154.radyotiyatrosu.org
+17301612.radyotiyatrosu.org
+18890007.radyotiyatrosu.org
+19002152.radyotiyatrosu.org
+19151076.radyotiyatrosu.org
+19413500.radyotiyatrosu.org
 21603118.radyotiyatrosu.org
 30003098.radyotiyatrosu.org
 301341u.radyotiyatrosu.org
 40771070.radyotiyatrosu.org
+44400041.radyotiyatrosu.org
+48130301.radyotiyatrosu.org
 61108460.radyotiyatrosu.org
 70909080.radyotiyatrosu.org
+88730100.radyotiyatrosu.org
+90131851.radyotiyatrosu.org
 90808109.radyotiyatrosu.org
+91319171.radyotiyatrosu.org
 92040117.radyotiyatrosu.org
 ww17.radyotiyatrosu.org
 www.radyotiyatrosu.org
