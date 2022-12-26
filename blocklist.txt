@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 331034
+# Ignored duplicates: 330955
 
 chameleon.ad
 pixel.ad
@@ -34697,7 +34697,6 @@ cliente.bmndsc.com
 bmwdiesels.com
 bmwussa.com
 bnidx.com
-ad.bnmla.com
 cdn0.bnmla.com
 cdn1.bnmla.com
 cdnfi.bnmla.com
@@ -55487,7 +55486,7 @@ newflashupdate.com
 newflashupdates.com
 newgmailaccount.com
 ads.newgrounds.com
-newip-info.com
+img-info2638dg43.newip-info.com
 madata.newlook.com
 newmetalcraft.com
 newnudecash.com
@@ -65218,7 +65217,11 @@ replaceroute.com
 reportmylost.com
 reppublika.com
 republer.com
-reqaws.com
+mta-sts.reqaws.com
+ww1.reqaws.com
+ww16.reqaws.com
+ww25.reqaws.com
+www.reqaws.com
 requestmetrics.com
 client.res-x.com
 es.res-x.com
@@ -77415,7 +77418,10 @@ mightylinks.info
 milfpics.info
 millstatt.info
 www.mimino.info
-minato-3r.info
+bija.minato-3r.info
+nibu.minato-3r.info
+ww17.minato-3r.info
+www.minato-3r.info
 mindsweeper.info
 mine-server.info
 minescripts.info
@@ -77469,7 +77475,42 @@ multi3ker.info
 multivitamine.info
 mur-porteur.info
 museum-of-artifacts.info
-museumrotterdam.info
+bofu.museumrotterdam.info
+boke.museumrotterdam.info
+bopu.museumrotterdam.info
+bynu.museumrotterdam.info
+cagi.museumrotterdam.info
+cyzy.museumrotterdam.info
+dajy.museumrotterdam.info
+fave.museumrotterdam.info
+fyju.museumrotterdam.info
+giku.museumrotterdam.info
+hafi.museumrotterdam.info
+jafo.museumrotterdam.info
+kako.museumrotterdam.info
+kesa.museumrotterdam.info
+lisy.museumrotterdam.info
+miku.museumrotterdam.info
+moqy.museumrotterdam.info
+nogu.museumrotterdam.info
+nudy.museumrotterdam.info
+nuza.museumrotterdam.info
+qebu.museumrotterdam.info
+qoly.museumrotterdam.info
+ryzi.museumrotterdam.info
+sado.museumrotterdam.info
+safy.museumrotterdam.info
+tapu.museumrotterdam.info
+teqy.museumrotterdam.info
+tuqu.museumrotterdam.info
+vibo.museumrotterdam.info
+ww17.museumrotterdam.info
+www.museumrotterdam.info
+wyfa.museumrotterdam.info
+wyjo.museumrotterdam.info
+xasu.museumrotterdam.info
+zabu.museumrotterdam.info
+zina.museumrotterdam.info
 music-bg.info
 musicalmente.info
 musicalove.info
@@ -77977,7 +78018,39 @@ sonyvegas.info
 soramoon.info
 sorarose.info
 sourcevapes.info
-specialbaby.info
+beqy.specialbaby.info
+bipu.specialbaby.info
+bopu.specialbaby.info
+ceka.specialbaby.info
+fyna.specialbaby.info
+gaca.specialbaby.info
+gewa.specialbaby.info
+gycy.specialbaby.info
+jybe.specialbaby.info
+kola.specialbaby.info
+lybi.specialbaby.info
+mowy.specialbaby.info
+muse.specialbaby.info
+myxo.specialbaby.info
+pydo.specialbaby.info
+qore.specialbaby.info
+quvy.specialbaby.info
+roqe.specialbaby.info
+saqa.specialbaby.info
+sepo.specialbaby.info
+suri.specialbaby.info
+toso.specialbaby.info
+tyqi.specialbaby.info
+vaxi.specialbaby.info
+velo.specialbaby.info
+vofy.specialbaby.info
+wolu.specialbaby.info
+ww1.specialbaby.info
+ww17.specialbaby.info
+ww38.specialbaby.info
+www.specialbaby.info
+xapi.specialbaby.info
+xywa.specialbaby.info
 speedwest.info
 spiruline-bio.info
 spojnia.info
