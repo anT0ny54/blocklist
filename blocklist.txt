@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 330955
+# Ignored duplicates: 330980
 
 chameleon.ad
 pixel.ad
@@ -33859,6 +33859,7 @@ asuprep.com
 dandelionsprout.asuscomm.com
 aswpapius.com
 aswpsdkus.com
+atantabraves.com
 atatmobile.com
 adecn-w.atdmt.com
 aidps.atdmt.com
@@ -33959,18 +33960,14 @@ ws.audioeye.com
 comune.audiogol.com
 cs.audiogol.com
 email.audiogol.com
-gateway.audiogol.com
 gw.audiogol.com
 host.audiogol.com
 internet.audiogol.com
-m.audiogol.com
 mail.audiogol.com
 mail01.audiogol.com
 mail1.audiogol.com
 mail10.audiogol.com
 mail11.audiogol.com
-mail12.audiogol.com
-mail2.audiogol.com
 mail4.audiogol.com
 mail5.audiogol.com
 mail6.audiogol.com
@@ -33978,7 +33975,6 @@ mail7.audiogol.com
 mail9.audiogol.com
 mailbox.audiogol.com
 mailer.audiogol.com
-mailgate.audiogol.com
 mailout.audiogol.com
 mailrelay.audiogol.com
 mailserver.audiogol.com
@@ -33991,20 +33987,14 @@ mx10.audiogol.com
 mx20.audiogol.com
 mx3.audiogol.com
 mx7.audiogol.com
-newmail.audiogol.com
 ns.audiogol.com
 ns2.audiogol.com
-po.audiogol.com
 post.audiogol.com
 relay.audiogol.com
-relay2.audiogol.com
 root.audiogol.com
 server.audiogol.com
-smtp01.audiogol.com
 smtpauth.audiogol.com
-smtpseguro.audiogol.com
 sniper.audiogol.com
-srv.audiogol.com
 tiger.audiogol.com
 www.audiogol.com
 zmail.audiogol.com
@@ -34220,8 +34210,6 @@ baiduccdn1.com
 dup.baidustatic.com
 bailyfitness.com
 bajajcapital.com
-ww25.bajarmusicayoutube.com
-ww38.bajarmusicayoutube.com
 bakerssolution.com
 bakesalehq.com
 balckfridaydeals.com
@@ -34254,6 +34242,7 @@ newads.bangbros.com
 bangbrps.com
 collect.banggood.com
 bangkokstar.com
+bangladeshixnxx.com
 banglalionwmax.com
 bangolore.com
 banhkofamerica.com
@@ -34395,7 +34384,6 @@ besdbuy.com
 best2020-games-web1.com
 bestadbid.com
 mail.bestbackorder.com
-www.bestbackorder.com
 bestboundary.com
 bestbritneypics.com
 context.bestbuy.com
@@ -34698,7 +34686,6 @@ bmwdiesels.com
 bmwussa.com
 bnidx.com
 cdn0.bnmla.com
-cdn1.bnmla.com
 cdnfi.bnmla.com
 cdnin.bnmla.com
 com.bnmla.com
@@ -34707,7 +34694,6 @@ dc21.bnmla.com
 dsp.bnmla.com
 dsp1.bnmla.com
 edge.bnmla.com
-foreman.bnmla.com
 hound.bnmla.com
 k.bnmla.com
 kickback.bnmla.com
@@ -34716,21 +34702,17 @@ match.bnmla.com
 mt.bnmla.com
 naing.bnmla.com
 perceptor.bnmla.com
-reporting.bnmla.com
-reporting2.bnmla.com
 rex.bnmla.com
 rex-east.bnmla.com
 rex-west.bnmla.com
 sensu-a.bnmla.com
 sensu-b.bnmla.com
 sensu-c.bnmla.com
-sj11.bnmla.com
 soccer.bnmla.com
 soundwave.bnmla.com
 tableau.bnmla.com
 test1.bnmla.com
 vc.bnmla.com
-video.bnmla.com
 vsb.bnmla.com
 wheelie.bnmla.com
 youqi16.bnmla.com
@@ -36278,7 +36260,6 @@ track.contently.com
 contentpreviews.com
 contentsdaily.com
 contextweb.com
-ww38.continentaql.com
 continular.com
 contourbelt.com
 rev.contractoruk.com
@@ -38199,7 +38180,6 @@ emperorguesthouse.com
 empfilx.com
 empiresrts.com
 emplflix.com
-www.empowerdownload.com
 emptyescort.com
 emxdgt.com
 emxdigital.com
@@ -38640,6 +38620,7 @@ feedmob.com
 traffic.feedremedy.com
 feeelancer.com
 feelmetube.com
+play.feesocrald.com
 feezle.com
 feisibuk.com
 galleries.femdomabuse.com
@@ -38713,12 +38694,9 @@ fireworks-advertising.com
 api.first-impression.com
 app.first-impression.com
 ax.first-impression.com
-betastaging.first-impression.com
 delivery.first-impression.com
 engage.first-impression.com
-mail.first-impression.com
 monitor.first-impression.com
-stagingui.first-impression.com
 tableau.first-impression.com
 video.first-impression.com
 www.first-impression.com
@@ -42103,7 +42081,6 @@ outbound242.iterable.com
 outbound244.iterable.com
 outbound249.iterable.com
 outbound250.iterable.com
-static.iterable.com
 status.iterable.com
 iteratehq.com
 itil-officalsite.com
@@ -42676,6 +42653,7 @@ securemail.lcs-solar.com
 securepop.lcs-solar.com
 shop.lcs-solar.com
 ww1.lcs-solar.com
+ww11.lcs-solar.com
 ww16.lcs-solar.com
 ww17.lcs-solar.com
 ww2.lcs-solar.com
@@ -45651,7 +45629,6 @@ correo.microsoftonlinne.com
 hermes.microsoftonlinne.com
 home.microsoftonlinne.com
 host.microsoftonlinne.com
-ww25.login.microsoftonlinne.com
 m.microsoftonlinne.com
 mail.microsoftonlinne.com
 mail5.microsoftonlinne.com
@@ -45660,7 +45637,6 @@ mailhost.microsoftonlinne.com
 mx02.microsoftonlinne.com
 mx1.microsoftonlinne.com
 po.microsoftonlinne.com
-ww25.portal.microsoftonlinne.com
 post.microsoftonlinne.com
 relay.microsoftonlinne.com
 relay1.microsoftonlinne.com
@@ -45670,7 +45646,6 @@ smtpauth.microsoftonlinne.com
 smtpseguro.microsoftonlinne.com
 srv.microsoftonlinne.com
 ww25.microsoftonlinne.com
-ww31.microsoftonlinne.com
 ww38.microsoftonlinne.com
 www.microsoftonlinne.com
 microsoftonlinr.com
@@ -54402,12 +54377,9 @@ lovemovie.moviegroups88.com
 rukmovie.moviegroups88.com
 siam-movie.moviegroups88.com
 www.moviegroups88.com
-139959.movies25.com
 1556685.movies25.com
-3946755.movies25.com
 4478739.movies25.com
-7749906.movies25.com
-8995170.movies25.com
+rm.7749906.movies25.com
 authsmtp.movies25.com
 catalog.movies25.com
 correo.movies25.com
@@ -54437,7 +54409,6 @@ smtps.movies25.com
 srv.movies25.com
 vmail.movies25.com
 www.movies25.com
-www1.movies25.com
 www2.movies25.com
 event-collector.moviesanywhere.com
 moviesmo.com
@@ -55487,6 +55458,7 @@ newflashupdates.com
 newgmailaccount.com
 ads.newgrounds.com
 img-info2638dg43.newip-info.com
+www.newip-info.com
 madata.newlook.com
 newmetalcraft.com
 newnudecash.com
@@ -55742,7 +55714,6 @@ noooooooooooooooooooo.com
 ads.nordichardware.com
 norelcoelectricshavers.com
 ww1.norsdom.com
-ww38.norsdom.com
 www.norsdom.com
 norstatsurveys.com
 north-outlet.com
@@ -61287,14 +61258,12 @@ ww1.pokemon-map.com
 ww11.pokemon-map.com
 ww16.pokemon-map.com
 ww17.pokemon-map.com
-ww25.pokemon-map.com
 ww38.pokemon-map.com
 www.pokemon-map.com
 pokemoncommunity.com
 pokemonindgo.com
 pokemonmarryland.com
 pokemonnindigo.com
-www.chat.pokemontm.com
 poker88asia.com
 pokienation.com
 pokkt.com
@@ -62695,7 +62664,6 @@ ww38.quiosconline.com
 quisma.com
 quizflavor.com
 ww16.quizlety.com
-ww25.quizlety.com
 quizzicalzephyr.com
 a.quora.com
 log.quora.com
@@ -67231,7 +67199,6 @@ servebom.com
 p.servedat.com
 assets.servedby-buysellads.com
 m.servedby-buysellads.com
-s.servedby-buysellads.com
 ss.servedby-buysellads.com
 static.servedby-buysellads.com
 servedbyadbutler.com
@@ -67889,25 +67856,6 @@ skype4mobile.com
 skysporthd1.com
 tracking.skyword.com
 analytics.slashdotmedia.com
-correo.slasinet.com
-email.slasinet.com
-imap1.slasinet.com
-mail.slasinet.com
-mail1.slasinet.com
-mail2.slasinet.com
-mail4.slasinet.com
-mailer.slasinet.com
-mailgate.slasinet.com
-mailgw.slasinet.com
-mailin.slasinet.com
-mailx.slasinet.com
-mx1.slasinet.com
-ns1.slasinet.com
-relay.slasinet.com
-server.slasinet.com
-srv.slasinet.com
-www1.slasinet.com
-www2.slasinet.com
 slatetheschool.com
 sleeklogo.com
 sleeknote.com
@@ -68249,7 +68197,6 @@ emaillinks.soundiiz.com
 soundza.com
 sourmaths.com
 soursejone.com
-ww11.southernwestairlines.com
 southparkstoudios.com
 southwestairliones.com
 click.i.southwesternrailway.com
@@ -70389,7 +70336,6 @@ torrentextra.com
 torrentim.com
 toruqufa.com
 tosapu.com
-ww1.total-barca.com
 totalgolfusa.com
 totaljakerface.com
 totaljerkaface.com
@@ -75982,6 +75928,9 @@ mv1.in
 adjust.net.in
 cdn.popt.in
 silk69.in
+cache.vitrines.in
+display.vitrines.in
+rat.vitrines.in
 wakau.in
 00221.info
 06br.info
@@ -76240,11 +76189,11 @@ beautyofboys.info
 met.beedy.info
 mvideo.beedy.info
 ww1.beedy.info
-ww17.beedy.info
 ww25.beedy.info
 ww38.beedy.info
 belajarpc.info
 benefication.info
+beragam.info
 beritaislam24h.info
 besplatno-kachaem.info
 besstahete.info
@@ -76330,7 +76279,6 @@ bt177.info
 btbt.info
 btcerise.info
 btfly.info
-ww11.bt.btsearch.info
 btsoso.info
 buddhadhamma.info
 buffalos.info
@@ -76406,7 +76354,6 @@ www.ww1.caoliu98.info
 ww16.caoliu98.info
 ww25.caoliu98.info
 ww38.caoliu98.info
-www.caoliu98.info
 www-origin.caoliu98.info
 caoliudz.info
 caouu.info
@@ -76565,6 +76512,7 @@ ww17.chavara.info
 www.chavara.info
 checkcode.info
 checkip.info
+www.chemia-gimnazjum.info
 chequamegonbay.info
 chinamaps.info
 chirurgie-refractive.info
@@ -76848,9 +76796,6 @@ fappu.info
 farace.info
 fatorfiction.info
 fazu.info
-ww1.fbdm.info
-ww12.fbdm.info
-ww3.fbdm.info
 www.fbdm.info
 fcsite.info
 autodiscover.feddu.info
@@ -77156,7 +77101,6 @@ izvestia.info
 jadwal-sholat.info
 jailbreakunlock.info
 jalsamoviez.info
-jamb.info
 janasevanakendram.info
 japy.info
 javanenvansuriname.info
@@ -77230,7 +77174,6 @@ kooora.info
 koorlive.info
 www.kozi.info
 kpopfan.info
-kreativan.info
 kreditvergleicheab.info
 krisallendaily.info
 www.kristijan.info
@@ -77594,6 +77537,7 @@ noticias365.info
 t.notif-colissimo-laposte.info
 novaonautoadssword.info
 novonovo.info
+ww1.npd-blog.info
 npic.info
 nrgroup.info
 nrpg.info
@@ -77703,6 +77647,7 @@ ww38.porev.info
 www.porev.info
 porno-chaman.info
 porno2018.info
+pornocomicsix.info
 pornokopilka.info
 pornos.info
 pornosemki.info
@@ -77778,7 +77723,6 @@ ww1.rearsets.info
 ww11.rearsets.info
 ww16.rearsets.info
 ww17.rearsets.info
-ww25.rearsets.info
 ww38.rearsets.info
 www.rearsets.info
 receptcity.info
@@ -77910,7 +77854,6 @@ serenade.info
 sergamer.info
 ww1.serrata.info
 ww17.serrata.info
-www.serrata.info
 servercore.info
 service4refresh.info
 sese377.info
@@ -77944,11 +77887,6 @@ shlink.info
 shopcfmobile.info
 showroom.info
 shrinky.info
-e-rentier.ru.shturm.info
-ww1.shturm.info
-ww11.shturm.info
-ww17.shturm.info
-www.shturm.info
 shuwo.info
 siberguvenlik.info
 sifangclub1.info
@@ -78134,8 +78072,7 @@ testing.svabe.info
 web.svabe.info
 ww17.svabe.info
 www.svabe.info
-ww25.svatektribratri.info
-ww38.svatektribratri.info
+svatektribratri.info
 sweetspotgolf.info
 swiss-military.info
 sworks.info
@@ -78638,16 +78575,12 @@ winner-topper-1.info
 wir9.info
 wishrobux.info
 witze.info
-2015-2018www.wnsrtys.info
 comwww.wnsrtys.info
 m.wnsrtys.info
 mail.wnsrtys.info
 mm.wnsrtys.info
 ww1.wnsrtys.info
-ww11.wnsrtys.info
 ww16.wnsrtys.info
-ww17.wnsrtys.info
-ww25.wnsrtys.info
 ww38.wnsrtys.info
 www.wnsrtys.info
 woco.info
@@ -78661,13 +78594,10 @@ wowchar.info
 wowsource.info
 wtftds.info
 wurzen.info
-vv.wuyexuan.info
-ww11.wuyexuan.info
-ww17.wuyexuan.info
-ww38.wuyexuan.info
 wwpc.info
 wxyd.info
 xav11.info
+xeal.info
 xfzona.info
 xiaohuangren.info
 xiaoshuog58.info
@@ -78791,7 +78721,6 @@ yfap.yapage.info
 yzip.yapage.info
 zcfb.yapage.info
 zrwb.yapage.info
-www.yapikayitbelgesi.info
 yasuka.info
 yiwo.info
 ylg2.info
@@ -78801,11 +78730,9 @@ youjjzz.info
 youluckywinner.info
 your-account.info
 yourapps.info
-mail.yourbestworkout.info
 ww1.yourbestworkout.info
 ww25.yourbestworkout.info
 ww38.yourbestworkout.info
-www.yourbestworkout.info
 monetizer.yourmobile.info
 mvideo.yourmobile.info
 prize-notification.yourmobile.info
@@ -78815,7 +78742,6 @@ ww1.yourmobile.info
 ww11.yourmobile.info
 ww17.yourmobile.info
 ww38.yourmobile.info
-www.yourmobile.info
 yeahmobi.yourmobile.info
 youwinner.info
 yq366.info
@@ -78833,6 +78759,7 @@ zhubo350.info
 zhubo900.info
 zins-radar.info
 zipmangabk.info
+zonacodot.info
 zppp.info
 zuckerkrankheit.info
 zvarych.info
@@ -96066,7 +95993,6 @@ e-9794.adzerk.net
 e-9794-us-east-1.adzerk.net
 e-9800.adzerk.net
 e-9800-us-east-1.adzerk.net
-e-9819.adzerk.net
 e-9819-us-east-1.adzerk.net
 e-9832.adzerk.net
 e-9832-us-east-1.adzerk.net
@@ -96759,7 +96685,6 @@ www.buddycode.net
 budgetuk.net
 acceptable.buysellads.net
 cdn-s2s.buysellads.net
-cdn-s2s-origin.buysellads.net
 cdn4.buysellads.net
 email.buysellads.net
 buzzcity.net
@@ -99321,6 +99246,7 @@ api.content-recommendation.net
 cdn.content-recommendation.net
 delivery.content-recommendation.net
 tracking.content-recommendation.net
+turbo.content-recommendation.net
 updater.content-recommendation.net
 contentdd.net
 az.contentsquare.net
@@ -114632,11 +114558,7 @@ duvalltaxcollect.net
 dynad.net
 e-freesms.net
 e-planning.net
-mail.e-videosurveillance.net
 ww1.e-videosurveillance.net
-ww17.e-videosurveillance.net
-ww25.e-videosurveillance.net
-ww38.e-videosurveillance.net
 ww7.e-videosurveillance.net
 www.e-videosurveillance.net
 easydomain.net
@@ -116477,9 +116399,6 @@ homeschoolingbenefits.net
 dns.hostux.net
 hotbest.net
 houken.net
-ww16.housesoflight.net
-ww25.housesoflight.net
-www.housesoflight.net
 hozim.net
 hubspot-test-subdomain.hs-analytics.net
 js.hs-analytics.net
@@ -116991,7 +116910,6 @@ mobperads.net
 mobplus.net
 mobuna.net
 models24seven.net
-touch.moe-lovers.net
 monbell.net
 a.monetate.net
 ad.monetate.net
@@ -118729,11 +118647,7 @@ relay.satellitebr.net
 secure.satellitebr.net
 server.satellitebr.net
 smtps.satellitebr.net
-ww1.satellitebr.net
 ww25.satellitebr.net
-ww31.satellitebr.net
-ww38.satellitebr.net
-www.satellitebr.net
 www2.satellitebr.net
 zmail.satellitebr.net
 sb69.net
@@ -118755,8 +118669,6 @@ securuestech.net
 mx4.sedtest.net
 ww1.sedtest.net
 ww25.sedtest.net
-ww38.sedtest.net
-www.sedtest.net
 selfbuilder.net
 amd.sellingsimplified.net
 sellpoint.net
@@ -118829,6 +118741,7 @@ contacts-api-development.sendgrid.net
 contacts-api-production.sendgrid.net
 contacts-api-staging.sendgrid.net
 1928363.ct.sendgrid.net
+u10001285.ct.sendgrid.net
 u10002014.ct.sendgrid.net
 u10016620.ct.sendgrid.net
 u10018409.ct.sendgrid.net
@@ -118852,6 +118765,7 @@ u10049853.ct.sendgrid.net
 u10053784.ct.sendgrid.net
 u10053935.ct.sendgrid.net
 u10057441.ct.sendgrid.net
+u10058752.ct.sendgrid.net
 u10059356.ct.sendgrid.net
 u10060288.ct.sendgrid.net
 u10063538.ct.sendgrid.net
@@ -118886,6 +118800,7 @@ u10135362.ct.sendgrid.net
 u1013695.ct.sendgrid.net
 u10138125.ct.sendgrid.net
 u10150939.ct.sendgrid.net
+u10151926.ct.sendgrid.net
 u10153457.ct.sendgrid.net
 u10154700.ct.sendgrid.net
 u10156772.ct.sendgrid.net
@@ -118893,6 +118808,7 @@ u10157895.ct.sendgrid.net
 u10160131.ct.sendgrid.net
 u10161984.ct.sendgrid.net
 u10165676.ct.sendgrid.net
+u1016809.ct.sendgrid.net
 u10171909.ct.sendgrid.net
 u10175893.ct.sendgrid.net
 u10176254.ct.sendgrid.net
@@ -118940,6 +118856,7 @@ u10276865.ct.sendgrid.net
 u10277184.ct.sendgrid.net
 u10280966.ct.sendgrid.net
 u10283527.ct.sendgrid.net
+u1028581.ct.sendgrid.net
 u10288296.ct.sendgrid.net
 u10293681.ct.sendgrid.net
 u10295839.ct.sendgrid.net
@@ -118955,6 +118872,7 @@ u10309562.ct.sendgrid.net
 u10309779.ct.sendgrid.net
 u10318183.ct.sendgrid.net
 u10319038.ct.sendgrid.net
+u10319609.ct.sendgrid.net
 u10321287.ct.sendgrid.net
 u10323337.ct.sendgrid.net
 u10323354.ct.sendgrid.net
@@ -118983,6 +118901,7 @@ u10360880.ct.sendgrid.net
 u1036759.ct.sendgrid.net
 u10375984.ct.sendgrid.net
 u10378340.ct.sendgrid.net
+u10380865.ct.sendgrid.net
 u10383623.ct.sendgrid.net
 u10386080.ct.sendgrid.net
 u10388218.ct.sendgrid.net
@@ -119015,9 +118934,11 @@ u10513896.ct.sendgrid.net
 u1051420.ct.sendgrid.net
 u10515711.ct.sendgrid.net
 u10523814.ct.sendgrid.net
+u10532398.ct.sendgrid.net
 u10536724.ct.sendgrid.net
 u10547584.ct.sendgrid.net
 u10550315.ct.sendgrid.net
+u10551729.ct.sendgrid.net
 u10556763.ct.sendgrid.net
 u10570082.ct.sendgrid.net
 u10576743.ct.sendgrid.net
@@ -119025,6 +118946,7 @@ u10578433.ct.sendgrid.net
 u10580355.ct.sendgrid.net
 u10582777.ct.sendgrid.net
 u10595927.ct.sendgrid.net
+u10640021.ct.sendgrid.net
 u10643200.ct.sendgrid.net
 u10643427.ct.sendgrid.net
 u10643484.ct.sendgrid.net
@@ -119103,6 +119025,7 @@ u10990337.ct.sendgrid.net
 u1099264.ct.sendgrid.net
 u10997588.ct.sendgrid.net
 u10998346.ct.sendgrid.net
+u11002845.ct.sendgrid.net
 u11006209.ct.sendgrid.net
 u11009369.ct.sendgrid.net
 u11012261.ct.sendgrid.net
@@ -119146,6 +119069,7 @@ u11283751.ct.sendgrid.net
 u11283801.ct.sendgrid.net
 u11283832.ct.sendgrid.net
 u11283900.ct.sendgrid.net
+u11284079.ct.sendgrid.net
 u11284110.ct.sendgrid.net
 u11296787.ct.sendgrid.net
 u11297609.ct.sendgrid.net
@@ -119203,6 +119127,7 @@ u116833.ct.sendgrid.net
 u11688785.ct.sendgrid.net
 u1169671.ct.sendgrid.net
 u11696972.ct.sendgrid.net
+u11705627.ct.sendgrid.net
 u11708502.ct.sendgrid.net
 u11709497.ct.sendgrid.net
 u11711677.ct.sendgrid.net
@@ -119228,6 +119153,7 @@ u11821089.ct.sendgrid.net
 u11834666.ct.sendgrid.net
 u11836309.ct.sendgrid.net
 u11844563.ct.sendgrid.net
+u11857852.ct.sendgrid.net
 u11858502.ct.sendgrid.net
 u11859861.ct.sendgrid.net
 u11860964.ct.sendgrid.net
@@ -119263,6 +119189,7 @@ u11950036.ct.sendgrid.net
 u11950291.ct.sendgrid.net
 u11950387.ct.sendgrid.net
 u11950467.ct.sendgrid.net
+u11953456.ct.sendgrid.net
 u11954035.ct.sendgrid.net
 u11957592.ct.sendgrid.net
 u11959311.ct.sendgrid.net
@@ -122879,7 +122806,6 @@ vickyshop.net
 videowap.net
 api.vidiom.net
 ww16.villagetackle.net
-ww25.villagetackle.net
 ww38.villagetackle.net
 www.villagetackle.net
 lb.dub1.visto1.net
@@ -123370,8 +123296,6 @@ arrahman.org
 arshcenter.org
 arsuicideprevention.org
 arteterapiaforo.org
-ww1.artisanbuilderscollective.org
-www.artisanbuilderscollective.org
 as3js.org
 asburywarren.org
 asian-sex-tube.org
@@ -123393,13 +123317,8 @@ pop.ask2.org
 post.ask2.org
 relay1.ask2.org
 smtps.ask2.org
-summary.ask2.org
-ww1.wiki.ask2.org
 words.ask2.org
-ww1.ask2.org
-ww17.ask2.org
 ww38.ask2.org
-www.ask2.org
 aspinalfoundation.org
 assertj.org
 assistirfilmesonlinehd.org
@@ -124075,7 +123994,11 @@ k-house.org
 kadenachapelmusic.org
 kahnacadamey.org
 kahok.org
-kalnyc.org
+ww1.kalnyc.org
+ww17.kalnyc.org
+ww2.kalnyc.org
+ww38.kalnyc.org
+www.kalnyc.org
 kanpurunivercity.org
 kansascash.org
 kaveret.org
@@ -124583,27 +124506,43 @@ radiomarket.org
 adserver.radiomediagroup.org
 radiowymsey.org
 10070534.radyotiyatrosu.org
+10512241.radyotiyatrosu.org
+11297060.radyotiyatrosu.org
 11802047.radyotiyatrosu.org
+119849u.radyotiyatrosu.org
+11991192.radyotiyatrosu.org
 12157181.radyotiyatrosu.org
+15106930.radyotiyatrosu.org
+16103740.radyotiyatrosu.org
 17030154.radyotiyatrosu.org
 17301612.radyotiyatrosu.org
+17518810.radyotiyatrosu.org
 18890007.radyotiyatrosu.org
 19002152.radyotiyatrosu.org
 19151076.radyotiyatrosu.org
+19340600.radyotiyatrosu.org
 19413500.radyotiyatrosu.org
+19708051.radyotiyatrosu.org
+19910441.radyotiyatrosu.org
 21603118.radyotiyatrosu.org
 30003098.radyotiyatrosu.org
 301341u.radyotiyatrosu.org
 40771070.radyotiyatrosu.org
 44400041.radyotiyatrosu.org
+47404000.radyotiyatrosu.org
 48130301.radyotiyatrosu.org
+594403u.radyotiyatrosu.org
+59801115.radyotiyatrosu.org
+60523.radyotiyatrosu.org
 61108460.radyotiyatrosu.org
 70909080.radyotiyatrosu.org
+82106115.radyotiyatrosu.org
 88730100.radyotiyatrosu.org
 90131851.radyotiyatrosu.org
 90808109.radyotiyatrosu.org
 91319171.radyotiyatrosu.org
 92040117.radyotiyatrosu.org
+95101806.radyotiyatrosu.org
 ww17.radyotiyatrosu.org
 www.radyotiyatrosu.org
 raftmaster.org
@@ -125387,6 +125326,7 @@ www.dayprogramprize.rest
 n.rich
 t.fml.rip
 ads.adstream.com.ro
+mail.creativeads.ro
 ip.ro
 top123.ro
 trafic.ro
@@ -125449,22 +125389,7 @@ rumstat-01.cdnvideo.ru
 rumstat-02.cdnvideo.ru
 rumstat-03.cdnvideo.ru
 www-banner.chat.ru
-asentrix.com-y.ru
-bit-ly.com-y.ru
-bitly.com-y.ru
-danthegod.com-y.ru
-facebook.com-y.ru
-facebook-security.com-y.ru
-facebooksecure.com-y.ru
-facebooksecurity.com-y.ru
-lcloud.com-y.ru
-mail.com-y.ru
-paypal.com-y.ru
-runscape.com-y.ru
-shortmnf.com-y.ru
-vk.com-y.ru
 www.com-y.ru
-xn--binanc-uh8b.com-y.ru
 wss.rand.com.ru
 datamind.ru
 datariver.ru
@@ -129693,6 +129618,7 @@ nt.vc
 datapremium.com.ve
 dynadmic.video
 binance2.vip
+usaclub.vip
 adi.admicro.vn
 admatic.admicro.vn
 adnetwork.admicro.vn
