@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 330980
+# Ignored duplicates: 331079
 
 chameleon.ad
 pixel.ad
@@ -32068,6 +32068,7 @@ u0014-adscripts.apps.randi.adswizz.com
 u0025-voiceover.apps.randi.adswizz.com
 u0028-audiogo.apps.randi.adswizz.com
 u0028-audiogo-dev.apps.randi.adswizz.com
+u0030-live-events.apps.randi.adswizz.com
 voice-recommender.apps.randi.adswizz.com
 captain.devapps.randi.adswizz.com
 jupyter.devapps.randi.adswizz.com
@@ -34694,12 +34695,9 @@ dc21.bnmla.com
 dsp.bnmla.com
 dsp1.bnmla.com
 edge.bnmla.com
-hound.bnmla.com
 k.bnmla.com
 kickback.bnmla.com
-mail.bnmla.com
 match.bnmla.com
-mt.bnmla.com
 naing.bnmla.com
 perceptor.bnmla.com
 rex.bnmla.com
@@ -35438,6 +35436,7 @@ chryslercareer.com
 chryslercocars.com
 chrysleronnicholasville.com
 chryslerretiree.com
+chubbycreature.com
 chukiecheeses.com
 cdn.churnkit.com
 chusero.com
@@ -43865,6 +43864,10 @@ app-ab54.marketo.com
 app-ab55.marketo.com
 app-ab56.marketo.com
 app-ab57.marketo.com
+app-ab58.marketo.com
+app-ab59.marketo.com
+app-ab60.marketo.com
+app-ab61.marketo.com
 app-aba.marketo.com
 app-abb.marketo.com
 app-abc.marketo.com
@@ -43954,6 +43957,7 @@ app-sj38.marketo.com
 app-sj39.marketo.com
 app-sj40.marketo.com
 app-sj41.marketo.com
+app-sj42.marketo.com
 app-sjdemo1.marketo.com
 app-sjf.marketo.com
 app-sjg.marketo.com
@@ -44195,6 +44199,10 @@ na-ab54.marketo.com
 na-ab55.marketo.com
 na-ab56.marketo.com
 na-ab57.marketo.com
+na-ab58.marketo.com
+na-ab59.marketo.com
+na-ab60.marketo.com
+na-ab61.marketo.com
 na-aba.marketo.com
 na-abb.marketo.com
 na-abc.marketo.com
@@ -44275,6 +44283,7 @@ na-sj38.marketo.com
 na-sj39.marketo.com
 na-sj40.marketo.com
 na-sj41.marketo.com
+na-sj42.marketo.com
 na-sjdemo1.marketo.com
 na-sjf.marketo.com
 na-sjg.marketo.com
@@ -45625,29 +45634,17 @@ www.microsoftonilne.com
 microsoftonliine.com
 microsoftonlime.com
 comune.microsoftonlinne.com
-correo.microsoftonlinne.com
-hermes.microsoftonlinne.com
-home.microsoftonlinne.com
-host.microsoftonlinne.com
 m.microsoftonlinne.com
 mail.microsoftonlinne.com
-mail5.microsoftonlinne.com
 mailgw.microsoftonlinne.com
 mailhost.microsoftonlinne.com
 mx02.microsoftonlinne.com
 mx1.microsoftonlinne.com
 po.microsoftonlinne.com
 post.microsoftonlinne.com
-relay.microsoftonlinne.com
-relay1.microsoftonlinne.com
 relay2.microsoftonlinne.com
-smtp01.microsoftonlinne.com
-smtpauth.microsoftonlinne.com
 smtpseguro.microsoftonlinne.com
-srv.microsoftonlinne.com
-ww25.microsoftonlinne.com
 ww38.microsoftonlinne.com
-www.microsoftonlinne.com
 microsoftonlinr.com
 microsoftonlne.com
 microsofttonline.com
@@ -54408,7 +54405,6 @@ server.movies25.com
 smtps.movies25.com
 srv.movies25.com
 vmail.movies25.com
-www.movies25.com
 www2.movies25.com
 event-collector.moviesanywhere.com
 moviesmo.com
@@ -54956,13 +54952,8 @@ mympband.com
 mymxtertones.com
 mymyflorida.com
 mynativeplatform.com
-banner.mynetworkingpro.com
-mail.mynetworkingpro.com
 ww1.mynetworkingpro.com
-ww17.mynetworkingpro.com
-ww38.mynetworkingpro.com
 www.mynetworkingpro.com
-www1.mynetworkingpro.com
 mynewrotationlink.com
 mynutrikid.com
 myownnudes.com
@@ -61258,7 +61249,6 @@ ww1.pokemon-map.com
 ww11.pokemon-map.com
 ww16.pokemon-map.com
 ww17.pokemon-map.com
-ww38.pokemon-map.com
 www.pokemon-map.com
 pokemoncommunity.com
 pokemonindgo.com
@@ -62663,7 +62653,6 @@ given.quiosconline.com
 ww38.quiosconline.com
 quisma.com
 quizflavor.com
-ww16.quizlety.com
 quizzicalzephyr.com
 a.quora.com
 log.quora.com
@@ -66964,7 +66953,6 @@ securitassecurity.com
 security-rd.com
 ww16.sedna-aca.com
 www.sedna-aca.com
-ww25.marketplace.sedondlife.com
 sedoparking.com
 sedotracker.com
 seducingthesister.com
@@ -76127,15 +76115,8 @@ bailu888.info
 baixarjogoscompletos.info
 baixartorrent.info
 balkaria.info
-jocurionline.bancurifunny.info
-mvideo.bancurifunny.info
-pop.bancurifunny.info
-ww1.bancurifunny.info
+ww16.mvideo.bancurifunny.info
 ww11.bancurifunny.info
-ww16.bancurifunny.info
-ww17.bancurifunny.info
-ww25.bancurifunny.info
-www.bancurifunny.info
 bandwurm.info
 www.barcs.info
 barepunting.info
@@ -76752,7 +76733,6 @@ ww38.cpanel.equity254.info
 mail.equity254.info
 ww1.equity254.info
 ww38.equity254.info
-www.equity254.info
 equityfunds.info
 erbrechen.info
 eremurus.info
@@ -76798,11 +76778,7 @@ fatorfiction.info
 fazu.info
 www.fbdm.info
 fcsite.info
-autodiscover.feddu.info
-webdisk.feddu.info
 ww1.feddu.info
-ww17.feddu.info
-www.feddu.info
 feiran.info
 ffy4.info
 fieberbrunn.info
@@ -76931,6 +76907,7 @@ gighoe.info
 girlsvideosonline.info
 gitorm.info
 giveawayforyou.info
+gladkov.info
 glee-episode.info
 globaldew.info
 godspeakstoday.info
@@ -77142,6 +77119,7 @@ karlovyvary.info
 kaunertal.info
 kaymbo.info
 kbbi.info
+kbuj.info
 keliauk.info
 kendari.info
 khalijmusic.info
@@ -77852,8 +77830,6 @@ sepalo3.info
 sere.info
 serenade.info
 sergamer.info
-ww1.serrata.info
-ww17.serrata.info
 servercore.info
 service4refresh.info
 sese377.info
@@ -78731,8 +78707,6 @@ youluckywinner.info
 your-account.info
 yourapps.info
 ww1.yourbestworkout.info
-ww25.yourbestworkout.info
-ww38.yourbestworkout.info
 monetizer.yourmobile.info
 mvideo.yourmobile.info
 prize-notification.yourmobile.info
@@ -116223,6 +116197,7 @@ ads3.gamecity.net
 ads4.gamecity.net
 ads6.gamecity.net
 ads7.gamecity.net
+gamegenetics.net
 gamesites100.net
 gameth.net
 gamma-tech.net
@@ -122620,7 +122595,6 @@ dialogue.sp-prod.net
 mms.sp-prod.net
 ns1.specdtest.net
 ns2.specdtest.net
-www.specdtest.net
 specially4u.net
 collector.pi.spectrum.net
 speectest.net
@@ -123777,6 +123751,7 @@ freeasiantube.org
 freebook4u.org
 freecardgamesonline.org
 freecitizenshiptest.org
+freecoinbase.org
 freedomdeliverance.org
 freeesound.org
 freefilm.org
@@ -124134,7 +124109,6 @@ dev.mattemattik.org
 old.mattemattik.org
 shop.mattemattik.org
 test.mattemattik.org
-ww1.mattemattik.org
 ww25.mattemattik.org
 www.mattemattik.org
 mauiefcu.org
@@ -125389,7 +125363,6 @@ rumstat-01.cdnvideo.ru
 rumstat-02.cdnvideo.ru
 rumstat-03.cdnvideo.ru
 www-banner.chat.ru
-www.com-y.ru
 wss.rand.com.ru
 datamind.ru
 datariver.ru
