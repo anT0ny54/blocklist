@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 327416
+# Ignored duplicates: 327475
 
 chameleon.ad
 pixel.ad
@@ -32835,8 +32835,6 @@ alooma.com
 alpha-mobi.com
 alphabuds.com
 alpixtrack.com
-ww1.alsader.com
-ww16.alsader.com
 ww17.alsader.com
 ww3.alsader.com
 alsmotorhomes.com
@@ -34079,6 +34077,8 @@ awin1.com
 www.awltovhc.com
 wwww.awltovhc.com
 awmdelivery.com
+conference.nh.awsmppl.com
+proxy.nh.awsmppl.com
 awsstatreporter.com
 awtank.com
 awzbijw.com
@@ -34653,9 +34653,7 @@ dsp.bnmla.com
 dsp1.bnmla.com
 edge.bnmla.com
 k.bnmla.com
-kickback.bnmla.com
 match.bnmla.com
-naing.bnmla.com
 perceptor.bnmla.com
 rex.bnmla.com
 rex-east.bnmla.com
@@ -34666,7 +34664,6 @@ sensu-c.bnmla.com
 soccer.bnmla.com
 soundwave.bnmla.com
 wheelie.bnmla.com
-youqi16.bnmla.com
 bnpuk.com
 bobbybonesshow.com
 www.bobeshehi.com
@@ -38645,8 +38642,6 @@ marvel-e8d36.firebaseapp.com
 fireworkadservices.com
 fireworkanalytics.com
 fireworks-advertising.com
-app.first-impression.com
-ax.first-impression.com
 firstanalouest.com
 firstliberybank.com
 firstlightera.com
@@ -40612,7 +40607,8 @@ www.googletagservices.com
 googletrad.com
 googlevedio.com
 googlevideosx.com
-googlrearth.com
+magento.googlrearth.com
+old.googlrearth.com
 googlyoutube.com
 googm.com
 googolel.com
@@ -43007,6 +43003,7 @@ httpswwww.loggly.com
 huawei01.loggly.com
 huawei123.loggly.com
 icoleis201502.loggly.com
+info.loggly.com
 iqmetrix.loggly.com
 iqmetrixdev.loggly.com
 jlhamlett0007.loggly.com
@@ -55750,7 +55747,6 @@ nongfu55.com
 noooooooooooooooooooo.com
 ads.nordichardware.com
 norelcoelectricshavers.com
-ww1.norsdom.com
 norstatsurveys.com
 north-outlet.com
 northfloridafamilyfunguide.com
@@ -60623,7 +60619,6 @@ cs.pageforsafety.com
 direct.pageforsafety.com
 email.pageforsafety.com
 eml.pageforsafety.com
-gateway.pageforsafety.com
 gw.pageforsafety.com
 home.pageforsafety.com
 host.pageforsafety.com
@@ -60633,15 +60628,11 @@ mail.pageforsafety.com
 mail02.pageforsafety.com
 mail1.pageforsafety.com
 mail10.pageforsafety.com
-mail11.pageforsafety.com
 mail12.pageforsafety.com
 mail2.pageforsafety.com
-mail4.pageforsafety.com
-mail5.pageforsafety.com
 mail6.pageforsafety.com
 mail7.pageforsafety.com
 mail8.pageforsafety.com
-mail9.pageforsafety.com
 mailapp.pageforsafety.com
 mailer.pageforsafety.com
 mailgate.pageforsafety.com
@@ -60650,7 +60641,6 @@ mailhost.pageforsafety.com
 mailin.pageforsafety.com
 mailrelay.pageforsafety.com
 mails.pageforsafety.com
-mailserver.pageforsafety.com
 mailsrv.pageforsafety.com
 mailx.pageforsafety.com
 mbox.pageforsafety.com
@@ -60659,8 +60649,6 @@ ms1.pageforsafety.com
 mta.pageforsafety.com
 mx.pageforsafety.com
 mx0.pageforsafety.com
-mx01.pageforsafety.com
-mx02.pageforsafety.com
 mx1.pageforsafety.com
 mx10.pageforsafety.com
 mx2.pageforsafety.com
@@ -60674,8 +60662,6 @@ newmail.pageforsafety.com
 ns.pageforsafety.com
 ns1.pageforsafety.com
 ns2.pageforsafety.com
-out.pageforsafety.com
-outmail.pageforsafety.com
 pbrand.pageforsafety.com
 poczta.pageforsafety.com
 pop.pageforsafety.com
@@ -60691,8 +60677,6 @@ server.pageforsafety.com
 server1.pageforsafety.com
 smtp01.pageforsafety.com
 smtpauth.pageforsafety.com
-smtps.pageforsafety.com
-smtpseguro.pageforsafety.com
 sniper.pageforsafety.com
 srv.pageforsafety.com
 thor.pageforsafety.com
@@ -60704,7 +60688,6 @@ ww38.pageforsafety.com
 www.pageforsafety.com
 www1.pageforsafety.com
 www2.pageforsafety.com
-zimbra.pageforsafety.com
 pageranktop.com
 metrics.pagerduty.com
 promote.pair.com
@@ -61284,11 +61267,8 @@ pointificsecure.com
 pointlesshour.com
 pointroll.com
 pokemon-go-hack.com
-dev.pokemon-map.com
 magento.pokemon-map.com
-staging.pokemon-map.com
 ww1.pokemon-map.com
-ww11.pokemon-map.com
 ww17.pokemon-map.com
 pokemoncommunity.com
 pokemonindgo.com
@@ -64723,6 +64703,7 @@ ww38.quiosconline.com
 quisma.com
 quizflavor.com
 ww1.quizlety.com
+ww11.quizlety.com
 quizzicalzephyr.com
 a.quora.com
 log.quora.com
@@ -68893,11 +68874,9 @@ screechingstove.com
 statsapi.screen9.com
 counter.scribblelive.com
 lahyieyu.scriload.com
-ww11.scriload.com
 ww17.scriload.com
 ww25.scriload.com
 ww35.scriload.com
-ww38.scriload.com
 ww4.scriload.com
 ww41.scriload.com
 ww8.scriload.com
@@ -78472,6 +78451,7 @@ casablanca.info
 cashtrafic.info
 caytre.info
 cborder.info
+mail.ccinet.info
 wlamazcsrv1.cclove12.info
 ww1.cclove12.info
 ww16.cclove12.info
@@ -78633,6 +78613,9 @@ dirproject.info
 display-systems.info
 com.dj-maza.info
 dev.dj-maza.info
+old.dj-maza.info
+test.dj-maza.info
+www.dj-maza.info
 dlskits.info
 dmobi.info
 doctorette.info
@@ -79512,6 +79495,7 @@ novaonautoadssword.info
 novonovo.info
 mail.npd-blog.info
 ww1.npd-blog.info
+ww3.npd-blog.info
 ww4.npd-blog.info
 www.npd-blog.info
 npic.info
@@ -79920,7 +79904,6 @@ sondages.info
 ns1.songspksongspk.info
 ns2.songspksongspk.info
 ww1.songspksongspk.info
-ww17.songspksongspk.info
 www.songspksongspk.info
 sonrose.info
 sonyvegas.info
@@ -79976,7 +79959,6 @@ id.stafa.info
 mp3.stafa.info
 w.stafa.info
 ww.stafa.info
-ww38.stafa.info
 www.stafa.info
 stafabanddl.info
 ww1.startbeestlife.info
@@ -80545,9 +80527,6 @@ wir9.info
 wishrobux.info
 witze.info
 mail.wnsrtys.info
-mm.wnsrtys.info
-ww38.wnsrtys.info
-www.www.wnsrtys.info
 woco.info
 wonderweblink.info
 wood35.info
@@ -88095,7 +88074,6 @@ tribl.io
 trugaze.io
 tubi.io
 trackers.voodoo-analytics.io
-wordpress.voodoo-analytics.io
 www.voodoo-analytics.io
 api-gdpr.voodoo-tech.io
 crosspromo.voodoo.io
@@ -88140,7 +88118,6 @@ cs.yellowblue.io
 cs-server-s2s.yellowblue.io
 demo-sdk.yellowblue.io
 eks-dashboard-production.yellowblue.io
-eks-dashboard-staging.yellowblue.io
 grafana.yellowblue.io
 grafana-staging.yellowblue.io
 hb.yellowblue.io
@@ -99560,6 +99537,7 @@ e-10825-us-east-1.adzerk.net
 e-10832.adzerk.net
 e-10832-us-east-1.adzerk.net
 e-10860.adzerk.net
+e-10866.adzerk.net
 e-10875.adzerk.net
 e-10875-us-east-1.adzerk.net
 e-10884.adzerk.net
@@ -100317,10 +100295,8 @@ easygdpr.b-cdn.net
 katr.b-cdn.net
 qualdnt.b-cdn.net
 b2badvantage.net
-ww1.babrizqk.net
 ww11.babrizqk.net
 ww38.babrizqk.net
-www.babrizqk.net
 stats.bahnhof.net
 bandwidthx.net
 bannerconnect.net
@@ -103117,11 +103093,9 @@ depatis.net
 depelis.net
 deqwas.net
 dermaweb.net
-www.desginyourway.net
 designbett.net
 desimasala.net
 mail.desireengine.net
-www.desireengine.net
 detrazioni.net
 dfborg.net
 www.dieukhien.net
@@ -118256,7 +118230,6 @@ duvalltaxcollect.net
 dynad.net
 e-freesms.net
 e-planning.net
-www.e-videosurveillance.net
 easydomain.net
 easywebsearch.net
 easyweightlossforwoman.net
@@ -120064,9 +120037,7 @@ gudefrage.net
 gundam-eclipse.net
 gutrfrage.net
 gxbrowser.net
-ww17.gymnopedie-juridique.net
 ww38.gymnopedie-juridique.net
-www.gymnopedie-juridique.net
 h4ckerx.net
 hacsktore.net
 halloweenghostcostumes.net
@@ -120113,7 +120084,6 @@ httplinkrepeater.net
 h0.t.hubspotemail.net
 hyperbanner.net
 hypizel.net
-iavnight.net
 ibwin68.net
 idealadvertising.net
 idgame.net
@@ -120182,7 +120152,6 @@ ivaremortgage.net
 ww1.iwyszukiwarkamp3.net
 ww17.iwyszukiwarkamp3.net
 ww38.iwyszukiwarkamp3.net
-www.iwyszukiwarkamp3.net
 iyotube.net
 jacquieetmichetvl.net
 jauchuwa.net
@@ -120218,24 +120187,15 @@ box.koosk.net
 comune.koosk.net
 mail.koosk.net
 mail01.koosk.net
-mail1.koosk.net
 mail7.koosk.net
 mailgw.koosk.net
 mailhost.koosk.net
 mailin.koosk.net
-mailsrv.koosk.net
-ms1.koosk.net
-mx.koosk.net
 mx10.koosk.net
 mx4.koosk.net
-mx5.koosk.net
 newmail.koosk.net
 post.koosk.net
 postmaster.koosk.net
-relay2.koosk.net
-server1.koosk.net
-server2.koosk.net
-smtpseguro.koosk.net
 sniper.koosk.net
 srv.koosk.net
 ww1.koosk.net
@@ -121687,7 +121647,6 @@ pbid.pro-market.net
 report.pro-market.net
 test.pro-market.net
 ww1.produse-reduse.net
-www.produse-reduse.net
 profilblech.net
 projectfree.net
 promoget.net
@@ -122343,14 +122302,6 @@ sabrashop.net
 safefrome.net
 sageanalyst.net
 santacluse.net
-gateway.satellitebr.net
-home.satellitebr.net
-mail02.satellitebr.net
-mail8.satellitebr.net
-mailgw.satellitebr.net
-posta.satellitebr.net
-server.satellitebr.net
-zmail.satellitebr.net
 sb69.net
 sc-static.net
 scamprotection.net
@@ -126586,7 +126537,6 @@ vgta.net
 vickyshop.net
 videowap.net
 api.vidiom.net
-ww16.villagetackle.net
 lb.dub1.visto1.net
 lb.iad1.visto1.net
 lb.sjc1.visto1.net
@@ -127076,20 +127026,6 @@ arteterapiaforo.org
 as3js.org
 asburywarren.org
 asian-sex-tube.org
-mail.ask2.org
-mail2.ask2.org
-mail7.ask2.org
-mailhost.ask2.org
-mailout.ask2.org
-mta.ask2.org
-mx.ask2.org
-mx10.ask2.org
-mx2.ask2.org
-ns.ask2.org
-ns1.ask2.org
-post.ask2.org
-smtps.ask2.org
-words.ask2.org
 aspinalfoundation.org
 assertj.org
 assistirfilmesonlinehd.org
@@ -127537,8 +127473,6 @@ freagle.org
 free-video-cutter.org
 iloapp.free6xxx.org
 sexchat.free6xxx.org
-ww1.free6xxx.org
-ww25.free6xxx.org
 ww7.free6xxx.org
 www.free6xxx.org
 freeasiantube.org
@@ -129158,6 +129092,7 @@ hitlist.ru
 hotlog.ru
 content.hybrid.ru
 inetlog.ru
+www.kbyakor.ru
 click.kmindex.ru
 counting.kmindex.ru
 lbn.ru
@@ -133470,7 +133405,6 @@ www.game.xyz
 gramp.xyz
 homedeal.xyz
 opennic.i2pd.xyz
-indian-news.xyz
 linkbooster.xyz
 miqaki.xyz
 mobiclean.xyz
