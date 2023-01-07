@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 324840
+# Ignored duplicates: 324580
 
 chameleon.ad
 pixel.ad
@@ -33219,7 +33219,6 @@ adserver-2084671375.us-east-1.elb.amazonaws.com
 adserver-262442799.us-east-1.elb.amazonaws.com
 adserver-alb-v7-2006293303.us-east-1.elb.amazonaws.com
 adserver-application-1415734552.us-east-1.elb.amazonaws.com
-adserver-clarium-446793891.us-east-1.elb.amazonaws.com
 adserver-prod-alb-721496568.us-east-1.elb.amazonaws.com
 adserver-vpc-alb-0-2072243822.us-east-1.elb.amazonaws.com
 adserver-vpc-alb-1-2048135467.us-east-1.elb.amazonaws.com
@@ -33989,8 +33988,6 @@ www.atatmobile.com
 adecn-w.atdmt.com
 aidps.atdmt.com
 aixdc.atdmt.com
-analytics.atdmt.com
-api.atdmt.com
 bl2aqusrch.atdmt.com
 bl2trk.atdmt.com
 bxd.atdmt.com
@@ -34266,6 +34263,7 @@ hp.awsmppl.com
 icey.awsmppl.com
 ingreed.awsmppl.com
 inpector.awsmppl.com
+intelest.awsmppl.com
 interessantes.awsmppl.com
 jfmamjjasond.awsmppl.com
 jitsilab.awsmppl.com
@@ -54838,7 +54836,6 @@ sju.mmstat.com
 sycm.mmstat.com
 w.mmstat.com
 wgm.mmstat.com
-wgo.mmstat.com
 yt.mmstat.com
 yt1.mmstat.com
 yt2.mmstat.com
@@ -55416,6 +55413,7 @@ mrtnsvr.com
 mrtoflog.com
 record.mrwin.com
 mscutomercare.com
+mail.msearches.com
 www.msgbrand.com
 msgose.com
 flextrack.msi-aci.com
@@ -55666,8 +55664,10 @@ mymyflorida.com
 mynativeplatform.com
 banner.mynetworkingpro.com
 mail.mynetworkingpro.com
+ww1.mynetworkingpro.com
 ww17.mynetworkingpro.com
 ww38.mynetworkingpro.com
+www.mynetworkingpro.com
 www1.mynetworkingpro.com
 mynewrotationlink.com
 mynutrikid.com
@@ -56563,7 +56563,6 @@ www.officedepotsservices.com
 officialdonnasimpson.com
 c.offrtrking.com
 www.offrtrking.com
-offshoreanglehost.com
 oficcemax.com
 oficemaxx.com
 ofqvwaosjq.com
@@ -62415,6 +62414,7 @@ internetmuhendisi.postaffiliatepro.com
 investyadnya.postaffiliatepro.com
 ionoleggioautoit.postaffiliatepro.com
 iozoom.postaffiliatepro.com
+iptv.postaffiliatepro.com
 eu1.iso.postaffiliatepro.com
 na.iso.postaffiliatepro.com
 ispring.postaffiliatepro.com
@@ -68810,6 +68810,7 @@ rocketdok.com
 rocketyield.com
 php.rocks-tgp.com
 ww17.rocks-tgp.com
+ww35.rocks-tgp.com
 ww38.rocks-tgp.com
 rockymobi.com
 rockyou.com
@@ -69667,7 +69668,6 @@ screechingfurniture.com
 screechingstove.com
 statsapi.screen9.com
 counter.scribblelive.com
-lahyieyu.scriload.com
 stats.script-protection.com
 connect.scroll.com
 static.scroll.com
@@ -69698,7 +69698,6 @@ searchesfit.com
 searcheshub.com
 searcheshub-classes.com
 searcheshub-mattresses.com
-www.searcheshub-medical-alerts.com
 searcheshub-moving.com
 searcheshub-pickup.com
 searcheshub-retirement.com
@@ -77874,7 +77873,6 @@ www-lhr1.zenaps.com
 www1.zenaps.com
 zenbet88.com
 zencomp.com
-rollbar-us.zendesk.com
 zenfolia.com
 zenithinfoonline.com
 zenkreka.com
@@ -79141,7 +79139,6 @@ www.104ez.info
 1rhp.info
 www.1seautotoonorn.info
 cpcalendars.2clik.info
-cpcontacts.2clik.info
 mvideo.2clik.info
 webdisk.2clik.info
 ww1.2clik.info
@@ -79723,8 +79720,6 @@ ww25.cclove12.info
 ww7.cclove12.info
 www.cclove12.info
 cd-player.info
-ns1.cecoc.info
-ns2.cecoc.info
 cediss.info
 ww1.celebspress.info
 ww17.celebspress.info
@@ -79902,6 +79897,8 @@ old.dj-maza.info
 stage.dj-maza.info
 staging.dj-maza.info
 test.dj-maza.info
+ww17.dj-maza.info
+ww38.dj-maza.info
 www.dj-maza.info
 dlskits.info
 dmobi.info
@@ -80145,7 +80142,6 @@ webdisk.fotoway.info
 ww1.fotoway.info
 www.fotoway.info
 fralo.info
-ww16.ww16.free-recharges.info
 ww1.freeadultchatroom.info
 ww11.freeadultchatroom.info
 www.freeadultchatroom.info
@@ -81476,6 +81472,12 @@ sumariados.info
 webdisk.sunbuster.info
 www.sunbuster.info
 sunderlandinsurance.info
+backup.sunhorizon.info
+games.sunhorizon.info
+sitemap.sunhorizon.info
+sitemaps.sunhorizon.info
+ww17.sunhorizon.info
+www.sunhorizon.info
 superav.info
 superego.info
 mail.supermom.info
@@ -89732,7 +89734,6 @@ cookie-sync-desktop.yellowblue.io
 cs.yellowblue.io
 cs-server-s2s.yellowblue.io
 demo-sdk.yellowblue.io
-eks-dashboard-production.yellowblue.io
 grafana.yellowblue.io
 hb.yellowblue.io
 reports-api.yellowblue.io
@@ -121868,16 +121869,6 @@ kinquin.net
 kitchenremodelingguide.net
 knightscomm.net
 ads1.knxs.net
-mail.koosk.net
-mail01.koosk.net
-mail7.koosk.net
-mailgw.koosk.net
-mailin.koosk.net
-mx10.koosk.net
-mx4.koosk.net
-newmail.koosk.net
-sniper.koosk.net
-srv.koosk.net
 krxd.net
 kylyria.net
 lacierda.net
@@ -129796,6 +129787,7 @@ filemirror.org
 ads.filezilla-project.org
 filezillaproject.org
 film-izle.org
+www.filmeshd.org
 filmhot.org
 finalfantasy12.org
 financelacity.org
@@ -130566,7 +130558,6 @@ pryaja.org
 ps54ladybugs.org
 psagotmerkaz.org
 psht.org
-ww16.psirb2016.org
 www.psirb2016.org
 publicautoauction.org
 publichd.org
