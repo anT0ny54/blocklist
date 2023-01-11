@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 325398
+# Ignored duplicates: 325377
 
 chameleon.ad
 pixel.ad
@@ -34004,7 +34004,6 @@ co2aqu.atdmt.com
 diag.atdmt.com
 dww.atdmt.com
 gt.atdmt.com
-main.atdmt.com
 mm.atdmt.com
 pt2img.atdmt.com
 ptimg.atdmt.com
@@ -35075,6 +35074,7 @@ bobwap.com
 bocoransoal.com
 bocumot.com
 bodelen.com
+bodoforu.com
 bodybyjack.com
 bodyrubsbybritney.com
 ads.boerding.com
@@ -35191,8 +35191,6 @@ server2.brettsplaceonthebay.com
 smtp01.brettsplaceonthebay.com
 smtpauth.brettsplaceonthebay.com
 srv.brettsplaceonthebay.com
-ww1.brettsplaceonthebay.com
-ww17.brettsplaceonthebay.com
 www1.brettsplaceonthebay.com
 zimbra.brettsplaceonthebay.com
 zmail.brettsplaceonthebay.com
@@ -35294,6 +35292,7 @@ aff.bstatic.com
 bt-tour.com
 btbshoping.com
 www.btc-bonus.com
+btc8886.com
 btcgatesbill.com
 ion.btcswe.com
 btefair.com
@@ -35387,7 +35386,6 @@ buildyourownweapon.com
 builldabear.com
 bulkapothocary.com
 bulkhentai.com
-bulletproof-analytics.com
 bulloger.com
 ads.bumlam.com
 c.bumlam.com
@@ -35617,16 +35615,7 @@ cbsmoneyline.com
 cbsmorning.com
 bidbarrel.cbsnews.com
 tealium.cbsnews.com
-antispam.cbssorts.com
-auth.cbssorts.com
-authsmtp.cbssorts.com
 baseball.cbssorts.com
-box.cbssorts.com
-com.cbssorts.com
-cs.cbssorts.com
-direct.cbssorts.com
-email.cbssorts.com
-eml.cbssorts.com
 authsmtp.football.cbssorts.com
 barracuda.football.cbssorts.com
 box.football.cbssorts.com
@@ -35679,63 +35668,13 @@ smtps.football.cbssorts.com
 tw.football.cbssorts.com
 vnet.football.cbssorts.com
 www1.football.cbssorts.com
-gate.cbssorts.com
-gateway.cbssorts.com
-gw.cbssorts.com
-home.cbssorts.com
 iact.cbssorts.com
-imap2.cbssorts.com
-internet.cbssorts.com
-m.cbssorts.com
-mail.cbssorts.com
-mail01.cbssorts.com
-mail02.cbssorts.com
 mail11.cbssorts.com
-mail2.cbssorts.com
-mail4.cbssorts.com
-mail6.cbssorts.com
-mail7.cbssorts.com
-mail9.cbssorts.com
-mailbox.cbssorts.com
-mailer.cbssorts.com
-mailgw.cbssorts.com
-mailrelay.cbssorts.com
-mailserver.cbssorts.com
-mailsrv.cbssorts.com
-mailx.cbssorts.com
 tdgolf18.mayhem.cbssorts.com
-mbox.cbssorts.com
-ms1.cbssorts.com
-mta.cbssorts.com
-mx0.cbssorts.com
-mx1.cbssorts.com
-mx3.cbssorts.com
-mx4.cbssorts.com
-mx5.cbssorts.com
-mx7.cbssorts.com
-newmail.cbssorts.com
-ns.cbssorts.com
-ns1.cbssorts.com
-ns2.cbssorts.com
 outmail.cbssorts.com
-po.cbssorts.com
-poczta.cbssorts.com
-posta.cbssorts.com
-relay.cbssorts.com
 relay1.cbssorts.com
-relay2.cbssorts.com
-secure.cbssorts.com
-seed.cbssorts.com
-server.cbssorts.com
 server1.cbssorts.com
-server2.cbssorts.com
-srv.cbssorts.com
-tiger.cbssorts.com
-vmail.cbssorts.com
-vps.cbssorts.com
 ww1.cbssorts.com
-www1.cbssorts.com
-www2.cbssorts.com
 cbssportslines.com
 ads.cc-dt.com
 cccgolfcarts.com
@@ -42936,7 +42875,8 @@ kentstateuniversity.com
 kentuckianafirearmstraining.com
 kenya-aiways.com
 kenyarevenueauthority.com
-kenyarhino.com
+ww90.kenyarhino.com
+www.kenyarhino.com
 keogers.com
 keopz.com
 kerman94.com
@@ -45096,7 +45036,9 @@ meetlesbians.com
 blarv.megablab.com
 dohka.megablab.com
 e90m1.megablab.com
+ww1.megablab.com
 ww17.megablab.com
+ww25.megablab.com
 dafoto.megafun24.com
 www.megafun24.com
 mbs.megaroticlive.com
@@ -55365,7 +55307,6 @@ record.mrwin.com
 mscutomercare.com
 msearches.com
 www.msgbrand.com
-msgose.com
 flextrack.msi-aci.com
 msi-computer.com
 ac3.msn.com
@@ -56471,8 +56412,6 @@ oakhillbanks.com
 peoplegraph.firstpartyapps.oaspapps.com
 telemetryservice.firstpartyapps.oaspapps.com
 service.cmp.oath.com
-mail.oboxshop.com
-webdisk.oboxshop.com
 www.oboxshop.com
 obscenesidewalk.com
 observantice.com
@@ -61344,6 +61283,7 @@ authsmtp.pageforsafety.com
 barracuda.pageforsafety.com
 box.pageforsafety.com
 com.pageforsafety.com
+comune.pageforsafety.com
 correo.pageforsafety.com
 cs.pageforsafety.com
 direct.pageforsafety.com
@@ -61356,13 +61296,16 @@ host.pageforsafety.com
 internet.pageforsafety.com
 m.pageforsafety.com
 mail.pageforsafety.com
+mail02.pageforsafety.com
 mail1.pageforsafety.com
+mail10.pageforsafety.com
 mail11.pageforsafety.com
 mail12.pageforsafety.com
 mail2.pageforsafety.com
 mail4.pageforsafety.com
 mail5.pageforsafety.com
 mail6.pageforsafety.com
+mail7.pageforsafety.com
 mail8.pageforsafety.com
 mail9.pageforsafety.com
 mailapp.pageforsafety.com
@@ -61378,8 +61321,10 @@ mailsrv.pageforsafety.com
 mailx.pageforsafety.com
 mbox.pageforsafety.com
 ms.pageforsafety.com
+ms1.pageforsafety.com
 mta.pageforsafety.com
 mx.pageforsafety.com
+mx0.pageforsafety.com
 mx01.pageforsafety.com
 mx02.pageforsafety.com
 mx1.pageforsafety.com
@@ -61391,6 +61336,7 @@ mx4.pageforsafety.com
 mx5.pageforsafety.com
 mx7.pageforsafety.com
 mxs.pageforsafety.com
+newmail.pageforsafety.com
 ns.pageforsafety.com
 ns1.pageforsafety.com
 ns2.pageforsafety.com
@@ -61403,6 +61349,7 @@ post.pageforsafety.com
 posta.pageforsafety.com
 postmaster.pageforsafety.com
 relay.pageforsafety.com
+relay1.pageforsafety.com
 root.pageforsafety.com
 secure.pageforsafety.com
 send.pageforsafety.com
@@ -61418,7 +61365,10 @@ thor.pageforsafety.com
 tiger.pageforsafety.com
 vmail.pageforsafety.com
 vps.pageforsafety.com
+ww1.pageforsafety.com
 ww38.pageforsafety.com
+www.pageforsafety.com
+www1.pageforsafety.com
 www2.pageforsafety.com
 zimbra.pageforsafety.com
 pageranktop.com
@@ -68752,6 +68702,7 @@ rocketdok.com
 rocketyield.com
 php.rocks-tgp.com
 ww1.rocks-tgp.com
+ww11.rocks-tgp.com
 ww17.rocks-tgp.com
 ww35.rocks-tgp.com
 ww38.rocks-tgp.com
@@ -72302,18 +72253,12 @@ marketing.superawesome.com
 superbnike.com
 t.email.superdrug.com
 superficialsquare.com
-api.superiorpublicautoauction.com
 app.superiorpublicautoauction.com
 beta.superiorpublicautoauction.com
 dev.superiorpublicautoauction.com
 laravel.superiorpublicautoauction.com
-mail.superiorpublicautoauction.com
-sitemap.superiorpublicautoauction.com
-sitemaps.superiorpublicautoauction.com
-staging.superiorpublicautoauction.com
 test.superiorpublicautoauction.com
 ww1.superiorpublicautoauction.com
-ww38.superiorpublicautoauction.com
 www.superiorpublicautoauction.com
 superonclick.com
 api.superpages.com
@@ -72951,7 +72896,6 @@ themigraineinfo.com
 themoneytizer.com
 ads.themovienation.com
 ww1.thenightvisionwarehouse.com
-www.thenightvisionwarehouse.com
 metrics.thepointsguy.com
 theprofessionalshub.com
 theprostatecancertreat.com
@@ -73442,7 +73386,6 @@ smtps.tropicanagoldcasino.com
 sniper.tropicanagoldcasino.com
 vmail.tropicanagoldcasino.com
 w.tropicanagoldcasino.com
-ww1.tropicanagoldcasino.com
 www.tropicanagoldcasino.com
 www1.tropicanagoldcasino.com
 zmail.tropicanagoldcasino.com
@@ -77590,9 +77533,7 @@ fast-qa.youbora.com
 gzip-smartplugin.youbora.com
 legacy-api.youbora.com
 legacy-raw-api.youbora.com
-multi1-wdc.youbora.com
 multi2-nl4.youbora.com
-multi2-wdc.youbora.com
 nagios1-hk2.youbora.com
 nagios1-nl2.youbora.com
 nb1-wdc.youbora.com
@@ -79090,7 +79031,6 @@ www.104ez.info
 1finalmovie.info
 1rhp.info
 www.1seautotoonorn.info
-www.2clik.info
 2wz.info
 300mb.info
 365or.info
@@ -79536,7 +79476,6 @@ antispam.cardking.info
 art.cardking.info
 auth.cardking.info
 authsmtp.cardking.info
-barracuda.cardking.info
 bettini.cardking.info
 binetti.cardking.info
 box.cardking.info
@@ -79559,7 +79498,6 @@ mail1.cardking.info
 mail10.cardking.info
 mail11.cardking.info
 mail12.cardking.info
-mail2.cardking.info
 mail3.cardking.info
 mail4.cardking.info
 mail5.cardking.info
@@ -79585,7 +79523,6 @@ mta1.cardking.info
 mx.cardking.info
 mx0.cardking.info
 mx01.cardking.info
-mx02.cardking.info
 mx1.cardking.info
 mx10.cardking.info
 mx2.cardking.info
@@ -79607,7 +79544,6 @@ pop.cardking.info
 post.cardking.info
 posta.cardking.info
 postmaster.cardking.info
-relay.cardking.info
 relay1.cardking.info
 root.cardking.info
 secure.cardking.info
@@ -79822,7 +79758,7 @@ staging.directory2010.info
 test.directory2010.info
 testing.directory2010.info
 web.directory2010.info
-www.ww1.directory2010.info
+ww1.directory2010.info
 www.ww17.directory2010.info
 ww38.directory2010.info
 directoryelite.info
@@ -80007,12 +79943,6 @@ ezmethod.info
 faiznet.info
 fajos.info
 fakeer.info
-ns.falvguwen.info
-web.falvguwen.info
-ww1.falvguwen.info
-ww11.falvguwen.info
-ww17.falvguwen.info
-ww38.falvguwen.info
 www.falvguwen.info
 familiengarten.info
 familydick.info
@@ -80084,7 +80014,6 @@ forthewomen.info
 forumwarez.info
 fotomodelle.info
 fotomodels.info
-mail.fotoway.info
 webdisk.fotoway.info
 www.fotoway.info
 fralo.info
@@ -80531,7 +80460,9 @@ wylow.laloo.info
 zudym.laloo.info
 landgasthaeuser.info
 ww16.lankawap.info
+ww2.lankawap.info
 ww38.lankawap.info
+www.lankawap.info
 laoselv.info
 lapakdewa.info
 laptopsinhvien.info
@@ -80699,6 +80630,7 @@ mnogosporta.info
 mail.mobile-damz.info
 mail2.mobile-damz.info
 ww1.mobile-damz.info
+ww2.mobile-damz.info
 www.mobile-damz.info
 mobile-tech.info
 mobilemovie.info
@@ -89745,7 +89677,6 @@ cookie-sync-desktop.yellowblue.io
 cs.yellowblue.io
 cs-server-s2s.yellowblue.io
 demo-sdk.yellowblue.io
-grafana.yellowblue.io
 hb.yellowblue.io
 reports-api.yellowblue.io
 rise-files-manager-api-production.yellowblue.io
@@ -100835,7 +100766,6 @@ xo.adglare.net
 adgraph.net
 adhamhotel.net
 adhigh.net
-ww1.adhte.net
 ww25.adhte.net
 ww5.adhte.net
 www.adhte.net
@@ -122083,7 +122013,6 @@ lovenights.net
 lowfareticket.net
 lsimg.net
 luckyorange.net
-metrixlablw.customers.luna.net
 lunla.net
 m2888.net
 maillaposte.net
@@ -127669,7 +127598,6 @@ pub.network
 tracking.bonnier.news
 www.matchme.com.ng
 cpcalendars.eazybiz.ng
-mail.eazybiz.ng
 www.pixel.eazybiz.ng
 www.eazybiz.ng
 www.soccerchamp.ng
@@ -128754,7 +128682,6 @@ ns.gcfaridabad.org
 relay2.gcfaridabad.org
 ww1.gcfaridabad.org
 ww25.gcfaridabad.org
-www.gcfaridabad.org
 zimbra.gcfaridabad.org
 gcfleanrfree.org
 gcflearnfreee.org
@@ -130367,6 +130294,7 @@ www.dayprogramprize.rest
 n.rich
 t.fml.rip
 ads.adstream.com.ro
+adserver.creativeads.ro
 mail.creativeads.ro
 www.creativeads.ro
 ip.ro
@@ -134399,7 +134327,6 @@ eth-buterin.top
 fingahvf.top
 iscussiam.top
 lemon91.top
-nsparket.top
 push-notifications.top
 uikingfra.top
 admatic.com.tr
