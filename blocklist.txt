@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 325379
+# Ignored duplicates: 325302
 
 chameleon.ad
 pixel.ad
@@ -59,7 +59,6 @@ assets.nws.ai
 peruse.ai
 powerad.ai
 rebel.ai
-static.rek.ai
 related.ai
 vdo.ai
 vi.ai
@@ -1523,6 +1522,7 @@ tesla-x2.cc
 trkshark.cc
 zentr.cc
 track.mp4.center
+mail.coinbase.ceo
 www.coinbase.ceo
 coinpirate.cf
 mdsjubja.cf
@@ -1874,6 +1874,9 @@ chrunlee.cn
 admaster.com.cn
 analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn
 ads.doit.com.cn
+1osz.elilaifs.cn
+38oa.elilaifs.cn
+m.elilaifs.cn
 www.elilaifs.cn
 lh3.googleadsserving.cn
 lh4.googleadsserving.cn
@@ -33662,6 +33665,7 @@ hub.amplitude.com
 info.amplitude.com
 investors.amplitude.com
 jp.amplitude.com
+kdev.amplitude.com
 lab.amplitude.com
 links.amplitude.com
 lms.amplitude.com
@@ -33692,6 +33696,7 @@ static.amplitude.com
 status.amplitude.com
 test-experiment.amplitude.com
 thunder.amplitude.com
+trainingpartners.amplitude.com
 www.amplitude.com
 amsterdam-apartments.com
 amsterdam-map.com
@@ -34015,12 +34020,7 @@ rtb.atdmt.com
 sea1.atdmt.com
 sea1-dal1-ga.atdmt.com
 sg1aqu.atdmt.com
-srch.atdmt.com
-switch.atdmt.com
 syd2.atdmt.com
-tip.atdmt.com
-trk.atdmt.com
-view.atdmt.com
 www.atdmt.com
 atecasec.com
 atgsvcs.com
@@ -35433,6 +35433,7 @@ buxoal.com
 buy-ad.com
 buyonlineretinanow.com
 mail.buypixelads.com
+pixel.buypixelads.com
 buyrumba.com
 buysellads.com
 buythethings.com
@@ -35546,7 +35547,6 @@ club.carpalaceinc.com
 stage1.carpalaceinc.com
 t2.carpalaceinc.com
 ww1.carpalaceinc.com
-www.carpalaceinc.com
 carpetcleaningservicesvirginiabeach.com
 carredumercantour.com
 carriagestopmotel.com
@@ -36638,7 +36638,6 @@ sb.connatix.com
 status.connatix.com
 stg.connatix.com
 t.connatix.com
-upload.connatix.com
 www.connatix.com
 connectadrealtime.com
 connetingsingles.com
@@ -56324,7 +56323,6 @@ oakhillbanks.com
 peoplegraph.firstpartyapps.oaspapps.com
 telemetryservice.firstpartyapps.oaspapps.com
 service.cmp.oath.com
-www.oboxshop.com
 obscenesidewalk.com
 observantice.com
 oclasrv.com
@@ -61866,6 +61864,7 @@ pointificsecure.com
 pointlesshour.com
 pointroll.com
 pokemon-go-hack.com
+ww25.pokemon-map.com
 pokemoncommunity.com
 pokemonindgo.com
 pokemonmarryland.com
@@ -68702,6 +68701,7 @@ droprouter1.rollbar.com
 email.rollbar.com
 email-com.rollbar.com
 enterprise.rollbar.com
+fuji.rollbar.com
 fwresources.rollbar.com
 germany-mail.rollbar.com
 graphql.rollbar.com
@@ -68732,6 +68732,7 @@ mx1.rollbar.com
 mx20.rollbar.com
 net.rollbar.com
 o-api.rollbar.com
+olympus.rollbar.com
 php-content.rollbar.com
 pi.rollbar.com
 pi-kr.rollbar.com
@@ -68875,6 +68876,7 @@ s4mdsp.com
 ns1.s5e5.com
 pop.s5e5.com
 wlamazcsrv1.s5e5.com
+ww1.s5e5.com
 ww11.s5e5.com
 ww17.s5e5.com
 ww38.s5e5.com
@@ -72978,7 +72980,7 @@ stats.tipser.com
 tiqcdn.com
 tiresomethunder.com
 trust.titanhq.com
-titiez.com
+www.titiez.com
 tiznmktqel.com
 tk0x1.com
 track.tkbo.com
@@ -73236,53 +73238,11 @@ trksontrks.com
 www.trktoken.com
 tropbox.com
 trophyboobs.com
-box.tropicanagoldcasino.com
-download.tropicanagoldcasino.com
-email.tropicanagoldcasino.com
-home.tropicanagoldcasino.com
-host.tropicanagoldcasino.com
-mail.tropicanagoldcasino.com
-mail1.tropicanagoldcasino.com
-mail10.tropicanagoldcasino.com
-mail12.tropicanagoldcasino.com
-mail4.tropicanagoldcasino.com
-mail6.tropicanagoldcasino.com
-mail8.tropicanagoldcasino.com
-mailbox.tropicanagoldcasino.com
-mailer.tropicanagoldcasino.com
-mailgate.tropicanagoldcasino.com
-mailgw.tropicanagoldcasino.com
-mailhost.tropicanagoldcasino.com
-mailin.tropicanagoldcasino.com
-mailserver.tropicanagoldcasino.com
-mailx.tropicanagoldcasino.com
-mbox.tropicanagoldcasino.com
-ms1.tropicanagoldcasino.com
-mx.tropicanagoldcasino.com
-mx0.tropicanagoldcasino.com
-mx02.tropicanagoldcasino.com
-mx1.tropicanagoldcasino.com
-mx2.tropicanagoldcasino.com
-mx3.tropicanagoldcasino.com
-mx5.tropicanagoldcasino.com
-mx7.tropicanagoldcasino.com
-mxs.tropicanagoldcasino.com
-newmail.tropicanagoldcasino.com
-ns.tropicanagoldcasino.com
-ns1.tropicanagoldcasino.com
-ns2.tropicanagoldcasino.com
-outmail.tropicanagoldcasino.com
-po.tropicanagoldcasino.com
-pop.tropicanagoldcasino.com
-post.tropicanagoldcasino.com
-postmaster.tropicanagoldcasino.com
-relay.tropicanagoldcasino.com
-secure.tropicanagoldcasino.com
-smtpauth.tropicanagoldcasino.com
-vmail.tropicanagoldcasino.com
+ns1.email.tropicanagoldcasino.com
+smtp01.email.tropicanagoldcasino.com
+smtpseguro.email.tropicanagoldcasino.com
 w.tropicanagoldcasino.com
 www.tropicanagoldcasino.com
-www1.tropicanagoldcasino.com
 analytics.trovit.com
 adx.trovitx.com
 truboysmodels.com
@@ -73781,6 +73741,9 @@ unitedlifeinsurancesitesite.com
 unitedstatespostalservices.com
 analytics.unity3d.com
 perf-events.cloud.unity3d.com
+alertmanager-usc1.ads-exchange-shared.prd.mon.corp.unity3d.com
+prometheus-usc1.ads-exchange-shared.prd.mon.corp.unity3d.com
+thanos-grpc-usc1.ads-exchange-shared.prd.mon.corp.unity3d.com
 thanos-query-ads-exchg.prd.mon.corp.unity3d.com
 ads-exchange-auction.stg.mon.corp.unity3d.com
 alertmanager-usc1.ads-exchange-sdk-diag.stg.mon.corp.unity3d.com
@@ -76934,6 +76897,7 @@ xn--80a4b.com
 xn--80aa0aehiwrr.com
 xn--80ak6aa92e.com
 xn--c1aafnv4byb.com
+xn--contrefaon-v6a.com
 xn--doadayz-obb0o.com
 xn--eskikitaplarm-fbc.com
 xn--flckr-o4a.com
@@ -79035,17 +78999,7 @@ ajka.info
 www.akiba-pr.info
 alcea.info
 alder.info
-correo.alexman.info
-mail7.alexman.info
-mailserver.alexman.info
-mx0.alexman.info
-mx2.alexman.info
-ns.alexman.info
-relay2.alexman.info
-sniper.alexman.info
-srv.alexman.info
-warofclans.alexman.info
-ww3.alexman.info
+alexman.info
 algerie.info
 alien-music.info
 alivechurch.info
@@ -79476,7 +79430,6 @@ cediss.info
 ww17.celebspress.info
 ww25.celebspress.info
 ww38.celebspress.info
-www.celebspress.info
 celiaimrie.info
 certificates.info
 cevaplus.info
@@ -79518,10 +79471,6 @@ cpcalendars.coloradospringsroofing.info
 cpcontacts.coloradospringsroofing.info
 mail.coloradospringsroofing.info
 webdisk.coloradospringsroofing.info
-ww1.coloradospringsroofing.info
-ww11.coloradospringsroofing.info
-ww17.coloradospringsroofing.info
-ww38.coloradospringsroofing.info
 www.coloradospringsroofing.info
 coltivazioneindoor.info
 apple.com-giveaway5.info
@@ -79837,7 +79786,6 @@ ezmethod.info
 faiznet.info
 fajos.info
 fakeer.info
-www.falvguwen.info
 familiengarten.info
 familydick.info
 ww17.famosasdobrasil.info
@@ -80051,8 +79999,7 @@ guineenews.info
 guizubb.info
 gunxue.info
 gurusd.info
-ww1.guter-punkt.info
-www.guter-punkt.info
+guter-punkt.info
 gutteruncensored.info
 gyaoh.info
 gyteli.info
@@ -80222,59 +80169,7 @@ kanshulou.info
 www.karate2014.info
 kariiresoudanjo.info
 karlovyvary.info
-accounts.kattankudi.info
-adm.kattankudi.info
-akaunting.kattankudi.info
-alpha.kattankudi.info
-analytics.kattankudi.info
-application.kattankudi.info
-aws.kattankudi.info
-backoffice.kattankudi.info
-booking.kattankudi.info
-bot.kattankudi.info
-builder.kattankudi.info
-business.kattankudi.info
-chat.kattankudi.info
-checkout.kattankudi.info
-client.kattankudi.info
-dev-app.kattankudi.info
-dev1.kattankudi.info
-dev2.kattankudi.info
-development.kattankudi.info
-ecommerce.kattankudi.info
-erp.kattankudi.info
-events.kattankudi.info
-game.kattankudi.info
-h5.kattankudi.info
-hr.kattankudi.info
-hub.kattankudi.info
-invoice.kattankudi.info
-lms.kattankudi.info
-m.kattankudi.info
-manager.kattankudi.info
-my.kattankudi.info
-office.kattankudi.info
-projects.kattankudi.info
-reports.kattankudi.info
-secure.kattankudi.info
-seo.kattankudi.info
-server.kattankudi.info
-service.kattankudi.info
-shopify.kattankudi.info
-sistema.kattankudi.info
-stg.kattankudi.info
-tv.kattankudi.info
-user.kattankudi.info
-v1.kattankudi.info
-v2.kattankudi.info
-wallet.kattankudi.info
-ws.kattankudi.info
-ww.kattankudi.info
-ww1.kattankudi.info
-ww17.kattankudi.info
-ww38.kattankudi.info
-www.kattankudi.info
-www6.kattankudi.info
+kattankudi.info
 kaunertal.info
 kaymbo.info
 kbbi.info
@@ -80283,7 +80178,6 @@ keliauk.info
 kendari.info
 khalijmusic.info
 kidala.info
-www.kidskapers.info
 ww17.forum.kievonline.info
 ww17.kievonline.info
 ww38.kievonline.info
@@ -80841,7 +80735,6 @@ prettymilfs.info
 primeronoticiasmx.info
 priority-pass.info
 mail.privatejobs.info
-www.privatejobs.info
 prlinkpop.info
 problemhaut.info
 procurements.info
@@ -81556,10 +81449,6 @@ ads.twojatv.info
 twzoa.info
 txjails.info
 typolemag.info
-j.ubeat.info
-ww1.ubeat.info
-ww17.ubeat.info
-ww25.ubeat.info
 uiji.info
 ukairshows.info
 ukanbook.info
@@ -121015,6 +120904,7 @@ prd.turbine.aws.fwmrm.net
 dev.ui.aws.fwmrm.net
 prd.ui.aws.fwmrm.net
 stg.ui.aws.fwmrm.net
+vi.aws.fwmrm.net
 dev.vw.aws.fwmrm.net
 awswestsmtp-ext.fwmrm.net
 bvi.fwmrm.net
@@ -122979,6 +122869,8 @@ secureorders.net
 images-pw.secureserver.net
 securistechnology.net
 securuestech.net
+ww38.sedtest.net
+www.sedtest.net
 selfbuilder.net
 amd.sellingsimplified.net
 sellpoint.net
@@ -127438,7 +127330,6 @@ cpcalendars.eazybiz.ng
 www.pixel.eazybiz.ng
 www.eazybiz.ng
 www.soccerchamp.ng
-trn.ninja
 ad4mat.nl
 adpepper.nl
 adscience.nl
@@ -127597,9 +127488,6 @@ academiapensamientocritico.org
 acanadogfood.org
 accaglobal.org
 accessplus.org
-ww1.accreditedlifeexperiencedegree.org
-ww17.accreditedlifeexperiencedegree.org
-ww38.accreditedlifeexperiencedegree.org
 www.accreditedlifeexperiencedegree.org
 accumed.org
 acenet.org
@@ -127706,7 +127594,6 @@ friendgoodness.ahlamontada.org
 frmawy.ahlamontada.org
 from.ahlamontada.org
 gamespc.ahlamontada.org
-ganna.ahlamontada.org
 ww1.geography.ahlamontada.org
 hafsa.ahlamontada.org
 harrypotter.ahlamontada.org
@@ -127768,7 +127655,6 @@ ohibokarabby.ahlamontada.org
 omarmineaoui.ahlamontada.org
 omega.ahlamontada.org
 ww1.oshaqanime.ahlamontada.org
-panotatalahlam.ahlamontada.org
 phy2013.ahlamontada.org
 prep-school.ahlamontada.org
 pro-team.ahlamontada.org
@@ -127814,7 +127700,6 @@ wladelbalad.ahlamontada.org
 wnash.ahlamontada.org
 ww1.ahlamontada.org
 ww17.ahlamontada.org
-ww38.ahlamontada.org
 www.ahlamontada.org
 yassine.ahlamontada.org
 zaraktouni.ahlamontada.org
@@ -127981,7 +127866,7 @@ billofrightinstitute.org
 billybrim.org
 bimare.org
 bimartcreditunion.org
-www.bioteq.org
+bioteq.org
 bipme.org
 bitbicket.org
 bitbuket.org
@@ -129434,6 +129319,8 @@ slocraigslist.org
 slsherriff.org
 sm64.org
 smartwarez.org
+sitemap.smashapps.org
+sitemaps.smashapps.org
 ww1.smashapps.org
 ww17.smashapps.org
 www.smashapps.org
@@ -129528,6 +129415,7 @@ syrolympsc.org
 sysdschool.org
 szexfilmek.org
 tabid.org
+www.tainhac.org
 takamaru.org
 tamp-mail.org
 tandom.org
@@ -130460,6 +130348,7 @@ matomo.goteborgco.se
 greatstoryvideo.se
 ad-server.gulasidorna.se
 stats.healthcare.se
+stats.helsingborg.se
 statistics.heltenkelt.se
 analytics.hpscloud.se
 analytics.ica.se
@@ -130498,7 +130387,6 @@ advert.rabaldermedia.se
 cdn.reaktion.se
 secure.reaktion.se
 regstat.se
-static.rekai.se
 research-int.se
 external.reseguiden.se
 ksdarprt.reseguiden.se
@@ -134416,6 +134304,7 @@ thisadsfor.us
 trkn.us
 tracker.vgame.us
 log.zoom.us
+logfiles.zoom.us
 a.muloqot.uz
 nt.vc
 datapremium.com.ve
