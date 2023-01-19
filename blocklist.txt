@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 325625
+# Ignored duplicates: 325521
 
 chameleon.ad
 pixel.ad
@@ -34363,6 +34363,7 @@ li.azstarnet.com
 vmss-clarity-ingest-eus2-b.eastus2.cloudapp.azure.com
 adx.monitor.azure.com
 adx.aimon.monitor.azure.com
+westcentralus.cds.aimon.monitor.azure.com
 js.cdn.monitor.azure.com
 js0.cdn.monitor.azure.com
 js2.cdn.monitor.azure.com
@@ -35184,6 +35185,7 @@ breakableinsurance.com
 brealtime.com
 breastcancerguides.com
 breathing-love.com
+www.brettsplaceonthebay.com
 brewfanatics.com
 brguae.com
 ads.bridgebase.com
@@ -35477,8 +35479,11 @@ camporenacimiento.com
 adserver.cams.com
 banners.cams.com
 can-ambrp.com
-canada-air.com
+ww1.canada-air.com
+ww5.canada-air.com
+www.canada-air.com
 ww38.canadanepalnet.com
+www.canadanepalnet.com
 canalimoveisbahia.com
 canalinternational.com
 cananalcaracol.com
@@ -35613,6 +35618,7 @@ outmail.cbssorts.com
 relay1.cbssorts.com
 server1.cbssorts.com
 ww1.cbssorts.com
+www.cbssorts.com
 cbssportslines.com
 ads.cc-dt.com
 cccgolfcarts.com
@@ -36298,7 +36304,6 @@ staging-cdn.cohesionapps.com
 staging-cdn-adt.cohesionapps.com
 taggy.cohesionapps.com
 tip.cohesionapps.com
-coin-service.com
 coinbasegive.com
 coinbasegiving.com
 coinbasegold.com
@@ -37807,6 +37812,7 @@ ns2.recursive.dnsbycomodo.com
 dnset.com
 analytics.dnsfilter.com
 engage.dnsfilter.com
+go.dnsfilter.com
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 doh.dnslify.com
@@ -40465,6 +40471,7 @@ gmailpassrecovery.com
 gmalto.com
 gmapil.com
 gmiai.com
+www.gmial.com
 gmmdigital.com
 gmmwireless.com
 ads.gmodules.com
@@ -41715,6 +41722,7 @@ hurtteeth.com
 hurvewa.com
 hushlove.com
 attribution.hushpuppies.com
+www.huskeycabinrentals.com
 huspas.com
 husqvaraviking.com
 hustlervideos.com
@@ -56525,6 +56533,7 @@ box.navy-officer.com
 comune.navy-officer.com
 correo.navy-officer.com
 mail.navy-officer.com
+mail02.navy-officer.com
 mail11.navy-officer.com
 mail12.navy-officer.com
 mail5.navy-officer.com
@@ -61690,8 +61699,6 @@ optrainingcenter.com
 opttracker.com
 optumbankfinancial.com
 a.optvdo.com
-c.optvdo.com
-e.optvdo.com
 m.optvdo.com
 mc.optvdo.com
 p.optvdo.com
@@ -61719,7 +61726,6 @@ s-117.optvdo.com
 s-118.optvdo.com
 s-119.optvdo.com
 s-98.optvdo.com
-v.optvdo.com
 v-01.optvdo.com
 v-02.optvdo.com
 v-03.optvdo.com
@@ -62521,10 +62527,14 @@ pointificsecure.com
 pointlesshour.com
 pointroll.com
 pokemon-go-hack.com
+dev.pokemon-map.com
 old.pokemon-map.com
 shop.pokemon-map.com
+staging.pokemon-map.com
 test.pokemon-map.com
+ww11.pokemon-map.com
 ww16.pokemon-map.com
+ww17.pokemon-map.com
 ww25.pokemon-map.com
 ww38.pokemon-map.com
 www.pokemon-map.com
@@ -62721,9 +62731,7 @@ caribbeantours.postaffiliatepro.com
 carvertical.postaffiliatepro.com
 casaneo.postaffiliatepro.com
 casdep.postaffiliatepro.com
-casinobtc.postaffiliatepro.com
 casinoisy.postaffiliatepro.com
-casinomga.postaffiliatepro.com
 cbdrethink.postaffiliatepro.com
 cdn.postaffiliatepro.com
 cec.postaffiliatepro.com
@@ -66011,6 +66019,7 @@ ranchonuevomexicanrestaurant.com
 randibazi.com
 local.randmcnallymaps.com
 office.randmcnallymaps.com
+pos.randmcnallymaps.com
 ww35.randmcnallymaps.com
 www.randmcnallymaps.com
 rank-master.com
@@ -75541,6 +75550,7 @@ vizury.com
 vkcdnservice.com
 vkphandicrafts.com
 ww25.forum.vkshopping.com
+ww1.vkshopping.com
 ww17.vkshopping.com
 vlaqra.com
 vlcstreamer.com
@@ -79534,7 +79544,15 @@ www.104ez.info
 1finalmovie.info
 1rhp.info
 www.1seautotoonorn.info
+cpcalendars.2clik.info
+mvideo.2clik.info
 webdisk.2clik.info
+ww1.2clik.info
+ww11.2clik.info
+ww16.2clik.info
+ww17.2clik.info
+ww25.2clik.info
+ww38.2clik.info
 2wz.info
 300mb.info
 365or.info
@@ -79899,6 +79917,7 @@ bioprodukte.info
 biopros.info
 biotopia.info
 birbalo.info
+ww38.mvideo.birdwindowcollisions.info
 biszofit.info
 bitcoincompass.info
 analytics.bitrix.info
@@ -82510,7 +82529,6 @@ youhookup.info
 mvideo.youjjzz.info
 ww1.youjjzz.info
 ww16.youjjzz.info
-ww38.youjjzz.info
 www.youjjzz.info
 zh.youjjzz.info
 youluckywinner.info
@@ -89939,6 +89957,7 @@ receive.wmcdp.io
 third-party.wmcdp.io
 tlm.wmcdp.io
 token.wmcdp.io
+dev.video.wmcdp.io
 schema-api.video.wmcdp.io
 schema-export.video.wmcdp.io
 wurfl.io
@@ -101856,7 +101875,6 @@ tagged-by.rubiconproject.net.akadns.net
 video-server.rubiconproject.net.akadns.net
 skyads-ott-uk.skymedia.akadns.net
 api.vungle.akadns.net
-api-acc.vungle.akadns.net
 api-lb.vungle.akadns.net
 boxer.vungle.akadns.net
 cdn-cn.vungle.akadns.net
@@ -127964,11 +127982,8 @@ www.youlaugh.online
 22js.org
 24tabs.org
 2kmovie.org
-autodiscover.300mbmovies.org
 3ds-emulator.org
 3qqq.org
-mx.3t2.org
-www.3t2.org
 49nct.org
 4bilder1wort.org
 4hu.org
@@ -128404,11 +128419,9 @@ commonswikimedia.org
 communityhealthplan.org
 concivica.org
 consensu.org
-mail.consulfrance-edimbourg.org
 ww1.consulfrance-edimbourg.org
 ww17.consulfrance-edimbourg.org
 ww38.consulfrance-edimbourg.org
-www.consulfrance-edimbourg.org
 metrics.consumerreports.org
 smetrics.consumerreports.org
 coresera.org
@@ -128692,7 +128705,6 @@ georgiamethadone.org
 georgiasouthern.org
 gescom.org
 getrockmusic.org
-getsteamgift.org
 ghange.org
 giansagar.org
 giftcardsking.org
@@ -129694,6 +129706,8 @@ syrolympsc.org
 sysdschool.org
 szexfilmek.org
 tabid.org
+ww17.tainhac.org
+ww38.tainhac.org
 www.tainhac.org
 takamaru.org
 tamp-mail.org
@@ -129950,10 +129964,6 @@ wescm.org
 west-bar.org
 westcelt.org
 westcentralgacac.org
-dev.westernmasscraigslist.org
-magento.westernmasscraigslist.org
-old.westernmasscraigslist.org
-shop.westernmasscraigslist.org
 ww1.westernmasscraigslist.org
 westtnanimalrescue.org
 wfmz.org
@@ -130026,9 +130036,6 @@ wwwymca.org
 xcdsql.org
 xepan.org
 xhamaster.org
-mail2.xhamstre.org
-ww17.xhamstre.org
-www.xhamstre.org
 xposedmagazinenews.org
 xtremeeagles.org
 xvedios.org
