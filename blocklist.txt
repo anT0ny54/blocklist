@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 325521
+# Ignored duplicates: 325534
 
 chameleon.ad
 pixel.ad
@@ -1531,7 +1531,6 @@ suhtbneyq.cf
 sunnimiq.cf
 sunnimiq3.cf
 sunnimiq4.cf
-h4ck.cfd
 ad4mat.ch
 admanagement.ch
 banner.buempliz-online.ch
@@ -32559,7 +32558,6 @@ smetrics.aetn.com
 insights.vip.aetnd.com
 adspipc2dc02.ads.aexp.com
 afbest.com
-ww1.afcebookk.com
 ww11.afcebookk.com
 ww16.afcebookk.com
 ww25.afcebookk.com
@@ -33412,7 +33410,6 @@ iad-a-adserver-thd-856326511.us-east-1.elb.amazonaws.com
 iad-ludy-public-lb-35718222.us-east-1.elb.amazonaws.com
 ichnaea-web-121909266.us-east-1.elb.amazonaws.com
 log-c-907025318.us-east-1.elb.amazonaws.com
-logger-prod-us-east-1-vpc-alb-1251201355.us-east-1.elb.amazonaws.com
 m-node-alb-ssl-1111-1982902297.us-east-1.elb.amazonaws.com
 manual-proxyloadbalancernvg-2-821028714.us-east-1.elb.amazonaws.com
 moodysanalytics-com-1043242717.us-east-1.elb.amazonaws.com
@@ -35609,16 +35606,75 @@ cbsmoneyline.com
 cbsmorning.com
 bidbarrel.cbsnews.com
 tealium.cbsnews.com
+antispam.cbssorts.com
+auth.cbssorts.com
+authsmtp.cbssorts.com
 baseball.cbssorts.com
+box.cbssorts.com
+com.cbssorts.com
+cs.cbssorts.com
+direct.cbssorts.com
+email.cbssorts.com
+eml.cbssorts.com
 football.cbssorts.com
+gate.cbssorts.com
+gateway.cbssorts.com
+gw.cbssorts.com
+home.cbssorts.com
 iact.cbssorts.com
+imap2.cbssorts.com
+internet.cbssorts.com
+m.cbssorts.com
+mail.cbssorts.com
+mail01.cbssorts.com
+mail02.cbssorts.com
 mail11.cbssorts.com
+mail2.cbssorts.com
+mail4.cbssorts.com
+mail6.cbssorts.com
+mail7.cbssorts.com
+mail9.cbssorts.com
+mailbox.cbssorts.com
+mailer.cbssorts.com
+mailgw.cbssorts.com
+mailrelay.cbssorts.com
+mailserver.cbssorts.com
+mailsrv.cbssorts.com
+mailx.cbssorts.com
 tdgolf18.mayhem.cbssorts.com
+mbox.cbssorts.com
+ms1.cbssorts.com
+mta.cbssorts.com
+mx0.cbssorts.com
+mx1.cbssorts.com
+mx3.cbssorts.com
+mx4.cbssorts.com
+mx5.cbssorts.com
+mx7.cbssorts.com
+newmail.cbssorts.com
+ns.cbssorts.com
+ns1.cbssorts.com
+ns2.cbssorts.com
 outmail.cbssorts.com
+po.cbssorts.com
+poczta.cbssorts.com
+posta.cbssorts.com
+relay.cbssorts.com
 relay1.cbssorts.com
+relay2.cbssorts.com
+secure.cbssorts.com
+seed.cbssorts.com
+server.cbssorts.com
 server1.cbssorts.com
+server2.cbssorts.com
+srv.cbssorts.com
+tiger.cbssorts.com
+vmail.cbssorts.com
+vps.cbssorts.com
 ww1.cbssorts.com
 www.cbssorts.com
+www1.cbssorts.com
+www2.cbssorts.com
 cbssportslines.com
 ads.cc-dt.com
 cccgolfcarts.com
@@ -56671,7 +56727,6 @@ ww25.newgmailaccount.com
 ww38.newgmailaccount.com
 www.newgmailaccount.com
 ads.newgrounds.com
-img-info2638dg43.newip-info.com
 madata.newlook.com
 newmetalcraft.com
 newnudecash.com
@@ -62065,7 +62120,6 @@ pddre.com
 flaming.peacebanana.com
 splitting.peacebanana.com
 ww1.peacheslarue.com
-www.peacheslarue.com
 peak-serving.com
 peakonspot.com
 gkkj.peakperformsrv.com
@@ -62528,10 +62582,12 @@ pointlesshour.com
 pointroll.com
 pokemon-go-hack.com
 dev.pokemon-map.com
+magento.pokemon-map.com
 old.pokemon-map.com
 shop.pokemon-map.com
 staging.pokemon-map.com
 test.pokemon-map.com
+ww1.pokemon-map.com
 ww11.pokemon-map.com
 ww16.pokemon-map.com
 ww17.pokemon-map.com
@@ -75549,9 +75605,7 @@ vizu.com
 vizury.com
 vkcdnservice.com
 vkphandicrafts.com
-ww25.forum.vkshopping.com
-ww1.vkshopping.com
-ww17.vkshopping.com
+vkshopping.com
 vlaqra.com
 vlcstreamer.com
 assets.vlitag.com
@@ -76240,7 +76294,7 @@ wer-will-ficken.com
 weratherchannel.com
 wesrelm.com
 count.west263.com
-westcoastriot.com
+ww38.westcoastriot.com
 westernunionl.com
 westernunipn.com
 westernwallnote.com
@@ -79553,6 +79607,8 @@ ww16.2clik.info
 ww17.2clik.info
 ww25.2clik.info
 ww38.2clik.info
+www.2clik.info
+www.2mq.info
 2wz.info
 300mb.info
 365or.info
@@ -79936,6 +79992,7 @@ bodenmarkt.info
 bodybilding.info
 bokepgratiz.info
 mvideo.bolero.info
+ww11.bolero.info
 ww17.bolero.info
 www.bolero.info
 boleros.info
@@ -80894,9 +80951,6 @@ manga-channel.info
 mangareading.info
 inhopquatet.mangdidongviettel.info
 mail.mangdidongviettel.info
-webdisk.mangdidongviettel.info
-ww38.mangdidongviettel.info
-www.mangdidongviettel.info
 manualdekangoo.info
 mapalaui.info
 mapsmods.info
@@ -80995,7 +81049,6 @@ www.monstersat.info
 montavilla.info
 moonlitecoin.info
 moqr.info
-ww1.mosrenta.info
 motordealer.info
 mouth-is-the-sun.info
 move2012.info
@@ -81295,7 +81348,6 @@ presviter.info
 prettymilfs.info
 primeronoticiasmx.info
 priority-pass.info
-mail.privatejobs.info
 prlinkpop.info
 problemhaut.info
 procurements.info
@@ -81384,7 +81436,6 @@ women.proxysmart.info
 womens.proxysmart.info
 ww1.proxysmart.info
 ww11.proxysmart.info
-ww16.proxysmart.info
 ww2.proxysmart.info
 ww25.proxysmart.info
 ww38.proxysmart.info
@@ -81431,6 +81482,7 @@ re6.info
 realitaeten.info
 realitylesbians.info
 realmember.info
+ww1.rearsets.info
 ww11.rearsets.info
 ww17.rearsets.info
 ww38.rearsets.info
@@ -81926,11 +81978,6 @@ www.viyapathu.thambiluvil.info
 ww17.thambiluvil.info
 ww38.thambiluvil.info
 www.thambiluvil.info
-mail.theae.info
-ww1.theae.info
-ww11.theae.info
-ww17.theae.info
-ww38.theae.info
 www.theae.info
 m.thebestcloudcomputing.info
 mail.thebestcloudcomputing.info
@@ -82526,9 +82573,7 @@ yiwo.info
 ylg2.info
 yomovies.info
 youhookup.info
-mvideo.youjjzz.info
 ww1.youjjzz.info
-ww16.youjjzz.info
 www.youjjzz.info
 zh.youjjzz.info
 youluckywinner.info
@@ -83346,7 +83391,6 @@ tune.docs.branch.io
 wizard.docs.branch.io
 email-sailthru.branch.io
 expert.branch.io
-gateway.branch.io
 gdpr.branch.io
 go.branch.io
 go2.branch.io
@@ -101058,6 +101102,7 @@ xo.adglare.net
 adgraph.net
 adhamhotel.net
 adhigh.net
+ww1.adhte.net
 ww25.adhte.net
 ww5.adhte.net
 www.adhte.net
@@ -122258,6 +122303,7 @@ sy.v.liveperson.net
 va.v.liveperson.net
 apac-sea1-01-p-ui.voice.liveperson.net
 eu-west1-01-p-ui.voice.liveperson.net
+apac-sea1-01.p.voice.liveperson.net
 eu-west1-01.p.voice.liveperson.net
 us-east1-01.p.voice.liveperson.net
 us-west1-01.p.voice.liveperson.net
@@ -128250,10 +128296,6 @@ bitbicket.org
 bitbuket.org
 bitcoinxl.org
 blackplague.org
-ww1.blacksuninvictus.org
-ww17.blacksuninvictus.org
-ww25.blacksuninvictus.org
-ww38.blacksuninvictus.org
 blendswap.org
 blessingyouthmission.org
 blhtrust.org
@@ -128291,7 +128333,6 @@ mx3.bsebd.org
 newmail.bsebd.org
 smtpauth.bsebd.org
 ww16.bsebd.org
-ww38.bsebd.org
 zimbra.bsebd.org
 btcwin.org
 buenfin.org
@@ -128419,9 +128460,6 @@ commonswikimedia.org
 communityhealthplan.org
 concivica.org
 consensu.org
-ww1.consulfrance-edimbourg.org
-ww17.consulfrance-edimbourg.org
-ww38.consulfrance-edimbourg.org
 metrics.consumerreports.org
 smetrics.consumerreports.org
 coresera.org
@@ -129247,8 +129285,6 @@ oleggio2.org
 olllo.org
 olmpic.org
 olypic.org
-home.omegachart.org
-host.omegachart.org
 www.omegachart.org
 onahepatitis.org
 onet-center.org
@@ -129890,7 +129926,6 @@ veditz.org
 vedmo.org
 venicedobermanrescue.org
 ventriloharassment.org
-ww16.veporn.org
 verpelis.org
 victoria-justice.org
 vidik.org
@@ -129964,7 +129999,6 @@ wescm.org
 west-bar.org
 westcelt.org
 westcentralgacac.org
-ww1.westernmasscraigslist.org
 westtnanimalrescue.org
 wfmz.org
 wgallery.org
