@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 351803
+# Ignored duplicates: 351764
 
 chameleon.ad
 pixel.ad
@@ -6216,7 +6216,6 @@ adspipc2dc02.ads.aexp.com
 afbest.com
 ww11.afcebookk.com
 ww16.afcebookk.com
-www.afcebookk.com
 www.afcyhf.com
 wwww.afcyhf.com
 affanalytics.com
@@ -8328,8 +8327,6 @@ wn7c6s.becooldoright.com
 wulsxlbi.becooldoright.com
 ww17.becooldoright.com
 ww25.becooldoright.com
-ww38.becooldoright.com
-www.becooldoright.com
 x4hilo.becooldoright.com
 xgvy1h0i.becooldoright.com
 xuchbj.becooldoright.com
@@ -14599,7 +14596,10 @@ googlecalender.com
 googlemaail.com
 googlemerchant.com
 googlemqil.com
-googlenewssubmit.com
+imap4.googlenewssubmit.com
+mail.googlenewssubmit.com
+mx.googlenewssubmit.com
+www.googlenewssubmit.com
 googleoptimize.com
 wintricksbanner.googlepages.com
 googleplaystor.com
@@ -15432,7 +15432,7 @@ hurtteeth.com
 hurvewa.com
 hushlove.com
 attribution.hushpuppies.com
-www.huskeycabinrentals.com
+huskeycabinrentals.com
 huspas.com
 husqvaraviking.com
 hustlervideos.com
@@ -15998,9 +15998,6 @@ www.ip-api.com
 ip2ulocation.com
 api.ipapi.com
 ipardpa.com
-arquivos.ipcont.com
-mail.ipcont.com
-www.ipcont.com
 iperceptions.com
 iphwallpaper.com
 api.ipinfodb.com
@@ -16770,7 +16767,8 @@ ads.lesbianpersonals.com
 lesibian.com
 letasbonus.com
 letgomobile.com
-letmwatchthis.com
+ww1.letmwatchthis.com
+ww25.letmwatchthis.com
 letsbobus.com
 recommendations.letslinc.com
 track.lettingaproperty.com
@@ -18537,6 +18535,7 @@ app.matheranalytics.com
 cdn.matheranalytics.com
 cdn-gc.matheranalytics.com
 i.matheranalytics.com
+i-staging.matheranalytics.com
 js.matheranalytics.com
 js-gc.matheranalytics.com
 mathsiit.com
@@ -30299,7 +30298,6 @@ ndparking.com
 ndroip.com
 ads.ndtv1.com
 neatab.com
-www.needcashmoneyinstantly.com
 neewgoogle.com
 neglot.com
 nehnutelnosti.com
@@ -30375,11 +30373,6 @@ newestflashupdates.com
 newestvoyuer.com
 newflashupdate.com
 newflashupdates.com
-ww1.newgmailaccount.com
-ww11.newgmailaccount.com
-ww17.newgmailaccount.com
-ww25.newgmailaccount.com
-ww38.newgmailaccount.com
 www.newgmailaccount.com
 ads.newgrounds.com
 madata.newlook.com
@@ -30639,6 +30632,7 @@ noooooooooooooooooooo.com
 ads.nordichardware.com
 norelcoelectricshavers.com
 ww1.norsdom.com
+ww38.norsdom.com
 www.norsdom.com
 norstatsurveys.com
 north-outlet.com
@@ -35418,12 +35412,10 @@ s-05.optvdo.com
 s-06.optvdo.com
 s-07.optvdo.com
 s-08.optvdo.com
-s-09.optvdo.com
 s-100.optvdo.com
 s-101.optvdo.com
 s-102.optvdo.com
 s-103.optvdo.com
-s-104.optvdo.com
 s-105.optvdo.com
 s-108.optvdo.com
 s-109.optvdo.com
@@ -35434,24 +35426,16 @@ s-117.optvdo.com
 s-118.optvdo.com
 s-119.optvdo.com
 s-98.optvdo.com
-v-01.optvdo.com
-v-02.optvdo.com
 v-03.optvdo.com
 v-04.optvdo.com
-v-05.optvdo.com
 v-06.optvdo.com
 v-08.optvdo.com
-v-09.optvdo.com
 v-10.optvdo.com
 v-12.optvdo.com
 v-13.optvdo.com
-v-14.optvdo.com
 v-15.optvdo.com
-v-16.optvdo.com
 v-17.optvdo.com
 v-18.optvdo.com
-v-19.optvdo.com
-v-20.optvdo.com
 v-53.optvdo.com
 v-55.optvdo.com
 v-57.optvdo.com
@@ -35462,7 +35446,6 @@ v-61.optvdo.com
 v-63.optvdo.com
 v-64.optvdo.com
 v-65.optvdo.com
-v-67.optvdo.com
 v-69.optvdo.com
 v-79.optvdo.com
 v2v.optvdo.com
@@ -35770,7 +35753,6 @@ pd-proxy.com
 pddre.com
 flaming.peacebanana.com
 splitting.peacebanana.com
-ww1.peacheslarue.com
 peak-serving.com
 peakonspot.com
 gkkj.peakperformsrv.com
@@ -49943,7 +49925,6 @@ wer-will-ficken.com
 weratherchannel.com
 wesrelm.com
 count.west263.com
-ww38.westcoastriot.com
 westernunionl.com
 westernunipn.com
 westernwallnote.com
@@ -50956,7 +50937,8 @@ go.xhamsterlive.com
 xhamsterx.com
 xhemters.com
 xhqxmovies.com
-xhumpster.com
+ww17.xhumpster.com
+www.xhumpster.com
 ad.ximalaya.com
 adbehavior.ximalaya.com
 adbehaviorhera.ximalaya.com
@@ -53577,7 +53559,6 @@ www.belajarpc.info
 benefication.info
 beragam.info
 beritaislam24h.info
-www.besplatno-kachaem.info
 besstahete.info
 bestcb.info
 bestgarten.info
@@ -53848,7 +53829,6 @@ devpn.info
 dharmadownloads.info
 diarioextra.info
 mail.dicoba.info
-www.dicoba.info
 didigames.info
 dienten.info
 diff.info
@@ -54318,6 +54298,7 @@ humoristique.info
 hunchun.info
 huntergatherer.info
 hurdleyreer.info
+hxcz.info
 hypnonet.info
 hypo2.info
 i-standart.info
@@ -54451,7 +54432,7 @@ konsan.info
 kooora.info
 koorlive.info
 www.kozi.info
-kpopfan.info
+kreativan.info
 kreditvergleicheab.info
 krisallendaily.info
 www.kristijan.info
@@ -54566,6 +54547,7 @@ mailings.info
 maison-diabete.info
 mail.maitreya.info
 webdisk.maitreya.info
+ww1.maitreya.info
 ww11.maitreya.info
 ww17.maitreya.info
 ww38.maitreya.info
@@ -54642,8 +54624,6 @@ mightylinks.info
 milfpics.info
 millstatt.info
 www.mimino.info
-bija.minato-3r.info
-nibu.minato-3r.info
 ww17.minato-3r.info
 www.minato-3r.info
 mindsweeper.info
@@ -54731,7 +54711,6 @@ teqy.museumrotterdam.info
 tuqu.museumrotterdam.info
 vibo.museumrotterdam.info
 ww17.museumrotterdam.info
-www.museumrotterdam.info
 wyfa.museumrotterdam.info
 wyjo.museumrotterdam.info
 xasu.museumrotterdam.info
@@ -54763,7 +54742,6 @@ unity.myboard.info
 webdisk.myboard.info
 ww1.myboard.info
 ww38.myboard.info
-www.myboard.info
 xbcd360guide.myboard.info
 mydogecoin.info
 myfqdn.info
@@ -54995,90 +54973,29 @@ promma.info
 pronostic-turf.info
 pronosticodeltiempo.info
 protectbrowser.info
-1300.proxysmart.info
-19.proxysmart.info
-ww1.2014asicslamarathonlimitededition.proxysmart.info
-3.proxysmart.info
-4.proxysmart.info
-574.proxysmart.info
-730.proxysmart.info
-78.proxysmart.info
-856.proxysmart.info
-950.proxysmart.info
 amsterdam.proxysmart.info
-asics.proxysmart.info
-ww1.asicsgt2000womensreviews.proxysmart.info
-ww1.asicsrunningshoescheap.proxysmart.info
-aurora.proxysmart.info
-balance.proxysmart.info
-best.proxysmart.info
-black.proxysmart.info
-blanche.proxysmart.info
-boots.proxysmart.info
-brand.proxysmart.info
 ca.proxysmart.info
-carnagie.proxysmart.info
 cdn.proxysmart.info
-cheap.proxysmart.info
-chestnut.proxysmart.info
-cleaner.proxysmart.info
 code.proxysmart.info
-crew.proxysmart.info
-dallas.proxysmart.info
-damen.proxysmart.info
-dames.proxysmart.info
-darcie.proxysmart.info
-discount.proxysmart.info
-edition.proxysmart.info
-encap.proxysmart.info
-friday.proxysmart.info
-heren.proxysmart.info
-hl7c2.proxysmart.info
-kayla.proxysmart.info
-kid.proxysmart.info
-larger.proxysmart.info
 m.proxysmart.info
 m410.proxysmart.info
-max.proxysmart.info
-maxs.proxysmart.info
 media.proxysmart.info
-men.proxysmart.info
-milano.proxysmart.info
+ww16.men.proxysmart.info
 mobile.proxysmart.info
-motivacional.proxysmart.info
-mt610.proxysmart.info
-nike.proxysmart.info
+ww16.motivacional.proxysmart.info
 nikeairmaxtheablack.proxysmart.info
-nyc.proxysmart.info
-ones.proxysmart.info
-original.proxysmart.info
-outlet.proxysmart.info
-price.proxysmart.info
 purple.proxysmart.info
-retro.proxysmart.info
-review.proxysmart.info
-reviews.proxysmart.info
-rivalry.proxysmart.info
-sale.proxysmart.info
-sb.proxysmart.info
-schuhe.proxysmart.info
-service.proxysmart.info
 skor.proxysmart.info
 tall.proxysmart.info
-tn.proxysmart.info
 ugg.proxysmart.info
 uggstorenyc.proxysmart.info
-vibram.proxysmart.info
-white.proxysmart.info
-women.proxysmart.info
-womens.proxysmart.info
+ww16.white.proxysmart.info
 ww1.proxysmart.info
 ww11.proxysmart.info
 ww2.proxysmart.info
 ww25.proxysmart.info
 ww38.proxysmart.info
 www.proxysmart.info
-zappos.proxysmart.info
 przechowalnia.info
 psarema.info
 pubnative.info
@@ -55123,6 +55040,7 @@ realmember.info
 ww1.rearsets.info
 ww11.rearsets.info
 ww17.rearsets.info
+ww25.rearsets.info
 ww38.rearsets.info
 www.rearsets.info
 receptcity.info
@@ -55293,6 +55211,7 @@ ww17.shopcfmobile.info
 www.shopcfmobile.info
 showroom.info
 shrinky.info
+www.shturm.info
 shuwo.info
 siberguvenlik.info
 sifangclub1.info
@@ -63636,6 +63555,8 @@ third-party.wmcdp.io
 tlm.wmcdp.io
 token.wmcdp.io
 dev.video.wmcdp.io
+dev2useast1.modules.video.wmcdp.io
+dev2uswest2.modules.video.wmcdp.io
 schema-api.video.wmcdp.io
 schema-export.video.wmcdp.io
 wurfl.io
@@ -69695,7 +69616,6 @@ audience.media
 convrse.media
 m32.media
 ads.nextday.media
-geolocation.nextday.media
 nui.media
 underdog.media
 zbo.media
@@ -96978,6 +96898,7 @@ popads.net
 popcash.net
 porn-factory.net
 adserver.portugalmail.net
+www.potinga.net
 primetime.net
 pixel.printsites.net
 privatepensionplans.net
@@ -99558,7 +99479,6 @@ prometheus.sigint-dev-b.us-east-2a.aws.k8s.sendgrid.net
 alertmanager.aai-prod-a.us-west-2.aws.k8s.sendgrid.net
 nsqadmin.antiabuse.aai-prod-a.us-west-2.aws.k8s.sendgrid.net
 blackbox.aai-prod-a.us-west-2.aws.k8s.sendgrid.net
-blackbox-exporter.aai-prod-a.us-west-2.aws.k8s.sendgrid.net
 prometheus.aai-prod-a.us-west-2.aws.k8s.sendgrid.net
 alertmanager.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
 blackbox-exporter.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
@@ -101687,6 +101607,7 @@ ww7.6ixty9ine.org
 88000.org
 8club.org
 8xplatform.org
+ns2.90mins.org
 ww11.90mins.org
 99bbs.org
 9w9.org
@@ -103451,6 +103372,7 @@ top10-vergleich.org
 topcam.org
 tor-project.org
 toreproject.org
+torgrussia.org
 torprojet.org
 totalsuccessworld.org
 toyotawiki.org
