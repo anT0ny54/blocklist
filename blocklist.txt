@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 351783
+# Ignored duplicates: 351786
 
 chameleon.ad
 pixel.ad
@@ -8509,8 +8509,6 @@ www.biktv.com
 bilenor.com
 bilizzard.com
 billfilter.com
-billgatescoins.com
-billgatesgive.com
 www.billgateshelp.com
 billigastelanet.com
 billigastforsakring.com
@@ -8581,7 +8579,6 @@ analytics-ingress-global.bitmovin.com
 bitstarz.com
 bitterstrawberry.com
 ads.bittorrent.com
-bittrexpromo.com
 bizarrebaseball.com
 adserver.bizedge.com
 adserver.bizhat.com
@@ -8931,7 +8928,6 @@ bt-tour.com
 btbshoping.com
 www.btc-bonus.com
 btc8886.com
-btcgatesbill.com
 ion.btcswe.com
 btefair.com
 btinternernet.com
@@ -9863,7 +9859,6 @@ clk1015.com
 clkrev.com
 clksite.com
 ae.clmbtech.com
-aggbus.clmbtech.com
 amc8081.clmbtech.com
 ase.clmbtech.com
 aws.clmbtech.com
@@ -10022,7 +10017,6 @@ coinhiveproxy.com
 www.coinimp.com
 coinminingonline.com
 coinnebula.com
-coinproevent.com
 www.coinprofunding.com
 col3negorijinal.com
 colaretiree.com
@@ -11274,7 +11268,6 @@ destinsdream.com
 mx1.destroyallheroines.com
 ww1.destroyallheroines.com
 ww16.destroyallheroines.com
-www.destroyallheroines.com
 detailedglue.com
 detailedgovernment.com
 detectdiscovery.com
@@ -11387,6 +11380,7 @@ cybs.dhgate.com
 e.dhgate.com
 e1.dhgate.com
 links.e2.dhgate.com
+tracking.e4.dhgate.com
 ltecrf.dhgate.com
 testssl.dhgate.com
 diablo3builds.com
@@ -11431,6 +11425,8 @@ digitalremedy.com
 affiliates.digitalriver.com
 www.digitalzoneng.com
 adserver.digitoday.com
+ww38.digiwavetechnologies.com
+www.digiwavetechnologies.com
 dilendeau.com
 diluthtrading.com
 dimagesrc.com
@@ -16949,8 +16945,6 @@ vamail3.linksynergy.com
 m.www.linksynergy.com
 linktarget.com
 linmkedin.com
-linuxgiveme.com
-linuxpromo.com
 liquidm.com
 lisasophia.com
 lisnr.com
@@ -17557,7 +17551,6 @@ mangafax.com
 mangcanor.com
 mangehere.com
 manjisstudio.com
-ww1.manoramaonlne.com
 ww38.manoramaonlne.com
 ww4.manoramaonlne.com
 www.manoramaonlne.com
@@ -18554,7 +18547,6 @@ mbankingbca.com
 mbanorte.com
 mbounce.com
 mcafeeantivirusplus.com
-mcafeepresent.com
 mcatch.com
 www.mccluskychevrolet.com
 mcdlks.com
@@ -29668,7 +29660,6 @@ mpnrs.com
 prebid.mpwdigital.com
 mraffiliate.com
 mrdhan.com
-mrgatesgive.com
 ads.mrgreen.com
 pxtdxx.mrlittlejohn.com
 www.mrlittlejohn.com
@@ -35394,47 +35385,6 @@ optnmstr.com
 optrainingcenter.com
 opttracker.com
 optumbankfinancial.com
-a.optvdo.com
-p.optvdo.com
-s-01.optvdo.com
-s-02.optvdo.com
-s-03.optvdo.com
-s-04.optvdo.com
-s-05.optvdo.com
-s-06.optvdo.com
-s-07.optvdo.com
-s-08.optvdo.com
-s-101.optvdo.com
-s-102.optvdo.com
-s-105.optvdo.com
-s-108.optvdo.com
-s-109.optvdo.com
-s-113.optvdo.com
-s-114.optvdo.com
-s-117.optvdo.com
-s-118.optvdo.com
-s-119.optvdo.com
-v-03.optvdo.com
-v-04.optvdo.com
-v-06.optvdo.com
-v-08.optvdo.com
-v-10.optvdo.com
-v-12.optvdo.com
-v-13.optvdo.com
-v-15.optvdo.com
-v-17.optvdo.com
-v-18.optvdo.com
-v-53.optvdo.com
-v-55.optvdo.com
-v-57.optvdo.com
-v-58.optvdo.com
-v-59.optvdo.com
-v-61.optvdo.com
-v-63.optvdo.com
-v-65.optvdo.com
-v-69.optvdo.com
-v-79.optvdo.com
-v2v.optvdo.com
 cobrowse.oraclecloud.com
 ccexperimentsstatic.oracleoutsourcing.com
 cloud-commerce-visit.oracleoutsourcing.com
@@ -37010,7 +36960,6 @@ prmtracking.com
 pro-advertising.com
 proalliance.com
 naj22.proasdf.com
-probtcpromotion.com
 procareusa.com
 prod2016.com
 prodlgygame.com
@@ -45696,7 +45645,6 @@ springhillbulbs.com
 springserve.com
 sprinklecontent.com
 sprinkwire.com
-www.adserver.sprintdisk.com
 sprotsmansguide.com
 sprymetrics.com
 sptslmtrafms.com
@@ -46023,7 +45971,6 @@ steelhousemedia.com
 stepplane.com
 stereamsex.com
 sterlingxxx.com
-stevepromo.com
 stickssheep.com
 stickyadstv.com
 stiffgame.com
@@ -46563,6 +46510,7 @@ ldap-00.supplyframe.com
 lg.supplyframe.com
 mail.supplyframe.com
 marketing.supplyframe.com
+marketingmaterial.supplyframe.com
 media.supplyframe.com
 qa.mpndecoder.supplyframe.com
 neptune.supplyframe.com
@@ -47104,7 +47052,6 @@ td.thebrighttag.com
 u.thebrighttag.com
 uiperf.thebrighttag.com
 www.thebrighttag.com
-thebtcpromo.com
 thebunkerfresno.com
 revive.thebusinessjournal.com
 thecashbackguide.com
@@ -48097,10 +48044,6 @@ unknowncrate.com
 unknowntray.com
 unless.com
 unlimitedtouch4u.com
-api.unmortalloose.com
-app.unmortalloose.com
-ns1.unmortalloose.com
-www.unmortalloose.com
 4.unoadsrv.com
 a.unoadsrv.com
 abc1.unoadsrv.com
@@ -53810,7 +53753,6 @@ devki.info
 devpn.info
 dharmadownloads.info
 diarioextra.info
-mail.dicoba.info
 didigames.info
 dienten.info
 diff.info
@@ -54087,6 +54029,12 @@ freelancewriter88.info
 freenet.info
 freenetflixaccount.info
 freepornsearch.info
+mail01.freesbmblog.info
+vnet.freesbmblog.info
+ww1.freesbmblog.info
+staging.ww12.freesbmblog.info
+ww17.freesbmblog.info
+ww38.freesbmblog.info
 freeserver4sharing.info
 freewebtutorials.info
 freshwallpapers.info
@@ -54661,37 +54609,10 @@ multi3ker.info
 multivitamine.info
 mur-porteur.info
 museum-of-artifacts.info
-bofu.museumrotterdam.info
-boke.museumrotterdam.info
-bopu.museumrotterdam.info
-bynu.museumrotterdam.info
-cagi.museumrotterdam.info
-cyzy.museumrotterdam.info
-dajy.museumrotterdam.info
-fave.museumrotterdam.info
-fyju.museumrotterdam.info
 giku.museumrotterdam.info
 jafo.museumrotterdam.info
-kako.museumrotterdam.info
 kesa.museumrotterdam.info
-lisy.museumrotterdam.info
-miku.museumrotterdam.info
-nogu.museumrotterdam.info
-nudy.museumrotterdam.info
-nuza.museumrotterdam.info
-qebu.museumrotterdam.info
-qoly.museumrotterdam.info
-sado.museumrotterdam.info
 safy.museumrotterdam.info
-tapu.museumrotterdam.info
-teqy.museumrotterdam.info
-tuqu.museumrotterdam.info
-vibo.museumrotterdam.info
-wyfa.museumrotterdam.info
-wyjo.museumrotterdam.info
-xasu.museumrotterdam.info
-zabu.museumrotterdam.info
-zina.museumrotterdam.info
 music-bg.info
 musicalmente.info
 musicalove.info
@@ -54957,7 +54878,6 @@ m410.proxysmart.info
 media.proxysmart.info
 ww16.men.proxysmart.info
 mobile.proxysmart.info
-ww16.motivacional.proxysmart.info
 nikeairmaxtheablack.proxysmart.info
 purple.proxysmart.info
 skor.proxysmart.info
@@ -54965,7 +54885,6 @@ tall.proxysmart.info
 ugg.proxysmart.info
 uggstorenyc.proxysmart.info
 ww16.white.proxysmart.info
-ww1.proxysmart.info
 ww11.proxysmart.info
 ww2.proxysmart.info
 ww38.proxysmart.info
@@ -55255,38 +55174,26 @@ sonyvegas.info
 soramoon.info
 sorarose.info
 sourcevapes.info
-beqy.specialbaby.info
-bipu.specialbaby.info
-bopu.specialbaby.info
 ceka.specialbaby.info
-fyna.specialbaby.info
 gaca.specialbaby.info
-gewa.specialbaby.info
 gycy.specialbaby.info
 jybe.specialbaby.info
 kola.specialbaby.info
 lybi.specialbaby.info
 mowy.specialbaby.info
-muse.specialbaby.info
 myxo.specialbaby.info
 pydo.specialbaby.info
-qore.specialbaby.info
 quvy.specialbaby.info
 roqe.specialbaby.info
 saqa.specialbaby.info
-sepo.specialbaby.info
 suri.specialbaby.info
-toso.specialbaby.info
-tyqi.specialbaby.info
 vaxi.specialbaby.info
 velo.specialbaby.info
-vofy.specialbaby.info
 wolu.specialbaby.info
 ww1.specialbaby.info
 ww17.specialbaby.info
 ww38.specialbaby.info
 www.specialbaby.info
-xapi.specialbaby.info
 xywa.specialbaby.info
 speedwest.info
 spiruline-bio.info
@@ -99420,7 +99327,6 @@ prometheus.geopod-prod-a.us-east-1c.aws.k8s.sendgrid.net
 alertmanager.aai-prod-a.us-east-2.aws.k8s.sendgrid.net
 nsqadmin.antiabuse.aai-prod-a.us-east-2.aws.k8s.sendgrid.net
 blackbox.aai-prod-a.us-east-2.aws.k8s.sendgrid.net
-blackbox-exporter.aai-prod-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.aai-prod-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.aai-stage-a.us-east-2.aws.k8s.sendgrid.net
 nsqadmin.antiabuse.aai-stage-a.us-east-2.aws.k8s.sendgrid.net
@@ -99933,7 +99839,6 @@ rgw.rook-ceph.asgard-prod-n.las1.k8s.sendgrid.net
 alertmanager.asgard-prod-o.las1.k8s.sendgrid.net
 atc-web.asgard-prod-o.las1.k8s.sendgrid.net
 blackbox.asgard-prod-o.las1.k8s.sendgrid.net
-blackbox-exporter.asgard-prod-o.las1.k8s.sendgrid.net
 deliverability-settings.asgard-prod-o.las1.k8s.sendgrid.net
 ips.asgard-prod-o.las1.k8s.sendgrid.net
 postoffice.asgard-prod-o.las1.k8s.sendgrid.net
@@ -99943,7 +99848,6 @@ rgw.rook-ceph.asgard-prod-o.las1.k8s.sendgrid.net
 alertmanager.asgard-prod-p.las1.k8s.sendgrid.net
 atc-web.asgard-prod-p.las1.k8s.sendgrid.net
 blackbox.asgard-prod-p.las1.k8s.sendgrid.net
-blackbox-exporter.asgard-prod-p.las1.k8s.sendgrid.net
 deliverability-settings.asgard-prod-p.las1.k8s.sendgrid.net
 ips.asgard-prod-p.las1.k8s.sendgrid.net
 postoffice.asgard-prod-p.las1.k8s.sendgrid.net
@@ -99953,7 +99857,6 @@ rgw.rook-ceph.asgard-prod-p.las1.k8s.sendgrid.net
 alertmanager.asgard-prod-q.las1.k8s.sendgrid.net
 atc-web.asgard-prod-q.las1.k8s.sendgrid.net
 blackbox.asgard-prod-q.las1.k8s.sendgrid.net
-blackbox-exporter.asgard-prod-q.las1.k8s.sendgrid.net
 deliverability-settings.asgard-prod-q.las1.k8s.sendgrid.net
 ips.asgard-prod-q.las1.k8s.sendgrid.net
 postoffice.asgard-prod-q.las1.k8s.sendgrid.net
@@ -99963,7 +99866,6 @@ rgw.rook-ceph.asgard-prod-q.las1.k8s.sendgrid.net
 alertmanager.asgard-prod-r.las1.k8s.sendgrid.net
 atc-web.asgard-prod-r.las1.k8s.sendgrid.net
 blackbox.asgard-prod-r.las1.k8s.sendgrid.net
-blackbox-exporter.asgard-prod-r.las1.k8s.sendgrid.net
 deliverability-settings.asgard-prod-r.las1.k8s.sendgrid.net
 ips.asgard-prod-r.las1.k8s.sendgrid.net
 postoffice.asgard-prod-r.las1.k8s.sendgrid.net
@@ -99973,7 +99875,6 @@ rgw.rook-ceph.asgard-prod-r.las1.k8s.sendgrid.net
 alertmanager.asgard-prod-s.las1.k8s.sendgrid.net
 atc-web.asgard-prod-s.las1.k8s.sendgrid.net
 blackbox.asgard-prod-s.las1.k8s.sendgrid.net
-blackbox-exporter.asgard-prod-s.las1.k8s.sendgrid.net
 deliverability-settings.asgard-prod-s.las1.k8s.sendgrid.net
 ips.asgard-prod-s.las1.k8s.sendgrid.net
 postoffice.asgard-prod-s.las1.k8s.sendgrid.net
@@ -101582,6 +101483,7 @@ ww7.6ixty9ine.org
 8club.org
 8xplatform.org
 ns2.90mins.org
+ww25.poczta.90mins.org
 ww11.90mins.org
 99bbs.org
 9w9.org
@@ -102211,7 +102113,6 @@ englishforeveryone-org.freecitizenshiptest.org
 ww11.freecitizenshiptest.org
 ww16.freecitizenshiptest.org
 ww17.freecitizenshiptest.org
-ww25.freecitizenshiptest.org
 ww38.freecitizenshiptest.org
 www.freecitizenshiptest.org
 freecoinbase.org
@@ -102894,7 +102795,6 @@ pi-hole.org
 piedmonthenry.org
 pioneerwoman.org
 piratca.org
-ww1.pirhl.org
 ww25.pirhl.org
 www.pirhl.org
 pirlotv.org
@@ -103602,7 +103502,6 @@ ww1.yhaiindia.org
 ww16.yhaiindia.org
 ww17.yhaiindia.org
 ww25.yhaiindia.org
-ww38.yhaiindia.org
 www.yhaiindia.org
 yifymovie.org
 yorkcountylibraries.org
@@ -108253,6 +108152,7 @@ img.redporntube.xyz
 www.redporntube.xyz
 www.runewfugift.xyz
 sbird.xyz
+server-status.xyz
 skmob.xyz
 www.ss828.xyz
 sxy18.xyz
