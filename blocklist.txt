@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 351743
+# Ignored duplicates: 351741
 
 chameleon.ad
 pixel.ad
@@ -2604,15 +2604,6 @@ na.data-onboarding.advertising.a2z.com
 api.us-east-1.beta.payment.data-retriever.advertising.a2z.com
 api.us-east-1.desktop.payment.data-retriever.advertising.a2z.com
 api.eu-west-1.gamma.payment.data-retriever.advertising.a2z.com
-gamma-eu-api.eu-west-1.debroglie.advertising.a2z.com
-prod-eu-api.eu-west-1.debroglie.advertising.a2z.com
-beta-api.us-east-1.debroglie.advertising.a2z.com
-gamma-cn-api.us-east-1.debroglie.advertising.a2z.com
-gamma-na-api.us-east-1.debroglie.advertising.a2z.com
-prod-cn-api.us-east-1.debroglie.advertising.a2z.com
-prod-na-api.us-east-1.debroglie.advertising.a2z.com
-gamma-fe-api.us-west-2.debroglie.advertising.a2z.com
-prod-fe-api.us-west-2.debroglie.advertising.a2z.com
 test-your-api.beta.demand-tools.advertising.a2z.com
 devportal-internal.demand-tools.advertising.a2z.com
 devportal-internal-beta.demand-tools.advertising.a2z.com
@@ -6214,7 +6205,6 @@ smetrics.aetn.com
 insights.vip.aetnd.com
 adspipc2dc02.ads.aexp.com
 afbest.com
-ww11.afcebookk.com
 www.afcyhf.com
 wwww.afcyhf.com
 affanalytics.com
@@ -6685,7 +6675,6 @@ at-us-east.amazon-adsystem.com
 ateu.amazon-adsystem.com
 atfe.amazon-adsystem.com
 atue.amazon-adsystem.com
-c.amazon-adsystem.com
 cdn-a.amazon-adsystem.com
 cdn-d.amazon-adsystem.com
 cdn-t.amazon-adsystem.com
@@ -6693,9 +6682,6 @@ cdn-vfw-us-test.amazon-adsystem.com
 da-cdn.amazon-adsystem.com
 dra.amazon-adsystem.com
 fls-cn.amazon-adsystem.com
-fls-eu.amazon-adsystem.com
-fls-fe.amazon-adsystem.com
-fls-na.amazon-adsystem.com
 imdb.amazon-adsystem.com
 ir-br.amazon-adsystem.com
 ir-ca.amazon-adsystem.com
@@ -6772,7 +6758,6 @@ jfewlk.device-metrics-us-2.amazon.com
 toyota-alexa-auto.device-metrics-us-2.amazon.com
 ipv6.device-metrics-us.amazon.com
 mads.amazon.com
-unagi.amazon.com
 amazonadda.com
 dynamodb.af-south-1.amazonaws.com
 tagging.af-south-1.amazonaws.com
@@ -10857,7 +10842,6 @@ www.cxense.com
 cxpublic.com
 cybeewebsms.com
 cyberbounty.com
-bad.dns.cyberdayperu.com
 cyclingcloseouts.com
 cyhase.com
 nextlink.cypher-sys.com
@@ -12597,14 +12581,10 @@ feelmetube.com
 play.feesocrald.com
 feezle.com
 feisibuk.com
-ww1.galleries.femdomabuse.com
-ww25.galleries.femdomabuse.com
 ww38.galleries.femdomabuse.com
-magento.femdomabuse.com
 ww1.secure.femdomabuse.com
 shop.femdomabuse.com
 sites.femdomabuse.com
-staging.femdomabuse.com
 tour.femdomabuse.com
 ww1.track.femdomabuse.com
 ww1.femdomabuse.com
@@ -16761,7 +16741,6 @@ ads.lesbianpersonals.com
 lesibian.com
 letasbonus.com
 letgomobile.com
-ww1.letmwatchthis.com
 letsbobus.com
 recommendations.letslinc.com
 track.lettingaproperty.com
@@ -17555,7 +17534,6 @@ mangcanor.com
 mangehere.com
 manjisstudio.com
 ww38.manoramaonlne.com
-ww4.manoramaonlne.com
 manroulett.com
 mansrun.com
 mantisadnetwork.com
@@ -30724,6 +30702,7 @@ ogury.com
 ohchaiyo.com
 ohnkitviv.com
 oho-mobile.com
+www.oilcloze.com
 ojogoss.com
 ojoliecards.com
 ads.okcimg.com
@@ -53305,7 +53284,6 @@ amandal.info
 ww17.amateurporns.info
 www.ww25.amateurporns.info
 ww38.amateurporns.info
-www.amateurporns.info
 amazingporn.info
 amazonshoppingindir.info
 amine.info
@@ -53567,6 +53545,7 @@ btcerise.info
 btfly.info
 btsoso.info
 buddhadhamma.info
+www.buduar.info
 buffalos.info
 buhaus.info
 bukinist.info
@@ -54471,7 +54450,6 @@ pub.macommune.info
 www.maedchen.info
 magiptv.info
 magure.info
-mail.mahajana.info
 mahapolice.info
 mailgoogle.info
 mailings.info
@@ -54519,7 +54497,6 @@ medicalinstruments.info
 medicin.info
 ww17.medrinok.info
 ww38.medrinok.info
-www.medrinok.info
 meetnewgirlfriend.info
 meetoyen.info
 cpcalendars.megafast.info
@@ -54609,10 +54586,6 @@ multi3ker.info
 multivitamine.info
 mur-porteur.info
 museum-of-artifacts.info
-giku.museumrotterdam.info
-jafo.museumrotterdam.info
-kesa.museumrotterdam.info
-safy.museumrotterdam.info
 music-bg.info
 musicalmente.info
 musicalove.info
@@ -54712,6 +54685,7 @@ nomosaic.info
 non-verbal.info
 nontonfilm.info
 nonude-stars.info
+noorani.info
 noraredenoma.info
 norrland.info
 noticias365.info
@@ -54869,9 +54843,6 @@ promma.info
 pronostic-turf.info
 pronosticodeltiempo.info
 protectbrowser.info
-nikeairmaxtheablack.proxysmart.info
-uggstorenyc.proxysmart.info
-ww38.proxysmart.info
 przechowalnia.info
 psarema.info
 pubnative.info
@@ -55154,16 +55125,13 @@ solucionprecoz.info
 sondage.info
 sondages.info
 ww1.songspksongspk.info
+ww17.songspksongspk.info
 sonrose.info
 sonyvegas.info
 soramoon.info
 sorarose.info
 sourcevapes.info
-jybe.specialbaby.info
 pydo.specialbaby.info
-quvy.specialbaby.info
-saqa.specialbaby.info
-velo.specialbaby.info
 ww1.specialbaby.info
 ww17.specialbaby.info
 ww38.specialbaby.info
@@ -55297,7 +55265,6 @@ mail10.tch.info
 mail11.tch.info
 mail2.tch.info
 mail3.tch.info
-mail5.tch.info
 mail6.tch.info
 mail7.tch.info
 mail8.tch.info
@@ -56848,7 +56815,6 @@ t.castle.io
 core.centotag.io
 cdn.clarium.io
 protected-by.clarium.io
-protected-by-staging.clarium.io
 clickmate.io
 analytics.cloudron.io
 stats.cloudwp.io
@@ -75746,8 +75712,6 @@ banner.casino.net
 catarog-gift.net
 catds.net
 ww11.cavita.net
-ww25.cavita.net
-ww38.cavita.net
 cccomcast.net
 ads.ccgateway.net
 amp-edge.ccgateway.net
@@ -96543,7 +96507,6 @@ h-massmutual.online-metrix.net
 h-mbna.online-metrix.net
 h-metlife.online-metrix.net
 h-metrobank.online-metrix.net
-h-microsoft.online-metrix.net
 h-missionlane.online-metrix.net
 h-mizuhobank.online-metrix.net
 h-momentumventures.online-metrix.net
@@ -101476,6 +101439,7 @@ mx20.90mins.org
 mx5.90mins.org
 mx7.90mins.org
 newmail.90mins.org
+ns1.90mins.org
 ns2.90mins.org
 outmail.90mins.org
 poczta.90mins.org
@@ -101978,7 +101942,6 @@ documentpro.org
 dolce-vita.org
 dollartreeapplication.org
 donatebbs.org
-ww1.doners.org
 dongdu.org
 download-it.org
 downloadfilm.org
@@ -102118,7 +102081,6 @@ freecardgamesonline.org
 ww1.englishforeveryone-org.freecitizenshiptest.org
 ww25.englishforeveryone-org.freecitizenshiptest.org
 ww38.englishforeveryone-org.freecitizenshiptest.org
-ww17.freecitizenshiptest.org
 ww38.freecitizenshiptest.org
 freecoinbase.org
 freedomdeliverance.org
@@ -102172,6 +102134,7 @@ giftcardsking.org
 girldump.org
 girlsscout.org
 globalhacks.org
+glucam.org
 go2cloud.org
 media.go2speed.org
 godleypark.org
@@ -102800,7 +102763,6 @@ pi-hole.org
 piedmonthenry.org
 pioneerwoman.org
 piratca.org
-ww25.pirhl.org
 pirlotv.org
 pitchme.org
 plaigarism.org
@@ -103501,7 +103463,6 @@ yabancidiziizle.org
 yaplukon.org
 ycmou.org
 ww1.yhaiindia.org
-ww16.yhaiindia.org
 ww17.yhaiindia.org
 yifymovie.org
 yorkcountylibraries.org
