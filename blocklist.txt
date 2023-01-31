@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 351430
+# Ignored duplicates: 351688
 
 chameleon.ad
 pixel.ad
@@ -6549,12 +6549,8 @@ correo.allursolve.com
 ww25.ebook.allursolve.com
 ww38.ebook.allursolve.com
 mail01.allursolve.com
-mailbox.allursolve.com
-mailgw.allursolve.com
 mailserver.allursolve.com
 mbox.allursolve.com
-ww25.movie.allursolve.com
-ww38.movie.allursolve.com
 mx01.allursolve.com
 mx02.allursolve.com
 mx3.allursolve.com
@@ -6563,16 +6559,14 @@ ww25.ns.allursolve.com
 posta.allursolve.com
 ww25.postmaster.allursolve.com
 relay.allursolve.com
-rmw-demo.allursolve.com
+ww11.rmw-demo.allursolve.com
 server.allursolve.com
 server1.allursolve.com
 server2.allursolve.com
-source-code.allursolve.com
 srv.allursolve.com
 ww1.tools.allursolve.com
 ww11.allursolve.com
 ww38.allursolve.com
-ww5.allursolve.com
 zmail.allursolve.com
 almaarefqatar.com
 almasryalyuom.com
@@ -7908,7 +7902,6 @@ bailyfitness.com
 bajajcapital.com
 bakerssolution.com
 bakesalehq.com
-ww1.balckfridaydeals.com
 ww5.balckfridaydeals.com
 www.balckfridaydeals.com
 balealsurfhotel.com
@@ -11455,6 +11448,7 @@ drabsize.com
 draccidentattorney.com
 dragonballzburstlimit.com
 dragzebra.com
+dramasoloist.com
 dramaticcondition.com
 drawnincest.com
 drbanner.com
@@ -11566,6 +11560,7 @@ dunill.com
 excess.duolingo.com
 duquh.com
 durajobs.com
+dustyhammer.com
 dustywave.com
 dutchesscommunitycollege.com
 dvd520.com
@@ -11683,13 +11678,10 @@ st-usw2.dynamicyield.com
 st-www.dynamicyield.com
 st2.dynamicyield.com
 st3.dynamicyield.com
-www.staging1.dynamicyield.com
 www.staging2.dynamicyield.com
-www.staging20.dynamicyield.com
 staging34.dynamicyield.com
 staging37.dynamicyield.com
 staging39.dynamicyield.com
-www.staging4.dynamicyield.com
 start.dynamicyield.com
 static-use1.dynamicyield.com
 static-was1.dynamicyield.com
@@ -15093,7 +15085,7 @@ hkboardgcme.com
 hlifeplus.com
 hlserve.com
 hmasolicitors.com
-hmfriendandfamily.com
+www.hmfriendandfamily.com
 hmn-tech.com
 hmpscience.com
 hmstats.com
@@ -15302,7 +15294,8 @@ ads2.hsoub.com
 hst-rc.com
 htlbid.com
 htorkut.com
-httcostco.com
+ww1.httcostco.com
+www.httcostco.com
 httgeico.com
 httpgarmin.com
 httpool.com
@@ -15480,7 +15473,8 @@ ilife-insurance.com
 ilikeitmomma.com
 illcorp.com
 illfatedsnail.com
-illinhq.com
+ww1.illinhq.com
+www.illinhq.com
 illinoiselottery.com
 illustriousoatmeal.com
 ilo134ulih.com
@@ -15853,7 +15847,6 @@ internetfuel.com
 internetxfinity.com
 internshps.com
 interpolls.com
-interpolyglot.com
 survey.interquest.com
 intershieldismart.com
 intervalleyhealth.com
@@ -16546,7 +16539,6 @@ sandbox02.kaxsdc.com
 stage03.kaxsdc.com
 kayakiyek.com
 kayjewler.com
-kazaa-platinum.com
 smetrics.kbb.com
 syndication.kbb.com
 kbccp.com
@@ -18631,6 +18623,7 @@ karma.mdpcdn.com
 track.mdrctr.com
 mdtrf.com
 mealtimemakover.com
+measlymiddle.com
 measuread.com
 measuremap.com
 measurementapi.com
@@ -30526,6 +30519,7 @@ muskgive.com
 muslimexweb.com
 muslims4marriag.com
 mustang50thbirthdaycelebration.com
+muteknife.com
 muwmedia.com
 mvat.com
 ads.mvscoelho.com
@@ -40675,7 +40669,6 @@ rayjump.com
 rcadserver.com
 rdcnew.com
 rdetube.com
-ww11.rdiltd.com
 www.rdiltd.com
 rdnld.com
 rdraws.com
@@ -43096,9 +43089,6 @@ regaming.com
 regioncolonel.com
 registerservicedomains.com
 regnow.com
-mail.regoplus.com
-webdisk.regoplus.com
-www.regoplus.com
 regularplants.com
 reisen-24.com
 rejoiner.com
@@ -50684,11 +50674,9 @@ mastriny-online.wbnode.com
 pruebas-por-competencias-segundo-periodo-jt.wbnode.com
 psl80bahia.wbnode.com
 royalsweet.wbnode.com
-us.wbnode.com
 woodsradio.wbnode.com
 ww1.wbnode.com
 ww2.wbnode.com
-www.wbnode.com
 wcawast.com
 p.wcfwds.com
 wciud.com
@@ -52241,10 +52229,7 @@ beap-bc.yahoo.com
 fc.yahoo.com
 ganon.yahoo.com
 gemini.yahoo.com
-ex.geo.yahoo.com
-in.ord.geo.yahoo.com
-real.geo.yahoo.com
-test.geo.yahoo.com
+geo.yahoo.com
 marketingsolutions.yahoo.com
 oao-js-tag.onemobile.yahoo.com
 analytics.query.yahoo.com
@@ -52255,6 +52240,7 @@ ssp.yahoo.com
 bats.video.yahoo.com
 visit.webhosting.yahoo.com
 ads.yap.yahoo.com
+m.yap.yahoo.com
 bid-global.ybp.yahoo.com
 east-bid.ybp.yahoo.com
 nrb.ybp.yahoo.com
@@ -54185,7 +54171,6 @@ ww1.91lulea.info
 318zhifuwang.91r.info
 437552.91r.info
 cctv7zhifuj.91r.info
-ww1.91r.info
 9696avmm.info
 98hy.info
 99hy.info
@@ -54352,30 +54337,21 @@ ayc0zsm69431gfebd.info
 azanime.info
 azjobebooks.info
 b2knew.info
-fymyc.babymassage-apeldoorn.info
-hogoh.babymassage-apeldoorn.info
-keved.babymassage-apeldoorn.info
 kisuj.babymassage-apeldoorn.info
-kofef.babymassage-apeldoorn.info
 kosof.babymassage-apeldoorn.info
 lycyj.babymassage-apeldoorn.info
-mahav.babymassage-apeldoorn.info
 miren.babymassage-apeldoorn.info
-motit.babymassage-apeldoorn.info
 qucuq.babymassage-apeldoorn.info
 rolyk.babymassage-apeldoorn.info
 semab.babymassage-apeldoorn.info
 syfel.babymassage-apeldoorn.info
 tujon.babymassage-apeldoorn.info
 tujot.babymassage-apeldoorn.info
-vamen.babymassage-apeldoorn.info
 woquj.babymassage-apeldoorn.info
 wovaz.babymassage-apeldoorn.info
 www.babymassage-apeldoorn.info
 wyrap.babymassage-apeldoorn.info
 xoryc.babymassage-apeldoorn.info
-xuqyp.babymassage-apeldoorn.info
-zalaf.babymassage-apeldoorn.info
 backhoe.info
 backlinkcanyon.info
 bacsidinhduong.info
@@ -55937,6 +55913,7 @@ russianpornvideo.info
 rutor-new.info
 rutot.info
 rutube.info
+ww16.rutur.info
 ww25.rutur.info
 www.rutur.info
 rxhd.info
@@ -57919,6 +57896,7 @@ dev.ethn.io
 duolingo.ethn.io
 gate.ethn.io
 gateway.ethn.io
+hello.ethn.io
 imap2.ethn.io
 img.ethn.io
 js.ethn.io
@@ -76499,15 +76477,12 @@ antispam.altissimo.net
 authsmtp.altissimo.net
 barracuda.altissimo.net
 box.altissimo.net
-comune.altissimo.net
 correo.altissimo.net
-email.altissimo.net
 gate.altissimo.net
 gateway.altissimo.net
 hermes.altissimo.net
 home.altissimo.net
 host.altissimo.net
-m.altissimo.net
 mail.altissimo.net
 mail01.altissimo.net
 mail02.altissimo.net
@@ -76517,33 +76492,26 @@ mail12.altissimo.net
 mail5.altissimo.net
 mail6.altissimo.net
 mail8.altissimo.net
-mail9.altissimo.net
-mailapp.altissimo.net
 mailbox.altissimo.net
 mailgate.altissimo.net
 mailgw.altissimo.net
 mailhost.altissimo.net
-mailin.altissimo.net
 mails.altissimo.net
 mailserver.altissimo.net
 mailsrv.altissimo.net
 mbox.altissimo.net
 ms.altissimo.net
-mx.altissimo.net
 mx0.altissimo.net
 mx01.altissimo.net
 mx02.altissimo.net
-mx10.altissimo.net
 mx2.altissimo.net
 mx20.altissimo.net
 mx3.altissimo.net
 mx4.altissimo.net
 mx5.altissimo.net
 mx7.altissimo.net
-ns2.altissimo.net
 out.altissimo.net
 outmail.altissimo.net
-pbrand.altissimo.net
 po.altissimo.net
 pop.altissimo.net
 postmaster.altissimo.net
@@ -76558,7 +76526,6 @@ smtpauth.altissimo.net
 smtps.altissimo.net
 sniper.altissimo.net
 srv.altissimo.net
-tw.altissimo.net
 vmail.altissimo.net
 ww10.altissimo.net
 ww11.altissimo.net
@@ -76566,7 +76533,6 @@ ww25.altissimo.net
 ww35.altissimo.net
 ww38.altissimo.net
 www.altissimo.net
-zmail.altissimo.net
 amateurtubeporn.net
 amazingvacationhomesfl.net
 analytics-active.net
@@ -96529,7 +96495,9 @@ sdk.hockeyapp.net
 holohotel.net
 homeschoolingbenefits.net
 dns.hostux.net
-hotbest.net
+ww2.hotbest.net
+ww5.hotbest.net
+www.hotbest.net
 houken.net
 hozim.net
 hubspot-test-subdomain.hs-analytics.net
@@ -97139,6 +97107,7 @@ mythmem.net
 mytop-in.net
 myvisualiq.net
 myxmovies.net
+devint.mzbcdn.net
 n-mobile.net
 naghtytube.net
 naugtytube.net
@@ -101150,6 +101119,7 @@ postoffice.asgard-stage-a.mdw1.k8s.sendgrid.net
 prometheus.asgard-stage-a.mdw1.k8s.sendgrid.net
 dash.rook-ceph.asgard-stage-a.mdw1.k8s.sendgrid.net
 rgw.rook-ceph.asgard-stage-a.mdw1.k8s.sendgrid.net
+asgard-kafka.tls.asgard-stage-a.mdw1.k8s.sendgrid.net
 alertmanager.event-prod-a.mdw1.k8s.sendgrid.net
 blackbox.event-prod-a.mdw1.k8s.sendgrid.net
 prometheus.event-prod-a.mdw1.k8s.sendgrid.net
@@ -101220,6 +101190,8 @@ email-insights.general-stage-a.mdw1.k8s.sendgrid.net
 federation.general-stage-a.mdw1.k8s.sendgrid.net
 go-servernameapi.general-stage-a.mdw1.k8s.sendgrid.net
 grafana.general-stage-a.mdw1.k8s.sendgrid.net
+shim.iam.general-stage-a.mdw1.k8s.sendgrid.net
+shim-dev.iam.general-stage-a.mdw1.k8s.sendgrid.net
 imp.general-stage-a.mdw1.k8s.sendgrid.net
 ippoolutil.general-stage-a.mdw1.k8s.sendgrid.net
 ips.general-stage-a.mdw1.k8s.sendgrid.net
@@ -102018,7 +101990,7 @@ rekl.tns-cs.net
 ssl-rekl.tns-cs.net
 todaysnewsupdates.net
 todaytvseries.net
-topadblocker.net
+js-tv54d2ml1.topadblocker.net
 topgamesites.net
 totalh.net
 tplikmodem.net
@@ -102100,7 +102072,6 @@ cs1.wpc.v0cdn.net
 banner.vadian.net
 vellsouth.net
 verticalhealth.net
-www.verygoodbook.net
 ww2.asm.vgta.net
 top.vgta.net
 ww1.vgta.net
@@ -103118,9 +103089,6 @@ free-video-cutter.org
 freeasiantube.org
 freebook4u.org
 freecardgamesonline.org
-ww1.englishforeveryone-org.freecitizenshiptest.org
-ww25.englishforeveryone-org.freecitizenshiptest.org
-ww38.englishforeveryone-org.freecitizenshiptest.org
 freecoinbase.org
 freedomdeliverance.org
 freeesound.org
@@ -103536,12 +103504,9 @@ ww25.6rm2p.trade.mnlearningthatworks.org
 ww11.6skvp.trade.mnlearningthatworks.org
 ww25.trade.mnlearningthatworks.org
 ww1.mnlearningthatworks.org
-ww11.mnlearningthatworks.org
 ww16.mnlearningthatworks.org
 ww17.mnlearningthatworks.org
 ww25.mnlearningthatworks.org
-ww38.mnlearningthatworks.org
-www.mnlearningthatworks.org
 mnshsl.org
 mobiloil.org
 moblism.org
@@ -104375,7 +104340,6 @@ vivats.org
 ns1.vivekanandamahavidyalaya.org
 ww1.vivekanandamahavidyalaya.org
 ww38.vivekanandamahavidyalaya.org
-www.vivekanandamahavidyalaya.org
 vodmo.org
 voltairnet.org
 volunteercentre.org
@@ -104385,7 +104349,6 @@ votepinellas.org
 vpngate.org
 vsacfl.org
 vue-js.org
-www.vwpolo.org
 wadefamilytree.org
 wahealthpathfinder.org
 walgreen.org
@@ -105233,6 +105196,7 @@ www.alert-iphone1.site
 www.alert-phone.site
 www.alert-phone1.site
 aptantasp.site
+breahant.site
 www.mobilephonechance.site
 www.notice-booster.site
 www.notice-booster1.site
