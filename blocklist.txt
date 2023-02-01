@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 351688
+# Ignored duplicates: 351797
 
 chameleon.ad
 pixel.ad
@@ -6546,8 +6546,6 @@ allsixgears.com
 allswingergangbangs.com
 at-adserver.alltop.com
 correo.allursolve.com
-ww25.ebook.allursolve.com
-ww38.ebook.allursolve.com
 mail01.allursolve.com
 mailserver.allursolve.com
 mbox.allursolve.com
@@ -6555,16 +6553,12 @@ mx01.allursolve.com
 mx02.allursolve.com
 mx3.allursolve.com
 mx7.allursolve.com
-ww25.ns.allursolve.com
 posta.allursolve.com
-ww25.postmaster.allursolve.com
 relay.allursolve.com
-ww11.rmw-demo.allursolve.com
 server.allursolve.com
 server1.allursolve.com
 server2.allursolve.com
 srv.allursolve.com
-ww1.tools.allursolve.com
 ww11.allursolve.com
 ww38.allursolve.com
 zmail.allursolve.com
@@ -7902,7 +7896,6 @@ bailyfitness.com
 bajajcapital.com
 bakerssolution.com
 bakesalehq.com
-ww5.balckfridaydeals.com
 www.balckfridaydeals.com
 balealsurfhotel.com
 balishadow.com
@@ -10234,7 +10227,6 @@ craigslisthousing.com
 craigslistphoenixaz.com
 www.craigslistspacecoast.com
 craigsliststlouis.com
-crakmedia.com
 craktraffic.com
 cranival.com
 crapperie.com
@@ -11190,6 +11182,7 @@ m.digiwavetechnologies.com
 mail.digiwavetechnologies.com
 mail01.digiwavetechnologies.com
 mail02.digiwavetechnologies.com
+mail1.digiwavetechnologies.com
 mail10.digiwavetechnologies.com
 mail11.digiwavetechnologies.com
 mail12.digiwavetechnologies.com
@@ -11208,6 +11201,7 @@ mailgate.digiwavetechnologies.com
 mailgw.digiwavetechnologies.com
 mailhost.digiwavetechnologies.com
 mailin.digiwavetechnologies.com
+mailout.digiwavetechnologies.com
 mailrelay.digiwavetechnologies.com
 mails.digiwavetechnologies.com
 mailserver.digiwavetechnologies.com
@@ -11231,6 +11225,7 @@ mx5.digiwavetechnologies.com
 mx7.digiwavetechnologies.com
 mxs.digiwavetechnologies.com
 newmail.digiwavetechnologies.com
+ns.digiwavetechnologies.com
 ns1.digiwavetechnologies.com
 ns2.digiwavetechnologies.com
 out.digiwavetechnologies.com
@@ -12605,6 +12600,9 @@ fireworkadservices.com
 fireworkanalytics.com
 fireworks-advertising.com
 firstanalouest.com
+dev.firstbankscard.com
+old.firstbankscard.com
+shop.firstbankscard.com
 test.firstbankscard.com
 firstliberybank.com
 firstlightera.com
@@ -13947,7 +13945,6 @@ geradordecamisa.com
 gerileblanc.com
 ww1.gerlsgogames.com
 ww35.gerlsgogames.com
-www.gerlsgogames.com
 germaintoyotaofsarasota.com
 get-express-vpn.com
 get-intouch.com
@@ -15294,8 +15291,6 @@ ads2.hsoub.com
 hst-rc.com
 htlbid.com
 htorkut.com
-ww1.httcostco.com
-www.httcostco.com
 httgeico.com
 httpgarmin.com
 httpool.com
@@ -37137,7 +37132,6 @@ scn.pnstat.com
 www.pnstat.com
 shop.pocketpcheaven.com
 ww1.pocketpcheaven.com
-ww25.pocketpcheaven.com
 www.pocketpcheaven.com
 podersa.com
 connect.podium.com
@@ -41552,6 +41546,7 @@ curatiocbd.refersion.com
 curednutrition.refersion.com
 curlkalon.refersion.com
 curlsdynasty.refersion.com
+custom-tracker.refersion.com
 customcuff.refersion.com
 customonit.refersion.com
 cvacademy.refersion.com
@@ -43115,7 +43110,6 @@ replaceroute.com
 reportmylost.com
 reppublika.com
 republer.com
-mta-sts.reqaws.com
 ww16.reqaws.com
 ww25.reqaws.com
 www.reqaws.com
@@ -54633,6 +54627,7 @@ cryptomoedas.info
 csgolotto.info
 csplus.info
 cunt.info
+curieux.info
 czmms.info
 dadbab.info
 dailymp3.info
@@ -54679,11 +54674,8 @@ descargadictoz.info
 desiaunties.info
 desimms.info
 developmentideas.info
-dev.devildz.info
 magento.devildz.info
-old.devildz.info
 shop.devildz.info
-staging.devildz.info
 test.devildz.info
 ww17.devildz.info
 ww25.devildz.info
@@ -54860,7 +54852,6 @@ epixeiro.info
 equityfunds.info
 erbrechen.info
 ww17.eremurus.info
-www.eremurus.info
 erinburnett.info
 erocomi.info
 eroflashgames.info
@@ -55159,6 +55150,7 @@ hologeneticprofile.info
 hondacb450s.info
 honwa.info
 hookers.info
+hookuponlineplussize.info
 hormozgani.info
 hoseinzadeh.info
 hothairypussy.info
@@ -55808,6 +55800,7 @@ qmzhijia2019.info
 que-significa-mi-nombre.info
 quepaso.info
 quicktime-download.info
+ww17.quintadolago.info
 qxrtys.info
 rabidshare.info
 www.rabreptancalbe.info
@@ -55904,6 +55897,8 @@ rpg-maker.info
 rtbnews.info
 ruensport.info
 ww1.rukodelnitsa.info
+ww38.rukodelnitsa.info
+www.rukodelnitsa.info
 rumahmodernterbaik.info
 rumobi.info
 rupertmallin.info
@@ -56324,7 +56319,6 @@ thema.info
 track.themaccleanup.info
 themediatrend.info
 thesensei.info
-ww1.thismadsex.info
 www.thismadsex.info
 threaded.info
 thruster.info
@@ -76763,6 +76757,7 @@ ad0.bigmir.net
 c.bigmir.net
 biguz.net
 billyjons.net
+binance-btc.net
 binancefund.net
 binmajed.net
 biointerfaces.net
@@ -94650,7 +94645,6 @@ www2.doubleclick.net
 www3.doubleclick.net
 doublemax.net
 wwww.dpbolvw.net
-2brunettes.dreaming-girls.net
 ww1.dreaming-girls.net
 ww2.dreaming-girls.net
 www.dreaming-girls.net
@@ -95822,7 +95816,6 @@ pdns.faelix.net
 rdns.faelix.net
 famosabrasil.net
 mail.famous-scientist.net
-ww1.famous-scientist.net
 www.famous-scientist.net
 fanficfion.net
 farleyappliance.net
@@ -101991,6 +101984,7 @@ ssl-rekl.tns-cs.net
 todaysnewsupdates.net
 todaytvseries.net
 js-tv54d2ml1.topadblocker.net
+www.topadblocker.net
 topgamesites.net
 totalh.net
 tplikmodem.net
@@ -102246,6 +102240,7 @@ t.zqtk.net
 test.zqtk.net
 ztkcdn.net
 ztksrv.net
+api.a.zucks.net
 ct.a.zucks.net
 ksk.a.zucks.net
 ch.zucks.net
@@ -102695,6 +102690,7 @@ bimare.org
 bimartcreditunion.org
 bioteq.org
 bipme.org
+bitbacket.org
 bitbicket.org
 bitbuket.org
 bitcoinxl.org
@@ -102906,6 +102902,8 @@ daylillies.org
 dclottery.org
 dcserv.org
 de6.org
+ww25.ns2.dearbornsoccer.org
+ww25.poczta.dearbornsoccer.org
 deathmap.org
 debian-es.org
 debt-consolidation-america.org
@@ -103048,6 +103046,8 @@ familysearrch.org
 familysesrch.org
 familyshearch.org
 fantasy-world.org
+magento.fantasyrole.org
+mail.fantasyrole.org
 staging.fantasyrole.org
 ww43.fantasyrole.org
 www.fantasyrole.org
@@ -103493,7 +103493,6 @@ com.mnlearningthatworks.org
 2dfoo.faith.mnlearningthatworks.org
 ww25.3ysrn.faith.mnlearningthatworks.org
 7ory7.faith.mnlearningthatworks.org
-ww16.8k1ku.faith.mnlearningthatworks.org
 ww25.rigk1.faith.mnlearningthatworks.org
 t51sh.faith.mnlearningthatworks.org
 ww25.faith.mnlearningthatworks.org
