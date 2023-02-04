@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 350439
+# Ignored duplicates: 350457
 
 chameleon.ad
 pixel.ad
@@ -7721,7 +7721,6 @@ dandelionsprout.asuscomm.com
 aswpapius.com
 aswpsdkus.com
 atantabraves.com
-www.atatmobile.com
 gt.atdmt.com
 a.rad.atdmt.com
 b.rad.atdmt.com
@@ -8672,8 +8671,6 @@ email.m1.bktrksmail.com
 www.blackberryinternetservices.com
 za.blackberryinternetservices.com
 blackboad.com
-www.blackfidayinfo.com
-www.blackfridayimfo.com
 blackkfriday.com
 blackopsairsoftguns.com
 blackpapa.com
@@ -9630,7 +9627,6 @@ checkm8.com
 checkminuscompositions.com
 cheerfulrange.com
 cheesemobile.com
-ww5.chefscataog.com
 bt.cheqzone.com
 dev.cheqzone.com
 duuzseb2b7-jp.cheqzone.com
@@ -11104,6 +11100,7 @@ www.cxense.com
 cxpublic.com
 cybeewebsms.com
 cyberbounty.com
+test.bad.dns.cyberdayperu.com
 antispam.cyclingcloseouts.com
 auth.cyclingcloseouts.com
 authsmtp.cyclingcloseouts.com
@@ -11178,7 +11175,6 @@ dancemistake.com
 dancingwiththestart.com
 dancingwolfrecords.com
 dangduter.com
-www.dangercheats.com
 danie.com
 danieleftv.com
 danielkudra.com
@@ -11765,7 +11761,6 @@ direct-xxx-access.com
 directaclick.com
 banners.direction-x.com
 ads.directionsmag.com
-directivepub.com
 directivi.com
 directleads.com
 directorym.com
@@ -12003,11 +11998,14 @@ postmaster.dscoders.com
 relay.dscoders.com
 server1.dscoders.com
 server2.dscoders.com
-ww16.ww17.wiki.dscoders.com
+ww1.wiki.dscoders.com
+ww11.wiki.dscoders.com
+ww17.wiki.dscoders.com
 ww38.wiki.dscoders.com
 ww1.dscoders.com
 ww11.dscoders.com
 ww16.dscoders.com
+ww17.dscoders.com
 ww25.dscoders.com
 ww38.dscoders.com
 www.dscoders.com
@@ -12819,8 +12817,6 @@ talbots.extole.com
 extractsight.com
 extraexpansemoney.com
 extreme-dm.com
-mvideo.extremefusevideos.com
-ww1.extremefusevideos.com
 www.extremefusevideos.com
 extremereach.com
 extremetracking.com
@@ -12986,6 +12982,7 @@ dev.firstbankscard.com
 old.firstbankscard.com
 shop.firstbankscard.com
 test.firstbankscard.com
+ww1.firstbankscard.com
 firstliberybank.com
 firstlightera.com
 firstnatiionalbank.com
@@ -13030,8 +13027,6 @@ promos.fling.com
 fliperaminha.com
 flittz.com
 flixprice.com
-home.flligelpi.com
-mx3.flligelpi.com
 flmman.com
 floexclusivo.com
 ads.flooble.com
@@ -14315,10 +14310,10 @@ open.talk.gepush.com
 geradordecamisa.com
 gerileblanc.com
 ww1.gerlsgogames.com
-ww35.gerlsgogames.com
 germaintoyotaofsarasota.com
 get-express-vpn.com
 get-intouch.com
+get-templates.com
 log.getadblock.com
 ping.getadblock.com
 getadmiral.com
@@ -15419,7 +15414,6 @@ hkboardgcme.com
 hlifeplus.com
 hlserve.com
 hmasolicitors.com
-www.hmfriendandfamily.com
 hmn-tech.com
 hmpscience.com
 hmstats.com
@@ -30809,7 +30803,6 @@ be.mugforward.com
 www.mugforward.com
 multicakes.com
 multiext.com
-ww2.multiligualbooks.com
 mummy8.com
 mundanenail.com
 mundanepollution.com
@@ -31908,7 +31901,6 @@ seed-9.nimiq.com
 nimiqpool.com
 ninaloca.com
 ninesmsn.com
-ww1.ninewestshoeoutlet.com
 www.ninewestshoeoutlet.com
 ninjakloack.com
 ninjapd.com
@@ -40952,7 +40944,6 @@ rafona.com
 ragnarokcs.com
 ww1.raigoogle.com
 ww38.raigoogle.com
-www.raigoogle.com
 railwayrainstorm.com
 railwayreason.com
 rainoffice.com
@@ -41008,7 +40999,6 @@ rayjump.com
 rcadserver.com
 rdcnew.com
 rdetube.com
-www.rdiltd.com
 rdnld.com
 rdraws.com
 re-directme.com
@@ -43453,8 +43443,6 @@ replaceroute.com
 reportmylost.com
 reppublika.com
 republer.com
-ww16.reqaws.com
-ww25.reqaws.com
 www.reqaws.com
 requestmetrics.com
 client.res-x.com
@@ -45405,7 +45393,6 @@ per2.segmentify.com
 per3.segmentify.com
 psh1.segmentify.com
 psh2.segmentify.com
-ww25.segoogle.com
 seiko5ers.com
 sekindo.com
 selecat.com
@@ -45459,6 +45446,7 @@ serie-vostfr.com
 series-fc.com
 series-vostfr.com
 seriestvx.com
+serpentshampoo.com
 serranoimoveis.com
 serv0.com
 serv1swork.com
@@ -47306,6 +47294,8 @@ adobe-dtm.staticsfly.com
 stationeryart.com
 stats4all.com
 statsie.com
+jukol.statslight.com
+navus.statslight.com
 statxpress.com
 stayisland.com
 stcroixorthopedics.com
@@ -48077,8 +48067,6 @@ tag-analytics.com
 tagcommander.com
 tagdelivery.com
 taggingyourpals.com
-ww1.taggrf.com
-www.taggrf.com
 tagheur.com
 tagsrvcs.com
 ads.tahono.com
@@ -48571,9 +48559,7 @@ tildarejwan.com
 tillyz.com
 tiads.time.com
 ape-asset-tag.timeinc.com
-mail.timesunioncenteralbanyny.com
 ww1.timesunioncenteralbanyny.com
-www.timesunioncenteralbanyny.com
 timewanner.com
 metrics.timewarnercable.com
 timewrner.com
@@ -49087,7 +49073,6 @@ tuxbotax.com
 tvadsync.com
 tvcenliena.com
 tvkezy.com
-ww1.tvmossoro.com
 www.tvmossoro.com
 tvpassport.com
 tvpixel.com
@@ -49358,7 +49343,6 @@ understoodocean.com
 undertone.com
 c1.undertonevideo.com
 ww1.unfaithfulcouples.com
-ww5.unfaithfulcouples.com
 adserving.unibet.com
 ec2m2.unicast.com
 polldb.unicast.com
@@ -50927,7 +50911,6 @@ vuukle.com
 vvidiacom.com
 dacdn.vwo.com
 ww1.vwt4forum.com
-www.vwt4forum.com
 w3ibm.com
 waardex.com
 link.wacom.com
@@ -50940,7 +50923,6 @@ wakanetwork.com
 wakturehut.com
 smetrics.walgreens.com
 target.walgreens.com
-www.walgreensink.com
 ads.walkiberia.com
 cdn.walkme.com
 walletfun.com
@@ -50969,13 +50951,7 @@ walmartvisa.com
 walmatmoneymatters.com
 walrmat.com
 waltmartgift.com
-6ir04.wanderingspirits2001.com
-8c7jlq.wanderingspirits2001.com
-igja3.wanderingspirits2001.com
-uuqmlc4s.wanderingspirits2001.com
 ww1.wanderingspirits2001.com
-ww25.wanderingspirits2001.com
-www.wanderingspirits2001.com
 wangsoakwoodga.com
 wanogqaznt.com
 wansl.com
@@ -51216,10 +51192,7 @@ westernunipn.com
 westernwallnote.com
 westernwallnotes.com
 westseal.com
-ww1.westwindsminiatures.com
 ww16.westwindsminiatures.com
-ww17.westwindsminiatures.com
-ww25.westwindsminiatures.com
 ww38.westwindsminiatures.com
 stats.westworldmedia.com
 wetdevils.com
@@ -53155,7 +53128,6 @@ server1.yourgoingtohell.com
 smtpseguro.yourgoingtohell.com
 vnet.yourgoingtohell.com
 ww17.yourgoingtohell.com
-ww38.yourgoingtohell.com
 yourkadspunew.com
 www.yourleemin.com
 yourpornamateur.com
@@ -53551,7 +53523,6 @@ ads.adred.de
 adrolays.de
 adrotate.de
 adscale.de
-adsend.de
 adserver01.de
 adserverxxl.de
 adsklick.de
@@ -54228,7 +54199,6 @@ aids.co.il
 alessandro-international.co.il
 animes.co.il
 mail.artists.co.il
-pop.artists.co.il
 www.artists.co.il
 atsulat-haemek.co.il
 auto1-group.co.il
@@ -54601,7 +54571,6 @@ adidasi-nike.info
 aditech.info
 adm-vids.info
 advertisers.info
-www.aerobook.info
 ipe.affairsbook.info
 mail.affairsbook.info
 mvideo.affairsbook.info
@@ -54664,14 +54633,8 @@ ansatsu.info
 answkey.info
 antilles.info
 antiviruspro.info
-ww25.m.aplgo.info
-ww25.magazin.aplgo.info
-ru.aplgo.info
 ww17.aplgo.info
-ww25.aplgo.info
 ww3.aplgo.info
-ww38.aplgo.info
-www.aplgo.info
 auth.applifier.info
 ci.applifier.info
 ci2.applifier.info
@@ -55361,14 +55324,7 @@ flirtandmeeting.info
 flirtaumilf.info
 flixzone.info
 footballstreamings.info
-fazyr.forandagainst.info
-jekel.forandagainst.info
-jysad.forandagainst.info
-kubun.forandagainst.info
-ladan.forandagainst.info
-neruj.forandagainst.info
 ww11.forandagainst.info
-www.forandagainst.info
 forbest.info
 mail.forex-web.info
 mx-2.forex-web.info
@@ -55599,7 +55555,10 @@ hondacb450s.info
 honwa.info
 hookers.info
 hookuponlineplussize.info
-hormozgani.info
+mail.hormozgani.info
+ww11.hormozgani.info
+ww16.hormozgani.info
+www.hormozgani.info
 hoseinzadeh.info
 hothairypussy.info
 hothome.info
@@ -55941,7 +55900,6 @@ www.mimino.info
 mindsweeper.info
 mine-server.info
 minescripts.info
-www.minregion.info
 mirandaim.info
 misex.info
 mitzi.info
@@ -56043,7 +56001,6 @@ mzplus.info
 naasongss.info
 nabimuhammad.info
 nadie007.info
-www.naeri.info
 nagamochi.info
 najnovije-vijesti.info
 najnovijevesti.info
@@ -56250,8 +56207,6 @@ phimhay.info
 photosex.info
 phpprotect.info
 mail.phpsoftware.info
-sitemap.phpsoftware.info
-sitemaps.phpsoftware.info
 static.phpsoftware.info
 ww17.phpsoftware.info
 www.phpsoftware.info
@@ -56447,11 +56402,9 @@ ww1.renktir.info
 ww25.renktir.info
 www.renktir.info
 repositorioslatinoamericanos.info
-webdisk.resepmasakan7.info
 ww1.resepmasakan7.info
 ww17.resepmasakan7.info
 ww38.resepmasakan7.info
-www.resepmasakan7.info
 resorthotels.info
 restplatz.info
 retete-culinare.info
@@ -56630,8 +56583,6 @@ siberguvenlik.info
 sifangclub1.info
 siir.info
 ww1.silentvoice.info
-ww17.silentvoice.info
-www.silentvoice.info
 sillanpaa.info
 silverlines.info
 simbox.info
@@ -56967,7 +56918,6 @@ thema.info
 track.themaccleanup.info
 themediatrend.info
 thesensei.info
-www.thismadsex.info
 threaded.info
 thruster.info
 www.thuthuatpro.info
@@ -57607,6 +57557,7 @@ www.yq366.info
 ytliu.info
 yunss.info
 ww1.zabolkata.info
+www.zabolkata.info
 zaburzeniaodzywiania.info
 zalau.info
 zapret.info
@@ -95338,7 +95289,6 @@ doublemax.net
 wwww.dpbolvw.net
 ww1.dreaming-girls.net
 www.dreaming-girls.net
-youngteens.dreaming-girls.net
 li.mw.drhinternet.net
 drillconsolidating.net
 drivelicense.net
@@ -96503,8 +96453,6 @@ fadedgloryjeans.net
 pdns.faelix.net
 rdns.faelix.net
 famosabrasil.net
-mail.famous-scientist.net
-www.famous-scientist.net
 fanficfion.net
 farleyappliance.net
 cdn.fastclick.net
@@ -96529,7 +96477,6 @@ win-media.fastclick.net
 www.fastclick.net
 fastcomputerrepairs.net
 krxd.net.c.global-ssl.fastly.net
-newrelic.map.fastly.net
 sonobi-go.map.fastly.net
 taboola.map.fastly.net
 t.wayfair.map.fastly.net
@@ -97175,9 +97122,7 @@ sdk.hockeyapp.net
 holohotel.net
 homeschoolingbenefits.net
 dns.hostux.net
-ww2.hotbest.net
 ww5.hotbest.net
-www.hotbest.net
 houken.net
 hozim.net
 hubspot-test-subdomain.hs-analytics.net
@@ -97199,7 +97144,6 @@ ibwin68.net
 ichec.net
 idealadvertising.net
 idgame.net
-ilija101rbi.net
 imagecash.net
 imprev.net
 incontrolhobbies.net
@@ -102778,11 +102722,7 @@ cs1.wpc.v0cdn.net
 banner.vadian.net
 vellsouth.net
 verticalhealth.net
-ww2.asm.vgta.net
-top.vgta.net
 ww1.vgta.net
-ww2.vgta.net
-ww5.vgta.net
 www.vgta.net
 vickyshop.net
 videowap.net
@@ -103097,7 +103037,6 @@ protectad.online
 www.secure-guard.online
 store-notification.online
 www.suncity.online
-tracking.theoceanac.online
 tk.tke3.online
 www.tke3.online
 www.videosondemand.online
@@ -103199,7 +103138,6 @@ aauk.org
 abcya2.org
 abercrombieworkout.org
 abetka-logopedka.org
-www.abhilashakids.org
 ww17.aboriginalpassportceremony.org
 ww38.aboriginalpassportceremony.org
 www1.aboriginalpassportceremony.org
@@ -103553,11 +103491,7 @@ clubsf.org
 cnbce.org
 cnyjeep.org
 coc-resources.org
-mx.codigest.org
-test.codigest.org
-ww1.codigest.org
 ww16.codigest.org
-ww17.codigest.org
 ww25.codigest.org
 cogiclive.org
 cogsdev.org
@@ -103680,6 +103614,7 @@ ns2.dearbornsoccer.org
 outmail.dearbornsoccer.org
 poczta.dearbornsoccer.org
 pop.dearbornsoccer.org
+ww25.pop3.dearbornsoccer.org
 postmaster.dearbornsoccer.org
 relay2.dearbornsoccer.org
 root.dearbornsoccer.org
@@ -104162,8 +104097,6 @@ inskape.org
 intarnet.org
 intercambiosvituales.org
 internalrequests.org
-old.internete.org
-shop.internete.org
 www.internete.org
 internetlawlac.org
 interventionscentral.org
@@ -104398,8 +104331,6 @@ mevabe.org
 mhcet.org
 miamizoo.org
 autodiscover.micromotor.org
-cpcalendars.micromotor.org
-cpcontacts.micromotor.org
 ig.micromotor.org
 mail.micromotor.org
 webdisk.micromotor.org
@@ -104423,7 +104354,7 @@ ww25.3ysrn.faith.mnlearningthatworks.org
 7ory7.faith.mnlearningthatworks.org
 t51sh.faith.mnlearningthatworks.org
 ww25.faith.mnlearningthatworks.org
-loan.mnlearningthatworks.org
+ww25.13379.loan.mnlearningthatworks.org
 ww11.6skvp.trade.mnlearningthatworks.org
 ww17.mnlearningthatworks.org
 mnshsl.org
