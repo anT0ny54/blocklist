@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 350212
+# Ignored duplicates: 350261
 
 chameleon.ad
 pixel.ad
@@ -1394,7 +1394,6 @@ ads.unison.bg
 api.deep.bi
 digitmate.bid
 www.freecontent.bid
-g-content.bid
 gamehack.bid
 ams.personaly.bid
 cdn.personaly.bid
@@ -2807,7 +2806,6 @@ ww11.abcyoutube.com
 ww25.abcyoutube.com
 ww31.abcyoutube.com
 ww38.abcyoutube.com
-www.abcyoutube.com
 abdlnk.com
 abdumusic.com
 abeautifulpool.com
@@ -5347,6 +5345,7 @@ adrizer.com
 adroll.com
 adrta.com
 adrttt.com
+ads-bilek.com
 ads-click.com
 ads-kesselhaus.com
 ads-supply.com
@@ -5483,6 +5482,7 @@ adskeeper.com
 adskpak.com
 adsmain.com
 adsmart.com
+adsmartracker.com
 adsmogo.com
 adsmoloco.com
 adsnative.com
@@ -5499,6 +5499,7 @@ vr-assets.adsoptimal.com
 www.adsoptimal.com
 zephyr-digital.adsoptimal.com
 adsorb.com
+adspredictiv.com
 adspsp.com
 adsqn.com
 adsquare.com
@@ -6934,7 +6935,6 @@ cobrowse-prod-1836182388.us-east-1.elb.amazonaws.com
 collection-1721910380.us-east-1.elb.amazonaws.com
 collector-1178669800.us-east-1.elb.amazonaws.com
 collectors-719813691.us-east-1.elb.amazonaws.com
-dataswitch-ads-75496044.us-east-1.elb.amazonaws.com
 dcs-edge-va6-802167536.us-east-1.elb.amazonaws.com
 dxedge-prod-lb-946522505.us-east-1.elb.amazonaws.com
 fwdcmp-collector-elb-1068580620.us-east-1.elb.amazonaws.com
@@ -8500,7 +8500,6 @@ bilojobs.com
 services.bilsyndication.com
 binance-gives.com
 dc-6cee9e5355c5.binance-trade.com
-mail.binance-trade.com
 webdisk.binance-trade.com
 www.binance-trade.com
 binance2.com
@@ -9490,6 +9489,7 @@ cghhml.com
 cha-cha-chat.com
 attribution.chacos.com
 chaesfinance.com
+ads-backend.chaincliq.com
 chairscrack.com
 chaiyo-mobile.com
 ads.channel4.com
@@ -12462,6 +12462,7 @@ eteppy.com
 eth-pocket.com
 ethaiinfo.com
 ethairdrops.com
+ethereum-ads.com
 ethereum-cashcard.com
 ethereum-pocket.com
 ethgift.com
@@ -16998,7 +16999,7 @@ ads.lesbianpersonals.com
 lesibian.com
 letasbonus.com
 letgomobile.com
-mx1.letmwatchthis.com
+letmwatchthis.com
 letsbobus.com
 recommendations.letslinc.com
 track.lettingaproperty.com
@@ -17288,6 +17289,8 @@ cincinnati.localiq.com
 citizen-times.localiq.com
 clarionledger.localiq.com
 client.localiq.com
+client-qa.localiq.com
+client-qa-b.localiq.com
 coloradoan.localiq.com
 commercialappeal.localiq.com
 coshoctontribune.localiq.com
@@ -20236,6 +20239,7 @@ misuu.com
 mitsuiict.com
 tracking.intl.miui.com
 tracking.miui.com
+mix2ads.com
 mixedreading.com
 mixedtraffic.com
 mixeringtones.com
@@ -37867,7 +37871,6 @@ footway.postaffiliatepro.com
 forte.postaffiliatepro.com
 fortresscreditpro.postaffiliatepro.com
 fortunepanda.postaffiliatepro.com
-fraicheurparis.postaffiliatepro.com
 franchisingtop.postaffiliatepro.com
 freakyaces.postaffiliatepro.com
 freedompartner.postaffiliatepro.com
@@ -37878,7 +37881,6 @@ fundraising.postaffiliatepro.com
 funfactory.postaffiliatepro.com
 futurestay.postaffiliatepro.com
 fvirtuale.postaffiliatepro.com
-gameboard.postaffiliatepro.com
 gasp.postaffiliatepro.com
 getafollower.postaffiliatepro.com
 getrxd.postaffiliatepro.com
@@ -41025,8 +41027,6 @@ radiate.com
 radiodysney.com
 rafona.com
 ragnarokcs.com
-ww1.raigoogle.com
-ww38.raigoogle.com
 railwayrainstorm.com
 railwayreason.com
 rainoffice.com
@@ -43497,6 +43497,7 @@ regaming.com
 regioncolonel.com
 registerservicedomains.com
 regnow.com
+www.regoplus.com
 regularplants.com
 reisen-24.com
 rejoiner.com
@@ -46441,6 +46442,7 @@ workplace.skimresources.com
 www14.skimresources.com
 yahya.skimresources.com
 zhang.skimresources.com
+skisofa.com
 skleplima.com
 cfg.skol-apps.com
 app.skol-to.com
@@ -47584,11 +47586,6 @@ docker-pre.strands.com
 docker-prod.strands.com
 docker-ps.strands.com
 docker-qa.strands.com
-docker-qa-us.strands.com
-emea-bizsolutions.strands.com
-eu.strands.com
-eu-do.strands.com
-eu-li.strands.com
 finance.strands.com
 finance-pre.strands.com
 finger.strands.com
@@ -53327,6 +53324,7 @@ ysitemperature.com
 ytyoutube.com
 yubaholic.com
 yuepoo.com
+yugiomint.com
 ads.yumenetworks.com
 yummy-mom.com
 yuojizz.com
@@ -54223,6 +54221,7 @@ openx.smcaen.fr
 tradelab.fr
 visual-pagerank.fr
 weborama.fr
+ads.adsbtc.fun
 www.alert-booster.fun
 www.alert-booster1.fun
 www.alert-cellphone.fun
@@ -54313,6 +54312,8 @@ www.mobiz.guru
 3o9s.short.gy
 c6y.short.gy
 www.short.gy
+tracking.concedehousingstrainnotice.hair
+tracking.vagueunlikecowerscreamforbid.hair
 creative.prf.hn
 mrporter-creative.prf.hn
 stats.anchor.host
@@ -54695,7 +54696,6 @@ ww17.7zip.info
 www.7zip.info
 8591.info
 91girl5.info
-ww1.1024.91lulea.info
 ww1.9696avmm.info
 www.9696avmm.info
 98hy.info
@@ -54837,21 +54837,30 @@ ayc0zsm69431gfebd.info
 azanime.info
 azjobebooks.info
 b2knew.info
+fymyc.babymassage-apeldoorn.info
+hogoh.babymassage-apeldoorn.info
+keved.babymassage-apeldoorn.info
 kisuj.babymassage-apeldoorn.info
+kofef.babymassage-apeldoorn.info
 kosof.babymassage-apeldoorn.info
 lycyj.babymassage-apeldoorn.info
+mahav.babymassage-apeldoorn.info
 miren.babymassage-apeldoorn.info
+motit.babymassage-apeldoorn.info
 qucuq.babymassage-apeldoorn.info
 rolyk.babymassage-apeldoorn.info
 semab.babymassage-apeldoorn.info
 syfel.babymassage-apeldoorn.info
 tujon.babymassage-apeldoorn.info
 tujot.babymassage-apeldoorn.info
+vamen.babymassage-apeldoorn.info
 woquj.babymassage-apeldoorn.info
 wovaz.babymassage-apeldoorn.info
 www.babymassage-apeldoorn.info
 wyrap.babymassage-apeldoorn.info
 xoryc.babymassage-apeldoorn.info
+xuqyp.babymassage-apeldoorn.info
+zalaf.babymassage-apeldoorn.info
 backhoe.info
 backlinkcanyon.info
 bacsidinhduong.info
@@ -55057,6 +55066,7 @@ ww17.cclove12.info
 ww25.cclove12.info
 ww7.cclove12.info
 www.cclove12.info
+cctv-camera.info
 cd-player.info
 cediss.info
 celiaimrie.info
@@ -55727,6 +55737,7 @@ ilcorsaroblu.info
 ilfornello.info
 ilit.info
 ilkoala.info
+ilovecasinos.info
 ilovefilmesonline.info
 imagediet.info
 imagenesbonitas.info
@@ -56343,7 +56354,6 @@ phimconheo.info
 phimhay.info
 photosex.info
 phpprotect.info
-www.phpsoftware.info
 phpstore.info
 phur.info
 picaduras.info
@@ -56432,6 +56442,70 @@ promma.info
 pronostic-turf.info
 pronosticodeltiempo.info
 protectbrowser.info
+1300.proxysmart.info
+19.proxysmart.info
+ww1.2014asicslamarathonlimitededition.proxysmart.info
+3.proxysmart.info
+4.proxysmart.info
+574.proxysmart.info
+730.proxysmart.info
+78.proxysmart.info
+856.proxysmart.info
+950.proxysmart.info
+asics.proxysmart.info
+ww1.asicsgt2000womensreviews.proxysmart.info
+ww1.asicsrunningshoescheap.proxysmart.info
+aurora.proxysmart.info
+balance.proxysmart.info
+best.proxysmart.info
+black.proxysmart.info
+blanche.proxysmart.info
+boots.proxysmart.info
+brand.proxysmart.info
+carnagie.proxysmart.info
+cheap.proxysmart.info
+chestnut.proxysmart.info
+cleaner.proxysmart.info
+crew.proxysmart.info
+dallas.proxysmart.info
+damen.proxysmart.info
+dames.proxysmart.info
+darcie.proxysmart.info
+discount.proxysmart.info
+edition.proxysmart.info
+encap.proxysmart.info
+friday.proxysmart.info
+heren.proxysmart.info
+hl7c2.proxysmart.info
+kayla.proxysmart.info
+kid.proxysmart.info
+larger.proxysmart.info
+max.proxysmart.info
+maxs.proxysmart.info
+men.proxysmart.info
+milano.proxysmart.info
+motivacional.proxysmart.info
+mt610.proxysmart.info
+nike.proxysmart.info
+nyc.proxysmart.info
+ones.proxysmart.info
+original.proxysmart.info
+outlet.proxysmart.info
+price.proxysmart.info
+retro.proxysmart.info
+review.proxysmart.info
+reviews.proxysmart.info
+rivalry.proxysmart.info
+sale.proxysmart.info
+sb.proxysmart.info
+schuhe.proxysmart.info
+service.proxysmart.info
+tn.proxysmart.info
+vibram.proxysmart.info
+white.proxysmart.info
+women.proxysmart.info
+womens.proxysmart.info
+zappos.proxysmart.info
 przechowalnia.info
 psarema.info
 pubnative.info
@@ -56466,7 +56540,6 @@ python-os.info
 9751.qiqiqi.info
 9757.qiqiqi.info
 ww17.qiqiqi.info
-www.qiushibaike.info
 qiyehao.info
 qmzhijia2019.info
 que-significa-mi-nombre.info
@@ -56700,9 +56773,7 @@ shineworks.info
 shkid.info
 shlink.info
 shop-shop.info
-cpcontacts.shopcfmobile.info
 mail.shopcfmobile.info
-webdisk.shopcfmobile.info
 www.shopcfmobile.info
 showroom.info
 shrinky.info
@@ -57549,7 +57620,6 @@ xfzona.info
 xiaohuangren.info
 xiaoshuog58.info
 xinhdep.info
-www.xmxx.info
 xn--sterreich-z7a.info
 xnxx35.info
 xnxxarab.info
@@ -57683,9 +57753,7 @@ youwinner.info
 www.yq366.info
 ytliu.info
 yunss.info
-sitemaps.zabolkata.info
-ww1.zabolkata.info
-www.zabolkata.info
+zabolkata.info
 zaburzeniaodzywiania.info
 zalau.info
 zapret.info
@@ -58569,6 +58637,8 @@ bee-storage-standalone.customer.io
 beta-api.customer.io
 beta-api-eu.customer.io
 calendar.customer.io
+cdp.customer.io
+cdp-ui.customer.io
 cicd.customer.io
 cms.customer.io
 delivery.customer.io
@@ -61406,6 +61476,7 @@ insurance.sandbox.redventures.io
 lonelyplanet-digital.sandbox.redventures.io
 mediarevenue.sandbox.redventures.io
 mediatech.sandbox.redventures.io
+mlops.sandbox.redventures.io
 mt-video.sandbox.redventures.io
 mymove.sandbox.redventures.io
 netops.sandbox.redventures.io
@@ -70906,7 +70977,9 @@ web2.adf.ly
 assets.context.ly
 count.ly
 tracking.baypacketaddressepisode.makeup
+tracking.namerealopendrawflesh.makeup
 tracking.pastapplauddeterseminarproof.makeup
+tracking.playerobjectwordingbasinbank.makeup
 vast.spotim.market
 execution-cicorzeu.ci360.marketing
 execution-cicplusp.ci360.marketing
@@ -77241,12 +77314,15 @@ antispam.altissimo.net
 authsmtp.altissimo.net
 barracuda.altissimo.net
 box.altissimo.net
+comune.altissimo.net
 correo.altissimo.net
+email.altissimo.net
 gate.altissimo.net
 gateway.altissimo.net
 hermes.altissimo.net
 home.altissimo.net
 host.altissimo.net
+m.altissimo.net
 mail.altissimo.net
 mail01.altissimo.net
 mail02.altissimo.net
@@ -77256,26 +77332,33 @@ mail12.altissimo.net
 mail5.altissimo.net
 mail6.altissimo.net
 mail8.altissimo.net
+mail9.altissimo.net
+mailapp.altissimo.net
 mailbox.altissimo.net
 mailgate.altissimo.net
 mailgw.altissimo.net
 mailhost.altissimo.net
+mailin.altissimo.net
 mails.altissimo.net
 mailserver.altissimo.net
 mailsrv.altissimo.net
 mbox.altissimo.net
 ms.altissimo.net
+mx.altissimo.net
 mx0.altissimo.net
 mx01.altissimo.net
 mx02.altissimo.net
+mx10.altissimo.net
 mx2.altissimo.net
 mx20.altissimo.net
 mx3.altissimo.net
 mx4.altissimo.net
 mx5.altissimo.net
 mx7.altissimo.net
+ns2.altissimo.net
 out.altissimo.net
 outmail.altissimo.net
+pbrand.altissimo.net
 po.altissimo.net
 pop.altissimo.net
 postmaster.altissimo.net
@@ -77290,6 +77373,7 @@ smtpauth.altissimo.net
 smtps.altissimo.net
 sniper.altissimo.net
 srv.altissimo.net
+tw.altissimo.net
 vmail.altissimo.net
 ww10.altissimo.net
 ww11.altissimo.net
@@ -77297,6 +77381,7 @@ ww25.altissimo.net
 ww35.altissimo.net
 ww38.altissimo.net
 www.altissimo.net
+zmail.altissimo.net
 amateurtubeporn.net
 amazingvacationhomesfl.net
 analytics-active.net
@@ -103614,8 +103699,6 @@ clubsf.org
 cnbce.org
 cnyjeep.org
 coc-resources.org
-ww16.codigest.org
-ww25.codigest.org
 cogiclive.org
 cogsdev.org
 cokesburycollege.org
@@ -103940,7 +104023,6 @@ mwebmail.epdk.org
 oq3r0wjnr.epdk.org
 sergi.epdk.org
 tuketici.epdk.org
-um4q77zh.epdk.org
 ww11.epdk.org
 ww17.epdk.org
 ww25.epdk.org
@@ -104289,7 +104371,7 @@ ww38.kinoclub.org
 ww45.kinoclub.org
 www.kinoclub.org
 kinopoisk.org
-kissame.org
+www.kissame.org
 kitapyurdu.org
 kizilhack.org
 kkiste.org
@@ -104315,7 +104397,6 @@ ww11.laptop-battery.org
 ww17.laptop-battery.org
 ww25.laptop-battery.org
 www.laptop-battery.org
-laraww.org
 lasourisweb.org
 lawgames.org
 lawrencecountyhigh.org
@@ -105449,6 +105530,7 @@ vitrualbox.org
 vivats.org
 ns2.vivekanandamahavidyalaya.org
 ww11.vivekanandamahavidyalaya.org
+www.vivekanandamahavidyalaya.org
 vodmo.org
 voltairnet.org
 volunteercentre.org
@@ -105663,6 +105745,7 @@ trafficshark.pro
 trredir.pro
 webmine.pro
 withdromnit.pro
+www.zypanafo.pro
 ads.shasha.ps
 ads1.mediacapital.pt
 adimgs.sapo.pt
@@ -110039,6 +110122,7 @@ ads.pfl.ua
 tracking.1-a1502-bi.co.uk
 tracking.1-kv015-ap.co.uk
 tracking.21-a4652-bi.co.uk
+tracking.28-91473-wbm.co.uk
 tracking.39-bb4a9-osm.co.uk
 tracking.42-01pr5-osm-secure.co.uk
 tracking.5-47737-bi.co.uk
