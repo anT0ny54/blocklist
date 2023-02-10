@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 350261
+# Ignored duplicates: 350294
 
 chameleon.ad
 pixel.ad
@@ -2802,10 +2802,6 @@ abclivestream.com
 ad.abcnews.com
 abcoster.com
 ad.abctv.com
-ww11.abcyoutube.com
-ww25.abcyoutube.com
-ww31.abcyoutube.com
-ww38.abcyoutube.com
 abdlnk.com
 abdumusic.com
 abeautifulpool.com
@@ -6434,6 +6430,7 @@ tmfpeast1.agkn.com
 www.agkn.com
 aglagzoq.com
 analytics.agoda.com
+bento.agoda.com
 tracking.agoda.com
 agoodplus.com
 agplat.com
@@ -7667,6 +7664,7 @@ blkrpt.rad.atdmt.com
 www.atdmt.com
 atecasec.com
 atgsvcs.com
+analytics.athome.com
 atlanbox.com
 atlantafox5.com
 atlanticvacationrental.com
@@ -8500,7 +8498,6 @@ bilojobs.com
 services.bilsyndication.com
 binance-gives.com
 dc-6cee9e5355c5.binance-trade.com
-webdisk.binance-trade.com
 www.binance-trade.com
 binance2.com
 www.binancebegin.com
@@ -10604,7 +10601,6 @@ www.crashlytics.com
 crateandabrrel.com
 metrics.crateandbarrel.com
 silkroad.crateandbarrels.com
-ww11.crateandbarrels.com
 ww25.crateandbarrels.com
 ww38.crateandbarrels.com
 www.crateandbarrels.com
@@ -11686,7 +11682,6 @@ disneypeliculas.com
 sanalytics.disneyplus.com
 ww1.disneyprinses.com
 disneytino.com
-ww1.disnybooks.com
 www.disnybooks.com
 disnymovierewards.com
 dispensablestranger.com
@@ -11954,9 +11949,6 @@ aw.dwin1.com
 aws.dwin1.com
 www.dwin1.com
 www.dwin2.com
-ww35.dwnyoutube.com
-ww38.dwnyoutube.com
-www.dwnyoutube.com
 suggest.dxpapi.com
 dynadmic.com
 dynamic-tracking.com
@@ -15384,6 +15376,8 @@ ads.horsehero.com
 ads.horyzon-media.com
 hosag.com
 hoscopofree.com
+ww1.hosllister.com
+www.hosllister.com
 hospitalitycreditunion.com
 hostadserver.com
 hosteriaalemanamitaddelmundo.com
@@ -37924,7 +37918,6 @@ howtoacademy.postaffiliatepro.com
 hungrybark.postaffiliatepro.com
 i49.postaffiliatepro.com
 iam.postaffiliatepro.com
-ics.postaffiliatepro.com
 idolcam.postaffiliatepro.com
 ihp.postaffiliatepro.com
 impactguns.postaffiliatepro.com
@@ -43524,6 +43517,7 @@ replaceroute.com
 reportmylost.com
 reppublika.com
 republer.com
+mta-sts.reqaws.com
 ww1.reqaws.com
 requestmetrics.com
 client.res-x.com
@@ -47590,8 +47584,6 @@ finance.strands.com
 finance-pre.strands.com
 finger.strands.com
 fm.strands.com
-hedc-kafka1.strands.com
-hedc-kafka2.strands.com
 hsbc.strands.com
 ideas.strands.com
 images.strands.com
@@ -47601,7 +47593,6 @@ kafka1.strands.com
 kafka1-prod.strands.com
 kafka2.strands.com
 kafka3.strands.com
-lightspeed.strands.com
 m.strands.com
 mail.strands.com
 mail2.strands.com
@@ -51432,6 +51423,7 @@ ww1.whyworldwhy.com
 ww38.whyworldwhy.com
 ww45.whyworldwhy.com
 wickedreports.com
+ww1.wickedwhoppies.com
 www.wickedwhoppies.com
 widerplanet.com
 widespace.com
@@ -54799,6 +54791,7 @@ artecrochet.info
 arterienverkalkung.info
 artgaleria.info
 mail.articleabc.info
+www.articleabc.info
 arunachalfront.info
 asian-anal.info
 asiangirl.info
@@ -55658,6 +55651,7 @@ haircolour.info
 hairytwatter.info
 hallstatt.info
 hamakan.info
+hanrong.info
 haodizhi3.info
 hapi.info
 happybook.info
@@ -56505,6 +56499,8 @@ vibram.proxysmart.info
 white.proxysmart.info
 women.proxysmart.info
 womens.proxysmart.info
+ww1.proxysmart.info
+ww25.proxysmart.info
 zappos.proxysmart.info
 przechowalnia.info
 psarema.info
@@ -56548,9 +56544,7 @@ quicktime-download.info
 ww17.quintadolago.info
 img.qxrtys.info
 m.qxrtys.info
-ww16.qxrtys.info
 ww17.qxrtys.info
-ww25.qxrtys.info
 www.qxrtys.info
 rabidshare.info
 www.rabreptancalbe.info
@@ -56588,6 +56582,7 @@ receptcity.info
 recepti-i-ideje.info
 reciclaje.info
 reconstruct-rep-of-mold.info
+red-rose.info
 redhotrealty.info
 redup.info
 mx.regeneration.info
@@ -56773,8 +56768,6 @@ shineworks.info
 shkid.info
 shlink.info
 shop-shop.info
-mail.shopcfmobile.info
-www.shopcfmobile.info
 showroom.info
 shrinky.info
 www.shturm.info
@@ -56822,7 +56815,6 @@ www1.slut.info
 www2.slut.info
 smarterfernsehen.info
 smartexpo.info
-ww1.smzx.info
 ww11.smzx.info
 ww17.smzx.info
 ww38.smzx.info
@@ -57121,7 +57113,6 @@ thesensei.info
 threaded.info
 thruster.info
 www.thuthuatpro.info
-cpcontacts.tiendasinformatica.info
 mail.tiendasinformatica.info
 webdisk.tiendasinformatica.info
 www.tiendasinformatica.info
@@ -57197,9 +57188,6 @@ cpcontacts.twentyone.info
 int.twentyone.info
 mail.twentyone.info
 webdisk.twentyone.info
-ww1.twentyone.info
-ww17.twentyone.info
-www.twentyone.info
 ads.twojatv.info
 twzoa.info
 txjails.info
@@ -97160,7 +97148,6 @@ ads3.gamecity.net
 ads4.gamecity.net
 ads6.gamecity.net
 ads7.gamecity.net
-gamegenetics.net
 gamesites100.net
 gameth.net
 gamma-tech.net
@@ -98460,7 +98447,6 @@ h-ocbc.online-metrix.net
 h-ocbcbank.online-metrix.net
 h-opendoor.online-metrix.net
 h-optumid.online-metrix.net
-h-ow85iiu0.online-metrix.net
 h-paddypower.online-metrix.net
 h-pampers.online-metrix.net
 h-payby.online-metrix.net
@@ -103474,7 +103460,6 @@ arsuicideprevention.org
 arteterapiaforo.org
 as3js.org
 asburywarren.org
-www.asian-sex-tube.org
 mail.ask2.org
 www.ask2.org
 aspinalfoundation.org
@@ -104013,15 +103998,12 @@ englishforevryone.org
 englishonline.org
 engracia.org
 4vy78.epdk.org
-9gomgtaiy.epdk.org
 ww25.cpanel.epdk.org
 epdksrv.epdk.org
 fiknx1.epdk.org
 mail.epdk.org
-me3h3qmb.epdk.org
 mwebmail.epdk.org
 oq3r0wjnr.epdk.org
-sergi.epdk.org
 tuketici.epdk.org
 ww11.epdk.org
 ww17.epdk.org
@@ -105386,7 +105368,6 @@ theplazamall.org
 theporatebay.org
 thepsychedelicway.org
 theshoppinggroup.org
-ww17.theshopwindow.org
 thetopman.org
 thetruthaboutcancer.org
 theworkhouse.org
