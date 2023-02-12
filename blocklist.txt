@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 350218
+# Ignored duplicates: 350212
 
 chameleon.ad
 pixel.ad
@@ -7758,6 +7758,7 @@ autoiniowa.com
 autoinsuranceeh.com
 automatad.com
 automaticflock.com
+sdks.automizely-analytics.com
 automobiledonationservice.com
 alternative-coogee.autopilothq.com
 api.autopilothq.com
@@ -9152,6 +9153,7 @@ cananalcaracol.com
 candaulismeaufeminin.com
 candyhostel.com
 caniamedia.com
+www.caniplayit.com
 www.cannontwin.com
 capablecows.com
 capacitacionbanamex.com
@@ -9599,11 +9601,6 @@ chickensstation.com
 chicoryapp.com
 chiencenter.com
 chijolqp.com
-ww1.child-top-models.com
-ww25.child-top-models.com
-ww35.child-top-models.com
-ww38.child-top-models.com
-www.child-top-models.com
 childlikecrowd.com
 chilliclubs.com
 chillmoby.com
@@ -9996,6 +9993,7 @@ clickstk.com
 clickthruserver.com
 clicktracks.com
 clicktrade.com
+clicktripz.com
 clickwinks.com
 clickxchange.com
 clickyab.com
@@ -10649,7 +10647,6 @@ update.crashlytics.com
 www.crashlytics.com
 crateandabrrel.com
 metrics.crateandbarrel.com
-ww25.crateandbarrels.com
 ww38.crateandbarrels.com
 www.crateandbarrels.com
 cratecamera.com
@@ -11730,7 +11727,6 @@ disneypeliculas.com
 sanalytics.disneyplus.com
 ww1.disneyprinses.com
 disneytino.com
-www.disnybooks.com
 disnymovierewards.com
 dispensablestranger.com
 displayvertising.com
@@ -11976,7 +11972,6 @@ ducel.com
 dufibepe.com
 dujacquierloft.com
 dumbpop.com
-backup.duniasatwa.com
 ww10.duniasatwa.com
 ww25.duniasatwa.com
 ww35.duniasatwa.com
@@ -12273,7 +12268,6 @@ ffconf.ecbsn.com
 mobgeo.ecbsn.com
 search.ecbsn.com
 secure-checkout.ecbsn.com
-ww1.ecc-biz.com
 ww25.ecc-biz.com
 www.ecc-biz.com
 sts.eccmp.com
@@ -38184,7 +38178,6 @@ sassnfrass.postaffiliatepro.com
 scalahosting.postaffiliatepro.com
 scriptcity.postaffiliatepro.com
 securiti.postaffiliatepro.com
-sedaliadesigns.postaffiliatepro.com
 seedsman.postaffiliatepro.com
 seedsupreme.postaffiliatepro.com
 selfdecode.postaffiliatepro.com
@@ -41108,10 +41101,7 @@ raresummer.com
 rarioshack.com
 adz.rashflash.com
 rateqoute.com
-ww16.ww1.ratracebellion.com
-ww16.ratracebellion.com
 ww25.ratracebellion.com
-www.ratracebellion.com
 ratracerevolution.com
 ravenjs.com
 rayban-outlet.com
@@ -43549,7 +43539,7 @@ otc-cdn.relevant-digital.com
 schibsted-cdn.relevant-digital.com
 relicrank.com
 relmaxtop.com
-reloadinput.com
+www.reloadinput.com
 remaxx.com
 remedyotc.com
 remox.com
@@ -43567,6 +43557,8 @@ reppublika.com
 republer.com
 mta-sts.reqaws.com
 ww1.reqaws.com
+ww16.reqaws.com
+ww25.reqaws.com
 requestmetrics.com
 client.res-x.com
 es.res-x.com
@@ -47656,19 +47648,12 @@ prod.strands.com
 ps-dev.strands.com
 ps-pre.strands.com
 ps-qa.strands.com
-pubsite.strands.com
+corp.pubsite.strands.com
 qa.strands.com
-recomender.strands.com
-recommender.strands.com
 registry.strands.com
 reportportal.strands.com
-retail.strands.com
 selenium.strands.com
 service.strands.com
-sf.strands.com
-sf-do.strands.com
-sf-li.strands.com
-sf1.strands.com
 sites.strands.com
 sonar.strands.com
 spf.strands.com
@@ -50405,7 +50390,6 @@ aux-log1-sh.vertamedia.com
 aux-log2-sh.vertamedia.com
 direct-ads.vertamedia.com
 player.vertamedia.com
-rtb11.vertamedia.com
 rtb12.vertamedia.com
 rtb13.vertamedia.com
 rtb3.vertamedia.com
@@ -51185,7 +51169,6 @@ walmartvisa.com
 walmatmoneymatters.com
 walrmat.com
 waltmartgift.com
-ww1.wanderingspirits2001.com
 wangsoakwoodga.com
 wanogqaznt.com
 wansl.com
@@ -51459,7 +51442,6 @@ whoisvisiting.com
 wholefoofs.com
 wholesalefashonsquare.com
 whoscord.com
-ww1.whyworldwhy.com
 ww38.whyworldwhy.com
 ww45.whyworldwhy.com
 wickedreports.com
@@ -51641,7 +51623,6 @@ ads.wish.com
 a.wishabi.com
 b.wishabi.com
 a.mx.wishrooms.com
-site.wishrooms.com
 ww38.wishrooms.com
 distillery.wistia.com
 pipedream.wistia.com
@@ -54839,6 +54820,7 @@ atate.info
 atbt.info
 aumentatusingresos.info
 pop.ausadsl.info
+ww1.ausadsl.info
 ww17.ausadsl.info
 ww25.ausadsl.info
 ww38.ausadsl.info
@@ -55192,7 +55174,6 @@ danjeh.info
 darkbb.info
 btc.darknets.info
 cpcalendars.darknets.info
-cpcontacts.darknets.info
 dc-c4d1fc91488a.darknets.info
 faucet.darknets.info
 mail.darknets.info
@@ -55424,6 +55405,7 @@ emulegion.info
 endermanch.info
 energydrink.info
 ww17.englishhouse.info
+www.englishhouse.info
 ennstal.info
 enoughts.info
 entenduaparis.info
@@ -55626,7 +55608,6 @@ ww25.ggtrf.info
 ww3.ggtrf.info
 ww38.ggtrf.info
 www.ggtrf.info
-www.ggtt761.info
 ghetto-theresienstadt.info
 gighoe.info
 girlsvideosonline.info
@@ -56477,6 +56458,7 @@ ww1.2014asicslamarathonlimitededition.proxysmart.info
 78.proxysmart.info
 856.proxysmart.info
 950.proxysmart.info
+amsterdam.proxysmart.info
 asics.proxysmart.info
 ww1.asicsgt2000womensreviews.proxysmart.info
 ww1.asicsrunningshoescheap.proxysmart.info
@@ -56487,10 +56469,13 @@ black.proxysmart.info
 blanche.proxysmart.info
 boots.proxysmart.info
 brand.proxysmart.info
+ca.proxysmart.info
 carnagie.proxysmart.info
+cdn.proxysmart.info
 cheap.proxysmart.info
 chestnut.proxysmart.info
 cleaner.proxysmart.info
+code.proxysmart.info
 crew.proxysmart.info
 dallas.proxysmart.info
 damen.proxysmart.info
@@ -56505,10 +56490,14 @@ hl7c2.proxysmart.info
 kayla.proxysmart.info
 kid.proxysmart.info
 larger.proxysmart.info
+m.proxysmart.info
+m410.proxysmart.info
 max.proxysmart.info
 maxs.proxysmart.info
+media.proxysmart.info
 men.proxysmart.info
 milano.proxysmart.info
+mobile.proxysmart.info
 motivacional.proxysmart.info
 mt610.proxysmart.info
 nike.proxysmart.info
@@ -56517,6 +56506,7 @@ ones.proxysmart.info
 original.proxysmart.info
 outlet.proxysmart.info
 price.proxysmart.info
+purple.proxysmart.info
 retro.proxysmart.info
 review.proxysmart.info
 reviews.proxysmart.info
@@ -56525,13 +56515,17 @@ sale.proxysmart.info
 sb.proxysmart.info
 schuhe.proxysmart.info
 service.proxysmart.info
+skor.proxysmart.info
+tall.proxysmart.info
 tn.proxysmart.info
+ugg.proxysmart.info
 vibram.proxysmart.info
 white.proxysmart.info
 women.proxysmart.info
 womens.proxysmart.info
 ww1.proxysmart.info
 ww11.proxysmart.info
+ww2.proxysmart.info
 ww25.proxysmart.info
 www.proxysmart.info
 zappos.proxysmart.info
@@ -56600,6 +56594,7 @@ vnet.psylocke.info
 ww1.psylocke.info
 ww16.psylocke.info
 ww25.psylocke.info
+www.psylocke.info
 zmail.psylocke.info
 pubnative.info
 puntolimpio.info
@@ -56607,31 +56602,6 @@ pusat-bahasa.info
 www.putana.info
 pword.info
 python-os.info
-10532.qiqiqi.info
-11364.qiqiqi.info
-12934.qiqiqi.info
-13097.qiqiqi.info
-16398.qiqiqi.info
-16965.qiqiqi.info
-18592.qiqiqi.info
-18678.qiqiqi.info
-20631.qiqiqi.info
-21074.qiqiqi.info
-21134.qiqiqi.info
-21136.qiqiqi.info
-21137.qiqiqi.info
-21168.qiqiqi.info
-21345.qiqiqi.info
-21348.qiqiqi.info
-21376.qiqiqi.info
-22265.qiqiqi.info
-2233.qiqiqi.info
-2586.qiqiqi.info
-26718.qiqiqi.info
-5458.qiqiqi.info
-5475.qiqiqi.info
-9751.qiqiqi.info
-9757.qiqiqi.info
 ww17.qiqiqi.info
 qiyehao.info
 qmzhijia2019.info
@@ -56913,8 +56883,6 @@ www2.slut.info
 smarterfernsehen.info
 smartexpo.info
 ww11.smzx.info
-ww17.smzx.info
-ww38.smzx.info
 www.smzx.info
 snapohack.info
 sneeuwklokjes.info
@@ -57158,6 +57126,19 @@ techcrome.info
 techdocs.info
 technicalguruji.info
 techstudy.info
+mail.techxperts.info
+mail2.techxperts.info
+mailgate.techxperts.info
+mailgw.techxperts.info
+mailhost.techxperts.info
+mailserver.techxperts.info
+mx01.techxperts.info
+mx3.techxperts.info
+ns2.techxperts.info
+po.techxperts.info
+pop.techxperts.info
+ww38.techxperts.info
+www.techxperts.info
 tekstynaukowe.info
 telefyski.info
 teleplay.info
@@ -57212,6 +57193,7 @@ thruster.info
 ww17.thuthuatpro.info
 ww2.thuthuatpro.info
 ww25.thuthuatpro.info
+ww43.thuthuatpro.info
 www.thuthuatpro.info
 webdisk.tiendasinformatica.info
 www.tiendasinformatica.info
@@ -57284,7 +57266,6 @@ tvporinternet.info
 tw-drupal.info
 cpcalendars.twentyone.info
 cpcontacts.twentyone.info
-int.twentyone.info
 mail.twentyone.info
 webdisk.twentyone.info
 ads.twojatv.info
@@ -66025,6 +66006,7 @@ zqbw0.app.link
 zu8s.app.link
 zzv70.app.link
 cdtechbox.link
+mail.doubler.link
 www.doubler.link
 eqy.link
 fun88.link
@@ -97408,7 +97390,6 @@ heavenmanga.net
 beacon-v2.helpscout.net
 beaconapi.helpscout.net
 mktg.helpscout.net
-hentai-anime.net
 hexcube.net
 heyjohnny.net
 hindimovie4u.net
@@ -104099,9 +104080,7 @@ epdksrv.epdk.org
 fiknx1.epdk.org
 mail.epdk.org
 mwebmail.epdk.org
-oq3r0wjnr.epdk.org
 tuketici.epdk.org
-www.epdk.org
 epfindia.org
 eplore.org
 epsthailand.org
@@ -105201,7 +105180,6 @@ sahyadrisciencecollege.org
 saime.org
 sainikschool.org
 saleforce.org
-ww1.saltlakecountylibrary.org
 ww25.saltlakecountylibrary.org
 ww38.saltlakecountylibrary.org
 sandt.org
@@ -110180,7 +110158,6 @@ tagtoo.com.tw
 dns.twnic.tw
 opinion.com.ua
 affiliates.rozetka.com.ua
-mail.smart-fun.com.ua
 hit.ua
 stat24.meta.ua
 mycounter.ua
