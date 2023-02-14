@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 350152
+# Ignored duplicates: 350161
 
 chameleon.ad
 pixel.ad
@@ -6598,6 +6598,7 @@ v-64.algovid.com
 v-65.algovid.com
 v2v.algovid.com
 alianzavisual.com
+aliasanvil.com
 alibabavision.com
 alibexpress.com
 li.alibris.com
@@ -6634,7 +6635,6 @@ allmedstore.com
 allosponsor.com
 affiliates.allposters.com
 allsaroak-pornstories.com
-www.allsixgears.com
 allswingergangbangs.com
 at-adserver.alltop.com
 almaarefqatar.com
@@ -7364,7 +7364,6 @@ smtpauth.aolomail.com
 sniper.aolomail.com
 thor.aolomail.com
 vip.aolomail.com
-ww25.aolomail.com
 ww38.aolomail.com
 ww84.aolomail.com
 www.aolomail.com
@@ -7584,7 +7583,6 @@ ads.aspalliance.com
 pixel.aspirei.com
 assoc-amazon.com
 z-na.associates-amazon.com
-www.assurancescollectivedsf.com
 assure-link.com
 auth.astarelectronics.com
 com.astarelectronics.com
@@ -7658,7 +7656,6 @@ dandelionsprout.asuscomm.com
 aswpapius.com
 aswpsdkus.com
 atantabraves.com
-gt.atdmt.com
 a.rad.atdmt.com
 b.rad.atdmt.com
 bar.rad.atdmt.com
@@ -8149,7 +8146,6 @@ bank-soal-un.com
 bankaunited.com
 bankforclosedlistings.com
 bankmeli.com
-mail.banknegaramalaysia.com
 www.banknegaramalaysia.com
 bankobamerica.com
 bankofamericacashpay.com
@@ -8696,9 +8692,7 @@ bocumot.com
 bodelen.com
 bodoforu.com
 news.bodybyjack.com
-ww25.bodybyjack.com
 ww38.bodybyjack.com
-www.bodybyjack.com
 bodyrubsbybritney.com
 ads.boerding.com
 boffoadsapi.com
@@ -12264,7 +12258,6 @@ ffconf.ecbsn.com
 mobgeo.ecbsn.com
 search.ecbsn.com
 secure-checkout.ecbsn.com
-ww25.ecc-biz.com
 www.ecc-biz.com
 sts.eccmp.com
 p.ecfwds.com
@@ -12280,10 +12273,6 @@ ads.economist.com
 econotify.com
 ecorebates.com
 ecoupons.com
-com.ecsposters.com
-mbox.ecsposters.com
-mx.ecsposters.com
-vip.ecsposters.com
 ecuadoninio.com
 ecylight.com
 edddiebauwer.com
@@ -12363,7 +12352,6 @@ elmokhtabar.com
 elocalisting.com
 elonshares.com
 eloqua.com
-ww1.elplacerdelucir.com
 www.elplacerdelucir.com
 elseelektrikci.com
 elsitiofeliz.com
@@ -12881,6 +12869,7 @@ findsynology.com
 record.findtrustclicks.com
 findyourcasino.com
 fingereach.com
+analytics.dashboard.fingerprint.com
 fingersgames.com
 finishlineshoe.com
 fiowertucci.com
@@ -16938,7 +16927,15 @@ lackplaying.com
 ladieslatina.com
 ladsp.com
 luna.r.lafamo.com
-laflatfurniture.com
+fujian.laflatfurniture.com
+niyitabiti.laflatfurniture.com
+o15s19.laflatfurniture.com
+peilin-ism.laflatfurniture.com
+unikboss.laflatfurniture.com
+vader.laflatfurniture.com
+ww1.laflatfurniture.com
+www.laflatfurniture.com
+yahel.laflatfurniture.com
 lagag.com
 lakaq.com
 lakecountrychevrolet.com
@@ -16990,7 +16987,7 @@ vitalstatistix-intuit.launchdarkly.com
 vitalstatistix-stg.launchdarkly.com
 whatsnew.launchdarkly.com
 lauritch.com
-lavitaebella-tulum.com
+ww1.lavitaebella-tulum.com
 lawaapp.com
 lawaweb.com
 laybrookscooters.com
@@ -17075,7 +17072,6 @@ analytics.leviton.com
 levyeasthouse.com
 lexapis.com
 track.lexico.com
-www.lfdal.com
 lfeeder.com
 lfstmedia.com
 lgledtv.com
@@ -31177,7 +31173,6 @@ correo.mysupermaket.com
 mta.mysupermaket.com
 outmail.mysupermaket.com
 ww1.mysupermaket.com
-ww25.mysupermaket.com
 ww35.mysupermaket.com
 zmail.mysupermaket.com
 myteryshopreports.com
@@ -41060,7 +41055,6 @@ quikenbillpay.com
 quinst.com
 quisma.com
 quizflavor.com
-ww11.quizlety.com
 ww25.quizlety.com
 quizzicalzephyr.com
 a.quora.com
@@ -43587,6 +43581,7 @@ mta-sts.reqaws.com
 ww1.reqaws.com
 ww16.reqaws.com
 ww25.reqaws.com
+www.reqaws.com
 requestmetrics.com
 client.res-x.com
 es.res-x.com
@@ -44355,7 +44350,6 @@ intljs.rmtag.com
 js.rmtag.com
 rmvb-canek.com
 rnddmn.com
-mail.rndmdmn.com
 ads1.rne.com
 ads2.rne.com
 roadeunner.com
@@ -45838,7 +45832,6 @@ sguareup.com
 shop.shadecases.com
 ww1.shadecases.com
 ww2.shadecases.com
-www.shadecases.com
 shady45.com
 shahidnet.com
 shairmarket.com
@@ -46068,6 +46061,7 @@ shinystat.com
 shinyuin.com
 shipour.com
 shirkssharedblessings.com
+shiveringspot.com
 ads.shizmoo.com
 shmiroptical.com
 shnfs.com
@@ -46093,7 +46087,6 @@ shopsymantecstore.com
 shopthecatalogonline.com
 shopvirginmedia.com
 shortscuts.com
-www.shortstay-appartment.com
 shotinthehead.com
 www.shoutingnetwork.com
 showcasejamie.com
@@ -46855,6 +46848,7 @@ eventgateway.soundcloud.com
 l9bjkkhaycw6f8f4.soundcloud.com
 soundclud.com
 emaillinks.soundiiz.com
+ww5.soundza.com
 sourmaths.com
 soursejone.com
 southparkstoudios.com
@@ -46862,6 +46856,7 @@ southwestairliones.com
 click.i.southwesternrailway.com
 southwestgascorporation.com
 southwrstairlines.com
+benefits.sovendus.com
 sovrn.com
 ttauri.space.com
 spaceleadster.com
@@ -47224,6 +47219,7 @@ spidersboats.com
 spiffymachine.com
 spikyslave.com
 logs.spilgames.com
+spinacar.com
 spirebaboon.com
 spirtanimals.com
 spitefulstop.com
@@ -47342,7 +47338,6 @@ v.ssacdn.com
 vcc.ssacdn.com
 video-cfuseu.ssacdn.com
 videos-demand.ssacdn.com
-www.ssauto-osat.com
 ssenergyinc.com
 sshadi.com
 ssinglemuslim.com
@@ -48551,6 +48546,8 @@ piwik.teladoc.com
 tag-manager.teladoc.com
 telaria.com
 telefunken-digital.com
+ns1.telegramdesktop.com
+ns2.telegramdesktop.com
 www.telegramdesktop.com
 www.telegramup.com
 televisadepotes.com
@@ -49690,6 +49687,7 @@ ads109.unoadsrv.com
 ads11.unoadsrv.com
 ads110.unoadsrv.com
 ads111.unoadsrv.com
+ads112.unoadsrv.com
 ads115.unoadsrv.com
 ads116.unoadsrv.com
 ads117.unoadsrv.com
@@ -49708,6 +49706,7 @@ ads128.unoadsrv.com
 ads129.unoadsrv.com
 ads13.unoadsrv.com
 ads130.unoadsrv.com
+ads131.unoadsrv.com
 ads132.unoadsrv.com
 ads133.unoadsrv.com
 ads134.unoadsrv.com
@@ -49780,6 +49779,7 @@ ads229.unoadsrv.com
 ads23.unoadsrv.com
 ads230.unoadsrv.com
 ads231.unoadsrv.com
+ads232.unoadsrv.com
 ads24.unoadsrv.com
 ads25.unoadsrv.com
 ads26.unoadsrv.com
@@ -49837,6 +49837,7 @@ as-vast.unoadsrv.com
 aux-log.unoadsrv.com
 aux-log1-sh.unoadsrv.com
 aux-log2-sh.unoadsrv.com
+ads230.adtelligent.com.unoadsrv.com
 hb3.adtelligent.com.unoadsrv.com
 d.unoadsrv.com
 dsp.unoadsrv.com
@@ -49845,6 +49846,7 @@ dsp1.unoadsrv.com
 dsp111.unoadsrv.com
 dsp2.unoadsrv.com
 dsp3.unoadsrv.com
+dsp35.unoadsrv.com
 ecrtb.unoadsrv.com
 eu-vast.unoadsrv.com
 eurtb.unoadsrv.com
@@ -50712,7 +50714,6 @@ ads4.virtual-nights.com
 ads5.virtual-nights.com
 ads.virtuopolitan.com
 ww1.visafoservices.com
-www.visafoservices.com
 visibleconsumerinsight.com
 visiblemeasures.com
 visistat.com
@@ -51383,7 +51384,6 @@ sip.webtrends.com
 status.webtrends.com
 tagbuilder.webtrends.com
 transfer.webtrends.com
-dcs.us.webtrends.com
 waaqaui01.webtrends.com
 waaqaui02.webtrends.com
 www.webtrends.com
@@ -51459,7 +51459,6 @@ whoisvisiting.com
 wholefoofs.com
 wholesalefashonsquare.com
 whoscord.com
-ww38.whyworldwhy.com
 wickedreports.com
 ww1.wickedwhoppies.com
 www.wickedwhoppies.com
@@ -51752,7 +51751,6 @@ wwwcharlotteobserver.com
 wwwclubefashion.com
 wwwcmpco.com
 wwwcommunityccrx.com
-www.wwwconcordecollection.com
 wwwcrankyape.com
 wwwdatviet.com
 wwwdiamondresorts.com
@@ -53364,7 +53362,6 @@ m.zagmob.com
 www.zagmob.com
 ww35.zaies.com
 ww41.zaies.com
-www.zaies.com
 zaitzev.com
 zajicjiri.com
 zalescredit.com
@@ -54754,6 +54751,25 @@ aftereffectvn.info
 aguu.info
 ahhadesigns.info
 ahmetcan.info
+mail12.ainu.info
+mail2.ainu.info
+ww25.mail5.ainu.info
+mail6.ainu.info
+mail8.ainu.info
+mailer.ainu.info
+mailgate.ainu.info
+mailgw.ainu.info
+ww25.mailhost.ainu.info
+ww25.mx.ainu.info
+mx10.ainu.info
+mx7.ainu.info
+ww25.ns1.ainu.info
+ww25.ns2.ainu.info
+ww25.pop.ainu.info
+ww25.post.ainu.info
+posta.ainu.info
+ww25.relay.ainu.info
+ww25.smtpauth.ainu.info
 ajka.info
 www.akiba-pr.info
 alcea.info
@@ -54954,6 +54970,7 @@ bestouyagames.info
 bestxxxgals.info
 mvideo.bestyoutubechannels.info
 ww1.bestyoutubechannels.info
+www.bestyoutubechannels.info
 bet-shop.info
 betafotokonkurs.info
 betamax.info
@@ -55410,6 +55427,7 @@ www.emruz.info
 emulegion.info
 endermanch.info
 energydrink.info
+ww1.englishhouse.info
 ww17.englishhouse.info
 www.englishhouse.info
 ennstal.info
@@ -55488,14 +55506,9 @@ flirtaumilf.info
 flixzone.info
 footballstreamings.info
 forbest.info
-mail.forex-web.info
 mx-2.forex-web.info
 ww1.forex-web.info
 ww11.forex-web.info
-ww16.forex-web.info
-ww17.forex-web.info
-ww25.forex-web.info
-ww38.forex-web.info
 www.forex-web.info
 forkhost.info
 infowww.formadv.info
@@ -55512,7 +55525,6 @@ www.formenterazen.info
 forthewomen.info
 forumwarez.info
 mx.fotomodelle.info
-ww25.fotomodelle.info
 www.fotomodelle.info
 fotomodels.info
 www.fotoway.info
@@ -56502,6 +56514,7 @@ mobile.proxysmart.info
 motivacional.proxysmart.info
 mt610.proxysmart.info
 nike.proxysmart.info
+nikeairmaxtheablack.proxysmart.info
 nyc.proxysmart.info
 ones.proxysmart.info
 original.proxysmart.info
@@ -56520,6 +56533,7 @@ skor.proxysmart.info
 tall.proxysmart.info
 tn.proxysmart.info
 ugg.proxysmart.info
+uggstorenyc.proxysmart.info
 vibram.proxysmart.info
 white.proxysmart.info
 women.proxysmart.info
@@ -56528,6 +56542,7 @@ ww1.proxysmart.info
 ww11.proxysmart.info
 ww2.proxysmart.info
 ww25.proxysmart.info
+ww38.proxysmart.info
 www.proxysmart.info
 zappos.proxysmart.info
 przechowalnia.info
@@ -56610,7 +56625,6 @@ que-significa-mi-nombre.info
 quepaso.info
 quicktime-download.info
 ww17.quintadolago.info
-ww17.qxrtys.info
 rabidshare.info
 www.rabreptancalbe.info
 ract.info
@@ -56720,7 +56734,6 @@ rxhd.info
 saalbach-hinterglemm.info
 saiphptc.info
 salemfonden.info
-ww1.saltydh.info
 ww25.saltydh.info
 ww38.saltydh.info
 www.saltydh.info
@@ -57262,9 +57275,7 @@ tvorbita.info
 tvporinternet.info
 tw-drupal.info
 cpcalendars.twentyone.info
-cpcontacts.twentyone.info
 mail.twentyone.info
-webdisk.twentyone.info
 ads.twojatv.info
 twzoa.info
 txjails.info
@@ -57553,7 +57564,6 @@ whatsapp.vexmd.info
 ww17.vexmd.info
 ww38.vexmd.info
 ww62.vexmd.info
-ww82.vexmd.info
 www.vexmd.info
 vhotdownload.info
 videoindir.info
@@ -57669,7 +57679,6 @@ ww1.world-life.info
 ww17.world-life.info
 ww38.world-life.info
 ww62.world-life.info
-ww82.world-life.info
 www.world-life.info
 worldsportsmemorabilia.info
 www.worldthaqafa.info
@@ -76322,8 +76331,6 @@ vaping360.adglare.net
 wininapp.adglare.net
 xo.adglare.net
 adgraph.net
-ww62.adhamhotel.net
-www.adhamhotel.net
 adhigh.net
 ww1.adhte.net
 ww25.adhte.net
@@ -80312,7 +80319,6 @@ coadvertise.cubecdn.net
 culterycorner.net
 culturaingles.net
 www.cutties.net
-www.cyberacessonline.net
 cybertransfer.net
 czlbc.net
 d3sv.net
@@ -96836,7 +96842,7 @@ dataloader-manager.clickhouse.us-east-1.prd.data.aws.fwmrm.net
 us-west-2.prd.data.aws.fwmrm.net
 analytics.us-east-1.stg.data.aws.fwmrm.net
 bizdata.us-east-1.stg.data.aws.fwmrm.net
-dataloader-manager.clickhouse.us-east-1.stg.data.aws.fwmrm.net
+clickhouse.us-east-1.stg.data.aws.fwmrm.net
 dev.aws.fwmrm.net
 fw1.aws.fwmrm.net
 dev.fwaci.aws.fwmrm.net
@@ -96866,13 +96872,7 @@ kubeflow.ocelot.prd.ml.aws.fwmrm.net
 prometheus.ocelot.prd.ml.aws.fwmrm.net
 thanos-bucket.ocelot.prd.ml.aws.fwmrm.net
 thanos-query.ocelot.prd.ml.aws.fwmrm.net
-alertmanager.ibis.stg.ml.aws.fwmrm.net
-auth.ibis.stg.ml.aws.fwmrm.net
-grafana.ibis.stg.ml.aws.fwmrm.net
-kubeflow.ibis.stg.ml.aws.fwmrm.net
-prometheus.ibis.stg.ml.aws.fwmrm.net
-thanos-bucket.ibis.stg.ml.aws.fwmrm.net
-thanos-query.ibis.stg.ml.aws.fwmrm.net
+ibis.stg.ml.aws.fwmrm.net
 stg.net.aws.fwmrm.net
 ops.sandbox.aws.fwmrm.net
 sb1.aws.fwmrm.net
@@ -97988,7 +97988,6 @@ mxptint.net
 my-cable-tv.net
 my2.net
 myads.net
-www.myafr.net
 myaisec.net
 mybailbonds.net
 mymrt.net
@@ -104069,8 +104068,6 @@ english-heritage.org
 englishforevryone.org
 englishonline.org
 engracia.org
-ww25.cpanel.epdk.org
-fiknx1.epdk.org
 epfindia.org
 eplore.org
 epsthailand.org
@@ -104141,7 +104138,6 @@ fmc4me.org
 fmsdpzg.org
 fodderfeed.org
 com.fondationmacaya.org
-ww1.forum.fondationmacaya.org
 ww16.forum.fondationmacaya.org
 ww17.forum.fondationmacaya.org
 ww25.forum.fondationmacaya.org
@@ -104151,7 +104147,6 @@ ww1.fondationmacaya.org
 ww11.fondationmacaya.org
 ww12.fondationmacaya.org
 ww16.fondationmacaya.org
-ww17.fondationmacaya.org
 ww25.fondationmacaya.org
 ww38.fondationmacaya.org
 ww7.fondationmacaya.org
@@ -104268,7 +104263,6 @@ harrypotteraudiobooks.org
 hattric.org
 hazletonymcaywca.org
 hd-movies.org
-hdfilmgecesi.org
 hdrush.org
 healhcare.org
 healingofthespirt.org
@@ -104763,7 +104757,6 @@ www.nlcollege.org
 nnpcgroup.org
 nnville.org
 nonamepizza.org
-ww1.nonudebase.org
 noradsant.org
 norcalfiretraining.org
 noticias-cambridgeesol.org
@@ -105168,7 +105161,6 @@ sahyadrisciencecollege.org
 saime.org
 sainikschool.org
 saleforce.org
-ww38.saltlakecountylibrary.org
 sandt.org
 ww1.sanhesh.org
 ww62.sanhesh.org
@@ -105563,6 +105555,7 @@ vivats.org
 ns2.vivekanandamahavidyalaya.org
 ww1.vivekanandamahavidyalaya.org
 ww11.vivekanandamahavidyalaya.org
+ww38.vivekanandamahavidyalaya.org
 www.vivekanandamahavidyalaya.org
 vodmo.org
 voltairnet.org
@@ -106273,6 +106266,7 @@ addy.expressen.se
 jtp.expressen.se
 lanapengar.expressen.se
 spel.expressen.se
+tracking.tailsweep.expressen.se
 tracking.fagersta-posten.se
 www.fakturino.se
 tracking.falkopingstidning.se
