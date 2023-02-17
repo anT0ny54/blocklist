@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 350403
+# Ignored duplicates: 350490
 
 chameleon.ad
 pixel.ad
@@ -7635,7 +7635,6 @@ aswpapius.com
 aswpsdkus.com
 atantabraves.com
 b.rad.atdmt.com
-bar.rad.atdmt.com
 blkrpt.rad.atdmt.com
 atecasec.com
 atgsvcs.com
@@ -9078,7 +9077,6 @@ cakukapu.com
 calculatingcircle.com
 calculatingtoothbrush.com
 calculatorcamera.com
-www.calendar-dell.com
 calendari2012.com
 californiastatetesting.com
 callawayvip.com
@@ -12731,7 +12729,6 @@ www.facabooks.com
 facebooktown.com
 faceeboc.com
 free.facejbook.com
-ww1.facejbook.com
 faceyoumanga.com
 facilitategrandfather.com
 facilpa.com
@@ -14727,7 +14724,8 @@ googlemerchant.com
 googlemqil.com
 googleoptimize.com
 wintricksbanner.googlepages.com
-googleplaystor.com
+ww38.googleplaystor.com
+www.googleplaystor.com
 googleplaystoreapks.com
 googleplsy.com
 googleprank.com
@@ -16845,7 +16843,7 @@ som.kmart.com
 kmarta.com
 kmartfedback.com
 kmartfeedack.com
-kmartfeedbac.com
+ww1.kmartfeedbac.com
 kmatfeedback.com
 knorex.com
 root.koapkmobi.com
@@ -17175,6 +17173,7 @@ gcmail1.linksynergy.com
 gcmail2.linksynergy.com
 gcmail3.linksynergy.com
 getdeeplink.linksynergy.com
+global-header-qa.linksynergy.com
 image.linksynergy.com
 linkshare-api.linksynergy.com
 linktranet.linksynergy.com
@@ -17219,6 +17218,7 @@ rmap.linksynergy.com
 secure.linksynergy.com
 showcase.linksynergy.com
 ssl.linksynergy.com
+grafana.ssp.linksynergy.com
 theme.linksynergy.com
 tools.linksynergy.com
 track.linksynergy.com
@@ -17366,6 +17366,7 @@ ctsadmingatewayv2-qa-aus.localiq.com
 ctsadmingatewayv2-qa-can.localiq.com
 ctsadmingatewayv2-qa-gbr.localiq.com
 ctsadmingatewayv2-qa-usa.localiq.com
+ctsadminui-prod-usa.localiq.com
 ctsadminui-qa-aus.localiq.com
 ctsadminui-qa-can.localiq.com
 ctsadminui-qa-gbr.localiq.com
@@ -40122,6 +40123,7 @@ premsearch.com
 preorderdotco.com
 prepaidinternetbroadband.com
 analytics.preprodchart.com
+analytics.preprodpress.com
 presetrabbits.com
 api.presspage.com
 manager.presspage.com
@@ -42789,6 +42791,7 @@ quieresligar.com
 quietknowledge.com
 quikenbillpay.com
 quinst.com
+m.given.quiosconline.com
 quisma.com
 quizflavor.com
 quizzicalzephyr.com
@@ -47504,11 +47507,6 @@ setransp-aju.com
 seturb.com
 sewfit.com
 ww1.sewsnazzee.com
-ww11.sewsnazzee.com
-ww17.sewsnazzee.com
-ww25.sewsnazzee.com
-ww38.sewsnazzee.com
-www.sewsnazzee.com
 sexcounter.com
 sexect.com
 sexinyourcity.com
@@ -49317,6 +49315,7 @@ statsie.com
 jukol.statslight.com
 lonuk.statslight.com
 navus.statslight.com
+statsmag.com
 statxpress.com
 stayisland.com
 stcroixorthopedics.com
@@ -49791,8 +49790,6 @@ supersonic.com
 supersonicads.com
 superstats.com
 supertop100.com
-wlamazcsrv1.superxvidoes.com
-ww16.superxvidoes.com
 qa.acme-demo.supplyframe.com
 adops.supplyframe.com
 ads.supplyframe.com
@@ -50406,7 +50403,6 @@ thehatsite.com
 thehearingaidscenter.com
 thehomesecuritysystemsguide.com
 ww1.thejewelerybox.com
-ww2.thejewelerybox.com
 ww5.thejewelerybox.com
 www.thejewelerybox.com
 thelastestnews.com
@@ -50586,7 +50582,6 @@ stats.tipser.com
 tiqcdn.com
 tiresomethunder.com
 trust.titanhq.com
-www.titiez.com
 tiznmktqel.com
 tk0x1.com
 track.tkbo.com
@@ -50798,7 +50793,16 @@ in.treasuredata.com
 info.treasuredata.com
 packages.treasuredata.com
 affiliate.treated.com
+coronationstreetupdates.trednyol.com
 earth.trednyol.com
+eunmask.trednyol.com
+photographythomaskru.trednyol.com
+pj-masks.trednyol.com
+removeviruswithease.trednyol.com
+suryanamaskara.trednyol.com
+themaskedmoron.trednyol.com
+utazzmaskepp.trednyol.com
+vaccines.trednyol.com
 www.trednyol.com
 widgets.tree.com
 treipadvisor.com
@@ -56419,13 +56423,8 @@ ww1.5yo.info
 6630.info
 69love.info
 69postix.info
-www.69room.info
 7494568.info
 7hari.info
-autodiscover.7zip.info
-mail.7zip.info
-webdisk.7zip.info
-whm.7zip.info
 www.7zip.info
 8591.info
 91girl5.info
@@ -57226,8 +57225,6 @@ www.formadv.info
 www.formenterazen.info
 forthewomen.info
 forumwarez.info
-mx.fotomodelle.info
-www.fotomodelle.info
 fotomodels.info
 www.fotoway.info
 fralo.info
@@ -57341,7 +57338,6 @@ goldrock.info
 goldshorten.info
 golfbooks.info
 ww25.golfstores.info
-www.golfstores.info
 gomovies123.info
 gonzovideos.info
 www.goodpeople.info
@@ -57371,8 +57367,6 @@ gtcpoci.info
 guardatv.info
 guesthouse.info
 guineenews.info
-ww1.guizubb.info
-ww11.guizubb.info
 gunxue.info
 gurusd.info
 guter-punkt.info
@@ -57402,7 +57396,6 @@ healthbeautyvn.info
 healthdiet.info
 www.healthontrack.info
 healthy-weight-loss-plan.info
-ww17.healthycraft.info
 heart-work.info
 heartbreakers.info
 hellosports.info
@@ -57476,6 +57469,7 @@ improvehealth.info
 indertat.info
 indianarmy.info
 indianlaw.info
+indofilm21.info
 ineedmoney.info
 infode.info
 inglesonlinegratis.info
@@ -58561,7 +58555,6 @@ sixcalifornias.info
 ads.sjon.info
 sjsu.info
 www.skengineers.info
-www.skiholiday.info
 skivacation.info
 www.slipper.info
 auth.slut.info
@@ -73340,7 +73333,6 @@ jm.domain.name
 jo.domain.name
 jp.domain.name
 js.domain.name
-kahoot.domain.name
 ke.domain.name
 kg.domain.name
 kh.domain.name
@@ -99674,6 +99666,8 @@ mytop-in.net
 myvisualiq.net
 myxmovies.net
 devint.mzbcdn.net
+prod.mzbcdn.net
+qa.mzbcdn.net
 n-mobile.net
 naghtytube.net
 naugtytube.net
@@ -105143,7 +105137,6 @@ android4play.org
 androidsoundboard.org
 anefrank.org
 angletv.org
-60per.com.angrybird.org
 dan.angrybird.org
 ww1.angrybird.org
 ww17.angrybird.org
@@ -105975,7 +105968,6 @@ impslp.org
 imslo.org
 imslt.org
 incident-report.org
-indesa.org
 indexxx.org
 indonesianembassy-china.org
 infiltrados.org
@@ -106170,7 +106162,6 @@ obibl.mapademexico.org
 q6y48k.mapademexico.org
 qakp0.mapademexico.org
 uelvw.mapademexico.org
-ww17.mapademexico.org
 www.mapademexico.org
 z30efkc.mapademexico.org
 mapletoncity.org
@@ -106776,7 +106767,6 @@ reformjudiasm.org
 registradoes.org
 rekcad2018.org
 mail.rekrutmen.org
-webdisk.rekrutmen.org
 www.rekrutmen.org
 relay1.org
 removepearlypenilepapules.org
