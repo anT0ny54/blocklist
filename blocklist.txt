@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 350638
+# Ignored duplicates: 350622
 
 chameleon.ad
 pixel.ad
@@ -2095,6 +2095,10 @@ gloft.co
 healthdee.co
 a.hellonext.co
 ablinks.mail.hinge.co
+ww1.hmizat.co
+ww25.hmizat.co
+ww3.hmizat.co
+ww38.hmizat.co
 i-link.co
 idio.co
 api.intellimize.co
@@ -6616,8 +6620,6 @@ allegishealth.com
 allforbetthailand.com
 mvideo.allhunkguys.com
 ww11.allhunkguys.com
-ww35.allhunkguys.com
-ww38.allhunkguys.com
 ww5.allhunkguys.com
 ww6.allhunkguys.com
 www.allhunkguys.com
@@ -7629,7 +7631,6 @@ dandelionsprout.asuscomm.com
 aswpapius.com
 aswpsdkus.com
 atantabraves.com
-blkrpt.rad.atdmt.com
 atecasec.com
 atgsvcs.com
 analytics.athome.com
@@ -7649,7 +7650,6 @@ attugrils.com
 attwilreless.com
 ww1.attwirelsss.com
 ww25.attwirelsss.com
-ww41.attwirelsss.com
 ar.atwola.com
 at.atwola.com
 cdn.atwola.com
@@ -8045,7 +8045,6 @@ secure.babyidol.com
 server.babyidol.com
 smtps.babyidol.com
 ww11.babyidol.com
-ww25.babyidol.com
 www1.babyidol.com
 banners.babylon-x.com
 affiliates.babylon.com
@@ -10603,8 +10602,10 @@ po.crateandbarrels.com
 seed.crateandbarrels.com
 server.crateandbarrels.com
 server2.crateandbarrels.com
+silkroad.crateandbarrels.com
 smtp01.crateandbarrels.com
 smtpauth.crateandbarrels.com
+ww11.crateandbarrels.com
 ww38.crateandbarrels.com
 www.crateandbarrels.com
 cratecamera.com
@@ -32897,12 +32898,7 @@ mysticalladyselegantgifts.com
 mystlyle.com
 mystts.com
 mystyletip.com
-correo.mysupermaket.com
-mta.mysupermaket.com
-outmail.mysupermaket.com
 ww1.mysupermaket.com
-ww35.mysupermaket.com
-zmail.mysupermaket.com
 myteryshopreports.com
 myverizin.com
 myvirecard.com
@@ -33962,6 +33958,7 @@ oliviersanrey.com
 olkjf.com
 oluptas.com
 tracking.olx-st.com
+www.olympicartgallery.com
 olympicchanel.com
 olympicsluts.com
 sstats.omahasteaks.com
@@ -37267,7 +37264,6 @@ opmnstr.com
 oppuz.com
 look.opskln.com
 optimallimit.com
-www.optimeze.com
 14124.optimizely.com
 admincenter.optimizely.com
 alloy2-edu.optimizely.com
@@ -39473,7 +39469,6 @@ akashayoga.postaffiliatepro.com
 alcdx.postaffiliatepro.com
 alltherooms.postaffiliatepro.com
 allvolleyball.postaffiliatepro.com
-alnafi.postaffiliatepro.com
 aloedecaus.postaffiliatepro.com
 alphadognutrition.postaffiliatepro.com
 amakersstudio.postaffiliatepro.com
@@ -39725,6 +39720,7 @@ intcitizens.postaffiliatepro.com
 internationalculinarystudio.postaffiliatepro.com
 internetmuhendisi.postaffiliatepro.com
 investyadnya.postaffiliatepro.com
+invigormedical.postaffiliatepro.com
 ionoleggioautoit.postaffiliatepro.com
 iozoom.postaffiliatepro.com
 iptv.postaffiliatepro.com
@@ -49340,14 +49336,10 @@ straightguysjerkoff.com
 straightnest.com
 ads.strands.com
 advertising.strands.com
-as-do.strands.com
-as-li.strands.com
 bcn.strands.com
 bfm.strands.com
 bfm-preview.strands.com
-bizsolutions.strands.com
 bo.strands.com
-bog.strands.com
 brand.strands.com
 clo.strands.com
 cor.strands.com
@@ -52082,8 +52074,6 @@ ads116.vertamedia.com
 ads117.vertamedia.com
 ads118.vertamedia.com
 ads12.vertamedia.com
-ads120.vertamedia.com
-ads121.vertamedia.com
 ads122.vertamedia.com
 ads123.vertamedia.com
 ads124.vertamedia.com
@@ -52092,42 +52082,26 @@ ads126.vertamedia.com
 ads127.vertamedia.com
 ads128.vertamedia.com
 ads129.vertamedia.com
-ads13.vertamedia.com
 ads130.vertamedia.com
 ads131.vertamedia.com
 ads132.vertamedia.com
-ads134.vertamedia.com
 ads135.vertamedia.com
 ads136.vertamedia.com
 ads137.vertamedia.com
 ads138.vertamedia.com
-ads14.vertamedia.com
-ads15.vertamedia.com
-ads16.vertamedia.com
-ads21.vertamedia.com
-ads22.vertamedia.com
-ads23.vertamedia.com
 ads24.vertamedia.com
 ads25.vertamedia.com
-ads26.vertamedia.com
-ads27.vertamedia.com
 ads3.vertamedia.com
 ads30.vertamedia.com
 ads34.vertamedia.com
 ads36.vertamedia.com
 ads38.vertamedia.com
-ads39.vertamedia.com
 ads4.vertamedia.com
-ads43.vertamedia.com
 ads44.vertamedia.com
 ads47.vertamedia.com
 ads48.vertamedia.com
 ads49.vertamedia.com
 ads5.vertamedia.com
-ads52.vertamedia.com
-ads53.vertamedia.com
-ads54.vertamedia.com
-ads6.vertamedia.com
 ads7.vertamedia.com
 aux-log1-sh.vertamedia.com
 aux-log2-sh.vertamedia.com
@@ -53359,6 +53333,11 @@ wisepops.com
 ads.wish.com
 a.wishabi.com
 b.wishabi.com
+authsmtp.wishrooms.com
+barracuda.wishrooms.com
+mailbox.wishrooms.com
+mailin.wishrooms.com
+server1.wishrooms.com
 distillery.wistia.com
 pipedream.wistia.com
 acquisition-tracker.wix.com
@@ -56470,6 +56449,8 @@ www.akiba-pr.info
 alcea.info
 mvideo.alder.info
 www.alder.info
+ww25.alexandertechnique.info
+ww38.alexandertechnique.info
 alexman.info
 algerie.info
 alien-music.info
@@ -56728,6 +56709,10 @@ cdn.bonertraffic.info
 t.bonertraffic.info
 booke.info
 bookgames.info
+mvideo.boostads.info
+ww1.boostads.info
+ww11.boostads.info
+ww16.boostads.info
 bordj.info
 borenje.info
 boxofficetraffic.info
@@ -57445,6 +57430,7 @@ ilit.info
 ilkoala.info
 ilovecasinos.info
 ilovefilmesonline.info
+ww1.ilovepix.info
 imagediet.info
 imagenesbonitas.info
 imagesexplore.info
@@ -57797,7 +57783,6 @@ mrxman.info
 mt04.info
 muanyagablak.info
 mueckenschutz.info
-ww62.muhammadnabi.info
 mujerbella.info
 muldental.info
 multi3ker.info
@@ -58421,7 +58406,6 @@ smtpauth.sancarlosminas.info
 webdisk.sancarlosminas.info
 ww16.sancarlosminas.info
 ww17.sancarlosminas.info
-ww25.sancarlosminas.info
 ww38.sancarlosminas.info
 www.sancarlosminas.info
 www1.sancarlosminas.info
@@ -58484,7 +58468,6 @@ sere.info
 serenade.info
 sergamer.info
 servercore.info
-www.sese377.info
 sese755.info
 seventorrents5.info
 sexesex.info
@@ -58849,6 +58832,7 @@ theineptowl.info
 theleader.info
 thema.info
 track.themaccleanup.info
+ww38.themediafire.info
 themediatrend.info
 thesensei.info
 threaded.info
@@ -59307,7 +59291,6 @@ woco.info
 wonderweblink.info
 wood35.info
 woodworkplans.info
-ww62.world-life.info
 worldsportsmemorabilia.info
 wowchar.info
 wowsource.info
@@ -59334,6 +59317,7 @@ ww17.xxlshow.info
 ww25.xxlshow.info
 ww38.xxlshow.info
 www.xxlshow.info
+cpcalendars.xyzdirectory.info
 mail.xyzdirectory.info
 webdisk.xyzdirectory.info
 www.xyzdirectory.info
@@ -104788,7 +104772,7 @@ skadn.zucks.net
 static.zucks.net
 t.zucks.net
 zoe.zucks.net
-d64.to.adtracker.network
+to.adtracker.network
 miner-deu-1.inf.nimiq.network
 miner-deu-2.inf.nimiq.network
 miner-deu-3.inf.nimiq.network
@@ -105102,7 +105086,6 @@ dan.angrybird.org
 ww1.angrybird.org
 ww17.angrybird.org
 ww38.angrybird.org
-www.angrybird.org
 ww1.anime-stars.org
 ww11.anime-stars.org
 ww17.anime-stars.org
@@ -105394,7 +105377,37 @@ www.commonswikimedia.org
 communityhealthplan.org
 concivica.org
 consensu.org
+antispam.consulfrance-edimbourg.org
+auth.consulfrance-edimbourg.org
+hermes.consulfrance-edimbourg.org
+imap1.consulfrance-edimbourg.org
+mail01.consulfrance-edimbourg.org
+mail1.consulfrance-edimbourg.org
+mail12.consulfrance-edimbourg.org
+mailbox.consulfrance-edimbourg.org
+mailer.consulfrance-edimbourg.org
+mailhost.consulfrance-edimbourg.org
 mailrelay.consulfrance-edimbourg.org
+mailx.consulfrance-edimbourg.org
+mbox.consulfrance-edimbourg.org
+mx.consulfrance-edimbourg.org
+mx10.consulfrance-edimbourg.org
+mx3.consulfrance-edimbourg.org
+mx4.consulfrance-edimbourg.org
+ns2.consulfrance-edimbourg.org
+poczta.consulfrance-edimbourg.org
+pop.consulfrance-edimbourg.org
+post.consulfrance-edimbourg.org
+postmaster.consulfrance-edimbourg.org
+relay1.consulfrance-edimbourg.org
+relay2.consulfrance-edimbourg.org
+root.consulfrance-edimbourg.org
+server.consulfrance-edimbourg.org
+server1.consulfrance-edimbourg.org
+server2.consulfrance-edimbourg.org
+smtpauth.consulfrance-edimbourg.org
+sniper.consulfrance-edimbourg.org
+www1.consulfrance-edimbourg.org
 metrics.consumerreports.org
 smetrics.consumerreports.org
 coresera.org
@@ -105576,9 +105589,7 @@ ebliblioteca.org
 ebssa.org
 antispam.ecobanca.org
 auth.ecobanca.org
-authsmtp.ecobanca.org
 barracuda.ecobanca.org
-correo.ecobanca.org
 email.ecobanca.org
 gate.ecobanca.org
 gateway.ecobanca.org
@@ -105588,7 +105599,6 @@ host.ecobanca.org
 imap1.ecobanca.org
 imap2.ecobanca.org
 internet.ecobanca.org
-m.ecobanca.org
 mail.ecobanca.org
 mail01.ecobanca.org
 mail12.ecobanca.org
@@ -105608,7 +105618,6 @@ ms.ecobanca.org
 ms1.ecobanca.org
 mx.ecobanca.org
 mx0.ecobanca.org
-mx02.ecobanca.org
 mx1.ecobanca.org
 mx10.ecobanca.org
 mx2.ecobanca.org
@@ -105620,7 +105629,6 @@ newmail.ecobanca.org
 ns1.ecobanca.org
 ns2.ecobanca.org
 out.ecobanca.org
-po.ecobanca.org
 poczta.ecobanca.org
 pop.ecobanca.org
 post.ecobanca.org
@@ -105645,7 +105653,6 @@ ww11.ecobanca.org
 ww16.ecobanca.org
 ww17.ecobanca.org
 ww25.ecobanca.org
-ww31.ecobanca.org
 www.ecobanca.org
 www1.ecobanca.org
 www2.ecobanca.org
@@ -105750,9 +105757,7 @@ flydenver.org
 fmc4me.org
 fmsdpzg.org
 fodderfeed.org
-com.fondationmacaya.org
 ww17.forum.fondationmacaya.org
-ww25.forum.fondationmacaya.org
 ww38.forum.fondationmacaya.org
 sites.fondationmacaya.org
 ww1.fondationmacaya.org
@@ -105775,6 +105780,9 @@ free-video-cutter.org
 freeasiantube.org
 freebook4u.org
 freecardgamesonline.org
+mx2.freecartoons.org
+seed.freecartoons.org
+ww1.freecartoons.org
 ww12.freecartoons.org
 ww16.freecartoons.org
 ww25.freecartoons.org
@@ -106708,7 +106716,7 @@ shop.readingtheroy.org
 staging.readingtheroy.org
 test.readingtheroy.org
 ww1.readingtheroy.org
-ww17.readingtheroy.org
+www.ww17.readingtheroy.org
 www.readingtheroy.org
 readthery.org
 readthory.org
@@ -111620,7 +111628,6 @@ affmoney.top
 as.cfcnet.top
 ctthatthey.top
 m.eth-buterin.top
-www.eth-buterin.top
 fingahvf.top
 iscussiam.top
 lemon91.top
