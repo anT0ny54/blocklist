@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 350622
+# Ignored duplicates: 350477
 
 chameleon.ad
 pixel.ad
@@ -2522,7 +2522,6 @@ ww25.4pornhub.com
 ww31.4pornhub.com
 ww38.4pornhub.com
 www.4pornhub.com
-www.4shaared.com
 adx.4strokemedia.com
 ads.4tube.com
 4v4jfe79erfxfu8z8.com
@@ -2840,7 +2839,6 @@ acbjobs.com
 accelventures.com
 accessallstatebenefits.com
 accessiblemetrics.com
-www.accessjpmorgan.com
 accessmyflorida.com
 accessory4kid.com
 0.accountkit.com
@@ -6618,11 +6616,6 @@ all4spy.com
 allbet24hr.com
 allegishealth.com
 allforbetthailand.com
-mvideo.allhunkguys.com
-ww11.allhunkguys.com
-ww5.allhunkguys.com
-ww6.allhunkguys.com
-www.allhunkguys.com
 alliancebizsmart.com
 alliancegravity.com
 allin1vacations.com
@@ -7560,62 +7553,34 @@ assoc-amazon.com
 z-na.associates-amazon.com
 assure-link.com
 auth.astarelectronics.com
-com.astarelectronics.com
-comune.astarelectronics.com
-correo.astarelectronics.com
-direct.astarelectronics.com
 email.astarelectronics.com
-eml.astarelectronics.com
-gw.astarelectronics.com
 imap1.astarelectronics.com
 imap2.astarelectronics.com
-m.astarelectronics.com
-mail.astarelectronics.com
-mail1.astarelectronics.com
 mail10.astarelectronics.com
 mail2.astarelectronics.com
-mail3.astarelectronics.com
 mail5.astarelectronics.com
-mail6.astarelectronics.com
-mail8.astarelectronics.com
 mailbox.astarelectronics.com
 mailer.astarelectronics.com
-mailgate.astarelectronics.com
 mailgw.astarelectronics.com
-mailin.astarelectronics.com
 mails.astarelectronics.com
-mailserver.astarelectronics.com
-mailsrv.astarelectronics.com
 mailx.astarelectronics.com
-mbox.astarelectronics.com
 mx.astarelectronics.com
-mx10.astarelectronics.com
 mx20.astarelectronics.com
-mx3.astarelectronics.com
 mx7.astarelectronics.com
 mxs.astarelectronics.com
-newmail.astarelectronics.com
 ns1.astarelectronics.com
 ns2.astarelectronics.com
-out.astarelectronics.com
 poczta.astarelectronics.com
 pop.astarelectronics.com
-post.astarelectronics.com
 postmaster.astarelectronics.com
 relay2.astarelectronics.com
-server.astarelectronics.com
 server1.astarelectronics.com
 server2.astarelectronics.com
-ww25.smtp2.astarelectronics.com
 sniper.astarelectronics.com
-ssl.astarelectronics.com
-vnet.astarelectronics.com
-vps.astarelectronics.com
 ww11.astarelectronics.com
 ww25.astarelectronics.com
 ww35.astarelectronics.com
 ww38.astarelectronics.com
-ww41.astarelectronics.com
 ww5.astarelectronics.com
 ww6.astarelectronics.com
 www.astarelectronics.com
@@ -7648,7 +7613,6 @@ attractiveafternoon.com
 attributionapp.com
 attugrils.com
 attwilreless.com
-ww1.attwirelsss.com
 ww25.attwirelsss.com
 ar.atwola.com
 at.atwola.com
@@ -8072,7 +8036,6 @@ ballbustingsocial.com
 ballhotclub.com
 balloontexture.com
 ww5.ballysfitnesscenters.com
-www.ballysfitnesscenters.com
 ballystotal.com
 balsimhill.com
 balsum.com
@@ -8198,42 +8161,25 @@ beeketing.com
 beemray.com
 adimages.been.com
 beezzi.com
-authsmtp.beginninglife.com
-email.beginninglife.com
 hermes.beginninglife.com
-m.beginninglife.com
-mail.beginninglife.com
-mail1.beginninglife.com
-mailgw.beginninglife.com
-mailserver.beginninglife.com
+ww25.m.beginninglife.com
+ww25.mail.beginninglife.com
 mailsrv.beginninglife.com
-mailx.beginninglife.com
 mta.beginninglife.com
 mx02.beginninglife.com
-mx2.beginninglife.com
 mx3.beginninglife.com
-ns.beginninglife.com
-ns2.beginninglife.com
+ww25.ns.beginninglife.com
 po.beginninglife.com
-poczta.beginninglife.com
-post.beginninglife.com
-postmaster.beginninglife.com
-relay.beginninglife.com
 relay2.beginninglife.com
-secure.beginninglife.com
-server.beginninglife.com
+ww25.secure.beginninglife.com
 srv.beginninglife.com
 ww1.beginninglife.com
 ww11.beginninglife.com
 ww25.beginninglife.com
 ww35.beginninglife.com
 ww38.beginninglife.com
-ww5.beginninglife.com
 ww6.beginninglife.com
 ww84.beginninglife.com
-www.beginninglife.com
-www1.beginninglife.com
-www2.beginninglife.com
 behavioralengine.com
 behenevis.com
 beibleid.com
@@ -9091,7 +9037,6 @@ banners.cams.com
 can-ambrp.com
 ww1.canada-air.com
 ww5.canada-air.com
-www.canada-air.com
 ww1.canadanepalnet.com
 ww38.canadanepalnet.com
 www.canadanepalnet.com
@@ -9431,7 +9376,6 @@ channelintelligence.com
 ww1.chaperraldodge.com
 www.chaperraldodge.com
 ww1.characterdepot.com
-ww7.characterdepot.com
 www.characterdepot.com
 addsuite.chargeplatform.com
 adengine.chargeplatform.com
@@ -10646,7 +10590,13 @@ cricket365-info.com
 crickvideo.com
 crictym.com
 crimtan.com
-crisdomson.com
+dev.crisdomson.com
+sitemap.crisdomson.com
+sitemaps.crisdomson.com
+staging.crisdomson.com
+test.crisdomson.com
+ww20.crisdomson.com
+www.crisdomson.com
 criteo.com
 critictruck.com
 api.crittercism.com
@@ -11700,7 +11650,6 @@ disneyozmovieoffers.com
 disneypchannel.com
 disneypeliculas.com
 sanalytics.disneyplus.com
-ww1.disneyprinses.com
 disneytino.com
 disnymovierewards.com
 dispensablestranger.com
@@ -11914,7 +11863,6 @@ dsequence.com
 dsglp.com
 dsgpy.com
 ww11.dsineycruise.com
-ww35.dsineycruise.com
 dssfeedback.com
 dstillery.com
 dtacplay.com
@@ -12332,7 +12280,6 @@ elmokhtabar.com
 elocalisting.com
 elonshares.com
 eloqua.com
-www.elplacerdelucir.com
 elseelektrikci.com
 elsitiofeliz.com
 elsticsr.com
@@ -13007,7 +12954,6 @@ foundfax.com
 fountasandpinell.com
 fourarithmetic.com
 fourquare.com
-www.fourseasonscreditunion.com
 fourtrk.com
 fousquare.com
 analytics.nova.fox.com
@@ -16910,7 +16856,6 @@ o15s19.laflatfurniture.com
 peilin-ism.laflatfurniture.com
 unikboss.laflatfurniture.com
 vader.laflatfurniture.com
-ww1.laflatfurniture.com
 www.laflatfurniture.com
 yahel.laflatfurniture.com
 lagag.com
@@ -32122,7 +32067,6 @@ moldyicicle.com
 molecularhub.com
 momently.com
 momoga.com
-www.momografias.com
 momozaap.com
 mon-site-marchand.com
 monadak.com
@@ -32898,7 +32842,6 @@ mysticalladyselegantgifts.com
 mystlyle.com
 mystts.com
 mystyletip.com
-ww1.mysupermaket.com
 myteryshopreports.com
 myverizin.com
 myvirecard.com
@@ -39567,7 +39510,6 @@ carvertical.postaffiliatepro.com
 casaneo.postaffiliatepro.com
 casdep.postaffiliatepro.com
 casinoisy.postaffiliatepro.com
-cbdrethink.postaffiliatepro.com
 cdn.postaffiliatepro.com
 cec.postaffiliatepro.com
 ceocreative.postaffiliatepro.com
@@ -47548,7 +47490,6 @@ sgjobsdb.com
 invenio.sgn.com
 sgnorton.com
 sguareup.com
-shop.shadecases.com
 shady45.com
 shahidnet.com
 shairmarket.com
@@ -48563,6 +48504,7 @@ eventgateway.soundcloud.com
 l9bjkkhaycw6f8f4.soundcloud.com
 soundclud.com
 emaillinks.soundiiz.com
+ww1.soundza.com
 ww5.soundza.com
 sourmaths.com
 soursejone.com
@@ -49752,7 +49694,6 @@ suncoastproudboys.com
 sundaysky.com
 sunformobil.com
 sunnygals.com
-ww1.sunsormobile.com
 ww25.sunsormobile.com
 suntrusthbank.com
 sunwayputrahotel.com
@@ -50414,7 +50355,6 @@ thesoferstam.com
 fishingmaster.thestandardlife.com
 www.thestandardlife.com
 ads.thestar.com
-www.thesuaraus.com
 thetacar.com
 thethaovip.com
 thetradedesk.com
@@ -56396,7 +56336,6 @@ ww1.5yo.info
 69postix.info
 7494568.info
 7hari.info
-www.7zip.info
 8591.info
 91girl5.info
 ww1.9696avmm.info
@@ -56451,6 +56390,7 @@ mvideo.alder.info
 www.alder.info
 ww25.alexandertechnique.info
 ww38.alexandertechnique.info
+www.alexandertechnique.info
 alexman.info
 algerie.info
 alien-music.info
@@ -56510,7 +56450,6 @@ arunachalfront.info
 asian-anal.info
 asiangirl.info
 asminor.info
-www.aso-sabo.info
 assafir-attounissia.info
 assilah.info
 assurancecomplementairesante.info
@@ -56879,6 +56818,7 @@ dailymp3.info
 danjeh.info
 darkbb.info
 cpcalendars.darknets.info
+cpcontacts.darknets.info
 mail.darknets.info
 www.darknets.info
 datentarife.info
@@ -56919,7 +56859,6 @@ ww25.de-ner-mi-nis4.info
 ww38.de-ner-mi-nis4.info
 ww7.de-ner-mi-nis4.info
 www.de-ner-mi-nis4.info
-de-nis-ner-mi-5.info
 de-online.info
 deadfamous.info
 declaration-dsn.info
@@ -57890,7 +57829,6 @@ ww25.ner-de-mi-nis-6.info
 ww38.ner-de-mi-nis-6.info
 ww84.ner-de-mi-nis-6.info
 www.ner-de-mi-nis-6.info
-www42.ner-de-mi-nis-6.info
 nervositaet.info
 new-build.info
 ww1.newbeginning.info
@@ -58048,6 +57986,7 @@ autoconfig.peersview.piece.info
 dev.ww38.piece.info
 www.piece.info
 pilzerkrankungen.info
+www.piratubex.info
 pirotek.info
 pitztal.info
 piyopiyo.info
@@ -59284,8 +59223,6 @@ ww1.wishrobux.info
 ww16.wishrobux.info
 ww17.wishrobux.info
 ww25.wishrobux.info
-ww38.wishrobux.info
-www.wishrobux.info
 witze.info
 woco.info
 wonderweblink.info
@@ -97193,8 +97130,6 @@ easywebsearch.net
 easyweightlossforwoman.net
 ebookfi.net
 ww1.echoroukonline.net
-ww5.echoroukonline.net
-www.echoroukonline.net
 economiseur-electricite.net
 af-appsflyersdk.edgekey.net
 aimatch.edgekey.net
@@ -99312,7 +99247,6 @@ cds27.ory.llnw.net
 cds38.ory.llnw.net
 cds46.ory.llnw.net
 cds54.ory.llnw.net
-loginglobalsuite.net
 logoos.net
 loopmeedge.net
 lotop.net
@@ -100387,19 +100321,6 @@ ronalo7.net
 ronniescatfishandmore.net
 roxr.net
 royalads.net
-auth.rp2s.net
-email.rp2s.net
-host.rp2s.net
-m.rp2s.net
-mailhost.rp2s.net
-mailout.rp2s.net
-ms.rp2s.net
-mx1.rp2s.net
-ns1.rp2s.net
-poczta.rp2s.net
-post.rp2s.net
-secure.rp2s.net
-smtps.rp2s.net
 a.rs6.net
 a.d1.rs6.net
 a.l1.rs6.net
@@ -102804,8 +102725,6 @@ geo-stage-a.ap-northeast-1.k8s.sendgrid.net
 geo-dev-a.ap-south-1.k8s.sendgrid.net
 geo-prod-a.ap-south-1.k8s.sendgrid.net
 geo-stage-a.ap-south-1.k8s.sendgrid.net
-apid-auth-p1iad2.k8s.sendgrid.net
-apid-mc-p1iad2.k8s.sendgrid.net
 asmapi-s1mdw1.k8s.sendgrid.net
 autobots-dashboard.k8s.sendgrid.net
 alertmanager.geopod-prod-a.ap-northeast-1a.aws.k8s.sendgrid.net
@@ -104772,7 +104691,7 @@ skadn.zucks.net
 static.zucks.net
 t.zucks.net
 zoe.zucks.net
-to.adtracker.network
+adtracker.network
 miner-deu-1.inf.nimiq.network
 miner-deu-2.inf.nimiq.network
 miner-deu-3.inf.nimiq.network
@@ -105082,10 +105001,6 @@ android4play.org
 androidsoundboard.org
 anefrank.org
 angletv.org
-dan.angrybird.org
-ww1.angrybird.org
-ww17.angrybird.org
-ww38.angrybird.org
 ww1.anime-stars.org
 ww11.anime-stars.org
 ww17.anime-stars.org
@@ -105757,14 +105672,11 @@ flydenver.org
 fmc4me.org
 fmsdpzg.org
 fodderfeed.org
-ww17.forum.fondationmacaya.org
-ww38.forum.fondationmacaya.org
 sites.fondationmacaya.org
 ww1.fondationmacaya.org
 ww11.fondationmacaya.org
 ww25.fondationmacaya.org
 ww38.fondationmacaya.org
-www.fondationmacaya.org
 foodcoop.org
 mail.forumalew.org
 webdisk.forumalew.org
@@ -106709,15 +106621,12 @@ rawboard.org
 rcdaf.org
 rcdat.org
 re07.org
-dev.readingtheroy.org
 magento.readingtheroy.org
-old.readingtheroy.org
 shop.readingtheroy.org
 staging.readingtheroy.org
 test.readingtheroy.org
 ww1.readingtheroy.org
 www.ww17.readingtheroy.org
-www.readingtheroy.org
 readthery.org
 readthory.org
 readworkd.org
