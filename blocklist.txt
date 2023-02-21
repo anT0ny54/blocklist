@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 350477
+# Ignored duplicates: 350485
 
 chameleon.ad
 pixel.ad
@@ -2628,7 +2628,6 @@ radchich.gateway.demand-tools.advertising.a2z.com
 ramyadas.gateway.demand-tools.advertising.a2z.com
 us-east-1.sandbox.gateway.demand-tools.advertising.a2z.com
 yeya.gateway.demand-tools.advertising.a2z.com
-yuissac.gateway.demand-tools.advertising.a2z.com
 zhangjos.gateway.demand-tools.advertising.a2z.com
 barnegat.modelservice.demand-tools.advertising.a2z.com
 test-your-api.demand-tools.advertising.a2z.com
@@ -3793,6 +3792,7 @@ adg.admitad.com
 affiliate.admitad.com
 aft.admitad.com
 api.admitad.com
+autoreward.admitad.com
 blogger.admitad.com
 bot.admitad.com
 box.admitad.com
@@ -7553,20 +7553,16 @@ assoc-amazon.com
 z-na.associates-amazon.com
 assure-link.com
 auth.astarelectronics.com
-email.astarelectronics.com
 imap1.astarelectronics.com
 imap2.astarelectronics.com
 mail10.astarelectronics.com
 mail2.astarelectronics.com
 mail5.astarelectronics.com
-mailbox.astarelectronics.com
-mailer.astarelectronics.com
 mailgw.astarelectronics.com
 mails.astarelectronics.com
 mailx.astarelectronics.com
 mx.astarelectronics.com
 mx20.astarelectronics.com
-mx7.astarelectronics.com
 mxs.astarelectronics.com
 ns1.astarelectronics.com
 ns2.astarelectronics.com
@@ -7574,11 +7570,8 @@ poczta.astarelectronics.com
 pop.astarelectronics.com
 postmaster.astarelectronics.com
 relay2.astarelectronics.com
-server1.astarelectronics.com
 server2.astarelectronics.com
 sniper.astarelectronics.com
-ww11.astarelectronics.com
-ww25.astarelectronics.com
 ww35.astarelectronics.com
 ww38.astarelectronics.com
 ww5.astarelectronics.com
@@ -7613,7 +7606,6 @@ attractiveafternoon.com
 attributionapp.com
 attugrils.com
 attwilreless.com
-ww25.attwirelsss.com
 ar.atwola.com
 at.atwola.com
 cdn.atwola.com
@@ -7995,21 +7987,6 @@ babiesru.com
 bablace.com
 babrbiegirl.com
 babybotttlepop.com
-auth.babyidol.com
-email.babyidol.com
-mail1.babyidol.com
-mailgw.babyidol.com
-mx.babyidol.com
-mx0.babyidol.com
-mx01.babyidol.com
-ns1.babyidol.com
-pop.babyidol.com
-post.babyidol.com
-secure.babyidol.com
-server.babyidol.com
-smtps.babyidol.com
-ww11.babyidol.com
-www1.babyidol.com
 banners.babylon-x.com
 affiliates.babylon.com
 babylontv.com
@@ -8163,12 +8140,10 @@ adimages.been.com
 beezzi.com
 hermes.beginninglife.com
 ww25.m.beginninglife.com
-ww25.mail.beginninglife.com
 mailsrv.beginninglife.com
 mta.beginninglife.com
 mx02.beginninglife.com
 mx3.beginninglife.com
-ww25.ns.beginninglife.com
 po.beginninglife.com
 relay2.beginninglife.com
 ww25.secure.beginninglife.com
@@ -8177,7 +8152,6 @@ ww1.beginninglife.com
 ww11.beginninglife.com
 ww25.beginninglife.com
 ww35.beginninglife.com
-ww38.beginninglife.com
 ww6.beginninglife.com
 ww84.beginninglife.com
 behavioralengine.com
@@ -8318,7 +8292,6 @@ biggsfashionsny.com
 logger-load-balancer.bigmarker.com
 bigmouthboatsupply.com
 barracuda.bigpoin.com
-board.bigpoin.com
 box.bigpoin.com
 comune.bigpoin.com
 darkorbit.bigpoin.com
@@ -8497,7 +8470,6 @@ beta.bkrtx.com
 origin.bkrtx.com
 www.bkrtx.com
 email.m1.bktrksmail.com
-www.blackberryinternetservices.com
 za.blackberryinternetservices.com
 blackboad.com
 blackkfriday.com
@@ -10550,6 +10522,7 @@ silkroad.crateandbarrels.com
 smtp01.crateandbarrels.com
 smtpauth.crateandbarrels.com
 ww11.crateandbarrels.com
+ww25.crateandbarrels.com
 ww38.crateandbarrels.com
 www.crateandbarrels.com
 cratecamera.com
@@ -11862,7 +11835,6 @@ zimbra.dscoders.com
 dsequence.com
 dsglp.com
 dsgpy.com
-ww11.dsineycruise.com
 dssfeedback.com
 dstillery.com
 dtacplay.com
@@ -12396,9 +12368,7 @@ espnfootball.com
 estat.com
 estheticmeso.com
 estudiosdoscrias.com
-ww1.estudoadistancia.com
 ww17.estudoadistancia.com
-www.estudoadistancia.com
 esty.com
 etahub.com
 etargetnet.com
@@ -12669,7 +12639,6 @@ fabswingerd.com
 www.facabooks.com
 facebooktown.com
 faceeboc.com
-free.facejbook.com
 faceyoumanga.com
 facilitategrandfather.com
 facilpa.com
@@ -13162,9 +13131,7 @@ future2you.com
 www.futureiet.com
 design-system.futurelean.com
 links.futurelean.com
-mail.futurelean.com
 phpmyadmin.futurelean.com
-preprod.futurelean.com
 ww.futurelean.com
 www.futurelean.com
 futurelectronics.com
@@ -14663,7 +14630,6 @@ googlemerchant.com
 googlemqil.com
 googleoptimize.com
 wintricksbanner.googlepages.com
-ww38.googleplaystor.com
 www.googleplaystor.com
 googleplaystoreapks.com
 googleplsy.com
@@ -14788,45 +14754,11 @@ googletagservice.com
 www.googletagservices.com
 googletrad.com
 googlevedio.com
-googlevideosx.com
 googlrearth.com
 googlyoutube.com
 googm.com
 googolel.com
-auth.gookl.com
-email.gookl.com
-home.gookl.com
-imap1.gookl.com
-m.gookl.com
-mail01.gookl.com
-mail1.gookl.com
-mail2.gookl.com
-mail6.gookl.com
-mailer.gookl.com
-mailgate.gookl.com
-mailin.gookl.com
-mailserver.gookl.com
-mailx.gookl.com
-mx.gookl.com
-mx1.gookl.com
-mx2.gookl.com
-mxs.gookl.com
-ns.gookl.com
-ns1.gookl.com
-outmail.gookl.com
-postmaster.gookl.com
-relay.gookl.com
-secure.gookl.com
-server.gookl.com
-server1.gookl.com
-smtpauth.gookl.com
-ww.gookl.com
-ww11.gookl.com
-ww25.gookl.com
-ww38.gookl.com
-www1.gookl.com
-www2.gookl.com
-zimbra.gookl.com
+gookl.com
 goolew.com
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 goorulife.com
@@ -15264,7 +15196,6 @@ hlifeplus.com
 hlserve.com
 hmasolicitors.com
 hmn-tech.com
-hmpscience.com
 hmstats.com
 hnyhnyhny.com
 comune.hobbylandinc.com
@@ -16350,7 +16281,6 @@ jibjabsendables.com
 jieazz.com
 tracking.jiffyworld.com
 td.jimdo.com
-jimmijazz.com
 jimmyhons.com
 jimopuwa.com
 jinshengpacking.com
@@ -16850,14 +16780,6 @@ lackplaying.com
 ladieslatina.com
 ladsp.com
 luna.r.lafamo.com
-fujian.laflatfurniture.com
-niyitabiti.laflatfurniture.com
-o15s19.laflatfurniture.com
-peilin-ism.laflatfurniture.com
-unikboss.laflatfurniture.com
-vader.laflatfurniture.com
-www.laflatfurniture.com
-yahel.laflatfurniture.com
 lagag.com
 lakaq.com
 lakecountrychevrolet.com
@@ -42721,7 +42643,7 @@ quieresligar.com
 quietknowledge.com
 quikenbillpay.com
 quinst.com
-m.given.quiosconline.com
+given.quiosconline.com
 quisma.com
 quizflavor.com
 quizzicalzephyr.com
@@ -50315,6 +50237,7 @@ thecashbackguide.com
 theclickads.com
 www.thecoinbasepro.com
 counter.theconversation.com
+thecruiseassistant.com
 geoip.thedailymeal.com
 thedisneyhub.com
 thedocpdfconverter.com
@@ -50327,9 +50250,6 @@ hits.theguardian.com
 thehatsite.com
 thehearingaidscenter.com
 thehomesecuritysystemsguide.com
-ww1.thejewelerybox.com
-ww5.thejewelerybox.com
-www.thejewelerybox.com
 thelastestnews.com
 a.thelocal.com
 theluckyone.com
@@ -51167,10 +51087,8 @@ ugdturner.com
 ww5.uggastrulia.com
 www.uggastrulia.com
 uggs-euro.com
-ww1.uggsaustarlia.com
 ww25.uggsaustarlia.com
 ww5.uggsaustarlia.com
-www.uggsaustarlia.com
 uggsforall.com
 mediamgr.ugo.com
 uhcmedicaresolution.com
@@ -53263,7 +53181,6 @@ ww25.winecountrygiftbaskeets.com
 www.winecountrygiftbaskeets.com
 ads.wineenthusiast.com
 winowslive.com
-ww1.winthislaptop.com
 wiprocareers.com
 wirecomic.com
 analytics.wirefly.com
@@ -53277,7 +53194,10 @@ authsmtp.wishrooms.com
 barracuda.wishrooms.com
 mailbox.wishrooms.com
 mailin.wishrooms.com
+a.mx.wishrooms.com
 server1.wishrooms.com
+site.wishrooms.com
+ww38.wishrooms.com
 distillery.wistia.com
 pipedream.wistia.com
 acquisition-tracker.wix.com
@@ -55001,8 +54921,6 @@ www.z82020.com
 zachbrowser.com
 m.zagmob.com
 www.zagmob.com
-ww35.zaies.com
-ww41.zaies.com
 zaitzev.com
 zajicjiri.com
 zalescredit.com
@@ -56388,6 +56306,7 @@ www.akiba-pr.info
 alcea.info
 mvideo.alder.info
 www.alder.info
+ww16.alexandertechnique.info
 ww25.alexandertechnique.info
 ww38.alexandertechnique.info
 www.alexandertechnique.info
@@ -56450,6 +56369,7 @@ arunachalfront.info
 asian-anal.info
 asiangirl.info
 asminor.info
+ww38.mvideo.aso-sabo.info
 assafir-attounissia.info
 assilah.info
 assurancecomplementairesante.info
@@ -56648,6 +56568,10 @@ cdn.bonertraffic.info
 t.bonertraffic.info
 booke.info
 bookgames.info
+api.boostads.info
+file.boostads.info
+file1.boostads.info
+get3.boostads.info
 mvideo.boostads.info
 ww1.boostads.info
 ww11.boostads.info
@@ -56820,6 +56744,7 @@ darkbb.info
 cpcalendars.darknets.info
 cpcontacts.darknets.info
 mail.darknets.info
+webdisk.darknets.info
 www.darknets.info
 datentarife.info
 sg.datinggirls.info
@@ -57249,7 +57174,6 @@ godspeakstoday.info
 goldrock.info
 goldshorten.info
 golfbooks.info
-ww25.golfstores.info
 gomovies123.info
 gonzovideos.info
 www.goodpeople.info
@@ -57437,7 +57361,6 @@ joining.info
 joinmyworld.info
 jointventures.info
 joker7777.info
-mail.joostbakker.info
 www.joostbakker.info
 josieskitchen.info
 jpub.info
@@ -57824,7 +57747,6 @@ ww1.ner-de-mi-nis-6.info
 ww11.ner-de-mi-nis-6.info
 ww16.ner-de-mi-nis-6.info
 ww17.ner-de-mi-nis-6.info
-ww2.ner-de-mi-nis-6.info
 ww25.ner-de-mi-nis-6.info
 ww38.ner-de-mi-nis-6.info
 ww84.ner-de-mi-nis-6.info
@@ -58235,7 +58157,6 @@ raport-wsi.info
 raucherclub.info
 rauchfrei.info
 rauris.info
-www.rauschgold.info
 ravs.info
 rawmangabk.info
 raznesi.info
@@ -58343,8 +58264,6 @@ relay.sancarlosminas.info
 server.sancarlosminas.info
 smtpauth.sancarlosminas.info
 webdisk.sancarlosminas.info
-ww16.sancarlosminas.info
-ww17.sancarlosminas.info
 ww38.sancarlosminas.info
 www.sancarlosminas.info
 www1.sancarlosminas.info
@@ -59219,10 +59138,8 @@ wikiseda.info
 win-prize.info
 winner-topper-1.info
 wir9.info
-ww1.wishrobux.info
 ww16.wishrobux.info
 ww17.wishrobux.info
-ww25.wishrobux.info
 witze.info
 woco.info
 wonderweblink.info
@@ -72836,6 +72753,7 @@ video.videos.vidto.me
 vipgames.me
 s.woet.me
 xedo.me
+xfin.me
 cdn.admetrics.media
 cpm.andbeyond.media
 header.andbeyond.media
@@ -79041,7 +78959,6 @@ arsdev.net
 artisany.net
 ashleydaniels.net
 media.aso1.net
-wp.asso-victimesdesnotaires.net
 aswanicalicut.net
 at-o.net
 at2010.net
@@ -97129,7 +97046,6 @@ easydomain.net
 easywebsearch.net
 easyweightlossforwoman.net
 ebookfi.net
-ww1.echoroukonline.net
 economiseur-electricite.net
 af-appsflyersdk.edgekey.net
 aimatch.edgekey.net
@@ -103626,7 +103542,6 @@ credit-service.general-stage-a.mdw1.k8s.sendgrid.net
 deliverability-settings.general-stage-a.mdw1.k8s.sendgrid.net
 email-insights.general-stage-a.mdw1.k8s.sendgrid.net
 federation.general-stage-a.mdw1.k8s.sendgrid.net
-go-servernameapi.general-stage-a.mdw1.k8s.sendgrid.net
 grafana.general-stage-a.mdw1.k8s.sendgrid.net
 shim.iam.general-stage-a.mdw1.k8s.sendgrid.net
 shim-dev.iam.general-stage-a.mdw1.k8s.sendgrid.net
@@ -105133,7 +105048,6 @@ bimartcreditunion.org
 bioteq.org
 bipme.org
 bitbacket.org
-ww62.bitbicket.org
 bitbuket.org
 bitcoinxl.org
 blackplague.org
@@ -105303,6 +105217,7 @@ mailbox.consulfrance-edimbourg.org
 mailer.consulfrance-edimbourg.org
 mailhost.consulfrance-edimbourg.org
 mailrelay.consulfrance-edimbourg.org
+mails.consulfrance-edimbourg.org
 mailx.consulfrance-edimbourg.org
 mbox.consulfrance-edimbourg.org
 mx.consulfrance-edimbourg.org
@@ -105317,6 +105232,7 @@ postmaster.consulfrance-edimbourg.org
 relay1.consulfrance-edimbourg.org
 relay2.consulfrance-edimbourg.org
 root.consulfrance-edimbourg.org
+send.consulfrance-edimbourg.org
 server.consulfrance-edimbourg.org
 server1.consulfrance-edimbourg.org
 server2.consulfrance-edimbourg.org
@@ -105502,15 +105418,10 @@ ebase64encode.org
 ebibloteca.org
 ebliblioteca.org
 ebssa.org
-antispam.ecobanca.org
 auth.ecobanca.org
-barracuda.ecobanca.org
 email.ecobanca.org
 gate.ecobanca.org
-gateway.ecobanca.org
-gw.ecobanca.org
 hermes.ecobanca.org
-host.ecobanca.org
 imap1.ecobanca.org
 imap2.ecobanca.org
 internet.ecobanca.org
@@ -105518,8 +105429,6 @@ mail.ecobanca.org
 mail01.ecobanca.org
 mail12.ecobanca.org
 mail2.ecobanca.org
-mail9.ecobanca.org
-mailbox.ecobanca.org
 mailer.ecobanca.org
 mailgate.ecobanca.org
 mailgw.ecobanca.org
@@ -105530,12 +105439,9 @@ mailrelay.ecobanca.org
 mailserver.ecobanca.org
 mailx.ecobanca.org
 ms.ecobanca.org
-ms1.ecobanca.org
 mx.ecobanca.org
 mx0.ecobanca.org
 mx1.ecobanca.org
-mx10.ecobanca.org
-mx2.ecobanca.org
 mx20.ecobanca.org
 mx3.ecobanca.org
 mx4.ecobanca.org
@@ -105543,7 +105449,6 @@ mx5.ecobanca.org
 newmail.ecobanca.org
 ns1.ecobanca.org
 ns2.ecobanca.org
-out.ecobanca.org
 poczta.ecobanca.org
 pop.ecobanca.org
 post.ecobanca.org
@@ -105554,21 +105459,14 @@ relay2.ecobanca.org
 secure.ecobanca.org
 server.ecobanca.org
 server1.ecobanca.org
-server2.ecobanca.org
-smtp01.ecobanca.org
-ww25.smtp2.ecobanca.org
 smtpauth.ecobanca.org
-smtpmail.ecobanca.org
 smtps.ecobanca.org
 smtpseguro.ecobanca.org
 sniper.ecobanca.org
 tiger.ecobanca.org
 ww1.ecobanca.org
-ww11.ecobanca.org
-ww16.ecobanca.org
 ww17.ecobanca.org
 ww25.ecobanca.org
-www.ecobanca.org
 www1.ecobanca.org
 www2.ecobanca.org
 zimbra.ecobanca.org
@@ -105672,15 +105570,14 @@ flydenver.org
 fmc4me.org
 fmsdpzg.org
 fodderfeed.org
-sites.fondationmacaya.org
-ww1.fondationmacaya.org
-ww11.fondationmacaya.org
-ww25.fondationmacaya.org
-ww38.fondationmacaya.org
 foodcoop.org
+iletisim.forumalew.org
 mail.forumalew.org
+ns1.forumalew.org
+ns2.forumalew.org
 webdisk.forumalew.org
 whm.forumalew.org
+ww4.forumalew.org
 www.forumalew.org
 fotohost.org
 foucusedfitness.org
@@ -106107,9 +106004,6 @@ mochilero.org
 modestneed.org
 molecularcuisine.org
 momentjs.org
-ww16.mompov.org
-ww25.mompov.org
-ww38.mompov.org
 www.mompov.org
 monkeyradio.org
 monterfiore.org
@@ -106621,10 +106515,6 @@ rawboard.org
 rcdaf.org
 rcdat.org
 re07.org
-magento.readingtheroy.org
-shop.readingtheroy.org
-staging.readingtheroy.org
-test.readingtheroy.org
 ww1.readingtheroy.org
 www.ww17.readingtheroy.org
 readthery.org
@@ -111536,7 +111426,6 @@ oli.tools
 affmoney.top
 as.cfcnet.top
 ctthatthey.top
-m.eth-buterin.top
 fingahvf.top
 iscussiam.top
 lemon91.top
