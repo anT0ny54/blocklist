@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 350366
+# Ignored duplicates: 350225
 
 chameleon.ad
 pixel.ad
@@ -7306,41 +7306,63 @@ anyserial.com
 adinfo.aol.com
 auth.aolomail.com
 authsmtp.aolomail.com
+barracuda.aolomail.com
 box.aolomail.com
+comune.aolomail.com
+correo.aolomail.com
 email.aolomail.com
 eml.aolomail.com
 gate.aolomail.com
 home.aolomail.com
 imap1.aolomail.com
+m.aolomail.com
 mail.aolomail.com
 mail1.aolomail.com
 mail11.aolomail.com
 mail2.aolomail.com
+mail5.aolomail.com
 mail6.aolomail.com
+mail7.aolomail.com
+mailbox.aolomail.com
 mailer.aolomail.com
+mailgate.aolomail.com
 mailhost.aolomail.com
 mailin.aolomail.com
+mails.aolomail.com
+mailsrv.aolomail.com
 mailx.aolomail.com
+mbox.aolomail.com
 ms.aolomail.com
+ms1.aolomail.com
 mta.aolomail.com
+mx0.aolomail.com
 mx1.aolomail.com
+mx10.aolomail.com
 mx2.aolomail.com
 mx20.aolomail.com
 mx3.aolomail.com
+mx4.aolomail.com
+mx5.aolomail.com
 mx7.aolomail.com
 ns.aolomail.com
 ns1.aolomail.com
+out.aolomail.com
+outmail.aolomail.com
 po.aolomail.com
 poczta.aolomail.com
 pop.aolomail.com
+post.aolomail.com
 postmaster.aolomail.com
 secure.aolomail.com
+smtp01.aolomail.com
 ww25.smtp1.aolomail.com
+smtpauth.aolomail.com
 sniper.aolomail.com
 thor.aolomail.com
 vip.aolomail.com
 ww25.aolomail.com
 ww38.aolomail.com
+ww84.aolomail.com
 www.aolomail.com
 www2.aolomail.com
 zimbra.aolomail.com
@@ -8107,7 +8129,6 @@ advert.bayarea.com
 baypops.com
 network-stg.bazaarvoice.com
 analytics-static.ugc.bazaarvoice.com
-ssc.api.bbc.com
 click.email.bbc.com
 bbcmvdo.com
 bbelements.com
@@ -8298,7 +8319,6 @@ biggishgames.com
 biggsfashionsny.com
 logger-load-balancer.bigmarker.com
 bigmouthboatsupply.com
-darkorbit.bigpoin.com
 mail01.bigpoin.com
 mailin.bigpoin.com
 mailrelay.bigpoin.com
@@ -8549,6 +8569,7 @@ bocumot.com
 bodelen.com
 bodoforu.com
 news.bodybyjack.com
+ww25.bodybyjack.com
 ww38.bodybyjack.com
 www.bodybyjack.com
 bodyrubsbybritney.com
@@ -8993,7 +9014,6 @@ camporenacimiento.com
 adserver.cams.com
 banners.cams.com
 can-ambrp.com
-ww1.canada-air.com
 ww5.canada-air.com
 ww1.canadanepalnet.com
 ww38.canadanepalnet.com
@@ -9177,8 +9197,23 @@ www.cbarsrv.com
 cbcaau.com
 cbeao.com
 direct.cbmax.com
+mail2.cbmax.com
 mail3.cbmax.com
+mailer.cbmax.com
+mailin.cbmax.com
+mailserver.cbmax.com
+mailx.cbmax.com
+mx.cbmax.com
+mx1.cbmax.com
+ns.cbmax.com
+ns1.cbmax.com
+pop.cbmax.com
+postmaster.cbmax.com
+server.cbmax.com
+smtpauth.cbmax.com
+smtps.cbmax.com
 www.cbmax.com
+www1.cbmax.com
 cbseboardresults.com
 cbsi.com
 cbsileads.com
@@ -9867,7 +9902,6 @@ originadengx.clmbtech.com
 originadessl.clmbtech.com
 originadesslngx.clmbtech.com
 originasefo.clmbtech.com
-originasengx.clmbtech.com
 originasessl.clmbtech.com
 originaudxngxade.clmbtech.com
 origincade.clmbtech.com
@@ -11188,7 +11222,6 @@ www1.db-ip.com
 www2.db-ip.com
 www3.db-ip.com
 dbbsrv.com
-dbgpkg.com
 dbidatatech.com
 dbmvideos.com
 dbrauexm2013.com
@@ -14630,7 +14663,6 @@ googlemerchant.com
 googlemqil.com
 googleoptimize.com
 wintricksbanner.googlepages.com
-www.googleplaystor.com
 googleplaystoreapks.com
 googleplsy.com
 googleprank.com
@@ -16329,6 +16361,7 @@ jpiowmovvam.com
 jpplaystation.com
 jqery.com
 jrmup.com
+jrmzp.com
 jscdndel.com
 jsecoin.com
 a.jsrdn.com
@@ -33833,7 +33866,7 @@ oliviersanrey.com
 olkjf.com
 oluptas.com
 tracking.olx-st.com
-www.olympicartgallery.com
+olympicartgallery.com
 olympicchanel.com
 olympicsluts.com
 sstats.omahasteaks.com
@@ -39789,7 +39822,6 @@ reganam.postaffiliatepro.com
 reinkmedia.postaffiliatepro.com
 reishunger.postaffiliatepro.com
 relxnow.postaffiliatepro.com
-renderro.postaffiliatepro.com
 rendity.postaffiliatepro.com
 rentnap.postaffiliatepro.com
 repfitness.postaffiliatepro.com
@@ -45268,7 +45300,13 @@ rewardnow.com
 rewardsecure.com
 collect.rewardstyle.com
 reyden-x.com
-reyoutube.com
+m.reyoutube.com
+sitemaps.reyoutube.com
+studio.reyoutube.com
+ww1.reyoutube.com
+ww15.reyoutube.com
+ww2.reyoutube.com
+ww5.reyoutube.com
 rezonence.com
 rezultait.com
 rezutati.com
@@ -47376,7 +47414,6 @@ sessioncam.com
 setransp-aju.com
 seturb.com
 sewfit.com
-ww1.sewsnazzee.com
 sexcounter.com
 sexect.com
 sexinyourcity.com
@@ -48441,7 +48478,6 @@ sootheside.com
 sophia-network.com
 sopitayponvistiendoamores.com
 sopubok.com
-soquj.com
 sordidsmile.com
 sordidstation.com
 sortable.com
@@ -49944,7 +49980,6 @@ takethemeal.com
 takru.com
 talent-manager.com
 talentedsteel.com
-statistics-se.talentum.com
 talismanicidols.com
 bidder.talkingpointsmemo.com
 tallysollution.com
@@ -56373,6 +56408,7 @@ ansatsu.info
 answkey.info
 antilles.info
 antiviruspro.info
+ww3.aplgo.info
 auth.applifier.info
 ci.applifier.info
 ci2.applifier.info
@@ -56392,7 +56428,11 @@ arunachalfront.info
 asian-anal.info
 asiangirl.info
 asminor.info
+mail.aso-sabo.info
 ww38.mvideo.aso-sabo.info
+sitemap.aso-sabo.info
+sitemaps.aso-sabo.info
+ww2.aso-sabo.info
 assafir-attounissia.info
 assilah.info
 assurancecomplementairesante.info
@@ -57085,6 +57125,7 @@ www.formadv.info
 www.formenterazen.info
 forthewomen.info
 forumwarez.info
+ww25.fotomodelle.info
 fotomodels.info
 www.fotoway.info
 fralo.info
@@ -57389,7 +57430,6 @@ joining.info
 joinmyworld.info
 jointventures.info
 joker7777.info
-www.joostbakker.info
 josieskitchen.info
 jpub.info
 jsong.info
@@ -57524,7 +57564,11 @@ lobsters.info
 lokalizacja.info
 longrich.info
 lookbox.info
-loveislife.info
+ww1.loveislife.info
+ww11.loveislife.info
+ww16.loveislife.info
+ww25.loveislife.info
+www.loveislife.info
 lovexxxpics.info
 lowescoupon.info
 lrcs.info
@@ -57770,9 +57814,6 @@ natureshop.info
 navzdy.info
 nbareplay.info
 neko299.info
-0.0www.ner-de-mi-nis-6.info
-ww25.0www.ner-de-mi-nis-6.info
-ww1.ner-de-mi-nis-6.info
 ww11.ner-de-mi-nis-6.info
 ww16.ner-de-mi-nis-6.info
 ww17.ner-de-mi-nis-6.info
@@ -57933,7 +57974,7 @@ autoconfig.peersview.piece.info
 dev.ww38.piece.info
 www.piece.info
 pilzerkrankungen.info
-www.piratubex.info
+piratubex.info
 pirotek.info
 pitztal.info
 piyopiyo.info
@@ -58714,6 +58755,7 @@ theineptowl.info
 theleader.info
 thema.info
 track.themaccleanup.info
+ww16.hostmaster.themediafire.info
 ww38.themediafire.info
 themediatrend.info
 thesensei.info
@@ -59163,7 +59205,6 @@ win-prize.info
 winner-topper-1.info
 wir9.info
 ww16.wishrobux.info
-ww17.wishrobux.info
 witze.info
 woco.info
 wonderweblink.info
@@ -72893,6 +72934,9 @@ www.mastermovie-hd.mobi
 masture.mobi
 mfunz.mobi
 mmetrix.mobi
+b.mmnetwork.mobi
+www.mmnetwork.mobi
+www1.mmnetwork.mobi
 mobi-zone.mobi
 mobi2u.mobi
 www.mobile-promo.mobi
@@ -98950,7 +98994,6 @@ proclivity.iponweb.net
 reims.iponweb.net
 rockabox.iponweb.net
 rome.iponweb.net
-sofia.iponweb.net
 tsukiji.iponweb.net
 verona.iponweb.net
 visualiq.iponweb.net
@@ -104937,11 +104980,6 @@ android4play.org
 androidsoundboard.org
 anefrank.org
 angletv.org
-ww1.anime-stars.org
-ww11.anime-stars.org
-ww17.anime-stars.org
-ww38.anime-stars.org
-www.anime-stars.org
 annaunivedu.org
 anonix.org
 anonymityonline.org
@@ -105259,6 +105297,9 @@ server1.consulfrance-edimbourg.org
 server2.consulfrance-edimbourg.org
 smtpauth.consulfrance-edimbourg.org
 sniper.consulfrance-edimbourg.org
+ww1.consulfrance-edimbourg.org
+ww17.consulfrance-edimbourg.org
+ww38.consulfrance-edimbourg.org
 www.consulfrance-edimbourg.org
 www1.consulfrance-edimbourg.org
 metrics.consumerreports.org
@@ -105462,7 +105503,6 @@ smtps.ecobanca.org
 smtpseguro.ecobanca.org
 sniper.ecobanca.org
 tiger.ecobanca.org
-ww1.ecobanca.org
 ww17.ecobanca.org
 zimbra.ecobanca.org
 ecosi.org
@@ -105572,6 +105612,7 @@ ns1.forumalew.org
 ns2.forumalew.org
 webdisk.forumalew.org
 whm.forumalew.org
+ww1.forumalew.org
 ww4.forumalew.org
 www.forumalew.org
 fotohost.org
