@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 350156
+# Ignored duplicates: 350180
 
 chameleon.ad
 pixel.ad
@@ -1874,9 +1874,6 @@ chrunlee.cn
 admaster.com.cn
 analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn
 ads.doit.com.cn
-1osz.elilaifs.cn
-38oa.elilaifs.cn
-m.elilaifs.cn
 www.elilaifs.cn
 lh3.googleadsserving.cn
 lh4.googleadsserving.cn
@@ -2773,6 +2770,7 @@ smetrics.aa.com
 aaabaseball.com
 aaagunsspokane.com
 aabbenefits.com
+aaddzz.com
 aaetnanavigator.com
 aalkabbr.com
 aalkabco.com
@@ -7110,7 +7108,6 @@ ameraicanidol.com
 amerenuemissouri.com
 amerianeagle.com
 americanadbags.com
-www.americanairlineticket.com
 americanbulldogtrainer.com
 americaneaglesoutfitter.com
 ep.americanexpress.com
@@ -7148,6 +7145,8 @@ ads.amigos.com
 banners.amigos.com
 amiibox.com
 amillionads.com
+mail.amirpirani.com
+www.amirpirani.com
 amishfurnaces.com
 amkomobile.com
 adv.amkoonline.com
@@ -11764,7 +11763,6 @@ downandroid.com
 bwp.download.com
 downloadcricketgamesforfree.com
 downloader-ig.com
-www.downloadorama.com
 downloadwap.com
 downonthedeck.com
 downyoutube.com
@@ -11864,6 +11862,7 @@ zimbra.dscoders.com
 dsequence.com
 dsglp.com
 dsgpy.com
+ww25.dsineycruise.com
 dssfeedback.com
 dstillery.com
 dtacplay.com
@@ -12396,7 +12395,6 @@ espnfootball.com
 estat.com
 estheticmeso.com
 estudiosdoscrias.com
-ww17.estudoadistancia.com
 esty.com
 etahub.com
 etargetnet.com
@@ -13218,6 +13216,7 @@ adamobi.g2afse.com
 adbiotics.g2afse.com
 adbird.g2afse.com
 adbreak.g2afse.com
+adda247.g2afse.com
 addattain.g2afse.com
 adera.g2afse.com
 adhit.g2afse.com
@@ -13421,6 +13420,7 @@ chessmob.g2afse.com
 chillofy.g2afse.com
 chipleads.g2afse.com
 chuchamobile.g2afse.com
+citadelmg.g2afse.com
 cleverfiles.g2afse.com
 clickadabra.g2afse.com
 clickermob.g2afse.com
@@ -13474,6 +13474,7 @@ dcaffiliate.g2afse.com
 decode.g2afse.com
 decotra.g2afse.com
 densure.g2afse.com
+devrims.g2afse.com
 dfiaffiliates.g2afse.com
 dhani.g2afse.com
 digiaff.g2afse.com
@@ -13497,6 +13498,8 @@ e-gaming.g2afse.com
 e-leads.g2afse.com
 ecopague.g2afse.com
 ecosm.g2afse.com
+ecpc100.g2afse.com
+edpartners.g2afse.com
 efektywnosc.g2afse.com
 eksmedia.g2afse.com
 ektainsure.g2afse.com
@@ -13514,6 +13517,7 @@ estrelabet.g2afse.com
 eurogroshi.g2afse.com
 everyads.g2afse.com
 exactlydigitalmedia.g2afse.com
+fastlane.g2afse.com
 feattraf.g2afse.com
 feeltapmedia.g2afse.com
 fenixlead.g2afse.com
@@ -13531,6 +13535,7 @@ forza.g2afse.com
 fpkmarketing.g2afse.com
 fraudshield.g2afse.com
 fresleads.g2afse.com
+frocket.g2afse.com
 funture.g2afse.com
 fuzeclick.g2afse.com
 g20profit.g2afse.com
@@ -13597,6 +13602,7 @@ kaadmedia.g2afse.com
 keepsolid.g2afse.com
 kenzatech.g2afse.com
 kimamedia.g2afse.com
+kimirica.g2afse.com
 kindlemobi.g2afse.com
 kirnal.g2afse.com
 kismia.g2afse.com
@@ -13604,6 +13610,7 @@ kiwimobile.g2afse.com
 kometa.g2afse.com
 kprime.g2afse.com
 kraken.g2afse.com
+l-a-b-a.g2afse.com
 labmediasolutions.g2afse.com
 laboutique.g2afse.com
 lambadapp.g2afse.com
@@ -13636,9 +13643,11 @@ lopez-international.g2afse.com
 lottoland.g2afse.com
 lumileads.g2afse.com
 luxeprofit.g2afse.com
+makovand.g2afse.com
 marketingdek.g2afse.com
 marktair.g2afse.com
 marlinads.g2afse.com
+mars4.g2afse.com
 mastersincash.g2afse.com
 maxtopmedia.g2afse.com
 mcrmedia.g2afse.com
@@ -13700,6 +13709,7 @@ nftdroper.g2afse.com
 niagara.g2afse.com
 nikitads.g2afse.com
 nolimit.g2afse.com
+novakid.g2afse.com
 nutzz.g2afse.com
 octafx.g2afse.com
 odds96.g2afse.com
@@ -13707,6 +13717,7 @@ offerbeast.g2afse.com
 offerhunter.g2afse.com
 offerseasy.g2afse.com
 olamob.g2afse.com
+olymptrade.g2afse.com
 omega.g2afse.com
 omgitalyoutcomes.g2afse.com
 oneenginemedia.g2afse.com
@@ -13716,6 +13727,7 @@ opmcpa.g2afse.com
 optadmedia.g2afse.com
 opulentmob.g2afse.com
 origindata.g2afse.com
+ownrwallet.g2afse.com
 oynxmedia.g2afse.com
 oziva.g2afse.com
 palmarads.g2afse.com
@@ -13754,6 +13766,7 @@ prtrackings.g2afse.com
 pttmedia.g2afse.com
 pubit.g2afse.com
 purifydigital.g2afse.com
+pushbrands.g2afse.com
 pvmedia.g2afse.com
 qazlead.g2afse.com
 qltmobi.g2afse.com
@@ -13814,6 +13827,7 @@ starryads.g2afse.com
 stellarmobi.g2afse.com
 stklx.g2afse.com
 stmarketing.g2afse.com
+stoloto.g2afse.com
 streambrand.g2afse.com
 strike.g2afse.com
 sugarmedia.g2afse.com
@@ -13857,6 +13871,7 @@ trafficred.g2afse.com
 trafficx.g2afse.com
 traffmedia.g2afse.com
 traffscale.g2afse.com
+travelme.g2afse.com
 tsartech.g2afse.com
 tsmedia.g2afse.com
 tsquad.g2afse.com
@@ -16306,7 +16321,10 @@ jetelechager.com
 jetlore.com
 ad.jetsoftware.com
 jetstarairline.com
-jeveuxunefemme.com
+mail.jeveuxunefemme.com
+webdisk.jeveuxunefemme.com
+wlamazcsrv1.jeveuxunefemme.com
+www.jeveuxunefemme.com
 jeweleryfactorydirect.com
 jewelpets.com
 ads.jewishfriendfinder.com
@@ -33131,6 +33149,7 @@ ndparking.com
 ndroip.com
 ads.ndtv1.com
 neatab.com
+needlessnorth.com
 needyneedle.com
 neewgoogle.com
 neglot.com
@@ -33490,7 +33509,6 @@ newsmaxfeednetwork.com
 assets.newsmaxwidget.com
 newstarads.com
 ww11.newsteroid.com
-ww17.newsteroid.com
 ww38.newsteroid.com
 xxx.newsteroid.com
 gc.newsweek.com
@@ -38693,6 +38711,7 @@ www2.pageforsafety.com
 zimbra.pageforsafety.com
 pageranktop.com
 metrics.pagerduty.com
+painstakingpickle.com
 promote.pair.com
 paisalaive.com
 pakaqasu.com
@@ -48385,6 +48404,7 @@ sodestream.com
 sodexorh.com
 sofatutur.com
 sofgozar.com
+ads.soft32.com
 softau.com
 track.software-codes.com
 softwarealltel.com
@@ -52973,7 +52993,6 @@ email.webtrends.com
 enterpriseenrollment.webtrends.com
 generator.webtrends.com
 go.webtrends.com
-h.webtrends.com
 itservices.webtrends.com
 kb.webtrends.com
 license.webtrends.com
@@ -53249,11 +53268,32 @@ a.wishabi.com
 b.wishabi.com
 authsmtp.wishrooms.com
 barracuda.wishrooms.com
+gateway.wishrooms.com
+hermes.wishrooms.com
+home.wishrooms.com
+host.wishrooms.com
+m.wishrooms.com
+mail01.wishrooms.com
+mail10.wishrooms.com
+mail3.wishrooms.com
+mail8.wishrooms.com
 mailbox.wishrooms.com
+mailgw.wishrooms.com
+mailhost.wishrooms.com
 mailin.wishrooms.com
-a.mx.wishrooms.com
+ms.wishrooms.com
+mx.wishrooms.com
+mx0.wishrooms.com
+mx02.wishrooms.com
+mx4.wishrooms.com
+ns1.wishrooms.com
+po.wishrooms.com
+poczta.wishrooms.com
+relay1.wishrooms.com
 server1.wishrooms.com
 site.wishrooms.com
+smtp01.wishrooms.com
+srv.wishrooms.com
 ww25.wishrooms.com
 ww35.wishrooms.com
 ww38.wishrooms.com
@@ -55003,7 +55043,6 @@ zdravykorinek.com
 zealousfield.com
 zeanhot.com
 zeankickoff.com
-www.zedgames.com
 zedo.com
 zeegallery.com
 zemanta.com
@@ -55113,7 +55152,6 @@ li.ziffimages.com
 cdn.ziffstatic.com
 zigifun.com
 keystone.zillow.com
-www.zillowmap.com
 zineone.com
 zingmobiledev.com
 zinimaya.com
@@ -55333,7 +55371,6 @@ bannerads.de
 www1.belboon.de
 bestsrv.de
 adserver.betandwin.de
-binarybusiness.de
 www.bioverlag-online.de
 bitcoin-cashcard.de
 bitcoin-pocket.de
@@ -56407,6 +56444,7 @@ ansatsu.info
 answkey.info
 antilles.info
 antiviruspro.info
+ww17.aplgo.info
 ww3.aplgo.info
 auth.applifier.info
 ci.applifier.info
@@ -56636,14 +56674,7 @@ cdn.bonertraffic.info
 t.bonertraffic.info
 booke.info
 bookgames.info
-api.boostads.info
-file.boostads.info
-file1.boostads.info
-get3.boostads.info
-mvideo.boostads.info
-ww1.boostads.info
-ww11.boostads.info
-ww16.boostads.info
+boostads.info
 bordj.info
 borenje.info
 boxofficetraffic.info
@@ -56673,6 +56704,7 @@ bundesliga-livestream.info
 bungalows.info
 buonchuyen.info
 busjav.info
+butsex.info
 calciummangel.info
 calme.info
 camersenat.info
@@ -56698,7 +56730,6 @@ casablanca.info
 cashtrafic.info
 caytre.info
 cborder.info
-ccinet.info
 wlamazcsrv1.cclove12.info
 ww1.cclove12.info
 ww16.cclove12.info
@@ -56818,7 +56849,6 @@ datentarife.info
 sg.datinggirls.info
 www.datinggirls.info
 datingss.info
-coolgames.datsfree.info
 datsfree.datsfree.info
 funnyandjokes.datsfree.info
 guiamemas.datsfree.info
@@ -57130,7 +57160,9 @@ www.formadv.info
 www.formenterazen.info
 forthewomen.info
 forumwarez.info
+mx.fotomodelle.info
 ww25.fotomodelle.info
+www.fotomodelle.info
 fotomodels.info
 www.fotoway.info
 fralo.info
@@ -57568,8 +57600,6 @@ lobsters.info
 lokalizacja.info
 longrich.info
 lookbox.info
-ww1.loveislife.info
-ww11.loveislife.info
 ww16.loveislife.info
 www.loveislife.info
 lovexxxpics.info
@@ -58263,7 +58293,7 @@ ta.renktir.info
 ww1.renktir.info
 ww25.renktir.info
 www.renktir.info
-repositorioslatinoamericanos.info
+www.repositorioslatinoamericanos.info
 resorthotels.info
 restplatz.info
 retete-culinare.info
@@ -58320,21 +58350,9 @@ salemfonden.info
 saludablemente.info
 samstha.info
 cpcontacts.sancarlosminas.info
-email.sancarlosminas.info
-imap1.sancarlosminas.info
 mail.sancarlosminas.info
-mailgw.sancarlosminas.info
-mailout.sancarlosminas.info
-mailserver.sancarlosminas.info
-mx.sancarlosminas.info
-mx2.sancarlosminas.info
-relay.sancarlosminas.info
-server.sancarlosminas.info
-smtpauth.sancarlosminas.info
 webdisk.sancarlosminas.info
 www.sancarlosminas.info
-www1.sancarlosminas.info
-www2.sancarlosminas.info
 sandino.info
 santelvxing.info
 sanvitolocapo.info
@@ -59174,6 +59192,7 @@ ww1.vu7ag.info
 ww17.vu7ag.info
 ww25.vu7ag.info
 ww38.vu7ag.info
+www.vu7ag.info
 waldgeist.info
 waldmuehle.info
 waldviertel.info
@@ -98939,6 +98958,7 @@ httplinkrepeater.net
 h0.t.hubspotemail.net
 hyperbanner.net
 hypizel.net
+i305175.net
 ibwin68.net
 ichec.net
 idealadvertising.net
@@ -102691,10 +102711,6 @@ alertmanager-antiabuse-production-iad2.k8s.sendgrid.net
 alertmanager-antiabuse-production-las1.k8s.sendgrid.net
 alertmanager-antiabuse-production-mdw1.k8s.sendgrid.net
 alertmanager-antiabuse-staging-mdw1.k8s.sendgrid.net
-alertmanager-delivery-production-iad2.k8s.sendgrid.net
-alertmanager-delivery-production-las1.k8s.sendgrid.net
-alertmanager-delivery-production-mdw1.k8s.sendgrid.net
-alertmanager-delivery-staging-mdw1.k8s.sendgrid.net
 alertmanager-production-iad2.k8s.sendgrid.net
 alertmanager-production-las1.k8s.sendgrid.net
 alertmanager-production-mdw1.k8s.sendgrid.net
@@ -102861,9 +102877,6 @@ hapi.mgmt-prod-a.fra1.k8s.sendgrid.net
 prometheus.mgmt-prod-a.fra1.k8s.sendgrid.net
 prometheus-aggregator.mgmt-prod-a.fra1.k8s.sendgrid.net
 go.k8s.sendgrid.net
-go-servernameapi-p1iad2.k8s.sendgrid.net
-go-servernameapi-p1las1.k8s.sendgrid.net
-go-servernameapi-p1mdw1.k8s.sendgrid.net
 godoc.k8s.sendgrid.net
 goldpinger-las.k8s.sendgrid.net
 grafana-antiabuse-production-iad2.k8s.sendgrid.net
@@ -105483,30 +105496,10 @@ ebase64encode.org
 ebibloteca.org
 ebliblioteca.org
 ebssa.org
-gate.ecobanca.org
-hermes.ecobanca.org
-internet.ecobanca.org
-mail12.ecobanca.org
-ww25.mailer.ecobanca.org
 ww25.mailout.ecobanca.org
-mailrelay.ecobanca.org
-mailserver.ecobanca.org
-ms.ecobanca.org
-mx0.ecobanca.org
-mx1.ecobanca.org
-mx20.ecobanca.org
-mx3.ecobanca.org
-mx5.ecobanca.org
-newmail.ecobanca.org
-relay2.ecobanca.org
 ww25.server.ecobanca.org
 ww25.server1.ecobanca.org
-smtps.ecobanca.org
-smtpseguro.ecobanca.org
-sniper.ecobanca.org
-tiger.ecobanca.org
 ww17.ecobanca.org
-zimbra.ecobanca.org
 ecosi.org
 ecyclemo.org
 mail.edificacio.org
@@ -105780,7 +105773,6 @@ mx20.hostgatorreview.org
 ns.hostgatorreview.org
 ns1.hostgatorreview.org
 ns2.hostgatorreview.org
-out.hostgatorreview.org
 poczta.hostgatorreview.org
 pop.hostgatorreview.org
 post.hostgatorreview.org
@@ -105794,7 +105786,6 @@ unbiased.hostgatorreview.org
 ww16.hostgatorreview.org
 ww17.hostgatorreview.org
 ww25.hostgatorreview.org
-www.hostgatorreview.org
 www1.hostgatorreview.org
 hotgirlxx.org
 househippo.org
@@ -105988,7 +105979,6 @@ londonmint.org
 lophisc.org
 louisianaschools.org
 ww25.lovetoshopping.org
-www.lovetoshopping.org
 lsleditor.org
 lspd.org
 lspl.org
