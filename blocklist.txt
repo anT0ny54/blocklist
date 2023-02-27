@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 350209
+# Ignored duplicates: 350217
 
 chameleon.ad
 pixel.ad
@@ -1483,7 +1483,6 @@ metrics.ctv.ca
 smetrics.ctv.ca
 d2cmedia.ca
 districtm.ca
-creative.dload.ca
 dns1.dnscrypt.ca
 dns2.dnscrypt.ca
 ads.emdee.ca
@@ -1874,7 +1873,6 @@ chrunlee.cn
 admaster.com.cn
 analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn
 ads.doit.com.cn
-www.elilaifs.cn
 lh3.googleadsserving.cn
 lh4.googleadsserving.cn
 lh5.googleadsserving.cn
@@ -8311,20 +8309,7 @@ biggishgames.com
 biggsfashionsny.com
 logger-load-balancer.bigmarker.com
 bigmouthboatsupply.com
-mail01.bigpoin.com
-mailin.bigpoin.com
-mailrelay.bigpoin.com
-mails.bigpoin.com
-ms.bigpoin.com
-mx01.bigpoin.com
-mxs.bigpoin.com
-posta.bigpoin.com
-postmaster.bigpoin.com
-relay2.bigpoin.com
-smtp01.bigpoin.com
-smtpauth.bigpoin.com
 ww11.bigpoin.com
-zimbra.bigpoin.com
 bigrtube.com
 bikerbitz.com
 bikezone-bg.com
@@ -8755,8 +8740,6 @@ brisbanetrains.com
 bristolmarriotthotel.com
 l1.britannica.com
 british-banners.com
-ww1.britishairwayjobs.com
-www.britishairwayjobs.com
 britishwirewheel.com
 britneyregiomontana9f.com
 broadboundary.com
@@ -9006,7 +8989,6 @@ camporenacimiento.com
 adserver.cams.com
 banners.cams.com
 can-ambrp.com
-ww5.canada-air.com
 ww1.canadanepalnet.com
 ww38.canadanepalnet.com
 www.canadanepalnet.com
@@ -11962,6 +11944,7 @@ jump.dynamicyield.com
 live-stream-feeds.dynamicyield.com
 live-stream-feeds-staging.dynamicyield.com
 login-playtech.dynamicyield.com
+login-staging.dynamicyield.com
 lp.dynamicyield.com
 marketing.dynamicyield.com
 md.dynamicyield.com
@@ -12252,10 +12235,6 @@ ads.electrocelt.com
 eleempleo.com
 elementsdayspasalon.com
 mail.elencantodeyemaya.com
-news.elencantodeyemaya.com
-qwertypanda.elencantodeyemaya.com
-ww17.elencantodeyemaya.com
-ww25.elencantodeyemaya.com
 ww38.elencantodeyemaya.com
 www.elencantodeyemaya.com
 elephantqueue.com
@@ -16316,7 +16295,6 @@ jetelechager.com
 jetlore.com
 ad.jetsoftware.com
 jetstarairline.com
-wlamazcsrv1.jeveuxunefemme.com
 jeweleryfactorydirect.com
 jewelpets.com
 ads.jewishfriendfinder.com
@@ -16826,6 +16804,7 @@ lackadaisicalkite.com
 lackplaying.com
 ladieslatina.com
 ladsp.com
+www.ladygag.com
 luna.r.lafamo.com
 lagag.com
 lakaq.com
@@ -47891,10 +47870,8 @@ ads-test.ads.sizmdx.com
 aka-fr.ads.sizmdx.com
 aka-in.ads.sizmdx.com
 aka-lm-fr.ads.sizmdx.com
-aka-lm-fr-v9.ads.sizmdx.com
 aka-lm-nv.ads.sizmdx.com
 aka-lm-oh.ads.sizmdx.com
-aka-lm-oh-v9.ads.sizmdx.com
 aka-nv.ads.sizmdx.com
 aka-oh.ads.sizmdx.com
 aka-or.ads.sizmdx.com
@@ -48931,7 +48908,6 @@ sponge-bugle-m3rs.squarespace.com
 squarw.com
 squirrelhands.com
 squolazoo.com
-www.squqre.com
 squsre.com
 srchbar.com
 srchmgra.com
@@ -52909,11 +52885,6 @@ wealthandwealth.com
 wearbasin.com
 wearehearken.com
 wearemiq.com
-ww1.weartherbug.com
-ww16.weartherbug.com
-ww25.weartherbug.com
-ww38.weartherbug.com
-www.weartherbug.com
 adstest.weather.com
 weatherchannwl.com
 weatherpembe.com
@@ -56461,6 +56432,7 @@ ww16.aso-sabo.info
 ww2.aso-sabo.info
 ww25.aso-sabo.info
 ww38.aso-sabo.info
+ww7.aso-sabo.info
 assafir-attounissia.info
 assilah.info
 assurancecomplementairesante.info
@@ -56844,10 +56816,8 @@ videonovedades.datsfree.info
 videonovedadestop.datsfree.info
 webdisk.datsfree.info
 wmsplus.datsfree.info
-ww1.datsfree.info
 ww11.datsfree.info
 ww17.datsfree.info
-ww2.datsfree.info
 ww25.datsfree.info
 ww38.datsfree.info
 www.datsfree.info
@@ -57547,6 +57517,7 @@ leber-galle.info
 lech.info
 lecinquieme.info
 lecoindesmangas.info
+legacy4life.info
 legalno.info
 legfrissebb.info
 legislatives.info
@@ -58330,6 +58301,7 @@ www.sancarlosminas.info
 sandino.info
 santelvxing.info
 sanvitolocapo.info
+sarplaninac.info
 satl.info
 saumyachopra.info
 ww16.sawahel.info
@@ -58508,6 +58480,7 @@ stiri-de-urgenta.info
 stmm.info
 stockmarket.info
 stoommachine.info
+stopillegals.info
 storysex.info
 streamingvf.info
 stroims.info
@@ -58744,8 +58717,7 @@ theineptowl.info
 theleader.info
 thema.info
 track.themaccleanup.info
-ww16.hostmaster.themediafire.info
-ww38.themediafire.info
+themediafire.info
 themediatrend.info
 thesensei.info
 threaded.info
@@ -59198,7 +59170,6 @@ wikiseda.info
 win-prize.info
 winner-topper-1.info
 wir9.info
-ww16.wishrobux.info
 witze.info
 woco.info
 wonderweblink.info
@@ -100377,7 +100348,6 @@ rvty.net
 sabrashop.net
 safefrome.net
 ww1.santacluse.net
-ww25.santacluse.net
 auth.satellitebr.net
 gateway.satellitebr.net
 home.satellitebr.net
@@ -100456,7 +100426,6 @@ uipus.semasio.net
 semester.net
 accounts-stage.sendgrid.net
 agg0000p1mdw1.sendgrid.net
-eu.api.sendgrid.net
 async-job-mgmt-preprod.sendgrid.net
 async-job-mgmt-production.sendgrid.net
 auth.sendgrid.net
@@ -105498,6 +105467,7 @@ dlbase.org
 dllr.org
 dmschool.org
 dmvaz.org
+ww1.server.dn888.org
 do-not-tracker.org
 revive.docmatic.org
 documentpro.org
@@ -105533,9 +105503,6 @@ ebase64encode.org
 ebibloteca.org
 ebliblioteca.org
 ebssa.org
-ww25.mailout.ecobanca.org
-ww25.server.ecobanca.org
-ww25.server1.ecobanca.org
 ecosi.org
 ecyclemo.org
 mail.edificacio.org
@@ -105679,9 +105646,6 @@ ftce.org
 fullertondogparkfoundation.org
 fumtica.org
 funpix.org
-ww1.futurecomp.org
-ww25.futurecomp.org
-ww38.futurecomp.org
 ww62.futurecomp.org
 ww82.futurecomp.org
 futurme.org
@@ -106187,7 +106151,6 @@ myshopify.org
 mytaxforms.org
 myworkplace.org
 myzou.org
-ww1.naarm.org
 nalcbp.org
 napolisotteranea.org
 narms.org
@@ -106763,6 +106726,7 @@ sabzevar.org
 saclibray.org
 sacparking.org
 safernet.org
+sagligim.org
 sahyadrisciencecollege.org
 saime.org
 sainikschool.org
@@ -107010,6 +106974,7 @@ theisa.org
 thejapanesekitchen.org
 thepartyanimal.org
 thepiratebayproxy.org
+thepiratebayt.org
 thepiratwbay.org
 thepirstebay.org
 theplazamall.org
