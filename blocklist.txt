@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 350217
+# Ignored duplicates: 350212
 
 chameleon.ad
 pixel.ad
@@ -2836,6 +2836,7 @@ acbjobs.com
 accelventures.com
 accessallstatebenefits.com
 accessiblemetrics.com
+www.accessjpmorgan.com
 accessmyflorida.com
 accessory4kid.com
 0.accountkit.com
@@ -7540,7 +7541,6 @@ arrivalist.com
 arrivenet.com
 arroheadexchange.com
 art-zaya.com
-www.artboydesign.com
 arthritiscancer.com
 metrics.articulate.com
 artistiksigns.com
@@ -7567,7 +7567,6 @@ asianpormovies.com
 asiansex8.com
 asifederalcreditunion.com
 asitentesvip.com
-www.askimd.com
 aslitv.com
 ads.aspalliance.com
 pixel.aspirei.com
@@ -7575,26 +7574,53 @@ assoc-amazon.com
 z-na.associates-amazon.com
 assure-link.com
 auth.astarelectronics.com
+com.astarelectronics.com
+comune.astarelectronics.com
+correo.astarelectronics.com
+direct.astarelectronics.com
+eml.astarelectronics.com
+gw.astarelectronics.com
 imap1.astarelectronics.com
 imap2.astarelectronics.com
+m.astarelectronics.com
+mail.astarelectronics.com
+mail1.astarelectronics.com
 mail10.astarelectronics.com
 mail2.astarelectronics.com
+mail3.astarelectronics.com
 mail5.astarelectronics.com
+mail6.astarelectronics.com
+mail8.astarelectronics.com
+mailgate.astarelectronics.com
 mailgw.astarelectronics.com
+mailin.astarelectronics.com
 mails.astarelectronics.com
+mailserver.astarelectronics.com
+mailsrv.astarelectronics.com
 mailx.astarelectronics.com
+mbox.astarelectronics.com
 mx.astarelectronics.com
+mx10.astarelectronics.com
 mx20.astarelectronics.com
+mx3.astarelectronics.com
 mxs.astarelectronics.com
+newmail.astarelectronics.com
 ns1.astarelectronics.com
 ns2.astarelectronics.com
+out.astarelectronics.com
 poczta.astarelectronics.com
 pop.astarelectronics.com
+post.astarelectronics.com
 postmaster.astarelectronics.com
 relay2.astarelectronics.com
+server.astarelectronics.com
 server2.astarelectronics.com
 sniper.astarelectronics.com
+ssl.astarelectronics.com
+vnet.astarelectronics.com
+vps.astarelectronics.com
 ww38.astarelectronics.com
+ww41.astarelectronics.com
 ww5.astarelectronics.com
 ww6.astarelectronics.com
 www.astarelectronics.com
@@ -8025,8 +8051,6 @@ dup.baidustatic.com
 bailyfitness.com
 bajajcapital.com
 bakerssolution.com
-ww1.bakesalehq.com
-www.bakesalehq.com
 balealsurfhotel.com
 balishadow.com
 ballbustingsocial.com
@@ -8162,6 +8186,7 @@ mailsrv.beginninglife.com
 mta.beginninglife.com
 mx02.beginninglife.com
 mx3.beginninglife.com
+ww25.ns2.beginninglife.com
 po.beginninglife.com
 relay2.beginninglife.com
 ww25.secure.beginninglife.com
@@ -8170,6 +8195,7 @@ ww1.beginninglife.com
 ww11.beginninglife.com
 ww25.beginninglife.com
 ww35.beginninglife.com
+ww5.beginninglife.com
 ww6.beginninglife.com
 ww84.beginninglife.com
 behavioralengine.com
@@ -8309,7 +8335,6 @@ biggishgames.com
 biggsfashionsny.com
 logger-load-balancer.bigmarker.com
 bigmouthboatsupply.com
-ww11.bigpoin.com
 bigrtube.com
 bikerbitz.com
 bikezone-bg.com
@@ -20096,11 +20121,8 @@ au-v10.events.data.microsoft.com
 au-v10c.events.data.microsoft.com
 au-v20.events.data.microsoft.com
 emea.events.data.microsoft.com
-eu-mobile.events.data.microsoft.com
-eu-office.events.data.microsoft.com
 eu-v10c.events.data.microsoft.com
 functional.events.data.microsoft.com
-ic3.events.data.microsoft.com
 jp-v10.events.data.microsoft.com
 jp-v10c.events.data.microsoft.com
 jp-v20.events.data.microsoft.com
@@ -20117,7 +20139,6 @@ office-g.events.data.microsoft.com
 pf.events.data.microsoft.com
 server.events.data.microsoft.com
 tb.events.data.microsoft.com
-teams.events.data.microsoft.com
 uk-mobile.events.data.microsoft.com
 uk-v20.events.data.microsoft.com
 umwatson.events.data.microsoft.com
@@ -32744,7 +32765,6 @@ myroitracking.com
 ajib.mysace.com
 aol.mysace.com
 auth.mysace.com
-autodiscover.mysace.com
 citrix.mysace.com
 eddie.mysace.com
 heart.mysace.com
@@ -32758,20 +32778,13 @@ mail2.mysace.com
 maione.mysace.com
 mar.mysace.com
 mp3dowload.mysace.com
-mx.mysace.com
-mx0.mysace.com
 mx01.mysace.com
 mx1.mysace.com
 pop.mysace.com
 profile.mysace.com
-relay.mysace.com
 secure.mysace.com
 secureimap.mysace.com
-securemail.mysace.com
 securepop.mysace.com
-smtpauth.mysace.com
-smtpmail.mysace.com
-smtps.mysace.com
 tmaione.mysace.com
 ww1.mysace.com
 ww16.mysace.com
@@ -39212,6 +39225,7 @@ playlistcom.com
 playmobileapp.com
 playmovieonline.com
 playnakedcams.com
+stats.playoncenter.com
 ads.playpilot.com
 playpopgames.com
 stats.playrix.com
@@ -51131,7 +51145,6 @@ uforanks.com
 ufukyamacevleri.com
 ugdturner.com
 uggs-euro.com
-ww5.uggsaustarlia.com
 uggsforall.com
 mediamgr.ugo.com
 uhcmedicaresolution.com
@@ -51755,7 +51768,6 @@ www.urbanairship.com
 www-origin.urbanairship.com
 urbaninsight.com
 urbanoutfithers.com
-ads.urgente24.com
 urgentwinupdates.com
 uropportunity.com
 uruswan.com
@@ -52954,7 +52966,6 @@ devc.webtrends.com
 email.webtrends.com
 enterpriseenrollment.webtrends.com
 generator.webtrends.com
-go.webtrends.com
 itservices.webtrends.com
 kb.webtrends.com
 license.webtrends.com
@@ -56312,8 +56323,6 @@ ww1.5yo.info
 7hari.info
 8591.info
 91girl5.info
-ww1.9696avmm.info
-www.9696avmm.info
 98hy.info
 99hy.info
 99zzyzx.info
@@ -56334,6 +56343,39 @@ actu30.info
 actualite.info
 actualites.info
 actupv.info
+1.adatmentes.info
+10.adatmentes.info
+11.adatmentes.info
+13.adatmentes.info
+14.adatmentes.info
+15.adatmentes.info
+17.adatmentes.info
+19.adatmentes.info
+2.adatmentes.info
+20.adatmentes.info
+21.adatmentes.info
+22.adatmentes.info
+23.adatmentes.info
+24.adatmentes.info
+25.adatmentes.info
+26.adatmentes.info
+27.adatmentes.info
+28.adatmentes.info
+29.adatmentes.info
+3.adatmentes.info
+30.adatmentes.info
+31.adatmentes.info
+32.adatmentes.info
+33.adatmentes.info
+34.adatmentes.info
+4.adatmentes.info
+5.adatmentes.info
+6.adatmentes.info
+7.adatmentes.info
+9.adatmentes.info
+ww1.adatmentes.info
+ww17.adatmentes.info
+www.adatmentes.info
 www.adblog.info
 adidasi-nike.info
 aditech.info
@@ -56403,6 +56445,8 @@ ansatsu.info
 answkey.info
 antilles.info
 antiviruspro.info
+magazin.aplgo.info
+ww25.ru.aplgo.info
 ww17.aplgo.info
 ww3.aplgo.info
 auth.applifier.info
@@ -56793,6 +56837,7 @@ curieux.info
 czmms.info
 dadbab.info
 dailymp3.info
+www.damdam.info
 danjeh.info
 darkbb.info
 cpcalendars.darknets.info
@@ -56804,21 +56849,9 @@ datentarife.info
 sg.datinggirls.info
 www.datinggirls.info
 datingss.info
-datsfree.datsfree.info
-funnyandjokes.datsfree.info
-guiamemas.datsfree.info
-hazlotu.datsfree.info
-mail.datsfree.info
-mvideo.datsfree.info
-recetasaludables.datsfree.info
-tipsdemujeres.datsfree.info
-videonovedades.datsfree.info
-videonovedadestop.datsfree.info
-webdisk.datsfree.info
-wmsplus.datsfree.info
-ww11.datsfree.info
+www.datsfree.datsfree.info
+ww25.wmsplus.datsfree.info
 ww17.datsfree.info
-ww25.datsfree.info
 ww38.datsfree.info
 www.datsfree.info
 davphantom.info
@@ -57713,6 +57746,7 @@ musicsun.info
 muskelschmerz.info
 ww17.muslimby.info
 ww25.muslimby.info
+ww38.muslimby.info
 www.muslimby.info
 muyouxian.info
 mydogecoin.info
@@ -72841,7 +72875,6 @@ spak.me
 ibksturm.synology.me
 systemlog.me
 telegrambots.me
-contribute.to-support.me
 play.play1.videos.vidto.me
 video.videos.vidto.me
 vipgames.me
@@ -100347,7 +100380,6 @@ www.rushvip.net
 rvty.net
 sabrashop.net
 safefrome.net
-ww1.santacluse.net
 auth.satellitebr.net
 gateway.satellitebr.net
 home.satellitebr.net
@@ -103126,7 +103158,6 @@ blackbox.mgmt-prod-a.iad2.k8s.sendgrid.net
 hapi.mgmt-prod-a.iad2.k8s.sendgrid.net
 prometheus.mgmt-prod-a.iad2.k8s.sendgrid.net
 prometheus-aggregator.mgmt-prod-a.iad2.k8s.sendgrid.net
-alertmanager.mail-pipeline.production.iad2.k8s.sendgrid.net
 alertmanager.asgard-prod-a.las1.k8s.sendgrid.net
 atc-web.asgard-prod-a.las1.k8s.sendgrid.net
 blackbox.asgard-prod-a.las1.k8s.sendgrid.net
@@ -103347,7 +103378,6 @@ blackbox.mgmt-prod-a.las1.k8s.sendgrid.net
 hapi.mgmt-prod-a.las1.k8s.sendgrid.net
 prometheus.mgmt-prod-a.las1.k8s.sendgrid.net
 prometheus-aggregator.mgmt-prod-a.las1.k8s.sendgrid.net
-alertmanager.mail-pipeline.production.las1.k8s.sendgrid.net
 lightstep-s1mdw1.k8s.sendgrid.net
 filterdrecv-p2iad2.mail-pipeline.k8s.sendgrid.net
 filterdrecv-p2las1.mail-pipeline.k8s.sendgrid.net
@@ -103691,11 +103721,9 @@ grafana.opseng-stage-a.mdw1.k8s.sendgrid.net
 metaldata.opseng-stage-a.mdw1.k8s.sendgrid.net
 prometheus.opseng-stage-a.mdw1.k8s.sendgrid.net
 pxe.opseng-stage-a.mdw1.k8s.sendgrid.net
-alertmanager.mail-pipeline.production.mdw1.k8s.sendgrid.net
 alertmanager.splunk-stage-a.mdw1.k8s.sendgrid.net
 blackbox.splunk-stage-a.mdw1.k8s.sendgrid.net
 prometheus.splunk-stage-a.mdw1.k8s.sendgrid.net
-alertmanager.mail-pipeline.staging.mdw1.k8s.sendgrid.net
 oauth-ei-stats-staging.k8s.sendgrid.net
 opseng-docs.k8s.sendgrid.net
 opseng-docs-stage.k8s.sendgrid.net
@@ -104461,7 +104489,6 @@ opinsightsweuoms.trafficmanager.net
 presence.trafficmanager.net
 sconsentit9.trafficmanager.net
 settingsfd-geo.trafficmanager.net
-teams-events-data.trafficmanager.net
 recommend.teams.trafficmanager.net
 telemetry-lcp.trafficmanager.net
 telemetry-sdk-inmobi-com-tm.trafficmanager.net
@@ -105194,7 +105221,6 @@ casual-hookup.org
 cat-tv.org
 ww25.catholiccomehome.org
 ww38.catholiccomehome.org
-www.catholiccomehome.org
 catholichierarchy.org
 catholictraditions.org
 cavote.org
@@ -105573,6 +105599,7 @@ familysearrch.org
 familysesrch.org
 familyshearch.org
 fantasy-world.org
+groups.fantasyrole.org
 magento.fantasyrole.org
 mail.fantasyrole.org
 staging.fantasyrole.org
@@ -105708,6 +105735,7 @@ guidstar.org
 gusinje-foundation.org
 gutenbrg.org
 guttenbergproject.org
+mail.gutwrenchingrpg.org
 gwinnetttech.org
 gxcttdvn.org
 gymnasticsacademy.org
