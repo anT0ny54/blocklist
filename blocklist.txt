@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 350212
+# Ignored duplicates: 350233
 
 chameleon.ad
 pixel.ad
@@ -7578,6 +7578,7 @@ com.astarelectronics.com
 comune.astarelectronics.com
 correo.astarelectronics.com
 direct.astarelectronics.com
+email.astarelectronics.com
 eml.astarelectronics.com
 gw.astarelectronics.com
 imap1.astarelectronics.com
@@ -7591,6 +7592,8 @@ mail3.astarelectronics.com
 mail5.astarelectronics.com
 mail6.astarelectronics.com
 mail8.astarelectronics.com
+mailbox.astarelectronics.com
+mailer.astarelectronics.com
 mailgate.astarelectronics.com
 mailgw.astarelectronics.com
 mailin.astarelectronics.com
@@ -7603,6 +7606,7 @@ mx.astarelectronics.com
 mx10.astarelectronics.com
 mx20.astarelectronics.com
 mx3.astarelectronics.com
+mx7.astarelectronics.com
 mxs.astarelectronics.com
 newmail.astarelectronics.com
 ns1.astarelectronics.com
@@ -7614,11 +7618,15 @@ post.astarelectronics.com
 postmaster.astarelectronics.com
 relay2.astarelectronics.com
 server.astarelectronics.com
+server1.astarelectronics.com
 server2.astarelectronics.com
+ww25.smtp2.astarelectronics.com
 sniper.astarelectronics.com
 ssl.astarelectronics.com
 vnet.astarelectronics.com
 vps.astarelectronics.com
+ww11.astarelectronics.com
+ww25.astarelectronics.com
 ww38.astarelectronics.com
 ww41.astarelectronics.com
 ww5.astarelectronics.com
@@ -8180,24 +8188,42 @@ beeketing.com
 beemray.com
 adimages.been.com
 beezzi.com
+authsmtp.beginninglife.com
+email.beginninglife.com
 hermes.beginninglife.com
-ww25.m.beginninglife.com
+m.beginninglife.com
+mail.beginninglife.com
+mail1.beginninglife.com
+mailgw.beginninglife.com
+mailserver.beginninglife.com
 mailsrv.beginninglife.com
+mailx.beginninglife.com
 mta.beginninglife.com
 mx02.beginninglife.com
+mx2.beginninglife.com
 mx3.beginninglife.com
-ww25.ns2.beginninglife.com
+ns.beginninglife.com
+ns2.beginninglife.com
 po.beginninglife.com
+poczta.beginninglife.com
+post.beginninglife.com
+postmaster.beginninglife.com
+relay.beginninglife.com
 relay2.beginninglife.com
-ww25.secure.beginninglife.com
+secure.beginninglife.com
+server.beginninglife.com
 srv.beginninglife.com
 ww1.beginninglife.com
 ww11.beginninglife.com
 ww25.beginninglife.com
 ww35.beginninglife.com
+ww38.beginninglife.com
 ww5.beginninglife.com
 ww6.beginninglife.com
 ww84.beginninglife.com
+www.beginninglife.com
+www1.beginninglife.com
+www2.beginninglife.com
 behavioralengine.com
 behenevis.com
 beibleid.com
@@ -11866,6 +11892,7 @@ dsequence.com
 dsglp.com
 dsgpy.com
 ww25.dsineycruise.com
+ww35.dsineycruise.com
 dssfeedback.com
 dstillery.com
 dtacplay.com
@@ -15872,7 +15899,6 @@ indiyastudychannel.com
 indo3.com
 indoctrinationthemovie.com
 indonesiasexarchives.com
-www.indoorgrillraclette.com
 indtgl.com
 adserver.industryarena.com
 industrybrains.com
@@ -16829,6 +16855,7 @@ lackadaisicalkite.com
 lackplaying.com
 ladieslatina.com
 ladsp.com
+ww1.ladygag.com
 www.ladygag.com
 luna.r.lafamo.com
 lagag.com
@@ -32759,38 +32786,16 @@ mypolicygeico.com
 mypowermall.com
 cobrowse.mypurecloud.com
 myroitracking.com
-2009.mysace.com
-713.mysace.com
-904.mysace.com
-ajib.mysace.com
-aol.mysace.com
 auth.mysace.com
-citrix.mysace.com
-eddie.mysace.com
-heart.mysace.com
-hotmailwww.mysace.com
-intersigncrafters.mysace.com
-intersivncrafters.mysace.com
-m.mysace.com
 mail.mysace.com
 mail1.mysace.com
-mail2.mysace.com
-maione.mysace.com
-mar.mysace.com
-mp3dowload.mysace.com
 mx01.mysace.com
 mx1.mysace.com
-pop.mysace.com
-profile.mysace.com
 secure.mysace.com
-secureimap.mysace.com
 securepop.mysace.com
-tmaione.mysace.com
-ww1.mysace.com
 ww16.mysace.com
 ww38.mysace.com
 www.mysace.com
-yahoo.mysace.com
 myscoobi.com
 mysexfantasies.com
 matrix-record.myshopify.com
@@ -52969,7 +52974,6 @@ generator.webtrends.com
 itservices.webtrends.com
 kb.webtrends.com
 license.webtrends.com
-live.webtrends.com
 lyncdiscover.webtrends.com
 mail.webtrends.com
 maintenance.webtrends.com
@@ -56284,7 +56288,6 @@ www.104ez.info
 www.1seautotoonorn.info
 cpcalendars.2clik.info
 mvideo.2clik.info
-webdisk.2clik.info
 ww1.2clik.info
 ww11.2clik.info
 ww16.2clik.info
@@ -56472,11 +56475,13 @@ mail.aso-sabo.info
 mvideo.aso-sabo.info
 sitemap.aso-sabo.info
 sitemaps.aso-sabo.info
+ww1.aso-sabo.info
 ww16.aso-sabo.info
 ww2.aso-sabo.info
 ww25.aso-sabo.info
 ww38.aso-sabo.info
 ww7.aso-sabo.info
+www.aso-sabo.info
 assafir-attounissia.info
 assilah.info
 assurancecomplementairesante.info
@@ -56837,6 +56842,8 @@ curieux.info
 czmms.info
 dadbab.info
 dailymp3.info
+ns1.damdam.info
+ns2.damdam.info
 www.damdam.info
 danjeh.info
 darkbb.info
@@ -56851,8 +56858,6 @@ www.datinggirls.info
 datingss.info
 www.datsfree.datsfree.info
 ww25.wmsplus.datsfree.info
-ww17.datsfree.info
-ww38.datsfree.info
 www.datsfree.info
 davphantom.info
 dcis.info
@@ -56876,6 +56881,7 @@ deepmix.info
 defereggental.info
 definitelycoming.info
 delhi.info
+www.delhicallgirls.info
 demisroussos.info
 denada.info
 denisa.info
@@ -57117,7 +57123,6 @@ filmix.info
 filmywap.info
 filmzenstream.info
 filoso.info
-www.financialnewsnow.info
 financialsecurity.info
 finanzaseinversiones7.info
 firstnews.info
@@ -57699,6 +57704,7 @@ mail2.mobile-damz.info
 ww1.mobile-damz.info
 ww2.mobile-damz.info
 www.mobile-damz.info
+ww1.mobile-tech.info
 ww25.mobile-tech.info
 www.mobile-tech.info
 mobilemovie.info
@@ -57868,14 +57874,9 @@ nomer-org.info
 nomosaic.info
 non-verbal.info
 nontonfilm.info
-mvideo.nonude-stars.info
-test7.nonude-stars.info
-ww1.nonude-stars.info
-ww16.nonude-stars.info
 ww17.nonude-stars.info
 ww25.nonude-stars.info
 ww38.nonude-stars.info
-www.nonude-stars.info
 noorani.info
 noraredenoma.info
 norrland.info
@@ -64562,6 +64563,7 @@ simpleanalytics.io
 2fsurfshark.sjv.io
 8greens.sjv.io
 8x8.sjv.io
+aaa-norcal.sjv.io
 aaptiv.sjv.io
 able.sjv.io
 academysportsoutdoors.sjv.io
@@ -64581,6 +64583,7 @@ advanced-system-repair-with-advancedvpn.sjv.io
 rockwell.aecaliper-cbd.sjv.io
 aemricangreetings.sjv.io
 aeroplanpts.sjv.io
+afloral.sjv.io
 age-up.sjv.io
 agoda.sjv.io
 ahead.sjv.io
@@ -64588,6 +64591,7 @@ ahrryanddavid.sjv.io
 aimi.sjv.io
 airepartners.sjv.io
 airport-lax.sjv.io
+airsign.sjv.io
 airvet.sjv.io
 akzodniwkaszybkaodnowa.sjv.io
 alaska.sjv.io
@@ -64596,6 +64600,7 @@ aldermore.sjv.io
 all-property-management.sjv.io
 allbrabdv212.sjv.io
 allcitizens.sjv.io
+allianzsingapore.sjv.io
 allied-schools.sjv.io
 allswellhome.sjv.io
 alltrueist.sjv.io
@@ -64609,6 +64614,7 @@ amadinecom.sjv.io
 amalgamated-bank-of-chicago.sjv.io
 amazfit.sjv.io
 amazing-clubs-beer-club.sjv.io
+amazonmusic.sjv.io
 ame4icangreetings.sjv.io
 ameeicangreetings.sjv.io
 ameficangreetings.sjv.io
@@ -64660,6 +64666,7 @@ amiricangreetings.sjv.io
 amon.sjv.io
 ampere.sjv.io
 ampli.sjv.io
+analanpet.sjv.io
 anarieldesign.sjv.io
 andaseat.sjv.io
 anddavid.sjv.io
@@ -64668,7 +64675,9 @@ animoto.sjv.io
 anolon.sjv.io
 antarestech.sjv.io
 anycubic.sjv.io
+aosom.sjv.io
 apmex.sjv.io
+appamaninc.sjv.io
 apple.sjv.io
 apple-singapore.sjv.io
 appleseed.sjv.io
@@ -64681,6 +64690,7 @@ argoz-socks.sjv.io
 arhaus.sjv.io
 aromaretail.sjv.io
 artpix.sjv.io
+arvin-goods.sjv.io
 ascot-x-charlie.sjv.io
 ashlees-powers.sjv.io
 asos.sjv.io
@@ -64698,11 +64708,13 @@ atlasvpn.sjv.io
 atletico.sjv.io
 atoms.sjv.io
 atsuko.sjv.io
+attraction-tickets.sjv.io
 atyourpaceonline.sjv.io
 ballaratcemeteries.com.auathletic-brewing-co.sjv.io
 audfree.sjv.io
 aurainc.sjv.io
 aurumplus.sjv.io
+avclabs.sjv.io
 aveda.sjv.io
 avibragrowth.sjv.io
 avid.sjv.io
@@ -64715,9 +64727,11 @@ b-great.sjv.io
 babbel.sjv.io
 baby-aspen.sjv.io
 babyaudioaffiliateprogram.sjv.io
+back40dogsllc.sjv.io
 bailey44.sjv.io
 bakerly.sjv.io
 balega.sjv.io
+ballsy.sjv.io
 ballwash.sjv.io
 balmlabs.sjv.io
 bandier.sjv.io
@@ -64732,6 +64746,7 @@ bbqguys.sjv.io
 bcfastumjuniorcm.sjv.io
 bd.sjv.io
 bdeuscom.sjv.io
+beachbed.sjv.io
 beachwaver.sjv.io
 beam.sjv.io
 becausemarket.sjv.io
@@ -64762,8 +64777,10 @@ bio-bidet.sjv.io
 bioclarity.sjv.io
 biotherm-ca.sjv.io
 bird-and-blend-tea-co.sjv.io
+bite.sjv.io
 bitmex.sjv.io
 blacksaltaudio.sjv.io
+blogladi.sjv.io
 bloom.sjv.io
 bloom-magic-ie.sjv.io
 blu-toothbrush.sjv.io
@@ -64777,6 +64794,7 @@ blueland.sjv.io
 bluemountain.sjv.io
 bodybuilding.sjv.io
 bogavia.sjv.io
+bold-fr.sjv.io
 bondi-sands.sjv.io
 bookey.sjv.io
 booklikeaboss.sjv.io
@@ -64808,8 +64826,10 @@ bright.sjv.io
 brightly.sjv.io
 brilliant.sjv.io
 brilliantearth.sjv.io
+britbox.sjv.io
 bronson-vitamins.sjv.io
 brooklyncandlestudio.sjv.io
+bubba.sjv.io
 budget.sjv.io
 bulb.sjv.io
 bulb-es.sjv.io
@@ -64830,6 +64850,8 @@ cafepress.sjv.io
 cake.sjv.io
 cakerush.sjv.io
 caliper-cbd.sjv.io
+calvinkleinmy.sjv.io
+calvinkleinsg.sjv.io
 camp.sjv.io
 campus-apparel.sjv.io
 cangreetings.sjv.io
@@ -64844,6 +64866,7 @@ cardboard-cutout-standees.sjv.io
 carecom.sjv.io
 carewell.sjv.io
 carolina-hemp-company.sjv.io
+carote.sjv.io
 carsmile032019.sjv.io
 carsonlife.sjv.io
 carvana.sjv.io
@@ -64859,14 +64882,19 @@ cerebral.sjv.io
 cerqular.sjv.io
 cgtrader.sjv.io
 chainreactioncycles.sjv.io
+charityvest.sjv.io
+charitywater.sjv.io
+charlesandcolvard.sjv.io
 charleskeitheu.sjv.io
 charleskeithhk.sjv.io
 checkmybodyhealth.sjv.io
+checkmybodyhealthgermany.sjv.io
 cheefbotanicals.sjv.io
 chefd.sjv.io
 chefprep.sjv.io
 chefs-plate.sjv.io
 chelsea-megastore.sjv.io
+cheribundi.sjv.io
 chi-forest.sjv.io
 chiefs.sjv.io
 chip.sjv.io
@@ -64886,6 +64914,7 @@ clearrear.sjv.io
 clearstem-skincare.sjv.io
 clevguard.sjv.io
 clicbot-mark.sjv.io
+cliclime.sjv.io
 clintons.sjv.io
 clixbus.sjv.io
 clothes-doctor.sjv.io
@@ -65016,6 +65045,7 @@ countryattire.sjv.io
 coupons.sjv.io
 courseradegreeaffiliateprogram.sjv.io
 covenanteyes.sjv.io
+cowgirl.sjv.io
 cozeypartnerships.sjv.io
 craft-gin-club.sjv.io
 crazydomains.sjv.io
@@ -65025,6 +65055,7 @@ creditspring.sjv.io
 crocs-australia.sjv.io
 crocs-fi.sjv.io
 crocs-fr.sjv.io
+cryptocom.sjv.io
 cubii.sjv.io
 cukubezpieczenia.sjv.io
 curvecard.sjv.io
@@ -65033,8 +65064,10 @@ cuvee-beauty.sjv.io
 cuzenmatcha.sjv.io
 cyber-jammies.sjv.io
 cyberghost.sjv.io
+cycling-frog.sjv.io
 cylanceconsumershop.sjv.io
 cymax.sjv.io
+cyme-affiliate-program.sjv.io
 mycatshop.czapple.sjv.io
 vykupmotoru.czapple.sjv.io
 legendyapovidky.gype.czchip.sjv.io
@@ -65042,6 +65075,7 @@ d.sjv.io
 daily-blooms.sjv.io
 daily-steals.sjv.io
 dash.sjv.io
+dave.sjv.io
 david.sjv.io
 day-owl.sjv.io
 day-trip.sjv.io
@@ -65077,6 +65111,9 @@ directcbdonline.sjv.io
 discoverdeposit.sjv.io
 disctopia.sjv.io
 disneytreasures.sjv.io
+diversyfund.sjv.io
+divvy.sjv.io
+diyustom.sjv.io
 docusign.sjv.io
 dogtv.sjv.io
 done.sjv.io
@@ -65084,6 +65121,7 @@ door-dash.sjv.io
 dor.sjv.io
 dosh.sjv.io
 drdavesbest.sjv.io
+drdennisgross.sjv.io
 dreame-app.sjv.io
 dreamfoam.sjv.io
 drinkcirkul.sjv.io
@@ -65091,6 +65129,7 @@ drivepeasy.sjv.io
 drizly.sjv.io
 drmarem4vmac.sjv.io
 drnorms.sjv.io
+drwhitneybowebeauty.sjv.io
 dsc-ca.sjv.io
 duca-del-cosma-us.sjv.io
 ducadelcosma.sjv.io
@@ -65105,6 +65144,7 @@ easi.sjv.io
 eastern-standard-provisions.sjv.io
 easyshed.sjv.io
 eaze-wellness.sjv.io
+eby.sjv.io
 ecloth.sjv.io
 eco-pea.sjv.io
 ecohotels.sjv.io
@@ -65118,17 +65158,20 @@ eetings.sjv.io
 efax-emea-countries.sjv.io
 eighteenb.sjv.io
 elementpackpro.sjv.io
+elgato.sjv.io
 elinens.sjv.io
 ellesse-uk.sjv.io
 ellos.sjv.io
 ellosdk.sjv.io
 ellosno.sjv.io
 ellosse.sjv.io
+elpumps.sjv.io
 elvis.sjv.io
 emamaco.sjv.io
 embergen.sjv.io
 emeritus-institute-of-management.sjv.io
 emmeco.sjv.io
+emmiol.sjv.io
 empiretoday.sjv.io
 encore.sjv.io
 england-fa-shop.sjv.io
@@ -65152,13 +65195,16 @@ eufy-us.sjv.io
 everleighbody.sjv.io
 everpretty-uk.sjv.io
 everprettyus.sjv.io
+everymarket.sjv.io
 evolve.sjv.io
+experience-oz.sjv.io
 explodingkittens.sjv.io
 eyebuydirect.sjv.io
 eyeson.sjv.io
 eytaxchat.sjv.io
 ez-prints.sjv.io
 fabkids.sjv.io
+fabletics.sjv.io
 fabletics-ca.sjv.io
 fabulous.sjv.io
 facetekmask.sjv.io
@@ -65167,6 +65213,7 @@ farberware.sjv.io
 fast-capital-360.sjv.io
 fastgrowingtrees.sjv.io
 fbomb.sjv.io
+fellow.sjv.io
 fflixbus.sjv.io
 apu.testidomainfenomeno.ficaliper-cbd.sjv.io
 fifththirdbank.sjv.io
@@ -65175,6 +65222,8 @@ figurestudentloanrefi.sjv.io
 fileviewerplus.sjv.io
 filmsupply.sjv.io
 filxbus.sjv.io
+finedge.sjv.io
+firstcard.sjv.io
 firstvet.sjv.io
 fitnessmentors.sjv.io
 fixbus.sjv.io
@@ -65253,6 +65302,7 @@ flixzbus.sjv.io
 fljxbus.sjv.io
 flkixbus.sjv.io
 floixbus.sjv.io
+florasis.sjv.io
 florists.sjv.io
 floxbus.sjv.io
 flpixbus.sjv.io
@@ -65270,9 +65320,12 @@ foco-uk.sjv.io
 foixbus.sjv.io
 folixbus.sjv.io
 foodkick.sjv.io
+for-goodness-sake-omgyes.sjv.io
 forbarefeet.sjv.io
+foreverwellnutrition.sjv.io
 foreyes.sjv.io
 forks-over-knives.sjv.io
+forlovelemons.sjv.io
 formuladesk.sjv.io
 forwellness.sjv.io
 found-health.sjv.io
@@ -65280,6 +65333,7 @@ foundation-campaign-1317757.sjv.io
 foundation-campaign-2690585.sjv.io
 foundation-campaign-2796842.sjv.io
 foundation-campaign-3244182.sjv.io
+fourleafrover.sjv.io
 foursigmatic.sjv.io
 fox-bet.sjv.io
 foxtel-au.sjv.io
@@ -65310,7 +65364,10 @@ fundthatflip.sjv.io
 funimation.sjv.io
 futurecapital.sjv.io
 fwdindonesia.sjv.io
+fwdsingapore.sjv.io
 fylm.sjv.io
+fytoo.sjv.io
+gales.sjv.io
 gameclub.sjv.io
 gannett.sjv.io
 gant-es.sjv.io
@@ -65333,6 +65390,7 @@ getopta.sjv.io
 getpenfold.sjv.io
 getsmarter.sjv.io
 getvi.sjv.io
+gevril.sjv.io
 ghostbed.sjv.io
 ghostvapes.sjv.io
 ghostwhite.sjv.io
@@ -65345,14 +65403,18 @@ gilletteuk.sjv.io
 gilton.sjv.io
 giorgioarmanibeauty.sjv.io
 gitzoindiegogo.sjv.io
+giver.sjv.io
 givesunshine.sjv.io
 gladskin.sjv.io
 glamnetic.sjv.io
 glarysoft.sjv.io
+gleim-publications-inc.sjv.io
 glenmuir.sjv.io
 glo-skin-beauty.sjv.io
 globalgolf.sjv.io
 glossier.sjv.io
+glovescom.sjv.io
+gnarlynutrition.sjv.io
 go2bank.sjv.io
 goalry.sjv.io
 goat.sjv.io
@@ -65360,6 +65422,9 @@ gobble.sjv.io
 goboo.sjv.io
 goeurotravel.sjv.io
 gohenry-uk.sjv.io
+going.sjv.io
+goldcoast.sjv.io
+golfpartner.sjv.io
 good-boy-studios.sjv.io
 goodsey.sjv.io
 googlefiber.sjv.io
@@ -65381,8 +65446,10 @@ growcredit.sjv.io
 growtal.sjv.io
 gs.sjv.io
 firma-e.com.gtathletic-brewing-co.sjv.io
+guavafamily.sjv.io
 guide.sjv.io
 guitarebooks.sjv.io
+guitareo.sjv.io
 gumdrop.sjv.io
 guruenergy.sjv.io
 h1rryanddavid.sjv.io
@@ -65486,12 +65553,14 @@ heaven-skincare.sjv.io
 hedley-and-bennett.sjv.io
 hekka.sjv.io
 hellodivorce.sjv.io
+hellofresh-jp.sjv.io
 hellofresh-uk.sjv.io
 hellofresheuro.sjv.io
 help-your-diabetes.sjv.io
 helton.sjv.io
 hemp-tealicious.sjv.io
 hempfusion.sjv.io
+hero-bread.sjv.io
 hestan-smart-cue.sjv.io
 hevis.sjv.io
 hey-dude-shoes.sjv.io
@@ -65558,14 +65627,17 @@ hilyon.sjv.io
 hilzon.sjv.io
 hilzton.sjv.io
 himlton.sjv.io
+hims.sjv.io
 hiolton.sjv.io
 hioton.sjv.io
 hipanema.sjv.io
 hiplton.sjv.io
 hipton.sjv.io
 hired.sjv.io
+hisroom.sjv.io
 hiton.sjv.io
 hiulton.sjv.io
+hive.sjv.io
 hiyo.sjv.io
 hjilton.sjv.io
 hjlton.sjv.io
@@ -65575,13 +65647,16 @@ hlton.sjv.io
 hohem-affiliate.sjv.io
 hoilton.sjv.io
 holistik-wellness.sjv.io
+holly-and-hugo.sjv.io
 hollyweed-cbd.sjv.io
 holton.sjv.io
 holyenergy.sjv.io
 homage.sjv.io
 homecourt.sjv.io
 homedepot.sjv.io
+hometownhero.sjv.io
 honeylove.sjv.io
+honeystinger.sjv.io
 hook360.sjv.io
 horryanddavid.sjv.io
 hostgator-india.sjv.io
@@ -65589,6 +65664,7 @@ hostinger.sjv.io
 hotel-chocolat.sjv.io
 house-of-watches.sjv.io
 housekeep.sjv.io
+houseofintuition.sjv.io
 howe-tools-affiliate-programme.sjv.io
 hp-au.sjv.io
 hpgermany2961111.sjv.io
@@ -65616,6 +65692,7 @@ iggroup.sjv.io
 igkhair.sjv.io
 ihg.sjv.io
 ihlton.sjv.io
+ihoverboarduk.sjv.io
 ikonick.sjv.io
 immune-tree.sjv.io
 imobie.sjv.io
@@ -65627,6 +65704,7 @@ inboxdollars.sjv.io
 inboxpounds.sjv.io
 india.sjv.io
 indicaaffiliates.sjv.io
+indieleeco.sjv.io
 inhale-health.sjv.io
 insidetracker.sjv.io
 instacart-shoppers.sjv.io
@@ -99591,7 +99669,8 @@ myxmovies.net
 devint.mzbcdn.net
 prod.mzbcdn.net
 qa.mzbcdn.net
-n-mobile.net
+th.n-mobile.net
+www.n-mobile.net
 naghtytube.net
 naugtytube.net
 nb69.net
@@ -104952,9 +105031,6 @@ abercrombieworkout.org
 abetka-logopedka.org
 ww17.aboriginalpassportceremony.org
 ww38.aboriginalpassportceremony.org
-www1.aboriginalpassportceremony.org
-www42.aboriginalpassportceremony.org
-www6.aboriginalpassportceremony.org
 aboutdrugtesting.org
 abschool.org
 academiapensamientocritico.org
@@ -105542,7 +105618,6 @@ edjin.org
 eduteca.org
 eiceresources.org
 eisenhoweracademy.org
-www.el-tiempo.org
 eldercohousing.org
 elemnts.org
 elhar.org
@@ -105603,6 +105678,7 @@ groups.fantasyrole.org
 magento.fantasyrole.org
 mail.fantasyrole.org
 staging.fantasyrole.org
+ww1.fantasyrole.org
 ww43.fantasyrole.org
 www.fantasyrole.org
 farmewg.org
@@ -105735,6 +105811,7 @@ guidstar.org
 gusinje-foundation.org
 gutenbrg.org
 guttenbergproject.org
+cpcalendars.gutwrenchingrpg.org
 mail.gutwrenchingrpg.org
 gwinnetttech.org
 gxcttdvn.org
@@ -105811,7 +105888,6 @@ smtp01.hostgatorreview.org
 smtpauth.hostgatorreview.org
 smtpseguro.hostgatorreview.org
 unbiased.hostgatorreview.org
-ww16.hostgatorreview.org
 ww17.hostgatorreview.org
 ww25.hostgatorreview.org
 www1.hostgatorreview.org
@@ -106006,7 +106082,6 @@ logview.org
 londonmint.org
 lophisc.org
 louisianaschools.org
-ww25.lovetoshopping.org
 lsleditor.org
 lspd.org
 lspl.org
@@ -111759,6 +111834,7 @@ iad.anm.co.uk
 ads.aol.co.uk
 a1.api.bbc.co.uk
 r.bbci.co.uk
+click.e.bbcmail.co.uk
 t.news.browns-restaurants.co.uk
 captify.co.uk
 adserver.cherryfind.co.uk
