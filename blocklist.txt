@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 348957
+# Ignored duplicates: 348952
 
 chameleon.ad
 pixel.ad
@@ -1417,6 +1417,7 @@ ads.expat-blog.biz
 findmedia.biz
 api.freshaddress.biz
 fun2u.biz
+www.load03.biz
 mixmarket.biz
 mobi2u.biz
 smart.mobopromo.biz
@@ -5591,6 +5592,7 @@ adskpak.com
 adsmain.com
 adsmart.com
 adsmartracker.com
+www.adsmatcher.com
 adsmogo.com
 adsmoloco.com
 adsnative.com
@@ -7513,7 +7515,6 @@ aplaydigital.com
 aplaymusic.com
 aplimarathi.com
 aplimarati.com
-rd.apmebf.com
 pixel.app-cast.com
 app-measurement.com
 diffuser-cdn.app-us1.com
@@ -8456,8 +8457,6 @@ beybleybattle.com
 beyodntherack.com
 beyonceporn.com
 beyonstherack.com
-barnesandnoble.bfast.com
-bn.bfast.com
 bfbs-tv.com
 bfmio.com
 bgbeatle.com
@@ -32260,6 +32259,7 @@ wgm.mmstat.com
 yt.mmstat.com
 yt1.mmstat.com
 yt2.mmstat.com
+t.mmtrkr.com
 cdn.mmtro.com
 dco.mmtro.com
 err.mmtro.com
@@ -50615,6 +50615,7 @@ ww1.thankkyou.com
 ww16.thankkyou.com
 ww25.thankkyou.com
 ww38.thankkyou.com
+www.thankkyou.com
 thankypu.com
 tharbadir.com
 thathubertkitchen.com
@@ -56819,6 +56820,7 @@ ww38.4downfiles1.info
 www.4downfiles1.info
 ww17.4health.info
 ww2.4health.info
+www.4health.info
 4shared.info
 52youwu.info
 5fan.info
@@ -56938,6 +56940,7 @@ alsahabmedia.info
 alterzon.info
 amagrlsuk.info
 ww17.amandal.info
+www.amandal.info
 amazingporn.info
 amazonshoppingindir.info
 amine.info
@@ -56981,6 +56984,7 @@ webdisk.arrillo.info
 ww1.arrillo.info
 ww17.arrillo.info
 ww25.arrillo.info
+www.arrillo.info
 artecrochet.info
 arterienverkalkung.info
 artgaleria.info
@@ -57009,6 +57013,7 @@ ww1.astralman.info
 ww11.astralman.info
 ww17.astralman.info
 ww25.astralman.info
+www.astralman.info
 astrofx.info
 atate.info
 atbt.info
@@ -57190,6 +57195,7 @@ ww17.bimba.info
 ww2.bimba.info
 ww25.bimba.info
 ww38.bimba.info
+www.bimba.info
 binarytribune.info
 binseach.info
 bioengineers.info
@@ -59283,6 +59289,7 @@ ww25.sweetspotgolf.info
 ww38.sweetspotgolf.info
 ww7.sweetspotgolf.info
 ww8.sweetspotgolf.info
+www.sweetspotgolf.info
 swiss-military.info
 sworks.info
 sxxx.info
@@ -59333,6 +59340,7 @@ ww1.taynimiro.info
 ww17.taynimiro.info
 ww25.taynimiro.info
 ww38.taynimiro.info
+www.taynimiro.info
 antispam.tch.info
 auth.tch.info
 authsmtp.tch.info
@@ -62055,7 +62063,6 @@ ebay.ntv.io
 edge.ntv.io
 fortune-com-edge.ntv.io
 i.ntv.io
-moneywise-edge.ntv.io
 personaldefenseworld-com-edge.ntv.io
 phillymag-com-edge.ntv.io
 preview.ntv.io
@@ -109097,6 +109104,7 @@ tailsweep.se
 tagm.tchibo.se
 tracking.tidningenangermanland.se
 tracking.tidningenharjedalen.se
+statsapi.tiendeo.se
 stat.torgen.se
 tourn.se
 tracking.tranastidning.se
@@ -112390,6 +112398,14 @@ cmp.digitru.st
 cmp-origin-master.digitru.st
 cmp-origin-master-cf.digitru.st
 dac.digitru.st
+intentiq.digitru.st
+lijit.digitru.st
+mediamath.digitru.st
+p161.digitru.st
+prebid.digitru.st
+rubicon.digitru.st
+trustx.digitru.st
+www.digitru.st
 www.po.st
 upp.st
 www.flybi.store
@@ -113084,6 +113100,7 @@ dabing77.xyz
 dobmobile.xyz
 enemy-adult-scared-there.xyz
 play.estream.xyz
+www.extrk.xyz
 fadb.xyz
 fstats.xyz
 www.game.xyz
