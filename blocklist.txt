@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 348961
+# Ignored duplicates: 349060
 
 chameleon.ad
 pixel.ad
@@ -1874,6 +1874,9 @@ chrunlee.cn
 admaster.com.cn
 analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn
 ads.doit.com.cn
+1osz.elilaifs.cn
+38oa.elilaifs.cn
+m.elilaifs.cn
 lh3.googleadsserving.cn
 lh4.googleadsserving.cn
 lh5.googleadsserving.cn
@@ -9204,7 +9207,6 @@ camporenacimiento.com
 adserver.cams.com
 banners.cams.com
 can-ambrp.com
-ww1.canadanepalnet.com
 canalimoveisbahia.com
 canalinternational.com
 cananalcaracol.com
@@ -11856,7 +11858,6 @@ directvtotalreward.com
 adserver.directworksmedia.com
 dirtylittlehelpers.com
 disableplanet.com
-click.discord.com
 discorverykids.com
 discountanimedvd.com
 discountclick.com
@@ -13427,7 +13428,6 @@ frtyj.com
 frugalmachinist.com
 frugalrushcap.com
 frugalsworld.com
-ww1.fryetv.com
 frytolay.com
 fsibog.com
 fstracking.com
@@ -15486,6 +15486,8 @@ hdcum.com
 hdfreemovie007.com
 hdgvidfir.com
 hdoup.com
+ww11.hdpaperz.com
+ww25.hdpaperz.com
 hdscout.com
 hdvitnam.com
 headerlift.com
@@ -17632,6 +17634,10 @@ courierpress.localiq.com
 crm.localiq.com
 crm-qa.localiq.com
 crm-qa-b.localiq.com
+cts-qa-aus.localiq.com
+cts-qa-can.localiq.com
+cts-qa-gbr.localiq.com
+cts-qa-usa.localiq.com
 ctsadmingatewayv2-prod-aus.localiq.com
 ctsadmingatewayv2-prod-can.localiq.com
 ctsadmingatewayv2-prod-gbr.localiq.com
@@ -17770,6 +17776,7 @@ offerservice-stage-can.localiq.com
 offerservice-stage-gbr.localiq.com
 offerservice-stage-usa.localiq.com
 ohio.localiq.com
+old.localiq.com
 order.localiq.com
 pal-item.localiq.com
 paymentservice-qa-aus.localiq.com
@@ -17807,13 +17814,21 @@ salesapps-can.localiq.com
 salesapps-can-qa.localiq.com
 salesapps-usa.localiq.com
 salesapps-usa-qa.localiq.com
+salestool-aus.localiq.com
+salestool-can.localiq.com
+salestool-dev-usa.localiq.com
+salestool-gbr.localiq.com
+salestool-partner-can.localiq.com
+salestool-partner-dev-usa.localiq.com
 salestool-partner-qa-aus.localiq.com
 salestool-partner-qa-can.localiq.com
 salestool-partner-qa-usa.localiq.com
+salestool-partner-usa.localiq.com
 salestool-qa-aus.localiq.com
 salestool-qa-can.localiq.com
 salestool-qa-gbr.localiq.com
 salestool-qa-usa.localiq.com
+salestool-usa.localiq.com
 scsun-news.localiq.com
 sctimes.localiq.com
 search-aus.localiq.com
@@ -17835,6 +17850,8 @@ serviceassignment-usa-prod.localiq.com
 serviceassignment-usa-qa.localiq.com
 sheboyganpress.localiq.com
 shreveporttimes.localiq.com
+siteservice-prod-usa.localiq.com
+siteservice-qa-usa.localiq.com
 socialpresence.localiq.com
 spanningthesec.localiq.com
 sportsimages.localiq.com
@@ -55609,6 +55626,7 @@ zealousfield.com
 zeanhot.com
 zeankickoff.com
 ww35.zedgames.com
+www.zedgames.com
 zedo.com
 zeegallery.com
 zemanta.com
@@ -57677,7 +57695,6 @@ www.ejabah.info
 el-youm.info
 www.eldolarparalelo.info
 electromenager.info
-ww1.elisleri.info
 www.elisleri.info
 eltt.info
 elweva.info
@@ -57708,6 +57725,16 @@ esperiabg.info
 essmile.info
 estacionesnauticas.info
 www.estadosyfinanzas.info
+freescout.etain.info
+hotspot.etain.info
+license.etain.info
+nova.etain.info
+paytool.etain.info
+platform.etain.info
+pp.etain.info
+ww1.etain.info
+ww17.etain.info
+www.etain.info
 etarin.info
 ethanfletcher.info
 euro-news.info
@@ -57779,6 +57806,9 @@ flixzone.info
 footballstreamings.info
 forbest.info
 mail.forex-web.info
+mx-2.forex-web.info
+ww1.forex-web.info
+ww11.forex-web.info
 ww16.forex-web.info
 ww17.forex-web.info
 ww25.forex-web.info
@@ -58615,7 +58645,6 @@ nomer-org.info
 nomosaic.info
 non-verbal.info
 nontonfilm.info
-ww25.nonude-stars.info
 ww38.nonude-stars.info
 noorani.info
 noraredenoma.info
@@ -58969,6 +58998,7 @@ ww16.psylocke.info
 ww25.psylocke.info
 www.psylocke.info
 zmail.psylocke.info
+pubg-mobile.info
 pubnative.info
 puntolimpio.info
 pusat-bahasa.info
@@ -59518,7 +59548,6 @@ teleplay.info
 teleshkronjapost.info
 telugusexstories.info
 templotibidabo.info
-ww1.tendance.info
 www.tendance.info
 play.tercabilis.info
 teresianas.info
@@ -59740,9 +59769,7 @@ yts.ukbypass.info
 ukryj.info
 www.ultransport.info
 ww1.uminohi2018.info
-ww25.uminohi2018.info
 ww7.uminohi2018.info
-www.uminohi2018.info
 hotspot.umkm.info
 www.umkm.info
 umon.info
@@ -78458,6 +78485,7 @@ eddie-bauer-us.7eer.net
 educationcom.7eer.net
 efollet.7eer.net
 efollett.7eer.net
+eframe.7eer.net
 eldercare.7eer.net
 electricfireplaces.7eer.net
 emailyoyo.7eer.net
@@ -78475,6 +78503,7 @@ familytime-premium.7eer.net
 famous-smoke.7eer.net
 fantasy-football-commissioner.7eer.net
 faxitfast.7eer.net
+five11tactical.7eer.net
 fivefourclub.7eer.net
 flaviar.7eer.net
 foodservice-superstore.7eer.net
@@ -78483,6 +78512,7 @@ freedompop.7eer.net
 fridaytieday.7eer.net
 frys-prod.7eer.net
 furnitureuk.7eer.net
+gallerydirectir.7eer.net
 ganzestore.7eer.net
 gemvara.7eer.net
 geniezip.7eer.net
@@ -78517,6 +78547,7 @@ hutterstock.7eer.net
 hyperbolicsoftware.7eer.net
 i-do-now-i-dont-lead.7eer.net
 icodes.7eer.net
+idealshape.7eer.net
 idnid.7eer.net
 ashleafshoppingcentre.ieshutterstock.7eer.net
 imageresult.7eer.net
@@ -78639,6 +78670,7 @@ pottery-barn.7eer.net
 powercobrand.7eer.net
 prize-candle-sale.7eer.net
 prod.7eer.net
+professional-counseling.7eer.net
 protect-your-bubble.7eer.net
 pyrx.7eer.net
 qdf.7eer.net
@@ -78717,6 +78749,7 @@ test-customer-tracking.7eer.net
 test-customer-tracking2.7eer.net
 the-bouqscom.7eer.net
 the-company-store.7eer.net
+theboardbasement.7eer.net
 thechildrensplace.7eer.net
 thegreatcourses.7eer.net
 thegreatcoursesplus.7eer.net
@@ -100738,6 +100771,7 @@ eu-big-cone.cell.eu.nr-data.net
 eu-bitter-pack.cell.eu.nr-data.net
 eu-brave-experience.cell.eu.nr-data.net
 eu-broken-mug.cell.eu.nr-data.net
+eu-bye-felicia.cell.eu.nr-data.net
 eu-chumba-wamba.cell.eu.nr-data.net
 eu-clever-drop.cell.eu.nr-data.net
 eu-cute-turtle.cell.eu.nr-data.net
@@ -100753,6 +100787,7 @@ eu-high-rabbit.cell.eu.nr-data.net
 eu-high-road.cell.eu.nr-data.net
 eu-jaded-stage.cell.eu.nr-data.net
 eu-lesser-forest.cell.eu.nr-data.net
+eu-light-coffee.cell.eu.nr-data.net
 eu-loyal-cake.cell.eu.nr-data.net
 eu-meek-maybe.cell.eu.nr-data.net
 eu-mere-hospital.cell.eu.nr-data.net
@@ -106035,14 +106070,15 @@ aauk.org
 abcya2.org
 abercrombieworkout.org
 abetka-logopedka.org
-ww17.aboriginalpassportceremony.org
-ww38.aboriginalpassportceremony.org
 aboutdrugtesting.org
 abschool.org
 academiapensamientocritico.org
 acanadogfood.org
 accaglobal.org
 accessplus.org
+ww1.accreditedlifeexperiencedegree.org
+ww17.accreditedlifeexperiencedegree.org
+ww38.accreditedlifeexperiencedegree.org
 accumed.org
 acenet.org
 achorusline.org
@@ -106417,7 +106453,6 @@ casls.org
 cassata.org
 casual-hookup.org
 cat-tv.org
-ww38.catholiccomehome.org
 catholichierarchy.org
 catholictraditions.org
 cavote.org
@@ -106693,6 +106728,7 @@ dllr.org
 dmschool.org
 dmvaz.org
 ww1.server.dn888.org
+ww1.dn888.org
 do-not-tracker.org
 revive.docmatic.org
 documentpro.org
@@ -106951,6 +106987,7 @@ guttenbergproject.org
 cpcalendars.gutwrenchingrpg.org
 cpcontacts.gutwrenchingrpg.org
 mail.gutwrenchingrpg.org
+webdisk.gutwrenchingrpg.org
 www.gutwrenchingrpg.org
 gwinnetttech.org
 gxcttdvn.org
@@ -106967,7 +107004,9 @@ harrypotteraudiobooks.org
 hattric.org
 hazletonymcaywca.org
 hd-movies.org
-hdrush.org
+ww1.hdrush.org
+ww38.hdrush.org
+www.hdrush.org
 healhcare.org
 healingofthespirt.org
 healthce.org
@@ -107184,7 +107223,7 @@ logview.org
 londonmint.org
 lophisc.org
 louisianaschools.org
-mail.lovetoshopping.org
+lovetoshopping.org
 lsleditor.org
 lspd.org
 lspl.org
