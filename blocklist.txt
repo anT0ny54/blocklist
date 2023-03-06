@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 349060
+# Ignored duplicates: 349186
 
 chameleon.ad
 pixel.ad
@@ -3799,7 +3799,6 @@ email.admailtiser.com
 en.admailtiser.com
 eu.admailtiser.com
 eulb.admailtiser.com
-exchangeyb.admailtiser.com
 fw.admailtiser.com
 go.admailtiser.com
 grafana.admailtiser.com
@@ -3881,10 +3880,7 @@ stage.admailtiser.com
 static.admailtiser.com
 stats.admailtiser.com
 stc.admailtiser.com
-stcb.admailtiser.com
 stclb.admailtiser.com
-sv.admailtiser.com
-svr.admailtiser.com
 test.admailtiser.com
 tools.admailtiser.com
 tr.admailtiser.com
@@ -9380,7 +9376,6 @@ oops.cbarsrv.com
 opps.cbarsrv.com
 checkipv6.quickconnect.towf.cbarsrv.com
 us.cbarsrv.com
-vpaid.cbarsrv.com
 wf.cbarsrv.com
 www.cbarsrv.com
 cbcaau.com
@@ -10426,6 +10421,7 @@ a.connatix.com
 adserver.connatix.com
 aptrk.connatix.com
 assets.connatix.com
+assets-staging.connatix.com
 auth.connatix.com
 auth0.connatix.com
 capi-tier-1-us-east-2.connatix.com
@@ -10437,6 +10433,7 @@ ck.connatix.com
 cks.connatix.com
 cms.connatix.com
 conapi.connatix.com
+ctv-cdn.connatix.com
 demos.connatix.com
 elements.connatix.com
 email.connatix.com
@@ -15486,8 +15483,10 @@ hdcum.com
 hdfreemovie007.com
 hdgvidfir.com
 hdoup.com
+ww1.hdpaperz.com
 ww11.hdpaperz.com
 ww25.hdpaperz.com
+www.hdpaperz.com
 hdscout.com
 hdvitnam.com
 headerlift.com
@@ -15995,7 +15994,6 @@ ilovebeach.com
 ilovemobi.com
 ilovemyshoe.com
 ilovethefishies.com
-iloveuggs.com
 ilt20.com
 iltimatepowerprofits.com
 ilyf4amifh.com
@@ -16280,9 +16278,7 @@ analytics.inlinemanual.com
 inlocomedia.com
 inmobi.com
 inmobiliria.com
-ww1.inneedajob.com
-ww5.inneedajob.com
-www.inneedajob.com
+inneedajob.com
 inner-active.com
 innity.com
 innocentinvention.com
@@ -16640,7 +16636,6 @@ rtb-al-eu.jampp.com
 rtb-aod.jampp.com
 rtb-lb-us2.jampp.com
 static.jampp.com
-janeiredele.com
 adserver.janes.com
 janetscafealpine.com
 jangoradio.com
@@ -33211,11 +33206,6 @@ mypolicygeico.com
 mypowermall.com
 cobrowse.mypurecloud.com
 myroitracking.com
-auth.mysace.com
-mail1.mysace.com
-mx01.mysace.com
-securepop.mysace.com
-ww16.mysace.com
 ww38.mysace.com
 myscoobi.com
 mysexfantasies.com
@@ -50741,9 +50731,7 @@ theaussiehotel.com
 thebaileymethod.com
 thebestamishcookbooks.com
 thebiggestlosermealplan.com
-ww1.theboxwallahliteraryagency.com
 ww16.theboxwallahliteraryagency.com
-ww25.theboxwallahliteraryagency.com
 ww38.theboxwallahliteraryagency.com
 www.theboxwallahliteraryagency.com
 api.thebrighttag.com
@@ -51233,7 +51221,41 @@ trksontrks.com
 www.trktoken.com
 tropbox.com
 ww5.trophyboobs.com
+download.tropicanagoldcasino.com
+email.tropicanagoldcasino.com
+home.tropicanagoldcasino.com
+host.tropicanagoldcasino.com
+mail.tropicanagoldcasino.com
+mail1.tropicanagoldcasino.com
+mail12.tropicanagoldcasino.com
+mail6.tropicanagoldcasino.com
+mailbox.tropicanagoldcasino.com
+mailer.tropicanagoldcasino.com
+mailgate.tropicanagoldcasino.com
+mailgw.tropicanagoldcasino.com
+mailhost.tropicanagoldcasino.com
+mailin.tropicanagoldcasino.com
+mailserver.tropicanagoldcasino.com
+mailx.tropicanagoldcasino.com
+ms1.tropicanagoldcasino.com
+mx.tropicanagoldcasino.com
+mx1.tropicanagoldcasino.com
+mx2.tropicanagoldcasino.com
+mx5.tropicanagoldcasino.com
+mx7.tropicanagoldcasino.com
+mxs.tropicanagoldcasino.com
+ns.tropicanagoldcasino.com
+ns1.tropicanagoldcasino.com
+ns2.tropicanagoldcasino.com
+pop.tropicanagoldcasino.com
+post.tropicanagoldcasino.com
+postmaster.tropicanagoldcasino.com
+relay.tropicanagoldcasino.com
+secure.tropicanagoldcasino.com
+smtpauth.tropicanagoldcasino.com
+w.tropicanagoldcasino.com
 www.tropicanagoldcasino.com
+www1.tropicanagoldcasino.com
 analytics.trovit.com
 truboysmodels.com
 truckpapaer.com
@@ -57695,7 +57717,6 @@ www.ejabah.info
 el-youm.info
 www.eldolarparalelo.info
 electromenager.info
-www.elisleri.info
 eltt.info
 elweva.info
 www.emoticone-gratuit.info
@@ -58321,8 +58342,6 @@ maslennikov.info
 massagebykathy.info
 masscryp.info
 masterfilmesonlinegratis.info
-ww1.mastersam.info
-ww17.mastersam.info
 www.mastersam.info
 matureanal.info
 maxbooks.info
@@ -58645,7 +58664,6 @@ nomer-org.info
 nomosaic.info
 non-verbal.info
 nontonfilm.info
-ww38.nonude-stars.info
 noorani.info
 noraredenoma.info
 norrland.info
@@ -58689,7 +58707,6 @@ ww25.204.o488.info
 401.o488.info
 4h.o488.info
 951.o488.info
-autodiscover.o488.info
 driive-com.o488.info
 webdisk.o488.info
 ww1.o488.info
@@ -59411,32 +59428,20 @@ www.takipcisiteleri.info
 tamil-rockers.info
 taoy999.info
 taoyimg.info
-ap.tap7500.info
-bo.tap7500.info
 boa.tap7500.info
-chk.tap7500.info
-chv1.tap7500.info
-chv2.tap7500.info
-chv3.tap7500.info
 clcl.tap7500.info
 co.tap7500.info
-gp.tap7500.info
-grn.tap7500.info
 ho2.tap7500.info
-it.tap7500.info
-mc.tap7500.info
-mya.tap7500.info
-myb.tap7500.info
+ww11.mc.tap7500.info
+ww11.mya.tap7500.info
+ww25.mya.tap7500.info
 payd.tap7500.info
-pp.tap7500.info
-ppn.tap7500.info
-prr.tap7500.info
+ww25.ppn.tap7500.info
 s10.tap7500.info
 tr.tap7500.info
 ww16.tap7500.info
 ww25.tap7500.info
 ww38.tap7500.info
-www.tap7500.info
 taraftarium24hd.info
 tarjetarojatv.info
 tauruszodiac.info
@@ -79697,6 +79702,7 @@ mail1.ak-is.net
 mail10.ak-is.net
 mail12.ak-is.net
 mail2.ak-is.net
+mail3.ak-is.net
 mail4.ak-is.net
 mail5.ak-is.net
 mail6.ak-is.net
@@ -98936,6 +98942,7 @@ eviltracker.net
 acorn.evyy.net
 adorama.evyy.net
 advance-auto-parts.evyy.net
+aerie.evyy.net
 affiliate.evyy.net
 affiliate2brightsparks.evyy.net
 ahrefs.evyy.net
@@ -98944,6 +98951,7 @@ alamodk.evyy.net
 alamoit.evyy.net
 apg.evyy.net
 apparentsoft.evyy.net
+apple.evyy.net
 apptyrant.evyy.net
 aramark.evyy.net
 archtics-shows.evyy.net
@@ -98954,6 +98962,7 @@ aswechange.evyy.net
 athentech.evyy.net
 autopartswarehouse.evyy.net
 autotrader.evyy.net
+azimoie.evyy.net
 baarkbox.evyy.net
 babyage.evyy.net
 barkbox.evyy.net
@@ -98975,7 +98984,9 @@ bimatrix.evyy.net
 bing-rewards.evyy.net
 birthdayexpress.evyy.net
 bitdefender.evyy.net
+blacks.evyy.net
 blue-apron.evyy.net
+blurb-es.evyy.net
 blurb-nl.evyy.net
 bogner.evyy.net
 boinx.evyy.net
@@ -98992,6 +99003,7 @@ canadianicons.evyy.net
 carparts.evyy.net
 casetify.evyy.net
 cash100.evyy.net
+cashdazzle.evyy.net
 cashmatch.evyy.net
 catalogspree.evyy.net
 caxtonfxcard.evyy.net
@@ -99021,7 +99033,9 @@ corefitnessroller.evyy.net
 cost-plus-world-market.evyy.net
 cozy-earth.evyy.net
 cratejoy.evyy.net
+cricut.evyy.net
 cvresume.evyy.net
+daisydiskapp.evyy.net
 de.evyy.net
 dedeecation.evyy.net
 deliveroo.evyy.net
@@ -99050,24 +99064,29 @@ eposaudio.evyy.net
 epuppets.evyy.net
 equityfeed.evyy.net
 esigns.evyy.net
+europcar.evyy.net
 eversave.evyy.net
 evesaddiction.evyy.net
 fa.evyy.net
 fabfitfun-cpa.evyy.net
 fabfitfun-vip.evyy.net
 fabfitfunvip.evyy.net
+famousvapeshop.evyy.net
 fiftyflowers.evyy.net
 filepane-mac.evyy.net
 filters2me.evyy.net
 finestationery.evyy.net
 flaviar.evyy.net
 flexihub.evyy.net
+fluidity-bar.evyy.net
+flybe.evyy.net
 fonts.evyy.net
 forever21.evyy.net
 forsalebyowner.evyy.net
 freebooks.evyy.net
 freeebooks.evyy.net
 freemagazines.evyy.net
+frenchconnection.evyy.net
 freshly.evyy.net
 fromyouflowers.evyy.net
 funjet.evyy.net
@@ -99174,6 +99193,7 @@ nationalbankcard.evyy.net
 nativeremedies.evyy.net
 ncixca.evyy.net
 ncrowd-affiliate-program.evyy.net
+newegg-flash.evyy.net
 nextissue.evyy.net
 norton.evyy.net
 ocm.evyy.net
@@ -99205,6 +99225,7 @@ powerwallet.evyy.net
 proanox.evyy.net
 prosper.evyy.net
 purityproducts.evyy.net
+rareearthnaturals.evyy.net
 restockitcom.evyy.net
 rewards.evyy.net
 rhapsody.evyy.net
@@ -99221,16 +99242,20 @@ savvytown.evyy.net
 school-of-internet-marketing.evyy.net
 scribd.evyy.net
 seamless.evyy.net
+selectquote.evyy.net
 sennheiser.evyy.net
 shavemob.evyy.net
 shopbop.evyy.net
 shopplanetblue.evyy.net
 shopstyle.evyy.net
 shows.evyy.net
+sim-audible.evyy.net
 sim-avon.evyy.net
 sim-bespoke.evyy.net
 sim-cafepress-cpa.evyy.net
 sim-education.evyy.net
+sim-fabletics-cpl.evyy.net
+sim-julep.evyy.net
 sim-kiwicrate-sale.evyy.net
 sim-my-perfect-resume.evyy.net
 sim-popsugar-cpa.evyy.net
@@ -99269,6 +99294,7 @@ stickeryou.evyy.net
 style.evyy.net
 sugarsync-consumer.evyy.net
 summitsoft.evyy.net
+sunstaches.evyy.net
 suntrust.evyy.net
 swagbucksde.evyy.net
 t2.evyy.net
@@ -99315,6 +99341,7 @@ vinyl-me-please.evyy.net
 vip.evyy.net
 vitaminworld.evyy.net
 volusion.evyy.net
+wag.evyy.net
 wdrake.evyy.net
 wealthfront.evyy.net
 webbusterz.evyy.net
@@ -101558,6 +101585,7 @@ sellpoint.net
 asa1.semasio.net
 asa2.semasio.net
 br.semasio.net
+ds.semasio.net
 me.semasio.net
 metest.semasio.net
 meus.semasio.net
@@ -106727,8 +106755,9 @@ dlbase.org
 dllr.org
 dmschool.org
 dmvaz.org
-ww1.server.dn888.org
+server.dn888.org
 ww1.dn888.org
+www.dn888.org
 do-not-tracker.org
 revive.docmatic.org
 documentpro.org
@@ -107004,9 +107033,6 @@ harrypotteraudiobooks.org
 hattric.org
 hazletonymcaywca.org
 hd-movies.org
-ww1.hdrush.org
-ww38.hdrush.org
-www.hdrush.org
 healhcare.org
 healingofthespirt.org
 healthce.org
