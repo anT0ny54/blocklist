@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 349186
+# Ignored duplicates: 349269
 
 chameleon.ad
 pixel.ad
@@ -3884,7 +3884,6 @@ stclb.admailtiser.com
 test.admailtiser.com
 tools.admailtiser.com
 tr.admailtiser.com
-up.admailtiser.com
 up4.admailtiser.com
 upload.admailtiser.com
 wap.admailtiser.com
@@ -4888,7 +4887,6 @@ grdfpts-mid-stage4.campaign.adobe.com
 groupeatlantic-mkt-prod2.campaign.adobe.com
 grundfosholdingas-mkt-prod1-cus.campaign.adobe.com
 gumtreeau.campaign.adobe.com
-gwl.campaign.adobe.com
 gwl-mid-prod1-1.campaign.adobe.com
 handm-mid-dev11-cus.campaign.adobe.com
 handm-mid-prod6-cus.campaign.adobe.com
@@ -8954,6 +8952,7 @@ brisbanetrains.com
 bristolmarriotthotel.com
 l1.britannica.com
 british-banners.com
+ww1.britishairwayjobs.com
 britishwirewheel.com
 britneyregiomontana9f.com
 broadboundary.com
@@ -9345,14 +9344,12 @@ wfbssvc61.icrc.trendmicro.comwf.cbarsrv.com
 convammp.cbarsrv.com
 convchmp.cbarsrv.com
 conveump.cbarsrv.com
-convhkmp.cbarsrv.com
 convlatbmp.cbarsrv.com
 convnjmp.cbarsrv.com
 convusmp.cbarsrv.com
 crus.cbarsrv.com
 eu.cbarsrv.com
 news.genapi.euwf.cbarsrv.com
-f.cbarsrv.com
 update.fiducial-informatique.fropps.cbarsrv.com
 www.azko.frwf.cbarsrv.com
 www.google.frwf.cbarsrv.com
@@ -9363,7 +9360,6 @@ impreump.cbarsrv.com
 imprhkmp.cbarsrv.com
 impriatbmp.cbarsrv.com
 imprlatbmp.cbarsrv.com
-imprnjmp.cbarsrv.com
 imprusmp.cbarsrv.com
 match.cbarsrv.com
 mprlatbmp.cbarsrv.com
@@ -12487,6 +12483,10 @@ ads.electrocelt.com
 eleempleo.com
 elementsdayspasalon.com
 mail.elencantodeyemaya.com
+news.elencantodeyemaya.com
+qwertypanda.elencantodeyemaya.com
+ww17.elencantodeyemaya.com
+ww25.elencantodeyemaya.com
 ww38.elencantodeyemaya.com
 www.elencantodeyemaya.com
 elephantqueue.com
@@ -15220,7 +15220,6 @@ grignot-nat.com
 ads.grindinggears.com
 gringoadventure.com
 grockster.com
-groovieshark.com
 groovinads.com
 www.groproext.com
 groundtruth.com
@@ -15428,6 +15427,7 @@ hadaragallery.com
 hadplus.com
 hadskiz.com
 haihot.com
+haikunatura.com
 hairextensionssale.com
 hairtransplantguides.com
 hajanac.com
@@ -15483,10 +15483,7 @@ hdcum.com
 hdfreemovie007.com
 hdgvidfir.com
 hdoup.com
-ww1.hdpaperz.com
-ww11.hdpaperz.com
-ww25.hdpaperz.com
-www.hdpaperz.com
+hdpaperz.com
 hdscout.com
 hdvitnam.com
 headerlift.com
@@ -33206,7 +33203,6 @@ mypolicygeico.com
 mypowermall.com
 cobrowse.mypurecloud.com
 myroitracking.com
-ww38.mysace.com
 myscoobi.com
 mysexfantasies.com
 matrix-record.myshopify.com
@@ -47402,7 +47398,6 @@ download.scorecardresearch.com
 end.scorecardresearch.com
 g.scorecardresearch.com
 geo.scorecardresearch.com
-a.ia1.scorecardresearch.com
 sa.ia1.scorecardresearch.com
 udm.ia1.scorecardresearch.com
 sa.ia2.scorecardresearch.com
@@ -52343,6 +52338,7 @@ pm-bounces.usefathom.com
 quick-esteemed.usefathom.com
 starman.usefathom.com
 stats.usefathom.com
+test-cf-workers-232.usefathom.com
 videos.usefathom.com
 www.usefathom.com
 usefirefly.com
@@ -56918,6 +56914,7 @@ www.2clik.info
 2mq.info
 2wz.info
 300mb.info
+34300.info
 365or.info
 3dgfxstuff.info
 ww16.email.4169.info
@@ -57141,6 +57138,7 @@ ww25.ausadsl.info
 ww38.ausadsl.info
 www.ausadsl.info
 auslandskredit.info
+authgram.info
 authorise.info
 authorne.info
 ww1.autodialer.info
@@ -57287,6 +57285,7 @@ ww17.bettersalud.info
 ww25.bettersalud.info
 ww38.bettersalud.info
 www.bettersalud.info
+betworld1.info
 bever-chew.info
 mvideo.bewerbungsschreiben.info
 ww38.bewerbungsschreiben.info
@@ -57482,8 +57481,6 @@ corewiki.info
 corporategeek.info
 coupecheveux.info
 cpsf.info
-wlamazcsrv1.crackedfree.info
-ww1.crackedfree.info
 crazygallery.info
 ww1.crazymusic.info
 ww11.crazymusic.info
@@ -57592,7 +57589,6 @@ ww1.directory2010.info
 ww17.directory2010.info
 ww38.directory2010.info
 www.directory2010.info
-www.directoryelite.info
 dirproject.info
 display-systems.info
 api.dj-maza.info
@@ -57674,12 +57670,11 @@ ecce.info
 eclats.info
 ecostudio.info
 editomanga.info
-fr.egyptianwomen.info
-mail.egyptianwomen.info
+ww1.fr.egyptianwomen.info
+ww17.fr.egyptianwomen.info
+ww25.fr.egyptianwomen.info
+ww38.fr.egyptianwomen.info
 ww1.egyptianwomen.info
-ww17.egyptianwomen.info
-ww25.egyptianwomen.info
-www.egyptianwomen.info
 eigenblut.info
 eigenurin.info
 eisenstadt.info
@@ -57971,7 +57966,6 @@ goodpublications.info
 goodrxline.info
 goodtrk.info
 goonlinepoker.info
-goygys.info
 gpgorakhpurtpo.info
 greatresults.info
 greekgods.info
@@ -57979,7 +57973,8 @@ greekviral.info
 green-beauty.info
 greenfleet.info
 greentheearth.info
-groc.info
+free-daily-bukkake-cumshot-thumbnails.groc.info
+www.groc.info
 groednertal.info
 groenehartmedia.info
 grossglockner.info
@@ -58016,7 +58011,16 @@ hazarat.info
 hbox.info
 hcbf.info
 hdrezka.info
-headcodes.info
+ww16.m.headcodes.info
+ww16.hostmaster.hostmaster.hostmaster.ww2.m.headcodes.info
+ww16.hostmaster.hostmaster.ww2.m.headcodes.info
+ww16.hostmaster.ww2.m.headcodes.info
+ww16.headcodes.info
+ww2.headcodes.info
+ww16.hostmaster.hostmaster.hostmaster.ww25.headcodes.info
+ww16.hostmaster.hostmaster.ww25.headcodes.info
+ww16.hostmaster.ww25.headcodes.info
+ww16.hostmaster.ww38.headcodes.info
 healthbeautyvn.info
 healthdiet.info
 www.healthontrack.info
@@ -58068,7 +58072,6 @@ hurdleyreer.info
 hxcz.info
 hypnonet.info
 hypo2.info
-i-standart.info
 iasa.info
 icas5.info
 icolist1.info
@@ -58104,7 +58107,6 @@ interlin.info
 internetmarketingideas.info
 interwork.info
 investition.info
-iou2.info
 ipboard.info
 iphonedata.info
 iphonemei.info
@@ -58342,7 +58344,6 @@ maslennikov.info
 massagebykathy.info
 masscryp.info
 masterfilmesonlinegratis.info
-www.mastersam.info
 matureanal.info
 maxbooks.info
 maxikuhinja.info
@@ -58424,7 +58425,6 @@ ww25.mobile-tech.info
 www.mobile-tech.info
 mobilemovie.info
 mobilesales.info
-www.modernart.info
 moerbisch.info
 molnii.info
 momonoyu.info
@@ -58561,8 +58561,12 @@ www.mymp3singer.info
 myproxy.info
 myreadimgmanga.info
 myreadingmanaga.info
+webdisk.myshortlinks.info
+ww1.myshortlinks.info
+ww38.myshortlinks.info
 ww62.myshortlinks.info
 ww82.myshortlinks.info
+www.myshortlinks.info
 mystighty.info
 myta.info
 mytours.info
@@ -58574,53 +58578,6 @@ nagamochi.info
 najnovije-vijesti.info
 najnovijevesti.info
 najwa.info
-auth.nanotehnologija.info
-authsmtp.nanotehnologija.info
-comune.nanotehnologija.info
-email.nanotehnologija.info
-gate.nanotehnologija.info
-gw.nanotehnologija.info
-m.nanotehnologija.info
-mail.nanotehnologija.info
-mail1.nanotehnologija.info
-mail12.nanotehnologija.info
-mail2.nanotehnologija.info
-mail6.nanotehnologija.info
-mail8.nanotehnologija.info
-mailer.nanotehnologija.info
-mailgate.nanotehnologija.info
-mailgw.nanotehnologija.info
-mailhost.nanotehnologija.info
-mailin.nanotehnologija.info
-mailserver.nanotehnologija.info
-mailx.nanotehnologija.info
-mx.nanotehnologija.info
-mx01.nanotehnologija.info
-mx1.nanotehnologija.info
-mx2.nanotehnologija.info
-mx7.nanotehnologija.info
-mxs.nanotehnologija.info
-ns.nanotehnologija.info
-ns1.nanotehnologija.info
-ns2.nanotehnologija.info
-out.nanotehnologija.info
-poczta.nanotehnologija.info
-post.nanotehnologija.info
-posta.nanotehnologija.info
-postmaster.nanotehnologija.info
-relay.nanotehnologija.info
-relay1.nanotehnologija.info
-secure.nanotehnologija.info
-server.nanotehnologija.info
-smtps.nanotehnologija.info
-wordpress.nanotehnologija.info
-ww1.nanotehnologija.info
-ww17.nanotehnologija.info
-ww25.nanotehnologija.info
-ww38.nanotehnologija.info
-www.nanotehnologija.info
-www1.nanotehnologija.info
-www2.nanotehnologija.info
 narmedlek.info
 nassau.info
 natnews.info
@@ -58657,6 +58614,7 @@ ww16.nnmodels.info
 ww25.nnmodels.info
 ww38.nnmodels.info
 www.nnmodels.info
+no1biz.info
 www.noclegi-mikolajki.info
 noelmiddleton.info
 nomac.info
@@ -58707,11 +58665,8 @@ ww25.204.o488.info
 401.o488.info
 4h.o488.info
 951.o488.info
-driive-com.o488.info
 webdisk.o488.info
 ww1.o488.info
-ww17.o488.info
-www.o488.info
 obatnya.info
 ofcpage.info
 offertedilavoro.info
@@ -58837,14 +58792,6 @@ presviter.info
 prettymilfs.info
 primeronoticiasmx.info
 priority-pass.info
-favorable.prlinkpop.info
-ww1.prlinkpop.info
-ww11.prlinkpop.info
-ww12.prlinkpop.info
-ww2.prlinkpop.info
-ww38.prlinkpop.info
-ww7.prlinkpop.info
-ww8.prlinkpop.info
 www.prlinkpop.info
 problemhaut.info
 procurements.info
@@ -59238,6 +59185,7 @@ ww17.sexitunes.info
 www.sexitunes.info
 yesnojki.sexitunes.info
 yizptw.sexitunes.info
+ww25.register.sexmy.info
 sexr.info
 sexreise.info
 shadow93.info
@@ -59556,7 +59504,6 @@ templotibidabo.info
 www.tendance.info
 play.tercabilis.info
 teresianas.info
-teslacoin.info
 textvnz.info
 tfp.info
 tha3loub.info
@@ -59955,7 +59902,6 @@ vacationdeals.info
 vaduz.info
 ww1.valuedirectories.info
 ww17.valuedirectories.info
-www.valuedirectories.info
 vatname.info
 vbucksfortnitefree.info
 vchas.info
@@ -100984,9 +100930,11 @@ trackingintegrity.ojrq.net
 travelsmith.ojrq.net
 tropicanalv.ojrq.net
 uniquevintage.ojrq.net
+ununiquevintage.ojrq.net
 valuemagsmobile.ojrq.net
 vonage.ojrq.net
 vps.ojrq.net
+watch.ojrq.net
 webuyanyphone.ojrq.net
 whitefence.ojrq.net
 wunder-brow.ojrq.net
@@ -105558,6 +105506,7 @@ surfthechanel.net
 swingsearch.net
 synonimen.net
 cs905.wac.systemcdn.net
+tacticalconcealment.net
 tahoeindustries.net
 tamilshows.net
 adunion.tapas.net
@@ -106133,8 +106082,7 @@ adventheraldacademy.org
 adyshanti.org
 aeaafrique.org
 aerogeradores.org
-ww1.afella.org
-ww25.afella.org
+afella.org
 affix.org
 africangirls.org
 africateachingauthorities.org
@@ -106339,6 +106287,7 @@ authentiseal.org
 auversup.org
 avtoru.org
 awanas.org
+awshs.org
 ayetelkursi.org
 ayso177.org
 ayudapsicologica.org
