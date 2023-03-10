@@ -57,8 +57,6 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
   -
-    url: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
-  -
     url: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
   -
     url: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
@@ -93,8 +91,6 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/nikolaischunk/discord-phishing-links/main/txt/domain-list.txt
   -
-    url: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
-  -
     url: https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
   -
     url: https://raw.githubusercontent.com/t0ny54/blocklist/main/blocklist.txt
@@ -117,8 +113,6 @@ block_lists:
   -
     url: https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
   -
-    url: https://raw.githubusercontent.com/kowith337/ThaiConsentHosts/master/ThaiConsentHosts.txt
-  -
     url: https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/ads.txt
   -
     url: https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/general.txt
@@ -132,26 +126,6 @@ block_lists:
     url: https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt
   -
     url: https://threatfox.abuse.ch/downloads/hostfile
-  -
-    url: https://cert-agid.gov.it/download/log4shell-iocs-raw-domain.txt
-  -
-    url: https://data.netlab.360.com/feeds/dga/chinad.txt
-  -
-    url: https://data.netlab.360.com/feeds/dga/conficker.txt
-  -
-    url: https://data.netlab.360.com/feeds/dga/cryptolocker.txt
-  -
-    url: https://data.netlab.360.com/feeds/dga/gameover.txt
-  -
-    url: https://data.netlab.360.com/feeds/dga/locky.txt
-  -
-    url: https://data.netlab.360.com/feeds/dga/necurs.txt
-  -
-    url: https://data.netlab.360.com/feeds/dga/suppobox.txt
-  -
-    url: https://data.netlab.360.com/feeds/dga/tofsee.txt
-  -
-    url: https://data.netlab.360.com/feeds/dga/virut.txt
   -
     url: https://dl.red.flag.domains/red.flag.domains_fr.txt
   -
