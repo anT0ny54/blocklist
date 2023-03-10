@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 349259
+# Ignored duplicates: 349236
 
 chameleon.ad
 pixel.ad
@@ -3762,8 +3762,6 @@ ww38.adm-vids.com
 www.adm-vids.com
 a.admailtiser.com
 actions-eu.admailtiser.com
-adex.admailtiser.com
-bingstcus.admailtiser.com
 c1uvqt6cie6lpq7kv47g.admailtiser.com
 cielb.admailtiser.com
 clickeu.admailtiser.com
@@ -8176,6 +8174,8 @@ baiduccdn1.com
 dup.baidustatic.com
 bailyfitness.com
 bajajcapital.com
+citrix.bakearella.com
+ww25.bakearella.com
 www.bakearella.com
 bakerssolution.com
 balealsurfhotel.com
@@ -9271,48 +9271,18 @@ cautiouscredit.com
 www.15.cbarsrv.com
 actions-am.cbarsrv.com
 actions-ch.cbarsrv.com
-actions-eu.cbarsrv.com
 actions-hk.cbarsrv.com
 clicklatb.cbarsrv.com
-clicknj.cbarsrv.com
-v4.avs.activscreen.comopps.cbarsrv.com
-connectivitycheck.android.comopps.cbarsrv.com
-watson.telemetry.microsoft.comopps.cbarsrv.com
-supervision.thiris.comopps.cbarsrv.com
-wfrm-emeaa.trendmicro.comopps.cbarsrv.com
-api.accuweather.comwf.cbarsrv.com
-whatismyip.akamai.comwf.cbarsrv.com
-cloudgz-ecs.gravityzone.bitdefender.comwf.cbarsrv.com
-connectivitycheck.gstatic.comwf.cbarsrv.com
-filedownload.lenovo.comwf.cbarsrv.com
-tile-service.weather.microsoft.comwf.cbarsrv.com
-config.edge.skype.comwf.cbarsrv.com
-reservation.squashjeudepaume.comwf.cbarsrv.com
-s.sspqns.comwf.cbarsrv.com
-liveupdate.symantecliveupdate.comwf.cbarsrv.com
-sv.symcd.comwf.cbarsrv.com
-wfbssvc61.icrc.trendmicro.comwf.cbarsrv.com
 convammp.cbarsrv.com
 convchmp.cbarsrv.com
 conveump.cbarsrv.com
-eu.cbarsrv.com
-news.genapi.euwf.cbarsrv.com
-update.fiducial-informatique.fropps.cbarsrv.com
-www.azko.frwf.cbarsrv.com
-www.google.frwf.cbarsrv.com
 imprchmp.cbarsrv.com
-impreump.cbarsrv.com
 imprhkmp.cbarsrv.com
 impriatbmp.cbarsrv.com
 imprlatbmp.cbarsrv.com
 www.match.cbarsrv.com
 mprlatbmp.cbarsrv.com
-update.cloud.2d585.cdn.bitdefender.netopps.cbarsrv.com
-http.00.s.sophosxl.netopps.cbarsrv.com
-push.bitdefender.netwf.cbarsrv.com
-checkipv6.quickconnect.towf.cbarsrv.com
 us.cbarsrv.com
-wf.cbarsrv.com
 cbcaau.com
 cbeao.com
 direct.cbmax.com
@@ -13363,6 +13333,7 @@ frtyj.com
 frugalmachinist.com
 frugalrushcap.com
 frugalsworld.com
+www.fryetv.com
 frytolay.com
 fsibog.com
 fstracking.com
@@ -14264,7 +14235,6 @@ gaiyuki.com
 galaxien.com
 galerie-blondel.com
 galerielectronik.com
-www.galewher.com
 galleryofwives.com
 gam4free.com
 gamblingsyndication.com
@@ -32423,7 +32393,6 @@ moneyfor.com
 moneymak3rstrack.com
 mono-mobile.com
 mono2u.com
-ww41.monocopicturesusa.com
 monoinfosystems.com
 monomaxx.com
 monotechnology.com
@@ -33040,6 +33009,7 @@ myaffiliateprogram.com
 paf.elb.myaffiliates.com
 ww1.myaircel.com
 ww16.myaircel.com
+ww35.myaircel.com
 myairnigerian.com
 myalii.com
 myanmarairinternationals.com
@@ -39955,7 +39925,6 @@ greenlandsuccess.postaffiliatepro.com
 griffinfitness.postaffiliatepro.com
 guitartricks.postaffiliatepro.com
 han1.postaffiliatepro.com
-happyhippoherbals.postaffiliatepro.com
 hayabusa.postaffiliatepro.com
 hazcasino.postaffiliatepro.com
 heartsoulcollective.postaffiliatepro.com
@@ -48109,10 +48078,8 @@ app.showroompriv.com
 magento.showroompriv.com
 mvideo.showroompriv.com
 shop.showroompriv.com
-staging.showroompriv.com
 test.showroompriv.com
 ww17.showroompriv.com
-ww38.showroompriv.com
 shrillspoon.com
 fun88.shrum-studio.com
 www.shrum-studio.com
@@ -50662,7 +50629,6 @@ thebestamishcookbooks.com
 thebiggestlosermealplan.com
 ww16.theboxwallahliteraryagency.com
 ww38.theboxwallahliteraryagency.com
-www.theboxwallahliteraryagency.com
 api.thebrighttag.com
 bt-images.thebrighttag.com
 btdemo.thebrighttag.com
@@ -51150,13 +51116,20 @@ trksontrks.com
 www.trktoken.com
 tropbox.com
 ww5.trophyboobs.com
+auth.tropicanagoldcasino.com
 download.tropicanagoldcasino.com
 email.tropicanagoldcasino.com
+gateway.tropicanagoldcasino.com
 home.tropicanagoldcasino.com
 host.tropicanagoldcasino.com
+imap1.tropicanagoldcasino.com
+imap2.tropicanagoldcasino.com
 mail.tropicanagoldcasino.com
+mail01.tropicanagoldcasino.com
 mail1.tropicanagoldcasino.com
 mail12.tropicanagoldcasino.com
+mail2.tropicanagoldcasino.com
+mail3.tropicanagoldcasino.com
 mail6.tropicanagoldcasino.com
 mailbox.tropicanagoldcasino.com
 mailer.tropicanagoldcasino.com
@@ -51164,10 +51137,13 @@ mailgate.tropicanagoldcasino.com
 mailgw.tropicanagoldcasino.com
 mailhost.tropicanagoldcasino.com
 mailin.tropicanagoldcasino.com
+mailout.tropicanagoldcasino.com
 mailserver.tropicanagoldcasino.com
+mailsrv.tropicanagoldcasino.com
 mailx.tropicanagoldcasino.com
 ms1.tropicanagoldcasino.com
 mx.tropicanagoldcasino.com
+mx01.tropicanagoldcasino.com
 mx1.tropicanagoldcasino.com
 mx2.tropicanagoldcasino.com
 mx5.tropicanagoldcasino.com
@@ -51176,15 +51152,20 @@ mxs.tropicanagoldcasino.com
 ns.tropicanagoldcasino.com
 ns1.tropicanagoldcasino.com
 ns2.tropicanagoldcasino.com
+out.tropicanagoldcasino.com
 pop.tropicanagoldcasino.com
 post.tropicanagoldcasino.com
 postmaster.tropicanagoldcasino.com
 relay.tropicanagoldcasino.com
 secure.tropicanagoldcasino.com
+smtp01.tropicanagoldcasino.com
 smtpauth.tropicanagoldcasino.com
+smtpseguro.tropicanagoldcasino.com
+srv.tropicanagoldcasino.com
 w.tropicanagoldcasino.com
 www.tropicanagoldcasino.com
 www1.tropicanagoldcasino.com
+www2.tropicanagoldcasino.com
 analytics.trovit.com
 truboysmodels.com
 truckpapaer.com
@@ -53849,7 +53830,6 @@ studio463.woogiewoo.com
 sugarbee.woogiewoo.com
 swirlgirldesigns.woogiewoo.com
 theartofchic.woogiewoo.com
-ww25.theeyeoffaith.woogiewoo.com
 thependuline.woogiewoo.com
 tminx.woogiewoo.com
 trixystarrjewelry.woogiewoo.com
@@ -53860,7 +53840,6 @@ wildflowercases.woogiewoo.com
 woo.woogiewoo.com
 ww1.woogiewoo.com
 ww25.woogiewoo.com
-ww38.woogiewoo.com
 www.woogiewoo.com
 yaaserwaahbyakuoku.woogiewoo.com
 woomio.com
@@ -55731,7 +55710,6 @@ clickhk.zorosrv.com
 clicklatb.zorosrv.com
 clicknj.zorosrv.com
 convammp.zorosrv.com
-convchmp.zorosrv.com
 f.zorosrv.com
 http15.zorosrv.com
 httpsconvnjmp.zorosrv.com
@@ -55743,7 +55721,6 @@ imprhkmp.zorosrv.com
 imprlatbmp.zorosrv.com
 imprnjmp.zorosrv.com
 imprsgmp.zorosrv.com
-imprusmp.zorosrv.com
 match.zorosrv.com
 opps.zorosrv.com
 sdk.zorosrv.com
@@ -56827,7 +56804,6 @@ ww1.118dh.info
 ww25.118dh.info
 www.118dh.info
 163ks.info
-16kingmvi.info
 177piczz.info
 1929barry.info
 1bollywood1.info
@@ -57391,8 +57367,7 @@ vip.comix.info
 ww1.comix.info
 ww42.comix.info
 www.comix.info
-ww25.aloha.computer-arts.info
-ww38.aloha.computer-arts.info
+aloha.computer-arts.info
 ww25.forum.computer-arts.info
 ww38.forum.computer-arts.info
 ww1.computer-arts.info
@@ -57400,6 +57375,7 @@ ww11.computer-arts.info
 ww17.computer-arts.info
 ww25.computer-arts.info
 ww38.computer-arts.info
+www.computer-arts.info
 computersetc.info
 www.consolasportatiles.info
 coolcashing.info
@@ -57598,11 +57574,6 @@ ecce.info
 eclats.info
 ecostudio.info
 editomanga.info
-ww1.fr.egyptianwomen.info
-ww17.fr.egyptianwomen.info
-ww25.fr.egyptianwomen.info
-ww38.fr.egyptianwomen.info
-ww1.egyptianwomen.info
 eigenblut.info
 eigenurin.info
 eisenstadt.info
@@ -57778,6 +57749,7 @@ www.fotomodelle.info
 fotomodels.info
 www.fotoway.info
 fralo.info
+ww11.freeadultchatroom.info
 www.freeadultchatroom.info
 freecamwhore.info
 freegood.info
@@ -58530,7 +58502,6 @@ ww11.nikeclassicac.info
 ww17.nikeclassicac.info
 ww25.nikeclassicac.info
 ww38.nikeclassicac.info
-www.nikeclassicac.info
 nipponicum.info
 nnbbs.info
 ww1.nnmodels.info
@@ -59301,18 +59272,11 @@ tamil-rockers.info
 taoy999.info
 taoyimg.info
 boa.tap7500.info
-clcl.tap7500.info
-co.tap7500.info
 ho2.tap7500.info
 ww11.mc.tap7500.info
-ww11.mya.tap7500.info
-ww25.mya.tap7500.info
 payd.tap7500.info
 ww25.ppn.tap7500.info
-s10.tap7500.info
 tr.tap7500.info
-ww16.tap7500.info
-ww25.tap7500.info
 taraftarium24hd.info
 tarjetarojatv.info
 tauruszodiac.info
@@ -59840,8 +59804,6 @@ videoking.info
 videoprivate.info
 vidk.info
 viit.info
-ww1.villantas.info
-ww38.villantas.info
 vinhomescity-tranduyhung.info
 virtualbus.info
 az.visapornotv.info
@@ -99984,6 +99946,7 @@ hoaian.net
 sdk.hockeyapp.net
 holohotel.net
 homeschoolingbenefits.net
+hoota.net
 dns.hostux.net
 houken.net
 hozim.net
@@ -100913,7 +100876,6 @@ bdc-cdn.com.online-metrix.net
 eu-aa.online-metrix.net
 h.online-metrix.net
 h-1kcyydia.online-metrix.net
-h-1u7ubqzg.online-metrix.net
 h-1vjjer2n.online-metrix.net
 h-2dehands.online-metrix.net
 h-2ql3c6py.online-metrix.net
@@ -105977,6 +105939,7 @@ accessplus.org
 ww1.accreditedlifeexperiencedegree.org
 ww17.accreditedlifeexperiencedegree.org
 ww38.accreditedlifeexperiencedegree.org
+www.accreditedlifeexperiencedegree.org
 accumed.org
 acenet.org
 achorusline.org
@@ -106729,6 +106692,8 @@ db.familoysearch.org
 skills.familoysearch.org
 vip.familoysearch.org
 ww1.familoysearch.org
+ww11.familoysearch.org
+ww25.familoysearch.org
 www.familoysearch.org
 familusearch.org
 familybudget.org
@@ -107570,9 +107535,7 @@ ra-re.org
 rabdom.org
 race-game.org
 mx.rachelinux.org
-old.rachelinux.org
 shop.rachelinux.org
-test.rachelinux.org
 old.ww1.rachelinux.org
 ww16.rachelinux.org
 radiomarket.org
@@ -112738,7 +112701,6 @@ www.mobile-link.today
 feed.aservice.tools
 oli.tools
 affmoney.top
-as.cfcnet.top
 ctthatthey.top
 fingahvf.top
 iscussiam.top
