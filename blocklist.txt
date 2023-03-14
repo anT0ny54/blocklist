@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343481
+# Ignored duplicates: 343470
 
 chameleon.ad
 pixel.ad
@@ -19415,7 +19415,6 @@ de.vortex-win.data.microsoft.com
 eu.vortex.data.microsoft.com
 extended-web.vortex.data.microsoft.com
 vscode.vortex.data.microsoft.com
-web.vortex.data.microsoft.com
 aad.cs.dds.microsoft.com
 devicegraph.dds.microsoft.com
 dfci.dds.microsoft.com
@@ -50812,7 +50811,6 @@ valobasibangla.com
 valuead.com
 valueclick.com
 valueclickmedia.com
-valuecommerce.com
 vanfireworks.com
 click.news.vans.com
 vapidsoftware.com
@@ -102807,6 +102805,7 @@ wsxlhtdphi.sotreq.net
 wvexblvoedtl.sotreq.net
 ww1.sotreq.net
 wwktztsdqlfleph.sotreq.net
+www.sotreq.net
 wxoputpu.sotreq.net
 wxvvsnmi.sotreq.net
 xbesqasxqyy.sotreq.net
@@ -109932,6 +109931,7 @@ ww1.thisadsfor.us
 ww2.thisadsfor.us
 ww25.thisadsfor.us
 ww3.thisadsfor.us
+www.thisadsfor.us
 trkn.us
 tracker.vgame.us
 log.zoom.us
