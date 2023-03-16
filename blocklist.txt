@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343408
+# Ignored duplicates: 343470
 
 chameleon.ad
 pixel.ad
@@ -2344,7 +2344,6 @@ ramyadas.gateway.demand-tools.advertising.a2z.com
 us-east-1.sandbox.gateway.demand-tools.advertising.a2z.com
 yeya.gateway.demand-tools.advertising.a2z.com
 zhangjos.gateway.demand-tools.advertising.a2z.com
-barnegat.modelservice.demand-tools.advertising.a2z.com
 test-your-api.demand-tools.advertising.a2z.com
 us-west-2.alpha.testarossa.demand-tools.advertising.a2z.com
 eu-west-1.beta.testarossa.demand-tools.advertising.a2z.com
@@ -6118,19 +6117,6 @@ atlas.r.akipam.com
 akormuzik.com
 akotuve.com
 akslar.com
-antispam.al-waatan.com
-mta.al-waatan.com
-mx.al-waatan.com
-mx01.al-waatan.com
-mx02.al-waatan.com
-mx2.al-waatan.com
-mx4.al-waatan.com
-mx7.al-waatan.com
-pop.al-waatan.com
-root.al-waatan.com
-server.al-waatan.com
-sniper.al-waatan.com
-vmail.al-waatan.com
 alabamacoastalrentals.com
 alabangautoexchange.com
 alahamed.com
@@ -7761,7 +7747,6 @@ trk.bee-data.com
 beeconimic.com
 ww.beeftransmission.com
 ww1.beeftransmission.com
-ww7.beeftransmission.com
 beegl.com
 beeketing.com
 beemray.com
@@ -8762,7 +8747,6 @@ ensighten.ccnag.com
 ccssettlement.com
 cdg124.com
 cstat.cdn-apple.com
-cache.cdn-jquery.com
 six.cdn-net.com
 cdnativ.com
 tracker.cdnbye.com
@@ -9233,6 +9217,7 @@ progress.clickmeter.com
 projects.clickmeter.com
 prueba.clickmeter.com
 quotes.clickmeter.com
+rb-redirect.clickmeter.com
 rdns3.clickmeter.com
 realestate.clickmeter.com
 redirect.clickmeter.com
@@ -11692,7 +11677,6 @@ elmokhtabar.com
 elocalisting.com
 elonshares.com
 eloqua.com
-elseelektrikci.com
 elsitiofeliz.com
 elsticsr.com
 om.elvenar.com
@@ -12410,7 +12394,6 @@ www.foxit-software.com
 ad.foxnetworks.com
 ads.foxnetworks.com
 analytics.nova.foxnews.com
-test.foxnewsboston.com
 ww16.foxnewsboston.com
 ww38.foxnewsboston.com
 www.foxnewsboston.com
@@ -15478,7 +15461,6 @@ adserver.irishwebmasterforum.com
 ironmanthegame.com
 irrationallayouts.com
 t.irtyd.com
-ww1.islamiphone.com
 www.islamiphone.com
 dm.isnssdk.com
 f-p-useast2a.isnssdk.com
@@ -31293,6 +31275,7 @@ morganstanlely.com
 morpthing.com
 moshebaron.com
 mosscroftprimary.com
+mostertube.com
 motelgateway.com
 motionlessbag.com
 motionspots.com
@@ -31808,8 +31791,6 @@ ww1.mucabrasil.com
 ww2.mucabrasil.com
 ww5.mucabrasil.com
 www.mucabrasil.com
-ww25.mucho-hentai.com
-ww38.mucho-hentai.com
 multiext.com
 mummy8.com
 mundanenail.com
@@ -31858,9 +31839,12 @@ cdn.myadmessenger.com
 myaffiliateprogram.com
 paf.elb.myaffiliates.com
 app.myaircel.com
+dev-app.myaircel.com
+m.myaircel.com
 mail.myaircel.com
 pay.myaircel.com
 reports.myaircel.com
+sms.myaircel.com
 ww1.myaircel.com
 ww16.myaircel.com
 ww35.myaircel.com
@@ -32897,7 +32881,6 @@ nucahu.com
 nuevobancodesantafe.com
 nugajo.com
 nullnorth.com
-xy.nullrefexcep.com
 nuseek.com
 nuttyorganization.com
 nxstrib.com
@@ -36249,6 +36232,7 @@ opmnstr.com
 oppuz.com
 look.opskln.com
 optimallimit.com
+www.optimeze.com
 14124.optimizely.com
 admincenter.optimizely.com
 alloy2-edu.optimizely.com
@@ -48118,7 +48102,6 @@ prod.strands.com
 ps-dev.strands.com
 ps-pre.strands.com
 ps-qa.strands.com
-corp.pubsite.strands.com
 qa.strands.com
 registry.strands.com
 reportportal.strands.com
@@ -50176,7 +50159,6 @@ ads139.unoadsrv.com
 ads14.unoadsrv.com
 ads140.unoadsrv.com
 ads141.unoadsrv.com
-ads143.unoadsrv.com
 ads144.unoadsrv.com
 ads145.unoadsrv.com
 ads146.unoadsrv.com
@@ -50321,7 +50303,6 @@ piwik.unoadsrv.com
 rtb.unoadsrv.com
 rtb1.unoadsrv.com
 rtb10.unoadsrv.com
-rtb11.unoadsrv.com
 rtb12.unoadsrv.com
 rtb13.unoadsrv.com
 rtb14.unoadsrv.com
@@ -51980,65 +51961,29 @@ analytics.wonderanal.com
 wonderlandads.com
 wonjiintl.com
 aboutmoments.woogiewoo.com
-andymoine.woogiewoo.com
-angelasartistic.woogiewoo.com
-astaraco.woogiewoo.com
-beatbumclothing.woogiewoo.com
 beecharming.woogiewoo.com
-bevisible.woogiewoo.com
-bigbangearringco.woogiewoo.com
-catherinecolestudio.woogiewoo.com
-chief.woogiewoo.com
 christinaferrari.woogiewoo.com
 clinejewels.woogiewoo.com
-danielsudar.woogiewoo.com
 darkangelcouture.woogiewoo.com
 dazzlme.woogiewoo.com
-dlbr.woogiewoo.com
 drksoapcompany.woogiewoo.com
 dropofamber.woogiewoo.com
 eponascrystals.woogiewoo.com
-fashionfinds01.woogiewoo.com
-feltjewelries.woogiewoo.com
 flashbax.woogiewoo.com
 handmadebychris.woogiewoo.com
 headbangs.woogiewoo.com
 hopscotchcouture.woogiewoo.com
-jademacdesigns.woogiewoo.com
 jeanjoaillerie.woogiewoo.com
 jenjemsjewelry.woogiewoo.com
-jewelrybymikaillc.woogiewoo.com
-jillsjewels4you.woogiewoo.com
-justfuryou.woogiewoo.com
-kanobielife.woogiewoo.com
-kraftychix.woogiewoo.com
-lipstickkillerscollection.woogiewoo.com
-lisabarbero.woogiewoo.com
-livelovebead.woogiewoo.com
-loudlifecompany.woogiewoo.com
 mimiandlucy.woogiewoo.com
-misslexjewelry.woogiewoo.com
 mrhanz.woogiewoo.com
-orlandodugi.woogiewoo.com
-phunybaggs.woogiewoo.com
-shelyjewelry.woogiewoo.com
-shopmirandafawn.woogiewoo.com
-shopnestled.woogiewoo.com
-smittenbykristin.woogiewoo.com
-stampedbydesign.woogiewoo.com
 stickyrainbows.woogiewoo.com
 studio463.woogiewoo.com
-sugarbee.woogiewoo.com
 swirlgirldesigns.woogiewoo.com
-theartofchic.woogiewoo.com
 thependuline.woogiewoo.com
-trixystarrjewelry.woogiewoo.com
 wholesaleonline.woogiewoo.com
-wildflowercases.woogiewoo.com
-woo.woogiewoo.com
 ww25.woogiewoo.com
 www.woogiewoo.com
-yaaserwaahbyakuoku.woogiewoo.com
 woomio.com
 woopra.com
 wootric.com
@@ -52176,6 +52121,7 @@ wwwsavevid.com
 wwwschlage.com
 wwwschooltimegames.com
 wwwsouthernliving.com
+wwwstevenstransport.com
 wwwstoresupply.com
 wwwsurveywalmart.com
 wwwtexasonline.com
@@ -53848,10 +53794,6 @@ zoo356.com
 zoofilio.com
 vdc.zoomph.com
 zoophiliatube.com
-www.match.zorosrv.com
-opps.zorosrv.com
-srv.zorosrv.com
-u003e.zorosrv.com
 zotabox.com
 zsmeilijia.com
 ad.ztylez.com
@@ -54806,9 +54748,6 @@ cdn.popt.in
 06br.info
 0daypatch.info
 www.104ez.info
-ww1.118dh.info
-ww25.118dh.info
-www.118dh.info
 163ks.info
 177piczz.info
 1929barry.info
@@ -54948,8 +54887,6 @@ allgalle.info
 alsahabmedia.info
 alterzon.info
 amagrlsuk.info
-ww17.amandal.info
-www.amandal.info
 amazingporn.info
 amazonshoppingindir.info
 amine.info
@@ -55231,6 +55168,7 @@ bockchain.info
 bodenmarkt.info
 bodybilding.info
 bokepgratiz.info
+bokepsmp.info
 mvideo.bolero.info
 ww11.bolero.info
 ww17.bolero.info
@@ -55415,7 +55353,9 @@ data-recovery.info
 datentarife.info
 datingss.info
 coolgames.datsfree.info
+ww1.datsfree.info
 ww16.datsfree.info
+ww2.datsfree.info
 davphantom.info
 dcis.info
 dds35.info
@@ -56049,7 +55989,8 @@ kaunertal.info
 kbbi.info
 kbuj.info
 keliauk.info
-kendari.info
+ww1.forum.kendari.info
+ww17.forum.kendari.info
 kenh14.info
 khalijmusic.info
 kidala.info
@@ -56303,6 +56244,7 @@ ww25.mobile-tech.info
 www.mobile-tech.info
 mobilemovie.info
 mobilesales.info
+www.modernart.info
 moerbisch.info
 molnii.info
 momonoyu.info
@@ -56545,8 +56487,11 @@ ww25.204.o488.info
 4h.o488.info
 951.o488.info
 autodiscover.o488.info
+driive-com.o488.info
 webdisk.o488.info
 ww1.o488.info
+ww17.o488.info
+www.o488.info
 obatnya.info
 ofcpage.info
 offertedilavoro.info
@@ -56944,8 +56889,6 @@ rpg-maker.info
 rtbnews.info
 ruensport.info
 ww1.rukodelnitsa.info
-ww38.rukodelnitsa.info
-www.rukodelnitsa.info
 rumahmodernterbaik.info
 rumobi.info
 rupertmallin.info
@@ -57263,9 +57206,6 @@ www.taxecarbone.info
 taxreps.info
 cpcalendars.taynimiro.info
 webdisk.taynimiro.info
-ww17.taynimiro.info
-ww25.taynimiro.info
-ww38.taynimiro.info
 www.taynimiro.info
 antispam.tch.info
 auth.tch.info
@@ -57429,8 +57369,6 @@ postmaster.thesensei.info
 server.thesensei.info
 ww1.thesensei.info
 ww11.thesensei.info
-ww25.thesensei.info
-ww38.thesensei.info
 www.thesensei.info
 threaded.info
 thruster.info
@@ -58038,6 +57976,7 @@ wikiseda.info
 win-prize.info
 winner-topper-1.info
 wir9.info
+ww16.wishrobux.info
 witze.info
 woco.info
 wonderweblink.info
@@ -58204,7 +58143,6 @@ zcpa.info
 zdorovye.info
 zeit.info
 zerhosting.info
-www.zespolalfa.info
 zhubo350.info
 zhubo900.info
 zins-radar.info
@@ -101768,7 +101706,6 @@ blackbox.geopod-stage-a.mdw1.k8s.sendgrid.net
 geopod-manager.geopod-stage-a.mdw1.k8s.sendgrid.net
 geopod-manager-ui.geopod-stage-a.mdw1.k8s.sendgrid.net
 prometheus.geopod-stage-a.mdw1.k8s.sendgrid.net
-test-geopod-manager-ui.geopod-stage-a.mdw1.k8s.sendgrid.net
 alertmanager.mgmt-prod-a.mdw1.k8s.sendgrid.net
 am-aggregator.mgmt-prod-a.mdw1.k8s.sendgrid.net
 grpc.argocd.mgmt-prod-a.mdw1.k8s.sendgrid.net
@@ -104022,6 +103959,7 @@ hermes.ecobanca.org
 internet.ecobanca.org
 mail12.ecobanca.org
 ww25.mailer.ecobanca.org
+ww25.mailout.ecobanca.org
 mailrelay.ecobanca.org
 mailserver.ecobanca.org
 ms.ecobanca.org
@@ -104032,6 +103970,8 @@ mx3.ecobanca.org
 mx5.ecobanca.org
 newmail.ecobanca.org
 relay2.ecobanca.org
+ww25.server.ecobanca.org
+ww25.server1.ecobanca.org
 smtps.ecobanca.org
 smtpseguro.ecobanca.org
 sniper.ecobanca.org
@@ -104776,7 +104716,7 @@ nehra.org
 www.neosante.org
 netce.org
 newarkpreschool.org
-ww17.newhamwelfaretrust.org
+newhamwelfaretrust.org
 7xbt.newtorr.org
 authsmtp.newtorr.org
 comune.newtorr.org
@@ -105587,8 +105527,6 @@ teensx.org
 tehbox.org
 ww1.telecharger-musique-gratuit.org
 ww25.telecharger-musique-gratuit.org
-ww31.telecharger-musique-gratuit.org
-ww38.telecharger-musique-gratuit.org
 www.telecharger-musique-gratuit.org
 televisiongratis.org
 temo-mail.org
@@ -105607,8 +105545,6 @@ texasworksource.org
 textem.org
 tgcaptions.org
 thaiconsulate.org
-ww25.thatqui.org
-www.thatqui.org
 theamazings.org
 thearthousegallery.org
 theaudiobookbay.org
@@ -105741,6 +105677,7 @@ unionbbs.org
 unionpacific.org
 unvuganda.org
 uplibrary.org
+upoy.org
 urbanismobr.org
 urinarytractinfection.org
 urlbook.org
