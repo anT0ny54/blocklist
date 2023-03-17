@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343470
+# Ignored duplicates: 343453
 
 chameleon.ad
 pixel.ad
@@ -7347,7 +7347,6 @@ avalcred.com
 avalonalbum.com
 avantisvideo.com
 uib.ff.avast.com
-ww1.avastgratis.com
 www.avastgratis.com
 avenuea.com
 tracking.avestatidning.com
@@ -7611,6 +7610,7 @@ mx02.babyidol.com
 mx2.babyidol.com
 posta.babyidol.com
 smtp01.babyidol.com
+ww25.babyidol.com
 ww6.babyidol.com
 www.babyidol.com
 banners.babylon-x.com
@@ -7627,8 +7627,13 @@ baiduccdn1.com
 dup.baidustatic.com
 bailyfitness.com
 citrix.bakearella.com
+dev.bakearella.com
 lara.bakearella.com
+play.bakearella.com
+preprod.bakearella.com
+service.bakearella.com
 staging.bakearella.com
+status.bakearella.com
 ww25.bakearella.com
 www.bakearella.com
 balealsurfhotel.com
@@ -7745,8 +7750,6 @@ becanium.com
 beck-technologies.com
 trk.bee-data.com
 beeconimic.com
-ww.beeftransmission.com
-ww1.beeftransmission.com
 beegl.com
 beeketing.com
 beemray.com
@@ -8494,7 +8497,16 @@ mon.byteoversea.com
 mon-va.byteoversea.com
 bytthjul.com
 c-cf.com
-mail.comune.c-loverz.com
+comune.c-loverz.com
+mail.c-loverz.com
+mail7.c-loverz.com
+mailer.c-loverz.com
+mx.c-loverz.com
+mx02.c-loverz.com
+mx10.c-loverz.com
+mx4.c-loverz.com
+relay2.c-loverz.com
+smtpseguro.c-loverz.com
 ww1.c-loverz.com
 ww11.c-loverz.com
 ww17.c-loverz.com
@@ -8604,7 +8616,6 @@ cartoonnetworkjuegos.com
 ota.cartrawler.com
 cartstack.com
 carttonnetwork.com
-www.cartwoonnetwork.com
 carvecakes.com
 casadarkum.com
 casalemedia.com
@@ -12394,7 +12405,6 @@ www.foxit-software.com
 ad.foxnetworks.com
 ads.foxnetworks.com
 analytics.nova.foxnews.com
-ww16.foxnewsboston.com
 ww38.foxnewsboston.com
 www.foxnewsboston.com
 foxpley.com
@@ -15269,7 +15279,6 @@ inspirationalwordsofwisdom.com
 di.insplanet.com
 instabug.com
 instafollow.com
-www.instafore.com
 banners.instaforex.com
 installermoney.com
 installfarm.com
@@ -17087,6 +17096,7 @@ lumberamount.com
 lungcancerguides.com
 image.lurentangousa.com
 m.lurentangousa.com
+ww25.lurentangousa.com
 lusonada.com
 luvcrush.com
 luvetube.com
@@ -17284,7 +17294,6 @@ manjisstudio.com
 manroulett.com
 mansrun.com
 mantisadnetwork.com
-ww.manu5.com
 ww1.manu5.com
 www.manu5.com
 prof.manuelnovais.com
@@ -18428,7 +18437,6 @@ hitcounters.miarroba.com
 online.miarroba.com
 ads.mic.com
 ww1.miccosuki.com
-ww5.miccosuki.com
 smetrics.michaels.com
 target.michaels.com
 micorsoftonline.com
@@ -31848,6 +31856,7 @@ sms.myaircel.com
 ww1.myaircel.com
 ww16.myaircel.com
 ww35.myaircel.com
+ww38.myaircel.com
 www.myaircel.com
 myairnigerian.com
 myalii.com
@@ -47838,7 +47847,6 @@ static.startappservice.com
 trackdownload.startappservice.com
 vastevent.startappservice.com
 video.startappservice.com
-ww1.starwarsscreensaver.com
 adsatt.abc.starwave.com
 adsatt.abcnews.starwave.com
 adsatt.espn.starwave.com
@@ -48959,8 +48967,6 @@ piwik.teladoc.com
 tag-manager.teladoc.com
 telaria.com
 telefunken-digital.com
-ns1.telegramdesktop.com
-ns2.telegramdesktop.com
 www.telegramdesktop.com
 www.telegramup.com
 televisadepotes.com
@@ -48996,7 +49002,6 @@ tevetuga.com
 texastire-wheel.com
 text-link-ads.com
 shop.textbookxmarketplace.com
-ww25.textbookxmarketplace.com
 www.textbookxmarketplace.com
 textlinks.com
 tfsupplments.com
@@ -50117,7 +50122,6 @@ abc9.unoadsrv.com
 ads1.unoadsrv.com
 ads10.unoadsrv.com
 ads101.unoadsrv.com
-ads102.unoadsrv.com
 ads103.unoadsrv.com
 ads104.unoadsrv.com
 ads105.unoadsrv.com
@@ -50176,7 +50180,6 @@ ads156.unoadsrv.com
 ads157.unoadsrv.com
 ads158.unoadsrv.com
 ads16.unoadsrv.com
-ads160.unoadsrv.com
 ads163.unoadsrv.com
 ads164.unoadsrv.com
 ads17.unoadsrv.com
@@ -50186,13 +50189,8 @@ ads2.unoadsrv.com
 ads20.unoadsrv.com
 ads201.unoadsrv.com
 ads202.unoadsrv.com
-ads203.unoadsrv.com
-ads204.unoadsrv.com
 ads205.unoadsrv.com
 ads206.unoadsrv.com
-ads207.unoadsrv.com
-ads208.unoadsrv.com
-ads209.unoadsrv.com
 ads21.unoadsrv.com
 ads210.unoadsrv.com
 ads211.unoadsrv.com
@@ -50220,7 +50218,6 @@ ads231.unoadsrv.com
 ads232.unoadsrv.com
 ads24.unoadsrv.com
 ads25.unoadsrv.com
-ads26.unoadsrv.com
 ads27.unoadsrv.com
 ads28.unoadsrv.com
 ads29.unoadsrv.com
@@ -51960,30 +51957,6 @@ womanear.com
 analytics.wonderanal.com
 wonderlandads.com
 wonjiintl.com
-aboutmoments.woogiewoo.com
-beecharming.woogiewoo.com
-christinaferrari.woogiewoo.com
-clinejewels.woogiewoo.com
-darkangelcouture.woogiewoo.com
-dazzlme.woogiewoo.com
-drksoapcompany.woogiewoo.com
-dropofamber.woogiewoo.com
-eponascrystals.woogiewoo.com
-flashbax.woogiewoo.com
-handmadebychris.woogiewoo.com
-headbangs.woogiewoo.com
-hopscotchcouture.woogiewoo.com
-jeanjoaillerie.woogiewoo.com
-jenjemsjewelry.woogiewoo.com
-mimiandlucy.woogiewoo.com
-mrhanz.woogiewoo.com
-stickyrainbows.woogiewoo.com
-studio463.woogiewoo.com
-swirlgirldesigns.woogiewoo.com
-thependuline.woogiewoo.com
-wholesaleonline.woogiewoo.com
-ww25.woogiewoo.com
-www.woogiewoo.com
 woomio.com
 woopra.com
 wootric.com
@@ -53463,6 +53436,7 @@ yoc.com
 yoc-performance.com
 yodelmobile.com
 ww25.yogoogle.com
+www.yogoogle.com
 yolandaadamsshow.com
 yoojizz.com
 yoose.com
@@ -55353,9 +55327,23 @@ data-recovery.info
 datentarife.info
 datingss.info
 coolgames.datsfree.info
+datsfree.datsfree.info
+funnyandjokes.datsfree.info
+guiamemas.datsfree.info
+hazlotu.datsfree.info
+mail.datsfree.info
+mvideo.datsfree.info
+recetasaludables.datsfree.info
+tipsdemujeres.datsfree.info
+videonovedades.datsfree.info
+videonovedadestop.datsfree.info
+webdisk.datsfree.info
+wmsplus.datsfree.info
 ww1.datsfree.info
+ww11.datsfree.info
 ww16.datsfree.info
 ww2.datsfree.info
+ww25.datsfree.info
 davphantom.info
 dcis.info
 dds35.info
@@ -56422,6 +56410,7 @@ nextbux.info
 neyture.info
 nicosia.info
 night.info
+ww1.nikeclassicac.info
 ww11.nikeclassicac.info
 ww17.nikeclassicac.info
 ww25.nikeclassicac.info
@@ -56441,6 +56430,7 @@ nomer-org.info
 nomosaic.info
 non-verbal.info
 nontonfilm.info
+ww16.mvideo.nonude-stars.info
 ww25.nonude-stars.info
 ww38.nonude-stars.info
 noorani.info
@@ -56811,9 +56801,6 @@ ranking-gate.info
 cpcalendars.raport-wsi.info
 cpcontacts.raport-wsi.info
 mail.raport-wsi.info
-ww1.raport-wsi.info
-ww11.raport-wsi.info
-ww25.raport-wsi.info
 raucherclub.info
 rauchfrei.info
 rauris.info
@@ -57198,6 +57185,7 @@ myb.tap7500.info
 pp.tap7500.info
 ppn.tap7500.info
 prr.tap7500.info
+ww38.tap7500.info
 www.tap7500.info
 taraftarium24hd.info
 tarjetarojatv.info
@@ -57368,7 +57356,6 @@ post.thesensei.info
 postmaster.thesensei.info
 server.thesensei.info
 ww1.thesensei.info
-ww11.thesensei.info
 www.thesensei.info
 threaded.info
 thruster.info
@@ -57977,6 +57964,7 @@ win-prize.info
 winner-topper-1.info
 wir9.info
 ww16.wishrobux.info
+www.wishrobux.info
 witze.info
 woco.info
 wonderweblink.info
@@ -58134,7 +58122,6 @@ autodiscover.zalau.info
 cpcalendars.zalau.info
 cpcontacts.zalau.info
 mail.zalau.info
-webdisk.zalau.info
 ww17.zalau.info
 www.zalau.info
 zapret.info
@@ -103723,9 +103710,16 @@ comipens.org
 comkp.org
 commackpta.org
 commercialvalue.org
+dev.commonswikimedia.org
+sitemap.commonswikimedia.org
+sitemaps.commonswikimedia.org
 ww1.commonswikimedia.org
 ww11.commonswikimedia.org
+ww17.commonswikimedia.org
 ww2.commonswikimedia.org
+ww25.commonswikimedia.org
+ww38.commonswikimedia.org
+www.commonswikimedia.org
 communityhealthplan.org
 concivica.org
 consensu.org
@@ -103954,9 +103948,12 @@ ebase64encode.org
 ebibloteca.org
 ebliblioteca.org
 ebssa.org
+authsmtp.ecobanca.org
+correo.ecobanca.org
 gate.ecobanca.org
 hermes.ecobanca.org
 internet.ecobanca.org
+m.ecobanca.org
 mail12.ecobanca.org
 ww25.mailer.ecobanca.org
 ww25.mailout.ecobanca.org
@@ -103964,11 +103961,13 @@ mailrelay.ecobanca.org
 mailserver.ecobanca.org
 ms.ecobanca.org
 mx0.ecobanca.org
+mx02.ecobanca.org
 mx1.ecobanca.org
 mx20.ecobanca.org
 mx3.ecobanca.org
 mx5.ecobanca.org
 newmail.ecobanca.org
+po.ecobanca.org
 relay2.ecobanca.org
 ww25.server.ecobanca.org
 ww25.server1.ecobanca.org
@@ -103978,6 +103977,7 @@ sniper.ecobanca.org
 tiger.ecobanca.org
 ww1.ecobanca.org
 ww17.ecobanca.org
+ww31.ecobanca.org
 zimbra.ecobanca.org
 ecosi.org
 ecyclemo.org
@@ -105351,7 +105351,6 @@ scribd.org
 sdacape.org
 sdutlinux.org
 seasemestreet.org
-ww1.secume.org
 ww2.secume.org
 securedsearch.org
 securityservicefederalcreditunion.org
