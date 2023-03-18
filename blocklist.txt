@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343453
+# Ignored duplicates: 343458
 
 chameleon.ad
 pixel.ad
@@ -1343,7 +1343,6 @@ sg-bidder.personaly.bid
 sg-event.personaly.bid
 rotarb.bid
 adnet.biz
-adpenguin.biz
 cunda.advolution.biz
 celpip.biz
 cloudcoins.biz
@@ -1644,7 +1643,6 @@ inmobi.cn
 ip193.cn
 s.jpush.cn
 stats.jpush.cn
-ad.mobstazinc.cn
 invitation.cantonfair.org.cn
 zzhc.vnet.cn
 xadchina.cn
@@ -7601,18 +7599,33 @@ babiesru.com
 bablace.com
 babrbiegirl.com
 babybotttlepop.com
+auth.babyidol.com
+email.babyidol.com
 gateway.babyidol.com
 home.babyidol.com
 mail01.babyidol.com
+mail1.babyidol.com
 mail3.babyidol.com
+mailgw.babyidol.com
 mbox.babyidol.com
+mx.babyidol.com
+mx0.babyidol.com
+mx01.babyidol.com
 mx02.babyidol.com
 mx2.babyidol.com
+ns1.babyidol.com
+pop.babyidol.com
+post.babyidol.com
 posta.babyidol.com
+secure.babyidol.com
+server.babyidol.com
 smtp01.babyidol.com
+smtps.babyidol.com
+ww11.babyidol.com
 ww25.babyidol.com
 ww6.babyidol.com
 www.babyidol.com
+www1.babyidol.com
 banners.babylon-x.com
 affiliates.babylon.com
 babylontv.com
@@ -8511,6 +8524,7 @@ ww1.c-loverz.com
 ww11.c-loverz.com
 ww17.c-loverz.com
 ww25.c-loverz.com
+ww31.c-loverz.com
 www.c-loverz.com
 c1exchange.com
 c3metrics.com
@@ -9372,7 +9386,6 @@ ww38.clubscientificchesapeake.com
 www.clubscientificchesapeake.com
 banners.clubseventeen.com
 clubtelevideocristiano.com
-www.clud-nintendo.com
 clup-nintendo.com
 cmaxsrv.com
 data.cmcore.com
@@ -17295,7 +17308,6 @@ manroulett.com
 mansrun.com
 mantisadnetwork.com
 ww1.manu5.com
-www.manu5.com
 prof.manuelnovais.com
 snap.events.mapbox.com
 maplesims.com
@@ -18436,7 +18448,6 @@ contadores.miarroba.com
 hitcounters.miarroba.com
 online.miarroba.com
 ads.mic.com
-ww1.miccosuki.com
 smetrics.michaels.com
 target.michaels.com
 micorsoftonline.com
@@ -32642,8 +32653,6 @@ adv.nexthardware.com
 nextroll.com
 nexusprostatemassage.com
 ww25.nflfootballscreensavers.com
-ww5.nflfootballscreensavers.com
-www.nflfootballscreensavers.com
 nflgo.com
 nfltv.com
 nfwebminer.com
@@ -37945,10 +37954,6 @@ pholongden.com
 metrics.phonegap.com
 ads.phonepe.com
 phonesdo.com
-i5.photobudcket.com
-ww1.photobudcket.com
-ww2.photobudcket.com
-ww5.photobudcket.com
 www.photobudcket.com
 photobunner.com
 photofaceframe.com
@@ -39310,7 +39315,6 @@ qamod.com
 qchomesforrent.com
 qctop.com
 qdatasales.com
-hlok.qertewrt.com
 qgmns.com
 p3.qhimgs0.com
 p3.ssl.qhimgs0.com
@@ -45808,7 +45812,6 @@ www.satangay.com
 satishtv.com
 satismeter.com
 attribution.saucony.com
-www.save2pclight.com
 savethemurlocs.com
 savitabhahi.com
 savoryorange.com
@@ -47697,7 +47700,6 @@ offer.sponsorpay.com
 spookysleet.com
 2126230.sportacents.com
 mx1.sportacents.com
-ww1.sportacents.com
 sportboobs.com
 sportkeeda.com
 sportovnivozy.com
@@ -47716,7 +47718,6 @@ llnw.spotxcdn.com
 spotxchange.com
 ad.spreaker.com
 spribd.com
-ww1.spriceline.com
 www.spriceline.com
 springaftermath.com
 springbot.com
@@ -48967,7 +48968,6 @@ piwik.teladoc.com
 tag-manager.teladoc.com
 telaria.com
 telefunken-digital.com
-www.telegramdesktop.com
 www.telegramup.com
 televisadepotes.com
 myads.telkomsel.com
@@ -49001,8 +49001,6 @@ testuldeinteligenta.com
 tevetuga.com
 texastire-wheel.com
 text-link-ads.com
-shop.textbookxmarketplace.com
-www.textbookxmarketplace.com
 textlinks.com
 tfsupplments.com
 thahavanagrill.com
@@ -49421,7 +49419,6 @@ traneline.com
 tranformise.com
 tranquilside.com
 transferlights.com
-www.transformerstoy.com
 transitodemedellin.com
 translategoogle.com
 ww1.translatorgoogle.com
@@ -50086,7 +50083,6 @@ unlimitedtouch4u.com
 4.unoadsrv.com
 a.unoadsrv.com
 abc1.unoadsrv.com
-abc10.unoadsrv.com
 abc11.unoadsrv.com
 abc12.unoadsrv.com
 abc13.unoadsrv.com
@@ -50117,7 +50113,6 @@ abc55.unoadsrv.com
 abc56.unoadsrv.com
 abc57.unoadsrv.com
 abc58.unoadsrv.com
-abc8.unoadsrv.com
 abc9.unoadsrv.com
 ads1.unoadsrv.com
 ads10.unoadsrv.com
@@ -50139,8 +50134,6 @@ ads117.unoadsrv.com
 ads118.unoadsrv.com
 ads119.unoadsrv.com
 ads12.unoadsrv.com
-ads120.unoadsrv.com
-ads121.unoadsrv.com
 ads122.unoadsrv.com
 ads123.unoadsrv.com
 ads124.unoadsrv.com
@@ -50154,7 +50147,6 @@ ads130.unoadsrv.com
 ads131.unoadsrv.com
 ads132.unoadsrv.com
 ads133.unoadsrv.com
-ads134.unoadsrv.com
 ads135.unoadsrv.com
 ads136.unoadsrv.com
 ads137.unoadsrv.com
@@ -55342,8 +55334,10 @@ wmsplus.datsfree.info
 ww1.datsfree.info
 ww11.datsfree.info
 ww16.datsfree.info
+ww17.datsfree.info
 ww2.datsfree.info
 ww25.datsfree.info
+ww38.datsfree.info
 davphantom.info
 dcis.info
 dds35.info
@@ -55468,7 +55462,6 @@ www.dramaticdistinctives.info
 drare.info
 drasticdsemulatorapk.info
 dreiband.info
-www.drg-faq.info
 dropcable.info
 drpciv.info
 duman.info
@@ -56430,9 +56423,13 @@ nomer-org.info
 nomosaic.info
 non-verbal.info
 nontonfilm.info
-ww16.mvideo.nonude-stars.info
+mvideo.nonude-stars.info
+test7.nonude-stars.info
+ww1.nonude-stars.info
+ww16.nonude-stars.info
 ww25.nonude-stars.info
 ww38.nonude-stars.info
+www.nonude-stars.info
 noorani.info
 noraredenoma.info
 norrland.info
@@ -56900,10 +56897,6 @@ dc-78f5fcb07f88.salemfonden.info
 webdisk.salemfonden.info
 workoutwalls.salemfonden.info
 ww1.salemfonden.info
-ww11.salemfonden.info
-ww17.salemfonden.info
-ww25.salemfonden.info
-ww38.salemfonden.info
 www.salemfonden.info
 saludablemente.info
 samstha.info
@@ -57185,6 +57178,7 @@ myb.tap7500.info
 pp.tap7500.info
 ppn.tap7500.info
 prr.tap7500.info
+ww25.tr.tap7500.info
 ww38.tap7500.info
 www.tap7500.info
 taraftarium24hd.info
@@ -57963,7 +57957,10 @@ wikiseda.info
 win-prize.info
 winner-topper-1.info
 wir9.info
+ww1.wishrobux.info
 ww16.wishrobux.info
+ww25.wishrobux.info
+ww38.wishrobux.info
 www.wishrobux.info
 witze.info
 woco.info
@@ -102862,7 +102859,6 @@ hsn.uqhv.net
 ww16.uraffinity.net
 ww17.uraffinity.net
 ww25.uraffinity.net
-ww3.uraffinity.net
 urlcash.net
 urldata.net
 urlpush.net
@@ -103948,36 +103944,58 @@ ebase64encode.org
 ebibloteca.org
 ebliblioteca.org
 ebssa.org
+antispam.ecobanca.org
 authsmtp.ecobanca.org
+barracuda.ecobanca.org
 correo.ecobanca.org
+ww25.email.ecobanca.org
 gate.ecobanca.org
+gateway.ecobanca.org
+gw.ecobanca.org
 hermes.ecobanca.org
+host.ecobanca.org
 internet.ecobanca.org
 m.ecobanca.org
 mail12.ecobanca.org
+ww25.mail2.ecobanca.org
+mail9.ecobanca.org
+mailbox.ecobanca.org
 ww25.mailer.ecobanca.org
+ww25.mailgate.ecobanca.org
 ww25.mailout.ecobanca.org
 mailrelay.ecobanca.org
 mailserver.ecobanca.org
 ms.ecobanca.org
+ms1.ecobanca.org
+ww25.mx.ecobanca.org
 mx0.ecobanca.org
 mx02.ecobanca.org
 mx1.ecobanca.org
+mx10.ecobanca.org
+mx2.ecobanca.org
 mx20.ecobanca.org
 mx3.ecobanca.org
 mx5.ecobanca.org
 newmail.ecobanca.org
 po.ecobanca.org
+ww25.poczta.ecobanca.org
 relay2.ecobanca.org
+ww25.secure.ecobanca.org
 ww25.server.ecobanca.org
 ww25.server1.ecobanca.org
+server2.ecobanca.org
+smtp01.ecobanca.org
+ww25.smtp2.ecobanca.org
 smtps.ecobanca.org
 smtpseguro.ecobanca.org
 sniper.ecobanca.org
 tiger.ecobanca.org
 ww1.ecobanca.org
+ww11.ecobanca.org
+ww16.ecobanca.org
 ww17.ecobanca.org
 ww31.ecobanca.org
+www.ecobanca.org
 zimbra.ecobanca.org
 ecosi.org
 ecyclemo.org
@@ -104517,6 +104535,7 @@ littlelibrary.org
 liveforextrading.org
 livervox.org
 lmba.org
+world.lndproxy.org
 logview.org
 londonmint.org
 lophisc.org
@@ -104903,7 +104922,6 @@ engage.physicstoday.org
 pi-hole.org
 piedmonthenry.org
 ww1.pioneerwoman.org
-ww38.pioneerwoman.org
 piratca.org
 pirlotv.org
 pitchme.org
@@ -105351,7 +105369,6 @@ scribd.org
 sdacape.org
 sdutlinux.org
 seasemestreet.org
-ww2.secume.org
 securedsearch.org
 securityservicefederalcreditunion.org
 sedg.org
@@ -105524,9 +105541,7 @@ teamtoyminator.org
 technowledge.org
 teensx.org
 tehbox.org
-ww1.telecharger-musique-gratuit.org
 ww25.telecharger-musique-gratuit.org
-www.telecharger-musique-gratuit.org
 televisiongratis.org
 temo-mail.org
 temporarymail.org
