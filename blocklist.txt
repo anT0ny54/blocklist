@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343458
+# Ignored duplicates: 343480
 
 chameleon.ad
 pixel.ad
@@ -2445,11 +2445,6 @@ prod-api.us-east-1.smart-pixel.advertising.a2z.com
 prod-qaas.us-east-1.smart-pixel.advertising.a2z.com
 prod-api.us-west-2.smart-pixel.advertising.a2z.com
 prod-qaas.us-west-2.smart-pixel.advertising.a2z.com
-beta.status-rollup.sponsored-display.advertising.a2z.com
-gamma-us.status-rollup.sponsored-display.advertising.a2z.com
-prod-us.status-rollup.sponsored-display.advertising.a2z.com
-beta.suspension.sponsored-display.advertising.a2z.com
-prod-us.suspension.sponsored-display.advertising.a2z.com
 storm.advertising.a2z.com
 taxonomy.advertising.a2z.com
 eu-west-1.beta.tpasp-tag-processing.advertising.a2z.com
@@ -5417,6 +5412,7 @@ radioactive.adswizz.com
 radionomy.adswizz.com
 a0016-spokenlangidentifier.ai.randi.adswizz.com
 c0113-banner-recommender.ai.randi.adswizz.com
+c0114-web-extractor.ai.randi.adswizz.com
 captain.ai.randi.adswizz.com
 analytics.randi.adswizz.com
 a0001-textrazor.apps.randi.adswizz.com
@@ -5510,9 +5506,11 @@ metabase.tools.randi.adswizz.com
 minide-simulator.tools.randi.adswizz.com
 sbf-forecast-api.tools.randi.adswizz.com
 sbf-redirect-ads.tools.randi.adswizz.com
+sentry.tools.randi.adswizz.com
 status.tools.randi.adswizz.com
 u0032-creative-studio.tools.randi.adswizz.com
 url-to-ad-voting.tools.randi.adswizz.com
+url2png.tools.randi.adswizz.com
 usproxy.randi.adswizz.com
 rmb.adswizz.com
 rmsi.adswizz.com
@@ -8525,6 +8523,7 @@ ww11.c-loverz.com
 ww17.c-loverz.com
 ww25.c-loverz.com
 ww31.c-loverz.com
+ww38.c-loverz.com
 www.c-loverz.com
 c1exchange.com
 c3metrics.com
@@ -11114,7 +11113,6 @@ dofattv.com
 dofloration.com
 dogcollarfavourbluff.com
 dogeblack.com
-ww1.dogfoodanaylisis.com
 doggiepot.com
 dogmelon.com
 dogwisperer.com
@@ -14667,7 +14665,6 @@ hofucuqu.com
 holidayinnanaheimresort.com
 holidayinnaruba.com
 holihungama.com
-www.holitika.com
 hollowafterthought.com
 hollymodel.com
 ads.hollywood.com
@@ -15691,7 +15688,6 @@ joyoussurprise.com
 joystickinteractive.com
 jpcooler.com
 jpiowmovvam.com
-ww1.jpplaystation.com
 jqery.com
 jrmup.com
 jrmzp.com
@@ -17110,6 +17106,7 @@ lungcancerguides.com
 image.lurentangousa.com
 m.lurentangousa.com
 ww25.lurentangousa.com
+www.lurentangousa.com
 lusonada.com
 luvcrush.com
 luvetube.com
@@ -17307,7 +17304,6 @@ manjisstudio.com
 manroulett.com
 mansrun.com
 mantisadnetwork.com
-ww1.manu5.com
 prof.manuelnovais.com
 snap.events.mapbox.com
 maplesims.com
@@ -18407,7 +18403,6 @@ meiratboutique.com
 communications.melitaltd.com
 mellowads.com
 ww1.melrosejewelry.com
-www.melrosejewelry.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -31948,6 +31943,8 @@ mypolicygeico.com
 mypowermall.com
 cobrowse.mypurecloud.com
 myroitracking.com
+mail.mysace.com
+www.mysace.com
 mysexfantasies.com
 myshopinggenie.com
 myshoppingcenters.com
@@ -32652,7 +32649,6 @@ stats.nextgen-email.com
 adv.nexthardware.com
 nextroll.com
 nexusprostatemassage.com
-ww25.nflfootballscreensavers.com
 nflgo.com
 nfltv.com
 nfwebminer.com
@@ -37954,7 +37950,6 @@ pholongden.com
 metrics.phonegap.com
 ads.phonepe.com
 phonesdo.com
-www.photobudcket.com
 photobunner.com
 photofaceframe.com
 photographpan.com
@@ -39195,7 +39190,6 @@ tableau.purch.com
 vc.purch.com
 videounit.purch.com
 www.purch.com
-www.puresweeteners.com
 pursuanthealth.com
 pushame.com
 pushance.com
@@ -44226,7 +44220,6 @@ studio.reyoutube.com
 ww1.reyoutube.com
 ww15.reyoutube.com
 ww2.reyoutube.com
-ww5.reyoutube.com
 www.reyoutube.com
 rezonence.com
 rezultait.com
@@ -44919,7 +44912,6 @@ autoconfig.roadeunner.com
 mail.roadeunner.com
 mail2.roadeunner.com
 mx.roadeunner.com
-pop.roadeunner.com
 secureimap.roadeunner.com
 securemail.roadeunner.com
 securepop.roadeunner.com
@@ -47699,7 +47691,6 @@ spongebobsquarepans.com
 offer.sponsorpay.com
 spookysleet.com
 2126230.sportacents.com
-mx1.sportacents.com
 sportboobs.com
 sportkeeda.com
 sportovnivozy.com
@@ -47718,7 +47709,6 @@ llnw.spotxcdn.com
 spotxchange.com
 ad.spreaker.com
 spribd.com
-www.spriceline.com
 springaftermath.com
 springbot.com
 springhillbulbs.com
@@ -48953,7 +48943,6 @@ ww38.tedwilliamshead.com
 www.tedwilliamshead.com
 teenagelounge.com
 teeniesluts.com
-www.teenreadstoo.com
 teenrevenue.com
 teenyvolcano.com
 teeradio.com
@@ -49372,7 +49361,6 @@ trableflick.com
 tracead.com
 trachbilling.com
 track4cr.com
-cdn.trackadm.com
 dev.trackadm.com
 www.trackadm.com
 trackalyzer.com
@@ -49487,7 +49475,6 @@ triton-topo.com
 trknths.com
 trkoptimizer.com
 tropbox.com
-ww5.trophyboobs.com
 antispam.tropicanagoldcasino.com
 auth.tropicanagoldcasino.com
 authsmtp.tropicanagoldcasino.com
@@ -51607,9 +51594,7 @@ www.watchesidol.com
 watchfreeliveporn.com
 watchonlinehindimovies.com
 watchoop.com
-mail.watchthechannel.com
 ww1.watchthechannel.com
-www.watchthechannel.com
 wateryvan.com
 watrick.com
 wavesecure.com
@@ -51766,7 +51751,6 @@ waaqaui01.webtrends.com
 waaqaui02.webtrends.com
 www.webtrends.com
 webtrendslive.com
-www.webtvforfree.com
 webwiseforradio.com
 webxcdn.com
 webxmr.com
@@ -51825,8 +51809,6 @@ whisperingcrib.com
 whitelabelpros.com
 www.whittallshonmen.com
 whizzco.com
-ww1.whoareyoudesigns.com
-ww5.whoareyoudesigns.com
 ads.whoishostingthis.com
 whoisvisiting.com
 wholefoofs.com
@@ -54948,6 +54930,7 @@ av99cn.info
 avakin.info
 avgpctuneup2019.info
 avlang17.info
+www.avlist.info
 avpt.info
 www.avtonom.info
 ayc0zsm69431gfebd.info
@@ -55338,6 +55321,7 @@ ww17.datsfree.info
 ww2.datsfree.info
 ww25.datsfree.info
 ww38.datsfree.info
+www.datsfree.info
 davphantom.info
 dcis.info
 dds35.info
@@ -56408,6 +56392,7 @@ ww11.nikeclassicac.info
 ww17.nikeclassicac.info
 ww25.nikeclassicac.info
 ww38.nikeclassicac.info
+www.nikeclassicac.info
 nipponicum.info
 nnbbs.info
 ww1.nnmodels.info
@@ -56427,6 +56412,7 @@ mvideo.nonude-stars.info
 test7.nonude-stars.info
 ww1.nonude-stars.info
 ww16.nonude-stars.info
+ww17.nonude-stars.info
 ww25.nonude-stars.info
 ww38.nonude-stars.info
 www.nonude-stars.info
@@ -57169,6 +57155,8 @@ chk.tap7500.info
 chv1.tap7500.info
 chv2.tap7500.info
 chv3.tap7500.info
+clcl.tap7500.info
+co.tap7500.info
 gp.tap7500.info
 grn.tap7500.info
 it.tap7500.info
@@ -57178,7 +57166,10 @@ myb.tap7500.info
 pp.tap7500.info
 ppn.tap7500.info
 prr.tap7500.info
+s10.tap7500.info
 ww25.tr.tap7500.info
+ww16.tap7500.info
+ww25.tap7500.info
 ww38.tap7500.info
 www.tap7500.info
 taraftarium24hd.info
@@ -58120,7 +58111,6 @@ cpcalendars.zalau.info
 cpcontacts.zalau.info
 mail.zalau.info
 ww17.zalau.info
-www.zalau.info
 zapret.info
 zaraban.info
 zcpa.info
@@ -102857,7 +102847,6 @@ updtr.net
 upskirts69.net
 hsn.uqhv.net
 ww16.uraffinity.net
-ww17.uraffinity.net
 ww25.uraffinity.net
 urlcash.net
 urldata.net
@@ -103092,7 +103081,9 @@ seed-9.nimiq.network
 pub.network
 tracking.bonnier.news
 cpcalendars.eazybiz.ng
+cpcontacts.eazybiz.ng
 mail.eazybiz.ng
+webdisk.eazybiz.ng
 www.eazybiz.ng
 ad4mat.nl
 adpepper.nl
@@ -103331,7 +103322,6 @@ americanthinker.org
 antispam.amishheaters.org
 art.amishheaters.org
 auth.amishheaters.org
-authsmtp.amishheaters.org
 barracuda.amishheaters.org
 box.amishheaters.org
 com.amishheaters.org
@@ -103355,7 +103345,6 @@ mail02.amishheaters.org
 mail1.amishheaters.org
 mail10.amishheaters.org
 mail11.amishheaters.org
-mail12.amishheaters.org
 mail3.amishheaters.org
 mail4.amishheaters.org
 mail5.amishheaters.org
@@ -103400,25 +103389,20 @@ pop.amishheaters.org
 post.amishheaters.org
 posta.amishheaters.org
 postmaster.amishheaters.org
-relay.amishheaters.org
 relay1.amishheaters.org
-relay2.amishheaters.org
 seed.amishheaters.org
 send.amishheaters.org
 server.amishheaters.org
 server2.amishheaters.org
 smtp01.amishheaters.org
 ww25.smtp3.amishheaters.org
-smtpauth.amishheaters.org
 smtpseguro.amishheaters.org
 sniper.amishheaters.org
 srv.amishheaters.org
-static.amishheaters.org
 thor.amishheaters.org
 vip.amishheaters.org
 vnet.amishheaters.org
 vps.amishheaters.org
-web.amishheaters.org
 ww1.amishheaters.org
 ww12.amishheaters.org
 ww16.amishheaters.org
@@ -103427,7 +103411,6 @@ ww25.amishheaters.org
 ww38.amishheaters.org
 ww7.amishheaters.org
 www.amishheaters.org
-zimbra.amishheaters.org
 zmail.amishheaters.org
 analytics.amiunique.org
 android4play.org
@@ -103548,7 +103531,7 @@ bestfreinds.org
 bethmore.org
 betterlessons.org
 bewildandout.org
-mail.beylikduzugunlukkiralik.org
+beylikduzugunlukkiralik.org
 beyondbrilliance.org
 bf6.org
 bibblio.org
@@ -103945,29 +103928,38 @@ ebibloteca.org
 ebliblioteca.org
 ebssa.org
 antispam.ecobanca.org
+auth.ecobanca.org
 authsmtp.ecobanca.org
 barracuda.ecobanca.org
 correo.ecobanca.org
-ww25.email.ecobanca.org
+email.ecobanca.org
 gate.ecobanca.org
 gateway.ecobanca.org
 gw.ecobanca.org
 hermes.ecobanca.org
 host.ecobanca.org
+imap1.ecobanca.org
+imap2.ecobanca.org
 internet.ecobanca.org
 m.ecobanca.org
+mail.ecobanca.org
+mail01.ecobanca.org
 mail12.ecobanca.org
-ww25.mail2.ecobanca.org
+mail2.ecobanca.org
 mail9.ecobanca.org
 mailbox.ecobanca.org
-ww25.mailer.ecobanca.org
-ww25.mailgate.ecobanca.org
-ww25.mailout.ecobanca.org
+mailer.ecobanca.org
+mailgate.ecobanca.org
+mailgw.ecobanca.org
+mailhost.ecobanca.org
+mailin.ecobanca.org
+mailout.ecobanca.org
 mailrelay.ecobanca.org
 mailserver.ecobanca.org
+mailx.ecobanca.org
 ms.ecobanca.org
 ms1.ecobanca.org
-ww25.mx.ecobanca.org
+mx.ecobanca.org
 mx0.ecobanca.org
 mx02.ecobanca.org
 mx1.ecobanca.org
@@ -103975,17 +103967,28 @@ mx10.ecobanca.org
 mx2.ecobanca.org
 mx20.ecobanca.org
 mx3.ecobanca.org
+mx4.ecobanca.org
 mx5.ecobanca.org
 newmail.ecobanca.org
+ns1.ecobanca.org
+ns2.ecobanca.org
+out.ecobanca.org
 po.ecobanca.org
-ww25.poczta.ecobanca.org
+poczta.ecobanca.org
+pop.ecobanca.org
+post.ecobanca.org
+postmaster.ecobanca.org
+relay.ecobanca.org
+relay1.ecobanca.org
 relay2.ecobanca.org
-ww25.secure.ecobanca.org
-ww25.server.ecobanca.org
-ww25.server1.ecobanca.org
+secure.ecobanca.org
+server.ecobanca.org
+server1.ecobanca.org
 server2.ecobanca.org
 smtp01.ecobanca.org
 ww25.smtp2.ecobanca.org
+smtpauth.ecobanca.org
+smtpmail.ecobanca.org
 smtps.ecobanca.org
 smtpseguro.ecobanca.org
 sniper.ecobanca.org
@@ -103994,8 +103997,11 @@ ww1.ecobanca.org
 ww11.ecobanca.org
 ww16.ecobanca.org
 ww17.ecobanca.org
+ww25.ecobanca.org
 ww31.ecobanca.org
 www.ecobanca.org
+www1.ecobanca.org
+www2.ecobanca.org
 zimbra.ecobanca.org
 ecosi.org
 ecyclemo.org
@@ -104535,6 +104541,7 @@ littlelibrary.org
 liveforextrading.org
 livervox.org
 lmba.org
+eres.lndproxy.org
 world.lndproxy.org
 logview.org
 londonmint.org
@@ -104712,6 +104719,7 @@ myshopify.org
 mytaxforms.org
 myworkplace.org
 myzou.org
+www.naarm.org
 nalcbp.org
 napolisotteranea.org
 narms.org
@@ -104805,6 +104813,7 @@ nowhiteguilt.org
 npid.org
 click.nl.npr.org
 carebot.nprapps.org
+www.nra2016.org
 nsnews.org
 nspstutter.org
 nsula.org
@@ -109670,6 +109679,7 @@ intentiq.digitru.st
 lijit.digitru.st
 mediamath.digitru.st
 p161.digitru.st
+pixel.digitru.st
 prebid.digitru.st
 rubicon.digitru.st
 trustx.digitru.st
