@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343480
+# Ignored duplicates: 343390
 
 chameleon.ad
 pixel.ad
@@ -5951,7 +5951,6 @@ ww5.aerboltic.com
 www.aerboltic.com
 aerlingusair.com
 ww1.aerobuss.com
-www.aerobuss.com
 aeropoatal.com
 aerserv.com
 smetrics.aetn.com
@@ -6689,7 +6688,6 @@ ep.americanexpress.com
 iwmap.americanexpress.com
 onexp.americanexpress.com
 americanironhorse.com
-aaa.americanlibertyscolarship.com
 ww1.americanlibertyscolarship.com
 ww5.americanlibertyscolarship.com
 www.americanlibertyscolarship.com
@@ -6803,6 +6801,7 @@ status.amplitude.com
 test-experiment.amplitude.com
 thunder.amplitude.com
 trainingpartners.amplitude.com
+trust.amplitude.com
 prod.us-west-2.amplitude.com
 www.amplitude.com
 amsterdam-apartments.com
@@ -7343,7 +7342,6 @@ avalcred.com
 avalonalbum.com
 avantisvideo.com
 uib.ff.avast.com
-www.avastgratis.com
 avenuea.com
 tracking.avestatidning.com
 webtuneup.avg.com
@@ -10436,7 +10434,6 @@ ww1.davidmovi.com
 www.davidmovi.com
 daviedmovie.com
 ww5.davischevy.com
-www.davischevy.com
 davisheritage.com
 daylightmotorsinc.com
 daysinnbakersfieldca.com
@@ -11652,16 +11649,13 @@ imap1.elianca.com
 imap2.elianca.com
 m.elianca.com
 mail11.elianca.com
-mail12.elianca.com
 mail4.elianca.com
-mail6.elianca.com
 mailer.elianca.com
 mailgate.elianca.com
 mailhost.elianca.com
 mailin.elianca.com
 mailout.elianca.com
 mailserver.elianca.com
-mailsrv.elianca.com
 mx.elianca.com
 mx1.elianca.com
 mx2.elianca.com
@@ -11674,18 +11668,15 @@ po.elianca.com
 pop.elianca.com
 post.elianca.com
 relay.elianca.com
-relay1.elianca.com
 server2.elianca.com
 smtpauth.elianca.com
 ww25.elianca.com
 ww35.elianca.com
 ww38.elianca.com
-ww5.elianca.com
 ww6.elianca.com
 www.elianca.com
 www1.elianca.com
 www2.elianca.com
-zimbra.elianca.com
 zmail.elianca.com
 elitedollars.com
 elitetoplist.com
@@ -13569,7 +13560,56 @@ ido.gepush.com
 talk.nz4.gepush.com
 open.talk.gepush.com
 geradordecamisa.com
-gerileblanc.com
+barracuda.gerileblanc.com
+box.gerileblanc.com
+email.gerileblanc.com
+gate.gerileblanc.com
+gateway.gerileblanc.com
+gw.gerileblanc.com
+home.gerileblanc.com
+mail.gerileblanc.com
+mail1.gerileblanc.com
+mail10.gerileblanc.com
+mail2.gerileblanc.com
+mail4.gerileblanc.com
+mailbox.gerileblanc.com
+mailer.gerileblanc.com
+mailgate.gerileblanc.com
+mailin.gerileblanc.com
+mailrelay.gerileblanc.com
+mailserver.gerileblanc.com
+mailx.gerileblanc.com
+ms1.gerileblanc.com
+mx.gerileblanc.com
+mx02.gerileblanc.com
+mx1.gerileblanc.com
+mx10.gerileblanc.com
+mx2.gerileblanc.com
+newmail.gerileblanc.com
+ns1.gerileblanc.com
+ns2.gerileblanc.com
+poczta.gerileblanc.com
+pop.gerileblanc.com
+ww25.pop3.gerileblanc.com
+post.gerileblanc.com
+posta.gerileblanc.com
+postmaster.gerileblanc.com
+relay.gerileblanc.com
+relay2.gerileblanc.com
+server.gerileblanc.com
+server1.gerileblanc.com
+smtp01.gerileblanc.com
+smtpauth.gerileblanc.com
+smtps.gerileblanc.com
+smtpseguro.gerileblanc.com
+srv.gerileblanc.com
+vmail.gerileblanc.com
+ww10.gerileblanc.com
+ww11.gerileblanc.com
+ww38.gerileblanc.com
+www.gerileblanc.com
+www1.gerileblanc.com
+zmail.gerileblanc.com
 germaintoyotaofsarasota.com
 get-templates.com
 log.getadblock.com
@@ -15480,7 +15520,6 @@ adserver.irishwebmasterforum.com
 ironmanthegame.com
 irrationallayouts.com
 t.irtyd.com
-www.islamiphone.com
 dm.isnssdk.com
 f-p-useast2a.isnssdk.com
 f-p-va.isnssdk.com
@@ -17103,10 +17142,7 @@ lulutong8899.com
 lulutuh.com
 lumberamount.com
 lungcancerguides.com
-image.lurentangousa.com
-m.lurentangousa.com
-ww25.lurentangousa.com
-www.lurentangousa.com
+lurentangousa.com
 lusonada.com
 luvcrush.com
 luvetube.com
@@ -18402,7 +18438,6 @@ meijiers.com
 meiratboutique.com
 communications.melitaltd.com
 mellowads.com
-ww1.melrosejewelry.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -31944,6 +31979,7 @@ mypowermall.com
 cobrowse.mypurecloud.com
 myroitracking.com
 mail.mysace.com
+mx1.mysace.com
 www.mysace.com
 mysexfantasies.com
 myshopinggenie.com
@@ -44916,7 +44952,6 @@ secureimap.roadeunner.com
 securemail.roadeunner.com
 securepop.roadeunner.com
 ww1.roadeunner.com
-www.roadeunner.com
 roadrunnerl.com
 roar.com
 robertpetro.com
@@ -47690,7 +47725,6 @@ spognebob.com
 spongebobsquarepans.com
 offer.sponsorpay.com
 spookysleet.com
-2126230.sportacents.com
 sportboobs.com
 sportkeeda.com
 sportovnivozy.com
@@ -49409,8 +49443,6 @@ tranquilside.com
 transferlights.com
 transitodemedellin.com
 translategoogle.com
-ww1.translatorgoogle.com
-ww25.translatorgoogle.com
 www.translatorgoogle.com
 transmapp.com
 trasformise.com
@@ -49631,7 +49663,6 @@ tubblee.com
 jp.tube16.com
 ww.tube16.com
 ww1.tube16.com
-ww25.tube16.com
 www.tube16.com
 tube21.com
 ifa.tube8live.com
@@ -50129,7 +50160,6 @@ ads126.unoadsrv.com
 ads127.unoadsrv.com
 ads128.unoadsrv.com
 ads129.unoadsrv.com
-ads13.unoadsrv.com
 ads130.unoadsrv.com
 ads131.unoadsrv.com
 ads132.unoadsrv.com
@@ -50139,7 +50169,6 @@ ads136.unoadsrv.com
 ads137.unoadsrv.com
 ads138.unoadsrv.com
 ads139.unoadsrv.com
-ads14.unoadsrv.com
 ads140.unoadsrv.com
 ads141.unoadsrv.com
 ads144.unoadsrv.com
@@ -50148,7 +50177,6 @@ ads146.unoadsrv.com
 ads147.unoadsrv.com
 ads148.unoadsrv.com
 ads149.unoadsrv.com
-ads15.unoadsrv.com
 ads150.unoadsrv.com
 ads151.unoadsrv.com
 ads152.unoadsrv.com
@@ -50158,9 +50186,7 @@ ads155.unoadsrv.com
 ads156.unoadsrv.com
 ads157.unoadsrv.com
 ads158.unoadsrv.com
-ads16.unoadsrv.com
 ads163.unoadsrv.com
-ads164.unoadsrv.com
 ads17.unoadsrv.com
 ads18.unoadsrv.com
 ads19.unoadsrv.com
@@ -50170,7 +50196,6 @@ ads201.unoadsrv.com
 ads202.unoadsrv.com
 ads205.unoadsrv.com
 ads206.unoadsrv.com
-ads21.unoadsrv.com
 ads210.unoadsrv.com
 ads211.unoadsrv.com
 ads213.unoadsrv.com
@@ -50180,7 +50205,6 @@ ads216.unoadsrv.com
 ads217.unoadsrv.com
 ads218.unoadsrv.com
 ads219.unoadsrv.com
-ads22.unoadsrv.com
 ads220.unoadsrv.com
 ads221.unoadsrv.com
 ads222.unoadsrv.com
@@ -50191,34 +50215,24 @@ ads226.unoadsrv.com
 ads227.unoadsrv.com
 ads228.unoadsrv.com
 ads229.unoadsrv.com
-ads23.unoadsrv.com
 ads230.unoadsrv.com
 ads231.unoadsrv.com
 ads232.unoadsrv.com
 ads24.unoadsrv.com
 ads25.unoadsrv.com
-ads27.unoadsrv.com
 ads28.unoadsrv.com
 ads29.unoadsrv.com
 ads3.unoadsrv.com
 ads30.unoadsrv.com
-ads31.unoadsrv.com
-ads32.unoadsrv.com
-ads33.unoadsrv.com
 ads34.unoadsrv.com
 ads35.unoadsrv.com
 ads352.unoadsrv.com
 ads36.unoadsrv.com
 ads37.unoadsrv.com
 ads38.unoadsrv.com
-ads39.unoadsrv.com
 ads4.unoadsrv.com
 ads40.unoadsrv.com
-ads41.unoadsrv.com
-ads42.unoadsrv.com
-ads43.unoadsrv.com
 ads44.unoadsrv.com
-ads45.unoadsrv.com
 ads46.unoadsrv.com
 ads47.unoadsrv.com
 ads48.unoadsrv.com
@@ -50226,21 +50240,16 @@ ads49.unoadsrv.com
 ads5.unoadsrv.com
 ads50.unoadsrv.com
 ads51.unoadsrv.com
-ads52.unoadsrv.com
 ads53.unoadsrv.com
-ads54.unoadsrv.com
 ads55.unoadsrv.com
 ads56.unoadsrv.com
 ads57.unoadsrv.com
 ads58.unoadsrv.com
 ads59.unoadsrv.com
-ads6.unoadsrv.com
 ads61.unoadsrv.com
 ads62.unoadsrv.com
 ads63.unoadsrv.com
-ads65.unoadsrv.com
 ads7.unoadsrv.com
-ads8.unoadsrv.com
 ads9.unoadsrv.com
 ads99.unoadsrv.com
 ads16.artb.unoadsrv.com
@@ -51580,7 +51589,6 @@ warrock-hack.com
 waryfog.com
 metrics.washingtonpost.com
 smetrics.washingtonpost.com
-wallet.watchboxinglive.com
 ww25.watchboxinglive.com
 ww5.watchboxinglive.com
 www.watchboxinglive.com
@@ -51594,7 +51602,6 @@ www.watchesidol.com
 watchfreeliveporn.com
 watchonlinehindimovies.com
 watchoop.com
-ww1.watchthechannel.com
 wateryvan.com
 watrick.com
 wavesecure.com
@@ -52012,7 +52019,6 @@ wwwclubefashion.com
 wwwcmpco.com
 ww1.wwwcommunityccrx.com
 ww5.wwwcommunityccrx.com
-www.wwwcommunityccrx.com
 wwwcrankyape.com
 wwwdatviet.com
 wwwdiamondresorts.com
@@ -56784,6 +56790,7 @@ ranking-gate.info
 cpcalendars.raport-wsi.info
 cpcontacts.raport-wsi.info
 mail.raport-wsi.info
+www.raport-wsi.info
 raucherclub.info
 rauchfrei.info
 rauris.info
@@ -56879,7 +56886,6 @@ rxhd.info
 saalbach-hinterglemm.info
 saiphptc.info
 archivepdf.salemfonden.info
-dc-78f5fcb07f88.salemfonden.info
 webdisk.salemfonden.info
 workoutwalls.salemfonden.info
 ww1.salemfonden.info
@@ -57159,6 +57165,8 @@ clcl.tap7500.info
 co.tap7500.info
 gp.tap7500.info
 grn.tap7500.info
+ww1.ho2.tap7500.info
+ww38.ho2.tap7500.info
 it.tap7500.info
 mc.tap7500.info
 mya.tap7500.info
@@ -57950,6 +57958,7 @@ winner-topper-1.info
 wir9.info
 ww1.wishrobux.info
 ww16.wishrobux.info
+ww17.wishrobux.info
 ww25.wishrobux.info
 ww38.wishrobux.info
 www.wishrobux.info
@@ -58099,8 +58108,6 @@ youhookup.info
 youluckywinner.info
 your-account.info
 yourapps.info
-ww17.yourbestcity.info
-ww25.yourbestcity.info
 www.yourbestcity.info
 ytliu.info
 yunss.info
@@ -58109,7 +58116,6 @@ zaburzeniaodzywiania.info
 autodiscover.zalau.info
 cpcalendars.zalau.info
 cpcontacts.zalau.info
-mail.zalau.info
 ww17.zalau.info
 zapret.info
 zaraban.info
@@ -65673,7 +65679,6 @@ cookie-sync-desktop.yellowblue.io
 cs.yellowblue.io
 cs-server-s2s.yellowblue.io
 demo-sdk.yellowblue.io
-funbox-ivp-4444-amit.yellowblue.io
 hb.yellowblue.io
 reports-api.yellowblue.io
 rise-files-manager-api-production.yellowblue.io
@@ -102846,8 +102851,6 @@ upapi.net
 updtr.net
 upskirts69.net
 hsn.uqhv.net
-ww16.uraffinity.net
-ww25.uraffinity.net
 urlcash.net
 urldata.net
 urlpush.net
@@ -102868,7 +102871,6 @@ lb.sjc1.visto1.net
 t.visto1.net
 tprod.visto1.net
 vivads.net
-ww1.voyuerpass.net
 www.voyuerpass.net
 w55c.net
 wach-movies.net
@@ -103407,8 +103409,6 @@ ww1.amishheaters.org
 ww12.amishheaters.org
 ww16.amishheaters.org
 ww17.amishheaters.org
-ww25.amishheaters.org
-ww38.amishheaters.org
 ww7.amishheaters.org
 www.amishheaters.org
 zmail.amishheaters.org
@@ -104543,6 +104543,7 @@ livervox.org
 lmba.org
 eres.lndproxy.org
 world.lndproxy.org
+ww1.lndproxy.org
 logview.org
 londonmint.org
 lophisc.org
@@ -104930,7 +104931,6 @@ ads.phpclasses.org
 engage.physicstoday.org
 pi-hole.org
 piedmonthenry.org
-ww1.pioneerwoman.org
 piratca.org
 pirlotv.org
 pitchme.org
@@ -105421,6 +105421,7 @@ skilift.org
 slavefootprint.org
 slaveryvoyages.org
 sleduj.org
+slick2d.org
 slocraigslist.org
 slsherriff.org
 sm64.org
