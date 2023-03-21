@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343390
+# Ignored duplicates: 343403
 
 chameleon.ad
 pixel.ad
@@ -2217,7 +2217,6 @@ zmail.2sshoes.com
 mailbox.3gsun.com
 ww11.3gsun.com
 ww35.3gsun.com
-ww5.3gsun.com
 www.3gsun.com
 3lift.com
 3wassonnet.com
@@ -2513,19 +2512,25 @@ imap2.abcdirectshop.com
 m.abcdirectshop.com
 mail1.abcdirectshop.com
 mail12.abcdirectshop.com
+mail3.abcdirectshop.com
 mailgate.abcdirectshop.com
+mailgw.abcdirectshop.com
 mailhost.abcdirectshop.com
+mailin.abcdirectshop.com
 mx.abcdirectshop.com
+mx01.abcdirectshop.com
 mx02.abcdirectshop.com
 mx20.abcdirectshop.com
 mx4.abcdirectshop.com
 mx5.abcdirectshop.com
 ns.abcdirectshop.com
 ns1.abcdirectshop.com
+out.abcdirectshop.com
 poczta.abcdirectshop.com
 post.abcdirectshop.com
 postmaster.abcdirectshop.com
 relay.abcdirectshop.com
+relay1.abcdirectshop.com
 relay2.abcdirectshop.com
 server1.abcdirectshop.com
 smtpauth.abcdirectshop.com
@@ -3114,26 +3119,41 @@ adiltwork.com
 adimore.com
 adintend.com
 adinterax.com
+auth.adioshack.com
 cs.adioshack.com
 host.adioshack.com
+m.adioshack.com
+mail01.adioshack.com
 mail12.adioshack.com
+mail2.adioshack.com
 mail9.adioshack.com
 mailer.adioshack.com
+mailgate.adioshack.com
+mailhost.adioshack.com
+mailin.adioshack.com
 mailserver.adioshack.com
 mvideo.adioshack.com
+mx.adioshack.com
 mx01.adioshack.com
 mx02.adioshack.com
+mx1.adioshack.com
+mx2.adioshack.com
 ns.adioshack.com
-ww25.ns1.adioshack.com
+ns1.adioshack.com
 outmail.adioshack.com
 po.adioshack.com
-ww25.pop.adioshack.com
+poczta.adioshack.com
+pop.adioshack.com
+post.adioshack.com
 posta.adioshack.com
+r.adioshack.com
 relay.adioshack.com
+server.adioshack.com
 smtpauth.adioshack.com
 sniper.adioshack.com
 ww16.adioshack.com
 ww25.adioshack.com
+www.adioshack.com
 zmail.adioshack.com
 adisfy.com
 adition.com
@@ -5946,7 +5966,6 @@ aeabsexweb.com
 aegeansir.com
 tracking.aegpresents.com
 aeoutfiters.com
-ww1.aerboltic.com
 ww5.aerboltic.com
 www.aerboltic.com
 aerlingusair.com
@@ -6097,6 +6116,7 @@ airpush.com
 ww25.airsoftsoldier.com
 ww35.airsoftsoldier.com
 ww38.airsoftsoldier.com
+ww5.airsoftsoldier.com
 www.airsoftsoldier.com
 aiswifi.com
 aix-immobilier-malherbe.com
@@ -10696,27 +10716,32 @@ email.desertskylandscape.com
 gate.desertskylandscape.com
 gateway.desertskylandscape.com
 hermes.desertskylandscape.com
+host.desertskylandscape.com
 ipe.desertskylandscape.com
 m.desertskylandscape.com
 mail.desertskylandscape.com
 mail02.desertskylandscape.com
 mail1.desertskylandscape.com
 mail10.desertskylandscape.com
+mail11.desertskylandscape.com
 mail12.desertskylandscape.com
+mail2.desertskylandscape.com
 mail4.desertskylandscape.com
 mail5.desertskylandscape.com
 mail6.desertskylandscape.com
 mailgate.desertskylandscape.com
 mailgw.desertskylandscape.com
-ww25.mailhost.desertskylandscape.com
+mailhost.desertskylandscape.com
 mailin.desertskylandscape.com
 mailrelay.desertskylandscape.com
 ww25.mails.desertskylandscape.com
 mailserver.desertskylandscape.com
 mailsrv.desertskylandscape.com
+mailx.desertskylandscape.com
 ms.desertskylandscape.com
 mta.desertskylandscape.com
 mta1.desertskylandscape.com
+mx.desertskylandscape.com
 mx1.desertskylandscape.com
 mx10.desertskylandscape.com
 mx4.desertskylandscape.com
@@ -11638,18 +11663,14 @@ eleyourself.com
 elfontheself.com
 elfsight.com
 antispam.elianca.com
-box.elianca.com
 comune.elianca.com
 correo.elianca.com
 email.elianca.com
 gw.elianca.com
-hermes.elianca.com
-home.elianca.com
 imap1.elianca.com
 imap2.elianca.com
 m.elianca.com
 mail11.elianca.com
-mail4.elianca.com
 mailer.elianca.com
 mailgate.elianca.com
 mailhost.elianca.com
@@ -11659,8 +11680,6 @@ mailserver.elianca.com
 mx.elianca.com
 mx1.elianca.com
 mx2.elianca.com
-mx20.elianca.com
-mx5.elianca.com
 newmail.elianca.com
 ns1.elianca.com
 ns2.elianca.com
@@ -12346,6 +12365,7 @@ click.fool.com
 footageshots.com
 ww25.footmodemovies.com
 ww38.footmodemovies.com
+www.footmodemovies.com
 dnsxp.a.footprintdns.com
 moiddexp.a.footprintdns.com
 any.footprintdns.com
@@ -13606,8 +13626,6 @@ srv.gerileblanc.com
 vmail.gerileblanc.com
 ww10.gerileblanc.com
 ww11.gerileblanc.com
-ww38.gerileblanc.com
-www.gerileblanc.com
 www1.gerileblanc.com
 zmail.gerileblanc.com
 germaintoyotaofsarasota.com
@@ -31396,10 +31414,7 @@ app.mparticle.com
 app-a.mparticle.com
 app-b.mparticle.com
 app-stage.mparticle.com
-app.au1.mparticle.com
-api.gk.au1.mparticle.com
-api-internal.gk.au1.mparticle.com
-s2s.au1.mparticle.com
+au1.mparticle.com
 mgmt.auth.mparticle.com
 rta.auth.mparticle.com
 sso.auth.mparticle.com
@@ -33321,7 +33336,6 @@ pix23.omniture.com
 pix24.omniture.com
 pix25.omniture.com
 pix26.omniture.com
-overage-alerts-ids.beta-rc.pnw.omniture.com
 pub.omniture.com
 publish.omniture.com
 qe6.omniture.com
@@ -44943,7 +44957,6 @@ rmvb-canek.com
 rnddmn.com
 ads1.rne.com
 ads2.rne.com
-auth.roadeunner.com
 autoconfig.roadeunner.com
 mail.roadeunner.com
 mail2.roadeunner.com
@@ -47334,7 +47347,6 @@ sourmaths.com
 soursejone.com
 southparkstoudios.com
 ww1.southwestairliones.com
-www.southwestairliones.com
 click.i.southwesternrailway.com
 southwestgascorporation.com
 southwrstairlines.com
@@ -48984,7 +48996,6 @@ teesnsnow.com
 teethfan.com
 ww25.tehnoobshow.com
 ww5.tehnoobshow.com
-www.tehnoobshow.com
 tehparadx.com
 revive.teknikveckan.com
 piwik.teladoc.com
@@ -49395,8 +49406,6 @@ trableflick.com
 tracead.com
 trachbilling.com
 track4cr.com
-dev.trackadm.com
-www.trackadm.com
 trackalyzer.com
 tracking101.com
 tracking22.com
@@ -51927,6 +51936,8 @@ ucc.wix.com
 vk.wix.com
 wixed.wix.com
 sentry.wixpress.com
+ww1.wixxtube.com
+ww5.wixxtube.com
 www.wixxtube.com
 wizaly.com
 wlmarketing.com
@@ -53107,7 +53118,6 @@ yesads.com
 yesadvertising.com
 yesinsights.com
 yestuition.com
-ww5.yetivip.com
 yext.com
 answers.yext-pixel.com
 sandbox-answers.yext-pixel.com
@@ -55568,7 +55578,6 @@ examroom.info
 eyep.info
 eyesurgery.info
 ezmethod.info
-cpcalendars.faiznet.info
 cpcontacts.faiznet.info
 mail.faiznet.info
 webdisk.faiznet.info
@@ -56885,10 +56894,7 @@ www.rutur.info
 rxhd.info
 saalbach-hinterglemm.info
 saiphptc.info
-archivepdf.salemfonden.info
 webdisk.salemfonden.info
-workoutwalls.salemfonden.info
-ww1.salemfonden.info
 www.salemfonden.info
 saludablemente.info
 samstha.info
@@ -57130,7 +57136,6 @@ testing.svabe.info
 web.svabe.info
 ww17.svabe.info
 www.svabe.info
-svatektribratri.info
 mail.sweetspotgolf.info
 sitemaps.sweetspotgolf.info
 ww1.sweetspotgolf.info
@@ -57803,7 +57808,6 @@ emexamaky.web-pages.info
 etykulican.web-pages.info
 exahufaze.web-pages.info
 eyuzoce.web-pages.info
-fiditipij.web-pages.info
 fixidewi.web-pages.info
 fufoxuse.web-pages.info
 furolipe.web-pages.info
@@ -57858,12 +57862,10 @@ omyfupaf.web-pages.info
 onlineservices.web-pages.info
 onubepila.web-pages.info
 opakuzi.web-pages.info
-opokenato.web-pages.info
 ovabubus.web-pages.info
 ovikevyly.web-pages.info
 owevanur.web-pages.info
 oyomunon.web-pages.info
-pigixy.web-pages.info
 pitow.web-pages.info
 piwusahe.web-pages.info
 popugysani.web-pages.info
@@ -57882,7 +57884,6 @@ sahifoh.web-pages.info
 sdfdsdgdf.web-pages.info
 seduccionyhumor.web-pages.info
 services-runscape-forums.web-pages.info
-seviqyve.web-pages.info
 sikot.web-pages.info
 sizepaka.web-pages.info
 soxuqub.web-pages.info
@@ -57913,7 +57914,6 @@ webpageinfouser.web-pages.info
 weheartit.web-pages.info
 wenokylu.web-pages.info
 wetelik.web-pages.info
-wihylid.web-pages.info
 witasuc.web-pages.info
 worldinfoweb.web-pages.info
 ww1.web-pages.info
@@ -58115,7 +58115,6 @@ zabolkata.info
 zaburzeniaodzywiania.info
 autodiscover.zalau.info
 cpcalendars.zalau.info
-cpcontacts.zalau.info
 ww17.zalau.info
 zapret.info
 zaraban.info
@@ -103590,13 +103589,8 @@ bulldogplanet.org
 bulmaca.org
 calcaostcu.org
 californiacollegeofpharmacy.org
-ww1.californiadreamact.org
 ww17.californiadreamact.org
-ww25.californiadreamact.org
-ww38.californiadreamact.org
 ww7.californiadreamact.org
-www.californiadreamact.org
-www1.californiadreamact.org
 www77.californiadreamact.org
 caloanrefund.org
 calper.org
