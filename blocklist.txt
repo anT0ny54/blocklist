@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343403
+# Ignored duplicates: 343433
 
 chameleon.ad
 pixel.ad
@@ -1851,9 +1851,7 @@ g792337340.co
 a.hellonext.co
 ablinks.mail.hinge.co
 ww1.hmizat.co
-ww25.hmizat.co
 ww3.hmizat.co
-ww38.hmizat.co
 idio.co
 api.intellimize.co
 cdn.intellimize.co
@@ -4915,7 +4913,6 @@ marketing-assets.adobe.com
 sstats.adobe.com
 commerce.adobedtm.com
 ssltest.adobedtm.com
-adobestats.com
 adobeyougc.com
 adocean-global.com
 adoftheyear.com
@@ -5124,7 +5121,8 @@ adsquare.com
 adsroller.com
 adsrvs.com
 adssets.com
-adssyscom.com
+ww1.adssyscom.com
+www.adssyscom.com
 adstanding.com
 adstatic.com
 adstradata.com
@@ -5547,7 +5545,6 @@ sonar.adswizz.com
 soundcloud.adswizz.com
 spreaker.adswizz.com
 as-api-20181217-internal.staging.adswizz.com
-as-ui-staging-20170425.staging.adswizz.com
 attribution.staging.adswizz.com
 audiomax.staging.adswizz.com
 deliveryengine.staging.adswizz.com
@@ -8789,6 +8786,7 @@ ensighten.ccnag.com
 ccssettlement.com
 cdg124.com
 cstat.cdn-apple.com
+releases.cdn-jquery.com
 six.cdn-net.com
 cdnativ.com
 tracker.cdnbye.com
@@ -10709,7 +10707,7 @@ authsmtp.desertskylandscape.com
 barracuda.desertskylandscape.com
 box.desertskylandscape.com
 com.desertskylandscape.com
-ww25.comune.desertskylandscape.com
+comune.desertskylandscape.com
 correo.desertskylandscape.com
 direct.desertskylandscape.com
 email.desertskylandscape.com
@@ -10720,6 +10718,7 @@ host.desertskylandscape.com
 ipe.desertskylandscape.com
 m.desertskylandscape.com
 mail.desertskylandscape.com
+mail01.desertskylandscape.com
 mail02.desertskylandscape.com
 mail1.desertskylandscape.com
 mail10.desertskylandscape.com
@@ -10729,12 +10728,13 @@ mail2.desertskylandscape.com
 mail4.desertskylandscape.com
 mail5.desertskylandscape.com
 mail6.desertskylandscape.com
+mailer.desertskylandscape.com
 mailgate.desertskylandscape.com
 mailgw.desertskylandscape.com
 mailhost.desertskylandscape.com
 mailin.desertskylandscape.com
 mailrelay.desertskylandscape.com
-ww25.mails.desertskylandscape.com
+mails.desertskylandscape.com
 mailserver.desertskylandscape.com
 mailsrv.desertskylandscape.com
 mailx.desertskylandscape.com
@@ -10745,12 +10745,13 @@ mx.desertskylandscape.com
 mx1.desertskylandscape.com
 mx10.desertskylandscape.com
 mx4.desertskylandscape.com
-ww25.mx5.desertskylandscape.com
+mx5.desertskylandscape.com
 ns.desertskylandscape.com
 ns2.desertskylandscape.com
 out.desertskylandscape.com
 po.desertskylandscape.com
 post.desertskylandscape.com
+posta.desertskylandscape.com
 relay1.desertskylandscape.com
 relay2.desertskylandscape.com
 root.desertskylandscape.com
@@ -11118,9 +11119,6 @@ public-prod-dailymotion-addirector.dmxleo.com
 www.dnps.com
 www.dns-analytics.com
 dnset.com
-analytics.dnsfilter.com
-engage.dnsfilter.com
-go.dnsfilter.com
 dnsnanny.com
 dnssitter.com
 dnx2u.com
@@ -11666,34 +11664,28 @@ antispam.elianca.com
 comune.elianca.com
 correo.elianca.com
 email.elianca.com
-gw.elianca.com
 imap1.elianca.com
 imap2.elianca.com
 m.elianca.com
-mail11.elianca.com
 mailer.elianca.com
 mailgate.elianca.com
 mailhost.elianca.com
 mailin.elianca.com
 mailout.elianca.com
-mailserver.elianca.com
+ww25.mailserver.elianca.com
 mx.elianca.com
 mx1.elianca.com
 mx2.elianca.com
-newmail.elianca.com
+ww25.newmail.elianca.com
 ns1.elianca.com
-ns2.elianca.com
-po.elianca.com
+ww25.po.elianca.com
 pop.elianca.com
 post.elianca.com
 relay.elianca.com
-server2.elianca.com
 smtpauth.elianca.com
 ww25.elianca.com
 ww35.elianca.com
 ww38.elianca.com
-ww6.elianca.com
-www.elianca.com
 www1.elianca.com
 www2.elianca.com
 zmail.elianca.com
@@ -12427,6 +12419,8 @@ www.foxit-software.com
 ad.foxnetworks.com
 ads.foxnetworks.com
 analytics.nova.foxnews.com
+ww1.foxnewsboston.com
+ww35.foxnewsboston.com
 ww38.foxnewsboston.com
 www.foxnewsboston.com
 foxpley.com
@@ -13596,7 +13590,6 @@ mailbox.gerileblanc.com
 mailer.gerileblanc.com
 mailgate.gerileblanc.com
 mailin.gerileblanc.com
-mailrelay.gerileblanc.com
 mailserver.gerileblanc.com
 mailx.gerileblanc.com
 ms1.gerileblanc.com
@@ -13605,7 +13598,6 @@ mx02.gerileblanc.com
 mx1.gerileblanc.com
 mx10.gerileblanc.com
 mx2.gerileblanc.com
-newmail.gerileblanc.com
 ns1.gerileblanc.com
 ns2.gerileblanc.com
 poczta.gerileblanc.com
@@ -13618,11 +13610,9 @@ relay.gerileblanc.com
 relay2.gerileblanc.com
 server.gerileblanc.com
 server1.gerileblanc.com
-smtp01.gerileblanc.com
 smtpauth.gerileblanc.com
 smtps.gerileblanc.com
 smtpseguro.gerileblanc.com
-srv.gerileblanc.com
 vmail.gerileblanc.com
 ww10.gerileblanc.com
 ww11.gerileblanc.com
@@ -14647,7 +14637,7 @@ hfc195b.com
 hfrcl.com
 hfuostp.com
 hgads.com
-hgtvdreamhome.com
+hgtv.hgtvdreamhome.com
 hgtvgreenhome.com
 emea.hhkld.com
 hi-rezstudios.com
@@ -31855,6 +31845,7 @@ ww1.mucabrasil.com
 ww2.mucabrasil.com
 ww5.mucabrasil.com
 www.mucabrasil.com
+www.mucho-hentai.com
 multiext.com
 mummy8.com
 mundanenail.com
@@ -38380,7 +38371,6 @@ www.pokemontm.com
 poker88asia.com
 pokkt.com
 ww1.polischdating.com
-www.polischdating.com
 polkfishwrap.com
 polonga.com
 polopoloonlain.com
@@ -41781,7 +41771,6 @@ smetrics.realtor.com
 mail.realtymanagementofbelize.com
 ww1.realtymanagementofbelize.com
 ww25.realtymanagementofbelize.com
-www.realtymanagementofbelize.com
 reauthenticator.com
 rebelmouse.com
 rebelsubway.com
@@ -44958,7 +44947,6 @@ rnddmn.com
 ads1.rne.com
 ads2.rne.com
 autoconfig.roadeunner.com
-mail.roadeunner.com
 mail2.roadeunner.com
 mx.roadeunner.com
 secureimap.roadeunner.com
@@ -48659,7 +48647,6 @@ surfhthechannel.com
 surfthechhannel.com
 surfthechsnnel.com
 surftherchannel.com
-ww1.surfthischannel.com
 www.surfthischannel.com
 surfyhechannel.com
 surgthechannel.com
@@ -49452,7 +49439,6 @@ tranquilside.com
 transferlights.com
 transitodemedellin.com
 translategoogle.com
-www.translatorgoogle.com
 transmapp.com
 trasformise.com
 ads.travelaudience.com
@@ -49669,10 +49655,8 @@ word-v4-env.tuanguwen.com
 tubahloic.com
 tubaolic.com
 tubblee.com
-jp.tube16.com
 ww.tube16.com
 ww1.tube16.com
-www.tube16.com
 tube21.com
 ifa.tube8live.com
 tubemogul.com
@@ -50249,7 +50233,6 @@ ads49.unoadsrv.com
 ads5.unoadsrv.com
 ads50.unoadsrv.com
 ads51.unoadsrv.com
-ads53.unoadsrv.com
 ads55.unoadsrv.com
 ads56.unoadsrv.com
 ads57.unoadsrv.com
@@ -52023,7 +52006,6 @@ wwwbeen.com
 wwwbigfish.com
 www.wwwblazecc.com
 ww1.wwwbollysaga.com
-www.wwwbollysaga.com
 wwwcevalogistics.com
 wwwcharlotteobserver.com
 wwwclubefashion.com
@@ -54946,7 +54928,7 @@ av99cn.info
 avakin.info
 avgpctuneup2019.info
 avlang17.info
-www.avlist.info
+avlist.info
 avpt.info
 www.avtonom.info
 ayc0zsm69431gfebd.info
@@ -55578,10 +55560,7 @@ examroom.info
 eyep.info
 eyesurgery.info
 ezmethod.info
-cpcontacts.faiznet.info
-mail.faiznet.info
 webdisk.faiznet.info
-ww1.faiznet.info
 ww11.faiznet.info
 ww17.faiznet.info
 ww38.faiznet.info
@@ -55783,7 +55762,9 @@ greekgods.info
 greekviral.info
 green-beauty.info
 greenfleet.info
-greentheearth.info
+mail.greentheearth.info
+ww17.greentheearth.info
+ww38.greentheearth.info
 groednertal.info
 groenehartmedia.info
 grossglockner.info
@@ -55969,8 +55950,6 @@ kaunertal.info
 kbbi.info
 kbuj.info
 keliauk.info
-ww1.forum.kendari.info
-ww17.forum.kendari.info
 kenh14.info
 khalijmusic.info
 kidala.info
@@ -56874,7 +56853,6 @@ routerhowto.info
 rpg-maker.info
 rtbnews.info
 ruensport.info
-ww1.rukodelnitsa.info
 rumahmodernterbaik.info
 rumobi.info
 rupertmallin.info
@@ -56919,6 +56897,11 @@ autodiscover.secimsonuclari.info
 mail.secimsonuclari.info
 webdisk.secimsonuclari.info
 www.secimsonuclari.info
+ww1.sectionz.info
+ww17.sectionz.info
+ww25.sectionz.info
+ww38.sectionz.info
+www.sectionz.info
 aftereffects.seednet.info
 iphone.seednet.info
 ww1.seednet.info
@@ -57136,6 +57119,7 @@ testing.svabe.info
 web.svabe.info
 ww17.svabe.info
 www.svabe.info
+ww17.svatektribratri.info
 mail.sweetspotgolf.info
 sitemaps.sweetspotgolf.info
 ww1.sweetspotgolf.info
@@ -57162,6 +57146,7 @@ taoy999.info
 taoyimg.info
 ap.tap7500.info
 bo.tap7500.info
+boa.tap7500.info
 chk.tap7500.info
 chv1.tap7500.info
 chv2.tap7500.info
@@ -57170,17 +57155,17 @@ clcl.tap7500.info
 co.tap7500.info
 gp.tap7500.info
 grn.tap7500.info
-ww1.ho2.tap7500.info
-ww38.ho2.tap7500.info
+ho2.tap7500.info
 it.tap7500.info
 mc.tap7500.info
 mya.tap7500.info
 myb.tap7500.info
+payd.tap7500.info
 pp.tap7500.info
 ppn.tap7500.info
 prr.tap7500.info
 s10.tap7500.info
-ww25.tr.tap7500.info
+tr.tap7500.info
 ww16.tap7500.info
 ww25.tap7500.info
 ww38.tap7500.info
@@ -57342,11 +57327,13 @@ m.thesensei.info
 mail.thesensei.info
 mail1.thesensei.info
 mail2.thesensei.info
+mailbox.thesensei.info
 mailgw.thesensei.info
 mailout.thesensei.info
 mailserver.thesensei.info
 mx.thesensei.info
 mx1.thesensei.info
+mx2.thesensei.info
 ns1.thesensei.info
 poczta.thesensei.info
 pop.thesensei.info
@@ -57354,6 +57341,7 @@ post.thesensei.info
 postmaster.thesensei.info
 server.thesensei.info
 ww1.thesensei.info
+ww16.thesensei.info
 www.thesensei.info
 threaded.info
 thruster.info
@@ -58115,10 +58103,10 @@ zabolkata.info
 zaburzeniaodzywiania.info
 autodiscover.zalau.info
 cpcalendars.zalau.info
-ww17.zalau.info
 zapret.info
 zaraban.info
 zcpa.info
+ww17.zdania.info
 zdorovye.info
 zeit.info
 zerhosting.info
@@ -96843,7 +96831,6 @@ play.mine.gay-hotvideo.net
 www.quotes.gb.net
 ads.geekswithblogs.net
 geoplugin.net
-germanstudy.net
 b-gi.getui.net
 b-gtc.getui.net
 b-gy.getui.net
@@ -97556,7 +97543,6 @@ myxmovies.net
 devint.mzbcdn.net
 prod.mzbcdn.net
 qa.mzbcdn.net
-www.naghtytube.net
 ww1.naugtytube.net
 www.naugtytube.net
 nb69.net
@@ -102870,7 +102856,6 @@ lb.sjc1.visto1.net
 t.visto1.net
 tprod.visto1.net
 vivads.net
-www.voyuerpass.net
 w55c.net
 wach-movies.net
 walkingdeadseason3.net
@@ -103404,10 +103389,8 @@ thor.amishheaters.org
 vip.amishheaters.org
 vnet.amishheaters.org
 vps.amishheaters.org
-ww1.amishheaters.org
 ww12.amishheaters.org
 ww16.amishheaters.org
-ww17.amishheaters.org
 ww7.amishheaters.org
 www.amishheaters.org
 zmail.amishheaters.org
@@ -103544,7 +103527,8 @@ billofrightinstitute.org
 billybrim.org
 bimare.org
 bimartcreditunion.org
-bioteq.org
+ww17.bioteq.org
+www.bioteq.org
 bipme.org
 bitbacket.org
 bitbuket.org
@@ -104535,9 +104519,7 @@ littlelibrary.org
 liveforextrading.org
 livervox.org
 lmba.org
-eres.lndproxy.org
-world.lndproxy.org
-ww1.lndproxy.org
+lndproxy.org
 logview.org
 londonmint.org
 lophisc.org
@@ -105545,7 +105527,6 @@ teamtoyminator.org
 technowledge.org
 teensx.org
 tehbox.org
-ww25.telecharger-musique-gratuit.org
 televisiongratis.org
 temo-mail.org
 temporarymail.org
