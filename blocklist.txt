@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343382
+# Ignored duplicates: 344098
 
 chameleon.ad
 pixel.ad
@@ -5621,7 +5621,7 @@ soundcloud.adswizz.com
 spreaker.adswizz.com
 as-api-20181217-internal.staging.adswizz.com
 attribution.staging.adswizz.com
-audiomax.staging.adswizz.com
+ui.audiomax.staging.adswizz.com
 deliveryengine.staging.adswizz.com
 deliveryengine.qaintakilacms.staging.adswizz.com
 sbfl-staging1-dns.staging.adswizz.com
@@ -7957,6 +7957,7 @@ dev.betrad.com
 f.betrad.com
 staging.betrad.com
 www.betrad.com
+bettaworld09.com
 betterbanners.com
 betterbannerscloud.com
 bettycocker.com
@@ -8039,6 +8040,8 @@ binancevalue.com
 binarybizz.com
 bindhertv.com
 electron.bing-analytics.com
+galery.bing-analytics.com
+www.bing-analytics.com
 bat.bing-int.com
 ads.bing.com
 adserver.bing.com
@@ -9752,7 +9755,9 @@ assets-staging.connatix.com
 auth.connatix.com
 auth0.connatix.com
 capi-tier-1-us-east-2.connatix.com
+capi-tier-1-us-west-2.connatix.com
 capi-tier-2-us-east-2.connatix.com
+capi-tier-2-us-west-2.connatix.com
 cdm.connatix.com
 cdn.connatix.com
 cdns.connatix.com
@@ -9772,7 +9777,10 @@ ins.connatix.com
 kb.connatix.com
 l.connatix.com
 lit.connatix.com
+mi.connatix.com
+mi-staging.connatix.com
 ops.connatix.com
+pe.connatix.com
 pl.connatix.com
 playspace.connatix.com
 sb.connatix.com
@@ -10463,6 +10471,7 @@ daddysonfack.com
 dadonson.com
 mail.dadslims.com
 ns1.dadslims.com
+www.dadslims.com
 daewooelectronics.com
 dafopuj.com
 dagfart.com
@@ -31915,6 +31924,8 @@ ww1.mucabrasil.com
 ww2.mucabrasil.com
 ww5.mucabrasil.com
 www.mucabrasil.com
+ww25.mucho-hentai.com
+ww38.mucho-hentai.com
 www.mucho-hentai.com
 multiext.com
 mummy8.com
@@ -32061,6 +32072,7 @@ mx01.mysace.com
 mx1.mysace.com
 securepop.mysace.com
 ww16.mysace.com
+ww38.mysace.com
 www.mysace.com
 mysexfantasies.com
 myshopinggenie.com
@@ -38445,7 +38457,6 @@ ww1.pokemontm.com
 www.pokemontm.com
 poker88asia.com
 pokkt.com
-ww1.polischdating.com
 polkfishwrap.com
 polonga.com
 polopoloonlain.com
@@ -41843,7 +41854,6 @@ xml-eu.realtime-bid.com
 track.realtimeboard.com
 li.realtor.com
 smetrics.realtor.com
-mail.realtymanagementofbelize.com
 ww1.realtymanagementofbelize.com
 ww25.realtymanagementofbelize.com
 reauthenticator.com
@@ -42522,6 +42532,7 @@ chalkola.refersion.com
 challengeheat.refersion.com
 challengeww.refersion.com
 chameleonartproducts.refersion.com
+changelog.refersion.com
 channelfireball.refersion.com
 charaomni.refersion.com
 chargebee.refersion.com
@@ -47353,6 +47364,7 @@ platform.sojern.com
 platformhub.sojern.com
 portaltableau.sojern.com
 property.sojern.com
+signatures.sojern.com
 sjosexch.sojern.com
 sl.sojern.com
 sojernmail.sojern.com
@@ -47836,6 +47848,7 @@ sponge-bugle-m3rs.squarespace.com
 squarw.com
 squirrelhands.com
 squolazoo.com
+www.squqre.com
 squsre.com
 srchbar.com
 srchmgra.com
@@ -49743,6 +49756,7 @@ tubqueens.com
 tuby8.com
 adclient1.tucows.com
 vs.tucows.com
+tudespegar.com
 tujomal.com
 tumbleicicle.com
 px.srvcs.tumblr.com
@@ -51235,7 +51249,6 @@ vizury.com
 vkcdnservice.com
 vkphandicrafts.com
 vkshopping.com
-www.vlaqra.com
 vlcstreamer.com
 assets.vlitag.com
 cl.vlitag.com
@@ -51733,6 +51746,11 @@ wup-58144bf0.we-stats.com
 wearbasin.com
 wearehearken.com
 wearemiq.com
+ww1.weartherbug.com
+ww16.weartherbug.com
+ww25.weartherbug.com
+ww38.weartherbug.com
+www.weartherbug.com
 adstest.weather.com
 weatherchannwl.com
 web-redirecting.com
@@ -51850,6 +51868,7 @@ wellsfargodealerseevices.com
 wellsfargodealerservicrs.com
 wellsfargofiance.com
 wellsfsrgobank.com
+welved.com
 wendelford.com
 wenhairproduct.com
 wer-kennt-wenn.com
@@ -54945,13 +54964,6 @@ www.applifier.info
 ar-raudhah.info
 arabtravail.info
 aroundthe-world.info
-autodiscover.arrillo.info
-mail.arrillo.info
-webdisk.arrillo.info
-ww1.arrillo.info
-ww17.arrillo.info
-ww25.arrillo.info
-www.arrillo.info
 artecrochet.info
 arterienverkalkung.info
 artgaleria.info
@@ -55103,6 +55115,7 @@ bauhsus.info
 bauhuas.info
 bdlove24.info
 beautifulbeauty.info
+beautifulplaces.info
 beauty73.info
 beautyofboys.info
 www.belajarpc.info
@@ -55465,6 +55478,7 @@ ww1.directory2010.info
 ww17.directory2010.info
 ww38.directory2010.info
 www.directory2010.info
+www.directoryelite.info
 dirproject.info
 display-systems.info
 api.dj-maza.info
@@ -55610,7 +55624,6 @@ eshuvidha.info
 esperiabg.info
 essmile.info
 estacionesnauticas.info
-www.estadosyfinanzas.info
 freescout.etain.info
 hotspot.etain.info
 license.etain.info
@@ -55814,7 +55827,6 @@ ghetto-theresienstadt.info
 gighoe.info
 gitorm.info
 giveawayforyou.info
-gladkov.info
 glee-episode.info
 globaldew.info
 godspeakstoday.info
@@ -55952,6 +55964,7 @@ infode.info
 inglesonlinegratis.info
 injured.info
 int-news.info
+interactiveebooks.info
 interlin.info
 internetmarketingideas.info
 interwork.info
@@ -56316,6 +56329,7 @@ musicalove.info
 musicfestivals.info
 musicschool.info
 musicsun.info
+musikz.info
 muskelschmerz.info
 ww1.muslimby.info
 ww17.muslimby.info
@@ -56482,6 +56496,7 @@ www.nonude-stars.info
 noorani.info
 noraredenoma.info
 norrland.info
+notespro.info
 noticias365.info
 t.notif-colissimo-laposte.info
 novaonautoadssword.info
@@ -56533,6 +56548,7 @@ ofcpage.info
 offertedilavoro.info
 oficinavirtualdeempleo.info
 ogen-laseren.info
+okelagu.info
 oknaatip.info
 www.olas.info
 www.olioli.info
@@ -56745,16 +56761,6 @@ ww38.proxysmart.info
 www.proxysmart.info
 zappos.proxysmart.info
 przechowalnia.info
-diveshopcy.psarema.info
-en.psarema.info
-mail.psarema.info
-ww1.psarema.info
-ww11.psarema.info
-ww17.psarema.info
-ww25.psarema.info
-ww38.psarema.info
-ww43.psarema.info
-www.psarema.info
 auth.psylocke.info
 barracuda.psylocke.info
 box.psylocke.info
@@ -56833,7 +56839,6 @@ qmzhijia2019.info
 que-significa-mi-nombre.info
 quepaso.info
 quicktime-download.info
-ww17.quintadolago.info
 rabidshare.info
 ract.info
 rad-facts-to-possessmovingforth.info
@@ -56874,6 +56879,7 @@ reconstruct-rep-of-mold.info
 red-rose.info
 redhotrealty.info
 redup.info
+referendumailietuvos.info
 mx.regeneration.info
 www.regeneration.info
 register-expert-news-24h.info
@@ -56919,6 +56925,7 @@ rootsandshoots.info
 ww1.rotor.info
 www.rotor.info
 routerhowto.info
+rozhin.info
 rpg-maker.info
 rtbnews.info
 ruensport.info
@@ -57825,7 +57832,6 @@ ww1.vu7ag.info
 ww17.vu7ag.info
 ww25.vu7ag.info
 ww38.vu7ag.info
-www.vu7ag.info
 waldgeist.info
 waldmuehle.info
 waldviertel.info
@@ -57847,6 +57853,7 @@ mail.webtechy.info
 ww25.webtechy.info
 www.webtechy.info
 webworth.info
+weimei.info
 welda.info
 wesua.info
 wfrtys.info
@@ -58019,11 +58026,10 @@ yunss.info
 zabolkata.info
 zaburzeniaodzywiania.info
 autodiscover.zalau.info
-cpcalendars.zalau.info
 zapret.info
 zaraban.info
 zcpa.info
-ww17.zdania.info
+zdania.info
 zdorovye.info
 zeit.info
 zerhosting.info
@@ -77236,6 +77242,7 @@ c.bigmir.net
 billyjons.net
 binance-btc.net
 binancefund.net
+binanceteam.net
 binmajed.net
 biointerfaces.net
 bitcoinclicks.net
@@ -104605,6 +104612,7 @@ myshopify.org
 mytaxforms.org
 myworkplace.org
 myzou.org
+ww1.naarm.org
 www.naarm.org
 nalcbp.org
 napolisotteranea.org
@@ -105198,6 +105206,7 @@ registradoes.org
 rekcad2018.org
 relay1.org
 removepearlypenilepapules.org
+rencontre-mature.org
 rentshop.org
 rescuecommittee.org
 rescume.org
@@ -106208,6 +106217,7 @@ widget.cdn.citygate.se
 widget.citygate.se
 stat.cliche.se
 analytics.codigo.se
+marmotsverige.com.se
 dinapengar.compricer.se
 levaochbo.compricer.se
 ads.compro.se
