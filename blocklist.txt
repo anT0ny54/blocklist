@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 344098
+# Ignored duplicates: 344097
 
 chameleon.ad
 pixel.ad
@@ -1413,7 +1413,6 @@ adserver.pressboard.ca
 ac.rnm.ca
 smedia.ca
 ads.weather.ca
-track.homejobs.careers
 ads.acpc.cat
 ads.catmedia.cat
 adop.cc
@@ -5193,7 +5192,6 @@ adspredictiv.com
 adspsp.com
 adsqn.com
 adsquare.com
-adsroller.com
 adsrvs.com
 adssets.com
 ww1.adssyscom.com
@@ -33026,6 +33024,7 @@ nugajo.com
 nullnorth.com
 nuseek.com
 nuttyorganization.com
+click.nvgaming.nvidia.com
 nxstrib.com
 nxtck.com
 nxtoolbox.com
@@ -51052,7 +51051,6 @@ sentry.viidea.com
 vikasajob.com
 vikicraze.com
 vildlonger.com
-oas.villagevoice.com
 villainousvamps.com
 vilynx.com
 player-telemetry.vimeo.com
