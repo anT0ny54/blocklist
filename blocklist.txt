@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 344097
+# Ignored duplicates: 344096
 
 chameleon.ad
 pixel.ad
@@ -11718,7 +11718,6 @@ elderlyscissors.com
 elderlytown.com
 eldoar.com
 eldoradoplazahotel.com
-agility.eleague.com
 a.electerious.com
 electreck.com
 electrificadoradelmeta.com
