@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 344096
+# Ignored duplicates: 344095
 
 chameleon.ad
 pixel.ad
@@ -15481,7 +15481,6 @@ logging.api.intuit.com
 mintsurvey.api.intuit.com
 prequaloffers.api.intuit.com
 tags.api.intuit.com
-eventbus.intuit.com
 config.experimentation.intuit.com
 edge.experimentation.intuit.com
 edge-e2e.experimentation.intuit.com
@@ -15490,9 +15489,7 @@ monitoring-sdk-e2e.experimentation.intuit.com
 monitoring-sdk-prf.experimentation.intuit.com
 monitoring-sdk-qal.experimentation.intuit.com
 link.n.intuit.com
-offcnt.intuit.com
 pf.intuit.com
-trinity.platform.intuit.com
 inuyashatcg.com
 inventionpassenger.com
 ws-skreemr.origin.inverse.com
@@ -47227,7 +47224,6 @@ pro-insights.snapchat.com
 rtam-collector.snapchat.com
 story-insights.snapchat.com
 snapchathack.com
-api.snapkit.com
 sdk.snapkit.com
 sneaker-shop08.com
 ww1.sneakercafe.com
@@ -50409,13 +50405,10 @@ uppercaselving.com
 uprival.com
 upsales.com
 upscore.com
-batch.upsight-api.com
-bootstrap.upsight-api.com
 js.upsight-api.com
 marketing.upsight-api.com
 marketing-ssl.upsight-api.com
 origin-js.upsight-api.com
-single.upsight-api.com
 static.upsight-api.com
 static-ssl.upsight-api.com
 api.upsight.com
