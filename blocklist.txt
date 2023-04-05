@@ -14675,6 +14675,7 @@ zodvhznn3xjleq2m4uj344nqzyazya7h-c2r.metric.gstatic.com
 zrbmqhceyrrllos44bszo4yejubei3bx-c2r.metric.gstatic.com
 gstaticx.com
 gta5-mod.com
+guardeddirection.com
 guardedschool.com
 guepiere.com
 guestionpro.com
@@ -19659,8 +19660,11 @@ au-v10.events.data.microsoft.com
 au-v10c.events.data.microsoft.com
 au-v20.events.data.microsoft.com
 emea.events.data.microsoft.com
+eu-mobile.events.data.microsoft.com
+eu-office.events.data.microsoft.com
 eu-v10c.events.data.microsoft.com
 functional.events.data.microsoft.com
+ic3.events.data.microsoft.com
 jp-v10.events.data.microsoft.com
 jp-v10c.events.data.microsoft.com
 jp-v20.events.data.microsoft.com
@@ -19677,6 +19681,7 @@ office-g.events.data.microsoft.com
 pf.events.data.microsoft.com
 server.events.data.microsoft.com
 tb.events.data.microsoft.com
+teams.events.data.microsoft.com
 uk-mobile.events.data.microsoft.com
 uk-v20.events.data.microsoft.com
 umwatson.events.data.microsoft.com
@@ -71783,6 +71788,7 @@ pixel.shodan.me
 5ea0417f90194.site123.me
 systemlog.me
 telegrambots.me
+contribute.to-support.me
 play.play1.videos.vidto.me
 video.videos.vidto.me
 s.woet.me
@@ -103473,6 +103479,8 @@ opinsightsweuods.trafficmanager.net
 opinsightsweuoms.trafficmanager.net
 presence.trafficmanager.net
 sconsentit9.trafficmanager.net
+self-events-data.trafficmanager.net
+teams-events-data.trafficmanager.net
 recommend.teams.trafficmanager.net
 telemetry-lcp.trafficmanager.net
 telemetry-sdk-inmobi-com-tm.trafficmanager.net
