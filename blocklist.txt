@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342857
+# Ignored duplicates: 342852
 
 chameleon.ad
 pixel.ad
@@ -2247,6 +2247,7 @@ y.254a.com
 2fastuploads.com
 2htg.com
 2journalnow.com
+xmr.2miners.com
 2newway.com
 2partyhard.com
 antispam.2sshoes.com
@@ -15752,8 +15753,12 @@ mintsurvey.api.intuit.com
 prequaloffers.api.intuit.com
 tags.api.intuit.com
 config.experimentation.intuit.com
-edge.experimentation.intuit.com
 edge-e2e.experimentation.intuit.com
+au.edge.experimentation.intuit.com
+br.edge.experimentation.intuit.com
+ca.edge.experimentation.intuit.com
+in.edge.experimentation.intuit.com
+uk.edge.experimentation.intuit.com
 monitoring-sdk.experimentation.intuit.com
 monitoring-sdk-e2e.experimentation.intuit.com
 monitoring-sdk-prf.experimentation.intuit.com
@@ -98966,6 +98971,8 @@ peer39.net
 rum.perfops.net
 perimeterx.net
 pfapa.net
+fp2e7a.wpc.2be4.phicdn.net
+fp2e7a.wpc.phicdn.net
 phimmoit.net
 picfile.net
 chef.pingdom.net
