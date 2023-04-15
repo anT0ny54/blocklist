@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 344300
+# Ignored duplicates: 344361
 
 chameleon.ad
 pixel.ad
@@ -3881,6 +3881,7 @@ stage-support-main.admitad.com
 stage-www.admitad.com
 start.admitad.com
 static.admitad.com
+catalog.store.admitad.com
 support-main.admitad.com
 teleport.admitad.com
 terms.admitad.com
@@ -6002,7 +6003,7 @@ cdn.adt328.com
 cdn.adt356.com
 cdn.adt361.com
 cdn.adt532.com
-cdn.adt598.com
+adt598.com
 acs.adtdp.com
 adp-pmk.adtdp.com
 adp-pubd-static.adtdp.com
@@ -6622,7 +6623,6 @@ mx7.alinkedin.com
 post.alinkedin.com
 sitemaps.alinkedin.com
 ww1.alinkedin.com
-ww25.alinkedin.com
 ww38.alinkedin.com
 ww7.alinkedin.com
 www.alinkedin.com
@@ -8392,7 +8392,6 @@ www.binanceforce.com
 binancevalue.com
 binarybizz.com
 bindhertv.com
-electron.bing-analytics.com
 galery.bing-analytics.com
 www.bing-analytics.com
 bat.bing-int.com
@@ -12012,10 +12011,6 @@ economicpizzas.com
 ads.economist.com
 ecorebates.com
 ecoupons.com
-com.ecsposters.com
-mbox.ecsposters.com
-mx.ecsposters.com
-vip.ecsposters.com
 ecuadoninio.com
 ecylight.com
 edddiebauwer.com
@@ -12790,7 +12785,6 @@ flyingvintage.com
 fmwold.com
 traffic.focuusing.com
 fodoqur.com
-ww1.fogoogle.com
 ww25.fogoogle.com
 www.fogoogle.com
 fohono.com
@@ -32450,7 +32444,6 @@ www.mysticallady.com
 mysticalladyselegantgifts.com
 mystlyle.com
 mystts.com
-ww25.mysupermaket.com
 myteryshopreports.com
 myverizin.com
 myvirecard.com
@@ -42267,6 +42260,7 @@ www.quiosconline.com
 quisma.com
 quizflavor.com
 ww1.quizlety.com
+ww11.quizlety.com
 quizzicalzephyr.com
 a.quora.com
 log.quora.com
@@ -46564,6 +46558,8 @@ statsapi.screen9.com
 counter.scribblelive.com
 lahyieyu.scriload.com
 ww1.scriload.com
+ww11.scriload.com
+ww38.scriload.com
 stats.script-protection.com
 connect.scroll.com
 static.scroll.com
@@ -50302,6 +50298,7 @@ tubaolic.com
 tubblee.com
 ww.tube16.com
 ww1.tube16.com
+ww25.tube16.com
 tube21.com
 ifa.tube8live.com
 tubemogul.com
@@ -53634,7 +53631,6 @@ xtify.com
 shop.xtmobile.com
 ww11.xtmobile.com
 ww38.xtmobile.com
-www.xtmobile.com
 xtremetop100.com
 ads2.xumo.com
 hls-beacons.xumo.com
@@ -54452,7 +54448,6 @@ adserver.nearby.cz
 add.newmedia.cz
 ads.newmedia.cz
 window.nixnet.cz
-first.nova.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -54970,7 +54965,6 @@ rgr4ozsp1l.s.ad6media.fr
 rkybxz6g7x.s.ad6media.fr
 admanmedia.fr
 adnext.fr
-adserver.aol.fr
 atelierdegaia.fr
 oas.benchmark.fr
 data.cofinoga.fr
@@ -56101,6 +56095,9 @@ cctv-camera.info
 cd-player.info
 cediss.info
 celiaimrie.info
+sitemap.cellchurch.info
+ww1.cellchurch.info
+ww11.cellchurch.info
 ww17.cellchurch.info
 www.cellchurch.info
 certificates.info
@@ -56153,13 +56150,6 @@ vip.comix.info
 ww1.comix.info
 ww42.comix.info
 www.comix.info
-aloha.computer-arts.info
-ww1.computer-arts.info
-ww11.computer-arts.info
-ww17.computer-arts.info
-ww25.computer-arts.info
-ww38.computer-arts.info
-www.computer-arts.info
 computersetc.info
 www.consolasportatiles.info
 coolcashing.info
@@ -56332,7 +56322,6 @@ ww17.dj-maza.info
 ww38.dj-maza.info
 www.dj-maza.info
 dlskits.info
-ww16.dmobi.info
 doctorette.info
 stats.docu.info
 www.dodgecolors.info
@@ -56703,8 +56692,6 @@ goldshorten.info
 golfbooks.info
 gomovies123.info
 secure.gonzovideos.info
-ww1.gonzovideos.info
-ww17.gonzovideos.info
 ww38.gonzovideos.info
 www.gonzovideos.info
 beta.goodpeople.info
@@ -57071,8 +57058,6 @@ masscryp.info
 masterfilmesonlinegratis.info
 matureanal.info
 ww25.forum.maxbooks.info
-mail.maxbooks.info
-ww16.maxbooks.info
 maxikuhinja.info
 maxmaillots.info
 mayrhofen.info
@@ -57336,7 +57321,8 @@ navzdy.info
 nbareplay.info
 nch-software.info
 neko299.info
-0.0.0www.ner-de-mi-nis-6.info
+0www.ner-de-mi-nis-6.info
+ww1.ner-de-mi-nis-6.info
 ww2.ner-de-mi-nis-6.info
 ww25.ner-de-mi-nis-6.info
 ww38.ner-de-mi-nis-6.info
@@ -57953,8 +57939,6 @@ sanvitolocapo.info
 sarplaninac.info
 satl.info
 www.hochzeitskleidyear.saumyachopra.info
-www.lamenageredebutante.saumyachopra.info
-travelogwithjem.saumyachopra.info
 ww1.saumyachopra.info
 ww17.saumyachopra.info
 ww3.saumyachopra.info
@@ -58210,6 +58194,9 @@ web.svabe.info
 ww17.svabe.info
 www.svabe.info
 svatektribratri.info
+mail.sweetspotgolf.info
+ww25.sweetspotgolf.info
+ww38.sweetspotgolf.info
 swiss-military.info
 sworks.info
 sxxx.info
@@ -58458,7 +58445,6 @@ torrentgamesps2.info
 torrentsave.info
 tospitaki.info
 cpcalendars.totaalbalans.info
-ww17.totaalbalans.info
 www.totaalbalans.info
 totoarena.info
 touring24.info
@@ -58937,6 +58923,8 @@ www.wishrobux.info
 witze.info
 woco.info
 wonderweblink.info
+ns1.wood35.info
+ns2.wood35.info
 ww38.wood35.info
 www.wood35.info
 woodworkplans.info
@@ -59123,7 +59111,6 @@ zapret.info
 zaraban.info
 zcpa.info
 zdania.info
-www.zdorovye.info
 zeit.info
 zerhosting.info
 zhubo350.info
@@ -78293,6 +78280,7 @@ norranstats.azurewebsites.net
 prod-mng-proxy-connext.azurewebsites.net
 wompanalytics.azurewebsites.net
 zoomphvisualdatacollector.azurewebsites.net
+beamanalytics.b-cdn.net
 creatopy-adtag-production.b-cdn.net
 easygdpr.b-cdn.net
 katr.b-cdn.net
@@ -96745,6 +96733,7 @@ ww82.eeepadhacks.net
 in-ssl.effectivemeasure.net
 elasticad.net
 ww11.elemen.net
+www.elemen.net
 elibrarie.net
 banner.elisa.net
 emachines.net
@@ -98712,7 +98701,6 @@ nuggad.net
 ads.nyi.net
 marketing.nyi.net
 ww11.nylonmilf.net
-ww16.nylonmilf.net
 www.nylonmilf.net
 nymburk.net
 adcanopus.offerstrack.net
@@ -106258,96 +106246,13 @@ ww38.savanefm.org
 www.savanefm.org
 savasoyunlari.org
 savetheartic.org
-art.savethechilden.org
-auth.savethechilden.org
-authsmtp.savethechilden.org
-barracuda.savethechilden.org
-com.savethechilden.org
-comune.savethechilden.org
-cs.savethechilden.org
-direct.savethechilden.org
-email.savethechilden.org
-eml.savethechilden.org
-gate.savethechilden.org
-gateway.savethechilden.org
-gw.savethechilden.org
-hermes.savethechilden.org
-home.savethechilden.org
-host.savethechilden.org
 imap1.savethechilden.org
 imap2.savethechilden.org
-internet.savethechilden.org
-ipe.savethechilden.org
-m.savethechilden.org
-mail.savethechilden.org
-mail01.savethechilden.org
-mail1.savethechilden.org
-mail10.savethechilden.org
-mail11.savethechilden.org
-mail12.savethechilden.org
-mail2.savethechilden.org
-mail4.savethechilden.org
 mail5.savethechilden.org
-mail6.savethechilden.org
-mail7.savethechilden.org
-mail8.savethechilden.org
-mail9.savethechilden.org
-mailapp.savethechilden.org
-mailer.savethechilden.org
 mailgate.savethechilden.org
-mailgw.savethechilden.org
-mailhost.savethechilden.org
-mailin.savethechilden.org
-mailrelay.savethechilden.org
-mails.savethechilden.org
-mailserver.savethechilden.org
-mailsrv.savethechilden.org
-mbox.savethechilden.org
-ms1.savethechilden.org
-mta.savethechilden.org
-mx.savethechilden.org
-mx0.savethechilden.org
-mx02.savethechilden.org
-mx1.savethechilden.org
-mx10.savethechilden.org
 mx2.savethechilden.org
-mx20.savethechilden.org
-mx3.savethechilden.org
-mx4.savethechilden.org
-mx7.savethechilden.org
-mxs.savethechilden.org
-newmail.savethechilden.org
-ns.savethechilden.org
-ns1.savethechilden.org
-ns2.savethechilden.org
-out.savethechilden.org
-outmail.savethechilden.org
-pbrand.savethechilden.org
 po.savethechilden.org
-poczta.savethechilden.org
-pop.savethechilden.org
-post.savethechilden.org
-postmaster.savethechilden.org
-relay.savethechilden.org
-relay1.savethechilden.org
-relay2.savethechilden.org
-scimail.savethechilden.org
-seed.savethechilden.org
-send.savethechilden.org
-server.savethechilden.org
-server1.savethechilden.org
-server2.savethechilden.org
-smtps.savethechilden.org
-smtpseguro.savethechilden.org
-sniper.savethechilden.org
-ssl.savethechilden.org
 stc.savethechilden.org
-tiger.savethechilden.org
-tw.savethechilden.org
-vip.savethechilden.org
-vmail.savethechilden.org
-vps.savethechilden.org
-ww38.savethechilden.org
 www.savethechilden.org
 www1.savethechilden.org
 sbunfied.org
@@ -110930,7 +110835,6 @@ af-ad.co.uk
 ensighten.airnewzealand.co.uk
 and.co.uk
 iad.anm.co.uk
-ads.aol.co.uk
 a1.api.bbc.co.uk
 r.bbci.co.uk
 click.e.bbcmail.co.uk
@@ -111033,8 +110937,6 @@ owlsr.us
 rubiconproject.us
 sabio.us
 samplicio.us
-ww1.thisadsfor.us
-ww25.thisadsfor.us
 trkn.us
 tracker.vgame.us
 log.zoom.us
