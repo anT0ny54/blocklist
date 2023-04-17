@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 344386
+# Ignored duplicates: 344401
 
 chameleon.ad
 pixel.ad
@@ -1874,7 +1874,6 @@ preprod-customer-api.datadome.co
 preprod-package.datadome.co
 prod.datadome.co
 prometheus.datadome.co
-repo.datadome.co
 sdbx-engine.datadome.co
 sdbx-sre.datadome.co
 sslgen-angel.datadome.co
@@ -3411,6 +3410,7 @@ adgardener.com
 adgear.com
 adgibbon.com
 adgrx.com
+email-clk.adguard.com
 email-opn.adguard.com
 adhaven.com
 adhd-natural-treatments.com
@@ -15874,7 +15874,8 @@ ipldigital.com
 iponweb.com
 ipowersounds.com
 ads.ipowerweb.com
-ipowerwebmail.com
+ww1.ipowerwebmail.com
+ww17.ipowerwebmail.com
 ad.ipredictive.com
 ad-eu-west.ipredictive.com
 ad-us-east.ipredictive.com
@@ -38445,10 +38446,7 @@ e2.panerabread.com
 panickycurtain.com
 panickypancake.com
 panjabinew.com
-ww1.panoora.com
 ww11.panoora.com
-ww17.panoora.com
-ww25.panoora.com
 www.panoora.com
 panoramicplane.com
 panterabtc.com
@@ -42267,6 +42265,7 @@ quisma.com
 quizflavor.com
 ww1.quizlety.com
 ww11.quizlety.com
+ww25.quizlety.com
 quizzicalzephyr.com
 a.quora.com
 log.quora.com
@@ -42290,6 +42289,7 @@ radarurl.com
 ads.radialserver.com
 radiate.com
 radiodysney.com
+www.radissonsblu.com
 rafona.com
 ragnarokcs.com
 railwayrainstorm.com
@@ -46565,7 +46565,13 @@ lahyieyu.scriload.com
 ww1.scriload.com
 ww11.scriload.com
 ww17.scriload.com
+ww25.scriload.com
+ww35.scriload.com
 ww38.scriload.com
+ww4.scriload.com
+ww41.scriload.com
+ww8.scriload.com
+www.scriload.com
 stats.script-protection.com
 connect.scroll.com
 static.scroll.com
@@ -50301,9 +50307,11 @@ word-v4-env.tuanguwen.com
 tubahloic.com
 tubaolic.com
 tubblee.com
+jp.tube16.com
 ww.tube16.com
 ww1.tube16.com
 ww25.tube16.com
+www.tube16.com
 tube21.com
 ifa.tube8live.com
 tubemogul.com
@@ -51473,7 +51481,9 @@ victorassecrect.com
 victoriasecrat.com
 victoriasecrert.com
 www.ww10.victoriassecrest.com
+ww16.victoriassecrest.com
 ww17.victoriassecrest.com
+ww25.victoriassecrest.com
 www.victoriassecrest.com
 bis.vidazoo.com
 bisdr.vidazoo.com
@@ -54179,7 +54189,6 @@ youporntr.com
 youradexchange.com
 youradioplace.com
 yourbankruptcypartners.com
-ww5.yourbenfitlink.com
 www.yourbenfitlink.com
 yourcartoons.com
 adjuggler.yourdictionary.com
@@ -55674,9 +55683,6 @@ astrofx.info
 atate.info
 atbt.info
 aumentatusingresos.info
-ww17.ausadsl.info
-ww25.ausadsl.info
-ww38.ausadsl.info
 auslandskredit.info
 authgram.info
 authorise.info
@@ -56259,8 +56265,6 @@ devki.info
 devpn.info
 dharmadownloads.info
 autodiscover.diarioextra.info
-mx1.diarioextra.info
-www.diarioextra.info
 www.dicoba.info
 didigames.info
 dienten.info
@@ -56344,10 +56348,6 @@ downclub.info
 downloader.info
 downxvideo.info
 dporn.info
-autodiscover.drakor.info
-mail.drakor.info
-ww16.drakor.info
-www.drakor.info
 www.dramaticdistinctives.info
 drare.info
 drasticdsemulatorapk.info
@@ -56650,6 +56650,7 @@ ganihp.info
 ganokuni.info
 gasteinertal.info
 gbinsta.info
+cpcalendars.gear-up.info
 geckos.info
 geid.info
 geispo.info
@@ -56685,7 +56686,6 @@ goldrock.info
 goldshorten.info
 golfbooks.info
 gomovies123.info
-www.gonzovideos.info
 beta.goodpeople.info
 mail.goodpeople.info
 ww1.goodpeople.info
@@ -57177,8 +57177,6 @@ musicschool.info
 musicsun.info
 musikz.info
 muskelschmerz.info
-ww17.muslimby.info
-ww25.muslimby.info
 ww38.muslimby.info
 antispam.mydogecoin.info
 authsmtp.mydogecoin.info
@@ -57271,7 +57269,10 @@ ww62.myshortlinks.info
 ww82.myshortlinks.info
 www.myshortlinks.info
 mysnapchat.info
-mystighty.info
+ww16.mystighty.info
+ww25.mystighty.info
+ww7.mystighty.info
+www.mystighty.info
 myta.info
 mytours.info
 mx.mzplus.info
@@ -57314,6 +57315,7 @@ neko299.info
 0www.ner-de-mi-nis-6.info
 ww1.ner-de-mi-nis-6.info
 ww11.ner-de-mi-nis-6.info
+ww16.ner-de-mi-nis-6.info
 ww17.ner-de-mi-nis-6.info
 ww2.ner-de-mi-nis-6.info
 ww25.ner-de-mi-nis-6.info
@@ -57932,8 +57934,6 @@ sanvitolocapo.info
 sarplaninac.info
 satl.info
 www.hochzeitskleidyear.saumyachopra.info
-ww1.saumyachopra.info
-ww17.saumyachopra.info
 ww3.saumyachopra.info
 www.sawahel.info
 sb360.info
@@ -58102,6 +58102,7 @@ sonrose.info
 sonyvegas.info
 soramoon.info
 sorarose.info
+ww1.sourcevapes.info
 ww16.sourcevapes.info
 ww25.sourcevapes.info
 ww38.sourcevapes.info
@@ -58189,8 +58190,14 @@ www.svabe.info
 svatektribratri.info
 mail.sweetspotgolf.info
 sitemaps.sweetspotgolf.info
+ww12.sweetspotgolf.info
+ww17.sweetspotgolf.info
+ww2.sweetspotgolf.info
 ww25.sweetspotgolf.info
 ww38.sweetspotgolf.info
+ww7.sweetspotgolf.info
+ww8.sweetspotgolf.info
+www.sweetspotgolf.info
 swiss-military.info
 sworks.info
 sxxx.info
@@ -58438,8 +58445,6 @@ www.torjacken.info
 torrentgamesps2.info
 torrentsave.info
 tospitaki.info
-cpcalendars.totaalbalans.info
-www.totaalbalans.info
 totoarena.info
 touring24.info
 touringaustralia.info
@@ -58813,12 +58818,9 @@ videoking.info
 videoprivate.info
 vidk.info
 ns67.domaincontrol.com.viit.info
-cpcontacts.viit.info
-mail.viit.info
 ww1.viit.info
 ww11.viit.info
 ww17.viit.info
-www.viit.info
 vinhomescity-tranduyhung.info
 virtualbus.info
 az.visapornotv.info
@@ -58917,6 +58919,7 @@ wonderweblink.info
 ns1.wood35.info
 ns2.wood35.info
 ww1.wood35.info
+ww16.wood35.info
 ww38.wood35.info
 www.wood35.info
 woodworkplans.info
@@ -96723,6 +96726,7 @@ ww38.eeepadhacks.net
 ww82.eeepadhacks.net
 in-ssl.effectivemeasure.net
 elasticad.net
+dan.elemen.net
 ww11.elemen.net
 www.elemen.net
 elibrarie.net
@@ -98691,8 +98695,6 @@ nsleep.net
 nuggad.net
 ads.nyi.net
 marketing.nyi.net
-ww11.nylonmilf.net
-www.nylonmilf.net
 nymburk.net
 adcanopus.offerstrack.net
 adgood.offerstrack.net
@@ -111010,7 +111012,6 @@ server-status.xyz
 trk.us-learn-teacher-poetry.xyz
 ventos.xyz
 cdn.vip-hd-movies.xyz
-t.viyuzi.xyz
 wpnrtnmrewunrtok.xyz
 yourprime.xyz
 adsrv.iol.co.za
