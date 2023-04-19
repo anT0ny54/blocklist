@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 344389
+# Ignored duplicates: 344378
 
 chameleon.ad
 pixel.ad
@@ -3817,7 +3817,6 @@ abot.admitad.com
 ac.admitad.com
 ac2.admitad.com
 account.admitad.com
-ad.admitad.com
 adg.admitad.com
 affiliate.admitad.com
 aft.admitad.com
@@ -4692,7 +4691,6 @@ deltadentalca-rt-prod1-cus.campaign.adobe.com
 devialet-mkt-prod1.campaign.adobe.com
 devialet-mkt-prod1-1.campaign.adobe.com
 directlinegroup.campaign.adobe.com
-discovery-mkt-prod3.campaign.adobe.com
 discovery-mkt-prod3-1.campaign.adobe.com
 dkb-mid-prod1-cus.campaign.adobe.com
 dkb-mid-stage1-1.campaign.adobe.com
@@ -8381,6 +8379,7 @@ bikezone-bg.com
 bilenor.com
 bilizzard.com
 billfilter.com
+billgatescrypto.com
 www.billgateshelp.com
 billigastelanet.com
 billigastforsakring.com
@@ -12327,6 +12326,7 @@ tracking.eurosport.com
 evadav.com
 evarify.com
 eveningbyallure.com
+event-spacex.com
 clicks.eventbrite.com
 eventbrte.com
 eventbtite.com
@@ -45960,7 +45960,6 @@ ruhaho.com
 rumahdanisa.com
 runads.com
 ww1.runescsape.com
-ww25.runescsape.com
 www.runescsape.com
 runnigmap.com
 runslin.com
@@ -52424,9 +52423,6 @@ westernunionl.com
 westernunipn.com
 westernwallnote.com
 westernwallnotes.com
-ww17.old.westseal.com
-ww25.old.westseal.com
-www.westseal.com
 stats.westworldmedia.com
 wetdevils.com
 wetmummys.com
@@ -54489,6 +54485,8 @@ adbroker.de
 adcell.de
 antispam.adclear.de
 c1ta04ucie6hh7al93e0.adclear.de
+gazeta.adclear.de
+de-ac-lb-01.ger.adclear.de
 ns1.adclear.de
 adition.de
 ads.administrator.de
@@ -56648,8 +56646,7 @@ ganihp.info
 ganokuni.info
 gasteinertal.info
 gbinsta.info
-cpcalendars.gear-up.info
-ww17.gear-up.info
+gear-up.info
 geckos.info
 geid.info
 geispo.info
@@ -56800,7 +56797,6 @@ ilcorsaroblu.info
 ilfornello.info
 ilit.info
 ilkoala.info
-ilovecasinos.info
 ilovefilmesonline.info
 ilovepix.info
 imagediet.info
@@ -57310,7 +57306,6 @@ www.natnews.info
 natureshop.info
 navzdy.info
 nbareplay.info
-nch-software.info
 neko299.info
 0www.ner-de-mi-nis-6.info
 ww1.ner-de-mi-nis-6.info
@@ -57480,6 +57475,7 @@ ovni.info
 p108.info
 p69.info
 packettracer.info
+www.padnij.info
 paginapeliculasonline.info
 www.pajarorojo.info
 www.paleoforbreakfast.info
@@ -59071,7 +59067,6 @@ ww1.yiwo.info
 ww11.yiwo.info
 ww17.yiwo.info
 ww25.yiwo.info
-ww62.yiwo.info
 ylg2.info
 yomovies.info
 youhookup.info
@@ -97865,7 +97860,6 @@ gmautopartners.net
 go-mpulse.net
 go2oh.net
 gofatty.net
-gotgays.net
 gotraffic.net
 graphicdesignercourses.net
 cdn.gravitec.net
@@ -98031,9 +98025,9 @@ supply.inmobicdn.net
 web.inmobicdn.net
 innity.net
 innovativesys.net
-inquerer.net
 instalovers.net
 inteligentreturns.net
+intellagents.net
 interele.net
 iocnt.net
 iplinkwifi.net
@@ -103676,11 +103670,6 @@ suncolonyapts.net
 sundenlink.net
 superhikaye.net
 surfthechanel.net
-links.swingsearch.net
-ww1.swingsearch.net
-ww35.swingsearch.net
-ww38.swingsearch.net
-www.swingsearch.net
 synonimen.net
 cs905.wac.systemcdn.net
 tacticalconcealment.net
@@ -103695,14 +103684,6 @@ tcads.net
 cpt.test.technolutions.net
 telugunovels.net
 cityads.telus.net
-ccc.tennis-recruiting.net
-ggg.tennis-recruiting.net
-hrw.tennis-recruiting.net
-lop.tennis-recruiting.net
-mmm.tennis-recruiting.net
-sss.tennis-recruiting.net
-ttt.tennis-recruiting.net
-uuu.tennis-recruiting.net
 mail.terrabio.net
 ww1.terrabio.net
 ww17.terrabio.net
@@ -104085,6 +104066,7 @@ kingfish.fishing.net.nz
 webstats.one
 aj1070.online
 besocial.online
+btcbonus.online
 store-notification.online
 12js.org
 1377x.org
@@ -104702,6 +104684,7 @@ deathmap.org
 debian-es.org
 debt-consolidation-america.org
 delsolhigh.org
+democraticforumburma.org
 derechoepja.org
 desireinggod.org
 destinypartners.org
@@ -104907,9 +104890,7 @@ fafas.org
 ns1.fairrentportland.org
 ns2.fairrentportland.org
 ww1.fairrentportland.org
-ww11.fairrentportland.org
 ww17.fairrentportland.org
-www.fairrentportland.org
 fairygardening.org
 ac.familoysearch.org
 auto.familoysearch.org
@@ -104930,6 +104911,7 @@ familyresourcemanagement.org
 familysearrch.org
 familysesrch.org
 familyshearch.org
+familyusearch.org
 fantasy-world.org
 www.fantasyrole.org
 farmewg.org
@@ -104991,6 +104973,7 @@ fsbt.org
 fss24.org
 ftbraggfcu.org
 ftce.org
+fthm.org
 fullertondogparkfoundation.org
 fumtica.org
 funpix.org
@@ -106657,6 +106640,7 @@ urlbook.org
 usadb.org
 usadf.org
 usalears.org
+usalerans.org
 usalerns.org
 usalr.org
 mail.usamnesty.org
@@ -107313,7 +107297,6 @@ nobull-sverige.com.se
 palmangelssverige.com.se
 patagonias.com.se
 pumaskorrea.com.se
-reeboksverige.com.se
 serenitycandles.com.se
 tretorn-rea.com.se
 vagabondskorrea.com.se
