@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 344337
+# Ignored duplicates: 344341
 
 chameleon.ad
 pixel.ad
@@ -5545,7 +5545,6 @@ adsroller.com
 adsrvs.com
 adssets.com
 ww1.adssyscom.com
-www.adssyscom.com
 adstanding.com
 adstatic.com
 adstradata.com
@@ -11575,7 +11574,6 @@ doggiepot.com
 dogmelon.com
 dogwisperer.com
 dohafw.com
-www.dolalrgeneral.com
 dolisosamerica.com
 www.dollarental.com
 wwww.dollarental.com
@@ -12804,7 +12802,6 @@ fmwold.com
 traffic.focuusing.com
 fodoqur.com
 ww25.fogoogle.com
-www.fogoogle.com
 fohono.com
 folhauol.com
 fonua-intranet.com
@@ -42281,6 +42278,8 @@ ww1.quizlety.com
 ww11.quizlety.com
 ww16.quizlety.com
 ww25.quizlety.com
+ww38.quizlety.com
+www.quizlety.com
 quizzicalzephyr.com
 a.quora.com
 log.quora.com
@@ -55576,6 +55575,9 @@ www.adatmentes.info
 www.adblog.info
 adessonews.info
 adidasi-nike.info
+ww12.adidasspringblade2.info
+ww7.adidasspringblade2.info
+www.adidasspringblade2.info
 aditech.info
 adm-vids.info
 advertisers.info
@@ -56282,6 +56284,9 @@ devki.info
 devpn.info
 dharmadownloads.info
 autodiscover.diarioextra.info
+cpcalendars.diarioextra.info
+cpcontacts.diarioextra.info
+mail.diarioextra.info
 www.dicoba.info
 didigames.info
 dienten.info
@@ -56620,6 +56625,7 @@ freewebtutorials.info
 freshwallpapers.info
 fukadamoe.info
 ww1.futjakot.info
+www.futjakot.info
 futurestudys.info
 fxwl.info
 fyo.info
@@ -56741,18 +56747,47 @@ gutteruncensored.info
 gyaoh.info
 haag.info
 haceracuario.info
-ww25.atomic-blonde-movie.hackgames.info
-ww25.craft-royale-clash-of-pixels.hackgames.info
+500rs-mobilephones.hackgames.info
+atomic-blonde-movie.hackgames.info
+chaturbate-token.hackgames.info
+chaturbate-token-generator.hackgames.info
+chaturbate-token-unlimited.hackgames.info
+completeoffer.hackgames.info
+consultant.hackgames.info
+craft-royale-clash-of-pixels.hackgames.info
+dragonvale-world-hack-cheats.hackgames.info
+dream-league-soccer-2017.hackgames.info
+forgeofempires.hackgames.info
+freefidgitspinner.hackgames.info
 gkallin.hackgames.info
-ww25.mystic-messenger-hourglass.hackgames.info
-ww25.paperio.hackgames.info
-ww16.sarahahappspyer.hackgames.info
-ww16.shadow-fight-hack-online.hackgames.info
-ww16.tricksforall.hackgames.info
-ww25.unlock.hackgames.info
+humanverification.hackgames.info
+igenerator.hackgames.info
+inglewood.hackgames.info
+loot-deals.hackgames.info
+mail.hackgames.info
+mariohackcheat.hackgames.info
+myfidgetspinner.hackgames.info
+mystic-messenger-hourglass.hackgames.info
+nba2k17vc.hackgames.info
+nba2k18vc.hackgames.info
+omeglechat.hackgames.info
+paperio.hackgames.info
+premiumapk.hackgames.info
+sarahahappspyer.hackgames.info
+shadow-fight-hack-online.hackgames.info
+styletreaty.hackgames.info
+technologyend.hackgames.info
+testme.hackgames.info
+tricksforall.hackgames.info
+unlimited-chaturbate-token.hackgames.info
+unlock.hackgames.info
+viralstorypedia.hackgames.info
+vra.hackgames.info
 ww11.hackgames.info
 ww12.hackgames.info
+ww38.hackgames.info
 ww7.hackgames.info
+www.hackgames.info
 haircolour.info
 hairytwatter.info
 hallstatt.info
@@ -56766,7 +56801,13 @@ hardis.info
 hargaproduk.info
 harmonielehre.info
 hastalavista.info
+dev.hayagitaran.info
+mail.hayagitaran.info
+old.hayagitaran.info
+shop.hayagitaran.info
 ww1.hayagitaran.info
+ww11.hayagitaran.info
+www.hayagitaran.info
 hazarat.info
 hbox.info
 hcbf.info
@@ -56838,6 +56879,7 @@ imagediet.info
 imagenesbonitas.info
 imagesexplore.info
 imai.info
+www.imigliori.info
 immortallife.info
 improvehealth.info
 indianarmy.info
@@ -59102,7 +59144,6 @@ tms.yiwo.info
 ww1.yiwo.info
 ww11.yiwo.info
 ww17.yiwo.info
-ww25.yiwo.info
 ylg2.info
 yomovies.info
 youhookup.info
@@ -103780,6 +103821,7 @@ sperdtest.net
 spulse.net
 srbiaulogin.net
 ss-omtrdc.net
+ww1.ssanimeflv.net
 ssfrom.net
 ww1.sstoday.net
 ww16.sstoday.net
@@ -104477,7 +104519,6 @@ tvbandung.belajaronline.org
 umrohgarut.belajaronline.org
 undanganonline.belajaronline.org
 backup.bensonfire.org
-pop.bensonfire.org
 ww1.bensonfire.org
 ww17.bensonfire.org
 ww25.bensonfire.org
@@ -106344,7 +106385,6 @@ ww38.savanefm.org
 www.savanefm.org
 savasoyunlari.org
 savetheartic.org
-stc.savethechilden.org
 sbunfied.org
 sc-court.org
 scgovjobs.org
@@ -107374,6 +107414,7 @@ www.adsnet.se
 smetrics.aftonbladet.se
 tracking.aktuellhallbarhet.se
 tracking.allehanda.se
+analytics.apotekhjartat.se
 tracking.arbetarbladet.se
 tracking.bandypuls.se
 resor-external.barnsemester.se
