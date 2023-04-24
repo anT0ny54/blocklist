@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 344340
+# Ignored duplicates: 344395
 
 chameleon.ad
 pixel.ad
@@ -5946,11 +5946,13 @@ kroki.tools.randi.adswizz.com
 matomo.tools.randi.adswizz.com
 metabase.tools.randi.adswizz.com
 minide-simulator.tools.randi.adswizz.com
+npm.tools.randi.adswizz.com
 sbf-forecast-api.tools.randi.adswizz.com
 sbf-redirect-ads.tools.randi.adswizz.com
 sentry.tools.randi.adswizz.com
 status.tools.randi.adswizz.com
 u0032-creative-studio.tools.randi.adswizz.com
+u0032-creative-studio-dev.tools.randi.adswizz.com
 url-to-ad-voting.tools.randi.adswizz.com
 url2png.tools.randi.adswizz.com
 usproxy.randi.adswizz.com
@@ -6637,7 +6639,9 @@ click.aliexpress.com
 alikeaddition.com
 mx7.alinkedin.com
 post.alinkedin.com
+sitemaps.alinkedin.com
 ww1.alinkedin.com
+ww25.alinkedin.com
 ww38.alinkedin.com
 ww7.alinkedin.com
 www.alinkedin.com
@@ -53669,7 +53673,6 @@ creative.xxxvjmp.com
 go.xxxvjmp.com
 xxxx69.com
 xyyyblog.com
-ww1.y-bm.com
 y4g3d2v1.com
 y8girl.com
 advertpro.ya.com
@@ -55633,9 +55636,10 @@ answkey.info
 antilles.info
 antiplaneta.info
 mvideo.antiviruspro.info
-static.antiviruspro.info
+ww1.static.antiviruspro.info
+ww25.static.antiviruspro.info
+ww84.static.antiviruspro.info
 ww1.antiviruspro.info
-ww11.antiviruspro.info
 ww17.antiviruspro.info
 ww25.antiviruspro.info
 ww84.antiviruspro.info
@@ -55659,17 +55663,13 @@ arabtravail.info
 aroundthe-world.info
 artecrochet.info
 arterienverkalkung.info
-autodiscover.artgaleria.info
 email.artgaleria.info
-mail.artgaleria.info
 mail1.artgaleria.info
 mail2.artgaleria.info
 mx.artgaleria.info
 mx1.artgaleria.info
-webdisk.artgaleria.info
 ww1.artgaleria.info
 ww17.artgaleria.info
-www.artgaleria.info
 mail.articleabc.info
 www.articleabc.info
 arunachalfront.info
@@ -56176,6 +56176,7 @@ vip.comix.info
 ww1.comix.info
 ww42.comix.info
 www.comix.info
+www.computer-arts.info
 computersetc.info
 www.consolasportatiles.info
 coolcashing.info
@@ -57361,15 +57362,11 @@ mytours.info
 ww16.mzplus.info
 ww17.mzplus.info
 ww2.mzplus.info
-ww25.mzplus.info
 www.mzplus.info
 naasongss.info
 nabimuhammad.info
 nadie007.info
 nagamochi.info
-ww1.najnovije-vijesti.info
-ww11.najnovije-vijesti.info
-ww17.najnovije-vijesti.info
 ww2.najnovije-vijesti.info
 ww25.najnovije-vijesti.info
 ww38.najnovije-vijesti.info
@@ -105116,7 +105113,6 @@ ns1.forumalew.org
 ns2.forumalew.org
 webdisk.forumalew.org
 whm.forumalew.org
-ww1.forumalew.org
 ww4.forumalew.org
 www.forumalew.org
 fotohost.org
@@ -105611,6 +105607,8 @@ mnshsl.org
 mobiloil.org
 moblism.org
 mochilero.org
+ww1.moconnections.org
+www.moconnections.org
 modestneed.org
 molecularcuisine.org
 momentjs.org
@@ -106982,7 +106980,9 @@ wwwworkintexas.org
 wwwymca.org
 xcdsql.org
 xepan.org
-xhamaster.org
+ww25.ru.xhamaster.org
+ww43.ru.xhamaster.org
+ww11.xhamaster.org
 xposedmagazinenews.org
 xtremeeagles.org
 xvedios.org
