@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 344395
+# Ignored duplicates: 344406
 
 chameleon.ad
 pixel.ad
@@ -118,6 +118,7 @@ customer.permutive.app
 edge.permutive.app
 partner.permutive.app
 sdk-test-service.permutive.app
+cdn.routy.app
 a2-y5xoeqxu4a-de.a.run.app
 aaaaa-11111-pgmhvd56da-de.a.run.app
 aachen-bussgelder-k3fasuseya-ey.a.run.app
@@ -4990,6 +4991,8 @@ nhst-mkt-prod1-cus.campaign.adobe.com
 nissanmotorco-mkt-prod1-res.campaign.adobe.com
 nordnetbankab-mkt-prod1-cus.campaign.adobe.com
 northgateplc-mkt-prod1-cus.campaign.adobe.com
+cdn.notifications.campaign.adobe.com
+data.notifications.campaign.adobe.com
 ns.campaign.adobe.com
 ntvspa-mkt-prod4.campaign.adobe.com
 ntvspa-mkt-prod4-1.campaign.adobe.com
@@ -6563,6 +6566,7 @@ alabangautoexchange.com
 alahamed.com
 alamodecs.com
 ads.aland.com
+images-ads.aland.com
 serve.albacross.com
 alburyclub.com
 alclick.com
@@ -7259,6 +7263,9 @@ thunder.amplitude.com
 trainingpartners.amplitude.com
 trust.amplitude.com
 prod.us-west-2.amplitude.com
+vercel-corpsite.amplitude.com
+vercel-sanity.amplitude.com
+wpengine-cf.amplitude.com
 www.amplitude.com
 amsterdam-apartments.com
 amsterdam-map.com
@@ -7562,6 +7569,7 @@ adnet.asahi.com
 asanbux.com
 sdk.asapp.com
 asccdn.com
+img.ascontentcloud.com
 tools.ascontentcloud.com
 asdasdd.com
 asewlfjqwlflkew.com
@@ -14143,7 +14151,6 @@ gmial.com
 ads.gmodules.com
 gmpail.com
 gmrlnd.com
-www.gmula.com
 gnomeuandjuliet.com
 analytics.ext.go-tellm.com
 go-xtube.com
@@ -15889,7 +15896,6 @@ ipldigital.com
 iponweb.com
 ipowersounds.com
 ads.ipowerweb.com
-ww1.ipowerwebmail.com
 ad.ipredictive.com
 ad-eu-west.ipredictive.com
 ad-us-east.ipredictive.com
@@ -31722,10 +31728,6 @@ momently.com
 mon-site-marchand.com
 monadak.com
 monarchads.com
-dev.monclerblouson.com
-email.monclerblouson.com
-members.monclerblouson.com
-ww25.monclerblouson.com
 monetize-me.com
 monetizer101.com
 monetizus.com
@@ -49153,7 +49155,6 @@ ww25.suntrutst.com
 ww38.suntrutst.com
 www.suntrutst.com
 ww1.sunwayputrahotel.com
-www.sunwayputrahotel.com
 www1.sunwayputrahotel.com
 ads.suomiautomaatti.com
 supedrug.com
@@ -55523,6 +55524,7 @@ a3esseker.info
 aaaaaz.info
 mail.abbottandcostello.info
 mvideo.abbottandcostello.info
+www.abbottandcostello.info
 abc1234.info
 abono.info
 mx.accapi.info
@@ -56209,6 +56211,8 @@ curieux.info
 czmms.info
 mail.daarija.info
 ww16.daarija.info
+ww2.daarija.info
+ww38.daarija.info
 www.daarija.info
 dadbab.info
 ww1.dailymp3.info
@@ -56289,6 +56293,10 @@ autodiscover.diarioextra.info
 cpcalendars.diarioextra.info
 cpcontacts.diarioextra.info
 mail.diarioextra.info
+ww1.diarioextra.info
+ww17.diarioextra.info
+ww25.diarioextra.info
+ww38.diarioextra.info
 www.dicoba.info
 didigames.info
 dienten.info
@@ -56627,6 +56635,7 @@ freewebtutorials.info
 freshwallpapers.info
 fukadamoe.info
 ww1.futjakot.info
+ww17.futjakot.info
 www.futjakot.info
 futurestudys.info
 fxwl.info
@@ -56789,8 +56798,10 @@ vra.hackgames.info
 ww1.hackgames.info
 ww11.hackgames.info
 ww12.hackgames.info
+ww16.hackgames.info
 ww17.hackgames.info
 ww38.hackgames.info
+ww4.hackgames.info
 ww7.hackgames.info
 www.hackgames.info
 haircolour.info
@@ -57126,7 +57137,6 @@ marokolastminute.info
 marthabeatriz.info
 mail.maslennikov.info
 ww1.maslennikov.info
-ww11.maslennikov.info
 www.maslennikov.info
 massagebykathy.info
 masscryp.info
@@ -57145,7 +57155,6 @@ www.mcnudes.info
 mcsa.info
 mdcollege.info
 mediamuslim.info
-www.mediapendidikan.info
 medicalequipments.info
 medicalfacts.info
 medicalinstruments.info
@@ -57261,7 +57270,10 @@ musicsun.info
 musikz.info
 muskelschmerz.info
 ww1.muslimby.info
+ww17.muslimby.info
+ww25.muslimby.info
 ww38.muslimby.info
+www.muslimby.info
 antispam.mydogecoin.info
 authsmtp.mydogecoin.info
 box.mydogecoin.info
@@ -57360,8 +57372,6 @@ www.mystighty.info
 myta.info
 mytours.info
 ww16.mzplus.info
-ww17.mzplus.info
-ww2.mzplus.info
 www.mzplus.info
 naasongss.info
 nabimuhammad.info
@@ -57563,7 +57573,6 @@ www.pajarorojo.info
 www.paleohub.info
 ww1.pandasearch.info
 ww16.pandasearch.info
-ww17.pandasearch.info
 ww2.pandasearch.info
 ww25.pandasearch.info
 www.pandasearch.info
@@ -57935,6 +57944,8 @@ rewctr.info
 rewy.info
 rexhado.info
 ricojeu.info
+ww1.ritual-service.info
+ww17.ritual-service.info
 riuu.info
 rksi.info
 334www.rockontrains.info
@@ -63004,6 +63015,7 @@ bounce.sentry.io
 pypi.devinfra.sentry.io
 get.sentry.io
 go.sentry.io
+gsnlink.sentry.io
 o0.ingest.sentry.io
 o1.ingest.sentry.io
 o1002667.ingest.sentry.io
@@ -99029,8 +99041,6 @@ h-blueorangebank.online-metrix.net
 h-bluevine.online-metrix.net
 h-bmo.online-metrix.net
 h-bmoharris2.online-metrix.net
-h-bo72h7g2-2.online-metrix.net
-h-bo72h7g2-4.online-metrix.net
 h-bos.online-metrix.net
 h-brightlending.online-metrix.net
 h-bt.online-metrix.net
@@ -99359,7 +99369,6 @@ pxchk.net
 pxsrv.net
 www.pyramisa.net
 wwww.qksrv.net
-siteintercept.qprod2.net
 qudsmedia.net
 questaffiliates.net
 raac33.net
@@ -104107,7 +104116,6 @@ ztkcdn.net
 ztksrv.net
 api.a.zucks.net
 ct.a.zucks.net
-ksk.a.zucks.net
 ch.zucks.net
 el.zucks.net
 h.zucks.net
@@ -104521,7 +104529,6 @@ backup.bensonfire.org
 ww1.bensonfire.org
 ww25.bensonfire.org
 ww38.bensonfire.org
-www.bensonfire.org
 beretta-e.org
 bestfreinds.org
 bethmore.org
@@ -105056,8 +105063,6 @@ eyeofthecat.org
 ezpassnj.org
 www.face-copyright.org
 fafas.org
-ww1.fairrentportland.org
-ww17.fairrentportland.org
 fairygardening.org
 ac.familoysearch.org
 auto.familoysearch.org
@@ -105132,7 +105137,6 @@ freefilm.org
 freemp3x.org
 freephonemn.org
 freesoud.org
-ww1.freethoughtproject.org
 frenchstreaming.org
 fs-creations.org
 fsbt.org
@@ -105608,6 +105612,7 @@ mobiloil.org
 moblism.org
 mochilero.org
 ww1.moconnections.org
+ww38.moconnections.org
 www.moconnections.org
 modestneed.org
 molecularcuisine.org
@@ -106495,11 +106500,6 @@ spinhuis.org
 spll.org
 sports-net.org
 no.spotifypremium.org
-ww11.spotifypremium.org
-ww16.spotifypremium.org
-ww17.spotifypremium.org
-ww25.spotifypremium.org
-ww38.spotifypremium.org
 www.spotifypremium.org
 springfieldschools.org
 springshospital.org
@@ -106761,7 +106761,6 @@ treatocd.org
 trianglehighfive.org
 tribook.org
 trinitybayridge.org
-www.tripti.org
 tropicalparkboxing.org
 trottinette.org
 tructiepbongda.org
@@ -106980,9 +106979,6 @@ wwwworkintexas.org
 wwwymca.org
 xcdsql.org
 xepan.org
-ww25.ru.xhamaster.org
-ww43.ru.xhamaster.org
-ww11.xhamaster.org
 xposedmagazinenews.org
 xtremeeagles.org
 xvedios.org
