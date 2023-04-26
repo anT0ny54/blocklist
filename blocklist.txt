@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 344406
+# Ignored duplicates: 344373
 
 chameleon.ad
 pixel.ad
@@ -1418,18 +1418,6 @@ ads.ibest.com.br
 ad.jacotei.com.br
 medicalcenterbr.com.br
 adserver.pampa.com.br
-ads.reamp.com.br
-ima.reamp.com.br
-ras.reamp.com.br
-rat.reamp.com.br
-ratfkcdn.reamp.com.br
-ratlnd.reamp.com.br
-ratmx.reamp.com.br
-rce.reamp.com.br
-rdm.reamp.com.br
-rid.reamp.com.br
-rme.reamp.com.br
-rthmx.reamp.com.br
 adfs.senacrs.com.br
 softclick.com.br
 ads.todoti.com.br
@@ -2653,7 +2641,6 @@ api-34-213-138-150.aamapi.com
 api-34-213-142-180.aamapi.com
 api-34-214-107-80.aamapi.com
 api-34-214-221-74.aamapi.com
-api-34-214-225-21.aamapi.com
 api-34-214-229-172.aamapi.com
 api-34-214-45-177.aamapi.com
 api-34-215-113-237.aamapi.com
@@ -2687,7 +2674,6 @@ api-34-220-188-92.aamapi.com
 api-34-220-189-246.aamapi.com
 api-34-220-221-63.aamapi.com
 api-34-220-26-137.aamapi.com
-api-34-220-62-24.aamapi.com
 api-34-220-98-58.aamapi.com
 api-34-221-180-143.aamapi.com
 api-34-222-109-202.aamapi.com
@@ -7178,8 +7164,6 @@ ads.amigos.com
 banners.amigos.com
 amiibox.com
 amillionads.com
-mail.amirpirani.com
-www.amirpirani.com
 amishfurnaces.com
 amoad.com
 amobee.com
@@ -8403,7 +8387,6 @@ bikezone-bg.com
 bilenor.com
 bilizzard.com
 billfilter.com
-billgatescrypto.com
 www.billgateshelp.com
 billigastelanet.com
 billigastforsakring.com
@@ -12196,10 +12179,7 @@ endurableshop.com
 energeticladybug.com
 cdn.energeticvalues.com
 mail3.energeticvalues.com
-mx1.energeticvalues.com
-mx2.energeticvalues.com
 mx20.energeticvalues.com
-mx5.energeticvalues.com
 mx6.energeticvalues.com
 mx9.energeticvalues.com
 sq.energeticvalues.com
@@ -12544,6 +12524,7 @@ fabswingerd.com
 facebooktown.com
 faceeboc.com
 free.facejbook.com
+ww1.facejbook.com
 ww5.facejbook.com
 faceyoumanga.com
 facilitategrandfather.com
@@ -15111,7 +15092,6 @@ hlserve.com
 hmasolicitors.com
 hmn-tech.com
 hmstats.com
-hnyhnyhny.com
 comune.hobbylandinc.com
 cs.hobbylandinc.com
 gateway.hobbylandinc.com
@@ -16082,7 +16062,8 @@ rtb-al-eu.jampp.com
 rtb-aod.jampp.com
 rtb-lb-us2.jampp.com
 static.jampp.com
-janeiredele.com
+ww1.janeiredele.com
+www.janeiredele.com
 adserver.janes.com
 janetscafealpine.com
 jangoradio.com
@@ -20077,6 +20058,7 @@ mktoresp.com
 001-rli-510.mktoweb.com
 001-vgt-962.mktoweb.com
 001-vwq-123.mktoweb.com
+002-dwr-165.mktoweb.com
 002-hln-521.mktoweb.com
 002-jxt-068.mktoweb.com
 002-ldf-436.mktoweb.com
@@ -20116,6 +20098,7 @@ mktoresp.com
 006-iqr-175.mktoweb.com
 006-oma-076.mktoweb.com
 006-puj-446.mktoweb.com
+006-sio-920.mktoweb.com
 006-xiz-385.mktoweb.com
 007-bfy-805.mktoweb.com
 007-gqs-374.mktoweb.com
@@ -20151,6 +20134,7 @@ mktoresp.com
 011-cpr-959.mktoweb.com
 011-cwd-682.mktoweb.com
 011-esv-261.mktoweb.com
+011-lpu-243.mktoweb.com
 011-pck-293.mktoweb.com
 011-qzd-574.mktoweb.com
 011-twk-636.mktoweb.com
@@ -20329,6 +20313,7 @@ mktoresp.com
 028-juc-858.mktoweb.com
 028-ofg-749.mktoweb.com
 028-sxk-507.mktoweb.com
+028-xba-116.mktoweb.com
 028-zjt-006.mktoweb.com
 029-byn-876.mktoweb.com
 029-cek-917.mktoweb.com
@@ -20358,6 +20343,7 @@ mktoresp.com
 031-qwr-560.mktoweb.com
 031-tnt-881.mktoweb.com
 031-wix-618.mktoweb.com
+031-wnr-786.mktoweb.com
 031-wyt-169.mktoweb.com
 031-yiy-529.mktoweb.com
 031-zad-683.mktoweb.com
@@ -20519,6 +20505,7 @@ mktoresp.com
 049-ioy-754.mktoweb.com
 049-sbp-453.mktoweb.com
 049-skh-375.mktoweb.com
+049-svn-610.mktoweb.com
 049-xyx-395.mktoweb.com
 049-xza-708.mktoweb.com
 050-cag-466.mktoweb.com
@@ -20581,6 +20568,7 @@ mktoresp.com
 055-ryg-246.mktoweb.com
 055-scb-220.mktoweb.com
 055-smc-012.mktoweb.com
+055-wyu-308.mktoweb.com
 055-xav-647.mktoweb.com
 055-zpx-392.mktoweb.com
 056-cyx-151.mktoweb.com
@@ -20590,6 +20578,7 @@ mktoresp.com
 056-ijl-486.mktoweb.com
 056-iln-394.mktoweb.com
 056-jta-329.mktoweb.com
+056-lst-690.mktoweb.com
 056-qll-528.mktoweb.com
 056-qzc-375.mktoweb.com
 056-tne-429.mktoweb.com
@@ -20616,6 +20605,7 @@ mktoresp.com
 058-tqq-714.mktoweb.com
 058-xzi-925.mktoweb.com
 058-zyz-852.mktoweb.com
+059-aqd-601.mktoweb.com
 059-bjl-570.mktoweb.com
 059-gqo-645.mktoweb.com
 059-hvu-018.mktoweb.com
@@ -20834,6 +20824,7 @@ mktoresp.com
 082-bhy-776.mktoweb.com
 082-kna-087.mktoweb.com
 082-kod-820.mktoweb.com
+082-xdu-445.mktoweb.com
 083-brw-992.mktoweb.com
 083-ety-146.mktoweb.com
 083-gls-023.mktoweb.com
@@ -21086,6 +21077,7 @@ mktoresp.com
 105-zci-897.mktoweb.com
 106-cxj-811.mktoweb.com
 106-fqn-038.mktoweb.com
+106-fus-344.mktoweb.com
 106-hal-062.mktoweb.com
 106-iwe-064.mktoweb.com
 106-jev-611.mktoweb.com
@@ -21172,6 +21164,7 @@ mktoresp.com
 113-kqz-397.mktoweb.com
 113-luj-328.mktoweb.com
 113-pmw-261.mktoweb.com
+113-qdv-919.mktoweb.com
 113-sfk-014.mktoweb.com
 113-tgg-304.mktoweb.com
 113-udx-599.mktoweb.com
@@ -21340,6 +21333,7 @@ mktoresp.com
 130-tmk-629.mktoweb.com
 130-xkw-225.mktoweb.com
 131-cdz-040.mktoweb.com
+131-ipk-525.mktoweb.com
 131-lyr-018.mktoweb.com
 131-raj-144.mktoweb.com
 131-syo-861.mktoweb.com
@@ -21429,6 +21423,7 @@ mktoresp.com
 138-kmy-182.mktoweb.com
 138-nza-744.mktoweb.com
 138-ozl-751.mktoweb.com
+138-slw-073.mktoweb.com
 138-uye-349.mktoweb.com
 138-xby-001.mktoweb.com
 138-xij-867.mktoweb.com
@@ -21587,6 +21582,7 @@ mktoresp.com
 156-syn-723.mktoweb.com
 156-tuj-575.mktoweb.com
 156-wae-506.mktoweb.com
+157-bun-018.mktoweb.com
 157-coi-510.mktoweb.com
 157-egk-904.mktoweb.com
 157-gqn-064.mktoweb.com
@@ -21887,6 +21883,7 @@ mktoresp.com
 185-wvr-425.mktoweb.com
 185-xlc-951.mktoweb.com
 185-xyl-742.mktoweb.com
+185-yfh-996.mktoweb.com
 185-ywx-290.mktoweb.com
 186-aeb-829.mktoweb.com
 186-bgg-413.mktoweb.com
@@ -22112,6 +22109,7 @@ mktoresp.com
 206-ihd-786.mktoweb.com
 206-lfl-635.mktoweb.com
 206-vtn-965.mktoweb.com
+206-zdm-590.mktoweb.com
 207-dbm-610.mktoweb.com
 207-dpn-661.mktoweb.com
 207-odz-857.mktoweb.com
@@ -22163,6 +22161,7 @@ mktoresp.com
 212-wui-188.mktoweb.com
 213-djx-941.mktoweb.com
 213-fpu-718.mktoweb.com
+213-fzf-233.mktoweb.com
 213-hft-078.mktoweb.com
 213-hry-536.mktoweb.com
 213-mid-816.mktoweb.com
@@ -22332,6 +22331,7 @@ mktoresp.com
 228-beg-833.mktoweb.com
 228-bkb-088.mktoweb.com
 228-gpv-835.mktoweb.com
+228-hdd-487.mktoweb.com
 228-hlz-301.mktoweb.com
 228-jtf-175.mktoweb.com
 228-nge-789.mktoweb.com
@@ -22495,6 +22495,7 @@ mktoresp.com
 242-juy-640.mktoweb.com
 242-ubb-683.mktoweb.com
 242-vcy-263.mktoweb.com
+242-vgb-389.mktoweb.com
 242-wlg-247.mktoweb.com
 242-xcz-221.mktoweb.com
 242-xye-612.mktoweb.com
@@ -22519,6 +22520,7 @@ mktoresp.com
 244-wjn-174.mktoweb.com
 245-boq-954.mktoweb.com
 245-gxk-623.mktoweb.com
+245-kah-142.mktoweb.com
 245-mkl-015.mktoweb.com
 245-rjk-441.mktoweb.com
 245-vfn-047.mktoweb.com
@@ -22564,18 +22566,21 @@ mktoresp.com
 249-yqn-512.mktoweb.com
 249-zho-530.mktoweb.com
 249-zvv-229.mktoweb.com
+250-bas-161.mktoweb.com
 250-bgr-509.mktoweb.com
 250-brb-602.mktoweb.com
 250-kmw-698.mktoweb.com
 250-ndu-845.mktoweb.com
 250-psq-202.mktoweb.com
 250-qnx-273.mktoweb.com
+250-vom-443.mktoweb.com
 250-wiu-007.mktoweb.com
 250-xyr-744.mktoweb.com
 250-ybs-990.mktoweb.com
 251-hbb-717.mktoweb.com
 251-jer-851.mktoweb.com
 251-lxf-778.mktoweb.com
+251-npj-286.mktoweb.com
 251-qfr-722.mktoweb.com
 251-qvg-178.mktoweb.com
 251-qxt-556.mktoweb.com
@@ -22632,6 +22637,7 @@ mktoresp.com
 256-vfd-330.mktoweb.com
 256-zdd-082.mktoweb.com
 256-ztx-733.mktoweb.com
+257-gem-396.mktoweb.com
 257-liu-152.mktoweb.com
 257-slo-317.mktoweb.com
 257-swq-067.mktoweb.com
@@ -22641,6 +22647,7 @@ mktoresp.com
 258-arx-516.mktoweb.com
 258-btl-929.mktoweb.com
 258-clw-344.mktoweb.com
+258-ecz-926.mktoweb.com
 258-fem-750.mktoweb.com
 258-gcq-036.mktoweb.com
 258-mhv-676.mktoweb.com
@@ -22886,6 +22893,7 @@ mktoresp.com
 281-obq-266.mktoweb.com
 281-pon-571.mktoweb.com
 281-qek-310.mktoweb.com
+281-qkn-661.mktoweb.com
 281-wit-418.mktoweb.com
 281-wrq-713.mktoweb.com
 281-xqc-783.mktoweb.com
@@ -23135,6 +23143,7 @@ mktoresp.com
 305-xnv-017.mktoweb.com
 305-xuy-854.mktoweb.com
 305-xvv-425.mktoweb.com
+306-ehg-641.mktoweb.com
 306-lqy-684.mktoweb.com
 306-oyt-109.mktoweb.com
 306-rhu-277.mktoweb.com
@@ -23162,6 +23171,7 @@ mktoresp.com
 309-eiy-483.mktoweb.com
 309-fad-194.mktoweb.com
 309-iga-699.mktoweb.com
+309-kts-378.mktoweb.com
 309-kyt-331.mktoweb.com
 309-mwz-653.mktoweb.com
 309-owk-754.mktoweb.com
@@ -23256,6 +23266,7 @@ mktoresp.com
 317-pth-739.mktoweb.com
 317-qeb-797.mktoweb.com
 317-ubp-492.mktoweb.com
+317-uxw-418.mktoweb.com
 317-xez-415.mktoweb.com
 317-xmp-894.mktoweb.com
 318-hjg-867.mktoweb.com
@@ -23442,6 +23453,7 @@ mktoresp.com
 334-shn-540.mktoweb.com
 334-tyx-475.mktoweb.com
 334-ujl-453.mktoweb.com
+334-ukw-895.mktoweb.com
 334-yis-641.mktoweb.com
 335-dkk-274.mktoweb.com
 335-fel-215.mktoweb.com
@@ -23651,6 +23663,7 @@ mktoresp.com
 353-sae-487.mktoweb.com
 353-utb-444.mktoweb.com
 353-xaa-054.mktoweb.com
+354-dbn-505.mktoweb.com
 354-esl-459.mktoweb.com
 354-hxi-803.mktoweb.com
 354-ioj-574.mktoweb.com
@@ -23711,6 +23724,7 @@ mktoresp.com
 359-mzn-710.mktoweb.com
 359-rii-590.mktoweb.com
 359-yao-250.mktoweb.com
+360-akz-102.mktoweb.com
 360-kci-804.mktoweb.com
 360-kkf-516.mktoweb.com
 360-lll-602.mktoweb.com
@@ -23805,6 +23819,7 @@ mktoresp.com
 369-koh-196.mktoweb.com
 369-oxf-430.mktoweb.com
 369-qpb-103.mktoweb.com
+369-thl-698.mktoweb.com
 369-vxw-324.mktoweb.com
 369-wgx-807.mktoweb.com
 370-ecs-521.mktoweb.com
@@ -24095,6 +24110,7 @@ mktoresp.com
 396-omj-820.mktoweb.com
 396-oqg-949.mktoweb.com
 396-ppv-146.mktoweb.com
+396-qpf-007.mktoweb.com
 396-sgs-161.mktoweb.com
 396-xjb-231.mktoweb.com
 397-chi-994.mktoweb.com
@@ -24110,6 +24126,7 @@ mktoresp.com
 398-ncu-146.mktoweb.com
 398-qgl-845.mktoweb.com
 398-tdd-142.mktoweb.com
+398-vnq-345.mktoweb.com
 398-wzn-896.mktoweb.com
 399-fhk-268.mktoweb.com
 399-iwh-413.mktoweb.com
@@ -24214,6 +24231,7 @@ mktoresp.com
 409-sie-726.mktoweb.com
 409-wyx-724.mktoweb.com
 409-yaf-785.mktoweb.com
+409-ykf-700.mktoweb.com
 410-ade-252.mktoweb.com
 410-bnh-156.mktoweb.com
 410-cht-047.mktoweb.com
@@ -24333,6 +24351,7 @@ mktoresp.com
 421-uam-182.mktoweb.com
 421-yep-217.mktoweb.com
 422-agk-750.mktoweb.com
+422-bqn-958.mktoweb.com
 422-djp-161.mktoweb.com
 422-mbv-091.mktoweb.com
 422-qgq-523.mktoweb.com
@@ -24385,6 +24404,7 @@ mktoresp.com
 427-jai-798.mktoweb.com
 427-ken-840.mktoweb.com
 427-kye-336.mktoweb.com
+427-leq-066.mktoweb.com
 427-lpl-553.mktoweb.com
 427-lst-825.mktoweb.com
 427-oke-698.mktoweb.com
@@ -24624,6 +24644,7 @@ mktoresp.com
 450-ppb-071.mktoweb.com
 450-qwu-744.mktoweb.com
 450-tqa-234.mktoweb.com
+450-vzz-622.mktoweb.com
 450-xkm-858.mktoweb.com
 450-znu-089.mktoweb.com
 451-caz-224.mktoweb.com
@@ -24717,6 +24738,7 @@ mktoresp.com
 460-vfu-459.mktoweb.com
 461-bun-421.mktoweb.com
 461-cty-991.mktoweb.com
+461-eqi-145.mktoweb.com
 461-hxu-603.mktoweb.com
 461-jpo-444.mktoweb.com
 461-nmj-598.mktoweb.com
@@ -24746,6 +24768,7 @@ mktoresp.com
 462-zya-975.mktoweb.com
 463-avm-508.mktoweb.com
 463-bus-908.mktoweb.com
+463-bvg-862.mktoweb.com
 463-cyi-211.mktoweb.com
 463-iai-135.mktoweb.com
 463-isz-185.mktoweb.com
@@ -24781,6 +24804,7 @@ mktoresp.com
 466-cvu-498.mktoweb.com
 466-eth-916.mktoweb.com
 466-jlz-599.mktoweb.com
+466-kdz-480.mktoweb.com
 466-kly-124.mktoweb.com
 466-lad-732.mktoweb.com
 466-ldc-047.mktoweb.com
@@ -24808,6 +24832,7 @@ mktoresp.com
 468-yrw-181.mktoweb.com
 469-drr-767.mktoweb.com
 469-dzq-455.mktoweb.com
+469-eyl-177.mktoweb.com
 469-frp-401.mktoweb.com
 469-gih-226.mktoweb.com
 469-hoo-201.mktoweb.com
@@ -24879,6 +24904,7 @@ mktoresp.com
 477-gvk-824.mktoweb.com
 477-mpr-554.mktoweb.com
 477-mwk-541.mktoweb.com
+477-xhc-542.mktoweb.com
 477-xnt-990.mktoweb.com
 478-isx-896.mktoweb.com
 478-kai-855.mktoweb.com
@@ -24916,6 +24942,7 @@ mktoresp.com
 481-ixy-593.mktoweb.com
 481-jah-235.mktoweb.com
 481-pyw-994.mktoweb.com
+481-sms-623.mktoweb.com
 481-uom-689.mktoweb.com
 481-vny-778.mktoweb.com
 481-zcd-244.mktoweb.com
@@ -24979,6 +25006,7 @@ mktoresp.com
 486-xlo-960.mktoweb.com
 487-agl-182.mktoweb.com
 487-ata-998.mktoweb.com
+487-eao-836.mktoweb.com
 487-ery-597.mktoweb.com
 487-fgc-830.mktoweb.com
 487-fzx-590.mktoweb.com
@@ -24989,6 +25017,7 @@ mktoresp.com
 487-tqm-397.mktoweb.com
 487-wjq-633.mktoweb.com
 488-dxu-217.mktoweb.com
+488-eeh-673.mktoweb.com
 488-gvg-084.mktoweb.com
 488-gxq-929.mktoweb.com
 488-imh-771.mktoweb.com
@@ -25005,6 +25034,7 @@ mktoresp.com
 489-nwt-146.mktoweb.com
 489-oje-992.mktoweb.com
 489-ojl-092.mktoweb.com
+489-qyw-979.mktoweb.com
 489-wni-383.mktoweb.com
 489-wsb-822.mktoweb.com
 490-buv-959.mktoweb.com
@@ -25113,6 +25143,7 @@ mktoresp.com
 501-att-575.mktoweb.com
 501-dtk-308.mktoweb.com
 501-gzt-337.mktoweb.com
+501-jcw-938.mktoweb.com
 501-lfk-180.mktoweb.com
 501-nbc-651.mktoweb.com
 501-nqp-509.mktoweb.com
@@ -25476,6 +25507,7 @@ mktoresp.com
 535-gsg-963.mktoweb.com
 535-gwk-573.mktoweb.com
 535-hly-813.mktoweb.com
+535-iih-793.mktoweb.com
 535-ixz-934.mktoweb.com
 535-kft-527.mktoweb.com
 535-kss-418.mktoweb.com
@@ -25587,6 +25619,7 @@ mktoresp.com
 545-kcp-163.mktoweb.com
 545-khh-485.mktoweb.com
 545-ofw-044.mktoweb.com
+545-tgy-927.mktoweb.com
 545-wcy-986.mktoweb.com
 545-xup-384.mktoweb.com
 546-ajv-508.mktoweb.com
@@ -25736,6 +25769,7 @@ mktoresp.com
 560-lky-380.mktoweb.com
 560-shs-013.mktoweb.com
 560-swl-265.mktoweb.com
+560-yfx-153.mktoweb.com
 560-yjz-423.mktoweb.com
 560-zcy-439.mktoweb.com
 561-axh-014.mktoweb.com
@@ -25753,6 +25787,7 @@ mktoresp.com
 561-xog-794.mktoweb.com
 561-znp-897.mktoweb.com
 561-zzi-600.mktoweb.com
+562-ahv-384.mktoweb.com
 562-biv-955.mktoweb.com
 562-czb-317.mktoweb.com
 562-ddu-110.mktoweb.com
@@ -25773,6 +25808,7 @@ mktoresp.com
 563-vim-019.mktoweb.com
 563-vua-348.mktoweb.com
 563-xtr-001.mktoweb.com
+564-bky-836.mktoweb.com
 564-cjv-388.mktoweb.com
 564-hvs-092.mktoweb.com
 564-iej-065.mktoweb.com
@@ -26096,6 +26132,7 @@ mktoresp.com
 595-oxt-999.mktoweb.com
 595-uig-003.mktoweb.com
 595-wdl-277.mktoweb.com
+595-ybk-523.mktoweb.com
 596-bph-542.mktoweb.com
 596-eoq-070.mktoweb.com
 596-krl-146.mktoweb.com
@@ -26140,6 +26177,7 @@ mktoresp.com
 599-ytr-991.mktoweb.com
 600-arx-277.mktoweb.com
 600-cnf-632.mktoweb.com
+600-eyr-728.mktoweb.com
 600-lyg-899.mktoweb.com
 600-nsb-635.mktoweb.com
 600-ouj-906.mktoweb.com
@@ -26160,6 +26198,7 @@ mktoresp.com
 602-lli-083.mktoweb.com
 602-lnu-875.mktoweb.com
 602-mio-738.mktoweb.com
+602-qar-503.mktoweb.com
 602-qgz-447.mktoweb.com
 602-sia-010.mktoweb.com
 602-xdi-059.mktoweb.com
@@ -26177,6 +26216,7 @@ mktoresp.com
 603-veq-161.mktoweb.com
 603-ylv-308.mktoweb.com
 604-dpl-939.mktoweb.com
+604-fgn-448.mktoweb.com
 604-fvz-557.mktoweb.com
 604-ipg-418.mktoweb.com
 604-kxh-902.mktoweb.com
@@ -26615,8 +26655,10 @@ mktoresp.com
 650-ozv-268.mktoweb.com
 650-ozw-112.mktoweb.com
 650-tqx-240.mktoweb.com
+650-wkf-282.mktoweb.com
 650-xcr-005.mktoweb.com
 650-ycz-936.mktoweb.com
+651-adj-304.mktoweb.com
 651-efv-106.mktoweb.com
 651-eko-629.mktoweb.com
 651-fau-606.mktoweb.com
@@ -26627,6 +26669,7 @@ mktoresp.com
 651-tsv-748.mktoweb.com
 652-gam-809.mktoweb.com
 652-hvt-808.mktoweb.com
+652-ibe-905.mktoweb.com
 652-ljg-176.mktoweb.com
 652-nso-201.mktoweb.com
 652-pzj-115.mktoweb.com
@@ -26668,6 +26711,7 @@ mktoresp.com
 657-adk-619.mktoweb.com
 657-edd-313.mktoweb.com
 657-eto-627.mktoweb.com
+657-fth-425.mktoweb.com
 657-uav-638.mktoweb.com
 657-ygo-935.mktoweb.com
 658-dvw-371.mktoweb.com
@@ -26911,6 +26955,7 @@ mktoresp.com
 683-ems-653.mktoweb.com
 683-gff-263.mktoweb.com
 683-gpo-475.mktoweb.com
+683-lug-359.mktoweb.com
 683-ron-113.mktoweb.com
 683-sbp-878.mktoweb.com
 683-uqz-291.mktoweb.com
@@ -26926,6 +26971,7 @@ mktoresp.com
 685-dze-463.mktoweb.com
 685-fpd-367.mktoweb.com
 685-gbq-700.mktoweb.com
+685-hhy-878.mktoweb.com
 685-ikl-419.mktoweb.com
 685-kxl-130.mktoweb.com
 685-ohi-825.mktoweb.com
@@ -27112,6 +27158,7 @@ mktoresp.com
 702-ene-520.mktoweb.com
 702-eyo-407.mktoweb.com
 702-eze-901.mktoweb.com
+702-jvr-389.mktoweb.com
 702-kkk-121.mktoweb.com
 702-ntk-721.mktoweb.com
 702-odr-783.mktoweb.com
@@ -27687,6 +27734,7 @@ mktoresp.com
 756-ruv-040.mktoweb.com
 756-sbu-579.mktoweb.com
 756-sii-584.mktoweb.com
+756-upl-750.mktoweb.com
 756-vst-145.mktoweb.com
 756-wdc-520.mktoweb.com
 757-dhu-242.mktoweb.com
@@ -27802,6 +27850,7 @@ mktoresp.com
 769-jyp-784.mktoweb.com
 769-lyi-144.mktoweb.com
 769-lzz-364.mktoweb.com
+769-rwr-099.mktoweb.com
 769-sua-709.mktoweb.com
 769-xvt-787.mktoweb.com
 770-gzk-990.mktoweb.com
@@ -27885,6 +27934,7 @@ mktoresp.com
 777-erd-451.mktoweb.com
 777-esl-602.mktoweb.com
 777-iuc-230.mktoweb.com
+777-jlq-736.mktoweb.com
 777-lhw-455.mktoweb.com
 777-lqy-281.mktoweb.com
 777-mpv-958.mktoweb.com
@@ -28001,6 +28051,7 @@ mktoresp.com
 788-mba-408.mktoweb.com
 788-mme-216.mktoweb.com
 788-tht-014.mktoweb.com
+788-ybf-296.mktoweb.com
 788-ykh-155.mktoweb.com
 788-ysm-155.mktoweb.com
 788-zhf-386.mktoweb.com
@@ -28023,8 +28074,10 @@ mktoresp.com
 790-qfj-925.mktoweb.com
 790-ssb-375.mktoweb.com
 790-sui-670.mktoweb.com
+790-tnv-498.mktoweb.com
 790-unb-126.mktoweb.com
 790-vtz-795.mktoweb.com
+790-vzw-404.mktoweb.com
 790-xcm-909.mktoweb.com
 790-xri-088.mktoweb.com
 790-ybc-281.mktoweb.com
@@ -28035,6 +28088,7 @@ mktoresp.com
 791-csb-778.mktoweb.com
 791-kjc-950.mktoweb.com
 791-nmk-265.mktoweb.com
+791-oos-902.mktoweb.com
 791-qbf-350.mktoweb.com
 791-qhz-865.mktoweb.com
 791-swm-929.mktoweb.com
@@ -28542,6 +28596,7 @@ mktoresp.com
 839-jfw-937.mktoweb.com
 839-mol-552.mktoweb.com
 839-myy-399.mktoweb.com
+839-nmt-769.mktoweb.com
 839-oph-868.mktoweb.com
 839-rkl-484.mktoweb.com
 839-tqm-883.mktoweb.com
@@ -28553,6 +28608,7 @@ mktoresp.com
 840-ala-782.mktoweb.com
 840-dlb-570.mktoweb.com
 840-gry-044.mktoweb.com
+840-idc-786.mktoweb.com
 840-jwb-417.mktoweb.com
 840-oom-866.mktoweb.com
 840-quw-425.mktoweb.com
@@ -28589,6 +28645,7 @@ mktoresp.com
 844-opl-578.mktoweb.com
 844-qpb-480.mktoweb.com
 844-rkg-112.mktoweb.com
+844-szg-611.mktoweb.com
 844-viy-434.mktoweb.com
 844-wqn-016.mktoweb.com
 844-xzm-446.mktoweb.com
@@ -28777,6 +28834,7 @@ mktoresp.com
 864-hrk-836.mktoweb.com
 864-hyh-321.mktoweb.com
 864-ihu-390.mktoweb.com
+864-jzd-757.mktoweb.com
 864-mfq-883.mktoweb.com
 864-qzc-553.mktoweb.com
 864-rrw-364.mktoweb.com
@@ -28832,6 +28890,7 @@ mktoresp.com
 868-upx-087.mktoweb.com
 868-xcn-629.mktoweb.com
 869-ttl-405.mktoweb.com
+869-tzr-487.mktoweb.com
 869-uru-642.mktoweb.com
 869-vfx-656.mktoweb.com
 870-crw-973.mktoweb.com
@@ -28882,6 +28941,7 @@ mktoresp.com
 873-qzt-227.mktoweb.com
 873-rkg-256.mktoweb.com
 873-vpl-948.mktoweb.com
+873-wsu-053.mktoweb.com
 873-yfg-265.mktoweb.com
 874-fgt-761.mktoweb.com
 874-gzs-210.mktoweb.com
@@ -28904,6 +28964,7 @@ mktoresp.com
 875-lnz-804.mktoweb.com
 875-mba-428.mktoweb.com
 875-pki-279.mktoweb.com
+875-xpa-857.mktoweb.com
 876-gcw-609.mktoweb.com
 876-hsv-773.mktoweb.com
 876-kyq-425.mktoweb.com
@@ -28919,6 +28980,7 @@ mktoresp.com
 877-aoz-039.mktoweb.com
 877-lbl-349.mktoweb.com
 877-uyh-191.mktoweb.com
+877-zff-110.mktoweb.com
 878-aou-312.mktoweb.com
 878-ihm-321.mktoweb.com
 878-nmo-449.mktoweb.com
@@ -29161,12 +29223,14 @@ mktoresp.com
 900-szd-631.mktoweb.com
 901-gkp-223.mktoweb.com
 901-kpz-243.mktoweb.com
+901-oad-507.mktoweb.com
 901-omk-461.mktoweb.com
 901-rfn-987.mktoweb.com
 901-ube-883.mktoweb.com
 901-wnz-322.mktoweb.com
 901-xoq-387.mktoweb.com
 901-xww-984.mktoweb.com
+902-eff-722.mktoweb.com
 902-gxq-435.mktoweb.com
 902-mhk-205.mktoweb.com
 902-okx-332.mktoweb.com
@@ -29268,6 +29332,7 @@ mktoresp.com
 912-znr-224.mktoweb.com
 913-dhm-360.mktoweb.com
 913-egk-947.mktoweb.com
+913-kxr-608.mktoweb.com
 913-mll-922.mktoweb.com
 913-mlx-468.mktoweb.com
 913-pcl-940.mktoweb.com
@@ -29305,6 +29370,7 @@ mktoresp.com
 916-plf-481.mktoweb.com
 916-ssu-236.mktoweb.com
 916-tys-552.mktoweb.com
+916-via-475.mktoweb.com
 916-wbs-213.mktoweb.com
 916-zhd-420.mktoweb.com
 917-czo-528.mktoweb.com
@@ -29625,6 +29691,7 @@ mktoresp.com
 949-cxl-304.mktoweb.com
 949-fsw-130.mktoweb.com
 949-ltk-254.mktoweb.com
+949-ltm-567.mktoweb.com
 949-mma-446.mktoweb.com
 949-oir-477.mktoweb.com
 949-rjx-734.mktoweb.com
@@ -29723,6 +29790,7 @@ mktoresp.com
 959-pzj-038.mktoweb.com
 959-rqf-348.mktoweb.com
 959-tqv-890.mktoweb.com
+959-wiq-589.mktoweb.com
 960-bbe-213.mktoweb.com
 960-cdh-700.mktoweb.com
 960-crx-409.mktoweb.com
@@ -29834,6 +29902,7 @@ mktoresp.com
 970-kob-762.mktoweb.com
 970-lvz-035.mktoweb.com
 970-qpi-510.mktoweb.com
+970-rov-284.mktoweb.com
 971-fna-552.mktoweb.com
 971-fuk-607.mktoweb.com
 971-hhn-666.mktoweb.com
@@ -29850,6 +29919,7 @@ mktoresp.com
 972-ipx-903.mktoweb.com
 972-iqj-513.mktoweb.com
 972-ksy-053.mktoweb.com
+972-nll-905.mktoweb.com
 972-oec-621.mktoweb.com
 972-psb-623.mktoweb.com
 972-uph-200.mktoweb.com
@@ -29937,7 +30007,9 @@ mktoresp.com
 981-nuu-259.mktoweb.com
 981-plw-755.mktoweb.com
 981-vfq-847.mktoweb.com
+981-znq-771.mktoweb.com
 982-das-862.mktoweb.com
+982-dat-089.mktoweb.com
 982-don-266.mktoweb.com
 982-fmu-913.mktoweb.com
 982-gnj-769.mktoweb.com
@@ -29962,6 +30034,7 @@ mktoresp.com
 984-hht-672.mktoweb.com
 984-idz-051.mktoweb.com
 984-mqh-261.mktoweb.com
+984-njk-994.mktoweb.com
 984-sdw-397.mktoweb.com
 984-wyl-723.mktoweb.com
 984-xhe-138.mktoweb.com
@@ -29988,6 +30061,7 @@ mktoresp.com
 987-ayj-641.mktoweb.com
 987-cau-613.mktoweb.com
 987-cwz-015.mktoweb.com
+987-dci-453.mktoweb.com
 987-iga-372.mktoweb.com
 987-igt-572.mktoweb.com
 987-iju-057.mktoweb.com
@@ -30723,7 +30797,6 @@ hce.mktoweb.com
 healthforum.mktoweb.com
 heapinc.mktoweb.com
 hecexeced.mktoweb.com
-hellosign.mktoweb.com
 helpshift.mktoweb.com
 henryschein.mktoweb.com
 henryscheinone2.mktoweb.com
@@ -30881,7 +30954,6 @@ lightercapital.mktoweb.com
 lightowerfibertechnologies.mktoweb.com
 lightstep.mktoweb.com
 ligonier.mktoweb.com
-linecorporation.mktoweb.com
 linkageinc.mktoweb.com
 linode2.mktoweb.com
 lionfestival.mktoweb.com
@@ -39048,7 +39120,6 @@ advisera.postaffiliatepro.com
 aejuice.postaffiliatepro.com
 affalife.postaffiliatepro.com
 affiliatehq.postaffiliatepro.com
-affiliateuniverse.postaffiliatepro.com
 affilmax.postaffiliatepro.com
 affilroi.postaffiliatepro.com
 afflight.postaffiliatepro.com
@@ -42403,7 +42474,6 @@ pixel.reddit.com
 events.redditmedia.com
 reddmn.com
 redetuby.com
-ads.rediff.com
 rediffmaul.com
 redioshark.com
 redistats.com
@@ -45756,7 +45826,6 @@ rontar.com
 roomstogobaby.com
 roosterfirework.com
 ww1.rosa-rosa.com
-www.rosa-rosa.com
 rotahotel.com
 roughroll.com
 roundabrown.com
@@ -47184,9 +47253,6 @@ wwww.shareasale.com
 book.sharedaa.com
 books.sharedaa.com
 movies.sharedaa.com
-softwares.sharedaa.com
-ww1.sharedaa.com
-ww3.sharedaa.com
 www.sharedaa.com
 sharedbeast.com
 plus.sharedcount.com
@@ -49154,7 +49220,6 @@ unhooknow.suntrutst.com
 ww25.suntrutst.com
 ww38.suntrutst.com
 www.suntrutst.com
-ww1.sunwayputrahotel.com
 www1.sunwayputrahotel.com
 ads.suomiautomaatti.com
 supedrug.com
@@ -52435,6 +52500,8 @@ westernunipn.com
 westernwallnote.com
 westernwallnotes.com
 old.westseal.com
+ww17.westseal.com
+ww25.westseal.com
 stats.westworldmedia.com
 wetdevils.com
 wetmummys.com
@@ -53360,7 +53427,6 @@ adbehavior.wsa.ximalaya.com
 adse.wsa.ximalaya.com
 xdcs-collector.ximalaya.com
 xmc.ximalaya.com
-adm6.xiti.com
 admprg.xiti.com
 affiliate.xiti.com
 api.xiti.com
@@ -54502,6 +54568,7 @@ ger.adclear.de
 ns1.adclear.de
 track.adclear.de
 weltbild.adclear.de
+ws.adclear.de
 www.adclear.de
 adition.de
 ads.administrator.de
@@ -54988,7 +55055,7 @@ r1zrwuq7ne.s.ad6media.fr
 rgr4ozsp1l.s.ad6media.fr
 rkybxz6g7x.s.ad6media.fr
 admanmedia.fr
-adnext.fr
+cdn.adnext.fr
 atelierdegaia.fr
 oas.benchmark.fr
 data.cofinoga.fr
@@ -55670,8 +55737,6 @@ mail1.artgaleria.info
 mail2.artgaleria.info
 mx.artgaleria.info
 mx1.artgaleria.info
-ww1.artgaleria.info
-ww17.artgaleria.info
 mail.articleabc.info
 www.articleabc.info
 arunachalfront.info
@@ -55706,7 +55771,6 @@ auslandskredit.info
 authgram.info
 authorise.info
 authorne.info
-ww25.autodialer.info
 autopaintrepairs.info
 autorejestratory.info
 av815.info
@@ -56209,11 +56273,7 @@ csplus.info
 cunt.info
 curieux.info
 czmms.info
-mail.daarija.info
-ww16.daarija.info
-ww2.daarija.info
-ww38.daarija.info
-www.daarija.info
+daarija.info
 dadbab.info
 ww1.dailymp3.info
 ww17.dailymp3.info
@@ -56293,10 +56353,12 @@ autodiscover.diarioextra.info
 cpcalendars.diarioextra.info
 cpcontacts.diarioextra.info
 mail.diarioextra.info
+mx1.diarioextra.info
 ww1.diarioextra.info
 ww17.diarioextra.info
 ww25.diarioextra.info
 ww38.diarioextra.info
+www.diarioextra.info
 www.dicoba.info
 didigames.info
 dienten.info
@@ -56800,6 +56862,7 @@ ww11.hackgames.info
 ww12.hackgames.info
 ww16.hackgames.info
 ww17.hackgames.info
+ww25.hackgames.info
 ww38.hackgames.info
 ww4.hackgames.info
 ww7.hackgames.info
@@ -57372,12 +57435,10 @@ www.mystighty.info
 myta.info
 mytours.info
 ww16.mzplus.info
-www.mzplus.info
 naasongss.info
 nabimuhammad.info
 nadie007.info
 nagamochi.info
-ww2.najnovije-vijesti.info
 ww25.najnovije-vijesti.info
 ww38.najnovije-vijesti.info
 www.najnovije-vijesti.info
@@ -57927,11 +57988,8 @@ www.renktir.info
 resorthotels.info
 restplatz.info
 retete-culinare.info
-mta-sts.retrieverbreeding.info
 ww1.retrieverbreeding.info
 ww17.retrieverbreeding.info
-ww25.retrieverbreeding.info
-ww38.retrieverbreeding.info
 www.retrieverbreeding.info
 ww1.reunionideas.info
 ww16.reunionideas.info
@@ -58471,7 +58529,6 @@ themediafire.info
 cpcalendars.themediatrend.info
 mail.themediatrend.info
 webdisk.themediatrend.info
-ww1.themediatrend.info
 ww17.themediatrend.info
 ww25.themediatrend.info
 ww38.themediatrend.info
@@ -58953,6 +59010,10 @@ www.vitaminsforhairlosso.info
 www.vlade.info
 vlagaxxxi.info
 vsesdam.info
+ww1.vu7ag.info
+ww17.vu7ag.info
+ww25.vu7ag.info
+ww38.vu7ag.info
 wadainews.info
 waldgeist.info
 waldmuehle.info
@@ -105172,6 +105233,7 @@ geoebra.org
 geolsoc.org
 georgiamethadone.org
 georgiasouthern.org
+gerthshop.org
 gescom.org
 getrockmusic.org
 ghange.org
@@ -105532,6 +105594,7 @@ lmba.org
 lndproxy.org
 logview.org
 londonmint.org
+mx.loop-us.org
 ww17.loop-us.org
 lophisc.org
 louisianaschools.org
@@ -105741,12 +105804,9 @@ newhamwelfaretrust.org
 authsmtp.newtorr.org
 comune.newtorr.org
 content.newtorr.org
-dsylomh.newtorr.org
 firefox.newtorr.org
 gateway.newtorr.org
 imap1.newtorr.org
-kaz.newtorr.org
-m.newtorr.org
 mail.newtorr.org
 mail1.newtorr.org
 mail2.newtorr.org
@@ -105763,24 +105823,16 @@ ns2.newtorr.org
 pop.newtorr.org
 post.newtorr.org
 postmaster.newtorr.org
-relay.newtorr.org
 relay1.newtorr.org
 secure.newtorr.org
 smtps.newtorr.org
-vxryqsk.newtorr.org
 w.newtorr.org
-ww.newtorr.org
 ww1.newtorr.org
-ww11.newtorr.org
-ww2.newtorr.org
-ww25.newtorr.org
 ww38.newtorr.org
 ww43.newtorr.org
-www.newtorr.org
 www1.newtorr.org
 www2.newtorr.org
 wwww.newtorr.org
-xbt.newtorr.org
 ngfcu.org
 niagaracountyfcu.org
 niceic.org
@@ -106364,26 +106416,7 @@ sainikschool.org
 saleforce.org
 sandt.org
 sarasquest.org
-com.savanefm.org
-comune.savanefm.org
-direct.savanefm.org
-ipe.savanefm.org
 mail.savanefm.org
-mail11.savanefm.org
-mail12.savanefm.org
-mailer.savanefm.org
-mailhost.savanefm.org
-mailin.savanefm.org
-ms1.savanefm.org
-mx.savanefm.org
-post.savanefm.org
-relay.savanefm.org
-relay1.savanefm.org
-seed.savanefm.org
-smtp01.savanefm.org
-tw.savanefm.org
-ww1.savanefm.org
-ww11.savanefm.org
 ww17.savanefm.org
 ww38.savanefm.org
 www.savanefm.org
@@ -107070,7 +107103,6 @@ sskmnews.pro
 trredir.pro
 webmine.pro
 withdromnit.pro
-www.zypanafo.pro
 ads.shasha.ps
 ads1.mediacapital.pt
 adimgs.sapo.pt
@@ -107436,7 +107468,6 @@ widget.citygate.se
 stat.cliche.se
 analytics.codigo.se
 alkemi.com.se
-asicsverige.com.se
 barbours.com.se
 campersverige.com.se
 chaco.com.se
@@ -111121,7 +111152,6 @@ www.adjust.world
 spacex.world
 thebugs.ws
 adcolony.xyz
-adserver5b.xyz
 www.adsservingtwig.xyz
 check.ampliacion.xyz
 stats.ampliacion.xyz
