@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 344373
+# Ignored duplicates: 344383
 
 chameleon.ad
 pixel.ad
@@ -2628,7 +2628,6 @@ api-18-236-164-61.aamapi.com
 api-18-236-185-63.aamapi.com
 api-18-236-252-250.aamapi.com
 api-18-236-253-228.aamapi.com
-api-18-237-78-62.aamapi.com
 api-34-209-116-167.aamapi.com
 api-34-210-4-63.aamapi.com
 api-34-211-124-118.aamapi.com
@@ -2657,7 +2656,6 @@ api-34-217-52-179.aamapi.com
 api-34-217-72-137.aamapi.com
 api-34-218-222-198.aamapi.com
 api-34-218-47-13.aamapi.com
-api-34-218-77-61.aamapi.com
 api-34-218-80-245.aamapi.com
 api-34-219-110-164.aamapi.com
 api-34-219-116-111.aamapi.com
@@ -2719,7 +2717,6 @@ api-52-25-202-107.aamapi.com
 api-52-25-31-31.aamapi.com
 api-52-27-160-251.aamapi.com
 api-52-32-134-136.aamapi.com
-api-52-32-197-44.aamapi.com
 api-52-35-152-84.aamapi.com
 api-52-35-91-74.aamapi.com
 api-52-37-116-44.aamapi.com
@@ -2736,7 +2733,6 @@ api-52-43-50-119.aamapi.com
 api-54-148-225-37.aamapi.com
 api-54-149-245-249.aamapi.com
 api-54-149-60-189.aamapi.com
-api-54-184-3-41.aamapi.com
 api-54-184-6-73.aamapi.com
 api-54-186-33-19.aamapi.com
 api-54-187-56-191.aamapi.com
@@ -2744,7 +2740,6 @@ api-54-188-144-125.aamapi.com
 api-54-188-199-240.aamapi.com
 api-54-188-216-117.aamapi.com
 api-54-202-168-92.aamapi.com
-api-54-202-180-130.aamapi.com
 api-54-202-21-39.aamapi.com
 api-54-202-215-27.aamapi.com
 api-54-202-221-245.aamapi.com
@@ -2752,7 +2747,6 @@ api-54-202-244-37.aamapi.com
 api-54-202-245-193.aamapi.com
 api-54-202-35-121.aamapi.com
 api-54-203-14-235.aamapi.com
-api-54-203-17-131.aamapi.com
 api-54-212-21-206.aamapi.com
 api-54-212-215-230.aamapi.com
 api-54-212-247-69.aamapi.com
@@ -4506,7 +4500,6 @@ accorhotels-mid-prod5-cus.campaign.adobe.com
 accorhotels-rt-prod8.campaign.adobe.com
 acsorg-mkt-prod1-t.campaign.adobe.com
 activisionblizzardin.campaign.adobe.com
-activisionblizzardin-mkt-prod1.campaign.adobe.com
 activisionblizzardin-mkt-prod1-1.campaign.adobe.com
 acwppat001-mkt-prod2.campaign.adobe.com
 adityabirla-mkt-prod1-1.campaign.adobe.com
@@ -5575,7 +5568,6 @@ blogtalkradio.adswizz.com
 boomerradio.adswizz.com
 cdn.adswizz.com
 cdn1-creatives.adswizz.com
-cdn1-metatas1.adswizz.com
 clearchannel.adswizz.com
 config.adswizz.com
 cox.adswizz.com
@@ -11214,7 +11206,8 @@ deutschecd.com
 deutztractor.com
 dev-nano.com
 developerapple.com
-developerchrome.com
+ns1.developerchrome.com
+ns2.developerchrome.com
 block-test.developerdan.com
 block-test-ads-tracking.developerdan.com
 otto-images.developershed.com
@@ -11712,7 +11705,12 @@ dtprofit.com
 dtsince.com
 dtw-zelte.com
 dtxngr.com
-dtzads.com
+cdn.dtzads.com
+crm.dtzads.com
+dev.dtzads.com
+stage.dtzads.com
+web.dtzads.com
+www.dtzads.com
 common.duapps.com
 da.duapps.com
 dc.duapps.com
@@ -12503,6 +12501,7 @@ tags.extole.com
 talbots.extole.com
 extractsight.com
 extraexpansemoney.com
+extreemprivate.com
 extreme-dm.com
 extremereach.com
 extremetracking.com
@@ -17482,6 +17481,7 @@ agora.logrocket.com
 api.logrocket.com
 app.logrocket.com
 assets.logrocket.com
+blog-staging.logrocket.com
 embed.blog.logrocket.com
 brief.logrocket.com
 capitalonesoftware.logrocket.com
@@ -18299,7 +18299,6 @@ engage.marketo.com
 engage-ab.marketo.com
 engage-ab-a.marketo.com
 engage-ab-b.marketo.com
-engage-dev.marketo.com
 engage-int.marketo.com
 engage-int-a.marketo.com
 engage-int-b.marketo.com
@@ -18315,7 +18314,6 @@ engage-qe-b.marketo.com
 engage-server-ab.marketo.com
 engage-server-ab-a.marketo.com
 engage-server-ab-b.marketo.com
-engage-server-dev.marketo.com
 engage-server-int.marketo.com
 engage-server-int-a.marketo.com
 engage-server-int-b.marketo.com
@@ -38218,6 +38216,7 @@ analytics-sdk.sites.otherlevels.com
 static-sites.otherlevels.com
 ws.otherlevels.com
 otisrael.com
+otrbs.com
 data.ouigo.com
 oukley.com
 ourinfohub.com
@@ -39253,12 +39252,10 @@ curallux.postaffiliatepro.com
 curiosando.postaffiliatepro.com
 cvsquad.postaffiliatepro.com
 cws.postaffiliatepro.com
-d-dub.postaffiliatepro.com
 dadanza.postaffiliatepro.com
 danamedic.postaffiliatepro.com
 davidkovokoreni2021.postaffiliatepro.com
 davines.postaffiliatepro.com
-deals.postaffiliatepro.com
 dev.postaffiliatepro.com
 dgs.postaffiliatepro.com
 digitalspectrumltd.postaffiliatepro.com
@@ -39290,7 +39287,6 @@ enticeme.postaffiliatepro.com
 entireweb.postaffiliatepro.com
 ereflect.postaffiliatepro.com
 erodate.postaffiliatepro.com
-eshopbrands.postaffiliatepro.com
 essentialoilwizardry.postaffiliatepro.com
 evike.postaffiliatepro.com
 exponencialconcursos.postaffiliatepro.com
@@ -47250,10 +47246,7 @@ ww.shareasale.com
 www.shareasale.com
 www-demo.shareasale.com
 wwww.shareasale.com
-book.sharedaa.com
 books.sharedaa.com
-movies.sharedaa.com
-www.sharedaa.com
 sharedbeast.com
 plus.sharedcount.com
 shareminder.com
@@ -52502,6 +52495,7 @@ westernwallnotes.com
 old.westseal.com
 ww17.westseal.com
 ww25.westseal.com
+www.westseal.com
 stats.westworldmedia.com
 wetdevils.com
 wetmummys.com
@@ -52784,7 +52778,6 @@ wwwsavevid.com
 wwwschlage.com
 wwwschooltimegames.com
 wwwsouthernliving.com
-wwwstevenstransport.com
 wwwstoresupply.com
 wwwsurveywalmart.com
 wwwtexasonline.com
@@ -55591,6 +55584,9 @@ a3esseker.info
 aaaaaz.info
 mail.abbottandcostello.info
 mvideo.abbottandcostello.info
+ww1.abbottandcostello.info
+ww12.abbottandcostello.info
+ww7.abbottandcostello.info
 www.abbottandcostello.info
 abc1234.info
 abono.info
@@ -55641,6 +55637,7 @@ www.adatmentes.info
 www.adblog.info
 adessonews.info
 adidasi-nike.info
+4jslg.adidasspringblade2.info
 mvideo.adidasspringblade2.info
 ww1.adidasspringblade2.info
 ww11.adidasspringblade2.info
@@ -55951,6 +55948,7 @@ bitcoincompass.info
 analytics.bitrix.info
 bizbuildermastery.info
 bled.info
+blindtech-list.info
 blockchani.info
 4jslg.blogtippek.info
 acroaesthesia.blogtippek.info
@@ -56963,6 +56961,7 @@ imagenesbonitas.info
 imagesexplore.info
 imai.info
 ww1.imigliori.info
+ww12.imigliori.info
 ww17.imigliori.info
 ww38.imigliori.info
 www.imigliori.info
@@ -57146,7 +57145,6 @@ linksrush.info
 linuxscada.info
 lisandru.info
 listbuilderads.info
-litchfield.info
 livedooor.info
 livepage.info
 liveryfinder.info
@@ -57286,6 +57284,7 @@ ww16.mobilesales.info
 ww25.mobilesales.info
 ww38.mobilesales.info
 www.mobilesales.info
+modelismo-naval.info
 www.modernart.info
 moerbisch.info
 molnii.info
@@ -57989,7 +57988,6 @@ resorthotels.info
 restplatz.info
 retete-culinare.info
 ww1.retrieverbreeding.info
-ww17.retrieverbreeding.info
 www.retrieverbreeding.info
 ww1.reunionideas.info
 ww16.reunionideas.info
@@ -58002,8 +58000,7 @@ rewctr.info
 rewy.info
 rexhado.info
 ricojeu.info
-ww1.ritual-service.info
-ww17.ritual-service.info
+ritual-service.info
 riuu.info
 rksi.info
 334www.rockontrains.info
@@ -58529,9 +58526,6 @@ themediafire.info
 cpcalendars.themediatrend.info
 mail.themediatrend.info
 webdisk.themediatrend.info
-ww17.themediatrend.info
-ww25.themediatrend.info
-ww38.themediatrend.info
 www.themediatrend.info
 m.thesensei.info
 mail.thesensei.info
@@ -59014,6 +59008,7 @@ ww1.vu7ag.info
 ww17.vu7ag.info
 ww25.vu7ag.info
 ww38.vu7ag.info
+www.vu7ag.info
 wadainews.info
 waldgeist.info
 waldmuehle.info
@@ -59216,6 +59211,7 @@ zcfb.yapage.info
 zrwb.yapage.info
 yasuka.info
 ww17.yiwo.info
+ww62.yiwo.info
 ylg2.info
 yomovies.info
 youhookup.info
@@ -101898,6 +101894,7 @@ holocron-api.general-prod-a.us-east-1.aws.k8s.sendgrid.net
 sq.mp.general-prod-a.us-east-1.aws.k8s.sendgrid.net
 prometheus.general-prod-a.us-east-1.aws.k8s.sendgrid.net
 alertmanager.general-stage-a.us-east-1.aws.k8s.sendgrid.net
+blackbox.general-stage-a.us-east-1.aws.k8s.sendgrid.net
 blackbox-exporter.general-stage-a.us-east-1.aws.k8s.sendgrid.net
 holocron-api.general-stage-a.us-east-1.aws.k8s.sendgrid.net
 sq.mp.general-stage-a.us-east-1.aws.k8s.sendgrid.net
@@ -101931,6 +101928,7 @@ prometheus.aai-prod-a.us-east-2.aws.k8s.sendgrid.net
 ace-uvs-api.ace.aai-stage-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.aai-stage-a.us-east-2.aws.k8s.sendgrid.net
 nsqadmin.antiabuse.aai-stage-a.us-east-2.aws.k8s.sendgrid.net
+blackbox.aai-stage-a.us-east-2.aws.k8s.sendgrid.net
 blackbox-exporter.aai-stage-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.aai-stage-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.autobots-prod-a.us-east-2.aws.k8s.sendgrid.net
@@ -101938,6 +101936,7 @@ blackbox.autobots-prod-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.autobots-prod-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.autobots-stage-a.us-east-2.aws.k8s.sendgrid.net
 backstage.autobots-stage-a.us-east-2.aws.k8s.sendgrid.net
+blackbox.autobots-stage-a.us-east-2.aws.k8s.sendgrid.net
 core.harbor-a.autobots-stage-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.autobots-stage-a.us-east-2.aws.k8s.sendgrid.net
 registry-report.autobots-stage-a.us-east-2.aws.k8s.sendgrid.net
@@ -101955,6 +101954,7 @@ cortex.general-prod-a.us-east-2.aws.k8s.sendgrid.net
 sq.mp.general-prod-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.general-prod-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.general-stage-a.us-east-2.aws.k8s.sendgrid.net
+blackbox.general-stage-a.us-east-2.aws.k8s.sendgrid.net
 blackbox-exporter.general-stage-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.general-stage-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.mgmt-stage-b.us-east-2.aws.k8s.sendgrid.net
@@ -101972,6 +101972,7 @@ blackbox.aai-prod-a.us-west-2.aws.k8s.sendgrid.net
 prometheus.aai-prod-a.us-west-2.aws.k8s.sendgrid.net
 ace-uvs-api.ace.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
 alertmanager.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
+blackbox.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
 blackbox-exporter.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
 prometheus.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
 alertmanager.autobots-prod-a.us-west-2.aws.k8s.sendgrid.net
@@ -101982,6 +101983,7 @@ blackbox.general-prod-a.us-west-2.aws.k8s.sendgrid.net
 sq.mp.general-prod-a.us-west-2.aws.k8s.sendgrid.net
 prometheus.general-prod-a.us-west-2.aws.k8s.sendgrid.net
 alertmanager.general-stage-a.us-west-2.aws.k8s.sendgrid.net
+blackbox.general-stage-a.us-west-2.aws.k8s.sendgrid.net
 blackbox-exporter.general-stage-a.us-west-2.aws.k8s.sendgrid.net
 sq.mp.general-stage-a.us-west-2.aws.k8s.sendgrid.net
 prometheus.general-stage-a.us-west-2.aws.k8s.sendgrid.net
@@ -102014,12 +102016,16 @@ rgw.rook-ceph.asgard-prod-a.fra1.k8s.sendgrid.net
 alertmanager.asgard-prod-b.fra1.k8s.sendgrid.net
 atc-web.asgard-prod-b.fra1.k8s.sendgrid.net
 blackbox.asgard-prod-b.fra1.k8s.sendgrid.net
+deliverability-settings.asgard-prod-b.fra1.k8s.sendgrid.net
+ips.asgard-prod-b.fra1.k8s.sendgrid.net
 prometheus.asgard-prod-b.fra1.k8s.sendgrid.net
 dash.rook-ceph.asgard-prod-b.fra1.k8s.sendgrid.net
 rgw.rook-ceph.asgard-prod-b.fra1.k8s.sendgrid.net
 alertmanager.asgard-prod-c.fra1.k8s.sendgrid.net
 atc-web.asgard-prod-c.fra1.k8s.sendgrid.net
 blackbox.asgard-prod-c.fra1.k8s.sendgrid.net
+deliverability-settings.asgard-prod-c.fra1.k8s.sendgrid.net
+ips.asgard-prod-c.fra1.k8s.sendgrid.net
 prometheus.asgard-prod-c.fra1.k8s.sendgrid.net
 dash.rook-ceph.asgard-prod-c.fra1.k8s.sendgrid.net
 rgw.rook-ceph.asgard-prod-c.fra1.k8s.sendgrid.net
@@ -102033,6 +102039,7 @@ mailsettings-p1fra1-ing.general-prod-a.fra1.k8s.sendgrid.net
 metaldata.general-prod-a.fra1.k8s.sendgrid.net
 prometheus.general-prod-a.fra1.k8s.sendgrid.net
 servernameapi.general-prod-a.fra1.k8s.sendgrid.net
+statsapi-ing.general-prod-a.fra1.k8s.sendgrid.net
 statsapi-p1fra1.general-prod-a.fra1.k8s.sendgrid.net
 statsapi-p1fra1-ing.general-prod-a.fra1.k8s.sendgrid.net
 alertmanager.mgmt-prod-a.fra1.k8s.sendgrid.net
@@ -102259,6 +102266,7 @@ extractor.general-prod-a.iad2.k8s.sendgrid.net
 extractor-integration.general-prod-a.iad2.k8s.sendgrid.net
 federation.general-prod-a.iad2.k8s.sendgrid.net
 grafana.general-prod-a.iad2.k8s.sendgrid.net
+shim.iam.general-prod-a.iad2.k8s.sendgrid.net
 imp.general-prod-a.iad2.k8s.sendgrid.net
 ips.general-prod-a.iad2.k8s.sendgrid.net
 alertmanager.mail-pipeline.general-prod-a.iad2.k8s.sendgrid.net
@@ -102484,6 +102492,7 @@ email-insights.general-prod-a.las1.k8s.sendgrid.net
 extractor.general-prod-a.las1.k8s.sendgrid.net
 federation.general-prod-a.las1.k8s.sendgrid.net
 grafana.general-prod-a.las1.k8s.sendgrid.net
+shim.iam.general-prod-a.las1.k8s.sendgrid.net
 imp.general-prod-a.las1.k8s.sendgrid.net
 ips.general-prod-a.las1.k8s.sendgrid.net
 alertmanager.mail-pipeline.general-prod-a.las1.k8s.sendgrid.net
@@ -102757,6 +102766,7 @@ email-insights.general-prod-a.mdw1.k8s.sendgrid.net
 extractor.general-prod-a.mdw1.k8s.sendgrid.net
 federation.general-prod-a.mdw1.k8s.sendgrid.net
 grafana.general-prod-a.mdw1.k8s.sendgrid.net
+shim.iam.general-prod-a.mdw1.k8s.sendgrid.net
 imp.general-prod-a.mdw1.k8s.sendgrid.net
 ippoolutil.general-prod-a.mdw1.k8s.sendgrid.net
 ips.general-prod-a.mdw1.k8s.sendgrid.net
@@ -104473,6 +104483,7 @@ alloffmp3.org
 allpawsrescue.org
 allseasonstravel.org
 lpweb.altervista.org
+alumniaid.org
 alzwalk.org
 amcaotc.org
 americancruises.org
@@ -104588,7 +104599,6 @@ umrohgarut.belajaronline.org
 undanganonline.belajaronline.org
 backup.bensonfire.org
 ww1.bensonfire.org
-ww25.bensonfire.org
 ww38.bensonfire.org
 beretta-e.org
 bestfreinds.org
@@ -105399,7 +105409,6 @@ hiringourheros.org
 hittai.org
 hkhanacademy.org
 hlcomission.org
-hngu.org
 holyebooks.org
 holyspirithemet.org
 homescapes.org
@@ -105445,7 +105454,6 @@ internetlawlac.org
 interventionscentral.org
 inwebwetrust.org
 iowacourtonline.org
-ip-logger.org
 ip-traker.org
 ipadresslocation.org
 iphoneguy.org
@@ -105675,6 +105683,7 @@ mobiloil.org
 moblism.org
 mochilero.org
 ww1.moconnections.org
+ww17.moconnections.org
 ww38.moconnections.org
 www.moconnections.org
 modestneed.org
@@ -106396,6 +106405,7 @@ rkmtbs.org
 metrics.robinhood.org
 rocat.org
 rocketai.org
+roulemafrite.org
 royalarmouriesshop.org
 run3.org
 rutcracker.org
@@ -106416,8 +106426,6 @@ sainikschool.org
 saleforce.org
 sandt.org
 sarasquest.org
-mail.savanefm.org
-ww17.savanefm.org
 ww38.savanefm.org
 www.savanefm.org
 savasoyunlari.org
@@ -106891,6 +106899,7 @@ voltairnet.org
 ww1.volunteercentre.org
 ww12.volunteercentre.org
 ww17.volunteercentre.org
+ww2.volunteercentre.org
 ww38.volunteercentre.org
 www.volunteercentre.org
 volunteerteachers.org
