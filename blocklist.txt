@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 348294
+# Ignored duplicates: 348215
 
 chameleon.ad
 pixel.ad
@@ -7365,6 +7365,7 @@ cdn.apvdr.com
 cdn2.apvdr.com
 apxlv.com
 aqpogwawr.com
+servedby.aqua-adserver.com
 aquaplatform.com
 aquaticanswer.com
 aquaticowl.com
@@ -12046,8 +12047,6 @@ cdn.energeticvalues.com
 mx20.energeticvalues.com
 sq.energeticvalues.com
 ww1.energeticvalues.com
-ww38.energeticvalues.com
-www.energeticvalues.com
 energybrokerconsultants.com
 engagebdr.com
 engageclick.com
@@ -13983,6 +13982,12 @@ revtech.glulive.com
 glupen.studio.glulive.com
 gm-advertising.com
 gmail-signup.com
+m.admin.gmailaa.com
+new.admin.gmailaa.com
+old.admin.gmailaa.com
+shop.admin.gmailaa.com
+www2.admin.gmailaa.com
+ww1.gmailaa.com
 gmailf.com
 gmaille.com
 gmailmaps.com
@@ -15924,7 +15929,6 @@ rtb-al-eu.jampp.com
 rtb-aod.jampp.com
 rtb-lb-us2.jampp.com
 static.jampp.com
-www.janeiredele.com
 adserver.janes.com
 janetscafealpine.com
 jangoradio.com
@@ -15933,7 +15937,6 @@ japansexfree.com
 japantradeview.com
 jar4u.com
 jasperlabs.com
-joreb.jastats.com
 jasuq.com
 javafull.com
 javpron.com
@@ -38009,7 +38012,6 @@ url8880.optimizely.com
 inte.usermgmt-api.optimizely.com
 prep.usermgmt-api.optimizely.com
 vis.optimizely.com
-vis-odds.optimizely.com
 webhelp.optimizely.com
 world.optimizely.com
 www.optimizely.com
@@ -39505,7 +39507,6 @@ unisender.postaffiliatepro.com
 unsold.postaffiliatepro.com
 uprofittrader.postaffiliatepro.com
 uswin.postaffiliatepro.com
-vaporfiuk.postaffiliatepro.com
 vdmarketing.postaffiliatepro.com
 vegazcasino.postaffiliatepro.com
 velocitymicro.postaffiliatepro.com
@@ -39609,7 +39610,6 @@ track1.pricespider.com
 track2.pricespider.com
 track3.pricespider.com
 track4.pricespider.com
-track5.pricespider.com
 wtbevents.pricespider.com
 priceypies.com
 priefy.com
@@ -51291,7 +51291,24 @@ vcommission.com
 vcrictime.com
 vcyud.com
 veeplay.com
-veeseo.com
+pa.advertising.veeseo.com
+content.rce.veeseo.com
+handelsblatt.rce.veeseo.com
+menshealth.rce.veeseo.com
+msn.rce.veeseo.com
+nw-news.rce.veeseo.com
+push.rce.veeseo.com
+spiegel.rce.veeseo.com
+origin.spoods.rce.veeseo.com
+tracking2.rce.veeseo.com
+tracking3.rce.veeseo.com
+wiwo.rce.veeseo.com
+us.veeseo.com
+utterson.veeseo.com
+vseocore.veeseo.com
+weltderwunder-videokatalog.veeseo.com
+www.veeseo.com
+wwww.veeseo.com
 vehicle-data.com
 veille-referencement.com
 veinteractive.com
@@ -54058,7 +54075,6 @@ nqs-nl-c5.youboranqs01.com
 nqs-nl-c5-c2.youboranqs01.com
 nqs-nl-c6.youboranqs01.com
 nqs-nl-c6-c2.youboranqs01.com
-nqs-nl-c7.youboranqs01.com
 nqs-nl-c7-c2.youboranqs01.com
 nqs-nl1.youboranqs01.com
 nqs-nl1-c10.youboranqs01.com
@@ -55362,7 +55378,6 @@ www.4downfiles1.info
 7hari.info
 game.8591.info
 ww12.8591.info
-ww17.8591.info
 ww25.8591.info
 ww3.8591.info
 ww38.8591.info
@@ -55561,10 +55576,8 @@ aroundthe-world.info
 artecrochet.info
 arterienverkalkung.info
 email.artgaleria.info
-mail1.artgaleria.info
 mail2.artgaleria.info
 mx.artgaleria.info
-mx1.artgaleria.info
 mail.articleabc.info
 www.articleabc.info
 arunachalfront.info
@@ -55891,7 +55904,6 @@ ww1.forum.buonchuyen.info
 ww17.forum.buonchuyen.info
 ww38.forum.buonchuyen.info
 img.buonchuyen.info
-mvideo.buonchuyen.info
 securemail.buonchuyen.info
 ww1.buonchuyen.info
 ww17.buonchuyen.info
@@ -56357,7 +56369,6 @@ examroom.info
 2004.eyep.info
 commitment.eyep.info
 ol.eyep.info
-ww1.eyep.info
 ww11.eyep.info
 ww16.eyep.info
 ww17.eyep.info
@@ -56417,7 +56428,6 @@ fkwv.info
 flex-tech.info
 ww1.static.flirtandmeeting.info
 ww11.static.flirtandmeeting.info
-ww3.flirtandmeeting.info
 flirtaumilf.info
 flixzone.info
 footballstreamings.info
@@ -56456,9 +56466,7 @@ ww11.freeadultchatroom.info
 www.freeadultchatroom.info
 freecamwhore.info
 freegood.info
-cpcontacts.freeimagehosting.info
 mail.freeimagehosting.info
-ww1.freeimagehosting.info
 ww17.freeimagehosting.info
 ww25.freeimagehosting.info
 www.freeimagehosting.info
@@ -56861,7 +56869,8 @@ kitzsteinhorn.info
 kleinanzeigen.info
 kleio.info
 klussenbedrijven.info
-knigibest.info
+mail.knigibest.info
+ru.knigibest.info
 knochenmark.info
 komaneko.info
 www.konp.info
@@ -57241,7 +57250,6 @@ cpcalendars.natnews.info
 cpcontacts.natnews.info
 mail.natnews.info
 test.natnews.info
-ww1.natnews.info
 ww11.natnews.info
 ww17.natnews.info
 ww25.natnews.info
@@ -57709,7 +57717,6 @@ pusat-bahasa.info
 www.putana.info
 pword.info
 python-os.info
-ww1.qmzhijia2019.info
 www.qmzhijia2019.info
 que-significa-mi-nombre.info
 quepaso.info
@@ -57721,6 +57728,7 @@ radiobg.info
 radiomotofm.info
 radioshqip.info
 radpak.info
+mail.rafanomejodas.info
 ww1.rafanomejodas.info
 ww16.rafanomejodas.info
 ww17.rafanomejodas.info
@@ -57908,7 +57916,6 @@ ww2.seodesk.info
 ww25.seodesk.info
 ww3.seodesk.info
 ww38.seodesk.info
-www.seodesk.info
 ww1.zdrave.seodesk.info
 ww16.zdrave.seodesk.info
 ww25.zdrave.seodesk.info
@@ -58999,6 +59006,8 @@ zcfb.yapage.info
 zrwb.yapage.info
 yasuka.info
 ww11.tms.yiwo.info
+ww1.yiwo.info
+ww11.yiwo.info
 ww17.yiwo.info
 ww25.yiwo.info
 ww62.yiwo.info
@@ -59855,7 +59864,6 @@ vulcan3.branch.io
 vulcan4.branch.io
 vulcan5.branch.io
 web-sdk.branch.io
-worgen.branch.io
 www.branch.io
 www2.branch.io
 browsee.io
@@ -92955,7 +92963,6 @@ esm1.net
 www.espaebook.net
 mx4.espeedteste.net
 www.espeedteste.net
-ww11.esteroidesanabolicos.net
 ww41.esteroidesanabolicos.net
 estrenodorama.net
 estudiaenlinea.net
@@ -100328,6 +100335,7 @@ somniture.stuff.co.nz
 webads.co.nz
 ads.xtra.co.nz
 kingfish.fishing.net.nz
+static.ws.apsis.one
 webstats.one
 aj1070.online
 besocial.online
@@ -101812,39 +101820,15 @@ www.neosante.org
 netce.org
 newarkpreschool.org
 newhamwelfaretrust.org
-7xbt.newtorr.org
-authsmtp.newtorr.org
 comune.newtorr.org
-content.newtorr.org
-firefox.newtorr.org
+ww11.forum.content.newtorr.org
 gateway.newtorr.org
-imap1.newtorr.org
-mail.newtorr.org
-mail1.newtorr.org
-mail2.newtorr.org
-mail5.newtorr.org
-mailer.newtorr.org
-mailgw.newtorr.org
-mailout.newtorr.org
-mailserver.newtorr.org
-mailx.newtorr.org
-mx.newtorr.org
-mx1.newtorr.org
-ns.newtorr.org
-ns2.newtorr.org
-pop.newtorr.org
-post.newtorr.org
-postmaster.newtorr.org
-relay1.newtorr.org
 secure.newtorr.org
 smtps.newtorr.org
-w.newtorr.org
 ww1.newtorr.org
 ww38.newtorr.org
 ww43.newtorr.org
 www1.newtorr.org
-www2.newtorr.org
-wwww.newtorr.org
 ngfcu.org
 niagaracountyfcu.org
 niceic.org
@@ -102345,8 +102329,6 @@ ww1.radyotiyatrosu.org
 ww11.radyotiyatrosu.org
 ww17.radyotiyatrosu.org
 www.radyotiyatrosu.org
-ns1.raftmaster.org
-ns2.raftmaster.org
 ww1.raftmaster.org
 ww17.raftmaster.org
 ww25.raftmaster.org
