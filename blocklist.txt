@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343311
+# Ignored duplicates: 343210
 
 chameleon.ad
 pixel.ad
@@ -75,7 +75,6 @@ powerad.ai
 akamai5.rebel.ai
 cdn.rebel.ai
 cookie.rebel.ai
-demandlocal.rebel.ai
 aksite1.dev.rebel.ai
 cdn.dev.rebel.ai
 dash.dev.rebel.ai
@@ -86,7 +85,6 @@ edge-secure-global.rebel.ai
 engagement.rebel.ai
 engagement-integration-2.rebel.ai
 event.rebel.ai
-gloodemo.rebel.ai
 path.rebel.ai
 rokform.rebel.ai
 secure.rebel.ai
@@ -2341,6 +2339,7 @@ breakthrough.6sense.com
 certified.6sense.com
 content.6sense.com
 app.conversations.6sense.com
+engage.prod.conversations.6sense.com
 discover.6sense.com
 email.6sense.com
 empowered.6sense.com
@@ -7002,6 +7001,8 @@ ww1.amiibox.com
 ww38.amiibox.com
 www.amiibox.com
 amillionads.com
+mail.amirpirani.com
+www.amirpirani.com
 amishfurnaces.com
 amoad.com
 amobee.com
@@ -8844,6 +8845,7 @@ callrail.com
 calmcactus.com
 calypsocapsule.com
 calypsosettlement.com
+www.cameronoutdoors.com
 campaign-archive.com
 beacon.campaigndeputy.com
 camperm.com
@@ -10921,7 +10923,6 @@ defenderappmobile.com
 deflorazione.com
 deflortaion.com
 ww17.dehlimetrorail.com
-www.dehlimetrorail.com
 web2.deja.com
 gp.dejanews.com
 delandeau.com
@@ -18312,8 +18313,6 @@ zw.googletagmanager.com
 googletagservice.com
 www.googletagservices.com
 googletrad.com
-ww25.googlevedio.com
-ww6.googlevedio.com
 googlrearth.com
 googlyoutube.com
 googm.com
@@ -19508,7 +19507,11 @@ banner.inyourpocket.com
 b.iogous.com
 dr.iogous.com
 e.iogous.com
+hd.iogous.com
 t.iogous.com
+tk.iogous.com
+web.iogous.com
+www.iogous.com
 ios-protection.com
 b.ip-api.com
 cache.ip-api.com
@@ -58008,7 +58011,6 @@ nqs-nl1-c2.youboranqs01.com
 nqs-nl12-c2.youboranqs01.com
 nqs-nl12-c3.youboranqs01.com
 nqs-nl2.youboranqs01.com
-nqs-nl2-c12.youboranqs01.com
 nqs-nl5-c14.youboranqs01.com
 nqs-nl5-c15.youboranqs01.com
 nqs-nl8-c15.youboranqs01.com
@@ -59313,11 +59315,9 @@ www.4downfiles1.info
 7494568.info
 7hari.info
 game.8591.info
-ww3.8591.info
 ww38.8591.info
 www.8591.info
 z1004.8591.info
-z1006.8591.info
 z1007.8591.info
 z1008.8591.info
 z1012.8591.info
@@ -59356,7 +59356,6 @@ ww25.91gxfl.info
 www.91gxfl.info
 98hy.info
 99hy.info
-ww1.99zzyzx.info
 www.99zzyzx.info
 9xtunes.info
 cpcalendars.a-game-of-thrones.info
@@ -59490,10 +59489,8 @@ server.ainu.info
 smtpauth.ainu.info
 smtps.ainu.info
 ww1.ainu.info
-ww11.ainu.info
 ww16.ainu.info
 ww25.ainu.info
-ww38.ainu.info
 www.ainu.info
 www2.ainu.info
 www.akiba-pr.info
@@ -59608,6 +59605,9 @@ atbt.info
 aumentatusingresos.info
 pop.ausadsl.info
 ww1.ausadsl.info
+ww17.ausadsl.info
+ww25.ausadsl.info
+ww38.ausadsl.info
 www.ausadsl.info
 auslandskredit.info
 authgram.info
@@ -59924,7 +59924,6 @@ bookgames.info
 boostads.info
 bordj.info
 email.borenje.info
-gw.borenje.info
 imap1.borenje.info
 m.borenje.info
 mail.borenje.info
@@ -59935,28 +59934,19 @@ mailout.borenje.info
 mta-sts.borenje.info
 mvideo.borenje.info
 mx.borenje.info
-mx10.borenje.info
 ns.borenje.info
 ns1.borenje.info
 ns2.borenje.info
-outmail.borenje.info
 post.borenje.info
-relay1.borenje.info
 server.borenje.info
-server1.borenje.info
 sistema.borenje.info
 smtpauth.borenje.info
 tv.borenje.info
-ww16.borenje.info
 ww17.borenje.info
-ww2.borenje.info
 ww25.borenje.info
-ww3.borenje.info
-ww38.borenje.info
 www.borenje.info
 www1.borenje.info
 www2.borenje.info
-zimbra.borenje.info
 boxofficetraffic.info
 brazzers-hdx.info
 broomkpark.info
@@ -60278,10 +60268,7 @@ czmms.info
 daarija.info
 dadbab.info
 ww1.dailymp3.info
-ww17.dailymp3.info
-ww2.dailymp3.info
 ww25.dailymp3.info
-ww38.dailymp3.info
 www.dailymp3.info
 ns1.damdam.info
 ns2.damdam.info
@@ -61556,12 +61543,6 @@ najnovijevesti.info
 najwa.info
 narmedlek.info
 nassau.info
-cpcalendars.natnews.info
-cpcontacts.natnews.info
-ww11.natnews.info
-ww17.natnews.info
-ww25.natnews.info
-ww38.natnews.info
 natureshop.info
 navzdy.info
 whm.nbareplay.info
@@ -61721,12 +61702,10 @@ po.ofcpage.info
 post.ofcpage.info
 relay.ofcpage.info
 server.ofcpage.info
-shop.ofcpage.info
 smtpauth.ofcpage.info
 smtps.ofcpage.info
 srv.ofcpage.info
 ww11.ofcpage.info
-ww16.ofcpage.info
 ww17.ofcpage.info
 ww2.ofcpage.info
 ww25.ofcpage.info
@@ -61785,15 +61764,12 @@ paznaun.info
 pd4me.info
 pdsb.info
 peakfitnessofdalton.info
-ww17.pedicurebarendrecht.info
-ww38.pedicurebarendrecht.info
 peepshow.info
 perfectcorner.info
 periscopeporn.info
 petrolbusiness.info
 petsupply.info
 ww38.pfl6.info
-www.pfl6.info
 ww17.pfshop.info
 ww25.pfshop.info
 www.pfshop.info
@@ -62081,7 +62057,6 @@ ww16.psylocke.info
 ww25.psylocke.info
 www.psylocke.info
 zmail.psylocke.info
-pubg-mobile.info
 pubnative.info
 puntolimpio.info
 pusat-bahasa.info
@@ -62208,7 +62183,10 @@ www.renktir.info
 resorthotels.info
 restplatz.info
 retete-culinare.info
+mta-sts.retrieverbreeding.info
 ww1.retrieverbreeding.info
+ww25.retrieverbreeding.info
+ww38.retrieverbreeding.info
 ww1.reunionideas.info
 ww16.reunionideas.info
 ww17.reunionideas.info
@@ -62253,11 +62231,6 @@ rumobi.info
 rupertmallin.info
 rusputana.info
 russian-ships.info
-ns1.russianpornvideo.info
-ww1.russianpornvideo.info
-ww11.russianpornvideo.info
-ww38.russianpornvideo.info
-www.russianpornvideo.info
 rutube.info
 ww16.rutur.info
 ww25.rutur.info
@@ -62359,10 +62332,6 @@ semmering.info
 seo-mix.info
 seo03.info
 ww16.seodesk.info
-ww17.seodesk.info
-ww2.seodesk.info
-ww25.seodesk.info
-ww3.seodesk.info
 ww38.seodesk.info
 seolinkek.info
 czarter-solina.seosos.info
@@ -63095,10 +63064,8 @@ ww1.unebriquedanslemur.info
 ww16.unebriquedanslemur.info
 ww17.unebriquedanslemur.info
 ww2.unebriquedanslemur.info
-ww25.unebriquedanslemur.info
 ww3.unebriquedanslemur.info
 ww38.unebriquedanslemur.info
-www.unebriquedanslemur.info
 unel.info
 universalpizza.info
 universitaet.info
@@ -63376,7 +63343,6 @@ waploft.info
 waptrik.info
 warface.info
 ww1.watchjavstream.info
-ww2.watchjavstream.info
 www.watchjavstream.info
 watchmovie.info
 watchpinoymovieonline.info
@@ -65445,6 +65411,7 @@ nextcloud.plausible.io
 clickhouse-db02.srv.plausible.io
 staging.srv.plausible.io
 staging.plausible.io
+stats-wat.plausible.io
 status.plausible.io
 testing.plausible.io
 www.plausible.io
@@ -77515,6 +77482,7 @@ aaa-tdp.a-mo.net
 airflow.a-mo.net
 applink.a-mo.net
 assets.a-mo.net
+c3.a-mo.net
 cdn.a-mo.net
 cfg.a-mo.net
 clk.a-mo.net
@@ -77522,6 +77490,7 @@ api.cloud.a-mo.net
 collector.a-mo.net
 config.a-mo.net
 cpxy.a-mo.net
+dc13-argo.a-mo.net
 downloads.a-mo.net
 ennio-cdn.a-mo.net
 fav.a-mo.net
@@ -97559,7 +97528,6 @@ esm1.net
 www.espaebook.net
 mx4.espeedteste.net
 www.espeedteste.net
-ww41.esteroidesanabolicos.net
 estrenodorama.net
 estudiaenlinea.net
 ad.ettoday.net
@@ -107148,7 +107116,6 @@ slavefootprint.org
 slaveryvoyages.org
 sleduj.org
 slick2d.org
-ww1.slocraigslist.org
 www.slocraigslist.org
 slsherriff.org
 sm64.org
@@ -107573,7 +107540,6 @@ m.uuhuisuo.org
 ww16.uuhuisuo.org
 ww17.uuhuisuo.org
 ww25.uuhuisuo.org
-www.uuhuisuo.org
 vadets.org
 vanburencounty.org
 vectorizacion.org
