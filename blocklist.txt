@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343093
+# Ignored duplicates: 343063
 
 chameleon.ad
 pixel.ad
@@ -75,7 +75,6 @@ powerad.ai
 akamai5.rebel.ai
 cdn.rebel.ai
 cookie.rebel.ai
-aksite1.dev.rebel.ai
 cdn.dev.rebel.ai
 dash.dev.rebel.ai
 secure.dev.rebel.ai
@@ -2073,6 +2072,7 @@ f91801fa-5afe-484d-9afd-91e3d172d9a2.prmutv.co
 fa1f96ab-b693-40e4-82d5-8698592ef9ac.prmutv.co
 fe68d1f7-c9f4-45b3-8905-7cda73d3fd74.prmutv.co
 ff24b007-9b8f-40b9-8914-cee55e3ebb14.prmutv.co
+procoinbase.co
 pushtrack.co
 reddit.co
 resetdigital.co
@@ -18992,7 +18992,6 @@ hyundaigenisis.com
 hyundauusa.com
 hyunja6.com
 i-cleaning.com
-i1img.com
 i23greeting.com
 iadnet.com
 iahoro.com
@@ -19083,7 +19082,7 @@ ihoneydrew.com
 iincorporate.com
 sdk.mobad.ijinshan.com
 unconf.mobad.ijinshan.com
-ijump280.com
+ww38.ijump280.com
 ikka-online.com
 iklaneklusif.com
 il-insurance--quotes.com
@@ -19498,12 +19497,17 @@ measure.invisionapp.com
 invitemedia.com
 invitesugar.com
 banner.inyourpocket.com
+a.iogous.com
 ac.iogous.com
 acs.iogous.com
 b.iogous.com
+c.iogous.com
 dr.iogous.com
 e.iogous.com
 hd.iogous.com
+pt.iogous.com
+rssad.iogous.com
+s.iogous.com
 t.iogous.com
 tk.iogous.com
 web.iogous.com
@@ -19630,7 +19634,6 @@ ads.isoftmarketing.com
 banners.isoftmarketing.com
 isprtsfans.com
 israel-deals.com
-israelborochov.com
 israelidomains.com
 israelsupermarket.com
 bigpingback.issuu.com
@@ -20209,7 +20212,6 @@ kowalakypage.com
 kowskypage.com
 wwww.kqzyfj.com
 krfcompany.com
-kriegsmaschine.com
 analytics.kriskintel.com
 sstats.kroger.com
 krushmedia.com
@@ -49365,6 +49367,7 @@ rodeopolice.com
 roeckercattleco.com
 oms.rogersmedia.com
 roirevolution.com
+ww1.rojadirects.com
 api.ads.roku.com
 delta.ads.roku.com
 delta-staging.ads.roku.com
@@ -49732,6 +49735,7 @@ video-server.rubiconproject.com
 wiki-internal.rubiconproject.com
 www.rubiconproject.com
 rubriks.com
+api.rudderlabs.com
 sanity-dataplane.rudderstack.com
 ruderulette.com
 rudtub.com
@@ -53817,7 +53821,6 @@ com-wildlifestudios-suspects.topaz-analytics.com
 playtest-api.topaz-analytics.com
 push-api.topaz-analytics.com
 topboyrio.com
-topbucks.com
 ww1.topcoverpic.com
 www.topcoverpic.com
 www.topdisplaynetwork.com
@@ -57999,7 +58002,6 @@ nqs-nl-c5-c2.youboranqs01.com
 nqs-nl-c6.youboranqs01.com
 nqs-nl-c6-c2.youboranqs01.com
 nqs-nl1.youboranqs01.com
-nqs-nl1-c10.youboranqs01.com
 nqs-nl1-c2.youboranqs01.com
 nqs-nl12-c2.youboranqs01.com
 nqs-nl12-c3.youboranqs01.com
@@ -58225,6 +58227,7 @@ zm232.com
 creator.zmags.com
 zmenmuol.com
 zocdcoc.com
+zoharlevy.com
 analytics.zoho.com
 iplocation.zoho.com
 salesiq.zoho.com
@@ -59310,11 +59313,7 @@ www.4downfiles1.info
 7hari.info
 game.8591.info
 ww38.8591.info
-www.8591.info
 z1008.8591.info
-z1012.8591.info
-z1016.8591.info
-z1020.8591.info
 z1023.8591.info
 91girl5.info
 ww1.91gxfl.info
@@ -59325,7 +59324,6 @@ ww25.91gxfl.info
 www.91gxfl.info
 98hy.info
 99hy.info
-www.99zzyzx.info
 9xtunes.info
 cpcalendars.a-game-of-thrones.info
 cpcontacts.a-game-of-thrones.info
@@ -59360,6 +59358,7 @@ ww25.abc1234.info
 ww38.abc1234.info
 www.abc1234.info
 abono.info
+abportal.info
 mx.accapi.info
 ww1.accapi.info
 ww17.accapi.info
@@ -59438,7 +59437,6 @@ mailout.ainu.info
 mailrelay.ainu.info
 mailserver.ainu.info
 mailx.ainu.info
-ww16.mvideo.ainu.info
 mx.ainu.info
 mx2.ainu.info
 ns.ainu.info
@@ -59697,14 +59695,10 @@ beautifulplaces.info
 beauty73.info
 beautyofboys.info
 www.belajarpc.info
-ww1.benefication.info
-ww11.benefication.info
-ww25.benefication.info
 ww38.benefication.info
-www.benefication.info
 beotubex.info
 beragam.info
-ww38.beringe.info
+beringe.info
 cpcalendars.beritaislam24h.info
 cpcontacts.beritaislam24h.info
 mail.beritaislam24h.info
@@ -59861,7 +59855,6 @@ acroaesthesia.blogtippek.info
 mail.blogtippek.info
 mvideo.blogtippek.info
 ww1.blogtippek.info
-ww16.blogtippek.info
 ww17.blogtippek.info
 ww25.blogtippek.info
 ww38.blogtippek.info
@@ -59904,8 +59897,6 @@ server.borenje.info
 sistema.borenje.info
 smtpauth.borenje.info
 tv.borenje.info
-ww25.borenje.info
-www.borenje.info
 www1.borenje.info
 www2.borenje.info
 boxofficetraffic.info
@@ -60188,6 +60179,8 @@ vip.comix.info
 ww1.comix.info
 ww42.comix.info
 www.comix.info
+ww25.forum.computer-arts.info
+ww38.forum.computer-arts.info
 www.computer-arts.info
 computersetc.info
 www.consolasportatiles.info
@@ -60230,7 +60223,6 @@ daarija.info
 dadbab.info
 ww1.dailymp3.info
 ww25.dailymp3.info
-www.dailymp3.info
 ns1.damdam.info
 ns2.damdam.info
 www.damdam.info
@@ -60943,6 +60935,7 @@ hookuponlineplussize.info
 hothairypussy.info
 hothome.info
 hothot.info
+hotmusic.info
 ww1.hotxtube.info
 ww25.hotxtube.info
 hounslow.info
@@ -60989,7 +60982,6 @@ ineedmoney.info
 infode.info
 inglesonlinegratis.info
 injured.info
-int-news.info
 interlin.info
 internetmarketingideas.info
 interwork.info
@@ -61077,7 +61069,6 @@ kitzsteinhorn.info
 kleinanzeigen.info
 kleio.info
 klussenbedrijven.info
-ru.knigibest.info
 knochenmark.info
 komaneko.info
 www.konp.info
@@ -61501,6 +61492,8 @@ nadie007.info
 nagamochi.info
 najnovijevesti.info
 najwa.info
+mail.nanotehnologija.info
+www.nanotehnologija.info
 narmedlek.info
 nassau.info
 natureshop.info
@@ -61511,15 +61504,7 @@ ww17.nbareplay.info
 ww2.nbareplay.info
 www.nbareplay.info
 neko299.info
-mail.neptoons.info
-mx7.neptoons.info
-po.neptoons.info
-ww1.neptoons.info
-ww16.neptoons.info
-ww2.neptoons.info
-ww25.neptoons.info
-ww38.neptoons.info
-www.neptoons.info
+neptoons.info
 0www.ner-de-mi-nis-6.info
 ww1.ner-de-mi-nis-6.info
 ww11.ner-de-mi-nis-6.info
@@ -62152,6 +62137,7 @@ ww1.retrieverbreeding.info
 ww17.retrieverbreeding.info
 ww25.retrieverbreeding.info
 ww38.retrieverbreeding.info
+www.retrieverbreeding.info
 ww1.reunionideas.info
 ww16.reunionideas.info
 ww17.reunionideas.info
@@ -62195,6 +62181,7 @@ rumahmodernterbaik.info
 rumobi.info
 rupertmallin.info
 rusputana.info
+russia09.info
 russian-ships.info
 rutube.info
 ww16.rutur.info
@@ -62208,6 +62195,7 @@ gis.saiphptc.info
 lab.saiphptc.info
 lapwifinhahocpanel.saiphptc.info
 ru.saiphptc.info
+ww17.saiphptc.info
 archivepdf.salemfonden.info
 dc-78f5fcb07f88.salemfonden.info
 webdisk.salemfonden.info
@@ -62297,7 +62285,6 @@ semmering.info
 seo-mix.info
 seo03.info
 ww16.seodesk.info
-ww38.seodesk.info
 seolinkek.info
 czarter-solina.seosos.info
 ekskluzywny-prezent.seosos.info
@@ -62317,7 +62304,6 @@ ww3.seosos.info
 ww38.seosos.info
 seotaolao.info
 seouldl.info
-ww1.sepalo3.info
 ww16.sepalo3.info
 ww17.sepalo3.info
 ww25.sepalo3.info
@@ -63026,7 +63012,6 @@ uncut.info
 mail.unebriquedanslemur.info
 webdisk.unebriquedanslemur.info
 ww1.unebriquedanslemur.info
-ww16.unebriquedanslemur.info
 ww17.unebriquedanslemur.info
 ww2.unebriquedanslemur.info
 ww3.unebriquedanslemur.info
@@ -63042,9 +63027,7 @@ ww38.unn.info
 www.unn.info
 unnepek.info
 unnt.info
-ww1.uohyd.info
 ww16.uohyd.info
-ww17.uohyd.info
 ww25.uohyd.info
 ww38.uohyd.info
 www.uohyd.info
@@ -104467,6 +104450,7 @@ suncolonyapts.net
 sundenlink.net
 superhikaye.net
 surfthechanel.net
+www.swingsearch.net
 synonimen.net
 cs905.wac.systemcdn.net
 tacticalconcealment.net
@@ -106460,8 +106444,6 @@ ads.nsnews.org
 cpcontacts.nsnews.org
 mail.nsnews.org
 webdisk.nsnews.org
-ww1.nsnews.org
-ww17.nsnews.org
 www.nsnews.org
 nspstutter.org
 nsula.org
@@ -107433,8 +107415,6 @@ uspoen.org
 utsglobal.org
 m.uuhuisuo.org
 ww16.uuhuisuo.org
-ww17.uuhuisuo.org
-ww25.uuhuisuo.org
 vadets.org
 vanburencounty.org
 vectorizacion.org
