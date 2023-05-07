@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343063
+# Ignored duplicates: 343001
 
 chameleon.ad
 pixel.ad
@@ -73,20 +73,13 @@ assets.nws.ai
 peruse.ai
 powerad.ai
 akamai5.rebel.ai
-cdn.rebel.ai
 cookie.rebel.ai
-cdn.dev.rebel.ai
 dash.dev.rebel.ai
-secure.dev.rebel.ai
 edge-cdn.rebel.ai
 edge-secure.rebel.ai
 edge-secure-global.rebel.ai
-engagement.rebel.ai
-engagement-integration-2.rebel.ai
-event.rebel.ai
 path.rebel.ai
 rokform.rebel.ai
-secure.rebel.ai
 www.rebel.ai
 ztest2.rebel.ai
 related.ai
@@ -10538,7 +10531,6 @@ airflow.de-dev.cxense.com
 alertmanager.de-dev.cxense.com
 grafana.de-dev.cxense.com
 nginx.de-dev.cxense.com
-oauth2.de-dev.cxense.com
 prom.de-dev.cxense.com
 airflow.de-prod.cxense.com
 prom.de-prod.cxense.com
@@ -19386,7 +19378,6 @@ innocentinvention.com
 innocentwax.com
 innocraft.com
 innographx.com
-api.innomdc.com
 innovativeadserver.com
 innovativemetrics.com
 innovid.com
@@ -36119,6 +36110,7 @@ mynativeplatform.com
 banner.mynetworkingpro.com
 mail.mynetworkingpro.com
 ww1.mynetworkingpro.com
+ww11.mynetworkingpro.com
 ww17.mynetworkingpro.com
 ww38.mynetworkingpro.com
 www.mynetworkingpro.com
@@ -49368,6 +49360,7 @@ roeckercattleco.com
 oms.rogersmedia.com
 roirevolution.com
 ww1.rojadirects.com
+www.rojadirects.com
 api.ads.roku.com
 delta.ads.roku.com
 delta-staging.ads.roku.com
@@ -55681,9 +55674,6 @@ littlestpetshop.vntsm.com
 mraid.vntsm.com
 mraidcdn.vntsm.com
 video.vntsm.com
-cpcalendars.vogtlandsuspension.com
-mail.vogtlandsuspension.com
-webdisk.vogtlandsuspension.com
 voicefive.com
 voicevegetable.com
 volatilevessel.com
@@ -59311,8 +59301,6 @@ www.4downfiles1.info
 69postix.info
 7494568.info
 7hari.info
-game.8591.info
-ww38.8591.info
 z1008.8591.info
 z1023.8591.info
 91girl5.info
@@ -59425,35 +59413,7 @@ aftereffectvn.info
 aguu.info
 ahhadesigns.info
 ahmetcan.info
-authsmtp.ainu.info
-comune.ainu.info
-email.ainu.info
-imap1.ainu.info
-mail.ainu.info
-mail1.ainu.info
-mail5.ainu.info
-mailhost.ainu.info
-mailout.ainu.info
-mailrelay.ainu.info
-mailserver.ainu.info
-mailx.ainu.info
-mx.ainu.info
-mx2.ainu.info
-ns.ainu.info
-ns1.ainu.info
-ns2.ainu.info
-pop.ainu.info
-post.ainu.info
-postmaster.ainu.info
-relay.ainu.info
-secure.ainu.info
-server.ainu.info
-smtpauth.ainu.info
-smtps.ainu.info
 ww1.ainu.info
-ww16.ainu.info
-www.ainu.info
-www2.ainu.info
 www.akiba-pr.info
 alcea.info
 mvideo.alder.info
@@ -59580,6 +59540,9 @@ ww25.autorejestratory.info
 ww3.autorejestratory.info
 ww38.autorejestratory.info
 www.autorejestratory.info
+12352.av18.info
+ww3.av18.info
+ww4.av18.info
 www.av18.info
 av815.info
 av99cn.info
@@ -59852,12 +59815,9 @@ blindtech-list.info
 blockchani.info
 4jslg.blogtippek.info
 acroaesthesia.blogtippek.info
-mail.blogtippek.info
-mvideo.blogtippek.info
+ww38.mvideo.blogtippek.info
 ww1.blogtippek.info
 ww17.blogtippek.info
-ww25.blogtippek.info
-ww38.blogtippek.info
 www.blogtippek.info
 blogvlw.info
 bluehippo.info
@@ -59887,7 +59847,6 @@ mail12.borenje.info
 mailgate.borenje.info
 mailout.borenje.info
 mta-sts.borenje.info
-mvideo.borenje.info
 mx.borenje.info
 ns.borenje.info
 ns1.borenje.info
@@ -60222,7 +60181,6 @@ czmms.info
 daarija.info
 dadbab.info
 ww1.dailymp3.info
-ww25.dailymp3.info
 ns1.damdam.info
 ns2.damdam.info
 www.damdam.info
@@ -60513,7 +60471,6 @@ evmaps.info
 exabyte.info
 examroom.info
 ww16.eyep.info
-ww25.eyep.info
 eyesurgery.info
 ezmethod.info
 cpcalendars.faiznet.info
@@ -60714,6 +60671,9 @@ galtuer.info
 galzu.info
 gamebbs.info
 gamemachines.info
+ww1.gameoke.info
+ww25.gameoke.info
+ww38.gameoke.info
 www.gameoke.info
 gamephysics.info
 comune.gamerwap.info
@@ -60936,7 +60896,10 @@ hothairypussy.info
 hothome.info
 hothot.info
 hotmusic.info
+ww1.nyerd-meg-iphone.hotxtube.info
+ww38.nyerd-meg-iphone.hotxtube.info
 ww1.hotxtube.info
+ww17.hotxtube.info
 ww25.hotxtube.info
 hounslow.info
 househunt.info
@@ -62284,7 +62247,6 @@ seisenkai.info
 semmering.info
 seo-mix.info
 seo03.info
-ww16.seodesk.info
 seolinkek.info
 czarter-solina.seosos.info
 ekskluzywny-prezent.seosos.info
@@ -62305,12 +62267,9 @@ ww38.seosos.info
 seotaolao.info
 seouldl.info
 ww16.sepalo3.info
-ww17.sepalo3.info
 ww25.sepalo3.info
-ww3.sepalo3.info
 ww38.sepalo3.info
 ww4.sepalo3.info
-www.sepalo3.info
 sere.info
 serenade.info
 sergamer.info
@@ -63290,7 +63249,6 @@ wap9.info
 waploft.info
 waptrik.info
 warface.info
-ww1.watchjavstream.info
 www.watchjavstream.info
 watchmovie.info
 watchpinoymovieonline.info
@@ -64414,7 +64372,6 @@ edge-west-2.customer.io
 email.customer.io
 eu-edge.customer.io
 fast.customer.io
-fly.customer.io
 fly-eu.customer.io
 fly-standalone.customer.io
 fly2.customer.io
@@ -64423,6 +64380,7 @@ forms-eu.customer.io
 gotrack.customer.io
 hotness.customer.io
 hs.customer.io
+hydra-api.customer.io
 internal.customer.io
 internal-tools.customer.io
 links.customer.io
@@ -65089,7 +65047,6 @@ prod-servicerocket.instana.io
 prod-starling.instana.io
 prod-virginvoyages.instana.io
 production-macmillan.instana.io
-production-moonfare.instana.io
 production-sodexobeneficioschile.instana.io
 ps-pegprod.instana.io
 qa-instana.instana.io
@@ -67305,6 +67262,7 @@ soc-sandbox.sandbox.redventures.io
 terratest.sandbox.redventures.io
 thopkins.sandbox.redventures.io
 together.sandbox.redventures.io
+travel-planningbooking.sandbox.redventures.io
 wealth.sandbox.redventures.io
 credible-dev.secrets.redventures.io
 credible-prod.secrets.redventures.io
@@ -105691,11 +105649,10 @@ eduteca.org
 eiceresources.org
 eisenhoweracademy.org
 eldercohousing.org
-about.elemnts.org
+ww17.about.elemnts.org
 ww17.blog.elemnts.org
 creative.elemnts.org
 kube.elemnts.org
-ww1.elemnts.org
 ww17.elemnts.org
 ww3.elemnts.org
 www.elemnts.org
@@ -105809,6 +105766,7 @@ freecoinbase.org
 freedomdeliverance.org
 freeesound.org
 freefilm.org
+freegen.org
 freemp3x.org
 freephonemn.org
 freesoud.org
@@ -106441,9 +106399,6 @@ click.nl.npr.org
 carebot.nprapps.org
 www.nra2016.org
 ads.nsnews.org
-cpcontacts.nsnews.org
-mail.nsnews.org
-webdisk.nsnews.org
 www.nsnews.org
 nspstutter.org
 nsula.org
@@ -107559,10 +107514,7 @@ wwwlef.org
 wwwmcso.org
 wwwnationalmssociety.org
 wwwopers.org
-ww1.wwwpiercecountywa.org
 ww2.wwwpiercecountywa.org
-ww25.wwwpiercecountywa.org
-ww38.wwwpiercecountywa.org
 wwwpwcgov.org
 wwwscscourt.org
 wwwsfefcu.org
@@ -107658,6 +107610,7 @@ analytics.freedom.press
 bepsuglyba.pro
 clgserv.pro
 evadavdsp.pro
+ww7.halleyperson.pro
 jypugepha.pro
 mimilcnf.pro
 piwik.pro
