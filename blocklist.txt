@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343001
+# Ignored duplicates: 342950
 
 chameleon.ad
 pixel.ad
@@ -74,14 +74,11 @@ peruse.ai
 powerad.ai
 akamai5.rebel.ai
 cookie.rebel.ai
-dash.dev.rebel.ai
 edge-cdn.rebel.ai
 edge-secure.rebel.ai
 edge-secure-global.rebel.ai
 path.rebel.ai
-rokform.rebel.ai
 www.rebel.ai
-ztest2.rebel.ai
 related.ai
 valo.ai
 vdo.ai
@@ -4974,7 +4971,6 @@ southwest-airlines-rt-prod2-res.campaign.adobe.com
 southwest-airlines-rt-prod2-t.campaign.adobe.com
 sparebank1-mid-prod4-1.campaign.adobe.com
 specsavers-mkt-prod3-cus.campaign.adobe.com
-spicejet-mid-prod3-cus.campaign.adobe.com
 spicejet-prod.campaign.adobe.com
 squirepattonboggs-mkt-prod1-res.campaign.adobe.com
 squirepattonboggs-mkt-stage1-res.campaign.adobe.com
@@ -8182,6 +8178,7 @@ list.bidsimulator.com
 video.bidsimulator.com
 view.bidsimulator.com
 bidsopt.com
+web2.ams.bidstalk.com
 api.bidstalk.com
 bids.bidstalk.com
 cevent.bidstalk.com
@@ -11162,6 +11159,8 @@ diaryhub.com
 dibujosmanga.com
 dicasdainternet.com
 dickeckland.com
+ww25.dicksporrtinggoods.com
+www.dicksporrtinggoods.com
 dickssportiggoods.com
 ceops.dickssportinggoods.com
 metrics.dickssportinggoods.com
@@ -16391,6 +16390,7 @@ tw.flightnework.com
 vip.flightnework.com
 vmail.flightnework.com
 wap.flightnework.com
+www.flightnework.com
 zmail.flightnework.com
 flimsycircle.com
 flimsythought.com
@@ -42334,10 +42334,6 @@ pholongden.com
 metrics.phonegap.com
 ads.phonepe.com
 phonesdo.com
-i5.photobudcket.com
-ww1.photobudcket.com
-ww2.photobudcket.com
-ww5.photobudcket.com
 photobunner.com
 photofaceframe.com
 photographpan.com
@@ -52665,7 +52661,6 @@ m.studio5ksl.com
 ns1.studio5ksl.com
 nullmx.studio5ksl.com
 ww1.studio5ksl.com
-ww25.studio5ksl.com
 www.studio5ksl.com
 studiorso.com
 stupendoussleet.com
@@ -55602,6 +55597,7 @@ ads.virtuopolitan.com
 www.visafoservices.com
 psdmt.visibleconsumerinsight.com
 track.visibleconsumerinsight.com
+www.visibleconsumerinsight.com
 visiblemeasures.com
 visistat.com
 visitcumberlandfalls.com
@@ -59301,8 +59297,6 @@ www.4downfiles1.info
 69postix.info
 7494568.info
 7hari.info
-z1008.8591.info
-z1023.8591.info
 91girl5.info
 ww1.91gxfl.info
 ww11.91gxfl.info
@@ -59413,7 +59407,6 @@ aftereffectvn.info
 aguu.info
 ahhadesigns.info
 ahmetcan.info
-ww1.ainu.info
 www.akiba-pr.info
 alcea.info
 mvideo.alder.info
@@ -59865,16 +59858,36 @@ brshare.info
 brunei.info
 brzozow.info
 bt177.info
+antispam.btbt.info
+box.btbt.info
+comune.btbt.info
+correo.btbt.info
+dl.btbt.info
+dns2.btbt.info
 gw.btbt.info
 host.btbt.info
+images.btbt.info
+m.btbt.info
+mail02.btbt.info
 mail1.btbt.info
 mail12.btbt.info
 mail2.btbt.info
+mail6.btbt.info
 mail9.btbt.info
+ww25.mailer.btbt.info
 mailgw.btbt.info
+ms.btbt.info
+mvideo.btbt.info
 mx.btbt.info
+ww25.mx02.btbt.info
+mx5.btbt.info
+mx7.btbt.info
 ns.btbt.info
+pic.btbt.info
+relay2.btbt.info
+ww16.btbt.info
 ww25.btbt.info
+www.btbt.info
 btcerise.info
 btfly.info
 mvideo.btsoso.info
@@ -60470,7 +60483,6 @@ evgrid.info
 evmaps.info
 exabyte.info
 examroom.info
-ww16.eyep.info
 eyesurgery.info
 ezmethod.info
 cpcalendars.faiznet.info
@@ -60659,6 +60671,7 @@ ww2.fukadamoe.info
 ww25.fukadamoe.info
 ww38.fukadamoe.info
 www.fukadamoe.info
+ww1.funtvshow.info
 ww1.futjakot.info
 ww17.futjakot.info
 www.futjakot.info
@@ -60896,11 +60909,16 @@ hothairypussy.info
 hothome.info
 hothot.info
 hotmusic.info
-ww1.nyerd-meg-iphone.hotxtube.info
-ww38.nyerd-meg-iphone.hotxtube.info
+media-markt.hotxtube.info
+nuevo-smartphone-espana.hotxtube.info
+nuovo-telefono-italia.hotxtube.info
+nyerd-meg-iphone.hotxtube.info
+program-de-loializare.hotxtube.info
+vous-avez-gagne.hotxtube.info
 ww1.hotxtube.info
 ww17.hotxtube.info
 ww25.hotxtube.info
+www.hotxtube.info
 hounslow.info
 househunt.info
 how-to-loose-weight.info
@@ -61974,12 +61992,10 @@ puntolimpio.info
 pusat-bahasa.info
 www.putana.info
 pword.info
-mail.python-os.info
 ww1.python-os.info
 ww11.python-os.info
 ww17.python-os.info
 ww38.python-os.info
-www.python-os.info
 que-significa-mi-nombre.info
 quepaso.info
 quicktime-download.info
@@ -62158,6 +62174,7 @@ gis.saiphptc.info
 lab.saiphptc.info
 lapwifinhahocpanel.saiphptc.info
 ru.saiphptc.info
+ww1.saiphptc.info
 ww17.saiphptc.info
 archivepdf.salemfonden.info
 dc-78f5fcb07f88.salemfonden.info
@@ -62268,7 +62285,6 @@ seotaolao.info
 seouldl.info
 ww16.sepalo3.info
 ww25.sepalo3.info
-ww38.sepalo3.info
 ww4.sepalo3.info
 sere.info
 serenade.info
@@ -62968,9 +62984,6 @@ ww38.unblockproxy.info
 www.unblockproxy.info
 yts.unblockproxy.info
 uncut.info
-mail.unebriquedanslemur.info
-webdisk.unebriquedanslemur.info
-ww1.unebriquedanslemur.info
 ww17.unebriquedanslemur.info
 ww2.unebriquedanslemur.info
 ww3.unebriquedanslemur.info
@@ -62987,7 +63000,6 @@ www.unn.info
 unnepek.info
 unnt.info
 ww16.uohyd.info
-ww25.uohyd.info
 ww38.uohyd.info
 www.uohyd.info
 upfast.info
@@ -63298,7 +63310,6 @@ wowsource.info
 cf.wtftds.info
 dw.wtftds.info
 jl.wtftds.info
-ww16.slfw.wtftds.info
 ww16.winx.wtftds.info
 ww16.wtftds.info
 ww38.wtftds.info
@@ -65305,10 +65316,12 @@ api.pirsch.io
 bunny.plausible.io
 cdn.plausible.io
 custom.plausible.io
+feedback.plausible.io
 journal.plausible.io
 kb.plausible.io
 one.lb.plausible.io
 two.lb.plausible.io
+newcustom.plausible.io
 nextcloud.plausible.io
 clickhouse-db02.srv.plausible.io
 staging.srv.plausible.io
@@ -78460,7 +78473,6 @@ beacon-cdn.walmart.com.akadns.net
 beacon-mobile.walmart.com.akadns.net
 dotomi.weighted.com.akadns.net
 wellsfargo.com.akadns.net
-bs-core-failover.dvgtm.akadns.net
 bs-geo.dvgtm.akadns.net
 bs-wlb-eu.dvgtm.akadns.net
 bs-wlb-sg.dvgtm.akadns.net
@@ -107015,7 +107027,6 @@ slavefootprint.org
 slaveryvoyages.org
 sleduj.org
 slick2d.org
-www.slocraigslist.org
 slsherriff.org
 sm64.org
 smartwarez.org
@@ -107097,7 +107108,6 @@ ww1.stpatrickvn.org
 ww17.stpatrickvn.org
 ww25.stpatrickvn.org
 ww38.stpatrickvn.org
-www.stpatrickvn.org
 stream-hd.org
 streamtowatch.org
 streetworkout.org
@@ -107158,6 +107168,7 @@ teamtoyminator.org
 technowledge.org
 teensx.org
 tehbox.org
+mail.teknobilim.org
 www.teknobilim.org
 televisiongratis.org
 temo-mail.org
@@ -107610,7 +107621,10 @@ analytics.freedom.press
 bepsuglyba.pro
 clgserv.pro
 evadavdsp.pro
+ww1.halleyperson.pro
+ww12.halleyperson.pro
 ww7.halleyperson.pro
+www.halleyperson.pro
 jypugepha.pro
 mimilcnf.pro
 piwik.pro
