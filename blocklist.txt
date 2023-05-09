@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342950
+# Ignored duplicates: 342863
 
 chameleon.ad
 pixel.ad
@@ -72,13 +72,7 @@ nova.ai
 assets.nws.ai
 peruse.ai
 powerad.ai
-akamai5.rebel.ai
 cookie.rebel.ai
-edge-cdn.rebel.ai
-edge-secure.rebel.ai
-edge-secure-global.rebel.ai
-path.rebel.ai
-www.rebel.ai
 related.ai
 valo.ai
 vdo.ai
@@ -10909,7 +10903,6 @@ defectivesun.com
 defenderappmobile.com
 deflorazione.com
 deflortaion.com
-ww17.dehlimetrorail.com
 web2.deja.com
 gp.dejanews.com
 delandeau.com
@@ -16114,7 +16107,6 @@ exponential.com
 exposebox.com
 expresscameras.com
 expressdirections.com
-hafop.exstats.com
 jokuz.exstats.com
 exsteze.com
 exszakasz.com
@@ -19341,7 +19333,6 @@ infofb.com
 s.infogram.com
 infolinks.com
 infopicked.com
-information.com
 hits.informer.com
 web.informer.com
 informtrades.com
@@ -19715,6 +19706,7 @@ japansexfree.com
 japantradeview.com
 jar4u.com
 jasperlabs.com
+jastats.com
 jasuq.com
 javafull.com
 javpron.com
@@ -36175,7 +36167,6 @@ cpcalendars.mysticallady.com
 cpcontacts.mysticallady.com
 mail.mysticallady.com
 webdisk.mysticallady.com
-ww25.mysticallady.com
 www.mysticallady.com
 mysticalladyselegantgifts.com
 mystlyle.com
@@ -51006,12 +50997,10 @@ app.showroompriv.com
 magento.showroompriv.com
 mvideo.showroompriv.com
 shop.showroompriv.com
-staging.showroompriv.com
 test.showroompriv.com
 ww1.showroompriv.com
 ww2.showroompriv.com
 ww35.showroompriv.com
-ww38.showroompriv.com
 www.showroompriv.com
 shrillspoon.com
 shuckerswv.com
@@ -52658,9 +52647,7 @@ strpjmp.com
 structurerod.com
 servedby.studads.com
 m.studio5ksl.com
-ns1.studio5ksl.com
 nullmx.studio5ksl.com
-ww1.studio5ksl.com
 www.studio5ksl.com
 studiorso.com
 stupendoussleet.com
@@ -59651,7 +59638,6 @@ beautifulplaces.info
 beauty73.info
 beautyofboys.info
 www.belajarpc.info
-ww38.benefication.info
 beotubex.info
 beragam.info
 beringe.info
@@ -59809,7 +59795,6 @@ blockchani.info
 4jslg.blogtippek.info
 acroaesthesia.blogtippek.info
 ww38.mvideo.blogtippek.info
-ww1.blogtippek.info
 ww17.blogtippek.info
 www.blogtippek.info
 blogvlw.info
@@ -59832,25 +59817,9 @@ booke.info
 bookgames.info
 boostads.info
 bordj.info
-email.borenje.info
-imap1.borenje.info
-m.borenje.info
-mail1.borenje.info
 mail12.borenje.info
-mailgate.borenje.info
-mailout.borenje.info
-mta-sts.borenje.info
-mx.borenje.info
-ns.borenje.info
-ns1.borenje.info
-ns2.borenje.info
-post.borenje.info
-server.borenje.info
 sistema.borenje.info
-smtpauth.borenje.info
 tv.borenje.info
-www1.borenje.info
-www2.borenje.info
 boxofficetraffic.info
 brazzers-hdx.info
 broomkpark.info
@@ -59874,17 +59843,25 @@ mail12.btbt.info
 mail2.btbt.info
 mail6.btbt.info
 mail9.btbt.info
-ww25.mailer.btbt.info
+mailer.btbt.info
+mailgate.btbt.info
 mailgw.btbt.info
+mailrelay.btbt.info
 ms.btbt.info
+ms1.btbt.info
 mvideo.btbt.info
 mx.btbt.info
-ww25.mx02.btbt.info
+mx0.btbt.info
+mx02.btbt.info
 mx5.btbt.info
 mx7.btbt.info
+mxs.btbt.info
 ns.btbt.info
 pic.btbt.info
+pop.btbt.info
+relay1.btbt.info
 relay2.btbt.info
+smtps.btbt.info
 ww16.btbt.info
 ww25.btbt.info
 www.btbt.info
@@ -60151,6 +60128,8 @@ vip.comix.info
 ww1.comix.info
 ww42.comix.info
 www.comix.info
+ww25.aloha.computer-arts.info
+ww38.aloha.computer-arts.info
 ww25.forum.computer-arts.info
 ww38.forum.computer-arts.info
 www.computer-arts.info
@@ -60193,7 +60172,6 @@ curieux.info
 czmms.info
 daarija.info
 dadbab.info
-ww1.dailymp3.info
 ns1.damdam.info
 ns2.damdam.info
 www.damdam.info
@@ -60483,6 +60461,8 @@ evgrid.info
 evmaps.info
 exabyte.info
 examroom.info
+ww25.2004.eyep.info
+ww1.eyep.info
 eyesurgery.info
 ezmethod.info
 cpcalendars.faiznet.info
@@ -60625,6 +60605,8 @@ ww11.freeadultchatroom.info
 www.freeadultchatroom.info
 freecamwhore.info
 freegood.info
+cpcontacts.freeimagehosting.info
+ww1.freeimagehosting.info
 www.freeimagehosting.info
 cdn.freeiphonesex.info
 cdn1.freeiphonesex.info
@@ -60671,7 +60653,7 @@ ww2.fukadamoe.info
 ww25.fukadamoe.info
 ww38.fukadamoe.info
 www.fukadamoe.info
-ww1.funtvshow.info
+funtvshow.info
 ww1.futjakot.info
 ww17.futjakot.info
 www.futjakot.info
@@ -60855,7 +60837,12 @@ happybook.info
 happytail.info
 hardis.info
 hargaproduk.info
-harmonielehre.info
+ww1.harmonielehre.info
+ww11.harmonielehre.info
+ww16.harmonielehre.info
+ww25.harmonielehre.info
+ww38.harmonielehre.info
+www.harmonielehre.info
 hastalavista.info
 dev.hayagitaran.info
 mail.hayagitaran.info
@@ -60909,16 +60896,7 @@ hothairypussy.info
 hothome.info
 hothot.info
 hotmusic.info
-media-markt.hotxtube.info
-nuevo-smartphone-espana.hotxtube.info
-nuovo-telefono-italia.hotxtube.info
-nyerd-meg-iphone.hotxtube.info
-program-de-loializare.hotxtube.info
-vous-avez-gagne.hotxtube.info
-ww1.hotxtube.info
-ww17.hotxtube.info
-ww25.hotxtube.info
-www.hotxtube.info
+hotxtube.info
 hounslow.info
 househunt.info
 how-to-loose-weight.info
@@ -61015,7 +60993,10 @@ josieskitchen.info
 jpub.info
 jsong.info
 junaldpascua.info
-jyounangama.info
+ww38.sado.jyounangama.info
+ww1.jyounangama.info
+ww25.jyounangama.info
+ww38.jyounangama.info
 kabhebrew.info
 kajak.info
 kamikazi.info
@@ -61992,10 +61973,8 @@ puntolimpio.info
 pusat-bahasa.info
 www.putana.info
 pword.info
-ww1.python-os.info
 ww11.python-os.info
 ww17.python-os.info
-ww38.python-os.info
 que-significa-mi-nombre.info
 quepaso.info
 quicktime-download.info
@@ -62285,7 +62264,6 @@ seotaolao.info
 seouldl.info
 ww16.sepalo3.info
 ww25.sepalo3.info
-ww4.sepalo3.info
 sere.info
 serenade.info
 sergamer.info
@@ -62999,8 +62977,6 @@ ww38.unn.info
 www.unn.info
 unnepek.info
 unnt.info
-ww16.uohyd.info
-ww38.uohyd.info
 www.uohyd.info
 upfast.info
 uploadgeneration.info
@@ -63307,9 +63283,7 @@ worldmarketplace.info
 worldsportsmemorabilia.info
 wowchar.info
 wowsource.info
-cf.wtftds.info
-dw.wtftds.info
-jl.wtftds.info
+www.cf.wtftds.info
 ww16.winx.wtftds.info
 ww16.wtftds.info
 ww38.wtftds.info
@@ -65323,12 +65297,16 @@ one.lb.plausible.io
 two.lb.plausible.io
 newcustom.plausible.io
 nextcloud.plausible.io
+one.sandbox.plausible.io
+test.sandbox.plausible.io
+two.sandbox.plausible.io
 clickhouse-db02.srv.plausible.io
 staging.srv.plausible.io
 staging.plausible.io
 stats-wat.plausible.io
 status.plausible.io
 testing.plausible.io
+two.plausible.io
 www.plausible.io
 sdk.postscript.io
 predic.io
@@ -67226,10 +67204,7 @@ portkey.reddigital-development.redventures.io
 portkey.reddigital.redventures.io
 redvideo-development.redventures.io
 ads.redvideo.redventures.io
-ccn.redvideo.redventures.io
 cnet.redvideo.redventures.io
-comicvine.redvideo.redventures.io
-gamespot.redvideo.redventures.io
 onlinemba-com.redvideo.redventures.io
 slate.redvideo.redventures.io
 test.redvideo.redventures.io
@@ -105665,9 +105640,6 @@ ww17.about.elemnts.org
 ww17.blog.elemnts.org
 creative.elemnts.org
 kube.elemnts.org
-ww17.elemnts.org
-ww3.elemnts.org
-www.elemnts.org
 elhar.org
 elpr.org
 email-verify.org
@@ -106410,7 +106382,6 @@ npid.org
 click.nl.npr.org
 carebot.nprapps.org
 www.nra2016.org
-ads.nsnews.org
 www.nsnews.org
 nspstutter.org
 nsula.org
@@ -107525,7 +107496,6 @@ wwwlef.org
 wwwmcso.org
 wwwnationalmssociety.org
 wwwopers.org
-ww2.wwwpiercecountywa.org
 wwwpwcgov.org
 wwwscscourt.org
 wwwsfefcu.org
@@ -107649,7 +107619,6 @@ www.spartoo.pt
 zwinqi.spartoo.pt
 hybrid-advancelocal.perso.aws.arc.pub
 targeting.perso.aws.arc.pub
-cd-priority-0-kibana6-iap-stg.a.pxi.pub
 client.a.pxi.pub
 collector.a.pxi.pub
 csdp-kibana6.a.pxi.pub
