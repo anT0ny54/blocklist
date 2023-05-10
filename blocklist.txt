@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342863
+# Ignored duplicates: 342803
 
 chameleon.ad
 pixel.ad
@@ -72,7 +72,6 @@ nova.ai
 assets.nws.ai
 peruse.ai
 powerad.ai
-cookie.rebel.ai
 related.ai
 valo.ai
 vdo.ai
@@ -8827,7 +8826,7 @@ callrail.com
 calmcactus.com
 calypsocapsule.com
 calypsosettlement.com
-www.cameronoutdoors.com
+cameronoutdoors.com
 campaign-archive.com
 beacon.campaigndeputy.com
 camperm.com
@@ -16107,7 +16106,6 @@ exponential.com
 exposebox.com
 expresscameras.com
 expressdirections.com
-jokuz.exstats.com
 exsteze.com
 exszakasz.com
 extasy-sp.com
@@ -18702,7 +18700,8 @@ hilariouszinc.com
 hildes-hjorne.com
 oxen.hillcountrytexas.com
 hiltoncareer.com
-himachalshadi.com
+ww25.himachalshadi.com
+ww7.himachalshadi.com
 hindbehind.com
 hinoder.com
 hip2sae.com
@@ -19066,7 +19065,6 @@ ihoneydrew.com
 iincorporate.com
 sdk.mobad.ijinshan.com
 unconf.mobad.ijinshan.com
-ww38.ijump280.com
 ikka-online.com
 iklaneklusif.com
 il-insurance--quotes.com
@@ -50565,7 +50563,6 @@ static.segment.com
 stats.segment.com
 status.segment.com
 synapse.segment.com
-te2e.segment.com
 tiered-billing.segment.com
 tools.segment.com
 trebdocs.segment.com
@@ -50992,12 +50989,7 @@ ww25.showpussy.com
 ww31.showpussy.com
 ww38.showpussy.com
 www.showpussy.com
-api.showroompriv.com
-app.showroompriv.com
-magento.showroompriv.com
 mvideo.showroompriv.com
-shop.showroompriv.com
-test.showroompriv.com
 ww1.showroompriv.com
 ww2.showroompriv.com
 ww35.showroompriv.com
@@ -51094,10 +51086,7 @@ queue-es.simpleanalyticscdn.com
 screenshots.simpleanalyticscdn.com
 scripts.simpleanalyticscdn.com
 bkd.tapselkab.go.idwww.simplehitcounter.com
-mail.simplehitcounter.com
-staging.simplehitcounter.com
 thpttranphudalat.edu.vnwww.simplehitcounter.com
-www.simplehitcounter.com
 ads.simplyhired.com
 simpsonisate.com
 simpsonizene.com
@@ -56330,8 +56319,6 @@ s2s.activity.windows.com
 test.activity.windows.com
 engage.windows.com
 windowsphome.com
-ww25.winecountrygiftbaskeets.com
-www.winecountrygiftbaskeets.com
 ads.wineenthusiast.com
 winowslive.com
 wiprocareers.com
@@ -59793,7 +59780,6 @@ bled.info
 blindtech-list.info
 blockchani.info
 4jslg.blogtippek.info
-acroaesthesia.blogtippek.info
 ww38.mvideo.blogtippek.info
 ww17.blogtippek.info
 www.blogtippek.info
@@ -59820,6 +59806,7 @@ bordj.info
 mail12.borenje.info
 sistema.borenje.info
 tv.borenje.info
+ww1.borenje.info
 boxofficetraffic.info
 brazzers-hdx.info
 broomkpark.info
@@ -59893,6 +59880,7 @@ ww1.forum.buonchuyen.info
 ww17.forum.buonchuyen.info
 ww38.forum.buonchuyen.info
 img.buonchuyen.info
+mvideo.buonchuyen.info
 securemail.buonchuyen.info
 ww1.buonchuyen.info
 ww17.buonchuyen.info
@@ -60107,7 +60095,6 @@ cilantroweb.info
 cinemano.info
 citata.info
 clicktrace.info
-www.cloud-mining.info
 cloud9tv.info
 cloudsecuritybenefits.info
 cocyoo.info
@@ -60128,10 +60115,14 @@ vip.comix.info
 ww1.comix.info
 ww42.comix.info
 www.comix.info
-ww25.aloha.computer-arts.info
-ww38.aloha.computer-arts.info
+aloha.computer-arts.info
 ww25.forum.computer-arts.info
 ww38.forum.computer-arts.info
+ww1.computer-arts.info
+ww11.computer-arts.info
+ww17.computer-arts.info
+ww25.computer-arts.info
+ww38.computer-arts.info
 www.computer-arts.info
 computersetc.info
 www.consolasportatiles.info
@@ -60615,6 +60606,7 @@ mail.freeiphonesex.info
 vcdn.freeiphonesex.info
 ww1.freeiphonesex.info
 ww11.freeiphonesex.info
+ww25.ww16.freeiphonesex.info
 ww25.freeiphonesex.info
 www.freeiphonesex.info
 freejavascriptgames.info
@@ -60837,7 +60829,6 @@ happybook.info
 happytail.info
 hardis.info
 hargaproduk.info
-ww1.harmonielehre.info
 ww11.harmonielehre.info
 ww16.harmonielehre.info
 ww25.harmonielehre.info
@@ -60995,7 +60986,6 @@ jsong.info
 junaldpascua.info
 ww38.sado.jyounangama.info
 ww1.jyounangama.info
-ww25.jyounangama.info
 ww38.jyounangama.info
 kabhebrew.info
 kajak.info
@@ -62148,13 +62138,18 @@ ww6.rutur.info
 www.rutur.info
 rxhd.info
 saalbach-hinterglemm.info
+autodiscover.saiphptc.info
+cpcalendars.saiphptc.info
 cpcontacts.saiphptc.info
 gis.saiphptc.info
 lab.saiphptc.info
 lapwifinhahocpanel.saiphptc.info
+mail.saiphptc.info
 ru.saiphptc.info
+webdisk.saiphptc.info
 ww1.saiphptc.info
 ww17.saiphptc.info
+www.saiphptc.info
 archivepdf.salemfonden.info
 dc-78f5fcb07f88.salemfonden.info
 webdisk.salemfonden.info
@@ -62247,12 +62242,10 @@ seolinkek.info
 czarter-solina.seosos.info
 ekskluzywny-prezent.seosos.info
 katalog.seosos.info
-moderowany.seosos.info
 pozycjonowanie.seosos.info
 prezentdlaniego.seosos.info
 prezentdlaniej.seosos.info
 projektowaniewnetrz.seosos.info
-wpisy.seosos.info
 ww1.seosos.info
 ww11.seosos.info
 ww16.seosos.info
@@ -62262,8 +62255,6 @@ ww3.seosos.info
 ww38.seosos.info
 seotaolao.info
 seouldl.info
-ww16.sepalo3.info
-ww25.sepalo3.info
 sere.info
 serenade.info
 sergamer.info
@@ -63237,7 +63228,6 @@ wap9.info
 waploft.info
 waptrik.info
 warface.info
-www.watchjavstream.info
 watchmovie.info
 watchpinoymovieonline.info
 wazze.info
@@ -63283,10 +63273,6 @@ worldmarketplace.info
 worldsportsmemorabilia.info
 wowchar.info
 wowsource.info
-www.cf.wtftds.info
-ww16.winx.wtftds.info
-ww16.wtftds.info
-ww38.wtftds.info
 www.wurzen.info
 wwpc.info
 wxyd.info
@@ -65290,6 +65276,7 @@ api.pirsch.io
 bunny.plausible.io
 cdn.plausible.io
 custom.plausible.io
+custom-new.plausible.io
 feedback.plausible.io
 journal.plausible.io
 kb.plausible.io
@@ -78454,13 +78441,11 @@ bs-wlb-sg.dvgtm.akadns.net
 bs-wlb-useast.dvgtm.akadns.net
 bs-wlb-uswest.dvgtm.akadns.net
 cacp-hlb.dvgtm.akadns.net
-cacp-tpsc-hlb.dvgtm.akadns.net
 frcp-hlb.dvgtm.akadns.net
 frcp-tpsc-hlb.dvgtm.akadns.net
 iqfp1.dvgtm.akadns.net
 kubsrs.dvgtm.akadns.net
 nycp-hlb.dvgtm.akadns.net
-nycp-tpsc-phlb.dvgtm.akadns.net
 rtn.dvgtm.akadns.net
 sgcp-hlb.dvgtm.akadns.net
 sgcp-tpsc-hlb.dvgtm.akadns.net
@@ -105743,6 +105728,8 @@ fragance.org
 franklincountyjail.org
 freagle.org
 free-video-cutter.org
+ww1.free6xxx.org
+ww25.free6xxx.org
 freeasiantube.org
 freebook4u.org
 freecardgamesonline.org
@@ -105978,7 +105965,8 @@ icj-cji.org
 icun.org
 idealit.org
 ideasemu.org
-idiotenapostroph.org
+mail.idiotenapostroph.org
+www.idiotenapostroph.org
 igrid.org
 ihric.org
 ihsdxb.org
@@ -107075,10 +107063,7 @@ stmarysseattle.org
 stmonicatucson.org
 stopanimalcrueltyhsc.org
 stoptextstopwrecks.org
-ww1.stpatrickvn.org
 ww17.stpatrickvn.org
-ww25.stpatrickvn.org
-ww38.stpatrickvn.org
 stream-hd.org
 streamtowatch.org
 streetworkout.org
