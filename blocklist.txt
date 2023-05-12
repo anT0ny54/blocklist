@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342656
+# Ignored duplicates: 342703
 
 chameleon.ad
 pixel.ad
@@ -5576,7 +5576,7 @@ entercom.adswizz.com
 eupublishers.adswizz.com
 deliveryengine.exchange.adswizz.com
 expresmedia.adswizz.com
-druid-test-master.extc.adswizz.com
+extc.adswizz.com
 finelco.adswizz.com
 france.adswizz.com
 fsharp.adswizz.com
@@ -18699,7 +18699,6 @@ hilariouszinc.com
 hildes-hjorne.com
 oxen.hillcountrytexas.com
 hiltoncareer.com
-ww25.himachalshadi.com
 ww7.himachalshadi.com
 hindbehind.com
 hinoder.com
@@ -52897,6 +52896,7 @@ unhooknow.suntrutst.com
 ww25.suntrutst.com
 ww38.suntrutst.com
 www.suntrutst.com
+www.sunwayputrahotel.com
 ads.suomiautomaatti.com
 supedrug.com
 super-grandsparents.com
@@ -57113,6 +57113,7 @@ xhamsterx.com
 xhemters.com
 xhqxmovies.com
 ww1.matthew-hurtado.xhumpster.com
+ww25.xhumpster.com
 ad.ximalaya.com
 adbehavior.ximalaya.com
 adbehaviorhera.ximalaya.com
@@ -57400,7 +57401,6 @@ comgo.xlviirdr.com
 creative.xlviirdr.com
 go.xlviirdr.com
 video.xlviirdr.com
-www.xn--12c8bfd6bc8hsa9l.com
 xn--22cjb6eae6gxav4ccc3zua.com
 xn--3jswe97yxxb10jty5bgfmo2d6t8b.com
 xn--4dbggoc3ai.com
@@ -59302,10 +59302,8 @@ www.abbottandcostello.info
 mail.abc1234.info
 mvideo.abc1234.info
 online.abc1234.info
-rdqcnn.abc1234.info
 root.abc1234.info
 ww1.abc1234.info
-ww16.abc1234.info
 ww17.abc1234.info
 ww25.abc1234.info
 ww38.abc1234.info
@@ -59425,16 +59423,13 @@ angren.info
 www.ani-ban.info
 anime-shinden.info
 mvideo.anime3kage.info
-ww1.anime3kage.info
 ww12.anime3kage.info
 ww16.anime3kage.info
 ww17.anime3kage.info
 ww2.anime3kage.info
 ww25.anime3kage.info
 ww3.anime3kage.info
-ww38.anime3kage.info
 ww7.anime3kage.info
-www.anime3kage.info
 annanicole.info
 ansatsu.info
 answkey.info
@@ -59469,6 +59464,8 @@ annguyenfitness.asminor.info
 mail.asminor.info
 mvideo.asminor.info
 ns.asminor.info
+ww1.asminor.info
+ww17.asminor.info
 www.asminor.info
 mail.aso-sabo.info
 mvideo.aso-sabo.info
@@ -59661,8 +59658,6 @@ mail.betafotokonkurs.info
 webdisk.betafotokonkurs.info
 ww1.betafotokonkurs.info
 ww11.betafotokonkurs.info
-ww16.betafotokonkurs.info
-ww2.betafotokonkurs.info
 ww25.betafotokonkurs.info
 ww38.betafotokonkurs.info
 www.betafotokonkurs.info
@@ -59775,8 +59770,6 @@ bizbuildermastery.info
 bled.info
 blindtech-list.info
 blockchani.info
-4jslg.blogtippek.info
-ww38.mvideo.blogtippek.info
 ww17.blogtippek.info
 www.blogtippek.info
 blogvlw.info
@@ -59799,10 +59792,20 @@ booke.info
 bookgames.info
 boostads.info
 bordj.info
+gw.borenje.info
 mail12.borenje.info
+mx10.borenje.info
+outmail.borenje.info
+relay1.borenje.info
+server1.borenje.info
 sistema.borenje.info
 tv.borenje.info
 ww1.borenje.info
+ww16.borenje.info
+ww2.borenje.info
+ww3.borenje.info
+ww38.borenje.info
+zimbra.borenje.info
 boxofficetraffic.info
 brazzers-hdx.info
 broomkpark.info
@@ -59830,12 +59833,14 @@ mailer.btbt.info
 mailgate.btbt.info
 mailgw.btbt.info
 mailrelay.btbt.info
+mailsrv.btbt.info
 ms.btbt.info
 ms1.btbt.info
 mvideo.btbt.info
 mx.btbt.info
 mx0.btbt.info
 mx02.btbt.info
+mx3.btbt.info
 mx5.btbt.info
 mx7.btbt.info
 mxs.btbt.info
@@ -59844,9 +59849,11 @@ pic.btbt.info
 pop.btbt.info
 relay1.btbt.info
 relay2.btbt.info
+server.btbt.info
 smtps.btbt.info
 ww16.btbt.info
 ww25.btbt.info
+ww38.btbt.info
 www.btbt.info
 btcerise.info
 btfly.info
@@ -59865,10 +59872,7 @@ bukittinggi.info
 bulldozer.info
 mvideo.bundesliga-livestream.info
 ww1.bundesliga-livestream.info
-ww11.bundesliga-livestream.info
-ww16.bundesliga-livestream.info
 ww2.bundesliga-livestream.info
-ww25.bundesliga-livestream.info
 www.bundesliga-livestream.info
 bungalows.info
 ww1.forum.buonchuyen.info
@@ -59964,10 +59968,9 @@ cz-vitahairmax.careblog.info
 englishlessons.careblog.info
 es-amst2.careblog.info
 es-corrector.careblog.info
-es-ems-xpower.careblog.info
 es-flawless.careblog.info
 es-flawless-al.careblog.info
-es-hairise.careblog.info
+ww16.es-hairise.careblog.info
 es-vitahair-max.careblog.info
 es-vitahairmax.careblog.info
 es-vivese.careblog.info
@@ -59981,13 +59984,13 @@ gr-vitahair-max.careblog.info
 gr-vitahairmax.careblog.info
 gr-vivese.careblog.info
 hr-hairise.careblog.info
-hu-princesshair.careblog.info
+ww25.hu-princesshair.careblog.info
 hu-vitahair.careblog.info
 it-backpack.careblog.info
 it-barba-plus.careblog.info
 it-corrector.careblog.info
 it-finishing-touch.careblog.info
-it-flawless-brows.careblog.info
+ww16.it-flawless-brows.careblog.info
 it-foltina-plus.careblog.info
 it-idealiscream.careblog.info
 it-krestina.careblog.info
@@ -59997,7 +60000,7 @@ it-magnet-lashes.careblog.info
 it-magnet-lashes-al.careblog.info
 it-vitahair.careblog.info
 it-vitahair-max.careblog.info
-kw-pico.careblog.info
+ww16.kw-pico.careblog.info
 nl-princess-hair-man.careblog.info
 pl-hairise.careblog.info
 pl-hairise-w.careblog.info
@@ -60020,11 +60023,8 @@ testo.careblog.info
 th-blisshair.careblog.info
 vn-purefoundation.careblog.info
 ww1.careblog.info
-ww16.careblog.info
-ww17.careblog.info
 ww2.careblog.info
 ww3.careblog.info
-ww38.careblog.info
 www.careblog.info
 ww25.carrots.info
 www.carrots.info
@@ -60079,7 +60079,6 @@ ww1.chrome-secure.info
 ww11.chrome-secure.info
 ww16.chrome-secure.info
 ww2.chrome-secure.info
-ww25.chrome-secure.info
 ww3.chrome-secure.info
 ww31.chrome-secure.info
 www.chrome-secure.info
@@ -60416,6 +60415,8 @@ erinburnett.info
 erocomi.info
 eroflashgames.info
 erolux.info
+ww25.erotella.info
+ww38.erotella.info
 ersag.info
 eshuvidha.info
 esperiabg.info
@@ -60450,6 +60451,9 @@ examroom.info
 commitment.eyep.info
 ol.eyep.info
 ww1.eyep.info
+ww11.eyep.info
+ww17.eyep.info
+ww38.eyep.info
 www.eyep.info
 eyesurgery.info
 ezmethod.info
@@ -60632,12 +60636,8 @@ www.freesbmblog.info
 freeserver4sharing.info
 freewebtutorials.info
 freshwallpapers.info
-authsmtp.fukadamoe.info
 dev.fukadamoe.info
-mailrelay.fukadamoe.info
-mx3.fukadamoe.info
 old.fukadamoe.info
-outmail.fukadamoe.info
 shop.fukadamoe.info
 test.fukadamoe.info
 ww1.fukadamoe.info
@@ -60645,7 +60645,6 @@ ww17.fukadamoe.info
 ww2.fukadamoe.info
 ww25.fukadamoe.info
 ww38.fukadamoe.info
-www.fukadamoe.info
 funtvshow.info
 ww1.futjakot.info
 ww17.futjakot.info
@@ -60831,9 +60830,7 @@ happytail.info
 hardis.info
 hargaproduk.info
 ww11.harmonielehre.info
-ww16.harmonielehre.info
 ww25.harmonielehre.info
-ww38.harmonielehre.info
 www.harmonielehre.info
 hastalavista.info
 dev.hayagitaran.info
@@ -60966,12 +60963,10 @@ jebar.info
 19109.jetztodernie.info
 92706.jetztodernie.info
 avoca.jetztodernie.info
-charm.jetztodernie.info
 dorn.jetztodernie.info
 lawn.jetztodernie.info
 leela.jetztodernie.info
 mail.jetztodernie.info
-marry.jetztodernie.info
 signed.jetztodernie.info
 strata.jetztodernie.info
 webdisk.jetztodernie.info
@@ -60999,9 +60994,6 @@ josieskitchen.info
 jpub.info
 jsong.info
 junaldpascua.info
-ww38.sado.jyounangama.info
-ww1.jyounangama.info
-ww38.jyounangama.info
 kabhebrew.info
 kajak.info
 kamikazi.info
@@ -61098,7 +61090,10 @@ leadinglifestyles.info
 lebensgefuehl.info
 leber-galle.info
 lech.info
-lecinquieme.info
+ww1.lecinquieme.info
+ww16.lecinquieme.info
+ww38.lecinquieme.info
+www.lecinquieme.info
 lecoindesmangas.info
 legacy4life.info
 legfrissebb.info
@@ -61491,9 +61486,7 @@ newheights.info
 news-health.info
 design.news-net.info
 next.news-net.info
-ww1.news-net.info
 ww11.news-net.info
-ww25.news-net.info
 ww38.news-net.info
 www.news-net.info
 newsdomains.info
@@ -61618,11 +61611,13 @@ po.ofcpage.info
 post.ofcpage.info
 relay.ofcpage.info
 server.ofcpage.info
+shop.ofcpage.info
 smtpauth.ofcpage.info
 smtps.ofcpage.info
 srv.ofcpage.info
 ww1.ofcpage.info
 ww11.ofcpage.info
+ww16.ofcpage.info
 ww17.ofcpage.info
 ww2.ofcpage.info
 ww25.ofcpage.info
@@ -62254,12 +62249,11 @@ seo-mix.info
 seo03.info
 seolinkek.info
 czarter-solina.seosos.info
-ekskluzywny-prezent.seosos.info
 katalog.seosos.info
 pozycjonowanie.seosos.info
 prezentdlaniego.seosos.info
-prezentdlaniej.seosos.info
-projektowaniewnetrz.seosos.info
+ww16.prezentdlaniej.seosos.info
+ww25.prezentdlaniej.seosos.info
 ww1.seosos.info
 ww11.seosos.info
 ww16.seosos.info
@@ -62304,7 +62298,6 @@ ww1.shadow93.info
 ww17.shadow93.info
 www.shadow93.info
 ww1.shandowsocks.info
-ww16.shandowsocks.info
 ww17.shandowsocks.info
 ww25.shandowsocks.info
 www.shandowsocks.info
@@ -62528,8 +62521,6 @@ ww1.taoyimg.info
 ww11.taoyimg.info
 ww16.taoyimg.info
 ww17.taoyimg.info
-ww25.taoyimg.info
-www.taoyimg.info
 ap.tap7500.info
 bo.tap7500.info
 boa.tap7500.info
@@ -62807,7 +62798,6 @@ traveller.info
 trinhcongson.info
 trustfund.info
 truyengay.info
-cpcontacts.truyentinhyeu.info
 mail.truyentinhyeu.info
 webdisk.truyentinhyeu.info
 www.truyentinhyeu.info
@@ -62967,9 +62957,6 @@ ww38.unblockproxy.info
 www.unblockproxy.info
 yts.unblockproxy.info
 uncut.info
-ww17.unebriquedanslemur.info
-ww3.unebriquedanslemur.info
-ww38.unebriquedanslemur.info
 unel.info
 universalpizza.info
 universitaet.info
@@ -67209,7 +67196,6 @@ cnet.redvideo.redventures.io
 onlinemba-com.redvideo.redventures.io
 slate.redvideo.redventures.io
 test.redvideo.redventures.io
-tvguide.redvideo.redventures.io
 video-player.redvideo.redventures.io
 zdnet.redvideo.redventures.io
 rvpr.redventures.io
@@ -78456,13 +78442,11 @@ bs-wlb-useast.dvgtm.akadns.net
 bs-wlb-uswest.dvgtm.akadns.net
 cacp-hlb.dvgtm.akadns.net
 frcp-hlb.dvgtm.akadns.net
-frcp-tpsc-hlb.dvgtm.akadns.net
 iqfp1.dvgtm.akadns.net
 kubsrs.dvgtm.akadns.net
 nycp-hlb.dvgtm.akadns.net
 rtn.dvgtm.akadns.net
 sgcp-hlb.dvgtm.akadns.net
-sgcp-tpsc-hlb.dvgtm.akadns.net
 srs.dvgtm.akadns.net
 tps-core-failover.dvgtm.akadns.net
 tps-geo.dvgtm.akadns.net
@@ -97330,12 +97314,7 @@ fwmrm.net.edgesuite.net
 sitescout-video-cdn.edgesuite.net
 tls.vungle.edgesuite.net
 wsop-poker-live-cdn-playtika.edgesuite.net
-4jslg.eeepadhacks.net
-ww1.eeepadhacks.net
-ww11.eeepadhacks.net
-ww25.eeepadhacks.net
 ww31.eeepadhacks.net
-ww38.eeepadhacks.net
 ww82.eeepadhacks.net
 in-ssl.effectivemeasure.net
 elasticad.net
@@ -105636,13 +105615,8 @@ eduteca.org
 eiceresources.org
 eisenhoweracademy.org
 eldercohousing.org
-ww17.about.elemnts.org
-ww17.blog.elemnts.org
-creative.elemnts.org
-ww1.kube.elemnts.org
 ww17.kube.elemnts.org
 ww31.kube.elemnts.org
-www.kube.elemnts.org
 elhar.org
 elpr.org
 email-verify.org
@@ -107296,7 +107270,6 @@ mail.tsabcc.org
 ww1.tsabcc.org
 ww17.tsabcc.org
 ww38.tsabcc.org
-www.tsabcc.org
 tshwane.org
 ttdonline.org
 tthome.org
