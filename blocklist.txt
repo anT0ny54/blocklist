@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342570
+# Ignored duplicates: 342592
 
 chameleon.ad
 pixel.ad
@@ -4743,7 +4743,6 @@ meijergreatlakeslimitedpartnership-mkt-prod2-cus.campaign.adobe.com
 meijergreatlakeslimitedpartnership-mkt-prod2-lb.campaign.adobe.com
 meijergreatlakeslimitedpartnership-mkt-stage2-lb.campaign.adobe.com
 mercuryinsurance-mkt-prod1.campaign.adobe.com
-merkal-mkt-prod1-1.campaign.adobe.com
 merkle-mid-prod3.campaign.adobe.com
 merkle-mid-prod3-1.campaign.adobe.com
 merklefeld-mid-prod1-t.campaign.adobe.com
@@ -18289,6 +18288,7 @@ zw.googletagmanager.com
 googletagservice.com
 www.googletagservices.com
 googletrad.com
+googlevedio.com
 googlrearth.com
 googlyoutube.com
 googm.com
@@ -21399,11 +21399,9 @@ prof.manuelnovais.com
 snap.events.mapbox.com
 maplesims.com
 api.maps-icloud.com
-iphone.maps-icloud.com
 mail.maps-icloud.com
 sync.maps-icloud.com
 webdisk.maps-icloud.com
-www.maps-icloud.com
 mapsfrontier.com
 mapsofficial.com
 mapspilot.com
@@ -37034,11 +37032,6 @@ ninjakloack.com
 ninjapd.com
 nintendo16.com
 ninthdecimal.com
-mx4.nippellady.com
-ww16.nippellady.com
-ww25.nippellady.com
-ww38.nippellady.com
-www.nippellady.com
 nirmalbangsecurities.com
 nishilandwaterpark.com
 nisko-projectsusa.com
@@ -53177,7 +53170,6 @@ swan-swan-goose.com
 bad.dns.swandvr.com
 mydvr.swandvr.com
 ww16.swandvr.com
-ww25.swandvr.com
 ww38.swandvr.com
 www.swandvr.com
 swankysquare.com
@@ -59400,12 +59392,12 @@ ww12.abbottandcostello.info
 ww7.abbottandcostello.info
 www.abbottandcostello.info
 mail.abc1234.info
-mvideo.abc1234.info
-online.abc1234.info
+ww1.dlzloee.online.abc1234.info
+ww16.dlzloee.online.abc1234.info
+ww25.dlzloee.online.abc1234.info
+ww25.uwgfeb.online.abc1234.info
 root.abc1234.info
 ww1.abc1234.info
-ww25.abc1234.info
-ww38.abc1234.info
 www.abc1234.info
 abono.info
 abportal.info
@@ -59590,9 +59582,7 @@ authgram.info
 authorise.info
 authorne.info
 autopaintrepairs.info
-ww25.autorejestratory.info
 ww3.autorejestratory.info
-ww38.autorejestratory.info
 www.autorejestratory.info
 12352.av18.info
 ww3.av18.info
@@ -59741,15 +59731,12 @@ mvideo.bet-shop.info
 watch.bet-shop.info
 webdisk.bet-shop.info
 ww1.bet-shop.info
-ww25.bet-shop.info
-ww38.bet-shop.info
 www.bet-shop.info
 autodiscover.betafotokonkurs.info
 mail.betafotokonkurs.info
 webdisk.betafotokonkurs.info
 ww11.betafotokonkurs.info
 ww25.betafotokonkurs.info
-www.ww38.betafotokonkurs.info
 www.betafotokonkurs.info
 betamax.info
 mail.bettersalud.info
@@ -59844,7 +59831,6 @@ biopros.info
 biotopia.info
 mvideo.birbalo.info
 ww1.birbalo.info
-ww25.birbalo.info
 ww31.birbalo.info
 www.birbalo.info
 mvideo.birdwindowcollisions.info
@@ -59892,8 +59878,10 @@ ww1.borenje.info
 ww16.borenje.info
 ww17.borenje.info
 ww2.borenje.info
+ww25.borenje.info
 ww3.borenje.info
 ww38.borenje.info
+www.borenje.info
 zimbra.borenje.info
 boxofficetraffic.info
 brazzers-hdx.info
@@ -60650,7 +60638,6 @@ shop.forumwarez.info
 ww25.smtp2.forumwarez.info
 smtpauth.forumwarez.info
 smtps.forumwarez.info
-ww1.forumwarez.info
 ww12.forumwarez.info
 ww16.forumwarez.info
 ww2.forumwarez.info
@@ -61034,14 +61021,10 @@ japy.info
 jayrigby.info
 jebar.info
 19109.jetztodernie.info
-92706.jetztodernie.info
-avoca.jetztodernie.info
 dorn.jetztodernie.info
-lawn.jetztodernie.info
 leela.jetztodernie.info
 mail.jetztodernie.info
 signed.jetztodernie.info
-strata.jetztodernie.info
 webdisk.jetztodernie.info
 ww1.jetztodernie.info
 ww17.jetztodernie.info
@@ -61055,7 +61038,6 @@ mta-sts.jinseikenko.info
 ww1.jinseikenko.info
 ww16.jinseikenko.info
 ww25.jinseikenko.info
-ww38.jinseikenko.info
 www.jinseikenko.info
 jinsoku.info
 jitely.info
@@ -61215,14 +61197,12 @@ lupian.info
 luvita.info
 luxfilm.info
 m4yfree.info
-bloc.mabosch.info
+ww1.bloc.mabosch.info
+ww25.bloc.mabosch.info
+ww38.bloc.mabosch.info
 cpcontacts.mabosch.info
-dc-5ee1b97bef15.mabosch.info
 webdisk.mabosch.info
 ww1.mabosch.info
-ww11.mabosch.info
-ww17.mabosch.info
-ww25.mabosch.info
 www.mabosch.info
 pub.macommune.info
 www.maedchen.info
@@ -61505,7 +61485,6 @@ www.myshortlinks.info
 mysnapchat.info
 ww16.mystighty.info
 ww25.mystighty.info
-ww7.mystighty.info
 www.mystighty.info
 myta.info
 2tty.mytours.info
@@ -61572,7 +61551,6 @@ www.newspolovb.info
 newstar-jimmy.info
 newstar-sunshine.info
 mail.nextbux.info
-ww1.nextbux.info
 ww38.nextbux.info
 neyture.info
 nicosia.info
@@ -61765,7 +61743,6 @@ ww38.phigolf.info
 www.phigolf.info
 ww16.phimconheo.info
 ww25.phimconheo.info
-ww38.phimconheo.info
 www.phimconheo.info
 phimhay.info
 photosex.info
@@ -62042,8 +62019,6 @@ puntolimpio.info
 pusat-bahasa.info
 www.putana.info
 pword.info
-ww11.python-os.info
-ww17.python-os.info
 que-significa-mi-nombre.info
 quepaso.info
 quicktime-download.info
@@ -62316,7 +62291,6 @@ semmering.info
 seo-mix.info
 seo03.info
 seolinkek.info
-katalog.seosos.info
 pozycjonowanie.seosos.info
 prezentdlaniego.seosos.info
 ww16.prezentdlaniej.seosos.info
@@ -62574,7 +62548,6 @@ www.takebin.info
 www.takipcisiteleri.info
 tamil-rockers.info
 taoy999.info
-img3.taoyimg.info
 ww11.taoyimg.info
 ap.tap7500.info
 bo.tap7500.info
@@ -62615,10 +62588,7 @@ mail2.taxreps.info
 mailin.taxreps.info
 postmaster.taxreps.info
 smtps.taxreps.info
-ww16.store.taxreps.info
-ww25.store.taxreps.info
-ww38.store.taxreps.info
-ww25.taxreps.info
+ww25.ww38.store.taxreps.info
 ww38.taxreps.info
 www.taxreps.info
 cpcalendars.taynimiro.info
@@ -62855,8 +62825,6 @@ traveller.info
 trinhcongson.info
 trustfund.info
 truyengay.info
-mail.truyentinhyeu.info
-webdisk.truyentinhyeu.info
 www.truyentinhyeu.info
 ww17.tsuki-subs.info
 www.tsuki-subs.info
@@ -63333,7 +63301,6 @@ wowchar.info
 wowsource.info
 www.wurzen.info
 wwpc.info
-wxyd.info
 xav11.info
 xeal.info
 xiaohuangren.info
@@ -65055,7 +65022,6 @@ nonprod-elkjop.instana.io
 nonprod-generaliitaly.instana.io
 nonprod-vorwerk.instana.io
 nssolutions-nssolutions.instana.io
-olive-boba0jgyca.instana.io
 orange.instana.io
 p-consorcio.instana.io
 package-repository.instana.io
@@ -65080,7 +65046,6 @@ production-macmillan.instana.io
 production-sodexobeneficioschile.instana.io
 ps-pegprod.instana.io
 qa-instana.instana.io
-qa-liquidshare.instana.io
 qa-obi.instana.io
 cw-metricstream.qainfra.instana.io
 red.instana.io
@@ -105072,7 +105037,6 @@ ww1.auopen.org
 ww16.auopen.org
 ww17.auopen.org
 ww25.auopen.org
-ww31.auopen.org
 ww38.auopen.org
 www.auopen.org
 auscharity.org
@@ -105776,6 +105740,7 @@ freagle.org
 free-video-cutter.org
 ww1.free6xxx.org
 ww25.free6xxx.org
+www.free6xxx.org
 freeasiantube.org
 freebook4u.org
 freecardgamesonline.org
@@ -107650,7 +107615,6 @@ hybrid-advancelocal.perso.aws.arc.pub
 targeting.perso.aws.arc.pub
 client.a.pxi.pub
 collector.a.pxi.pub
-csdp-kibana6.a.pxi.pub
 human-chl.a.pxi.pub
 prometheus-prd.a.pxi.pub
 redash.a.pxi.pub
