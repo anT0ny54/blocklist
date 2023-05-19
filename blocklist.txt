@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342696
+# Ignored duplicates: 342688
 
 chameleon.ad
 pixel.ad
@@ -6187,7 +6187,6 @@ aegeansir.com
 tracking.aegpresents.com
 aeoutfiters.com
 aerlingusair.com
-www.aerobuss.com
 aeropoatal.com
 aerserv.com
 smetrics.aetn.com
@@ -10494,6 +10493,7 @@ cutepopcorn.com
 cuteturkey.com
 metrics.cvshealth.com
 cwnpu.com
+ams-de1.cxense.com
 amsreports.cxense.com
 api.cxense.com
 api-gui.cxense.com
@@ -10680,7 +10680,6 @@ data8a8altrk.com
 dataconversionsjobs.com
 datadoghq.com
 www.datadoghq-browser-agent.com
-www.datametrical.com
 datapointlimited.com
 dataunlocker.com
 dataxu.com
@@ -35750,7 +35749,6 @@ gmfinancialwebes.mpeasylink.com
 goldcoasthealthplan.mpeasylink.com
 goodyearca.mpeasylink.com
 goodyearofftheroad.mpeasylink.com
-graphicsmacdermidcom.mpeasylink.com
 greylockorg.mpeasylink.com
 grotecom.mpeasylink.com
 gtweedcom.mpeasylink.com
@@ -53763,7 +53761,7 @@ timewanner.com
 metrics.timewarnercable.com
 timewarrnercable.com
 comune.timewrner.com
-ir.timewrner.com
+ww11.ir.timewrner.com
 mail01.timewrner.com
 mail02.timewrner.com
 mail4.timewrner.com
@@ -53771,21 +53769,16 @@ mail6.timewrner.com
 mail7.timewrner.com
 mailbox.timewrner.com
 ms.timewrner.com
-mx1.timewrner.com
-mx2.timewrner.com
+ww25.mx2.timewrner.com
 mx4.timewrner.com
 po.timewrner.com
-pop.timewrner.com
 posta.timewrner.com
-vmail.timewrner.com
 ww1.timewrner.com
-ww16.timewrner.com
 ww17.timewrner.com
 ww35.timewrner.com
 ww38.timewrner.com
 www.timewrner.com
 zimbra.timewrner.com
-zmail.timewrner.com
 timteles.com
 tinybar.com
 tinybeachbikini.com
@@ -59374,7 +59367,10 @@ www.4downfiles1.info
 69postix.info
 7494568.info
 7hari.info
+ww12.8591.info
 ww17.8591.info
+ww25.8591.info
+ww7.8591.info
 91girl5.info
 ww1.91gxfl.info
 ww11.91gxfl.info
@@ -59412,7 +59408,6 @@ mx.accapi.info
 ww1.accapi.info
 ww17.accapi.info
 ww38.accapi.info
-www.accapi.info
 acehonline.info
 actiegeld.info
 actu30.info
@@ -59733,8 +59728,6 @@ bestmovies.info
 bestouyagames.info
 bestxxxgals.info
 www.bestyoutubechannels.info
-ww1.bet-shop.info
-www.bet-shop.info
 betamax.info
 mail.bettersalud.info
 salud.bettersalud.info
@@ -59960,7 +59953,6 @@ buhaus.info
 bukinist.info
 bukittinggi.info
 bulldozer.info
-www.bundesliga-livestream.info
 bungalows.info
 ww1.forum.buonchuyen.info
 ww17.forum.buonchuyen.info
@@ -60046,12 +60038,6 @@ www-origin.caoliu98.info
 caoliudz.info
 caouu.info
 caratulas.info
-ww16.es-hairise.careblog.info
-es-vitahair-max.careblog.info
-ww16.it-foltina-plus.careblog.info
-ww11.it-magicnail.careblog.info
-ww11.it-magnet-lashes.careblog.info
-ro-flawless.careblog.info
 ww25.carrots.info
 www.carrots.info
 carsale.info
@@ -60529,7 +60515,6 @@ flex-tech.info
 ww1.flirtaumilf.info
 ww25.flirtaumilf.info
 ww38.flirtaumilf.info
-www.flirtaumilf.info
 flixzone.info
 footballstreamings.info
 forbest.info
@@ -60558,7 +60543,6 @@ pop.forumwarez.info
 relay.forumwarez.info
 smtpauth.forumwarez.info
 ww12.forumwarez.info
-ww25.forumwarez.info
 www1.forumwarez.info
 www2.forumwarez.info
 mx.fotomodelle.info
@@ -60611,7 +60595,6 @@ www.freesbmblog.info
 freeserver4sharing.info
 freewebtutorials.info
 freshwallpapers.info
-ww38.fukadamoe.info
 funtvshow.info
 ww1.futjakot.info
 ww17.futjakot.info
@@ -60901,7 +60884,6 @@ interwork.info
 investition.info
 ipboard.info
 iphonedata.info
-iphonemei.info
 ipishkhan.info
 iprisonbreak.info
 iptv-gratuit.info
@@ -60911,7 +60893,6 @@ irkut.info
 irwarez.info
 isea2016.info
 isong.info
-it-notes.info
 it-stuff.info
 itsdogbreeds.info
 ivory.info
@@ -60926,7 +60907,13 @@ japy.info
 jayrigby.info
 jebar.info
 jezdeckaskola.info
-jiani.info
+dedaoip.jiani.info
+ww17.work.jiani.info
+ww25.work.jiani.info
+ww38.work.jiani.info
+ww1.jiani.info
+ww3.jiani.info
+ww38.jiani.info
 jianyue.info
 jinan.info
 ww1.jinseikenko.info
@@ -60996,6 +60983,7 @@ krisallendaily.info
 www.kristijan.info
 kritika.info
 kroatien.info
+www.krzewy.info
 kumang45d.info
 kumis.info
 kurdishdrama.info
@@ -61059,7 +61047,6 @@ linksrush.info
 linuxscada.info
 lisandru.info
 listbuilderads.info
-postmaster.livedooor.info
 livepage.info
 liveryfinder.info
 livesoccerpt.info
@@ -61126,7 +61113,6 @@ massagebykathy.info
 masscryp.info
 masterfilmesonlinegratis.info
 matureanal.info
-www.maxikuhinja.info
 maxmaillots.info
 mayrhofen.info
 mbfans.info
@@ -61416,7 +61402,6 @@ www.newbeginning.info
 newdoujinx.info
 newheights.info
 news-health.info
-next.news-net.info
 newsdomains.info
 www.newserial.info
 newsjoin.info
@@ -61576,19 +61561,8 @@ www.paleohub.info
 passports.info
 blackeyedsusan.passthetime.info
 bluebonnet.passthetime.info
-correo.passthetime.info
 magnolia.passthetime.info
-mail1.passthetime.info
-mail9.passthetime.info
-mx.passthetime.info
-mx1.passthetime.info
-ns.passthetime.info
-relay1.passthetime.info
-relay2.passthetime.info
-rhododendron.passthetime.info
 segolily.passthetime.info
-smtpauth.passthetime.info
-vmail.passthetime.info
 ww1.passthetime.info
 ww16.passthetime.info
 ww17.passthetime.info
@@ -61610,7 +61584,6 @@ ww25.pfshop.info
 www.pfshop.info
 phanri.info
 phaze.info
-ww17.phigolf.info
 www.phigolf.info
 phimhay.info
 photosex.info
@@ -62309,9 +62282,7 @@ streamingvf.info
 stroims.info
 stroyclub.info
 studnet.info
-ww1.submy.info
 ww17.submy.info
-ww2.submy.info
 subsidios.info
 subtitlepedia.info
 suertetrabajos.info
@@ -62389,7 +62360,6 @@ www.takebin.info
 www.takipcisiteleri.info
 tamil-rockers.info
 taoy999.info
-ww11.taoyimg.info
 ap.tap7500.info
 bo.tap7500.info
 boa.tap7500.info
@@ -98415,6 +98385,8 @@ wolterskluwer.gscontxt.net
 gudefrage.net
 gundam-eclipse.net
 gutrfrage.net
+ww17.gymnopedie-juridique.net
+www.gymnopedie-juridique.net
 h4ckerx.net
 hacsktore.net
 halloweenghostcostumes.net
@@ -98442,7 +98414,6 @@ homeschoolingbenefits.net
 hoota.net
 houken.net
 mail.hozim.net
-www.hozim.net
 hubspot-test-subdomain.hs-analytics.net
 js.hs-analytics.net
 js-eu1.hs-analytics.net
@@ -102259,7 +102230,6 @@ cortex.cortex-stage-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.cortex-stage-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.general-prod-a.us-east-2.aws.k8s.sendgrid.net
 blackbox.general-prod-a.us-east-2.aws.k8s.sendgrid.net
-cortex.general-prod-a.us-east-2.aws.k8s.sendgrid.net
 sq.mp.general-prod-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.general-prod-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.general-stage-a.us-east-2.aws.k8s.sendgrid.net
@@ -102351,8 +102321,6 @@ metaldata.general-prod-a.fra1.k8s.sendgrid.net
 prometheus.general-prod-a.fra1.k8s.sendgrid.net
 servernameapi.general-prod-a.fra1.k8s.sendgrid.net
 statsapi-ing.general-prod-a.fra1.k8s.sendgrid.net
-statsapi-p1fra1.general-prod-a.fra1.k8s.sendgrid.net
-statsapi-p1fra1-ing.general-prod-a.fra1.k8s.sendgrid.net
 alertmanager.mgmt-prod-a.fra1.k8s.sendgrid.net
 am-aggregator.mgmt-prod-a.fra1.k8s.sendgrid.net
 blackbox-exporter.mgmt-prod-a.fra1.k8s.sendgrid.net
@@ -104890,6 +104858,8 @@ vip.amishheaters.org
 vnet.amishheaters.org
 vps.amishheaters.org
 web.amishheaters.org
+ww25.amishheaters.org
+ww38.amishheaters.org
 www.amishheaters.org
 zimbra.amishheaters.org
 zmail.amishheaters.org
@@ -104948,8 +104918,6 @@ atlantichealthcare.org
 audi-quattro.org
 audiobookbay.org
 audioheuristics.org
-ww1.auopen.org
-ww16.auopen.org
 auscharity.org
 authentiseal.org
 auversup.org
@@ -105883,8 +105851,7 @@ icj-cji.org
 icun.org
 idealit.org
 ideasemu.org
-mail.idiotenapostroph.org
-www.idiotenapostroph.org
+idiotenapostroph.org
 igrid.org
 ihric.org
 ihsdxb.org
@@ -106231,6 +106198,8 @@ mymun.org
 mynabcep.org
 myncees.org
 myosites.org
+ww25.mypanchang.org
+www.mypanchang.org
 mypmi.org
 myshopify.org
 mytaxforms.org
@@ -107196,7 +107165,6 @@ true-colors.org
 trueachievements.org
 trustonline.org
 trustx.org
-ww1.tsabcc.org
 tshwane.org
 ttdonline.org
 tthome.org
