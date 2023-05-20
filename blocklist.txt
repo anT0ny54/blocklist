@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342688
+# Ignored duplicates: 342704
 
 chameleon.ad
 pixel.ad
@@ -21432,8 +21432,6 @@ mantisadnetwork.com
 prof.manuelnovais.com
 snap.events.mapbox.com
 maplesims.com
-mail.maps-icloud.com
-sync.maps-icloud.com
 webdisk.maps-icloud.com
 mapsfrontier.com
 mapsofficial.com
@@ -37168,7 +37166,6 @@ offerforge.com
 offermatica.com
 offerreality.com
 offerspace.com
-affiliate.offgamers.com
 officialdonnasimpson.com
 officialgregorygorgeous.com
 oficcemax.com
@@ -51688,7 +51685,6 @@ snoobi.com
 snpsresidential.com
 snuggaustraliauggboots.com
 so.com
-ads.socapro.com
 abematv.socdm.com
 adfuri.socdm.com
 adgen.socdm.com
@@ -53202,7 +53198,6 @@ trc-latency.svtrd.com
 swallosingsluts.com
 swan-swan-goose.com
 test.bad.dns.swandvr.com
-www.swandvr.com
 swankysquare.com
 swansonviatmins.com
 sweetbaypharmacy.com
@@ -53760,9 +53755,7 @@ tiads.time.com
 timewanner.com
 metrics.timewarnercable.com
 timewarrnercable.com
-comune.timewrner.com
 ww11.ir.timewrner.com
-mail01.timewrner.com
 mail02.timewrner.com
 mail4.timewrner.com
 mail6.timewrner.com
@@ -53776,7 +53769,6 @@ posta.timewrner.com
 ww1.timewrner.com
 ww17.timewrner.com
 ww35.timewrner.com
-ww38.timewrner.com
 www.timewrner.com
 zimbra.timewrner.com
 timteles.com
@@ -56564,7 +56556,6 @@ ww1.wwwaveeno.com
 www.wwwaveeno.com
 wwwbeen.com
 wwwbigfish.com
-www.wwwblazecc.com
 wwwcevalogistics.com
 wwwcharlotteobserver.com
 wwwclubefashion.com
@@ -59371,6 +59362,7 @@ ww12.8591.info
 ww17.8591.info
 ww25.8591.info
 ww7.8591.info
+z1030.8591.info
 91girl5.info
 ww1.91gxfl.info
 ww11.91gxfl.info
@@ -59390,7 +59382,6 @@ www.a-game-of-thrones.info
 a3esseker.info
 mvideo.aaaaaz.info
 ww1.aaaaaz.info
-ww16.aaaaaz.info
 ww17.aaaaaz.info
 ww25.aaaaaz.info
 ww3.aaaaaz.info
@@ -59518,6 +59509,8 @@ anime-shinden.info
 ww16.mvideo.anime3kage.info
 ww2.anime3kage.info
 ww3.anime3kage.info
+ww38.anime3kage.info
+www.anime3kage.info
 annanicole.info
 ansatsu.info
 answkey.info
@@ -59574,6 +59567,7 @@ croquis.atate.info
 ir.atate.info
 ww11.atate.info
 ww38.atate.info
+www.atate.info
 atbt.info
 aumentatusingresos.info
 pop.ausadsl.info
@@ -60479,6 +60473,7 @@ fappu.info
 farace.info
 dev.fasan.info
 staging.fasan.info
+ww25.fasan.info
 www.fasan.info
 fatorfiction.info
 fazu.info
@@ -60531,20 +60526,7 @@ ww38.formadv.info
 www.formadv.info
 www.formenterazen.info
 forthewomen.info
-auth.forumwarez.info
-authsmtp.forumwarez.info
-imap2.forumwarez.info
-mailgate.forumwarez.info
-mailout.forumwarez.info
-mailx.forumwarez.info
-mx2.forumwarez.info
-ns2.forumwarez.info
-pop.forumwarez.info
-relay.forumwarez.info
-smtpauth.forumwarez.info
 ww12.forumwarez.info
-www1.forumwarez.info
-www2.forumwarez.info
 mx.fotomodelle.info
 ww25.fotomodelle.info
 www.fotomodelle.info
@@ -60702,6 +60684,7 @@ greekviral.info
 green-beauty.info
 greenfleet.info
 greenschool.info
+ww1.groc.info
 groednertal.info
 groenehartmedia.info
 grossglockner.info
@@ -60907,10 +60890,6 @@ japy.info
 jayrigby.info
 jebar.info
 jezdeckaskola.info
-dedaoip.jiani.info
-ww17.work.jiani.info
-ww25.work.jiani.info
-ww38.work.jiani.info
 ww1.jiani.info
 ww3.jiani.info
 ww38.jiani.info
@@ -61671,9 +61650,7 @@ server.portailwebecoles.info
 server1.portailwebecoles.info
 smtpauth.portailwebecoles.info
 ww11.portailwebecoles.info
-ww16.portailwebecoles.info
 ww17.portailwebecoles.info
-ww25.portailwebecoles.info
 ww38.portailwebecoles.info
 www.portailwebecoles.info
 www1.portailwebecoles.info
@@ -62661,9 +62638,7 @@ ads.twojatv.info
 twzoa.info
 txjails.info
 cpcontacts.typolemag.info
-mail.typolemag.info
 webdisk.typolemag.info
-ww1.typolemag.info
 u-jin.info
 ukairshows.info
 ukanbook.info
@@ -98386,6 +98361,7 @@ gudefrage.net
 gundam-eclipse.net
 gutrfrage.net
 ww17.gymnopedie-juridique.net
+ww38.gymnopedie-juridique.net
 www.gymnopedie-juridique.net
 h4ckerx.net
 hacsktore.net
@@ -98413,7 +98389,6 @@ holohotel.net
 homeschoolingbenefits.net
 hoota.net
 houken.net
-mail.hozim.net
 hubspot-test-subdomain.hs-analytics.net
 js.hs-analytics.net
 js-eu1.hs-analytics.net
@@ -98871,7 +98846,6 @@ mkt61.net
 mkt81.net
 a.mktw.net
 mobil4ik.net
-mobperads.net
 mobuna.net
 models24seven.net
 monbell.net
@@ -99717,7 +99691,6 @@ ratds.net
 stats.rdphv.net
 readserver.net
 realvu.net
-ns-pc41g20bm.redirectconnection.net
 bmrg.reflected.net
 glassmoni.researchgate.net
 responsys.net
@@ -106018,7 +105991,9 @@ littlelibrary.org
 liveforextrading.org
 livervox.org
 lmba.org
-lndproxy.org
+ww1.eres.lndproxy.org
+ww17.eres.lndproxy.org
+www.lndproxy.org
 logview.org
 londonmint.org
 mx.loop-us.org
@@ -107174,10 +107149,12 @@ tulsalibary.org
 turkomania.org
 turnik.org
 tuscl.org
+cpcalendars.tutorialesphotoshop.org
 mail.tutorialesphotoshop.org
 ns.tutorialesphotoshop.org
 ns1.tutorialesphotoshop.org
 ns2.tutorialesphotoshop.org
+webdisk.tutorialesphotoshop.org
 ww1.tutorialesphotoshop.org
 ww25.tutorialesphotoshop.org
 ww38.tutorialesphotoshop.org
