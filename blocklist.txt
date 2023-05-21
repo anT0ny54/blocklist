@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342704
+# Ignored duplicates: 342712
 
 chameleon.ad
 pixel.ad
@@ -15410,8 +15410,6 @@ dustywave.com
 dutchesscommunitycollege.com
 email.dvd520.com
 mailserver.dvd520.com
-mx1.dvd520.com
-ww1.dvd520.com
 www.dvd520.com
 dvsfta.com
 dvtps.com
@@ -42183,6 +42181,9 @@ e2.panerabread.com
 panickycurtain.com
 panickypancake.com
 panjabinew.com
+ww1.panoora.com
+ww17.panoora.com
+ww25.panoora.com
 panoramicplane.com
 panterabtc.com
 clicktale.pantherssl.com
@@ -42339,6 +42340,7 @@ phoenixuniversity.com
 pholongden.com
 metrics.phonegap.com
 ads.phonepe.com
+ww38.phonerntica.com
 www.phonerntica.com
 phonesdo.com
 photobunner.com
@@ -54147,9 +54149,7 @@ ads-segment-profile-noneu.truecaller.com
 ads5-noneu.truecaller.com
 tagging5-noneu.truecaller.com
 trueleadid.com
-adfdsaf.ow.truesteamachievements.com
-fsvqpmkr.ow.truesteamachievements.com
-hgtbatiy.ow.truesteamachievements.com
+www.adfdsaf.ow.truesteamachievements.com
 ctv.truex.com
 engage.truex.com
 get.truex.com
@@ -59361,8 +59361,13 @@ www.4downfiles1.info
 ww12.8591.info
 ww17.8591.info
 ww25.8591.info
+ww3.8591.info
 ww7.8591.info
+z1006.8591.info
+ww25.z1025.8591.info
 z1030.8591.info
+ww25.z1038.8591.info
+ww25.z1039.8591.info
 91girl5.info
 ww1.91gxfl.info
 ww11.91gxfl.info
@@ -59396,9 +59401,6 @@ www.abbottandcostello.info
 abono.info
 abportal.info
 mx.accapi.info
-ww1.accapi.info
-ww17.accapi.info
-ww38.accapi.info
 acehonline.info
 actiegeld.info
 actu30.info
@@ -59507,9 +59509,14 @@ angren.info
 www.ani-ban.info
 anime-shinden.info
 ww16.mvideo.anime3kage.info
+ww1.anime3kage.info
+ww12.anime3kage.info
+ww17.anime3kage.info
 ww2.anime3kage.info
+ww25.anime3kage.info
 ww3.anime3kage.info
 ww38.anime3kage.info
+ww7.anime3kage.info
 www.anime3kage.info
 annanicole.info
 ansatsu.info
@@ -59536,6 +59543,7 @@ arabtravail.info
 aroundthe-world.info
 artecrochet.info
 arterienverkalkung.info
+ww17.arteycultura.info
 mail.articleabc.info
 www.articleabc.info
 arunachalfront.info
@@ -59814,6 +59822,8 @@ bioprodukte.info
 biopros.info
 biotopia.info
 ww1.birbalo.info
+ww17.birbalo.info
+ww25.ww25.birbalo.info
 ww31.birbalo.info
 www.birbalo.info
 mvideo.birdwindowcollisions.info
@@ -60228,7 +60238,10 @@ sitemap.desiaunties.info
 sitemaps.desiaunties.info
 ww1.desiaunties.info
 ww11.desiaunties.info
+ww16.desiaunties.info
 ww17.desiaunties.info
+ww25.desiaunties.info
+ww38.desiaunties.info
 www.desiaunties.info
 desimms.info
 developmentideas.info
@@ -60526,7 +60539,6 @@ ww38.formadv.info
 www.formadv.info
 www.formenterazen.info
 forthewomen.info
-ww12.forumwarez.info
 mx.fotomodelle.info
 ww25.fotomodelle.info
 www.fotomodelle.info
@@ -60673,7 +60685,7 @@ ww1.goodpeople.info
 ww17.goodpeople.info
 ww2.goodpeople.info
 www.goodpeople.info
-goodpublications.info
+ww1.goodpublications.info
 goodrxline.info
 goodtrk.info
 goonlinepoker.info
@@ -60890,9 +60902,6 @@ japy.info
 jayrigby.info
 jebar.info
 jezdeckaskola.info
-ww1.jiani.info
-ww3.jiani.info
-ww38.jiani.info
 jianyue.info
 jinan.info
 ww1.jinseikenko.info
@@ -60962,6 +60971,7 @@ krisallendaily.info
 www.kristijan.info
 kritika.info
 kroatien.info
+ww2.krzewy.info
 www.krzewy.info
 kumang45d.info
 kumis.info
@@ -61187,8 +61197,6 @@ motordealer.info
 mouth-is-the-sun.info
 move2012.info
 ww1.movie24k.info
-ww11.movie24k.info
-ww2.movie24k.info
 ww25.movie24k.info
 www.movie24k.info
 sitemaps.movieeater.info
@@ -61330,8 +61338,6 @@ ww62.myshortlinks.info
 ww82.myshortlinks.info
 www.myshortlinks.info
 mysnapchat.info
-ww16.mystighty.info
-ww25.mystighty.info
 myta.info
 2tty.mytours.info
 hfgfgf.mytours.info
@@ -61340,7 +61346,6 @@ mail2.mytours.info
 mvideo.mytours.info
 oilkjm.mytours.info
 qa.mytours.info
-ww1.mytours.info
 ww17.mytours.info
 ww38.mytours.info
 www.mytours.info
@@ -61538,15 +61543,10 @@ paginapeliculasonline.info
 www.pajarorojo.info
 www.paleohub.info
 passports.info
-blackeyedsusan.passthetime.info
 bluebonnet.passthetime.info
-magnolia.passthetime.info
-segolily.passthetime.info
+ww17.magnolia.passthetime.info
 ww1.passthetime.info
-ww16.passthetime.info
-ww17.passthetime.info
 ww25.passthetime.info
-ww38.passthetime.info
 www.passthetime.info
 pawno.info
 paznaun.info
@@ -61635,23 +61635,14 @@ www.pornstock.info
 porshe.info
 portablesoft.info
 auth.portailwebecoles.info
-email.portailwebecoles.info
-gateway.portailwebecoles.info
 imap2.portailwebecoles.info
 mailer.portailwebecoles.info
 mailx.portailwebecoles.info
 mx2.portailwebecoles.info
-outmail.portailwebecoles.info
 poczta.portailwebecoles.info
 pop.portailwebecoles.info
 postmaster.portailwebecoles.info
 secure.portailwebecoles.info
-server.portailwebecoles.info
-server1.portailwebecoles.info
-smtpauth.portailwebecoles.info
-ww11.portailwebecoles.info
-ww17.portailwebecoles.info
-ww38.portailwebecoles.info
 www.portailwebecoles.info
 www1.portailwebecoles.info
 www2.portailwebecoles.info
@@ -62259,7 +62250,6 @@ streamingvf.info
 stroims.info
 stroyclub.info
 studnet.info
-ww17.submy.info
 subsidios.info
 subtitlepedia.info
 suertetrabajos.info
@@ -62590,11 +62580,7 @@ torrentgamesps2.info
 torrentsave.info
 dc-02e4c031db74.tospitaki.info
 magento.tospitaki.info
-shop.tospitaki.info
-ww11.tospitaki.info
-ww17.tospitaki.info
 ww2.tospitaki.info
-ww25.tospitaki.info
 ww3.tospitaki.info
 ww38.tospitaki.info
 ww4.tospitaki.info
@@ -62637,7 +62623,6 @@ www.twentyone.info
 ads.twojatv.info
 twzoa.info
 txjails.info
-cpcontacts.typolemag.info
 webdisk.typolemag.info
 u-jin.info
 ukairshows.info
@@ -62762,6 +62747,7 @@ mail.unebriquedanslemur.info
 webdisk.unebriquedanslemur.info
 ww1.unebriquedanslemur.info
 ww16.unebriquedanslemur.info
+www.unebriquedanslemur.info
 unel.info
 universalpizza.info
 universitaet.info
@@ -70768,6 +70754,11 @@ tracdelight.io
 tribl.io
 trugaze.io
 tubi.io
+addelivery-engine-api.voodoo-ads.io
+front-logs.voodoo-ads.io
+thanos.infra.voodoo-ads.io
+krancher.voodoo-ads.io
+trackers.voodoo-analytics.io
 api-gdpr.voodoo-tech.io
 crosspromo.voodoo.io
 webgains.io
@@ -104831,6 +104822,8 @@ vip.amishheaters.org
 vnet.amishheaters.org
 vps.amishheaters.org
 web.amishheaters.org
+ww1.amishheaters.org
+ww17.amishheaters.org
 ww25.amishheaters.org
 ww38.amishheaters.org
 www.amishheaters.org
@@ -105063,8 +105056,6 @@ celebritysurgery.org
 celubiblia.org
 celularespiao.org
 cencus.org
-ww1.centralparc.org
-ww17.centralparc.org
 centrebodhicitta.org
 centroseducativosaragon.org
 ceprovi.org
@@ -105991,9 +105982,6 @@ littlelibrary.org
 liveforextrading.org
 livervox.org
 lmba.org
-ww1.eres.lndproxy.org
-ww17.eres.lndproxy.org
-www.lndproxy.org
 logview.org
 londonmint.org
 mx.loop-us.org
@@ -106155,7 +106143,7 @@ www.muhs.org
 mundonatural.org
 musicalibre.org
 ads.muslimehelfen.org
-www.mutharaiyar.org
+mutharaiyar.org
 my-stream.org
 myacbl.org
 ads.myadv.org
