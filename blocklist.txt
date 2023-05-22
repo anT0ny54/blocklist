@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342712
+# Ignored duplicates: 342756
 
 chameleon.ad
 pixel.ad
@@ -8143,6 +8143,7 @@ bheyafry.com
 bhringer.com
 biberukalap.com
 ww1.bibng.com
+ww11.bibng.com
 www.bibng.com
 bidberrymedia.com
 bidclix.com
@@ -15410,7 +15411,6 @@ dustywave.com
 dutchesscommunitycollege.com
 email.dvd520.com
 mailserver.dvd520.com
-www.dvd520.com
 dvsfta.com
 dvtps.com
 commons.dw.com
@@ -15639,7 +15639,6 @@ earth-dancing.com
 earthquakescarf.com
 earthycopy.com
 eastwindstravel.com
-www.eastxoutdoors.com
 ads.easy-forex.com
 matomo.easydns.com
 easyhet.com
@@ -19989,7 +19988,6 @@ digital-cloud-uk-doc.kampyle.com
 digital-cloud-us-doc.kampyle.com
 digital-cloud-us-prem-doc.kampyle.com
 digital-cloud-west-doc.kampyle.com
-digital-qa-screen-capture-api.kampyle.com
 digital-staging.kampyle.com
 discover.kampyle.com
 docs-au.kampyle.com
@@ -21430,7 +21428,6 @@ mantisadnetwork.com
 prof.manuelnovais.com
 snap.events.mapbox.com
 maplesims.com
-webdisk.maps-icloud.com
 mapsfrontier.com
 mapsofficial.com
 mapspilot.com
@@ -23669,6 +23666,7 @@ mkto-lon020055.com
 mkto-lon020292.com
 mkto-lon030316.com
 mkto-p0016.com
+mkto-q0111.com
 mkto-sj020094.com
 mkto-sj060082.com
 mkto-sj070017.com
@@ -36523,6 +36521,7 @@ neodatagroup.com
 nerohut.com
 nervoussummer.com
 nesquic-club.com
+nestlelogistics.com
 net-filter.com
 netaffiliation.com
 engine.espace.netavenir.com
@@ -42182,8 +42181,10 @@ panickycurtain.com
 panickypancake.com
 panjabinew.com
 ww1.panoora.com
+ww11.panoora.com
 ww17.panoora.com
 ww25.panoora.com
+www.panoora.com
 panoramicplane.com
 panterabtc.com
 clicktale.pantherssl.com
@@ -53758,21 +53759,7 @@ timewanner.com
 metrics.timewarnercable.com
 timewarrnercable.com
 ww11.ir.timewrner.com
-mail02.timewrner.com
-mail4.timewrner.com
-mail6.timewrner.com
-mail7.timewrner.com
-mailbox.timewrner.com
-ms.timewrner.com
 ww25.mx2.timewrner.com
-mx4.timewrner.com
-po.timewrner.com
-posta.timewrner.com
-ww1.timewrner.com
-ww17.timewrner.com
-ww35.timewrner.com
-www.timewrner.com
-zimbra.timewrner.com
 timteles.com
 tinybar.com
 tinybeachbikini.com
@@ -59363,11 +59350,33 @@ ww17.8591.info
 ww25.8591.info
 ww3.8591.info
 ww7.8591.info
+z1004.8591.info
 z1006.8591.info
-ww25.z1025.8591.info
+z1007.8591.info
+z1021.8591.info
+z1022.8591.info
+z1024.8591.info
+z1025.8591.info
+z1026.8591.info
+z1027.8591.info
+z1028.8591.info
+z1029.8591.info
 z1030.8591.info
-ww25.z1038.8591.info
-ww25.z1039.8591.info
+z1031.8591.info
+z1032.8591.info
+z1033.8591.info
+z1034.8591.info
+z1035.8591.info
+z1036.8591.info
+z1037.8591.info
+z1038.8591.info
+z1039.8591.info
+z1040.8591.info
+z1041.8591.info
+z1042.8591.info
+z1043.8591.info
+z1044.8591.info
+z1045.8591.info
 91girl5.info
 ww1.91gxfl.info
 ww11.91gxfl.info
@@ -59400,7 +59409,6 @@ ww7.abbottandcostello.info
 www.abbottandcostello.info
 abono.info
 abportal.info
-mx.accapi.info
 acehonline.info
 actiegeld.info
 actu30.info
@@ -59508,7 +59516,7 @@ angebote.info
 angren.info
 www.ani-ban.info
 anime-shinden.info
-ww16.mvideo.anime3kage.info
+mvideo.anime3kage.info
 ww1.anime3kage.info
 ww12.anime3kage.info
 ww17.anime3kage.info
@@ -60401,8 +60409,6 @@ el-youm.info
 www.eldolarparalelo.info
 electromenager.info
 eltt.info
-mail.elweva.info
-www.elweva.info
 www.emoticone-gratuit.info
 www.emruz.info
 emulegion.info
@@ -60685,7 +60691,6 @@ ww1.goodpeople.info
 ww17.goodpeople.info
 ww2.goodpeople.info
 www.goodpeople.info
-ww1.goodpublications.info
 goodrxline.info
 goodtrk.info
 goonlinepoker.info
@@ -60897,6 +60902,7 @@ izayoinet.info
 izvestia.info
 jadwal-sholat.info
 jailbreakunlock.info
+jamb.info
 janasevanakendram.info
 japy.info
 jayrigby.info
@@ -60904,9 +60910,7 @@ jebar.info
 jezdeckaskola.info
 jianyue.info
 jinan.info
-ww1.jinseikenko.info
-ww16.jinseikenko.info
-www.jinseikenko.info
+jinseikenko.info
 jinsoku.info
 jitely.info
 jnu.info
@@ -60921,6 +60925,7 @@ joker7777.info
 josieskitchen.info
 jpub.info
 jsong.info
+jumpon.info
 junaldpascua.info
 kabhebrew.info
 kajak.info
@@ -60953,6 +60958,7 @@ kisetu.info
 kitesurfen.info
 kitudacbiet.info
 kitzsteinhorn.info
+kizi.info
 kleinanzeigen.info
 kleio.info
 klussenbedrijven.info
@@ -60971,8 +60977,7 @@ krisallendaily.info
 www.kristijan.info
 kritika.info
 kroatien.info
-ww2.krzewy.info
-www.krzewy.info
+krzewy.info
 kumang45d.info
 kumis.info
 kurdishdrama.info
@@ -61061,6 +61066,7 @@ m4yfree.info
 ww1.bloc.mabosch.info
 ww25.bloc.mabosch.info
 ww38.bloc.mabosch.info
+cpcalendars.mabosch.info
 cpcontacts.mabosch.info
 webdisk.mabosch.info
 ww1.mabosch.info
@@ -61197,7 +61203,6 @@ motordealer.info
 mouth-is-the-sun.info
 move2012.info
 ww1.movie24k.info
-ww25.movie24k.info
 www.movie24k.info
 sitemaps.movieeater.info
 ww1.movieeater.info
@@ -61223,6 +61228,8 @@ ww17.mp3-4-all.info
 ww3.mp3-4-all.info
 ww38.mp3-4-all.info
 www.mp3-4-all.info
+ww17.mp3-pesni.info
+ww38.mp3-pesni.info
 mp3sertanejo.info
 mrxman.info
 mt04.info
@@ -61255,7 +61262,6 @@ email.mydogecoin.info
 gate.mydogecoin.info
 gw.mydogecoin.info
 hermes.mydogecoin.info
-home.mydogecoin.info
 imap2.mydogecoin.info
 internet.mydogecoin.info
 m.mydogecoin.info
@@ -61278,17 +61284,14 @@ mailgw.mydogecoin.info
 mailin.mydogecoin.info
 mailserver.mydogecoin.info
 mailx.mydogecoin.info
-mbox.mydogecoin.info
 ms.mydogecoin.info
 ms1.mydogecoin.info
 mx.mydogecoin.info
-mx01.mydogecoin.info
 mx02.mydogecoin.info
 mx1.mydogecoin.info
 mx10.mydogecoin.info
 mx2.mydogecoin.info
 mx20.mydogecoin.info
-mx3.mydogecoin.info
 mx4.mydogecoin.info
 mxs.mydogecoin.info
 ns.mydogecoin.info
@@ -61307,7 +61310,6 @@ smtpauth.mydogecoin.info
 tw.mydogecoin.info
 vip.mydogecoin.info
 vmail.mydogecoin.info
-ww2.mydogecoin.info
 ww38.mydogecoin.info
 www.mydogecoin.info
 www1.mydogecoin.info
@@ -61363,7 +61365,6 @@ natureshop.info
 navzdy.info
 whm.nbareplay.info
 ww1.nbareplay.info
-ww17.nbareplay.info
 ww2.nbareplay.info
 www.nbareplay.info
 neko299.info
@@ -61393,7 +61394,6 @@ ww1.newspolovb.info
 ww11.newspolovb.info
 ww17.newspolovb.info
 ww2.newspolovb.info
-ww38.newspolovb.info
 www.newspolovb.info
 newstar-jimmy.info
 newstar-sunshine.info
@@ -61563,7 +61563,6 @@ ww25.pfshop.info
 www.pfshop.info
 phanri.info
 phaze.info
-www.phigolf.info
 phimhay.info
 photosex.info
 phpprotect.info
@@ -61634,18 +61633,6 @@ ww17.pornstock.info
 www.pornstock.info
 porshe.info
 portablesoft.info
-auth.portailwebecoles.info
-imap2.portailwebecoles.info
-mailer.portailwebecoles.info
-mailx.portailwebecoles.info
-mx2.portailwebecoles.info
-poczta.portailwebecoles.info
-pop.portailwebecoles.info
-postmaster.portailwebecoles.info
-secure.portailwebecoles.info
-www.portailwebecoles.info
-www1.portailwebecoles.info
-www2.portailwebecoles.info
 postcode-zoeken.info
 potenzstoerungen.info
 pozivitno.info
@@ -62210,6 +62197,7 @@ ww25.sourcevapes.info
 ww38.sourcevapes.info
 www.sourcevapes.info
 speedwest.info
+speedzone.info
 spiruline-bio.info
 www.spojnia.info
 spongebobgame.info
@@ -62238,8 +62226,6 @@ stilla.info
 ww1.stiri-de-urgenta.info
 ww16.stiri-de-urgenta.info
 ww25.stiri-de-urgenta.info
-ww38.stiri-de-urgenta.info
-www.stiri-de-urgenta.info
 stmm.info
 stockmarket.info
 stoommachine.info
@@ -62565,6 +62551,7 @@ ww25.toonkor.info
 top-web-design.info
 top55.info
 topers.info
+toplum.info
 topquizz.info
 toram.info
 torentgames.info
@@ -62579,11 +62566,7 @@ www.torjacken.info
 torrentgamesps2.info
 torrentsave.info
 dc-02e4c031db74.tospitaki.info
-magento.tospitaki.info
-ww2.tospitaki.info
 ww3.tospitaki.info
-ww38.tospitaki.info
-ww4.tospitaki.info
 totoarena.info
 touring24.info
 touringaustralia.info
@@ -70809,6 +70792,15 @@ funbox-rprd-113-optional-events.yellowblue.io
 funbox-rprd-121-log-undefined.yellowblue.io
 funbox-rprd-122-prebid-session-id-fix.yellowblue.io
 funbox-rprd-125-report-missing-fields.yellowblue.io
+funbox-rprd-134-pre-roll-fix.yellowblue.io
+funbox-rprd-142-remove-player-dispose.yellowblue.io
+funbox-rprd-152-mkrt-adapter-fix.yellowblue.io
+funbox-rprd-163-auction-category.yellowblue.io
+funbox-rprd-167-tags-subid.yellowblue.io
+funbox-rprd-175-iphone-bug.yellowblue.io
+funbox-rprd-176-new-schedulers.yellowblue.io
+funbox-rprd-177.yellowblue.io
+funbox-rprd-177-testsuite.yellowblue.io
 funbox-rprd-2.yellowblue.io
 funbox-rprd-52-tagsauction.yellowblue.io
 funbox-rprd-52-tagsauction-adjusttoresponse.yellowblue.io
@@ -104290,9 +104282,6 @@ tprod.visto1.net
 vivads.net
 w55c.net
 wach-movies.net
-ww11.walkingdeadseason3.net
-ww38.walkingdeadseason3.net
-www.walkingdeadseason3.net
 walmartgiftcard.net
 wapatv.net
 wapkink.net
