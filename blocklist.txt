@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342756
+# Ignored duplicates: 342899
 
 chameleon.ad
 pixel.ad
@@ -18662,7 +18662,6 @@ hellobar.com
 hellospy.com
 helmbanck.com
 helpcollar.com
-helpinghandshomeimprovement.com
 henrysheinrxsamples.com
 hentaicounter.com
 herbalaffiliateprogram.com
@@ -18748,7 +18747,6 @@ hittail.com
 hkboardgcme.com
 hlserve.com
 hmasolicitors.com
-hmn-tech.com
 hmstats.com
 comune.hobbylandinc.com
 cs.hobbylandinc.com
@@ -36565,11 +36563,6 @@ neverbounce.com
 adv.neverbuy.com
 new-programmatic.com
 smetrics.newbalance.com
-ww1.neweditionofficial.com
-ww17.neweditionofficial.com
-ww25.neweditionofficial.com
-ww38.neweditionofficial.com
-www.neweditionofficial.com
 neweggstats.com
 newestflashupdate.com
 newestflashupdates.com
@@ -42225,6 +42218,7 @@ li.patheos.com
 pathful.com
 paybybitcoin.com
 paycounter.com
+www.paypal-assist.com
 b.stats.paypal.com
 blf.stats.paypal.com
 chd.stats.paypal.com
@@ -42341,6 +42335,7 @@ phoenixuniversity.com
 pholongden.com
 metrics.phonegap.com
 ads.phonepe.com
+ww16.phonerntica.com
 ww38.phonerntica.com
 www.phonerntica.com
 phonesdo.com
@@ -49857,6 +49852,7 @@ rugscleaningservice.com
 ruhaho.com
 rumahdanisa.com
 runads.com
+ww25.runescsape.com
 www.runescsape.com
 runnigmap.com
 runslin.com
@@ -51862,6 +51858,7 @@ benefits.sovendus.com
 sovrn.com
 ttauri.space.com
 spaceleadster.com
+spacexbonus.com
 spadelocket.com
 spammerparadise.com
 spammeuntilibleed.com
@@ -53200,7 +53197,6 @@ t.svtrd.com
 trc-latency.svtrd.com
 swallosingsluts.com
 swan-swan-goose.com
-test.bad.dns.swandvr.com
 swankysquare.com
 swansonviatmins.com
 sweetbaypharmacy.com
@@ -53710,6 +53706,7 @@ thoughmudder.com
 sponsors.thoughtsmedia.com
 cdn.threadloom.com
 threechurch.com
+threedgames.com
 d.thriftbooks.com
 affiliates.thrixxx.com
 throattrees.com
@@ -53759,7 +53756,6 @@ timewanner.com
 metrics.timewarnercable.com
 timewarrnercable.com
 ww11.ir.timewrner.com
-ww25.mx2.timewrner.com
 timteles.com
 tinybar.com
 tinybeachbikini.com
@@ -59215,7 +59211,6 @@ publisher-assets.spot.im
 recirculation.spot.im
 recirculation-cf.spot.im
 s.spot.im
-seo.spot.im
 spotops.spot.im
 static-cdn.spot.im
 traffic.spot.im
@@ -59350,9 +59345,13 @@ ww17.8591.info
 ww25.8591.info
 ww3.8591.info
 ww7.8591.info
+www.8591.info
 z1004.8591.info
 z1006.8591.info
 z1007.8591.info
+z1012.8591.info
+z1016.8591.info
+z1020.8591.info
 z1021.8591.info
 z1022.8591.info
 z1024.8591.info
@@ -59500,7 +59499,6 @@ amine.info
 amiro.info
 amsterdamsightseeing.info
 anarsi.info
-ww1.anash.info
 ww11.anash.info
 ww12.anash.info
 ww16.anash.info
@@ -59551,7 +59549,7 @@ arabtravail.info
 aroundthe-world.info
 artecrochet.info
 arterienverkalkung.info
-ww17.arteycultura.info
+arteycultura.info
 mail.articleabc.info
 www.articleabc.info
 arunachalfront.info
@@ -60701,7 +60699,7 @@ greekviral.info
 green-beauty.info
 greenfleet.info
 greenschool.info
-ww1.groc.info
+groc.info
 groednertal.info
 groenehartmedia.info
 grossglockner.info
@@ -60986,7 +60984,6 @@ kvest.info
 l3g.info
 ladyzhyn.info
 lafamiglia.info
-lagupedia.info
 dewiq.laloo.info
 duvef.laloo.info
 fador.laloo.info
@@ -61202,7 +61199,6 @@ www.mosrenta.info
 motordealer.info
 mouth-is-the-sun.info
 move2012.info
-ww1.movie24k.info
 www.movie24k.info
 sitemaps.movieeater.info
 ww1.movieeater.info
@@ -61228,8 +61224,11 @@ ww17.mp3-4-all.info
 ww3.mp3-4-all.info
 ww38.mp3-4-all.info
 www.mp3-4-all.info
+mail.mp3-pesni.info
+ww1.mp3-pesni.info
 ww17.mp3-pesni.info
 ww38.mp3-pesni.info
+www.mp3-pesni.info
 mp3sertanejo.info
 mrxman.info
 mt04.info
@@ -61245,6 +61244,7 @@ music-bg.info
 musicalmente.info
 musicalove.info
 musicfestivals.info
+musiclive.info
 musicschool.info
 musicsun.info
 musikz.info
@@ -61348,7 +61348,6 @@ mail2.mytours.info
 mvideo.mytours.info
 oilkjm.mytours.info
 qa.mytours.info
-ww17.mytours.info
 ww38.mytours.info
 www.mytours.info
 naasongss.info
@@ -61651,6 +61650,7 @@ procurements.info
 projectmanagement.info
 projectoval.info
 promma.info
+promolab.info
 pronostic-turf.info
 pronosticodeltiempo.info
 1300.proxysmart.info
@@ -62103,7 +62103,7 @@ www.sexitunes.info
 yesnojki.sexitunes.info
 yizptw.sexitunes.info
 sexmy.info
-ww38.sexplain.info
+sexplain.info
 sexr.info
 sexreise.info
 murmmisjylpn.shadow93.info
@@ -62230,8 +62230,6 @@ stmm.info
 stockmarket.info
 stoommachine.info
 stopillegals.info
-ww25.storysex.info
-www.storysex.info
 streamingvf.info
 stroims.info
 stroyclub.info
@@ -62352,7 +62350,9 @@ mail2.taxreps.info
 mailin.taxreps.info
 postmaster.taxreps.info
 smtps.taxreps.info
-ww25.ww38.store.taxreps.info
+ww16.store.taxreps.info
+ww25.store.taxreps.info
+ww38.store.taxreps.info
 ww38.taxreps.info
 www.taxreps.info
 cpcalendars.taynimiro.info
@@ -62565,8 +62565,6 @@ ww38.torjacken.info
 www.torjacken.info
 torrentgamesps2.info
 torrentsave.info
-dc-02e4c031db74.tospitaki.info
-ww3.tospitaki.info
 totoarena.info
 touring24.info
 touringaustralia.info
@@ -62606,7 +62604,6 @@ www.twentyone.info
 ads.twojatv.info
 twzoa.info
 txjails.info
-webdisk.typolemag.info
 u-jin.info
 ukairshows.info
 ukanbook.info
@@ -70742,6 +70739,7 @@ front-logs.voodoo-ads.io
 thanos.infra.voodoo-ads.io
 krancher.voodoo-ads.io
 trackers.voodoo-analytics.io
+www.voodoo-analytics.io
 api-gdpr.voodoo-tech.io
 crosspromo.voodoo.io
 webgains.io
@@ -71055,6 +71053,7 @@ s12.hostcontent.live
 s13.hostcontent.live
 www.hostcontent.live
 www.verifier.live
+xrpdouble.live
 as.cfcdist.loan
 ads.5ci.lt
 cdn.bnc.lt
@@ -105888,7 +105887,6 @@ stats.kde.org
 ketchapp.org
 keyportschools.org
 khanquahemadia.org
-khmernews.org
 kidcosmos.org
 kimcartoon.org
 nsw.kinoclub.org
@@ -106320,6 +106318,7 @@ petio.org
 petrodollar.org
 pgcode.org
 philafoundation.org
+philla.org
 phimgay.org
 phimhdonline.org
 phoenixcenterbhs.org
@@ -111471,6 +111470,7 @@ subscription.adjust.world
 subscriptiondex.adjust.world
 view.adjust.world
 www.adjust.world
+elonevent.world
 spacex.world
 thebugs.ws
 adcolony.xyz
