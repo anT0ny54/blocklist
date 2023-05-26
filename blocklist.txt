@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342953
+# Ignored duplicates: 343000
 
 chameleon.ad
 pixel.ad
@@ -2411,7 +2411,6 @@ xp9nv.a1villasmallorca.com
 directory.profile.alpha.aapn.advertising.a2z.com
 directory.profile.beta.aapn.advertising.a2z.com
 directory.profile.gamma.aapn.advertising.a2z.com
-dev.akatsukc.portal.aapn.advertising.a2z.com
 partner.alpha.portal.aapn.advertising.a2z.com
 partner.beta.portal.aapn.advertising.a2z.com
 partner.gamma.portal.aapn.advertising.a2z.com
@@ -10468,7 +10467,6 @@ customcarparts.com
 customnink.com
 customsbannersfast.com
 email.custora.com
-go.custora.com
 links.custora.com
 mail.custora.com
 mail-p1.custora.com
@@ -18854,7 +18852,7 @@ hotteenasia.com
 hottnewhiphop.com
 hourlynewsupdates.com
 house-of-h.com
-ww16.mvideo.housecamz.com
+mvideo.housecamz.com
 ww16.housecamz.com
 ww17.housecamz.com
 www.housecamz.com
@@ -19395,7 +19393,6 @@ inskinad.com
 inskinmedia.com
 insomnia-treat.com
 inspectlet.com
-inspirationalwordsofwisdom.com
 di.insplanet.com
 instabug.com
 instafollow.com
@@ -21114,7 +21111,8 @@ yourdomain.loggly.com
 zenword.loggly.com
 zonshavax235.loggly.com
 xtracker.logimeter.com
-logmeinsrescue.com
+secure.logmeinsrescue.com
+www.logmeinsrescue.com
 logopont.com
 logottv.com
 agora.logrocket.com
@@ -46071,6 +46069,7 @@ track.realtimeboard.com
 li.realtor.com
 smetrics.realtor.com
 reauthenticator.com
+rebelhen.com
 rebelmouse.com
 rebelsubway.com
 receptiveink.com
@@ -49843,6 +49842,7 @@ rugscleaningservice.com
 ruhaho.com
 rumahdanisa.com
 runads.com
+ww1.runescsape.com
 ww25.runescsape.com
 www.runescsape.com
 runnigmap.com
@@ -55262,7 +55262,6 @@ rce-dev.veeseo.com
 run.veeseo.com
 ssp-rce.veeseo.com
 us.veeseo.com
-utterson.veeseo.com
 vseocore.veeseo.com
 weltderwunder-videokatalog.veeseo.com
 www.veeseo.com
@@ -55704,7 +55703,6 @@ hb-ab.vntsm.com
 hb-backup.vntsm.com
 hb-config.vntsm.com
 hb-test2.vntsm.com
-littlestpetshop.vntsm.com
 mraid.vntsm.com
 mraidcdn.vntsm.com
 video.vntsm.com
@@ -58236,11 +58234,6 @@ www.zillowmap.com
 zineone.com
 zinimaya.com
 revive.zinion.com
-ns.zizzhut.com
-ns1.zizzhut.com
-ww1.zizzhut.com
-ww16.zizzhut.com
-ww38.zizzhut.com
 www.zizzhut.com
 ww25.zkkkladno.com
 zm232.com
@@ -59517,11 +59510,9 @@ amine.info
 amiro.info
 amsterdamsightseeing.info
 anarsi.info
-ww12.anash.info
 ww17.anash.info
 ww25.anash.info
 ww38.anash.info
-ww7.anash.info
 www.anash.info
 andreas-hofer.info
 androidfilmy.info
@@ -60086,8 +60077,6 @@ cctv-camera.info
 cd-player.info
 cediss.info
 ww1.celiaimrie.info
-ww17.celiaimrie.info
-ww38.celiaimrie.info
 www.celiaimrie.info
 sitemap.cellchurch.info
 ww1.cellchurch.info
@@ -60493,7 +60482,6 @@ ezmethod.info
 cpcalendars.faiznet.info
 cpcontacts.faiznet.info
 mail.faiznet.info
-webdisk.faiznet.info
 ww1.faiznet.info
 ww11.faiznet.info
 ww17.faiznet.info
@@ -61239,7 +61227,6 @@ ww1.mp3-4-all.info
 ww17.mp3-4-all.info
 ww3.mp3-4-all.info
 ww38.mp3-4-all.info
-www.mp3-4-all.info
 mail.mp3-pesni.info
 ww1.mp3-pesni.info
 ww17.mp3-pesni.info
@@ -61295,12 +61282,6 @@ ww82.myshortlinks.info
 www.myshortlinks.info
 mysnapchat.info
 myta.info
-2tty.mytours.info
-hfgfgf.mytours.info
-img.mytours.info
-mail2.mytours.info
-oilkjm.mytours.info
-qa.mytours.info
 www.mytours.info
 naasongss.info
 nabimuhammad.info
@@ -61314,9 +61295,7 @@ narmedlek.info
 nassau.info
 natureshop.info
 navzdy.info
-whm.nbareplay.info
 ww1.nbareplay.info
-ww2.nbareplay.info
 www.nbareplay.info
 neko299.info
 neptoons.info
@@ -61804,9 +61783,6 @@ recepti-i-ideje.info
 reciclaje.info
 autodiscover.reconstruct-rep-of-mold.info
 contest.reconstruct-rep-of-mold.info
-expert-news-r24.reconstruct-rep-of-mold.info
-mail.reconstruct-rep-of-mold.info
-test.reconstruct-rep-of-mold.info
 red-rose.info
 redhotrealty.info
 redup.info
@@ -62203,7 +62179,6 @@ szerzyny.info
 ta365.info
 tagasite.info
 takeaway.info
-www.takebin.info
 www.takipcisiteleri.info
 tamil-rockers.info
 taoy999.info
@@ -62819,11 +62794,8 @@ videoking.info
 videoprivate.info
 vidk.info
 vinhomescity-tranduyhung.info
-ww25.archiwum.virtualbus.info
-ww38.archiwum.virtualbus.info
 ww25.english.virtualbus.info
 ww38.english.virtualbus.info
-ww1.forum.virtualbus.info
 ww38.wiki.virtualbus.info
 www.virtualbus.info
 az.visapornotv.info
@@ -70628,11 +70600,13 @@ tubi.io
 addelivery-engine-api.voodoo-ads.io
 campaign-assets.voodoo-ads.io
 data-collector.voodoo-ads.io
+engine.voodoo-ads.io
 front-logs.voodoo-ads.io
 linkerd-kube-ads-recommendation.infra.voodoo-ads.io
 prom-kube-monitoring.infra.voodoo-ads.io
 prometheus-kube-monitoring.infra.voodoo-ads.io
 thanos.infra.voodoo-ads.io
+kmonitoring.voodoo-ads.io
 krancher.voodoo-ads.io
 splash-screen.voodoo-ads.io
 splash-screen-data.voodoo-ads.io
@@ -104878,8 +104852,6 @@ btcwin.org
 buenfin.org
 bugmenot.org
 buildashed.org
-ww1.buildengineers.org
-www.buildengineers.org
 bulldogplanet.org
 bulmaca.org
 calcaostcu.org
@@ -105406,6 +105378,7 @@ www.familoysearch.org
 familusearch.org
 familybudget.org
 familycourtservices.org
+dev.familyhistoryresearch.org
 magento.familyhistoryresearch.org
 mail.familyhistoryresearch.org
 old.familyhistoryresearch.org
@@ -105413,6 +105386,7 @@ test.familyhistoryresearch.org
 ww1.familyhistoryresearch.org
 ww17.familyhistoryresearch.org
 ww25.familyhistoryresearch.org
+www.familyhistoryresearch.org
 familyrearch.org
 familyresourcemanagement.org
 familysearrch.org
@@ -105880,7 +105854,6 @@ m1carbine.org
 mactorrent.org
 madhyavitaran.org
 magnoliafarms.org
-ww1.mailwarebytes.org
 makemeagenius.org
 maktabkhoone.org
 maktoob.org
