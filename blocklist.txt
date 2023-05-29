@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343006
+# Ignored duplicates: 343003
 
 chameleon.ad
 pixel.ad
@@ -21107,8 +21107,6 @@ yourdomain.loggly.com
 zenword.loggly.com
 zonshavax235.loggly.com
 xtracker.logimeter.com
-secure.logmeinsrescue.com
-www.logmeinsrescue.com
 logopont.com
 logottv.com
 agora.logrocket.com
@@ -41820,7 +41818,7 @@ orkzada.com
 orlivedot.com
 ortecadscience.com
 api.osano.com
-cmp.osano.com
+locale.cmp.osano.com
 s.osano.com
 pixel.oshkosh.com
 oshxhofaf.com
@@ -42297,8 +42295,6 @@ perucasestoril.com
 pestcontrolprofessionalscenter.com
 pestgeorgesclub.com
 petametrics.com
-ww25.peteranswesrs.com
-www.peteranswesrs.com
 petiteteeanger.com
 petiteumbrella.com
 petreos.com
@@ -46197,7 +46193,6 @@ pixel.reddit.com
 events.redditmedia.com
 antispam.reddmn.com
 auth.reddmn.com
-authsmtp.reddmn.com
 barracuda.reddmn.com
 box.reddmn.com
 comune.reddmn.com
@@ -46210,7 +46205,6 @@ home.reddmn.com
 host.reddmn.com
 links.reddmn.com
 m.reddmn.com
-mail.reddmn.com
 mail01.reddmn.com
 mail02.reddmn.com
 mail1.reddmn.com
@@ -55253,7 +55247,6 @@ run.veeseo.com
 us.veeseo.com
 vseocore.veeseo.com
 weltderwunder-videokatalog.veeseo.com
-www.veeseo.com
 wwww.veeseo.com
 vehicle-data.com
 veille-referencement.com
@@ -59466,9 +59459,6 @@ amine.info
 amiro.info
 amsterdamsightseeing.info
 anarsi.info
-ww17.anash.info
-ww25.anash.info
-ww38.anash.info
 www.anash.info
 andreas-hofer.info
 androidfilmy.info
@@ -60172,7 +60162,6 @@ ww38.datsfree.info
 www.datsfree.info
 davphantom.info
 dcis.info
-ww17.dds35.info
 www.dds35.info
 de-mi-nis-ner.info
 0www.de-ner-mi-nis4.info
@@ -60438,7 +60427,6 @@ eyesurgery.info
 ezmethod.info
 cpcontacts.faiznet.info
 mail.faiznet.info
-ww1.faiznet.info
 ww11.faiznet.info
 ww17.faiznet.info
 ww38.faiznet.info
@@ -60984,14 +60972,11 @@ auth.lecoindesmangas.info
 authsmtp.lecoindesmangas.info
 barracuda.lecoindesmangas.info
 box.lecoindesmangas.info
-com.lecoindesmangas.info
 comune.lecoindesmangas.info
 correo.lecoindesmangas.info
 postmaster.cpanel.lecoindesmangas.info
 direct.lecoindesmangas.info
-gate.lecoindesmangas.info
 gateway.lecoindesmangas.info
-hermes.lecoindesmangas.info
 home.lecoindesmangas.info
 internet.lecoindesmangas.info
 ipe.lecoindesmangas.info
@@ -61002,7 +60987,6 @@ mail02.lecoindesmangas.info
 mail10.lecoindesmangas.info
 mail12.lecoindesmangas.info
 mail2.lecoindesmangas.info
-mail3.lecoindesmangas.info
 mail4.lecoindesmangas.info
 mail6.lecoindesmangas.info
 mail7.lecoindesmangas.info
@@ -61024,23 +61008,18 @@ mta.lecoindesmangas.info
 mta1.lecoindesmangas.info
 mvideo.lecoindesmangas.info
 mx.lecoindesmangas.info
-mx01.lecoindesmangas.info
 mx02.lecoindesmangas.info
-mx1.lecoindesmangas.info
 mx10.lecoindesmangas.info
 mx2.lecoindesmangas.info
 mx3.lecoindesmangas.info
 mx4.lecoindesmangas.info
 mx5.lecoindesmangas.info
-mxs.lecoindesmangas.info
 ns.lecoindesmangas.info
-ns1.lecoindesmangas.info
 ns2.lecoindesmangas.info
 out.lecoindesmangas.info
 outmail.lecoindesmangas.info
 pbrand.lecoindesmangas.info
 po.lecoindesmangas.info
-pop.lecoindesmangas.info
 post.lecoindesmangas.info
 posta.lecoindesmangas.info
 postmaster.lecoindesmangas.info
@@ -61049,29 +61028,21 @@ root.lecoindesmangas.info
 seed.lecoindesmangas.info
 server.lecoindesmangas.info
 server1.lecoindesmangas.info
-server2.lecoindesmangas.info
 smtp01.lecoindesmangas.info
-smtpauth.lecoindesmangas.info
 smtpseguro.lecoindesmangas.info
 sniper.lecoindesmangas.info
-srv.lecoindesmangas.info
 ssl.lecoindesmangas.info
 thor.lecoindesmangas.info
-tiger.lecoindesmangas.info
 vip.lecoindesmangas.info
-vps.lecoindesmangas.info
 webdisk.lecoindesmangas.info
 postmaster.webmail.lecoindesmangas.info
-ww1.lecoindesmangas.info
 ww11.lecoindesmangas.info
 ww16.lecoindesmangas.info
 ww2.lecoindesmangas.info
 ww25.lecoindesmangas.info
 ww31.lecoindesmangas.info
 www.lecoindesmangas.info
-www2.lecoindesmangas.info
 zimbra.lecoindesmangas.info
-zmail.lecoindesmangas.info
 legfrissebb.info
 legislatives.info
 leiji7.info
@@ -61270,8 +61241,6 @@ ns2.mp3-4-all.info
 pjensi.mp3-4-all.info
 watch.mp3-4-all.info
 wordpress.mp3-4-all.info
-ww1.mp3-4-all.info
-ww3.mp3-4-all.info
 ww38.mp3-4-all.info
 mail.mp3-pesni.info
 ww1.mp3-pesni.info
@@ -61341,7 +61310,6 @@ narmedlek.info
 nassau.info
 natureshop.info
 navzdy.info
-www.nbareplay.info
 neko299.info
 neptoons.info
 0www.ner-de-mi-nis-6.info
@@ -61821,7 +61789,6 @@ receptcity.info
 recepti-i-ideje.info
 reciclaje.info
 autodiscover.reconstruct-rep-of-mold.info
-contest.reconstruct-rep-of-mold.info
 red-rose.info
 redhotrealty.info
 redup.info
@@ -61968,28 +61935,16 @@ cqyichakae.seiryuu.info
 dedeai.seiryuu.info
 dtxpdthan.seiryuu.info
 ehimebgen.seiryuu.info
-ehimeomi.seiryuu.info
-ehimesaimu.seiryuu.info
 erobbs.seiryuu.info
-fpddbdeai.seiryuu.info
-hzltdeai.seiryuu.info
-jkadult.seiryuu.info
-keksdnif.seiryuu.info
 kkausgen.seiryuu.info
-mail.seiryuu.info
-moneycash.seiryuu.info
+ww17.moneycash.seiryuu.info
+ww38.moneycash.seiryuu.info
 moyiy-sefrenvjp.seiryuu.info
 rdhnp.seiryuu.info
 serve.seiryuu.info
-trlppadult.seiryuu.info
-ucyeoo.seiryuu.info
 wcscsttkgy.seiryuu.info
-webdisk.seiryuu.info
-woqswsexfo.seiryuu.info
 ww1.seiryuu.info
 ww17.seiryuu.info
-ww38.seiryuu.info
-www.seiryuu.info
 seisenkai.info
 semmering.info
 seo-mix.info
@@ -62143,7 +62098,6 @@ www.stato.info
 steroide.info
 stilla.info
 ww1.stiri-de-urgenta.info
-ww16.stiri-de-urgenta.info
 ww25.stiri-de-urgenta.info
 stmm.info
 stockmarket.info
@@ -62514,6 +62468,7 @@ www.twentyone.info
 ads.twojatv.info
 twzoa.info
 txjails.info
+mail.typolemag.info
 www.typolemag.info
 u-jin.info
 ukairshows.info
@@ -104943,7 +104898,6 @@ celador.org
 ww1.celeb-style.org
 ww17.celeb-style.org
 ww25.celeb-style.org
-ww31.celeb-style.org
 ww38.celeb-style.org
 celebritiesnetworth.org
 celebritysurgery.org
@@ -105217,7 +105171,6 @@ digitalbazaar.org
 digitalminimalism.org
 dirtyvideos.org
 disasterflorida.org
-ww1.discovercreditcards.org
 distanceannauniv.org
 divineprovince.org
 diyarbakirescortbayan.org
@@ -107020,6 +106973,7 @@ trueachievements.org
 trustonline.org
 trustx.org
 mail.tsabcc.org
+www.tsabcc.org
 tshwane.org
 ttdonline.org
 tthome.org
