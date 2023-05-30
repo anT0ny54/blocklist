@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343003
+# Ignored duplicates: 343137
 
 chameleon.ad
 pixel.ad
@@ -7198,6 +7198,9 @@ appboy.com
 appboycdn.com
 appcues.com
 appdynamics.com
+mail.appenue.com
+webdisk.appenue.com
+www.appenue.com
 appier.com
 appixcdn.com
 webproxy.advp.apple.com
@@ -15364,9 +15367,6 @@ dtprofit.com
 dtsince.com
 dtw-zelte.com
 dtxngr.com
-cdn.dtzads.com
-crm.dtzads.com
-web.dtzads.com
 common.duapps.com
 da.duapps.com
 dc.duapps.com
@@ -15393,6 +15393,8 @@ durajobs.com
 dustyhammer.com
 dustywave.com
 dutchesscommunitycollege.com
+mx1.dvd520.com
+ww1.dvd520.com
 dvsfta.com
 dvtps.com
 commons.dw.com
@@ -17759,7 +17761,6 @@ glossysense.com
 centech.glulive.com
 revtech.glulive.com
 glupen.studio.glulive.com
-gm-advertising.com
 gmail-signup.com
 gmailaa.com
 gmailf.com
@@ -21763,6 +21764,7 @@ app-ab58.marketo.com
 app-ab59.marketo.com
 app-ab60.marketo.com
 app-ab61.marketo.com
+app-ab62.marketo.com
 app-aba.marketo.com
 app-abb.marketo.com
 app-abc.marketo.com
@@ -22096,6 +22098,7 @@ na-ab58.marketo.com
 na-ab59.marketo.com
 na-ab60.marketo.com
 na-ab61.marketo.com
+na-ab62.marketo.com
 na-aba.marketo.com
 na-abb.marketo.com
 na-abc.marketo.com
@@ -52221,6 +52224,7 @@ spongebobsquarepans.com
 offer.sponsorpay.com
 spookysleet.com
 2126230.sportacents.com
+www.sportacents.com
 sportboobs.com
 sportkeeda.com
 sportovnivozy.com
@@ -55231,23 +55235,8 @@ vcommission.com
 vcrictime.com
 vcyud.com
 veeplay.com
-advertising.veeseo.com
-cp-image.veeseo.com
-cp-tracking.veeseo.com
-frontpage.veeseo.com
-handelsblatt-videokatalog.veeseo.com
-hyde.veeseo.com
 jekyll.veeseo.com
-msn-videokatalog.veeseo.com
-piwik.veeseo.com
-prosiebensat1-videokatalog.veeseo.com
-rce.veeseo.com
-rce-dev.veeseo.com
 run.veeseo.com
-us.veeseo.com
-vseocore.veeseo.com
-weltderwunder-videokatalog.veeseo.com
-wwww.veeseo.com
 vehicle-data.com
 veille-referencement.com
 veinteractive.com
@@ -57480,7 +57469,7 @@ xn--yckyb.com
 xnx2.com
 xnxxgame.com
 xnxxhub.com
-xnxxxporno.com
+www.xnxxxporno.com
 xnxxxxxx.com
 xovq5nemr.com
 xpnxx.com
@@ -58718,7 +58707,6 @@ telemetric.dk
 userneeds.dk
 banner10.zetasystem.dk
 alpha.me2.do
-www.jquery-cdn.download
 bnrs.ilm.ee
 gml.email
 ad4mat.es
@@ -59459,7 +59447,6 @@ amine.info
 amiro.info
 amsterdamsightseeing.info
 anarsi.info
-www.anash.info
 andreas-hofer.info
 androidfilmy.info
 androidioshacks.info
@@ -60172,7 +60159,6 @@ ww17.de-ner-mi-nis4.info
 ww25.de-ner-mi-nis4.info
 ww38.de-ner-mi-nis4.info
 ww7.de-ner-mi-nis4.info
-www.de-ner-mi-nis4.info
 de-online.info
 deadfamous.info
 declaration-dsn.info
@@ -60425,11 +60411,6 @@ ww38.eyep.info
 www.eyep.info
 eyesurgery.info
 ezmethod.info
-cpcontacts.faiznet.info
-mail.faiznet.info
-ww11.faiznet.info
-ww17.faiznet.info
-ww38.faiznet.info
 www.faiznet.info
 fajos.info
 fakeer.info
@@ -60655,6 +60636,8 @@ gsidorov.info
 gstyle.info
 gta5apkdownload.info
 gtcpoci.info
+ww11.gtravel.info
+ww38.gtravel.info
 guardatv.info
 guesthouse.info
 guineenews.info
@@ -61228,20 +61211,12 @@ ww17.movieeater.info
 www.movieeater.info
 moviescounters.info
 movietool.info
-byfgbxdfvs.mp3-4-all.info
 files.mp3-4-all.info
 gbdfvzd.mp3-4-all.info
-hffdhdg.mp3-4-all.info
-m.mp3-4-all.info
 media2.mp3-4-all.info
-mydevice.mp3-4-all.info
-myyule.mp3-4-all.info
 ns1.mp3-4-all.info
 ns2.mp3-4-all.info
-pjensi.mp3-4-all.info
-watch.mp3-4-all.info
 wordpress.mp3-4-all.info
-ww38.mp3-4-all.info
 mail.mp3-pesni.info
 ww1.mp3-pesni.info
 ww17.mp3-pesni.info
@@ -61297,6 +61272,7 @@ ww82.myshortlinks.info
 www.myshortlinks.info
 mysnapchat.info
 myta.info
+ww1.mytours.info
 www.mytours.info
 naasongss.info
 nabimuhammad.info
@@ -61321,7 +61297,6 @@ ww2.ner-de-mi-nis-6.info
 ww25.ner-de-mi-nis-6.info
 ww38.ner-de-mi-nis-6.info
 ww84.ner-de-mi-nis-6.info
-www.ner-de-mi-nis-6.info
 www42.ner-de-mi-nis-6.info
 nervositaet.info
 new-build.info
@@ -61982,7 +61957,7 @@ sexplain.info
 sexr.info
 sexreise.info
 murmmisjylpn.shadow93.info
-openbve.shadow93.info
+ww17.openbve.shadow93.info
 utms.shadow93.info
 ww17.shadow93.info
 www.shadow93.info
@@ -62097,8 +62072,6 @@ ww38.stato.info
 www.stato.info
 steroide.info
 stilla.info
-ww1.stiri-de-urgenta.info
-ww25.stiri-de-urgenta.info
 stmm.info
 stockmarket.info
 stoommachine.info
@@ -102073,7 +102046,6 @@ prometheus.aai-prod-a.us-west-2.aws.k8s.sendgrid.net
 ace-uvs-api.ace.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
 alertmanager.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
 blackbox.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
-blackbox-exporter.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
 prometheus.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
 alertmanager.autobots-prod-a.us-west-2.aws.k8s.sendgrid.net
 blackbox.autobots-prod-a.us-west-2.aws.k8s.sendgrid.net
@@ -106059,7 +106031,6 @@ nonamepizza.org
 noradsant.org
 norcalfiretraining.org
 noticias-cambridgeesol.org
-www.notmining.org
 notpad-plus-plus.org
 novalighting.org
 novosti-mk.org
@@ -106223,14 +106194,11 @@ primarysourcelearning.org
 primejailbait.org
 prismarc.org
 privacy-center.org
-akam.probestfilm.org
 cdn.probestfilm.org
 video.probestfilm.org
 ww1.probestfilm.org
 ww11.probestfilm.org
-ww17.probestfilm.org
 ww38.probestfilm.org
-www.probestfilm.org
 procorn.org
 progepe.org
 projectgazelle.org
@@ -106751,7 +106719,6 @@ stbernadettescatholicchurch.org
 ww11.stevenavery.org
 ww17.stevenavery.org
 ww35.stevenavery.org
-ww4.stevenavery.org
 www.stevenavery.org
 stfrancisbaby.org
 stjohnsbible.org
@@ -111353,7 +111320,7 @@ quatrefeuillepolonaise.xyz
 www.remove-ads.xyz
 sbird.xyz
 server-status.xyz
-www.statsmag.xyz
+statsmag.xyz
 trk.us-learn-teacher-poetry.xyz
 cdn.vip-hd-movies.xyz
 wpnrtnmrewunrtok.xyz
