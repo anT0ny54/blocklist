@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343169
+# Ignored duplicates: 343174
 
 chameleon.ad
 pixel.ad
@@ -2299,7 +2299,6 @@ adx.4strokemedia.com
 ads.4tube.com
 4zared.com
 4jslg.5000coins.com
-www.5000coins.com
 50websads.com
 59fifty.com
 5legeat.com
@@ -9632,6 +9631,7 @@ cloisteredhydrant.com
 closedcows.com
 closertothedirt.com
 cdnjs.cloudflane.com
+www.cloudflane.com
 metrics.cloudflarebolt.com
 cloudflareinsights.com
 mediavine-res.cloudinary.com
@@ -11019,8 +11019,6 @@ deutschecd.com
 deutztractor.com
 dev-nano.com
 developerapple.com
-ns1.developerchrome.com
-ns2.developerchrome.com
 block-test.developerdan.com
 block-test-ads-tracking.developerdan.com
 otto-images.developershed.com
@@ -15396,6 +15394,7 @@ durajobs.com
 dustyhammer.com
 dustywave.com
 dutchesscommunitycollege.com
+email.dvd520.com
 mx1.dvd520.com
 ww1.dvd520.com
 www.dvd520.com
@@ -18369,9 +18368,6 @@ griffball.com
 grignot-nat.com
 ads.grindinggears.com
 gringoadventure.com
-direct.grockster.com
-mta1.grockster.com
-ww25.grockster.com
 groovieshark.com
 groovinads.com
 www.groproext.com
@@ -54658,6 +54654,7 @@ ads11.unoadsrv.com
 ads110.unoadsrv.com
 ads111.unoadsrv.com
 ads112.unoadsrv.com
+ads113.unoadsrv.com
 ads115.unoadsrv.com
 ads116.unoadsrv.com
 ads117.unoadsrv.com
@@ -54706,6 +54703,7 @@ ads2.unoadsrv.com
 ads20.unoadsrv.com
 ads201.unoadsrv.com
 ads202.unoadsrv.com
+ads203.unoadsrv.com
 ads205.unoadsrv.com
 ads206.unoadsrv.com
 ads210.unoadsrv.com
@@ -55241,7 +55239,6 @@ vcrictime.com
 vcyud.com
 veeplay.com
 jekyll.veeseo.com
-run.veeseo.com
 vehicle-data.com
 veille-referencement.com
 veinteractive.com
@@ -58711,6 +58708,7 @@ telemetric.dk
 userneeds.dk
 banner10.zetasystem.dk
 alpha.me2.do
+www.jquery-cdn.download
 bnrs.ilm.ee
 gml.email
 ad4mat.es
@@ -60419,7 +60417,6 @@ ww38.eyep.info
 www.eyep.info
 eyesurgery.info
 ezmethod.info
-www.faiznet.info
 fajos.info
 fakeer.info
 familiengarten.info
@@ -60965,7 +60962,6 @@ barracuda.lecoindesmangas.info
 box.lecoindesmangas.info
 comune.lecoindesmangas.info
 correo.lecoindesmangas.info
-postmaster.cpanel.lecoindesmangas.info
 direct.lecoindesmangas.info
 gateway.lecoindesmangas.info
 home.lecoindesmangas.info
@@ -60973,13 +60969,11 @@ internet.lecoindesmangas.info
 ipe.lecoindesmangas.info
 m.lecoindesmangas.info
 mail.lecoindesmangas.info
-mail01.lecoindesmangas.info
 mail02.lecoindesmangas.info
 mail10.lecoindesmangas.info
 mail12.lecoindesmangas.info
 mail2.lecoindesmangas.info
 mail4.lecoindesmangas.info
-mail6.lecoindesmangas.info
 mail7.lecoindesmangas.info
 mail8.lecoindesmangas.info
 mail9.lecoindesmangas.info
@@ -61026,13 +61020,11 @@ ssl.lecoindesmangas.info
 thor.lecoindesmangas.info
 vip.lecoindesmangas.info
 webdisk.lecoindesmangas.info
-postmaster.webmail.lecoindesmangas.info
 ww11.lecoindesmangas.info
 ww16.lecoindesmangas.info
 ww2.lecoindesmangas.info
-ww25.lecoindesmangas.info
 ww31.lecoindesmangas.info
-www.lecoindesmangas.info
+postmaster.www.lecoindesmangas.info
 zimbra.lecoindesmangas.info
 legfrissebb.info
 legislatives.info
@@ -61220,8 +61212,6 @@ ww17.movieeater.info
 www.movieeater.info
 moviescounters.info
 movietool.info
-files.mp3-4-all.info
-gbdfvzd.mp3-4-all.info
 mail.mp3-pesni.info
 ww1.mp3-pesni.info
 ww17.mp3-pesni.info
@@ -61278,6 +61268,7 @@ www.myshortlinks.info
 mysnapchat.info
 myta.info
 ww1.mytours.info
+ww17.mytours.info
 www.mytours.info
 naasongss.info
 nabimuhammad.info
@@ -61768,7 +61759,6 @@ www.rearsets.info
 receptcity.info
 recepti-i-ideje.info
 reciclaje.info
-autodiscover.reconstruct-rep-of-mold.info
 red-rose.info
 redhotrealty.info
 redup.info
@@ -61909,21 +61899,8 @@ xn--otuo16af3b13u.seednet.info
 xn--xyz-ws1et41v.seednet.info
 xn--z1t133c.seednet.info
 seefeld.info
-amazon.seiryuu.info
-bdbtsefrvd.seiryuu.info
-cqyichakae.seiryuu.info
-dedeai.seiryuu.info
-dtxpdthan.seiryuu.info
-ehimebgen.seiryuu.info
-erobbs.seiryuu.info
-kkausgen.seiryuu.info
 ww17.moneycash.seiryuu.info
 ww38.moneycash.seiryuu.info
-moyiy-sefrenvjp.seiryuu.info
-rdhnp.seiryuu.info
-serve.seiryuu.info
-wcscsttkgy.seiryuu.info
-ww1.seiryuu.info
 ww17.seiryuu.info
 seisenkai.info
 semmering.info
@@ -61962,9 +61939,7 @@ sexplain.info
 sexr.info
 sexreise.info
 murmmisjylpn.shadow93.info
-ww17.openbve.shadow93.info
 utms.shadow93.info
-ww17.shadow93.info
 www.shadow93.info
 sharedb.info
 sharonziv.info
@@ -62305,10 +62280,7 @@ enriquedeossotelde.teresianas.info
 huelva.teresianas.info
 jesusmaestro.teresianas.info
 mail.teresianas.info
-mariainmaculada.teresianas.info
-sanjuan.teresianas.info
 teresianolaspalmas.teresianas.info
-ww1.teresianas.info
 ww17.teresianas.info
 www.teresianas.info
 textvnz.info
@@ -62407,6 +62379,9 @@ ww38.torjacken.info
 www.torjacken.info
 torrentgamesps2.info
 torrentsave.info
+ww11.tosec.info
+ww25.tosec.info
+ww38.tosec.info
 totoarena.info
 touring24.info
 touringaustralia.info
@@ -62878,7 +62853,6 @@ worldmarketplace.info
 worldsportsmemorabilia.info
 wowchar.info
 wowsource.info
-www.wurzen.info
 wwpc.info
 xav11.info
 xeal.info
@@ -63133,7 +63107,6 @@ adnami.io
 adnami2.io
 adpredictive.io
 dy.adserve.io
-dy-eu.adserve.io
 adstage.io
 3p-pix.adstk.io
 conv-pix.adstk.io
@@ -68213,6 +68186,7 @@ zendesk-eu.my.sentry.io
 open.sentry.io
 catalyst-26789123.security.sentry.io
 fleet.security.sentry.io
+grafana-dnr-9nay781n38c9ap.security.sentry.io
 securityportal.sentry.io
 release-registry.services.sentry.io
 symbol-collector.services.sentry.io
@@ -76124,6 +76098,7 @@ servt.andbeyond.media
 tg1.andbeyond.media
 audience.media
 convrse.media
+gatescoin.media
 m32.media
 ads.nextday.media
 nui.media
@@ -78519,7 +78494,6 @@ bidswitch.net
 ad0.bigmir.net
 c.bigmir.net
 billyjons.net
-binance-btc.net
 binancefund.net
 binanceteam.net
 binmajed.net
@@ -102011,7 +101985,6 @@ ace-uvs-api.ace.aai-stage-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.aai-stage-a.us-east-2.aws.k8s.sendgrid.net
 nsqadmin.antiabuse.aai-stage-a.us-east-2.aws.k8s.sendgrid.net
 blackbox.aai-stage-a.us-east-2.aws.k8s.sendgrid.net
-blackbox-exporter.aai-stage-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.aai-stage-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.autobots-prod-a.us-east-2.aws.k8s.sendgrid.net
 blackbox.autobots-prod-a.us-east-2.aws.k8s.sendgrid.net
@@ -106035,6 +106008,7 @@ nonamepizza.org
 noradsant.org
 norcalfiretraining.org
 noticias-cambridgeesol.org
+www.notmining.org
 notpad-plus-plus.org
 novalighting.org
 novosti-mk.org
@@ -106721,7 +106695,6 @@ statesales.org
 statesymbols.org
 stbernadettescatholicchurch.org
 ww11.stevenavery.org
-ww17.stevenavery.org
 ww35.stevenavery.org
 www.stevenavery.org
 stfrancisbaby.org
@@ -106868,6 +106841,7 @@ thejapanesekitchen.org
 thepartyanimal.org
 thepiratebayproxy.org
 thepiratebayt.org
+thepiratsbay.org
 thepiratwbay.org
 thepirstebay.org
 theplazamall.org
@@ -107628,7 +107602,6 @@ barbours.com.se
 campersverige.com.se
 chaco.com.se
 dakine.com.se
-eccoskorea.com.se
 fila.com.se
 footjoygolfskorrea.com.se
 girohjalm.com.se
