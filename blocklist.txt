@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342454
+# Ignored duplicates: 342465
 
 chameleon.ad
 pixel.ad
@@ -2309,6 +2309,7 @@ breakthrough.6sense.com
 certified.6sense.com
 content.6sense.com
 app.conversations.6sense.com
+app.prod.conversations.6sense.com
 engage.prod.conversations.6sense.com
 discover.6sense.com
 email.6sense.com
@@ -4865,7 +4866,6 @@ sagagroup-mkt-prod1.campaign.adobe.com
 sagagroup-mkt-prod1-res.campaign.adobe.com
 saiglobal-mkt-stage1-res.campaign.adobe.com
 samsung-france-mid-prod2-cus.campaign.adobe.com
-samsungcanada-mkt-prod1-lb.campaign.adobe.com
 samsungcanada-mkt-prod1-res.campaign.adobe.com
 samsungcanada-rt-prod2-lb.campaign.adobe.com
 samsungelectronicsamericainc-mkt-prod1-lb.campaign.adobe.com
@@ -6446,8 +6446,6 @@ aluxurycars.com
 amadorasbrasileira.com
 amarillasintrnet.com
 amateurgallore.com
-mx.amatrice-mature.com
-www.amatrice-mature.com
 amazingassistedliving.com
 amazingcounters.com
 amazon-adsystem.com
@@ -6493,7 +6491,6 @@ adserver-alb-v7-534597132.ap-southeast-1.elb.amazonaws.com
 tracker-lb-78950488.ap-southeast-1.elb.amazonaws.com
 ads-1460635594.eu-central-1.elb.amazonaws.com
 adserver-alb-v7-731103251.eu-central-1.elb.amazonaws.com
-adserver-prod-alb-2056226458.eu-central-1.elb.amazonaws.com
 analytics1-1102664024.eu-central-1.elb.amazonaws.com
 api-prod-alb-220889581.eu-central-1.elb.amazonaws.com
 tag-terraform-elb-1705565586.eu-central-1.elb.amazonaws.com
@@ -7057,7 +7054,6 @@ aniview.com
 ads.annabac.com
 annaiengg.com
 annieoccasions.com
-www.annistar.com
 p.annodeliver.com
 annoncesintimes.com
 ads.annonsbladet.com
@@ -10480,14 +10476,10 @@ customcardtable.com
 customcarparts.com
 customnink.com
 customsbannersfast.com
-links.custora.com
 mail.custora.com
-mail-p1.custora.com
 mobilemail.custora.com
 pda.custora.com
 pop.custora.com
-signatures.custora.com
-www.custora.com
 cutechin.com
 cutecushion.com
 cutepopcorn.com
@@ -10855,7 +10847,34 @@ ddtak.com
 research.de.com
 de17a.com
 de17aserver.com
-deadlinefunnel.com
+a.deadlinefunnel.com
+api.deadlinefunnel.com
+app.deadlinefunnel.com
+b.deadlinefunnel.com
+broadcast.deadlinefunnel.com
+c.deadlinefunnel.com
+capi.deadlinefunnel.com
+check.deadlinefunnel.com
+code.deadlinefunnel.com
+data.deadlinefunnel.com
+e.deadlinefunnel.com
+go.deadlinefunnel.com
+image.deadlinefunnel.com
+logos.deadlinefunnel.com
+members.deadlinefunnel.com
+offers.deadlinefunnel.com
+page.deadlinefunnel.com
+partner.deadlinefunnel.com
+rerun.deadlinefunnel.com
+ssl.deadlinefunnel.com
+start.deadlinefunnel.com
+status.deadlinefunnel.com
+tracking.deadlinefunnel.com
+university.deadlinefunnel.com
+url3738.deadlinefunnel.com
+webhooks.deadlinefunnel.com
+worker.deadlinefunnel.com
+www.deadlinefunnel.com
 deadpangate.com
 deadpanmarble.com
 deadpantruck.com
@@ -17777,6 +17796,7 @@ glasswipe.com
 glennnbeck.com
 glersakr.com
 glisteningsign.com
+js.glitnoraffiliates.com
 glittermyway.com
 globalbrandprotector.com
 globalismedia.com
@@ -19748,7 +19768,6 @@ jcpportraints.com
 wwww.jdoqocy.com
 jdunbar.com
 jdwentworth.com
-jecpeny.com
 jennifersofas.com
 jeolladosushi.com
 cno.jerkmate.com
@@ -36021,6 +36040,7 @@ tracker-api.my.com
 trk.my.com
 myaccountboostmobile.com
 cdn.myadmessenger.com
+glitnoraffiliates.elb.myaffiliates.com
 paf.elb.myaffiliates.com
 app.myaircel.com
 dev-app.myaircel.com
@@ -37174,6 +37194,7 @@ olympicsluts.com
 sstats.omahasteaks.com
 omahmelaku.com
 omappapi.com
+comeonconnect-api.omarsys.com
 omeleneuniversity.com
 omeopeonies.com
 omgtnc.com
@@ -37429,6 +37450,7 @@ enterprise.omniture.com
 errors.omniture.com
 dnavitan-t2-useast-1.esstress-ranking.omniture.com
 events.omniture.com
+ew1.omniture.com
 excelclient.omniture.com
 fr.omniture.com
 ftp.omniture.com
@@ -40452,6 +40474,7 @@ opiumud.com
 opmnstr.com
 oppuz.com
 look.opskln.com
+scripts.opti-digital.com
 optimallimit.com
 www.optimeze.com
 14124.optimizely.com
@@ -46118,9 +46141,7 @@ platform-dev.recruitics.com
 argocd.platform-development.recruitics.com
 grafana.platform-development.recruitics.com
 vault.platform-development.recruitics.com
-argocd.platform-stage.recruitics.com
-grafana.platform-stage.recruitics.com
-vault.platform-stage.recruitics.com
+platform-stage.recruitics.com
 api.platform-staging.recruitics.com
 argocd.platform-staging.recruitics.com
 cronjobs.platform-staging.recruitics.com
@@ -46169,64 +46190,6 @@ www.alb.reddit.com
 events.reddit.com
 pixel.reddit.com
 events.redditmedia.com
-antispam.reddmn.com
-auth.reddmn.com
-barracuda.reddmn.com
-box.reddmn.com
-comune.reddmn.com
-correo.reddmn.com
-email.reddmn.com
-gate.reddmn.com
-gw.reddmn.com
-hermes.reddmn.com
-home.reddmn.com
-host.reddmn.com
-mail01.reddmn.com
-mail02.reddmn.com
-mail10.reddmn.com
-mail12.reddmn.com
-mail3.reddmn.com
-mail4.reddmn.com
-mail5.reddmn.com
-mail6.reddmn.com
-mail7.reddmn.com
-mail9.reddmn.com
-mailer.reddmn.com
-mailgate.reddmn.com
-mailhost.reddmn.com
-mailin.reddmn.com
-mailrelay.reddmn.com
-mails.reddmn.com
-mailserver.reddmn.com
-mailsrv.reddmn.com
-mailx.reddmn.com
-mx0.reddmn.com
-mx01.reddmn.com
-mx02.reddmn.com
-mx1.reddmn.com
-mx2.reddmn.com
-mx20.reddmn.com
-mx3.reddmn.com
-mx4.reddmn.com
-mx5.reddmn.com
-mx7.reddmn.com
-newmail.reddmn.com
-ns.reddmn.com
-ns1.reddmn.com
-poczta.reddmn.com
-pop.reddmn.com
-post.reddmn.com
-postmaster.reddmn.com
-relay1.reddmn.com
-root.reddmn.com
-server.reddmn.com
-smtpauth.reddmn.com
-smtps.reddmn.com
-smtpseguro.reddmn.com
-sniper.reddmn.com
-vmail.reddmn.com
-ww9.reddmn.com
-www1.reddmn.com
 redetuby.com
 rediffmaul.com
 redioshark.com
@@ -51070,8 +51033,6 @@ showcasejamie.com
 showheroes.com
 shownonefunt.com
 ww1.showpussy.com
-ww31.showpussy.com
-ww38.showpussy.com
 www.showpussy.com
 shrillspoon.com
 shuckerswv.com
@@ -51673,7 +51634,6 @@ suvt.socdm.com
 sync.socdm.com
 tg.test.socdm.com
 tg.socdm.com
-uimp.socdm.com
 xrost.socdm.com
 yieldone.socdm.com
 socialannex.com
@@ -53692,7 +53652,6 @@ mcs-va.tiktok.com
 ads.us.tiktok.com
 adsintegrity.us.tiktok.com
 analytics.us.tiktok.com
-mcs-va.tiktokv.com
 tikwt.com
 tillyz.com
 tiads.time.com
@@ -53906,7 +53865,6 @@ trance-bux.com
 traneline.com
 tranformise.com
 tranquilside.com
-www.transferlights.com
 transitodemedellin.com
 translategoogle.com
 transmapp.com
@@ -56417,6 +56375,7 @@ wsodcdn.com
 wsoddata.com
 wstarbucks.com
 lib.wtg-ads.com
+es.wtp101.com
 wupuf.com
 wuqorowo.com
 wuzbhjpvsf.com
@@ -57412,6 +57371,7 @@ xn--yckyb.com
 xnx2.com
 xnxxgame.com
 xnxxhub.com
+w.xnxxxporno.com
 ww25.xnxxxporno.com
 xnxxxxxx.com
 xovq5nemr.com
@@ -60621,6 +60581,7 @@ gennadiy.info
 gentium.info
 m.geregun.info
 staging.geregun.info
+ww2.geregun.info
 ww38.geregun.info
 www.geregun.info
 geschenke.info
@@ -60879,7 +60840,8 @@ jinan.info
 jinseikenko.info
 jinsoku.info
 jitely.info
-jnu.info
+admission.jnu.info
+ww25.jnu.info
 jobcircular.info
 jobquest.info
 jobs4u.info
@@ -61081,8 +61043,6 @@ manapeddapuram.info
 manga-channel.info
 mangareading.info
 manualdekangoo.info
-wallpapersafariphone.mapalaui.info
-ww1.mapalaui.info
 ww17.mapalaui.info
 ww2.mapalaui.info
 ww38.mapalaui.info
@@ -61107,6 +61067,8 @@ www.mcnudes.info
 mcsa.info
 mdcollege.info
 mediamuslim.info
+ww25.mediapendidikan.info
+ww38.mediapendidikan.info
 medicalequipments.info
 medicalfacts.info
 medicalinstruments.info
@@ -61335,6 +61297,7 @@ newdoujinx.info
 newheights.info
 news-health.info
 design.news-net.info
+next.news-net.info
 ww11.news-net.info
 ww38.news-net.info
 newsdomains.info
@@ -61862,7 +61825,10 @@ ww25.rafanomejodas.info
 ww38.rafanomejodas.info
 www.rafanomejodas.info
 ramsau.info
+mail.ranking-gate.info
 ww1.ranking-gate.info
+ww38.ranking-gate.info
+www.ranking-gate.info
 cpcalendars.raport-wsi.info
 cpcontacts.raport-wsi.info
 mail.raport-wsi.info
@@ -62509,7 +62475,6 @@ www.tendance.info
 play.tercabilis.info
 huelva.teresianas.info
 jesusmaestro.teresianas.info
-mail.teresianas.info
 textvnz.info
 tfp.info
 tha3loub.info
@@ -62616,6 +62581,7 @@ www.thewinner.info
 threaded.info
 thruster.info
 www.thuthuatpro.info
+tiaccaciproduzioni.info
 ww1.tinanime.info
 ww17.tinanime.info
 ww38.tinanime.info
@@ -64213,7 +64179,6 @@ edge-e-bal.customer.io
 edge-e-bal-1.customer.io
 edge-e-bal-2.customer.io
 edge-e-gce.customer.io
-edge-east.customer.io
 edge-eu.customer.io
 edge-w-2-gce.customer.io
 edge-w-bal.customer.io
@@ -65159,9 +65124,11 @@ bunny.plausible.io
 cdn.plausible.io
 custom.plausible.io
 custom-new.plausible.io
+e47b4959.plausible.io
 feedback.plausible.io
 journal.plausible.io
 kb.plausible.io
+ingress.lb.plausible.io
 one.lb.plausible.io
 two.lb.plausible.io
 newcustom.plausible.io
@@ -99657,7 +99624,6 @@ test-api-us.online-metrix.net
 h-analytics.triseptsolutions.online-metrix.net
 onnatural.net
 openx.net
-css-php78mp9v.opposedarrangement.net
 optimadns.net
 optofine.net
 or-tec.net
@@ -102278,7 +102244,6 @@ sq.mp.general-prod-a.us-east-1.aws.k8s.sendgrid.net
 prometheus.general-prod-a.us-east-1.aws.k8s.sendgrid.net
 alertmanager.general-stage-a.us-east-1.aws.k8s.sendgrid.net
 blackbox.general-stage-a.us-east-1.aws.k8s.sendgrid.net
-blackbox-exporter.general-stage-a.us-east-1.aws.k8s.sendgrid.net
 holocron-api.general-stage-a.us-east-1.aws.k8s.sendgrid.net
 sq.mp.general-stage-a.us-east-1.aws.k8s.sendgrid.net
 prometheus.general-stage-a.us-east-1.aws.k8s.sendgrid.net
@@ -102341,7 +102306,6 @@ sq.mp.general-prod-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.general-prod-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.general-stage-a.us-east-2.aws.k8s.sendgrid.net
 blackbox.general-stage-a.us-east-2.aws.k8s.sendgrid.net
-blackbox-exporter.general-stage-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.general-stage-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.mgmt-stage-b.us-east-2.aws.k8s.sendgrid.net
 blackbox.mgmt-stage-b.us-east-2.aws.k8s.sendgrid.net
@@ -102372,7 +102336,6 @@ sq.mp.general-prod-a.us-west-2.aws.k8s.sendgrid.net
 prometheus.general-prod-a.us-west-2.aws.k8s.sendgrid.net
 alertmanager.general-stage-a.us-west-2.aws.k8s.sendgrid.net
 blackbox.general-stage-a.us-west-2.aws.k8s.sendgrid.net
-blackbox-exporter.general-stage-a.us-west-2.aws.k8s.sendgrid.net
 sq.mp.general-stage-a.us-west-2.aws.k8s.sendgrid.net
 prometheus.general-stage-a.us-west-2.aws.k8s.sendgrid.net
 alertmanager.geopod-prod-a.us-west-2a.aws.k8s.sendgrid.net
@@ -102460,7 +102423,6 @@ statsapi-ing.general-prod-a.fra1.k8s.sendgrid.net
 alertmanager.mgmt-prod-a.fra1.k8s.sendgrid.net
 am-aggregator.mgmt-prod-a.fra1.k8s.sendgrid.net
 blackbox.mgmt-prod-a.fra1.k8s.sendgrid.net
-blackbox-exporter.mgmt-prod-a.fra1.k8s.sendgrid.net
 hapi.mgmt-prod-a.fra1.k8s.sendgrid.net
 prometheus.mgmt-prod-a.fra1.k8s.sendgrid.net
 prometheus-aggregator.mgmt-prod-a.fra1.k8s.sendgrid.net
@@ -103279,7 +103241,6 @@ am-aggregator.mgmt-prod-a.mdw1.k8s.sendgrid.net
 grpc.argocd.mgmt-prod-a.mdw1.k8s.sendgrid.net
 ui.argocd.mgmt-prod-a.mdw1.k8s.sendgrid.net
 blackbox.mgmt-prod-a.mdw1.k8s.sendgrid.net
-blackbox-exporter.mgmt-prod-a.mdw1.k8s.sendgrid.net
 hapi.mgmt-prod-a.mdw1.k8s.sendgrid.net
 prometheus.mgmt-prod-a.mdw1.k8s.sendgrid.net
 prometheus-aggregator.mgmt-prod-a.mdw1.k8s.sendgrid.net
@@ -105091,6 +105052,7 @@ hotelopedia.belajaronline.org
 kaospersib.belajaronline.org
 kaossunda.belajaronline.org
 www.proyektor.belajaronline.org
+www.bensonfire.org
 beretta-e.org
 bestfreinds.org
 bethmore.org
@@ -105482,6 +105444,8 @@ democraticforumburma.org
 derechoepja.org
 desireinggod.org
 destinypartners.org
+ww1.devlis.org
+ww38.devlis.org
 df69.org
 dgcoseniorservices.org
 diadelnadador.org
@@ -105763,6 +105727,7 @@ freegen.org
 freemp3x.org
 freephonemn.org
 freesoud.org
+ww1.freethoughtproject.org
 frenchstreaming.org
 fs-creations.org
 fsbt.org
@@ -107436,10 +107401,7 @@ ww2.wardpress.org
 www.wardpress.org
 warianos.org
 warnertheater.org
-ww1.warrentnfarmersmarket.org
 ww11.warrentnfarmersmarket.org
-ww17.warrentnfarmersmarket.org
-ww38.warrentnfarmersmarket.org
 www.warrentnfarmersmarket.org
 washingtonconnetion.org
 watch23.org
@@ -107462,7 +107424,6 @@ weed-shop.org
 weftun.org
 weikipedia.org
 weillcornellconnect.org
-ww16.wellspringgardens.org
 ww25.wellspringgardens.org
 ww38.wellspringgardens.org
 wescm.org
@@ -108049,6 +108010,7 @@ script.e-space.se
 easyresearch.se
 r.existenz.se
 ads.expekt.se
+ntrfr.expekt.se
 addy.expressen.se
 jtp.expressen.se
 lanapengar.expressen.se
@@ -108215,9 +108177,7 @@ sxcdn02.now.sh
 sxcdn4.now.sh
 sxcdn6.now.sh
 about.scarf.sh
-about-v2.scarf.sh
 alexbiehl.scarf.sh
-analytics.scarf.sh
 api.scarf.sh
 app.scarf.sh
 avi.scarf.sh
