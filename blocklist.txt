@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342465
+# Ignored duplicates: 342385
 
 chameleon.ad
 pixel.ad
@@ -6428,9 +6428,7 @@ alocdn.com
 alongabay.com
 aloofmetal.com
 aloofvest.com
-cdn.alooma.com
 go.alooma.com
-www.alooma.com
 zendesk.alooma.com
 alphabuds.com
 alpixtrack.com
@@ -10476,10 +10474,6 @@ customcardtable.com
 customcarparts.com
 customnink.com
 customsbannersfast.com
-mail.custora.com
-mobilemail.custora.com
-pda.custora.com
-pop.custora.com
 cutechin.com
 cutecushion.com
 cutepopcorn.com
@@ -20652,6 +20646,7 @@ courierpress.localiq.com
 crm.localiq.com
 crm-qa.localiq.com
 crm-qa-b.localiq.com
+cts-prod-aus.localiq.com
 cts-qa-aus.localiq.com
 cts-qa-can.localiq.com
 cts-qa-gbr.localiq.com
@@ -51032,7 +51027,6 @@ shotinthehead.com
 showcasejamie.com
 showheroes.com
 shownonefunt.com
-ww1.showpussy.com
 www.showpussy.com
 shrillspoon.com
 shuckerswv.com
@@ -53430,6 +53424,7 @@ telaria.com
 telefunken-digital.com
 ns1.telegramdesktop.com
 ns2.telegramdesktop.com
+ww16.telegramdesktop.com
 www.telegramdesktop.com
 www.telegramup.com
 televisadepotes.com
@@ -55148,6 +55143,7 @@ vcommission.com
 vcrictime.com
 vcyud.com
 veeplay.com
+www.veeseo.com
 vehicle-data.com
 veille-referencement.com
 veinteractive.com
@@ -59653,16 +59649,11 @@ big-news.info
 bigger-penis.info
 biggerpenisnow.info
 bigrealestate.info
-1.biip.info
 correo.biip.info
-mail01.biip.info
-mail3.biip.info
-mailhost.biip.info
 mailserver.biip.info
 mx0.biip.info
 mx01.biip.info
 office.biip.info
-posta.biip.info
 ww1.biip.info
 ww11.biip.info
 ww17.biip.info
@@ -60582,6 +60573,7 @@ gentium.info
 m.geregun.info
 staging.geregun.info
 ww2.geregun.info
+ww25.geregun.info
 ww38.geregun.info
 www.geregun.info
 geschenke.info
@@ -60609,7 +60601,10 @@ globaldew.info
 godspeakstoday.info
 goldrock.info
 golfbooks.info
-gomovies123.info
+ww1.gomovies123.info
+ww16.gomovies123.info
+ww25.gomovies123.info
+www.gomovies123.info
 gonzovideos.info
 beta.goodpeople.info
 mail.goodpeople.info
@@ -61069,6 +61064,7 @@ mdcollege.info
 mediamuslim.info
 ww25.mediapendidikan.info
 ww38.mediapendidikan.info
+www.mediapendidikan.info
 medicalequipments.info
 medicalfacts.info
 medicalinstruments.info
@@ -61298,7 +61294,9 @@ newheights.info
 news-health.info
 design.news-net.info
 next.news-net.info
+ww1.news-net.info
 ww11.news-net.info
+ww25.news-net.info
 ww38.news-net.info
 newsdomains.info
 www.newserial.info
@@ -61568,6 +61566,7 @@ ww17.pornstock.info
 www.pornstock.info
 porshe.info
 portablesoft.info
+postall.info
 postcode-zoeken.info
 potenzstoerungen.info
 pozivitno.info
@@ -78162,7 +78161,6 @@ adfries.rtb-useast.ak-is.net
 adhunter.rtb-useast.ak-is.net
 earnify.rtb-useast.ak-is.net
 adsiduous.rtb-uswest.ak-is.net
-adventurefeeds.rtb-uswest.ak-is.net
 kds.rtb-uswest.ak-is.net
 pressize.rtb-uswest.ak-is.net
 readywind.rtb-uswest.ak-is.net
@@ -78427,7 +78425,6 @@ ty90nwjc8wjt-a.akamaihd.net
 131vod-adaptive.akamaized.net
 159vod-adaptive.akamaized.net
 abcnewsads.akamaized.net
-amp.akamaized.net
 fvalid.appsflyer.com.akamaized.net
 stats.appsflyer.com.akamaized.net
 websdk.appsflyer.com.akamaized.net
@@ -102427,7 +102424,6 @@ hapi.mgmt-prod-a.fra1.k8s.sendgrid.net
 prometheus.mgmt-prod-a.fra1.k8s.sendgrid.net
 prometheus-aggregator.mgmt-prod-a.fra1.k8s.sendgrid.net
 go.k8s.sendgrid.net
-godoc.k8s.sendgrid.net
 goldpinger-las.k8s.sendgrid.net
 grafana-antiabuse-production-iad2.k8s.sendgrid.net
 grafana-antiabuse-production-las1.k8s.sendgrid.net
@@ -102919,18 +102915,9 @@ gofilterd-p3las1.mail-pipeline.k8s.sendgrid.net
 gofilterd-p3mdw1.mail-pipeline.k8s.sendgrid.net
 gofilterd-s2mdw1.mail-pipeline.k8s.sendgrid.net
 gofilterd-s3mdw1.mail-pipeline.k8s.sendgrid.net
-mailsettings-p1iad2.k8s.sendgrid.net
-mailsettings-p1las1.k8s.sendgrid.net
-mailsettings-p1mdw1.k8s.sendgrid.net
-mailsettings-p2iad2.k8s.sendgrid.net
-mailsettings-p2las1.k8s.sendgrid.net
 mailsettings-p2mdw1.k8s.sendgrid.net
 mailsettings-p3iad2.k8s.sendgrid.net
 mailsettings-p3las1.k8s.sendgrid.net
-mailsettings-p3mdw1.k8s.sendgrid.net
-mailsettings-s1mdw1.k8s.sendgrid.net
-mailsettings-s2mdw1.k8s.sendgrid.net
-mailsettings-s3mdw1.k8s.sendgrid.net
 alertmanager.asgard-prod-a.mdw1.k8s.sendgrid.net
 atc-web.asgard-prod-a.mdw1.k8s.sendgrid.net
 blackbox.asgard-prod-a.mdw1.k8s.sendgrid.net
@@ -106902,6 +106889,7 @@ rhymezone.org
 ricksautosales.org
 ricourts.org
 rivermarcu.org
+ww1.rivinia.org
 rkmtbs.org
 metrics.robinhood.org
 rocat.org
@@ -107227,7 +107215,6 @@ thoms.org
 ww1.threpiratebay.org
 www.threpiratebay.org
 thspa.org
-ww38.thuriya.org
 tiaa-cred.org
 tiengnoicuadan.org
 tightvagina.org
@@ -107401,8 +107388,6 @@ ww2.wardpress.org
 www.wardpress.org
 warianos.org
 warnertheater.org
-ww11.warrentnfarmersmarket.org
-www.warrentnfarmersmarket.org
 washingtonconnetion.org
 watch23.org
 watchanimeonline.org
@@ -107425,7 +107410,6 @@ weftun.org
 weikipedia.org
 weillcornellconnect.org
 ww25.wellspringgardens.org
-ww38.wellspringgardens.org
 wescm.org
 west-bar.org
 westcelt.org
@@ -107969,6 +107953,7 @@ barbours.com.se
 campersverige.com.se
 chaco.com.se
 dakine.com.se
+eccoskorea.com.se
 fila.com.se
 footjoygolfskorrea.com.se
 girohjalm.com.se
