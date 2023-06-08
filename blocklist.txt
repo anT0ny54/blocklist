@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342385
+# Ignored duplicates: 342412
 
 chameleon.ad
 pixel.ad
@@ -16316,6 +16316,7 @@ filimizlesene.com
 filmha3.com
 filmsmania.com
 filmxnxx.com
+filmzya.com
 filteringlist.com
 fimserve.com
 finalltfast.com
@@ -16610,6 +16611,7 @@ freetubesearch.com
 freeweatherapp.com
 freewebcounter.com
 freewheel.com
+freezingbuilding.com
 frelimewire.com
 frenchyspipes.com
 freshfashiondesigners.com
@@ -41863,7 +41865,6 @@ analytics-sdk.sites.otherlevels.com
 static-sites.otherlevels.com
 ws.otherlevels.com
 otisrael.com
-otrbs.com
 data.ouigo.com
 oukley.com
 ourinfohub.com
@@ -46059,6 +46060,7 @@ reauthenticator.com
 rebelhen.com
 rebelmouse.com
 rebelsubway.com
+rebelswing.com
 receptiveink.com
 receptivereaction.com
 recessgobananas.com
@@ -55143,7 +55145,22 @@ vcommission.com
 vcrictime.com
 vcyud.com
 veeplay.com
+advertising.veeseo.com
+cp-image.veeseo.com
+cp-tracking.veeseo.com
+frontpage.veeseo.com
+handelsblatt-videokatalog.veeseo.com
+hyde.veeseo.com
+msn-videokatalog.veeseo.com
+piwik.veeseo.com
+prosiebensat1-videokatalog.veeseo.com
+rce.veeseo.com
+rce-dev.veeseo.com
+us.veeseo.com
+vseocore.veeseo.com
+weltderwunder-videokatalog.veeseo.com
 www.veeseo.com
+wwww.veeseo.com
 vehicle-data.com
 veille-referencement.com
 veinteractive.com
@@ -56371,7 +56388,41 @@ wsodcdn.com
 wsoddata.com
 wstarbucks.com
 lib.wtg-ads.com
+a-va.wtp101.com
+c-va.wtp101.com
+cdn.wtp101.com
+dbh.wtp101.com
 es.wtp101.com
+g-ca.wtp101.com
+g-ie.wtp101.com
+g-sg.wtp101.com
+g-va.wtp101.com
+hdpnp.wtp101.com
+i-ie.wtp101.com
+n-all.wtp101.com
+n-ca.wtp101.com
+n-ie.wtp101.com
+n-sg.wtp101.com
+n-va.wtp101.com
+ns5.wtp101.com
+ns6.wtp101.com
+ns7.wtp101.com
+ns8.wtp101.com
+o-ca.wtp101.com
+o-ie.wtp101.com
+o-va.wtp101.com
+r-ca.wtp101.com
+r-ie.wtp101.com
+r-va.wtp101.com
+rtb-ca.wtp101.com
+rtb-ie.wtp101.com
+rtb-jp.wtp101.com
+rtb-va.wtp101.com
+w-va.wtp101.com
+www.wtp101.com
+www-eu.wtp101.com
+y-ca.wtp101.com
+y-va.wtp101.com
 wupuf.com
 wuqorowo.com
 wuzbhjpvsf.com
@@ -57367,8 +57418,7 @@ xn--yckyb.com
 xnx2.com
 xnxxgame.com
 xnxxhub.com
-w.xnxxxporno.com
-ww25.xnxxxporno.com
+xnxxxporno.com
 xnxxxxxx.com
 xovq5nemr.com
 xpnxx.com
@@ -59658,7 +59708,6 @@ ww1.biip.info
 ww11.biip.info
 ww17.biip.info
 ww25.biip.info
-www.biip.info
 bijsluiterscore.info
 bill-gates.info
 mail.bimba.info
@@ -60311,7 +60360,6 @@ www.elweva.info
 www.emoticone-gratuit.info
 www.emruz.info
 cpcalendars.emulegion.info
-cpcontacts.emulegion.info
 dc-bf659460366e.emulegion.info
 webdisk.emulegion.info
 ww1.emulegion.info
@@ -60570,12 +60618,7 @@ gelberschein.info
 gelbsucht.info
 gennadiy.info
 gentium.info
-m.geregun.info
-staging.geregun.info
-ww2.geregun.info
-ww25.geregun.info
-ww38.geregun.info
-www.geregun.info
+geregun.info
 geschenke.info
 getfreeinsur.info
 getpornmagazines.info
@@ -60601,7 +60644,6 @@ globaldew.info
 godspeakstoday.info
 goldrock.info
 golfbooks.info
-ww1.gomovies123.info
 ww16.gomovies123.info
 ww25.gomovies123.info
 www.gomovies123.info
@@ -61298,6 +61340,7 @@ ww1.news-net.info
 ww11.news-net.info
 ww25.news-net.info
 ww38.news-net.info
+www.news-net.info
 newsdomains.info
 www.newserial.info
 newsjoin.info
@@ -61475,6 +61518,7 @@ ww25.pfshop.info
 www.pfshop.info
 phanri.info
 phaze.info
+www.phigolf.info
 31.phimhay.info
 ww1.admin.phimhay.info
 ww17.admin.phimhay.info
@@ -62193,16 +62237,9 @@ ww1.songspksongspk.info
 ww17.songspksongspk.info
 www.songspksongspk.info
 sonrose.info
-mail.sonyvegas.info
 mvideo.sonyvegas.info
-webdisk.sonyvegas.info
-ww1.sonyvegas.info
-ww11.sonyvegas.info
 ww16.sonyvegas.info
-ww17.sonyvegas.info
 ww25.sonyvegas.info
-ww38.sonyvegas.info
-www.sonyvegas.info
 soramoon.info
 sorarose.info
 ww1.sourcevapes.info
@@ -106524,8 +106561,11 @@ primarysourcelearning.org
 primejailbait.org
 prismarc.org
 privacy-center.org
+akam.probestfilm.org
 video.probestfilm.org
 ww1.probestfilm.org
+ww17.probestfilm.org
+www.probestfilm.org
 procorn.org
 progepe.org
 projectgazelle.org
