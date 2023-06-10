@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342500
+# Ignored duplicates: 342524
 
 chameleon.ad
 pixel.ad
@@ -19655,7 +19655,6 @@ b.ip-api.com
 cache.ip-api.com
 edns.ip-api.com
 members.ip-api.com
-pro.ip-api.com
 status.ip-api.com
 www.ip-api.com
 ip2ulocation.com
@@ -36336,8 +36335,6 @@ mzhhiphop.com
 metrics.mzstatic.com
 n131adserv.com
 n69.com
-miner.nablabee.com
-wss.nablabee.com
 nachoanalytics.com
 hybridclient.naiadsystems.com
 manifest-server.naiadsystems.com
@@ -42830,6 +42827,7 @@ sc1.pnstat.com
 sc2.pnstat.com
 scn.pnstat.com
 www.pnstat.com
+ww1.pocketpcheaven.com
 ww25.pocketpcheaven.com
 podersa.com
 connect.podium.com
@@ -48734,7 +48732,6 @@ relmaxtop.com
 remaxx.com
 remedyotc.com
 remox.com
-renhertfo.com
 metrics.rent.com
 aerovuelo.rentadeautoscuba.com
 rentalbusparwisata.com
@@ -52375,7 +52372,6 @@ srchmgrk.com
 srchmgrl.com
 srchmgrm.com
 srchmgrw.com
-srcip.com
 srcips.com
 sremlak.com
 srvalgo.com
@@ -53614,6 +53610,7 @@ myads.telkomsel.com
 tellcanadiantire.com
 tellwendy.com
 tellyshopping.com
+ww1.temasdecelular.com
 temelio.com
 tendertest.com
 tenjin.com
@@ -55345,11 +55342,13 @@ cp-tracking.veeseo.com
 frontpage.veeseo.com
 handelsblatt-videokatalog.veeseo.com
 hyde.veeseo.com
+jekyll.veeseo.com
 msn-videokatalog.veeseo.com
 piwik.veeseo.com
 prosiebensat1-videokatalog.veeseo.com
 rce.veeseo.com
 rce-dev.veeseo.com
+run.veeseo.com
 us.veeseo.com
 vseocore.veeseo.com
 weltderwunder-videokatalog.veeseo.com
@@ -58367,6 +58366,7 @@ zoharlevy.com
 analytics.zoho.com
 iplocation.zoho.com
 salesiq.zoho.com
+webanalytics.zohodcm.com
 zoo356.com
 zoofilio.com
 vdc.zoomph.com
@@ -59885,6 +59885,8 @@ mvideo.bewerbungsschreiben.info
 ww38.bewerbungsschreiben.info
 cpcalendars.bfcards.info
 www.bfcards.info
+ww17.bguide.info
+www.bguide.info
 bhealthynow.info
 biblindex.info
 auth.big-library.info
@@ -59956,7 +59958,6 @@ mx01.biip.info
 office.biip.info
 ww1.biip.info
 ww11.biip.info
-ww17.biip.info
 ww25.biip.info
 bijsluiterscore.info
 bill-gates.info
@@ -60607,18 +60608,12 @@ mail.elweva.info
 www.elweva.info
 www.emoticone-gratuit.info
 www.emruz.info
-cpcalendars.emulegion.info
-webdisk.emulegion.info
 www.emulegion.info
-ctac.endermanch.info
-dl.endermanch.info
-infectedplanet.endermanch.info
 ww1.endermanch.info
 ww11.endermanch.info
 ww25.endermanch.info
 ww38.endermanch.info
 ww4.endermanch.info
-www.endermanch.info
 energydrink.info
 ww1.englishhouse.info
 ww17.englishhouse.info
@@ -62366,6 +62361,8 @@ seolinkek.info
 seotaolao.info
 seouldl.info
 ww1.sepalo3.info
+ww17.sepalo3.info
+ww3.sepalo3.info
 sere.info
 serenade.info
 sergamer.info
@@ -62398,7 +62395,6 @@ sexreise.info
 sharedb.info
 sharonziv.info
 sheriff.info
-shermore.info
 shineworks.info
 shkid.info
 traf.shlink.info
@@ -62758,6 +62754,9 @@ www.tendance.info
 play.tercabilis.info
 huelva.teresianas.info
 jesusmaestro.teresianas.info
+mariainmaculada.teresianas.info
+sanjuan.teresianas.info
+ww1.teresianas.info
 textvnz.info
 tfp.info
 tha3loub.info
@@ -62777,6 +62776,7 @@ www.viyapathu.thambiluvil.info
 ww17.thambiluvil.info
 ww38.thambiluvil.info
 www.thambiluvil.info
+the2base.info
 m.thebestcloudcomputing.info
 mail.thebestcloudcomputing.info
 wap.thebestcloudcomputing.info
@@ -107540,6 +107540,10 @@ thejapanesekitchen.org
 thepartyanimal.org
 thepiratebayproxy.org
 thepiratebayt.org
+ww11.thepiratebayy.org
+ww16.thepiratebayy.org
+ww25.thepiratebayy.org
+ww38.thepiratebayy.org
 thepiratsbay.org
 thepiratwbay.org
 thepirstebay.org
@@ -107684,6 +107688,7 @@ veditz.org
 vedmo.org
 venicedobermanrescue.org
 ventriloharassment.org
+ww25.veporn.org
 verpelis.org
 victoria-justice.org
 vidik.org
@@ -108301,7 +108306,6 @@ barbours.com.se
 campersverige.com.se
 chaco.com.se
 dakine.com.se
-eccoskorea.com.se
 fila.com.se
 footjoygolfskorrea.com.se
 girohjalm.com.se
@@ -111692,7 +111696,6 @@ truehits1.gits.net.th
 truehits2.gits.net.th
 aeros01.tk
 axoncoho.tk
-hhb123.tk
 acbp0020171456.page.tl
 cpx.to
 p.estream.to
