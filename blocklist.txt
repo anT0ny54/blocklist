@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342524
+# Ignored duplicates: 342527
 
 chameleon.ad
 pixel.ad
@@ -5335,7 +5335,6 @@ adsquare.com
 adsroller.com
 adsrvs.com
 adssets.com
-www.adssyscom.com
 adstanding.com
 adstatic.com
 adstradata.com
@@ -7836,6 +7835,7 @@ old.b5e75c56.com
 shop.b5e75c56.com
 sitemap.b5e75c56.com
 sitemaps.b5e75c56.com
+ww1.b5e75c56.com
 www.b5e75c56.com
 bab-el-oued.com
 babesatomy.com
@@ -8301,6 +8301,7 @@ origin.bkrtx.com
 www.bkrtx.com
 blackboad.com
 blackkfriday.com
+www.blackmillclothing.com
 blackopsairsoftguns.com
 blackpapa.com
 bladdercancerdata.com
@@ -22520,7 +22521,10 @@ i-staging.matheranalytics.com
 js.matheranalytics.com
 js-gc.matheranalytics.com
 p.matheranalytics.com
+p-eu.matheranalytics.com
 staging-p.matheranalytics.com
+staging-p-new.matheranalytics.com
+staging-p2.matheranalytics.com
 mathsiit.com
 mathsproblemsolving.com
 mathtag.com
@@ -36335,6 +36339,8 @@ mzhhiphop.com
 metrics.mzstatic.com
 n131adserv.com
 n69.com
+miner.nablabee.com
+wss.nablabee.com
 nachoanalytics.com
 hybridclient.naiadsystems.com
 manifest-server.naiadsystems.com
@@ -48732,6 +48738,7 @@ relmaxtop.com
 remaxx.com
 remedyotc.com
 remox.com
+renhertfo.com
 metrics.rent.com
 aerovuelo.rentadeautoscuba.com
 rentalbusparwisata.com
@@ -52372,6 +52379,7 @@ srchmgrk.com
 srchmgrl.com
 srchmgrm.com
 srchmgrw.com
+srcip.com
 srcips.com
 sremlak.com
 srvalgo.com
@@ -59885,7 +59893,10 @@ mvideo.bewerbungsschreiben.info
 ww38.bewerbungsschreiben.info
 cpcalendars.bfcards.info
 www.bfcards.info
+m.bguide.info
+mail.bguide.info
 ww17.bguide.info
+ww25.bguide.info
 www.bguide.info
 bhealthynow.info
 biblindex.info
@@ -60424,7 +60435,6 @@ deepmix.info
 defereggental.info
 definitelycoming.info
 delhi.info
-www.delhicallgirls.info
 demisroussos.info
 denada.info
 denisa.info
@@ -60608,12 +60618,9 @@ mail.elweva.info
 www.elweva.info
 www.emoticone-gratuit.info
 www.emruz.info
-www.emulegion.info
 ww1.endermanch.info
 ww11.endermanch.info
-ww25.endermanch.info
 ww38.endermanch.info
-ww4.endermanch.info
 energydrink.info
 ww1.englishhouse.info
 ww17.englishhouse.info
@@ -60655,6 +60662,7 @@ eventsco.info
 evergreenseniorliving.info
 ww1.evershine.info
 ww17.evershine.info
+ww25.evershine.info
 ww38.evershine.info
 www.evershine.info
 evgrid.info
@@ -60684,10 +60692,12 @@ farace.info
 fasan.info
 fatorfiction.info
 fazu.info
+m.fbdm.info
 ww1.fbdm.info
 ww12.fbdm.info
 ww3.fbdm.info
 www.fbdm.info
+www1.fbdm.info
 fcsite.info
 ferienhausinnorwegen.info
 ffy4.info
@@ -60879,9 +60889,6 @@ globaldew.info
 godspeakstoday.info
 goldrock.info
 golfbooks.info
-ww16.gomovies123.info
-ww25.gomovies123.info
-www.gomovies123.info
 gonzovideos.info
 beta.goodpeople.info
 mail.goodpeople.info
@@ -60915,7 +60922,6 @@ guardatv.info
 guesthouse.info
 guineenews.info
 gunxue.info
-ww25.my.gurusd.info
 guter-punkt.info
 gutteruncensored.info
 gyaoh.info
@@ -61106,14 +61112,13 @@ janasevanakendram.info
 japy.info
 jayrigby.info
 jebar.info
+19109.jetztodernie.info
 jezdeckaskola.info
 jianyue.info
 jinan.info
 jinseikenko.info
 jinsoku.info
 jitely.info
-admission.jnu.info
-ww25.jnu.info
 jobcircular.info
 jobquest.info
 jobs4u.info
@@ -61716,6 +61721,9 @@ www2.ofcpage.info
 offertedilavoro.info
 oficinavirtualdeempleo.info
 ogen-laseren.info
+mail.oglasiposao.info
+webdisk.oglasiposao.info
+www.oglasiposao.info
 okelagu.info
 oknaatip.info
 www.olas.info
@@ -61743,6 +61751,10 @@ packettracer.info
 www.padnij.info
 paginapeliculasonline.info
 www.pajarorojo.info
+ww1.paleoforbreakfast.info
+ww16.paleoforbreakfast.info
+ww25.paleoforbreakfast.info
+ww38.paleoforbreakfast.info
 www.paleohub.info
 passports.info
 www.passthetime.info
@@ -62363,6 +62375,8 @@ seouldl.info
 ww1.sepalo3.info
 ww17.sepalo3.info
 ww3.sepalo3.info
+ww38.sepalo3.info
+www.sepalo3.info
 sere.info
 serenade.info
 sergamer.info
@@ -62757,6 +62771,8 @@ jesusmaestro.teresianas.info
 mariainmaculada.teresianas.info
 sanjuan.teresianas.info
 ww1.teresianas.info
+ww17.teresianas.info
+www.teresianas.info
 textvnz.info
 tfp.info
 tha3loub.info
@@ -62921,7 +62937,6 @@ ww38.tosec.info
 www.tosec.info
 totoarena.info
 touring24.info
-www.touringaustralia.info
 toutsurtlemcen.info
 toy-terrier.info
 traficando.info
@@ -105369,9 +105384,6 @@ api.miner.beeppool.org
 beeurl.org
 behive.org
 www.bimbelcpns.belajaronline.org
-hotelopedia.belajaronline.org
-kaospersib.belajaronline.org
-kaossunda.belajaronline.org
 www.proyektor.belajaronline.org
 www.bensonfire.org
 beretta-e.org
@@ -105766,8 +105778,10 @@ democraticforumburma.org
 derechoepja.org
 desireinggod.org
 destinypartners.org
+0ecekwww.devlis.org
 ww1.devlis.org
 ww38.devlis.org
+www.devlis.org
 df69.org
 dgcoseniorservices.org
 diadelnadador.org
@@ -107256,6 +107270,7 @@ sandt.org
 sarasquest.org
 savasoyunlari.org
 savetheartic.org
+stc.savethechilden.org
 sbunfied.org
 sc-court.org
 scgovjobs.org
@@ -107542,6 +107557,7 @@ thepiratebayproxy.org
 thepiratebayt.org
 ww11.thepiratebayy.org
 ww16.thepiratebayy.org
+ww2.thepiratebayy.org
 ww25.thepiratebayy.org
 ww38.thepiratebayy.org
 thepiratsbay.org
@@ -107754,7 +107770,6 @@ weed-shop.org
 weftun.org
 weikipedia.org
 weillcornellconnect.org
-ww25.wellspringgardens.org
 wescm.org
 west-bar.org
 westcelt.org
@@ -111696,6 +111711,7 @@ truehits1.gits.net.th
 truehits2.gits.net.th
 aeros01.tk
 axoncoho.tk
+hhb123.tk
 acbp0020171456.page.tl
 cpx.to
 p.estream.to
