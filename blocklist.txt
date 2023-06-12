@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342527
+# Ignored duplicates: 342536
 
 chameleon.ad
 pixel.ad
@@ -4707,8 +4707,6 @@ mcd-mkt-prod1.campaign.adobe.com
 mcd-mkt-prod2.campaign.adobe.com
 mcd-mkt-prod2-lb2.campaign.adobe.com
 mcd-mkt-prod2-t.campaign.adobe.com
-mcd-mkt-prod31.campaign.adobe.com
-mcd-mkt-prod31-1.campaign.adobe.com
 mcd-mkt-prod31-lb.campaign.adobe.com
 mcd-mkt-prod32-lb.campaign.adobe.com
 mcd-mkt-prod35.campaign.adobe.com
@@ -9404,7 +9402,6 @@ cleopatraceramic.com
 clevelaand.com
 clevergirlscollective.com
 clevernt.com
-api.cleverpush.com
 api-eu.cleverpush.com
 autobild.cleverpush.com
 automotorundsport.cleverpush.com
@@ -9437,7 +9434,6 @@ schwarzwaelderbote.cleverpush.com
 sixx.cleverpush.com
 soapsindepth.cleverpush.com
 spektrum.cleverpush.com
-static.cleverpush.com
 static-eu.cleverpush.com
 statistacomdev.cleverpush.com
 statistadedev.cleverpush.com
@@ -46020,7 +46016,6 @@ stanforduniversity.qualtrics.com
 starbucksv.qualtrics.com
 static-assets.qualtrics.com
 success.qualtrics.com
-survey.qualtrics.com
 syd1.qualtrics.com
 tcb.qualtrics.com
 tintg.qualtrics.com
@@ -55358,6 +55353,7 @@ rce.veeseo.com
 rce-dev.veeseo.com
 run.veeseo.com
 us.veeseo.com
+utterson.veeseo.com
 vseocore.veeseo.com
 weltderwunder-videokatalog.veeseo.com
 www.veeseo.com
@@ -58060,7 +58056,6 @@ yoose.com
 yooujizz.com
 yospace.com
 p.yotpo.com
-staticw2.yotpo.com
 w2.yotpo.com
 yotyub.com
 you20tube.com
@@ -59893,11 +59888,7 @@ mvideo.bewerbungsschreiben.info
 ww38.bewerbungsschreiben.info
 cpcalendars.bfcards.info
 www.bfcards.info
-m.bguide.info
-mail.bguide.info
-ww17.bguide.info
-ww25.bguide.info
-www.bguide.info
+bguide.info
 bhealthynow.info
 biblindex.info
 auth.big-library.info
@@ -60886,7 +60877,11 @@ gitorm.info
 giveawayforyou.info
 glee-episode.info
 globaldew.info
-godspeakstoday.info
+ns1.godspeakstoday.info
+ns2.godspeakstoday.info
+webdisk.godspeakstoday.info
+ww25.godspeakstoday.info
+www.godspeakstoday.info
 goldrock.info
 golfbooks.info
 gonzovideos.info
@@ -61113,6 +61108,9 @@ japy.info
 jayrigby.info
 jebar.info
 19109.jetztodernie.info
+dorn.jetztodernie.info
+leela.jetztodernie.info
+signed.jetztodernie.info
 jezdeckaskola.info
 jianyue.info
 jinan.info
@@ -61475,7 +61473,6 @@ www.movieeater.info
 pagalworld.moviescounters.info
 ww1.moviescounters.info
 ww11.moviescounters.info
-www.moviescounters.info
 movietool.info
 mail.mp3-pesni.info
 ww1.mp3-pesni.info
@@ -62376,6 +62373,7 @@ ww1.sepalo3.info
 ww17.sepalo3.info
 ww3.sepalo3.info
 ww38.sepalo3.info
+ww4.sepalo3.info
 www.sepalo3.info
 sere.info
 serenade.info
@@ -105127,6 +105125,7 @@ acanadogfood.org
 accaglobal.org
 www.gw.accessplus.org
 ww1.accessplus.org
+ww17.accessplus.org
 www.accessplus.org
 ww1.accreditedlifeexperiencedegree.org
 ww17.accreditedlifeexperiencedegree.org
@@ -106875,9 +106874,12 @@ primejailbait.org
 prismarc.org
 privacy-center.org
 akam.probestfilm.org
+cdn.probestfilm.org
 video.probestfilm.org
 ww1.probestfilm.org
+ww11.probestfilm.org
 ww17.probestfilm.org
+ww38.probestfilm.org
 www.probestfilm.org
 procorn.org
 progepe.org
@@ -107557,6 +107559,7 @@ thepiratebayproxy.org
 thepiratebayt.org
 ww11.thepiratebayy.org
 ww16.thepiratebayy.org
+ww17.thepiratebayy.org
 ww2.thepiratebayy.org
 ww25.thepiratebayy.org
 ww38.thepiratebayy.org
@@ -111914,6 +111917,7 @@ amung.us
 anonymousinsights.us
 binances.us
 www.cdnpps.us
+hudderostmaster.coinbasegive.us
 www.coinbasegive.us
 ip4.emarsys.us
 suitepmta020155.emarsys.us
