@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342518
+# Ignored duplicates: 342489
 
 chameleon.ad
 pixel.ad
@@ -6462,8 +6462,6 @@ alocdn.com
 alongabay.com
 aloofmetal.com
 aloofvest.com
-go.alooma.com
-zendesk.alooma.com
 alphabuds.com
 alpixtrack.com
 ww1.alsader.com
@@ -15986,7 +15984,6 @@ envisonreports.com
 enzajit.com
 eonenergt.com
 eototal.com
-mail.epanix.com
 www.epanix.com
 eperon-medieval.com
 epg2idfir.com
@@ -53808,6 +53805,7 @@ ti-brend.com
 tiantianpokemon.com
 tic-parchi.com
 ticketaunt.com
+click.mailing.ticketmaster.com
 ads.as4x.tmcs.ticketmaster.com
 ticklesign.com
 ticksel.com
@@ -55357,6 +55355,8 @@ prosiebensat1-videokatalog.veeseo.com
 rce.veeseo.com
 rce-dev.veeseo.com
 run.veeseo.com
+ssp-rce.veeseo.com
+tracking-rce.veeseo.com
 us.veeseo.com
 utterson.veeseo.com
 vseocore.veeseo.com
@@ -56719,7 +56719,6 @@ wwwsouthernliving.com
 wwwstoresupply.com
 wwwsurveywalmart.com
 wwwtexasonline.com
-ww1.wwwtropicana.com
 wwwtubely.com
 wwwtuitionpay.com
 wwwuniteddentalonline.com
@@ -60605,7 +60604,6 @@ mail.elweva.info
 www.elweva.info
 www.emoticone-gratuit.info
 www.emruz.info
-ww1.endermanch.info
 ww38.endermanch.info
 energydrink.info
 ww1.englishhouse.info
@@ -61103,10 +61101,7 @@ janasevanakendram.info
 japy.info
 jayrigby.info
 jebar.info
-19109.jetztodernie.info
-dorn.jetztodernie.info
-leela.jetztodernie.info
-signed.jetztodernie.info
+jetztodernie.info
 jezdeckaskola.info
 jianyue.info
 jinan.info
@@ -61312,6 +61307,8 @@ manapeddapuram.info
 manga-channel.info
 mangareading.info
 manualdekangoo.info
+wallpapersafariphone.mapalaui.info
+ww1.mapalaui.info
 ww17.mapalaui.info
 ww2.mapalaui.info
 ww38.mapalaui.info
@@ -61701,9 +61698,7 @@ www2.ofcpage.info
 offertedilavoro.info
 oficinavirtualdeempleo.info
 ogen-laseren.info
-mail.oglasiposao.info
-webdisk.oglasiposao.info
-www.oglasiposao.info
+oglasiposao.info
 okelagu.info
 oknaatip.info
 www.olas.info
@@ -62409,6 +62404,7 @@ sillanpaa.info
 simbox.info
 simming.info
 sinazucar.info
+sinhalaonline.info
 sirri.info
 www.sitedata.info
 sixcalifornias.info
@@ -62751,6 +62747,7 @@ play.tercabilis.info
 enriquedeossotelde.teresianas.info
 huelva.teresianas.info
 jesusmaestro.teresianas.info
+mail.teresianas.info
 mariainmaculada.teresianas.info
 sanjuan.teresianas.info
 teresianolaspalmas.teresianas.info
@@ -63398,7 +63395,6 @@ www.wishrobux.info
 witze.info
 woco.info
 wonderweblink.info
-ns2.wood35.info
 ww1.wood35.info
 ww16.wood35.info
 ww25.wood35.info
@@ -67349,7 +67345,6 @@ home-doom.sandbox.redventures.io
 home-platform-engineering.sandbox.redventures.io
 insurance.sandbox.redventures.io
 lonelyplanet-digital.sandbox.redventures.io
-mediatech.sandbox.redventures.io
 mlops.sandbox.redventures.io
 mt-video.sandbox.redventures.io
 mymove.sandbox.redventures.io
@@ -103232,7 +103227,6 @@ gofilterd-p3las1.mail-pipeline.k8s.sendgrid.net
 gofilterd-p3mdw1.mail-pipeline.k8s.sendgrid.net
 gofilterd-s2mdw1.mail-pipeline.k8s.sendgrid.net
 gofilterd-s3mdw1.mail-pipeline.k8s.sendgrid.net
-mailsettings-p2mdw1.k8s.sendgrid.net
 mailsettings-p3iad2.k8s.sendgrid.net
 mailsettings-p3las1.k8s.sendgrid.net
 alertmanager.asgard-prod-a.mdw1.k8s.sendgrid.net
@@ -105367,8 +105361,6 @@ www.bedpunjab.org
 api.miner.beeppool.org
 beeurl.org
 behive.org
-www.bimbelcpns.belajaronline.org
-www.proyektor.belajaronline.org
 www.bensonfire.org
 beretta-e.org
 bestfreinds.org
@@ -107772,6 +107764,7 @@ veditz.org
 vedmo.org
 venicedobermanrescue.org
 ventriloharassment.org
+ww16.veporn.org
 ww25.veporn.org
 www.veporn.org
 verpelis.org
