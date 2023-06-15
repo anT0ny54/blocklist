@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342489
+# Ignored duplicates: 342549
 
 chameleon.ad
 pixel.ad
@@ -15336,8 +15336,6 @@ zmail.dofattv.com
 dofloration.com
 dogcollarfavourbluff.com
 www.wp.dogeblack.com
-ww25.dogeblack.com
-ww38.dogeblack.com
 doggiepot.com
 dogmelon.com
 dogwisperer.com
@@ -22495,6 +22493,9 @@ massageview.com
 massariuscdn.com
 massivemark.com
 platform.massrelevance.com
+ww12.masstheband.com
+ww7.masstheband.com
+www.masstheband.com
 pop.masterquizzes.com
 masticricket.com
 ads.affiliates.match.com
@@ -22533,6 +22534,7 @@ maytrics.com
 mbankingbca.com
 mbanorte.com
 mcafeeantivirusplus.com
+www.mccluskychevrolet.com
 mcdlks.com
 pulse.mcdonalds.com
 mchnad.com
@@ -43198,7 +43200,6 @@ kiwitaxi.postaffiliatepro.com
 knightfgcom.postaffiliatepro.com
 konga.postaffiliatepro.com
 konibet.postaffiliatepro.com
-konsciousketo.postaffiliatepro.com
 kratora.postaffiliatepro.com
 kryptosino.postaffiliatepro.com
 languages-direct.postaffiliatepro.com
@@ -53614,6 +53615,7 @@ tellcanadiantire.com
 tellwendy.com
 tellyshopping.com
 ww1.temasdecelular.com
+www.temasdecelular.com
 temelio.com
 tendertest.com
 tenjin.com
@@ -56657,6 +56659,7 @@ ww1.wwwaveeno.com
 www.wwwaveeno.com
 wwwbeen.com
 wwwbigfish.com
+www.wwwblazecc.com
 wwwcevalogistics.com
 wwwcharlotteobserver.com
 wwwclubefashion.com
@@ -59613,10 +59616,8 @@ allgalle.info
 alsahabmedia.info
 mail.alterzon.info
 webdisk.alterzon.info
-ww1.alterzon.info
 ww11.alterzon.info
 ww17.alterzon.info
-www.alterzon.info
 amagrlsuk.info
 amazingporn.info
 amazonshoppingindir.info
@@ -60911,6 +60912,7 @@ guardatv.info
 guesthouse.info
 guineenews.info
 gunxue.info
+ww1.gurusd.info
 guter-punkt.info
 gutteruncensored.info
 gyaoh.info
@@ -61421,6 +61423,8 @@ ww17.mmo24.info
 ww38.mmo24.info
 ww4.mmo24.info
 www.mmo24.info
+ww17.mnogosporta.info
+ww62.mnogosporta.info
 mail.mobile-damz.info
 mail2.mobile-damz.info
 ww1.mobile-damz.info
@@ -61650,7 +61654,6 @@ nycc.info
 nzpersonals.info
 autodiscover.o488.info
 driive-com.o488.info
-webdisk.o488.info
 ww17.o488.info
 www.o488.info
 obatnya.info
@@ -61728,6 +61731,7 @@ paginapeliculasonline.info
 www.pajarorojo.info
 ww1.paleoforbreakfast.info
 ww16.paleoforbreakfast.info
+ww17.paleoforbreakfast.info
 ww25.paleoforbreakfast.info
 ww38.paleoforbreakfast.info
 www.paleoforbreakfast.info
@@ -62473,8 +62477,8 @@ ww1.songspksongspk.info
 ww17.songspksongspk.info
 www.songspksongspk.info
 sonrose.info
-mvideo.sonyvegas.info
-ww16.sonyvegas.info
+ww16.mvideo.sonyvegas.info
+ww25.mvideo.sonyvegas.info
 soramoon.info
 sorarose.info
 ww1.sourcevapes.info
@@ -63395,7 +63399,6 @@ www.wishrobux.info
 witze.info
 woco.info
 wonderweblink.info
-ww1.wood35.info
 ww16.wood35.info
 ww25.wood35.info
 ww38.wood35.info
@@ -103227,8 +103230,6 @@ gofilterd-p3las1.mail-pipeline.k8s.sendgrid.net
 gofilterd-p3mdw1.mail-pipeline.k8s.sendgrid.net
 gofilterd-s2mdw1.mail-pipeline.k8s.sendgrid.net
 gofilterd-s3mdw1.mail-pipeline.k8s.sendgrid.net
-mailsettings-p3iad2.k8s.sendgrid.net
-mailsettings-p3las1.k8s.sendgrid.net
 alertmanager.asgard-prod-a.mdw1.k8s.sendgrid.net
 atc-web.asgard-prod-a.mdw1.k8s.sendgrid.net
 blackbox.asgard-prod-a.mdw1.k8s.sendgrid.net
@@ -105432,9 +105433,7 @@ bulldogplanet.org
 bulmaca.org
 calcaostcu.org
 californiacollegeofpharmacy.org
-ww38.californiadreamact.org
 www.californiadreamact.org
-www1.californiadreamact.org
 www.caloanrefund.org
 calper.org
 cam5.org
@@ -105989,8 +105988,6 @@ familysesrch.org
 familyshearch.org
 familyusearch.org
 fantasy-world.org
-staging.fantasyrole.org
-ww43.fantasyrole.org
 www.fantasyrole.org
 farmewg.org
 fastvpn.org
