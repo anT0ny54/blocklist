@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342549
+# Ignored duplicates: 342566
 
 chameleon.ad
 pixel.ad
@@ -15765,6 +15765,7 @@ www.ebdr1.com
 ebdr3.com
 ebuzzingvideo.com
 applets.ebxcdn.com
+ecampaignstats.com
 apituner.ecbsn.com
 bl.ecbsn.com
 capture.ecbsn.com
@@ -15982,7 +15983,6 @@ envisonreports.com
 enzajit.com
 eonenergt.com
 eototal.com
-www.epanix.com
 eperon-medieval.com
 epg2idfir.com
 metric-public-service-prod.ol.epicgames.com
@@ -16352,6 +16352,7 @@ ads.faxo.com
 fbcloud.com
 fbline.com
 fdjeaux.com
+februarylovestory.com
 smetrics.fedex.com
 feebleshock.com
 feedad.com
@@ -20952,11 +20953,8 @@ salesapps-usa.localiq.com
 salesapps-usa-qa.localiq.com
 salestool-aus.localiq.com
 salestool-can.localiq.com
-salestool-dev-usa.localiq.com
 salestool-gbr.localiq.com
 salestool-partner-can.localiq.com
-salestool-partner-dev-usa.localiq.com
-salestool-partner-qa-aus.localiq.com
 salestool-partner-qa-can.localiq.com
 salestool-partner-qa-usa.localiq.com
 salestool-partner-usa.localiq.com
@@ -21036,6 +21034,7 @@ ww2.localiq.com
 www.localiq.com
 ydr.localiq.com
 zanesvilletimesrecorder.localiq.com
+localiqtracking.com
 localnotify.com
 localphotoads.com
 localytics.com
@@ -21357,6 +21356,7 @@ lynnsauto.com
 lysxtreme.com
 lzjl.com
 lzufdthrffiihutfg1.com
+lzxdx24yib.com
 m-freeway.com
 ww16.m3adaptador.com
 ww17.m3adaptador.com
@@ -42872,7 +42872,6 @@ polycodes.com
 ponsocket.com
 analytics.poolshool.com
 popcornetime.com
-popitunder.com
 popmyads.com
 poprule.com
 ts.popsugar.com
@@ -58367,6 +58366,7 @@ zinimaya.com
 revive.zinion.com
 www.zizzhut.com
 ww25.zkkkladno.com
+zlbtaj.com
 zm232.com
 creator.zmags.com
 zmenmuol.com
@@ -60912,6 +60912,14 @@ guardatv.info
 guesthouse.info
 guineenews.info
 gunxue.info
+cpcontacts.gurusd.info
+ini.gurusd.info
+mail.gurusd.info
+neonlms.gurusd.info
+ns2.gurusd.info
+sdn2.gurusd.info
+sdn2bleder.gurusd.info
+server.gurusd.info
 ww1.gurusd.info
 guter-punkt.info
 gutteruncensored.info
@@ -61596,7 +61604,6 @@ ww17.nikeclassicac.info
 ww25.nikeclassicac.info
 ww38.nikeclassicac.info
 www.nikeclassicac.info
-www.nipponicum.info
 nnbbs.info
 ww1.nnmodels.info
 ww16.nnmodels.info
@@ -61729,6 +61736,7 @@ packettracer.info
 www.padnij.info
 paginapeliculasonline.info
 www.pajarorojo.info
+mail.paleoforbreakfast.info
 ww1.paleoforbreakfast.info
 ww16.paleoforbreakfast.info
 ww17.paleoforbreakfast.info
@@ -62265,8 +62273,9 @@ mail.sancarlosminas.info
 webdisk.sancarlosminas.info
 www.sancarlosminas.info
 sandino.info
-tutu1.santelvxing.info
-ww25.santelvxing.info
+ww16.tutu1.santelvxing.info
+ww25.tutu1.santelvxing.info
+ww38.tutu1.santelvxing.info
 mx.sanvitolocapo.info
 ww1.sanvitolocapo.info
 ww11.sanvitolocapo.info
@@ -62477,8 +62486,6 @@ ww1.songspksongspk.info
 ww17.songspksongspk.info
 www.songspksongspk.info
 sonrose.info
-ww16.mvideo.sonyvegas.info
-ww25.mvideo.sonyvegas.info
 soramoon.info
 sorarose.info
 ww1.sourcevapes.info
@@ -63365,7 +63372,6 @@ mail.warface.info
 ww11.warface.info
 ww25.warface.info
 ww38.warface.info
-www.warface.info
 watchmovie.info
 watchpinoymovieonline.info
 wazze.info
@@ -63399,7 +63405,6 @@ www.wishrobux.info
 witze.info
 woco.info
 wonderweblink.info
-ww16.wood35.info
 ww25.wood35.info
 ww38.wood35.info
 www.wood35.info
@@ -63409,6 +63414,7 @@ worldsportsmemorabilia.info
 wowchar.info
 wowsource.info
 wwpc.info
+researchwhangip.wwwmuzik.info
 xav11.info
 xeal.info
 xiaohuangren.info
@@ -78336,12 +78342,9 @@ shard-4.pop-iad-2.cf.dash.row.aiv-cdn.net
 shard-5.pop-iad-2.cf.dash.row.aiv-cdn.net
 shard-6.pop-iad-2.cf.dash.row.aiv-cdn.net
 api.us-east-1.aiv-delivery.net
-1.ak-is.net
 1cmp.ak-is.net
-2.ak-is.net
 alt.ak-is.net
 antispam.ak-is.net
-art.ak-is.net
 as.ak-is.net
 aui.ak-is.net
 auth.ak-is.net
@@ -78350,19 +78353,14 @@ barracuda.ak-is.net
 bedrijven.ak-is.net
 box.ak-is.net
 click-useast.ak-is.net
-com.ak-is.net
 comune.ak-is.net
 correo.ak-is.net
-cp.ak-is.net
 cpm.ak-is.net
 cpn.ak-is.net
-cs.ak-is.net
 direct.ak-is.net
-download.ak-is.net
 downloads.ak-is.net
 email.ak-is.net
 eml.ak-is.net
-en.ak-is.net
 facebook.ak-is.net
 fs.ak-is.net
 gallery.ak-is.net
@@ -78373,14 +78371,12 @@ gw.ak-is.net
 hermes.ak-is.net
 home.ak-is.net
 host.ak-is.net
-images.ak-is.net
 imap1.ak-is.net
 imap2.ak-is.net
 internet.ak-is.net
 localhost.ak-is.net
 m.ak-is.net
 mail.ak-is.net
-mail01.ak-is.net
 mail02.ak-is.net
 mail1.ak-is.net
 mail10.ak-is.net
@@ -78392,15 +78388,12 @@ mail5.ak-is.net
 mail6.ak-is.net
 mail7.ak-is.net
 mail8.ak-is.net
-mail9.ak-is.net
 mailbox.ak-is.net
-mailer.ak-is.net
 mailgate.ak-is.net
 mailgw.ak-is.net
 mailhost.ak-is.net
 mailin.ak-is.net
 mailout.ak-is.net
-mailrelay.ak-is.net
 mails.ak-is.net
 mailserver.ak-is.net
 mailsrv.ak-is.net
@@ -78411,8 +78404,6 @@ mbox.ak-is.net
 ms.ak-is.net
 ms1.ak-is.net
 mta.ak-is.net
-mta1.ak-is.net
-mx.ak-is.net
 mx0.ak-is.net
 mx01.ak-is.net
 mx02.ak-is.net
@@ -78424,21 +78415,15 @@ mx3.ak-is.net
 mx4.ak-is.net
 mx5.ak-is.net
 mx7.ak-is.net
-mxs.ak-is.net
 newmail.ak-is.net
-news.ak-is.net
 ns.ak-is.net
 ns1.ak-is.net
 ns2.ak-is.net
 nsw.ak-is.net
 out.ak-is.net
 outmail.ak-is.net
-pbrand.ak-is.net
 po.ak-is.net
 poczta.ak-is.net
-pop.ak-is.net
-post.ak-is.net
-posta.ak-is.net
 postmaster.ak-is.net
 relay.ak-is.net
 relay1.ak-is.net
@@ -78453,7 +78438,6 @@ adfries.rtb-eu.ak-is.net
 adventurefeeds.rtb-eu.ak-is.net
 earnify.rtb-eu.ak-is.net
 mediastinct.rtb-eu.ak-is.net
-rtb-ui.ak-is.net
 adfries.rtb-useast.ak-is.net
 adhunter.rtb-useast.ak-is.net
 earnify.rtb-useast.ak-is.net
@@ -78467,29 +78451,21 @@ rtb-xs.ak-is.net
 nativeadsfeed.rtv.ak-is.net
 secure.ak-is.net
 seed.ak-is.net
-send.ak-is.net
 server.ak-is.net
-server1.ak-is.net
 server2.ak-is.net
 smtp01.ak-is.net
 smtpauth.ak-is.net
 smtpmail.ak-is.net
 smtps.ak-is.net
 smtpseguro.ak-is.net
-srv.ak-is.net
-ssl.ak-is.net
 thor.ak-is.net
 tiger.ak-is.net
 ts.ak-is.net
-tw.ak-is.net
 eximdigital.ui.ak-is.net
 targead.ui.ak-is.net
 vip.ak-is.net
 vmail.ak-is.net
-vnet.ak-is.net
-vps.ak-is.net
 watch.ak-is.net
-webdisk.ak-is.net
 webshop.ak-is.net
 wldcrdrcrd.ak-is.net
 www1.ak-is.net
@@ -107262,6 +107238,8 @@ gw.savethechilden.org
 hermes.savethechilden.org
 home.savethechilden.org
 host.savethechilden.org
+imap1.savethechilden.org
+imap2.savethechilden.org
 internet.savethechilden.org
 ipe.savethechilden.org
 m.savethechilden.org
@@ -107273,12 +107251,14 @@ mail11.savethechilden.org
 mail12.savethechilden.org
 mail2.savethechilden.org
 mail4.savethechilden.org
+mail5.savethechilden.org
 mail6.savethechilden.org
 mail7.savethechilden.org
 mail8.savethechilden.org
 mail9.savethechilden.org
 mailapp.savethechilden.org
 mailer.savethechilden.org
+mailgate.savethechilden.org
 mailgw.savethechilden.org
 mailhost.savethechilden.org
 mailin.savethechilden.org
@@ -107294,6 +107274,7 @@ mx0.savethechilden.org
 mx02.savethechilden.org
 mx1.savethechilden.org
 mx10.savethechilden.org
+mx2.savethechilden.org
 mx20.savethechilden.org
 mx3.savethechilden.org
 mx4.savethechilden.org
@@ -107306,6 +107287,7 @@ ns2.savethechilden.org
 out.savethechilden.org
 outmail.savethechilden.org
 pbrand.savethechilden.org
+po.savethechilden.org
 poczta.savethechilden.org
 pop.savethechilden.org
 post.savethechilden.org
@@ -107331,6 +107313,8 @@ vmail.savethechilden.org
 vps.savethechilden.org
 ww1.savethechilden.org
 ww38.savethechilden.org
+www.savethechilden.org
+www1.savethechilden.org
 sbunfied.org
 sc-court.org
 scgovjobs.org
