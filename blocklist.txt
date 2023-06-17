@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342566
+# Ignored duplicates: 342593
 
 chameleon.ad
 pixel.ad
@@ -9009,6 +9009,7 @@ cats-on-line.com
 catspage.com
 causecherry.com
 cautiouscredit.com
+f.cbarsrv.com
 cbcaau.com
 cbeao.com
 direct.cbmax.com
@@ -15335,7 +15336,6 @@ www.dofattv.com
 zmail.dofattv.com
 dofloration.com
 dogcollarfavourbluff.com
-www.wp.dogeblack.com
 doggiepot.com
 dogmelon.com
 dogwisperer.com
@@ -15900,7 +15900,6 @@ www1.elianca.com
 www2.elianca.com
 zimbra.elianca.com
 zmail.elianca.com
-elitecaliscorts.com
 elitedollars.com
 elitetoplist.com
 ads.elitetrader.com
@@ -48788,6 +48787,7 @@ resugence.com
 resultify.com
 banners.resultonline.com
 resumendejinete.com
+retailmehot.com
 retargeter.com
 retargetly.com
 retargettracker.com
@@ -50628,11 +50628,7 @@ searchingtax.com
 searchingteam.com
 searchingtown.com
 searchmanagerplus.com
-datastore.searchmanagertech.com
-static.searchmanagertech.com
 static-v2.searchmanagertech.com
-ww16.searchmanagertech.com
-www.searchmanagertech.com
 searchmangra.com
 searchmarketing.com
 searchmgr.com
@@ -59624,6 +59620,7 @@ amazonshoppingindir.info
 amine.info
 amiro.info
 amsterdamsightseeing.info
+anandgroup.info
 anarsi.info
 andreas-hofer.info
 androidfilmy.info
@@ -61037,7 +61034,6 @@ hookers.info
 hookuponlineplussize.info
 hothairypussy.info
 hothome.info
-hothot.info
 hotmusic.info
 hotxtube.info
 hounslow.info
@@ -61431,8 +61427,13 @@ ww17.mmo24.info
 ww38.mmo24.info
 ww4.mmo24.info
 www.mmo24.info
+ns1.mnogosporta.info
+ns2.mnogosporta.info
 ww17.mnogosporta.info
+ww2.mnogosporta.info
+ww38.mnogosporta.info
 ww62.mnogosporta.info
+www.mnogosporta.info
 mail.mobile-damz.info
 mail2.mobile-damz.info
 ww1.mobile-damz.info
@@ -61474,9 +61475,6 @@ sitemaps.movieeater.info
 ww1.movieeater.info
 ww17.movieeater.info
 www.movieeater.info
-pagalworld.moviescounters.info
-ww1.moviescounters.info
-ww11.moviescounters.info
 movietool.info
 mail.mp3-pesni.info
 ww1.mp3-pesni.info
@@ -61659,7 +61657,6 @@ nxnn.info
 www.nyanko.info
 nycc.info
 nzpersonals.info
-autodiscover.o488.info
 driive-com.o488.info
 ww17.o488.info
 www.o488.info
@@ -62126,6 +62123,7 @@ ravs.info
 rawmangabk.info
 raznesi.info
 rc51.info
+rcia.info
 rdks.info
 re6.info
 realitaeten.info
@@ -62140,29 +62138,6 @@ ww38.rearsets.info
 www.rearsets.info
 receptcity.info
 recepti-i-ideje.info
-authsmtp.reciclaje.info
-imap1.reciclaje.info
-imap2.reciclaje.info
-m.reciclaje.info
-mail.reciclaje.info
-mail1.reciclaje.info
-mailer.reciclaje.info
-mailgate.reciclaje.info
-mailin.reciclaje.info
-mailout.reciclaje.info
-mailx.reciclaje.info
-mx.reciclaje.info
-mx1.reciclaje.info
-mx2.reciclaje.info
-ns.reciclaje.info
-ns1.reciclaje.info
-ns2.reciclaje.info
-postmaster.reciclaje.info
-relay.reciclaje.info
-smtps.reciclaje.info
-ww1.reciclaje.info
-ww25.reciclaje.info
-www2.reciclaje.info
 red-rose.info
 redhotrealty.info
 redup.info
@@ -67305,7 +67280,6 @@ auth.expertflyer-dev.redventures.io
 expertflyer-staging.redventures.io
 feeds.redventures.io
 assets.us.flow.redventures.io
-static.us.flow.redventures.io
 frontier.redventures.io
 galaxy.redventures.io
 guardian.redventures.io
@@ -104987,6 +104961,7 @@ store-notification.online
 22js.org
 24tabs.org
 2kmovie.org
+32nd.org
 3qqq.org
 49nct.org
 4bilder1wort.org
@@ -105338,6 +105313,7 @@ www.bedpunjab.org
 api.miner.beeppool.org
 beeurl.org
 behive.org
+ww25.bensonfire.org
 www.bensonfire.org
 beretta-e.org
 bestfreinds.org
@@ -106742,6 +106718,7 @@ www.outbrain.org
 zemanta-ny.outbrain.org
 zemanta-nychi.outbrain.org
 zemanta-sa.outbrain.org
+oxfarm.org
 ozgurlukdergisi.org
 ozilla.org
 paceapp.org
@@ -107463,21 +107440,6 @@ subsmovies.org
 summervillespca.org
 sun-biz.org
 sun-time.org
-imap2.sunsetclubs.org
-mail1.sunsetclubs.org
-mailer.sunsetclubs.org
-mailgate.sunsetclubs.org
-mailgw.sunsetclubs.org
-mailhost.sunsetclubs.org
-mailin.sunsetclubs.org
-mailserver.sunsetclubs.org
-poczta.sunsetclubs.org
-postmaster.sunsetclubs.org
-secure.sunsetclubs.org
-smtps.sunsetclubs.org
-ww25.sunsetclubs.org
-ww38.sunsetclubs.org
-www.sunsetclubs.org
 super6.org
 supergreatness.org
 suttonyouth.org
@@ -107731,7 +107693,6 @@ ww1.usamnesty.org
 ww25.usamnesty.org
 www.usamnesty.org
 usarchives.org
-www.usaredcross.org
 usclimateplan.org
 usdebtclick.org
 api.userway.org
@@ -107740,6 +107701,7 @@ uspoen.org
 utsglobal.org
 vadets.org
 vanburencounty.org
+vanpool.org
 vectorizacion.org
 veditz.org
 vedmo.org
@@ -108091,7 +108053,6 @@ adriver.ru
 adsniper.ru
 adtech-digital.ru
 ad.allboxing.ru
-ads.apteka254.ru
 mamka.aviasales.ru
 ads.bb59.ru
 begun.ru
@@ -108364,6 +108325,7 @@ barbours.com.se
 campersverige.com.se
 chaco.com.se
 dakine.com.se
+eccoskorea.com.se
 fila.com.se
 footjoygolfskorrea.com.se
 girohjalm.com.se
@@ -108372,7 +108334,6 @@ gymsharksverige.com.se
 hollistersverige.com.se
 inov-8.com.se
 jackwolfskinsverige.com.se
-keenstockholm.com.se
 legero.com.se
 loewe.com.se
 longchampstockholm.com.se
