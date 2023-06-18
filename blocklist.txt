@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342593
+# Ignored duplicates: 342672
 
 chameleon.ad
 pixel.ad
@@ -9009,7 +9009,27 @@ cats-on-line.com
 catspage.com
 causecherry.com
 cautiouscredit.com
+15.cbarsrv.com
+actions-latb.cbarsrv.com
+actions-nj.cbarsrv.com
+actions-ny.cbarsrv.com
+clickam.cbarsrv.com
+convhkmp.cbarsrv.com
+convlatbmp.cbarsrv.com
+convnjmp.cbarsrv.com
+convusmp.cbarsrv.com
+crus.cbarsrv.com
 f.cbarsrv.com
+f16.silaexpert02.frwf.cbarsrv.com
+imprammp.cbarsrv.com
+imprnjmp.cbarsrv.com
+imprusmp.cbarsrv.com
+match.cbarsrv.com
+mprnjmp.cbarsrv.com
+onvlatbmp.cbarsrv.com
+oops.cbarsrv.com
+opps.cbarsrv.com
+www.cbarsrv.com
 cbcaau.com
 cbeao.com
 direct.cbmax.com
@@ -53716,6 +53736,7 @@ themedicalalertsguide.com
 themigraineinfo.com
 themoneytizer.com
 ads.themovienation.com
+theofficetelevision.com
 metrics.thepointsguy.com
 theprofessionalshub.com
 theprostatecancertreat.com
@@ -59852,7 +59873,6 @@ behindthescene.info
 www.belajarpc.info
 beotubex.info
 beragam.info
-beringe.info
 cpcalendars.beritaislam24h.info
 cpcontacts.beritaislam24h.info
 mail.beritaislam24h.info
@@ -60226,9 +60246,6 @@ cd-player.info
 degenerate.cediss.info
 dimension.cediss.info
 four.cediss.info
-smtp10.g1.cediss.info
-smtp10.g2.cediss.info
-ww25.cediss.info
 ww38.cediss.info
 ww1.celiaimrie.info
 www.celiaimrie.info
@@ -60518,6 +60535,7 @@ doctorette.info
 stats.docu.info
 www.dodgecolors.info
 dog-training-online.info
+ww38.dogecoinfaucets.info
 doisong.info
 ww17.dolly.info
 www.dolly.info
@@ -60602,7 +60620,10 @@ mail.elweva.info
 www.elweva.info
 www.emoticone-gratuit.info
 www.emruz.info
+dl.endermanch.info
+infectedplanet.endermanch.info
 ww38.endermanch.info
+www.endermanch.info
 energydrink.info
 ww1.englishhouse.info
 ww17.englishhouse.info
@@ -60909,15 +60930,7 @@ guardatv.info
 guesthouse.info
 guineenews.info
 gunxue.info
-cpcontacts.gurusd.info
-ini.gurusd.info
-mail.gurusd.info
-neonlms.gurusd.info
-ns2.gurusd.info
-sdn2.gurusd.info
-sdn2bleder.gurusd.info
-server.gurusd.info
-ww1.gurusd.info
+gurusd.info
 guter-punkt.info
 gutteruncensored.info
 gyaoh.info
@@ -61497,6 +61510,7 @@ ww3.multi3ker.info
 ww38.multi3ker.info
 www.multi3ker.info
 multivitamine.info
+multiweblibre.info
 mur-porteur.info
 museum-of-artifacts.info
 music-bg.info
@@ -61657,9 +61671,6 @@ nxnn.info
 www.nyanko.info
 nycc.info
 nzpersonals.info
-driive-com.o488.info
-ww17.o488.info
-www.o488.info
 obatnya.info
 antispam.ofcpage.info
 auth.ofcpage.info
@@ -62201,7 +62212,8 @@ rumahmodernterbaik.info
 rumobi.info
 rupertmallin.info
 rusputana.info
-russia09.info
+ww16.tm.russia09.info
+ww25.russia09.info
 russian-ships.info
 rutube.info
 ww16.rutur.info
@@ -62248,8 +62260,6 @@ mail.sancarlosminas.info
 webdisk.sancarlosminas.info
 www.sancarlosminas.info
 sandino.info
-ww16.tutu1.santelvxing.info
-ww25.tutu1.santelvxing.info
 ww38.tutu1.santelvxing.info
 mx.sanvitolocapo.info
 ww1.sanvitolocapo.info
@@ -62858,7 +62868,6 @@ www.tnggz.info
 tnoa2019.info
 tnpsctamil.info
 tnttorent.info
-ww1.todayfootball.info
 ww16.todayfootball.info
 ww25.todayfootball.info
 ww38.todayfootball.info
@@ -63345,8 +63354,6 @@ waptrik.info
 is.warface.info
 mail.warface.info
 ww11.warface.info
-ww25.warface.info
-ww38.warface.info
 watchmovie.info
 watchpinoymovieonline.info
 wazze.info
@@ -63380,7 +63387,6 @@ www.wishrobux.info
 witze.info
 woco.info
 wonderweblink.info
-ww25.wood35.info
 ww38.wood35.info
 www.wood35.info
 woodworkplans.info
@@ -63389,7 +63395,7 @@ worldsportsmemorabilia.info
 wowchar.info
 wowsource.info
 wwpc.info
-researchwhangip.wwwmuzik.info
+wwwmuzik.info
 xav11.info
 xeal.info
 xiaohuangren.info
@@ -78319,7 +78325,6 @@ api.us-east-1.aiv-delivery.net
 1cmp.ak-is.net
 alt.ak-is.net
 antispam.ak-is.net
-as.ak-is.net
 aui.ak-is.net
 auth.ak-is.net
 authsmtp.ak-is.net
@@ -78418,8 +78423,6 @@ earnify.rtb-useast.ak-is.net
 adsiduous.rtb-uswest.ak-is.net
 kds.rtb-uswest.ak-is.net
 pressize.rtb-uswest.ak-is.net
-readywind.rtb-uswest.ak-is.net
-waardex.rtb-uswest.ak-is.net
 web3.rtb-uswest.ak-is.net
 rtb-xs.ak-is.net
 nativeadsfeed.rtv.ak-is.net
@@ -105873,6 +105876,7 @@ eduteca.org
 eiceresources.org
 eisenhoweracademy.org
 eldercohousing.org
+ww1.elemnts.org
 elhar.org
 elpr.org
 email-verify.org
@@ -108325,7 +108329,6 @@ barbours.com.se
 campersverige.com.se
 chaco.com.se
 dakine.com.se
-eccoskorea.com.se
 fila.com.se
 footjoygolfskorrea.com.se
 girohjalm.com.se
@@ -111722,6 +111725,7 @@ p.estream.to
 play.estream.to
 video.streaming.estream.to
 feed.aservice.tools
+mail.binancegiveaway.top
 fingahvf.top
 push-notifications.top
 admatic.com.tr
