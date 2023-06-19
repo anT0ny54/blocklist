@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342672
+# Ignored duplicates: 342689
 
 chameleon.ad
 pixel.ad
@@ -5641,7 +5641,6 @@ a0016-spokenlangidentifier.ai.randi.adswizz.com
 c0113-banner-recommender.ai.randi.adswizz.com
 c0114-web-extractor.ai.randi.adswizz.com
 captain.ai.randi.adswizz.com
-analytics.randi.adswizz.com
 a0001-textrazor.apps.randi.adswizz.com
 a0003-codeq.apps.randi.adswizz.com
 a0006-azure.apps.randi.adswizz.com
@@ -10097,7 +10096,9 @@ conference.convertkit.com
 coronabd.convertkit.com
 coronaborealis.convertkit.com
 createwith.convertkit.com
+creatornetwork.convertkit.com
 creatorsessions.convertkit.com
+creatortools.convertkit.com
 d.convertkit.com
 disinfection.convertkit.com
 el2.convertkit.com
@@ -11247,8 +11248,6 @@ diaryhub.com
 dibujosmanga.com
 dicasdainternet.com
 dickeckland.com
-ww25.dicksporrtinggoods.com
-www.dicksporrtinggoods.com
 dickssportiggoods.com
 ceops.dickssportinggoods.com
 metrics.dickssportinggoods.com
@@ -59631,9 +59630,6 @@ www.allclipart.info
 allergene.info
 allgalle.info
 alsahabmedia.info
-mail.alterzon.info
-webdisk.alterzon.info
-ww11.alterzon.info
 ww17.alterzon.info
 amagrlsuk.info
 amazingporn.info
@@ -60436,6 +60432,7 @@ deepmix.info
 defereggental.info
 definitelycoming.info
 delhi.info
+www.delhicallgirls.info
 demisroussos.info
 denada.info
 denisa.info
@@ -60535,6 +60532,7 @@ doctorette.info
 stats.docu.info
 www.dodgecolors.info
 dog-training-online.info
+mvideo.dogecoinfaucets.info
 ww38.dogecoinfaucets.info
 doisong.info
 ww17.dolly.info
@@ -60620,6 +60618,7 @@ mail.elweva.info
 www.elweva.info
 www.emoticone-gratuit.info
 www.emruz.info
+ctac.endermanch.info
 dl.endermanch.info
 infectedplanet.endermanch.info
 ww38.endermanch.info
@@ -62212,8 +62211,6 @@ rumahmodernterbaik.info
 rumobi.info
 rupertmallin.info
 rusputana.info
-ww16.tm.russia09.info
-ww25.russia09.info
 russian-ships.info
 rutube.info
 ww16.rutur.info
@@ -62617,7 +62614,6 @@ ww25.tap7500.info
 ww38.tap7500.info
 www.tap7500.info
 taraftarium24hd.info
-ww25.tarjetarojatv.info
 www.tarjetarojatv.info
 tauruszodiac.info
 www.taxecarbone.info
@@ -62871,7 +62867,6 @@ tnttorent.info
 ww16.todayfootball.info
 ww25.todayfootball.info
 ww38.todayfootball.info
-www.todayfootball.info
 tomboytools.info
 tonion.info
 ww1.toonkor.info
@@ -105308,7 +105303,6 @@ dev.bbcvids.org
 magento.bbcvids.org
 secure.bbcvids.org
 staging.bbcvids.org
-ww1.bbcvids.org
 www.bbcvids.org
 bcbcal.org
 beanstock.org
@@ -105316,7 +105310,11 @@ www.bedpunjab.org
 api.miner.beeppool.org
 beeurl.org
 behive.org
+backup.bensonfire.org
+pop.bensonfire.org
+ww1.bensonfire.org
 ww25.bensonfire.org
+ww38.bensonfire.org
 www.bensonfire.org
 beretta-e.org
 bestfreinds.org
@@ -105876,6 +105874,7 @@ eduteca.org
 eiceresources.org
 eisenhoweracademy.org
 eldercohousing.org
+about.elemnts.org
 ww1.elemnts.org
 elhar.org
 elpr.org
@@ -111699,7 +111698,6 @@ zzfc.adj.st
 www.po.st
 emea.viadata.store
 www.freecontent.stream
-minexmr.stream
 webassembly.stream
 ad.style
 live.demand.supply
