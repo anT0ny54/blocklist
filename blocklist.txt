@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342689
+# Ignored duplicates: 342668
 
 chameleon.ad
 pixel.ad
@@ -6360,7 +6360,6 @@ atrk.alexametrics.com
 certify.alexametrics.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
-certify-js-stage.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
@@ -8457,7 +8456,6 @@ boomtrain.com
 boosmobil.com
 boostadvtrack.com
 boostadvtracking.com
-metrics.boostmobile.com
 bootscontactlenserewardscheme.com
 bootyfulworld.com
 bordersbenefits.com
@@ -8865,7 +8863,6 @@ ww11.c-loverz.com
 ww17.c-loverz.com
 ww25.c-loverz.com
 ww31.c-loverz.com
-ww38.c-loverz.com
 www.c-loverz.com
 c1exchange.com
 c3metrics.com
@@ -9009,25 +9006,54 @@ catspage.com
 causecherry.com
 cautiouscredit.com
 15.cbarsrv.com
+actions-eu.cbarsrv.com
 actions-latb.cbarsrv.com
 actions-nj.cbarsrv.com
 actions-ny.cbarsrv.com
 clickam.cbarsrv.com
+clicknj.cbarsrv.com
+v4.avs.activscreen.comopps.cbarsrv.com
+connectivitycheck.android.comopps.cbarsrv.com
+watson.telemetry.microsoft.comopps.cbarsrv.com
+supervision.thiris.comopps.cbarsrv.com
+wfrm-emeaa.trendmicro.comopps.cbarsrv.com
+api.accuweather.comwf.cbarsrv.com
+whatismyip.akamai.comwf.cbarsrv.com
+cloudgz-ecs.gravityzone.bitdefender.comwf.cbarsrv.com
+connectivitycheck.gstatic.comwf.cbarsrv.com
+filedownload.lenovo.comwf.cbarsrv.com
+tile-service.weather.microsoft.comwf.cbarsrv.com
+config.edge.skype.comwf.cbarsrv.com
+reservation.squashjeudepaume.comwf.cbarsrv.com
+s.sspqns.comwf.cbarsrv.com
+liveupdate.symantecliveupdate.comwf.cbarsrv.com
+sv.symcd.comwf.cbarsrv.com
+wfbssvc61.icrc.trendmicro.comwf.cbarsrv.com
 convhkmp.cbarsrv.com
 convlatbmp.cbarsrv.com
 convnjmp.cbarsrv.com
 convusmp.cbarsrv.com
 crus.cbarsrv.com
+eu.cbarsrv.com
+news.genapi.euwf.cbarsrv.com
 f.cbarsrv.com
+update.fiducial-informatique.fropps.cbarsrv.com
+www.azko.frwf.cbarsrv.com
+www.google.frwf.cbarsrv.com
 f16.silaexpert02.frwf.cbarsrv.com
 imprammp.cbarsrv.com
 imprnjmp.cbarsrv.com
 imprusmp.cbarsrv.com
 match.cbarsrv.com
 mprnjmp.cbarsrv.com
+update.cloud.2d585.cdn.bitdefender.netopps.cbarsrv.com
+http.00.s.sophosxl.netopps.cbarsrv.com
+push.bitdefender.netwf.cbarsrv.com
 onvlatbmp.cbarsrv.com
 oops.cbarsrv.com
 opps.cbarsrv.com
+checkipv6.quickconnect.towf.cbarsrv.com
+www.wf.cbarsrv.com
 www.cbarsrv.com
 cbcaau.com
 cbeao.com
@@ -20282,6 +20308,7 @@ kerman94.com
 kesmatic.com
 kew-village.com
 keywordblocks.com
+kgfjrb711.com
 khingtracking.com
 khuds.com
 kiadealer.com
@@ -20857,7 +20884,6 @@ iowa.localiq.com
 ithacajournal.localiq.com
 jacksonsun.localiq.com
 jconline.localiq.com
-jobs-dev.localiq.com
 jsonline.localiq.com
 jupitercourier.localiq.com
 kentuckyenquirer.localiq.com
@@ -51363,6 +51389,7 @@ aka-oh.ads.sizmdx.com
 aka-or.ads.sizmdx.com
 aka-sg.ads.sizmdx.com
 preview-prod-v1.ads.sizmdx.com
+preview-prod-v2.ads.sizmdx.com
 api.sizmdx.com
 asyncentitymanager.sizmdx.com
 ats-prod.sizmdx.com
@@ -56150,6 +56177,7 @@ vukticlataf.com
 vulvatibe.com
 vungle.com
 vuukle.com
+vuvscoqafva.com
 dacdn.vwo.com
 w3ibm.com
 waardex.com
@@ -58492,7 +58520,6 @@ adv.yo.cz
 www.freecontent.date
 180hits.de
 24log.de
-ad.71i.de
 adserver.71i.de
 content.acc-hd.de
 ad-pay.de
@@ -59752,6 +59779,7 @@ avlang17.info
 avlist.info
 avpt.info
 www.avtonom.info
+avusturyavizesi.info
 ayc0zsm69431gfebd.info
 azanime.info
 azjobebooks.info
@@ -60155,11 +60183,7 @@ ww38.cancer-treatment.info
 www.cancer-treatment.info
 candoo.info
 www.candysite.info
-dan.caning.info
-daughters.caning.info
-ww1.caning.info
 ww25.caning.info
-ww38.caning.info
 www.caning.info
 canirunit.info
 canj.info
@@ -60532,8 +60556,16 @@ doctorette.info
 stats.docu.info
 www.dodgecolors.info
 dog-training-online.info
+autodiscover.dogecoinfaucets.info
+mail.dogecoinfaucets.info
 mvideo.dogecoinfaucets.info
+webdisk.dogecoinfaucets.info
+whm.dogecoinfaucets.info
+ww16.dogecoinfaucets.info
+ww17.dogecoinfaucets.info
+ww25.dogecoinfaucets.info
 ww38.dogecoinfaucets.info
+www.dogecoinfaucets.info
 doisong.info
 ww17.dolly.info
 www.dolly.info
@@ -60621,7 +60653,9 @@ www.emruz.info
 ctac.endermanch.info
 dl.endermanch.info
 infectedplanet.endermanch.info
+ww25.endermanch.info
 ww38.endermanch.info
+ww4.endermanch.info
 www.endermanch.info
 energydrink.info
 ww1.englishhouse.info
@@ -61651,8 +61685,8 @@ www.npd-blog.info
 npic.info
 nrgroup.info
 cpcalendars.nrpg.info
-cpcontacts.nrpg.info
 mail.nrpg.info
+ww38.nstudio.nrpg.info
 webdisk.nrpg.info
 www.nrpg.info
 ww1.nrxdh.info
@@ -61777,11 +61811,9 @@ iphone.phimhay.info
 ismart.phimhay.info
 jiangmen.phimhay.info
 mail.phimhay.info
-mvideo.phimhay.info
 ww1.phimhay.info
 ww17.phimhay.info
 www.phimhay.info
-xiangcheng.phimhay.info
 photosex.info
 phpprotect.info
 phpstore.info
@@ -62257,7 +62289,6 @@ mail.sancarlosminas.info
 webdisk.sancarlosminas.info
 www.sancarlosminas.info
 sandino.info
-ww38.tutu1.santelvxing.info
 mx.sanvitolocapo.info
 ww1.sanvitolocapo.info
 ww11.sanvitolocapo.info
@@ -62614,7 +62645,6 @@ ww25.tap7500.info
 ww38.tap7500.info
 www.tap7500.info
 taraftarium24hd.info
-www.tarjetarojatv.info
 tauruszodiac.info
 www.taxecarbone.info
 auth.taxreps.info
@@ -62864,7 +62894,6 @@ www.tnggz.info
 tnoa2019.info
 tnpsctamil.info
 tnttorent.info
-ww16.todayfootball.info
 ww25.todayfootball.info
 ww38.todayfootball.info
 tomboytools.info
@@ -63382,8 +63411,6 @@ www.wishrobux.info
 witze.info
 woco.info
 wonderweblink.info
-ww38.wood35.info
-www.wood35.info
 woodworkplans.info
 worldmarketplace.info
 worldsportsmemorabilia.info
@@ -105313,6 +105340,7 @@ behive.org
 backup.bensonfire.org
 pop.bensonfire.org
 ww1.bensonfire.org
+ww17.bensonfire.org
 ww25.bensonfire.org
 ww38.bensonfire.org
 www.bensonfire.org
@@ -105350,10 +105378,8 @@ blueltterbible.org
 mail.bluewaffles.org
 ns1.bluewaffles.org
 ns2.bluewaffles.org
-ww1.bluewaffles.org
 ww17.bluewaffles.org
 ww38.bluewaffles.org
-www.bluewaffles.org
 bmicharter.org
 boards4chan.org
 bodhihouse.org
@@ -105876,6 +105902,8 @@ eisenhoweracademy.org
 eldercohousing.org
 about.elemnts.org
 ww1.elemnts.org
+ww17.elemnts.org
+ww3.elemnts.org
 elhar.org
 elpr.org
 email-verify.org
@@ -106406,6 +106434,7 @@ maktabkhoone.org
 maktoob.org
 malottery.org
 mammasrecipes.org
+www.manabadi.org
 mapletoncity.org
 marine-family.org
 marintheater.org
