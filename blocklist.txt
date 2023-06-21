@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342668
+# Ignored duplicates: 342698
 
 chameleon.ad
 pixel.ad
@@ -4453,7 +4453,6 @@ chanelsas-mid-stage3-1.campaign.adobe.com
 christianbroadcastne-mkt-prod1-res.campaign.adobe.com
 christianbroadcastne-mkt-prod1-t.campaign.adobe.com
 cimpressnv-mid-prod.campaign.adobe.com
-cimpressnv-rt-prod3-lb.campaign.adobe.com
 clarins-mkt-prod2-cus.campaign.adobe.com
 clasohlson-mid-prod1-cus.campaign.adobe.com
 clubhkt.campaign.adobe.com
@@ -4754,7 +4753,6 @@ naranja-mkt-stage1-1.campaign.adobe.com
 nationalexpress-mkt-prod1-lb.campaign.adobe.com
 nationwide-rt-stage2-res.campaign.adobe.com
 natureetdecouvertes.campaign.adobe.com
-neriuminternational.campaign.adobe.com
 nestle-npro-uat.campaign.adobe.com
 nestle-pro-mkt-dev2.campaign.adobe.com
 nestle-pro-mkt-dev2-res.campaign.adobe.com
@@ -5637,10 +5635,6 @@ deliveryengine.qaintegration.adswizz.com
 qaintegrationssp.adswizz.com
 radioactive.adswizz.com
 radionomy.adswizz.com
-a0016-spokenlangidentifier.ai.randi.adswizz.com
-c0113-banner-recommender.ai.randi.adswizz.com
-c0114-web-extractor.ai.randi.adswizz.com
-captain.ai.randi.adswizz.com
 a0001-textrazor.apps.randi.adswizz.com
 a0003-codeq.apps.randi.adswizz.com
 a0006-azure.apps.randi.adswizz.com
@@ -8243,6 +8237,7 @@ bipolardisorderlab.com
 biqel.com
 birkenstock4u.com
 birthdayspress.com
+birxhitinhiv.com
 bitcoin-cashcard.com
 bitmedianetwork.com
 bitmex-giveaway.com
@@ -9042,6 +9037,7 @@ www.azko.frwf.cbarsrv.com
 www.google.frwf.cbarsrv.com
 f16.silaexpert02.frwf.cbarsrv.com
 imprammp.cbarsrv.com
+impreump.cbarsrv.com
 imprnjmp.cbarsrv.com
 imprusmp.cbarsrv.com
 match.cbarsrv.com
@@ -9053,7 +9049,7 @@ onvlatbmp.cbarsrv.com
 oops.cbarsrv.com
 opps.cbarsrv.com
 checkipv6.quickconnect.towf.cbarsrv.com
-www.wf.cbarsrv.com
+wf.cbarsrv.com
 www.cbarsrv.com
 cbcaau.com
 cbeao.com
@@ -19895,6 +19891,7 @@ cdn-social.janrain.com
 japansexfree.com
 japantradeview.com
 jar4u.com
+newusd.jared-don.com
 jasperlabs.com
 jastats.com
 jasuq.com
@@ -50359,7 +50356,6 @@ saintclairshoressingles.com
 ww16.sairadhagreenvalley.com
 ww17.sairadhagreenvalley.com
 ww25.sairadhagreenvalley.com
-ww38.sairadhagreenvalley.com
 www.sairadhagreenvalley.com
 a.sakh.com
 tracking.salaallehanda.com
@@ -50673,7 +50669,6 @@ searchingtax.com
 searchingteam.com
 searchingtown.com
 searchmanagerplus.com
-static-v2.searchmanagertech.com
 searchmangra.com
 searchmarketing.com
 searchmgr.com
@@ -59026,6 +59021,7 @@ rgr4ozsp1l.s.ad6media.fr
 rkybxz6g7x.s.ad6media.fr
 admanmedia.fr
 cdn.adnext.fr
+yrquuaxo.ajrimmobilier.fr
 atelierdegaia.fr
 oas.benchmark.fr
 data.cofinoga.fr
@@ -59657,7 +59653,6 @@ www.allclipart.info
 allergene.info
 allgalle.info
 alsahabmedia.info
-ww17.alterzon.info
 amagrlsuk.info
 amazingporn.info
 amazonshoppingindir.info
@@ -60020,7 +60015,6 @@ ww25.birdwindowcollisions.info
 ww38.birdwindowcollisions.info
 biszofit.info
 bitaddress.info
-ww17.bitcoincompass.info
 ww38.bitcoincompass.info
 www.bitcoincompass.info
 analytics.bitrix.info
@@ -60446,6 +60440,7 @@ ww11.decorsandgifts.info
 ww17.decorsandgifts.info
 ww25.decorsandgifts.info
 ww38.decorsandgifts.info
+www.decorsandgifts.info
 server3.deepfryers.info
 server4.deepfryers.info
 ww1.deepfryers.info
@@ -60456,6 +60451,11 @@ deepmix.info
 defereggental.info
 definitelycoming.info
 delhi.info
+ww1.delhicallgirls.info
+ww11.delhicallgirls.info
+ww17.delhicallgirls.info
+ww25.delhicallgirls.info
+ww38.delhicallgirls.info
 www.delhicallgirls.info
 demisroussos.info
 denada.info
@@ -60898,7 +60898,13 @@ geid.info
 geispo.info
 gelberschein.info
 gelbsucht.info
-gennadiy.info
+autodiscover.gennadiy.info
+mail.gennadiy.info
+webdisk.gennadiy.info
+ww1.gennadiy.info
+ww25.gennadiy.info
+ww38.gennadiy.info
+www.gennadiy.info
 gentium.info
 geregun.info
 geschenke.info
@@ -60923,11 +60929,7 @@ gitorm.info
 giveawayforyou.info
 glee-episode.info
 globaldew.info
-ns1.godspeakstoday.info
-ns2.godspeakstoday.info
-webdisk.godspeakstoday.info
-ww25.godspeakstoday.info
-www.godspeakstoday.info
+godspeakstoday.info
 goldrock.info
 golfbooks.info
 gonzovideos.info
@@ -61313,7 +61315,6 @@ xnxx.loby.info
 xvideos.loby.info
 youporn.loby.info
 lokalizacja.info
-longrich.info
 lookbox.info
 lovexxxpics.info
 lowescoupon.info
@@ -61803,8 +61804,6 @@ www.pfshop.info
 phanri.info
 phaze.info
 www.phigolf.info
-31.phimhay.info
-ww1.admin.phimhay.info
 ww17.admin.phimhay.info
 huizhou.phimhay.info
 iphone.phimhay.info
@@ -62895,7 +62894,6 @@ tnoa2019.info
 tnpsctamil.info
 tnttorent.info
 ww25.todayfootball.info
-ww38.todayfootball.info
 tomboytools.info
 tonion.info
 ww1.toonkor.info
@@ -63376,7 +63374,6 @@ wap9.info
 waploft.info
 waptrik.info
 is.warface.info
-mail.warface.info
 ww11.warface.info
 watchmovie.info
 watchpinoymovieonline.info
@@ -105328,7 +105325,6 @@ bbbaptistchurch.org
 bbcos.org
 dev.bbcvids.org
 magento.bbcvids.org
-secure.bbcvids.org
 staging.bbcvids.org
 www.bbcvids.org
 bcbcal.org
@@ -105375,9 +105371,6 @@ blhtrust.org
 blogaomobile.org
 blogdosigef.org
 blueltterbible.org
-mail.bluewaffles.org
-ns1.bluewaffles.org
-ns2.bluewaffles.org
 ww17.bluewaffles.org
 ww38.bluewaffles.org
 bmicharter.org
@@ -105904,6 +105897,7 @@ about.elemnts.org
 ww1.elemnts.org
 ww17.elemnts.org
 ww3.elemnts.org
+www.elemnts.org
 elhar.org
 elpr.org
 email-verify.org
@@ -106162,6 +106156,7 @@ gokp.org
 goodsams.org
 goowill.org
 goquestions.org
+www.gospelbook.org
 gotquetions.org
 govfilingsonline.org
 gpaurangabad.org
