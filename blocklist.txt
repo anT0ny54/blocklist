@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342845
+# Ignored duplicates: 342858
 
 chameleon.ad
 pixel.ad
@@ -4864,7 +4864,6 @@ redlobsterllc-mid-prod1-cus.campaign.adobe.com
 registercom-mid-prod1-cus.campaign.adobe.com
 renault-mkt-dev1.campaign.adobe.com
 republicwireless.campaign.adobe.com
-republicwireless-mkt-prod1.campaign.adobe.com
 republicwireless-mkt-prod1-1.campaign.adobe.com
 researchnow-mkt-prod1-cus.campaign.adobe.com
 researchnow-mkt-stage1.campaign.adobe.com
@@ -8853,9 +8852,6 @@ mx10.c-loverz.com
 mx4.c-loverz.com
 relay2.c-loverz.com
 smtpseguro.c-loverz.com
-ww1.c-loverz.com
-ww17.c-loverz.com
-ww25.c-loverz.com
 ww31.c-loverz.com
 www.c-loverz.com
 c1exchange.com
@@ -10040,6 +10036,7 @@ email.connatix.com
 events.connatix.com
 frs.connatix.com
 go.connatix.com
+hooks.connatix.com
 img-mmid.connatix.com
 info.connatix.com
 ins.connatix.com
@@ -21347,7 +21344,6 @@ looneylane.com
 loopme.com
 loopmertb.com
 lootsie.com
-loqah.com
 loreaparisusa.com
 lotadata.com
 stats.lotlinx.com
@@ -50357,7 +50353,6 @@ web.sailthru.com
 www.sailthru.com
 saintclairshoressingles.com
 ww16.sairadhagreenvalley.com
-ww17.sairadhagreenvalley.com
 ww25.sairadhagreenvalley.com
 www.sairadhagreenvalley.com
 a.sakh.com
@@ -51405,7 +51400,6 @@ lm.sizmdx.com
 mail.sizmdx.com
 origin-ats.sizmdx.com
 origin-prod.sizmdx.com
-overseer.sizmdx.com
 platform.sizmdx.com
 prod.sizmdx.com
 s3.sizmdx.com
@@ -60563,6 +60557,8 @@ mail.dogecoinfaucets.info
 mvideo.dogecoinfaucets.info
 webdisk.dogecoinfaucets.info
 whm.dogecoinfaucets.info
+ww1.dogecoinfaucets.info
+ww11.dogecoinfaucets.info
 ww16.dogecoinfaucets.info
 ww17.dogecoinfaucets.info
 ww25.dogecoinfaucets.info
@@ -60902,13 +60898,7 @@ geid.info
 geispo.info
 gelberschein.info
 gelbsucht.info
-autodiscover.gennadiy.info
-mail.gennadiy.info
-webdisk.gennadiy.info
 ww1.gennadiy.info
-ww25.gennadiy.info
-ww38.gennadiy.info
-www.gennadiy.info
 gentium.info
 geregun.info
 geschenke.info
@@ -61814,8 +61804,6 @@ ismart.phimhay.info
 jiangmen.phimhay.info
 mail.phimhay.info
 ww1.phimhay.info
-ww17.phimhay.info
-www.phimhay.info
 photosex.info
 phpprotect.info
 phpstore.info
@@ -61876,7 +61864,7 @@ porno-chaman.info
 porno2018.info
 pornobitx.info
 pornocomicsix.info
-cdn.pornokopilka.info
+ww16.cdn.pornokopilka.info
 img.pornokopilka.info
 mail.pornokopilka.info
 stor.pornokopilka.info
@@ -62094,18 +62082,13 @@ e-certificate.pusat-bahasa.info
 el.pusat-bahasa.info
 fa.pusat-bahasa.info
 ga.pusat-bahasa.info
-hr.pusat-bahasa.info
 is.pusat-bahasa.info
-it.pusat-bahasa.info
 journal.pusat-bahasa.info
 kk.pusat-bahasa.info
-km.pusat-bahasa.info
 lms.pusat-bahasa.info
-lt.pusat-bahasa.info
 lv.pusat-bahasa.info
 mahad.pusat-bahasa.info
 mail.pusat-bahasa.info
-mk.pusat-bahasa.info
 mta-sts.pusat-bahasa.info
 ne.pusat-bahasa.info
 nl.pusat-bahasa.info
@@ -62125,7 +62108,6 @@ ur.pusat-bahasa.info
 webdisk.pusat-bahasa.info
 ww1.pusat-bahasa.info
 ww11.pusat-bahasa.info
-ww25.pusat-bahasa.info
 ww38.pusat-bahasa.info
 www.pusat-bahasa.info
 www.putana.info
@@ -62291,8 +62273,6 @@ mail.sancarlosminas.info
 webdisk.sancarlosminas.info
 www.sancarlosminas.info
 sandino.info
-mx.sanvitolocapo.info
-ww1.sanvitolocapo.info
 ww11.sanvitolocapo.info
 ww17.sanvitolocapo.info
 ww25.sanvitolocapo.info
@@ -62422,7 +62402,6 @@ ww1.shlink.info
 ww17.shlink.info
 ww25.shlink.info
 ww38.shlink.info
-www.shlink.info
 shop-shop.info
 showroom.info
 www.shturm.info
@@ -64853,6 +64832,7 @@ policygenius.extole.io
 popcorn-factory.extole.io
 pottery-barn.extole.io
 pottery-barn-kids.extole.io
+pr.extole.io
 prashant.extole.io
 progamers.extole.io
 propark.extole.io
@@ -67306,7 +67286,6 @@ photos-upload.empx.redventures.io
 auth.expertflyer-dev.redventures.io
 expertflyer-staging.redventures.io
 feeds.redventures.io
-assets.us.flow.redventures.io
 frontier.redventures.io
 galaxy.redventures.io
 guardian.redventures.io
@@ -68747,7 +68726,6 @@ sentry.my.sentry.io
 testing.my.sentry.io
 zendesk-eu.my.sentry.io
 open.sentry.io
-catalyst-26789123.security.sentry.io
 fleet.security.sentry.io
 grafana-dnr-9nay781n38c9ap.security.sentry.io
 securityportal.sentry.io
@@ -98856,6 +98834,7 @@ lexustuning.net
 libertytaxservice.net
 lifeimpressions.net
 ads.lifethink.net
+www.lightspeedmedia.net
 linkstorm.net
 linuxgaming.net
 tracking.listhub.net
@@ -102925,7 +102904,6 @@ kafkampcc.p3.core-platform.general-prod-a.iad2.k8s.sendgrid.net
 deliverability-settings.general-prod-a.iad2.k8s.sendgrid.net
 ect.general-prod-a.iad2.k8s.sendgrid.net
 ect-integration.general-prod-a.iad2.k8s.sendgrid.net
-email-insights.general-prod-a.iad2.k8s.sendgrid.net
 extractor.general-prod-a.iad2.k8s.sendgrid.net
 extractor-integration.general-prod-a.iad2.k8s.sendgrid.net
 federation.general-prod-a.iad2.k8s.sendgrid.net
@@ -103153,7 +103131,6 @@ kafkampcc.p1.core-platform.general-prod-a.las1.k8s.sendgrid.net
 kafkampcc.p3.core-platform.general-prod-a.las1.k8s.sendgrid.net
 deliverability-settings.general-prod-a.las1.k8s.sendgrid.net
 ect.general-prod-a.las1.k8s.sendgrid.net
-email-insights.general-prod-a.las1.k8s.sendgrid.net
 extractor.general-prod-a.las1.k8s.sendgrid.net
 federation.general-prod-a.las1.k8s.sendgrid.net
 grafana.general-prod-a.las1.k8s.sendgrid.net
@@ -104842,7 +104819,6 @@ t.zqtk.net
 test.zqtk.net
 ztkcdn.net
 ztksrv.net
-ct.a.zucks.net
 ch.zucks.net
 el.zucks.net
 h.zucks.net
@@ -105733,6 +105709,7 @@ www.devlis.org
 df69.org
 dgcoseniorservices.org
 diadelnadador.org
+diettoday.org
 cpcalendars.digipos.org
 cpcontacts.digipos.org
 mail.digipos.org
