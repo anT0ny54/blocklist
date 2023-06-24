@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342858
+# Ignored duplicates: 342861
 
 chameleon.ad
 pixel.ad
@@ -4863,7 +4863,6 @@ redfcu-mkt-prod1-1.campaign.adobe.com
 redlobsterllc-mid-prod1-cus.campaign.adobe.com
 registercom-mid-prod1-cus.campaign.adobe.com
 renault-mkt-dev1.campaign.adobe.com
-republicwireless.campaign.adobe.com
 republicwireless-mkt-prod1-1.campaign.adobe.com
 researchnow-mkt-prod1-cus.campaign.adobe.com
 researchnow-mkt-stage1.campaign.adobe.com
@@ -9743,7 +9742,6 @@ recade.clmbtech.com
 static.clmbtech.com
 tbl.clmbtech.com
 tml.clmbtech.com
-cloisteredcord.com
 cloisteredhydrant.com
 closedcows.com
 closertothedirt.com
@@ -15373,6 +15371,8 @@ www.dofattv.com
 zmail.dofattv.com
 dofloration.com
 dogcollarfavourbluff.com
+ww25.dogeblack.com
+ww38.dogeblack.com
 doggiepot.com
 dogmelon.com
 dogwisperer.com
@@ -21060,7 +21060,6 @@ thestarpress.localiq.com
 thetimesherald.localiq.com
 thetowntalk.localiq.com
 timesrecordnews.localiq.com
-tn-stage.localiq.com
 tulareadvanceregister.localiq.com
 usatoday.localiq.com
 vanities.localiq.com
@@ -21580,8 +21579,6 @@ manchesterdomain.com
 www.manga-news.com
 manga2h.com
 mangafax.com
-m.mangcanor.com
-www.mangcanor.com
 mangehere.com
 manjisstudio.com
 manroulett.com
@@ -43552,6 +43549,12 @@ ads.powweb.com
 ppjkpusri.com
 ppmmouthguard.com
 pr0nhub.com
+comune.prantikv.com
+mail.prantikv.com
+mail12.prantikv.com
+mail5.prantikv.com
+mx0.prantikv.com
+mx10.prantikv.com
 prazeruniversal.com
 preanimal.com
 preapps.com
@@ -50352,8 +50355,6 @@ valuemags-a.sailthru.com
 web.sailthru.com
 www.sailthru.com
 saintclairshoressingles.com
-ww16.sairadhagreenvalley.com
-ww25.sairadhagreenvalley.com
 www.sairadhagreenvalley.com
 a.sakh.com
 tracking.salaallehanda.com
@@ -55843,6 +55844,7 @@ mraid.vntsm.com
 mraidcdn.vntsm.com
 video.vntsm.com
 voicefive.com
+adtrack.voicestar.com
 voicevegetable.com
 volatilevessel.com
 volument.com
@@ -56230,7 +56232,6 @@ smetrics.washingtonpost.com
 watchcri.com
 watchdegrassi.com
 watcherseb.com
-ww1.watchesidol.com
 ww17.watchesidol.com
 ww25.watchesidol.com
 www.watchesidol.com
@@ -58412,7 +58413,6 @@ zmenmuol.com
 zocdcoc.com
 zoharlevy.com
 analytics.zoho.com
-iplocation.zoho.com
 salesiq.zoho.com
 webanalytics.zohodcm.com
 zoo356.com
@@ -59379,9 +59379,6 @@ cpcalendars.0daypatch.info
 mail.0daypatch.info
 ww1.0daypatch.info
 ww11.0daypatch.info
-ww17.0daypatch.info
-ww25.0daypatch.info
-ww38.0daypatch.info
 www.0daypatch.info
 www.104ez.info
 163ks.info
@@ -59832,8 +59829,6 @@ ww1.barepunting.info
 ww11.barepunting.info
 ww17.barepunting.info
 ww2.barepunting.info
-ww25.barepunting.info
-ww38.barepunting.info
 www.barepunting.info
 barvinok.info
 baseballhistory.info
@@ -60496,9 +60491,7 @@ digitalgroup.info
 digitalkids.info
 digitalphoto.info
 digitalsignature.info
-loker.dinistor.info
 noticiashoy.dinistor.info
-www.dinistor.info
 diphterie.info
 directory100.info
 api.directory2010.info
@@ -61134,6 +61127,7 @@ ipv6news.info
 irkut.info
 irwarez.info
 isea2016.info
+ww25.m.islam-news.info
 isong.info
 it-stuff.info
 itsdogbreeds.info
@@ -61202,7 +61196,9 @@ kitzsteinhorn.info
 kizi.info
 kleinanzeigen.info
 kleio.info
-klussenbedrijven.info
+mail.klussenbedrijven.info
+ww17.klussenbedrijven.info
+ww38.klussenbedrijven.info
 knochenmark.info
 komaneko.info
 www.konp.info
@@ -61497,10 +61493,6 @@ molnii.info
 mail.momonoyu.info
 mailer.momonoyu.info
 po.momonoyu.info
-ww1.momonoyu.info
-ww11.momonoyu.info
-ww17.momonoyu.info
-ww38.momonoyu.info
 www.momonoyu.info
 moncherie.info
 monroviatrustlaw.info
@@ -61595,6 +61587,7 @@ naasongss.info
 nabimuhammad.info
 nadie007.info
 nagamochi.info
+ww17.nahimana.info
 najnovijevesti.info
 najwa.info
 mail.nanotehnologija.info
@@ -61801,9 +61794,7 @@ www.phigolf.info
 huizhou.phimhay.info
 iphone.phimhay.info
 ismart.phimhay.info
-jiangmen.phimhay.info
 mail.phimhay.info
-ww1.phimhay.info
 photosex.info
 phpprotect.info
 phpstore.info
@@ -61864,7 +61855,6 @@ porno-chaman.info
 porno2018.info
 pornobitx.info
 pornocomicsix.info
-ww16.cdn.pornokopilka.info
 img.pornokopilka.info
 mail.pornokopilka.info
 stor.pornokopilka.info
@@ -62316,8 +62306,6 @@ seo49.search-seo.info
 seo50.search-seo.info
 webdisk.search-seo.info
 ww1.search-seo.info
-ww17.search-seo.info
-ww38.search-seo.info
 www.search-seo.info
 searchline.info
 mail.sectionz.info
@@ -63355,7 +63343,6 @@ waldviertel.info
 wap9.info
 waploft.info
 waptrik.info
-ww11.warface.info
 watchmovie.info
 watchpinoymovieonline.info
 wazze.info
@@ -105349,7 +105336,6 @@ blhtrust.org
 blogaomobile.org
 blogdosigef.org
 blueltterbible.org
-ww38.bluewaffles.org
 bmicharter.org
 boards4chan.org
 bodhihouse.org
@@ -111698,6 +111684,7 @@ zzfc.adj.st
 www.po.st
 emea.viadata.store
 www.freecontent.stream
+minexmr.stream
 webassembly.stream
 ad.style
 live.demand.supply
@@ -112006,7 +111993,6 @@ check.ampliacion.xyz
 stats.ampliacion.xyz
 user.ampliacion.xyz
 utm.ampliacion.xyz
-analytik.xyz
 bezos.xyz
 play.estream.xyz
 fadb.xyz
