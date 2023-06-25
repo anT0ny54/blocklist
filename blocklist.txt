@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342861
+# Ignored duplicates: 342877
 
 chameleon.ad
 pixel.ad
@@ -4316,7 +4316,6 @@ accorhotels-mid-prod5-cus.campaign.adobe.com
 accorhotels-rt-prod8.campaign.adobe.com
 acsorg-mkt-prod1-t.campaign.adobe.com
 acwppat001-mkt-prod2.campaign.adobe.com
-adityabirla-mkt-prod1-1.campaign.adobe.com
 adobe-inco-mkt-prod1-lb.campaign.adobe.com
 adobe-inco-mkt-prod1-t.campaign.adobe.com
 adobeint.campaign.adobe.com
@@ -4863,9 +4862,7 @@ redfcu-mkt-prod1-1.campaign.adobe.com
 redlobsterllc-mid-prod1-cus.campaign.adobe.com
 registercom-mid-prod1-cus.campaign.adobe.com
 renault-mkt-dev1.campaign.adobe.com
-republicwireless-mkt-prod1-1.campaign.adobe.com
 researchnow-mkt-prod1-cus.campaign.adobe.com
-researchnow-mkt-stage1.campaign.adobe.com
 riteaid-mid-stage1.campaign.adobe.com
 riteaid-mid-stage1-1.campaign.adobe.com
 riteaid-rt-prod2-lb.campaign.adobe.com
@@ -7359,6 +7356,7 @@ www.askimd.com
 aslitv.com
 ads.aspalliance.com
 pixel.aspirei.com
+asrcajsuql.com
 assoc-amazon.com
 z-na.associates-amazon.com
 assure-link.com
@@ -15371,6 +15369,7 @@ www.dofattv.com
 zmail.dofattv.com
 dofloration.com
 dogcollarfavourbluff.com
+www.wp.dogeblack.com
 ww25.dogeblack.com
 ww38.dogeblack.com
 doggiepot.com
@@ -15419,7 +15418,6 @@ doubtfulrainstorm.com
 dovewebsite.com
 downandroid.com
 bwp.download.com
-downloadalpha.com
 downloadcricketgamesforfree.com
 downloader-ig.com
 downonthedeck.com
@@ -16119,6 +16117,7 @@ syd-image.eum-appdynamics.com
 syd-iot-col.eum-appdynamics.com
 syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
+euphonyflirt.com
 eurekster.com
 banner.eurogrand.com
 eurome.com
@@ -19889,6 +19888,7 @@ cdn-social.janrain.com
 japansexfree.com
 japantradeview.com
 jar4u.com
+musa.jared-don.com
 newusd.jared-don.com
 jasperlabs.com
 jastats.com
@@ -23614,7 +23614,11 @@ zz44smpc.micpn.com
 microad-cn.com
 d-cache.microadinc.com
 prcache.microadinc.com
-send.microadinc.com
+cache.send.microadinc.com
+d-track.send.microadinc.com
+dm-cache.send.microadinc.com
+s-rtb.send.microadinc.com
+ssp.send.microadinc.com
 microoftonline.com
 microsfotonline.com
 microsiftonline.com
@@ -46307,13 +46311,7 @@ argocd.apps-prod.recruitics.com
 grafana.apps-prod.recruitics.com
 innovation-amazon.apps-prod.recruitics.com
 vault.apps-prod.recruitics.com
-action.apps-stage.recruitics.com
-action-test.apps-stage.recruitics.com
-argocd.apps-stage.recruitics.com
-elasticsearch.apps-stage.recruitics.com
-grafana.apps-stage.recruitics.com
-kibana.apps-stage.recruitics.com
-vault.apps-stage.recruitics.com
+apps-stage.recruitics.com
 beta.recruitics.com
 costftp.recruitics.com
 deliveroo.recruitics.com
@@ -46351,16 +46349,7 @@ argocd.platform-development.recruitics.com
 grafana.platform-development.recruitics.com
 vault.platform-development.recruitics.com
 platform-stage.recruitics.com
-api.platform-staging.recruitics.com
-argocd.platform-staging.recruitics.com
-cronjobs.platform-staging.recruitics.com
-gitpod.platform-staging.recruitics.com
-grafana.platform-staging.recruitics.com
-rancher.platform-staging.recruitics.com
-vault.platform-staging.recruitics.com
-vault-credential-manager.platform-staging.recruitics.com
-webhook.platform-staging.recruitics.com
-webhook-site-service-echo.platform-staging.recruitics.com
+platform-staging.recruitics.com
 api.platform.recruitics.com
 argocd.platform.recruitics.com
 cronjobs.platform.recruitics.com
@@ -50355,7 +50344,6 @@ valuemags-a.sailthru.com
 web.sailthru.com
 www.sailthru.com
 saintclairshoressingles.com
-www.sairadhagreenvalley.com
 a.sakh.com
 tracking.salaallehanda.com
 webapi.staging.salamantex.com
@@ -51214,7 +51202,6 @@ ads.shizmoo.com
 shmiroptical.com
 shnfs.com
 shockinggrass.com
-res.em.shoecarnival.com
 shoeshoppeusa.com
 shoopcar.com
 shopayhome.com
@@ -56232,9 +56219,6 @@ smetrics.washingtonpost.com
 watchcri.com
 watchdegrassi.com
 watcherseb.com
-ww17.watchesidol.com
-ww25.watchesidol.com
-www.watchesidol.com
 watchfreeliveporn.com
 watchonlinehindimovies.com
 watchoop.com
@@ -60078,7 +60062,6 @@ server3.broomkpark.info
 server4.broomkpark.info
 ww17.broomkpark.info
 ww2.broomkpark.info
-ww25.broomkpark.info
 www.broomkpark.info
 brshare.info
 brunei.info
@@ -60436,7 +60419,6 @@ server3.deepfryers.info
 server4.deepfryers.info
 ww1.deepfryers.info
 ww17.deepfryers.info
-ww25.deepfryers.info
 ww38.deepfryers.info
 deepmix.info
 defereggental.info
@@ -61197,8 +61179,6 @@ kizi.info
 kleinanzeigen.info
 kleio.info
 mail.klussenbedrijven.info
-ww17.klussenbedrijven.info
-ww38.klussenbedrijven.info
 knochenmark.info
 komaneko.info
 www.konp.info
@@ -61407,7 +61387,6 @@ meks.info
 server3.melonfresh.info
 server4.melonfresh.info
 ww1.melonfresh.info
-ww11.melonfresh.info
 ww16.melonfresh.info
 ww38.melonfresh.info
 www.melonfresh.info
@@ -61490,7 +61469,6 @@ modelismo-naval.info
 www.modernart.info
 moerbisch.info
 molnii.info
-mail.momonoyu.info
 mailer.momonoyu.info
 po.momonoyu.info
 www.momonoyu.info
@@ -62275,38 +62253,8 @@ sc-fun-for-you.info
 schladming.info
 schlankfit.info
 scholarshipsreview.info
-hp.search-seo.info
-net01.search-seo.info
-net02.search-seo.info
-net04.search-seo.info
-net06.search-seo.info
-net09.search-seo.info
-net11.search-seo.info
-net14.search-seo.info
-net15.search-seo.info
-net16.search-seo.info
-net19.search-seo.info
-net25.search-seo.info
-net27.search-seo.info
-net29.search-seo.info
-net32.search-seo.info
-net33.search-seo.info
-net36.search-seo.info
-net37.search-seo.info
-net42.search-seo.info
-net43.search-seo.info
-net44.search-seo.info
-net46.search-seo.info
-net47.search-seo.info
-seo41.search-seo.info
-seo43.search-seo.info
-seo44.search-seo.info
-seo48.search-seo.info
-seo49.search-seo.info
-seo50.search-seo.info
 webdisk.search-seo.info
 ww1.search-seo.info
-www.search-seo.info
 searchline.info
 mail.sectionz.info
 webdisk.sectionz.info
@@ -62385,10 +62333,7 @@ sharonziv.info
 sheriff.info
 shineworks.info
 shkid.info
-traf.shlink.info
-ww1.shlink.info
-ww17.shlink.info
-ww25.shlink.info
+ww11.traf.shlink.info
 ww38.shlink.info
 shop-shop.info
 showroom.info
@@ -62514,10 +62459,6 @@ stroims.info
 mx10.stroyclub.info
 ns.stroyclub.info
 ww1.stroyclub.info
-ww17.stroyclub.info
-ww25.stroyclub.info
-ww38.stroyclub.info
-www.stroyclub.info
 studnet.info
 subsidios.info
 subtitlepedia.info
@@ -78364,7 +78305,6 @@ mailserver.ak-is.net
 mailsrv.ak-is.net
 mailx.ak-is.net
 manitoba.ak-is.net
-mart.ak-is.net
 mbox.ak-is.net
 ms.ak-is.net
 ms1.ak-is.net
@@ -112010,7 +111950,6 @@ statsmag.xyz
 trk.us-learn-teacher-poetry.xyz
 cdn.vip-hd-movies.xyz
 wpnrtnmrewunrtok.xyz
-www.yourprime.xyz
 adsrv.iol.co.za
 itomedia.co.za
 marketingmachine.co.za
