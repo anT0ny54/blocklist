@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342877
+# Ignored duplicates: 342947
 
 chameleon.ad
 pixel.ad
@@ -4500,8 +4500,6 @@ dkb-mid-stage1-1.campaign.adobe.com
 dollartree-mkt-prod1.campaign.adobe.com
 douglasgmbh-mkt-prod1.campaign.adobe.com
 dsg-mkt-prod1-lb.campaign.adobe.com
-dta.campaign.adobe.com
-dta-mkt-prod1.campaign.adobe.com
 dufry.campaign.adobe.com
 dufry-mkt-prod1.campaign.adobe.com
 dufry-mkt-stage1-1.campaign.adobe.com
@@ -4914,7 +4912,6 @@ sky-atlas-mid-prod1-t.campaign.adobe.com
 skyit-mkt-prod3.campaign.adobe.com
 skyit-mkt-prod3-1.campaign.adobe.com
 skyuk-rt-dev2-t.campaign.adobe.com
-slickdeals-mkt-prod1.campaign.adobe.com
 slickdeals-mkt-prod1-lb.campaign.adobe.com
 soh-mkt-prod1-lb.campaign.adobe.com
 soh-mkt-prod1-m.campaign.adobe.com
@@ -6460,6 +6457,7 @@ alsmotorhomes.com
 ads.alt.com
 altitude-arena.com
 aluxurycars.com
+alxgtyqhio.com
 amadorasbrasileira.com
 amarillasintrnet.com
 amateurgallore.com
@@ -7175,6 +7173,7 @@ appdynamics.com
 mail.appenue.com
 webdisk.appenue.com
 www.appenue.com
+appgiftcurrent.com
 appier.com
 appixcdn.com
 webproxy.advp.apple.com
@@ -8714,6 +8713,7 @@ budgetinspirationsstudio.com
 bueroversorger.com
 buffalotrailgallery.com
 bufota.com
+bufqraadzgk.com
 bufud.com
 bufusalu.com
 app.bugherd.com
@@ -15369,9 +15369,26 @@ www.dofattv.com
 zmail.dofattv.com
 dofloration.com
 dogcollarfavourbluff.com
-www.wp.dogeblack.com
+2bbe04479a81932f99ff6e20b567de6552531245.dogeblack.com
+app.dogeblack.com
+beta.dogeblack.com
+crm.dogeblack.com
+dev.dogeblack.com
+dump.dogeblack.com
+lime.dogeblack.com
+m.dogeblack.com
+magento.dogeblack.com
+mail.dogeblack.com
+old.dogeblack.com
+online-shop.dogeblack.com
+openpgpkey.dogeblack.com
+qa.dogeblack.com
+staging.dogeblack.com
+wp.dogeblack.com
 ww25.dogeblack.com
 ww38.dogeblack.com
+www.dogeblack.com
+www-old.dogeblack.com
 doggiepot.com
 dogmelon.com
 dogwisperer.com
@@ -16629,6 +16646,7 @@ ns2.footprintdns.com
 report.footprintdns.com
 foottytube.com
 footworshipplounge.com
+for-j.com
 ad-reporting.forbes.com
 valerie.forbes.com
 citrix-pk2.force.com
@@ -16793,6 +16811,7 @@ frivolousdressorder.com
 tracking.frmllc.com
 frogerr.com
 frostfire.com
+frtunredy.com
 frtyj.com
 frugalmachinist.com
 frugalrushcap.com
@@ -17788,6 +17807,7 @@ gdmconvtrck.com
 gdmgsecure.com
 gdprcountryrestriction.com
 gearsofwars2.com
+gemini-btc.com
 gemius.com
 www.gemlocomotivemid.com
 geneaguide.com
@@ -37065,11 +37085,6 @@ stats.nextgen-email.com
 adv.nexthardware.com
 nextroll.com
 nexusprostatemassage.com
-cpcalendars.nflgo.com
-cpcontacts.nflgo.com
-mail.nflgo.com
-webdisk.nflgo.com
-www.nflgo.com
 nfltv.com
 nfwebminer.com
 ngeoziadiyc4hi2e.com
@@ -49502,6 +49517,7 @@ richmediastudio.com
 richmetrics.com
 richrelevance.com
 richstring.com
+ridedical-riseats.com
 rotator.riedta.com
 rifprisse.com
 rightmessage.com
@@ -49955,6 +49971,7 @@ www.rubiconproject.com
 rubriks.com
 api.rudderlabs.com
 sanity-dataplane.rudderstack.com
+rude-son.com
 ruderulette.com
 rudtub.com
 ruelela.com
@@ -51943,6 +51960,7 @@ sopubok.com
 sordidsmile.com
 sordidstation.com
 sortable.com
+www.soulcams.com
 eventgateway.soundcloud.com
 l9bjkkhaycw6f8f4.soundcloud.com
 soundclud.com
@@ -53650,6 +53668,7 @@ tentations-intimes.com
 tercept.com
 termiix.com
 termites-pictures.com
+teroklof.com
 mine.terorie.com
 nimiq.terorie.com
 terra8nb.com
@@ -55565,6 +55584,7 @@ ww38.vidyoutube.com
 ww5.vidyoutube.com
 www.vidyoutube.com
 vienamairline.com
+vietnanairlines.com
 viewbix.com
 viewdeos.com
 viewsignage.com
@@ -56162,6 +56182,7 @@ vulvatibe.com
 vungle.com
 vuukle.com
 vuvscoqafva.com
+vwerno.com
 dacdn.vwo.com
 w3ibm.com
 waardex.com
@@ -57685,6 +57706,7 @@ xxflogger.com
 xxfreehdvideos.com
 xxnvx.com
 xxpornhub.com
+xxupdatemovies.com
 ard.xxxblackbook.com
 xxxcounter.com
 xxxrevpushclcdu.com
@@ -59475,6 +59497,7 @@ ww17.4downfiles1.info
 ww25.4downfiles1.info
 ww38.4downfiles1.info
 www.4downfiles1.info
+4downfiles2.info
 4shared.info
 52youwu.info
 5fan.info
@@ -60156,7 +60179,6 @@ www.cancer-treatment.info
 candoo.info
 www.candysite.info
 ww25.caning.info
-www.caning.info
 canirunit.info
 canj.info
 mail.canliyayin.info
@@ -60241,7 +60263,6 @@ sitemap.cellchurch.info
 ww1.cellchurch.info
 ww11.cellchurch.info
 ww17.cellchurch.info
-www.cellchurch.info
 certificates.info
 ww1.cevaplus.info
 ww11.cevaplus.info
@@ -60473,7 +60494,6 @@ digitalgroup.info
 digitalkids.info
 digitalphoto.info
 digitalsignature.info
-noticiashoy.dinistor.info
 diphterie.info
 directory100.info
 api.directory2010.info
@@ -61178,7 +61198,6 @@ kitzsteinhorn.info
 kizi.info
 kleinanzeigen.info
 kleio.info
-mail.klussenbedrijven.info
 knochenmark.info
 komaneko.info
 www.konp.info
@@ -61247,6 +61266,7 @@ leiji7.info
 leonardoschool.info
 leopalace21.info
 www.lhmdaakl.info
+liaison-mit-literatur.info
 lichsuvietnam.info
 lienz.info
 likeriteok.info
@@ -61387,7 +61407,6 @@ meks.info
 server3.melonfresh.info
 server4.melonfresh.info
 ww1.melonfresh.info
-ww16.melonfresh.info
 ww38.melonfresh.info
 www.melonfresh.info
 ww1.mennecy.info
@@ -61565,7 +61584,7 @@ naasongss.info
 nabimuhammad.info
 nadie007.info
 nagamochi.info
-ww17.nahimana.info
+nahimana.info
 najnovijevesti.info
 najwa.info
 mail.nanotehnologija.info
@@ -61650,10 +61669,16 @@ mail.npd-blog.info
 www.npd-blog.info
 npic.info
 nrgroup.info
+4.nrpg.info
 cpcalendars.nrpg.info
+dc-1f23ebdab8ae.nrpg.info
 mail.nrpg.info
-ww38.nstudio.nrpg.info
+nstudio.nrpg.info
+ratiomaster.nrpg.info
+skyper.nrpg.info
 webdisk.nrpg.info
+wtf.nrpg.info
+ww1.nrpg.info
 www.nrpg.info
 ww1.nrxdh.info
 ww11.nrxdh.info
@@ -62241,10 +62266,6 @@ mail.sancarlosminas.info
 webdisk.sancarlosminas.info
 www.sancarlosminas.info
 sandino.info
-ww11.sanvitolocapo.info
-ww17.sanvitolocapo.info
-ww25.sanvitolocapo.info
-ww38.sanvitolocapo.info
 www.sanvitolocapo.info
 sarplaninac.info
 www.sawahel.info
@@ -62804,18 +62825,12 @@ www.tnggz.info
 tnoa2019.info
 tnpsctamil.info
 tnttorent.info
-ww25.todayfootball.info
 tomboytools.info
 tonion.info
 ww1.toonkor.info
 ww25.toonkor.info
-ww1.top-web-design.info
-ww11.top-web-design.info
-ww17.top-web-design.info
-ww25.top-web-design.info
 ww38.top-web-design.info
 ww6.top-web-design.info
-www.top-web-design.info
 top55.info
 topers.info
 toplum.info
@@ -63020,7 +63035,6 @@ uncut.info
 mail.unebriquedanslemur.info
 webdisk.unebriquedanslemur.info
 ww1.unebriquedanslemur.info
-ww16.unebriquedanslemur.info
 www.unebriquedanslemur.info
 unel.info
 universalpizza.info
@@ -78382,7 +78396,6 @@ apaccdn.adformnet.akadns.net
 cm.adformnet.akadns.net
 s1-eu.adformnet.akadns.net
 s1-eu-cname.adformnet.akadns.net
-s1-eu-isp.adformnet.akadns.net
 s2.adformnet.akadns.net
 track.adformnet.akadns.net
 track-apac.adformnet.akadns.net
@@ -105228,10 +105241,6 @@ bartowcountyparksandrec.org
 bauanleitungen.org
 bbbaptistchurch.org
 bbcos.org
-dev.bbcvids.org
-magento.bbcvids.org
-staging.bbcvids.org
-www.bbcvids.org
 bcbcal.org
 beanstock.org
 www.bedpunjab.org
@@ -105306,6 +105315,7 @@ bugmenot.org
 buildashed.org
 bulldogplanet.org
 bulmaca.org
+bunnet.org
 calcaostcu.org
 californiacollegeofpharmacy.org
 www.californiadreamact.org
@@ -105457,26 +105467,7 @@ www1.consulfrance-edimbourg.org
 metrics.consumerreports.org
 smetrics.consumerreports.org
 coresera.org
-antispam.cornerstonerecovery.org
 barracuda.cornerstonerecovery.org
-imap2.cornerstonerecovery.org
-mail.cornerstonerecovery.org
-mail7.cornerstonerecovery.org
-mailgate.cornerstonerecovery.org
-mx02.cornerstonerecovery.org
-mx1.cornerstonerecovery.org
-mx2.cornerstonerecovery.org
-mx4.cornerstonerecovery.org
-out.cornerstonerecovery.org
-relay.cornerstonerecovery.org
-smtpseguro.cornerstonerecovery.org
-sniper.cornerstonerecovery.org
-srv.cornerstonerecovery.org
-ww1.cornerstonerecovery.org
-ww16.cornerstonerecovery.org
-ww17.cornerstonerecovery.org
-ww25.cornerstonerecovery.org
-ww38.cornerstonerecovery.org
 corsicanaisd.org
 cosmetix.org
 councilonglobalsecurity.org
@@ -106055,6 +106046,7 @@ media.go2speed.org
 godleypark.org
 goheart.org
 gokp.org
+goldmovies.org
 goodsams.org
 goowill.org
 goquestions.org
@@ -107339,6 +107331,7 @@ squirtt.org
 squirtz.org
 squurt.org
 srisathyasaidhyanamandali.org
+ssgujarat.org
 ssjanakalyanatrust.org
 ssnit.org
 stamfordct.org
@@ -107377,7 +107370,6 @@ synaxis.org
 syrolympsc.org
 sysdschool.org
 szexfilmek.org
-www.tabid.org
 ww17.tainhac.org
 ww38.tainhac.org
 www.tainhac.org
@@ -111653,6 +111645,7 @@ feed.aservice.tools
 mail.binancegiveaway.top
 fingahvf.top
 push-notifications.top
+xxx2023.top
 admatic.com.tr
 adtarget.com.tr
 tagm.tchibo.com.tr
