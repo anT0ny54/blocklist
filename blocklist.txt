@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342957
+# Ignored duplicates: 342966
 
 chameleon.ad
 pixel.ad
@@ -4350,7 +4350,6 @@ amplifon-mkt-stage1-res.campaign.adobe.com
 apt.campaign.adobe.com
 asco-mkt-prod1-cus.campaign.adobe.com
 asiamiles.campaign.adobe.com
-asiamiles-mkt-prod1.campaign.adobe.com
 asiamiles-mkt-prod1-1.campaign.adobe.com
 asiamiles-mkt-prod1-m.campaign.adobe.com
 asiamiles-mkt-prod1-res.campaign.adobe.com
@@ -4857,7 +4856,6 @@ redfcu-mkt-prod1-1.campaign.adobe.com
 redlobsterllc-mid-prod1-cus.campaign.adobe.com
 registercom-mid-prod1-cus.campaign.adobe.com
 renault-mkt-dev1.campaign.adobe.com
-researchnow-mkt-prod1-cus.campaign.adobe.com
 riteaid-mid-stage1.campaign.adobe.com
 riteaid-mid-stage1-1.campaign.adobe.com
 riteaid-rt-prod2-lb.campaign.adobe.com
@@ -4886,7 +4884,6 @@ sanoma-mkt-stage1-res.campaign.adobe.com
 saxo-bank-mkt-prod2.campaign.adobe.com
 saxo-bank-mkt-prod2-1.campaign.adobe.com
 saxo-bank-mkt-prod2-cus.campaign.adobe.com
-scvl-mid-prod1-cus.campaign.adobe.com
 sears-mkt-prod4.campaign.adobe.com
 sears-mkt-prod4-cus.campaign.adobe.com
 sebkortbank-mkt-prod2.campaign.adobe.com
@@ -8606,7 +8603,7 @@ barracuda.btinternernet.com
 box.btinternernet.com
 comune.btinternernet.com
 correo.btinternernet.com
-db.btinternernet.com
+ww16.db.btinternernet.com
 direct.btinternernet.com
 email.btinternernet.com
 gateway.btinternernet.com
@@ -8618,12 +8615,10 @@ m.btinternernet.com
 mail.btinternernet.com
 mail01.btinternernet.com
 mail1.btinternernet.com
-mail11.btinternernet.com
 mail12.btinternernet.com
 mail2.btinternernet.com
 mail3.btinternernet.com
 mail4.btinternernet.com
-mail5.btinternernet.com
 mail6.btinternernet.com
 mail8.btinternernet.com
 mailbox.btinternernet.com
@@ -8635,33 +8630,24 @@ mailin.btinternernet.com
 mailout.btinternernet.com
 mails.btinternernet.com
 mailserver.btinternernet.com
-mailsrv.btinternernet.com
 mailx.btinternernet.com
 ms.btinternernet.com
-mta.btinternernet.com
-mx.btinternernet.com
 mx0.btinternernet.com
-mx02.btinternernet.com
 mx10.btinternernet.com
 mx2.btinternernet.com
-mx20.btinternernet.com
 mx4.btinternernet.com
 mx5.btinternernet.com
 mx7.btinternernet.com
 mxs.btinternernet.com
-newmail.btinternernet.com
 ns.btinternernet.com
 ns1.btinternernet.com
-out.btinternernet.com
 outmail.btinternernet.com
-po.btinternernet.com
 poczta.btinternernet.com
 pop.btinternernet.com
 post.btinternernet.com
 posta.btinternernet.com
 postmaster.btinternernet.com
 relay.btinternernet.com
-relay1.btinternernet.com
 relay2.btinternernet.com
 root.btinternernet.com
 server.btinternernet.com
@@ -8676,7 +8662,6 @@ srv.btinternernet.com
 ssl.btinternernet.com
 tiger.btinternernet.com
 tw.btinternernet.com
-vmail.btinternernet.com
 vnet.btinternernet.com
 ww16.btinternernet.com
 ww25.btinternernet.com
@@ -8837,17 +8822,6 @@ mon.byteoversea.com
 mon-va.byteoversea.com
 bytthjul.com
 c-cf.com
-comune.c-loverz.com
-mail.c-loverz.com
-mail7.c-loverz.com
-mailer.c-loverz.com
-mx.c-loverz.com
-mx02.c-loverz.com
-mx10.c-loverz.com
-mx4.c-loverz.com
-relay2.c-loverz.com
-smtpseguro.c-loverz.com
-ww31.c-loverz.com
 www.c-loverz.com
 c1exchange.com
 c3metrics.com
@@ -20329,6 +20303,7 @@ kerman94.com
 kesmatic.com
 kew-village.com
 keywordblocks.com
+kfeawfjatxpi.com
 kgfjrb711.com
 khingtracking.com
 khuds.com
@@ -21510,7 +21485,6 @@ mhs.macromill.com
 mhs-admin.macromill.com
 mhs-reference.macromill.com
 millreach.macromill.com
-coreka-dev-opensearch.coreka.mint-dev.macromill.com
 mmdatarpt.macromill.com
 mnri.macromill.com
 mobile.macromill.com
@@ -22603,6 +22577,7 @@ mchnad.com
 partners.mcontigo.com
 mcpdomain.com
 mcphospital.com
+mcuvzuozqji.com
 bs.mdadx.com
 mdavos.com
 mdbuy.com
@@ -37379,6 +37354,7 @@ oficemaxx.com
 ofqvwaosjq.com
 ogury.com
 ohnkitviv.com
+ohsqtyarxo.com
 www.oilcloze.com
 ojogoss.com
 ojoliecards.com
@@ -42890,6 +42866,7 @@ sc1.pnstat.com
 sc2.pnstat.com
 scn.pnstat.com
 www.pnstat.com
+pocketfaucet.com
 shop.pocketpcheaven.com
 ww1.pocketpcheaven.com
 ww25.pocketpcheaven.com
@@ -50928,7 +50905,6 @@ serconmp.com
 serebiifroums.com
 serie-vostfr.com
 series-fc.com
-www.series-vostfr.com
 seriestvx.com
 serpentshampoo.com
 serranoimoveis.com
@@ -53314,7 +53290,26 @@ surtthechannel.com
 survata.com
 survey-smiles.com
 surveyspaysyou.com
-survicate.com
+api.survicate.com
+app.survicate.com
+assets.survicate.com
+changelog.survicate.com
+data-api.survicate.com
+go.survicate.com
+integrations.survicate.com
+panel.survicate.com
+panel-api.survicate.com
+partners.survicate.com
+repo.survicate.com
+respondent.survicate.com
+status.survicate.com
+survey.survicate.com
+surveys-static.survicate.com
+track.survicate.com
+try.survicate.com
+videos.survicate.com
+web.survicate.com
+www.survicate.com
 susifhfh2d8ldn09.com
 insights.sustainablebrands.com
 svilosa.com
@@ -59391,7 +59386,6 @@ cpcalendars.0daypatch.info
 mail.0daypatch.info
 ww1.0daypatch.info
 ww11.0daypatch.info
-www.0daypatch.info
 www.104ez.info
 163ks.info
 177piczz.info
@@ -59690,7 +59684,6 @@ ww38.anime3kage.info
 ww7.anime3kage.info
 www.anime3kage.info
 annanicole.info
-www.ansatsu.info
 answkey.info
 antilles.info
 antiplaneta.info
@@ -60017,8 +60010,6 @@ ww25.birdwindowcollisions.info
 ww38.birdwindowcollisions.info
 biszofit.info
 bitaddress.info
-ww38.bitcoincompass.info
-www.bitcoincompass.info
 analytics.bitrix.info
 bizbuildermastery.info
 mvideo.bled.info
@@ -60081,10 +60072,8 @@ www2.borenje.info
 zimbra.borenje.info
 boxofficetraffic.info
 brazzers-hdx.info
-server3.broomkpark.info
-server4.broomkpark.info
+ww1.server4.broomkpark.info
 ww17.broomkpark.info
-ww2.broomkpark.info
 brshare.info
 brunei.info
 brzozow.info
@@ -60177,7 +60166,6 @@ ww38.cancer-treatment.info
 www.cancer-treatment.info
 candoo.info
 www.candysite.info
-ww25.caning.info
 canirunit.info
 canj.info
 mail.canliyayin.info
@@ -60334,7 +60322,6 @@ loveajax.coolcashing.info
 maars01.coolcashing.info
 mail.coolcashing.info
 maxmuscles.coolcashing.info
-porniro.coolcashing.info
 webdisk.coolcashing.info
 ww1.coolcashing.info
 ww16.coolcashing.info
@@ -60435,9 +60422,6 @@ ww17.decorsandgifts.info
 ww25.decorsandgifts.info
 ww38.decorsandgifts.info
 www.decorsandgifts.info
-server3.deepfryers.info
-server4.deepfryers.info
-ww1.deepfryers.info
 ww17.deepfryers.info
 ww38.deepfryers.info
 deepmix.info
@@ -60841,12 +60825,11 @@ galtuer.info
 galzu.info
 gamebbs.info
 server3.gamemachines.info
-server4.gamemachines.info
+ww25.server4.gamemachines.info
 ww1.gamemachines.info
 ww16.gamemachines.info
 ww25.gamemachines.info
 ww38.gamemachines.info
-www.gamemachines.info
 ww1.gameoke.info
 ww25.gameoke.info
 ww38.gameoke.info
@@ -60892,7 +60875,6 @@ geid.info
 geispo.info
 gelberschein.info
 gelbsucht.info
-ww1.gennadiy.info
 gentium.info
 geregun.info
 geschenke.info
@@ -61151,6 +61133,8 @@ jinan.info
 jinseikenko.info
 jinsoku.info
 jitely.info
+admission.jnu.info
+ww25.jnu.info
 jobcircular.info
 jobquest.info
 jobs4u.info
@@ -61668,6 +61652,7 @@ npic.info
 nrgroup.info
 4.nrpg.info
 cpcalendars.nrpg.info
+cpcontacts.nrpg.info
 dc-1f23ebdab8ae.nrpg.info
 mail.nrpg.info
 nstudio.nrpg.info
@@ -61750,7 +61735,6 @@ onzeweb.info
 optymalni.info
 organizationalmarket.info
 outdooradventure.info
-mail.outdoorman.info
 webdisk.outdoorman.info
 ww1.outdoorman.info
 ww11.outdoorman.info
@@ -61900,10 +61884,8 @@ profile.pronostic-turf.info
 te-9-1.pronostic-turf.info
 tomcat.pronostic-turf.info
 train.pronostic-turf.info
-ww1.pronostic-turf.info
 ww16.pronostic-turf.info
 ww25.pronostic-turf.info
-ww38.pronostic-turf.info
 www.pronostic-turf.info
 www-07.pronostic-turf.info
 pronosticodeltiempo.info
@@ -62259,7 +62241,6 @@ mail.sancarlosminas.info
 webdisk.sancarlosminas.info
 www.sancarlosminas.info
 sandino.info
-www.sanvitolocapo.info
 sarplaninac.info
 www.sawahel.info
 sb360.info
@@ -63023,9 +63004,6 @@ ww38.unblockproxy.info
 www.unblockproxy.info
 yts.unblockproxy.info
 uncut.info
-mail.unebriquedanslemur.info
-webdisk.unebriquedanslemur.info
-ww1.unebriquedanslemur.info
 www.unebriquedanslemur.info
 unel.info
 universalpizza.info
@@ -71035,6 +71013,7 @@ rancher.voodoo-ads.io
 splash-screen.voodoo-ads.io
 splash-screen-data.voodoo-ads.io
 subscription-project-api.voodoo-ads.io
+www.voodoo-ads.io
 trackers.voodoo-analytics.io
 wordpress.voodoo-analytics.io
 www.voodoo-analytics.io
@@ -81486,7 +81465,6 @@ comxcast.net
 connecthackensackumc.net
 connecting-to-the.net
 connexity.net
-vmi503011.contaboserver.net
 contactphoto.net
 api.content-recommendation.net
 cdn.content-recommendation.net
@@ -105778,6 +105756,7 @@ edjin.org
 eduteca.org
 eiceresources.org
 eisenhoweracademy.org
+www.el-tiempo.org
 eldercohousing.org
 about.elemnts.org
 ww1.elemnts.org
@@ -107717,7 +107696,6 @@ server.wmop.org
 ww1.wmop.org
 ww17.wmop.org
 ww2.wmop.org
-ww25.wmop.org
 ww35.wmop.org
 ww38.wmop.org
 ww5.wmop.org
