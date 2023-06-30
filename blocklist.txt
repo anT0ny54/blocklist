@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342913
+# Ignored duplicates: 342925
 
 chameleon.ad
 pixel.ad
@@ -2465,7 +2465,6 @@ targetingdb.ifs.advertising.a2z.com
 beta.chvs.imp.advertising.a2z.com
 midway.prod.chvs.imp.advertising.a2z.com
 beta.cvs.imp.advertising.a2z.com
-prod.cvs.imp.advertising.a2z.com
 app.beta.icw.imp.advertising.a2z.com
 app.gamma.icw.imp.advertising.a2z.com
 app.prod.icw.imp.advertising.a2z.com
@@ -8601,7 +8600,6 @@ barracuda.btinternernet.com
 box.btinternernet.com
 mail.comune.btinternernet.com
 correo.btinternernet.com
-ww16.db.btinternernet.com
 direct.btinternernet.com
 email.btinternernet.com
 gateway.btinternernet.com
@@ -17857,10 +17855,7 @@ assets.getsmartcontent.com
 cdn.getsmartcontent.com
 cdn-dev.getsmartcontent.com
 eloqua.getsmartcontent.com
-go.getsmartcontent.com
 s.getsmartcontent.com
-secure.getsmartcontent.com
-stg.getsmartcontent.com
 www.getsmartcontent.com
 www.gettingurl.com
 getwetvidoes.com
@@ -43539,10 +43534,18 @@ ppmmouthguard.com
 pr0nhub.com
 comune.prantikv.com
 mail.prantikv.com
+mail1.prantikv.com
 mail12.prantikv.com
 mail5.prantikv.com
+mailsrv.prantikv.com
+mx.prantikv.com
 mx0.prantikv.com
+mx1.prantikv.com
 mx10.prantikv.com
+mx20.prantikv.com
+ns1.prantikv.com
+postmaster.prantikv.com
+server2.prantikv.com
 www.prantikv.com
 prazeruniversal.com
 preanimal.com
@@ -53866,6 +53869,7 @@ mcs-va.tiktok.com
 ads.us.tiktok.com
 adsintegrity.us.tiktok.com
 analytics.us.tiktok.com
+mcs-va.tiktokv.com
 tikwt.com
 tillyz.com
 tiads.time.com
@@ -59369,8 +59373,6 @@ adjust.net.in
 cdn.popt.in
 00221.info
 06br.info
-cpcalendars.0daypatch.info
-mail.0daypatch.info
 www.104ez.info
 163ks.info
 177piczz.info
@@ -59787,7 +59789,6 @@ xuqyp.babymassage-apeldoorn.info
 zalaf.babymassage-apeldoorn.info
 backhoe.info
 backlinkcanyon.info
-ww25.bacsidinhduong.info
 baguena.info
 bahth.info
 bailu888.info
@@ -60058,7 +60059,6 @@ zimbra.borenje.info
 boxofficetraffic.info
 brazzers-hdx.info
 ww1.server4.broomkpark.info
-ww17.broomkpark.info
 brshare.info
 brunei.info
 brzozow.info
@@ -60140,7 +60140,6 @@ www.calme.info
 camersenat.info
 mail.campdelariviere.info
 ww1.campdelariviere.info
-ww16.campdelariviere.info
 ww17.campdelariviere.info
 ww25.campdelariviere.info
 ww38.campdelariviere.info
@@ -60234,7 +60233,6 @@ www.celiaimrie.info
 sitemap.cellchurch.info
 ww1.cellchurch.info
 ww11.cellchurch.info
-ww17.cellchurch.info
 certificates.info
 ww1.cevaplus.info
 ww11.cevaplus.info
@@ -60298,21 +60296,14 @@ www.computer-arts.info
 computersetc.info
 www.consolasportatiles.info
 028.coolcashing.info
-158.coolcashing.info
 172.coolcashing.info
 181.coolcashing.info
 199.coolcashing.info
-ahmedbn221.coolcashing.info
-loveajax.coolcashing.info
-maars01.coolcashing.info
 mail.coolcashing.info
-maxmuscles.coolcashing.info
 ww16.coolcashing.info
 ww2.coolcashing.info
 ww25.coolcashing.info
 www.coolcashing.info
-youssef19.coolcashing.info
-zd.coolcashing.info
 coolinc.info
 corewiki.info
 corporategeek.info
@@ -60403,7 +60394,6 @@ ww17.decorsandgifts.info
 ww25.decorsandgifts.info
 ww38.decorsandgifts.info
 www.decorsandgifts.info
-ww17.deepfryers.info
 ww38.deepfryers.info
 deepmix.info
 defereggental.info
@@ -60721,11 +60711,8 @@ flex-tech.info
 flixzone.info
 ns1.footballstreamings.info
 ns2.footballstreamings.info
-sitemap.footballstreamings.info
-sitemaps.footballstreamings.info
 ww16.footballstreamings.info
 ww38.footballstreamings.info
-www.footballstreamings.info
 forbest.info
 forkhost.info
 infowww.formadv.info
@@ -60803,7 +60790,6 @@ galiana.info
 galtuer.info
 galzu.info
 gamebbs.info
-ww25.server4.gamemachines.info
 ww16.gamemachines.info
 ww1.gameoke.info
 ww25.gameoke.info
@@ -60850,11 +60836,7 @@ geid.info
 geispo.info
 gelberschein.info
 gelbsucht.info
-cpcalendars.gentium.info
 pop.gentium.info
-ww1.gentium.info
-ww17.gentium.info
-ww25.gentium.info
 www.gentium.info
 geregun.info
 geschenke.info
@@ -61120,6 +61102,7 @@ jinsoku.info
 jitely.info
 admission.jnu.info
 ww25.jnu.info
+www.jnu.info
 jobcircular.info
 jobquest.info
 jobs4u.info
@@ -61133,6 +61116,7 @@ jpub.info
 jsong.info
 jumpon.info
 junaldpascua.info
+ww1.jupiter-directory.info
 ww12.jupiter-directory.info
 ww16.jupiter-directory.info
 kabhebrew.info
@@ -61242,7 +61226,9 @@ lichsuvietnam.info
 lienz.info
 likeriteok.info
 likud.info
-ww1.limewire.info
+c00n4i637f3hnd5rh380.ww1.limewire.info
+c00n4i637f3hnd5rh38g.ww1.limewire.info
+c00n4i637f3hnd5rh390.ww1.limewire.info
 ww11.limewire.info
 ww16.limewire.info
 ww17.limewire.info
@@ -61381,15 +61367,7 @@ www.megafast.info
 meituyy.info
 meks.info
 4jslg.melonfresh.info
-ww25.server3.melonfresh.info
-ww38.server4.melonfresh.info
-www.server4.melonfresh.info
-ww38.melonfresh.info
 ww1.mennecy.info
-ww11.mennecy.info
-ww17.mennecy.info
-ww25.mennecy.info
-ww38.mennecy.info
 mercusuar.info
 merictech.info
 aaa.messletters.info
@@ -61730,12 +61708,6 @@ onzeweb.info
 optymalni.info
 organizationalmarket.info
 outdooradventure.info
-ww1.outdoorman.info
-ww11.outdoorman.info
-ww17.outdoorman.info
-ww25.outdoorman.info
-ww38.outdoorman.info
-ww7.outdoorman.info
 ovni.info
 p108.info
 p69.info
@@ -62495,8 +62467,6 @@ ww1.sweetspotgolf.info
 ww12.sweetspotgolf.info
 ww17.sweetspotgolf.info
 ww2.sweetspotgolf.info
-ww25.sweetspotgolf.info
-ww38.sweetspotgolf.info
 ww7.sweetspotgolf.info
 ww8.sweetspotgolf.info
 www.sweetspotgolf.info
@@ -62847,8 +62817,6 @@ tvliveshow.info
 tvon.info
 tvorbita.info
 tvporinternet.info
-ww1.tw-drupal.info
-ww11.tw-drupal.info
 ww16.tw-drupal.info
 ww17.tw-drupal.info
 ww25.tw-drupal.info
@@ -77863,8 +77831,6 @@ e-10323.adzerk.net
 e-10323-us-east-1.adzerk.net
 e-10328.adzerk.net
 e-10328-us-east-1.adzerk.net
-e-10342.adzerk.net
-e-10342-us-west-2.adzerk.net
 e-10348.adzerk.net
 e-10348-us-east-1.adzerk.net
 e-10353.adzerk.net
@@ -77911,7 +77877,6 @@ e-10501-eu-central-1.adzerk.net
 e-10501-us-east-1.adzerk.net
 e-10507.adzerk.net
 e-10507-eu-central-1.adzerk.net
-e-10510.adzerk.net
 e-10515.adzerk.net
 e-10515-us-east-1.adzerk.net
 e-10537.adzerk.net
@@ -77938,7 +77903,6 @@ e-10602.adzerk.net
 e-10602-us-east-1.adzerk.net
 e-10621.adzerk.net
 e-10634.adzerk.net
-e-10634-us-east-1.adzerk.net
 e-10650.adzerk.net
 e-10650-ap-northeast-2.adzerk.net
 e-10663.adzerk.net
@@ -78123,7 +78087,6 @@ e-9922.adzerk.net
 e-9922-us-east-1.adzerk.net
 e-9933.adzerk.net
 e-9933-us-east-1.adzerk.net
-e-9935.adzerk.net
 e-9957-us-east-1.adzerk.net
 e-9969.adzerk.net
 e-9969-us-east-1.adzerk.net
@@ -98730,7 +98693,7 @@ lexustuning.net
 libertytaxservice.net
 lifeimpressions.net
 ads.lifethink.net
-www.lightspeedmedia.net
+lightspeedmedia.net
 linkstorm.net
 linuxgaming.net
 tracking.listhub.net
@@ -102307,11 +102270,7 @@ links.integrations.sendgrid.net
 ei-dev-a.k8s-us-east-2.sendgrid.net
 ei-prod-a.k8s-us-east-2.sendgrid.net
 ei-stage-a.k8s-us-east-2.sendgrid.net
-acceptance-event-consumer-p1mdw1.k8s.sendgrid.net
-acceptance-event-consumer-p2mdw1.k8s.sendgrid.net
 acceptance-event-consumer-s1mdw1.k8s.sendgrid.net
-acceptance-event-consumer-s2mdw1.k8s.sendgrid.net
-acceptance-event-consumer-s3mdw1.k8s.sendgrid.net
 alertmanager-antiabuse-production-iad2.k8s.sendgrid.net
 alertmanager-antiabuse-production-las1.k8s.sendgrid.net
 alertmanager-antiabuse-production-mdw1.k8s.sendgrid.net
@@ -105023,25 +104982,8 @@ amcaotc.org
 americancruises.org
 americanrelief.org
 americanthinker.org
-authsmtp.amishheaters.org
-mail.comune.amishheaters.org
-ww25.gw.amishheaters.org
-ww25.hermes.amishheaters.org
-mail12.amishheaters.org
-ww16.mx20.amishheaters.org
-ww16.mx5.amishheaters.org
-relay.amishheaters.org
-ww16.relay1.amishheaters.org
-relay2.amishheaters.org
-ww25.server2.amishheaters.org
-smtpauth.amishheaters.org
-static.amishheaters.org
-web.amishheaters.org
 ww1.amishheaters.org
 ww17.amishheaters.org
-ww25.amishheaters.org
-ww38.amishheaters.org
-zimbra.amishheaters.org
 analytics.amiunique.org
 android4play.org
 androidsoundboard.org
@@ -105351,6 +105293,8 @@ metrics.consumerreports.org
 smetrics.consumerreports.org
 coresera.org
 barracuda.cornerstonerecovery.org
+postmaster.cornerstonerecovery.org
+www.cornerstonerecovery.org
 corsicanaisd.org
 cosmetix.org
 councilonglobalsecurity.org
@@ -106579,6 +106523,7 @@ playbuzz.org
 playtetris.org
 plela.org
 mail.plp2.org
+ww17.plp2.org
 www.plp2.org
 pmasterson.org
 poewiki.org
@@ -107608,11 +107553,7 @@ post.wmop.org
 server.wmop.org
 ww1.wmop.org
 ww17.wmop.org
-ww2.wmop.org
-ww35.wmop.org
 ww38.wmop.org
-ww5.wmop.org
-www.wmop.org
 woldpress.org
 wolrdcat.org
 womansway.org
