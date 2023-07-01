@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 342925
+# Ignored duplicates: 342928
 
 chameleon.ad
 pixel.ad
@@ -4456,7 +4456,6 @@ cname.campaign.adobe.com
 cnova-mkt-prod1.campaign.adobe.com
 cocacola.campaign.adobe.com
 cocacola-mkt-prod1-1.campaign.adobe.com
-cocacola-mkt-prod1-res.campaign.adobe.com
 cocacola-mkt-prod1-t.campaign.adobe.com
 conad-mid-stage1.campaign.adobe.com
 coop.campaign.adobe.com
@@ -10972,6 +10971,7 @@ defectivesun.com
 defenderappmobile.com
 deflorazione.com
 deflortaion.com
+ww1.dehlimetrorail.com
 web2.deja.com
 gp.dejanews.com
 delandeau.com
@@ -16795,11 +16795,7 @@ fuckfaye.com
 fuckmummy.com
 fuel451.com
 fuelcdn.com
-0c3aba940b0.fulamz.com
-dev.fulamz.com
 mail.fulamz.com
-old.fulamz.com
-shop.fulamz.com
 ww11.fulamz.com
 ww17.fulamz.com
 ww25.fulamz.com
@@ -18714,7 +18710,6 @@ hackersclub.com
 hackyoutube.com
 hadaragallery.com
 hadplus.com
-hadskiz.com
 haihot.com
 haikunatura.com
 hairextensionssale.com
@@ -19893,10 +19888,7 @@ jcpportraints.com
 wwww.jdoqocy.com
 jdunbar.com
 jdwentworth.com
-events.jecpeny.com
-mail.jecpeny.com
-old.jecpeny.com
-www.jecpeny.com
+jecpeny.com
 jennifersofas.com
 jeolladosushi.com
 cno.jerkmate.com
@@ -22700,6 +22692,7 @@ click.digital.metaquestmail.com
 werbung.meteoxpress.com
 methodcash.com
 metin2indir.com
+metricswave.com
 metrigo.com
 metrilo.com
 mettajetovimuti.com
@@ -23712,6 +23705,7 @@ ww16.mikeschanksworld.com
 ww17.mikeschanksworld.com
 ww25.mikeschanksworld.com
 www.mikeschanksworld.com
+ww1.mikkymax.com
 ww3.mikkymax.com
 www.mikkymax.com
 milfplatz.com
@@ -43213,7 +43207,6 @@ kegenix.postaffiliatepro.com
 kegoutlet.postaffiliatepro.com
 kemo.postaffiliatepro.com
 kiaranaturals.postaffiliatepro.com
-kilimall.postaffiliatepro.com
 kinguin.postaffiliatepro.com
 kiwitaxi.postaffiliatepro.com
 knightfgcom.postaffiliatepro.com
@@ -53475,7 +53468,6 @@ targetingnow.com
 targetnet.com
 targetpoint.com
 ww11.tarnuephotography.com
-www.tarnuephotography.com
 tastebudsfm.com
 tastefulsongs.com
 tatlermagazine.com
@@ -54046,7 +54038,6 @@ track4cr.com
 trackalyzer.com
 tracking101.com
 tracking22.com
-trackingfestival.com
 trackingsoft.com
 trackjs.com
 trackmysales.com
@@ -54896,6 +54887,7 @@ ads56.unoadsrv.com
 ads57.unoadsrv.com
 ads58.unoadsrv.com
 ads59.unoadsrv.com
+ads6.unoadsrv.com
 ads61.unoadsrv.com
 ads62.unoadsrv.com
 ads63.unoadsrv.com
@@ -58483,7 +58475,6 @@ openx2.kytary.cz
 ad.lupa.cz
 ad2.lupa.cz
 reklama.mironet.cz
-ceskydomov.alias.ngs.modry.cz
 js.nahnoji.cz
 mine.nahnoji.cz
 navrcholu.cz
@@ -58765,7 +58756,6 @@ layer-ad.de
 layer-ads.de
 ligatus.de
 link-booster.de
-linkadd.de
 links-ranking.de
 ads.tripod.lycos.de
 adnews.maddog2000.de
@@ -59058,7 +59048,6 @@ visual-pagerank.fr
 weborama.fr
 ads.adsbtc.fun
 ads.a-snag-smartmoney.fyi
-autologica.ga
 kaloo.ga
 drawbrid.ge
 clean.gg
@@ -59474,9 +59463,7 @@ vrpaal.48br.info
 ww1.48br.info
 ww11.48br.info
 ww16.48br.info
-ww17.48br.info
 ww25.48br.info
-ww38.48br.info
 server.4downfiles1.info
 ww1.4downfiles1.info
 ww11.4downfiles1.info
@@ -59718,12 +59705,6 @@ ww25.aso-sabo.info
 ww38.aso-sabo.info
 ww7.aso-sabo.info
 www.aso-sabo.info
-ww1.assafir-attounissia.info
-ww11.assafir-attounissia.info
-ww17.assafir-attounissia.info
-ww25.assafir-attounissia.info
-ww38.assafir-attounissia.info
-www.assafir-attounissia.info
 assilah.info
 assurancecomplementairesante.info
 astrofx.info
@@ -60058,7 +60039,6 @@ www2.borenje.info
 zimbra.borenje.info
 boxofficetraffic.info
 brazzers-hdx.info
-ww1.server4.broomkpark.info
 brshare.info
 brunei.info
 brzozow.info
@@ -60138,12 +60118,8 @@ calciummangel.info
 mail.calme.info
 www.calme.info
 camersenat.info
-mail.campdelariviere.info
-ww1.campdelariviere.info
-ww17.campdelariviere.info
 ww25.campdelariviere.info
 ww38.campdelariviere.info
-www.campdelariviere.info
 canberra.info
 ww1.cancer-treatment.info
 ww38.cancer-treatment.info
@@ -60230,9 +60206,6 @@ cctv-camera.info
 cd-player.info
 ww1.celiaimrie.info
 www.celiaimrie.info
-sitemap.cellchurch.info
-ww1.cellchurch.info
-ww11.cellchurch.info
 certificates.info
 ww1.cevaplus.info
 ww11.cevaplus.info
@@ -60295,15 +60268,12 @@ ww38.computer-arts.info
 www.computer-arts.info
 computersetc.info
 www.consolasportatiles.info
-028.coolcashing.info
-172.coolcashing.info
-181.coolcashing.info
-199.coolcashing.info
+ww16.consolida.info
+ww25.consolida.info
+ww43.consolida.info
 mail.coolcashing.info
-ww16.coolcashing.info
 ww2.coolcashing.info
 ww25.coolcashing.info
-www.coolcashing.info
 coolinc.info
 corewiki.info
 corporategeek.info
@@ -60394,7 +60364,6 @@ ww17.decorsandgifts.info
 ww25.decorsandgifts.info
 ww38.decorsandgifts.info
 www.decorsandgifts.info
-ww38.deepfryers.info
 deepmix.info
 defereggental.info
 definitelycoming.info
@@ -60790,7 +60759,6 @@ galiana.info
 galtuer.info
 galzu.info
 gamebbs.info
-ww16.gamemachines.info
 ww1.gameoke.info
 ww25.gameoke.info
 ww38.gameoke.info
@@ -60836,8 +60804,6 @@ geid.info
 geispo.info
 gelberschein.info
 gelbsucht.info
-pop.gentium.info
-www.gentium.info
 geregun.info
 geschenke.info
 getfreeinsur.info
@@ -60860,7 +60826,6 @@ gighoe.info
 gitorm.info
 giveawayforyou.info
 glee-episode.info
-ww2.globaldew.info
 godspeakstoday.info
 goldrock.info
 golfbooks.info
@@ -61071,7 +61036,6 @@ iptvserver.info
 ipv6news.info
 irkut.info
 ww1.irwarez.info
-ww16.irwarez.info
 ww38.irwarez.info
 ww62.irwarez.info
 ww82.irwarez.info
@@ -61100,9 +61064,7 @@ jinan.info
 jinseikenko.info
 jinsoku.info
 jitely.info
-admission.jnu.info
-ww25.jnu.info
-www.jnu.info
+jnu.info
 jobcircular.info
 jobquest.info
 jobs4u.info
@@ -61116,9 +61078,7 @@ jpub.info
 jsong.info
 jumpon.info
 junaldpascua.info
-ww1.jupiter-directory.info
-ww12.jupiter-directory.info
-ww16.jupiter-directory.info
+jupiter-directory.info
 kabhebrew.info
 kajak.info
 kamikazi.info
@@ -61226,15 +61186,9 @@ lichsuvietnam.info
 lienz.info
 likeriteok.info
 likud.info
-c00n4i637f3hnd5rh380.ww1.limewire.info
-c00n4i637f3hnd5rh38g.ww1.limewire.info
-c00n4i637f3hnd5rh390.ww1.limewire.info
-ww11.limewire.info
-ww16.limewire.info
 ww17.limewire.info
 ww2.limewire.info
 ww25.limewire.info
-ww38.limewire.info
 linksrush.info
 linuxscada.info
 lisandru.info
@@ -61366,8 +61320,6 @@ webdisk.megafast.info
 www.megafast.info
 meituyy.info
 meks.info
-4jslg.melonfresh.info
-ww1.mennecy.info
 mercusuar.info
 merictech.info
 aaa.messletters.info
@@ -62016,13 +61968,18 @@ e-certificate.pusat-bahasa.info
 el.pusat-bahasa.info
 fa.pusat-bahasa.info
 ga.pusat-bahasa.info
+hr.pusat-bahasa.info
 is.pusat-bahasa.info
+it.pusat-bahasa.info
 journal.pusat-bahasa.info
 kk.pusat-bahasa.info
+km.pusat-bahasa.info
 lms.pusat-bahasa.info
+lt.pusat-bahasa.info
 lv.pusat-bahasa.info
 mahad.pusat-bahasa.info
 mail.pusat-bahasa.info
+mk.pusat-bahasa.info
 mta-sts.pusat-bahasa.info
 ne.pusat-bahasa.info
 nl.pusat-bahasa.info
@@ -62294,6 +62251,7 @@ shineworks.info
 shkid.info
 ww11.traf.shlink.info
 ww38.shlink.info
+www.shlink.info
 shop-shop.info
 showroom.info
 www.shturm.info
@@ -62461,7 +62419,6 @@ web.svabe.info
 ww17.svabe.info
 www.svabe.info
 svatektribratri.info
-mail.sweetspotgolf.info
 sitemaps.sweetspotgolf.info
 ww1.sweetspotgolf.info
 ww12.sweetspotgolf.info
@@ -62781,7 +62738,6 @@ torrentgamesps2.info
 ww1.torrentsave.info
 ww11.torrentsave.info
 ww25.torrentsave.info
-ww38.torrentsave.info
 ww62.torrentsave.info
 ww82.torrentsave.info
 ww92.torrentsave.info
@@ -97946,9 +97902,7 @@ fishingclub.net
 flero.net
 burbank.flexissched.net
 lmcsd.flexissched.net
-ww16.flexissched.net
 ww25.flexissched.net
-ww38.flexissched.net
 flippty.net
 flutterbyfields.net
 static.fmpub.net
@@ -98675,6 +98629,12 @@ kinquin.net
 kitchenremodelingguide.net
 knightscomm.net
 ads1.knxs.net
+box.koosk.net
+comune.koosk.net
+mailhost.koosk.net
+post.koosk.net
+postmaster.koosk.net
+ww1.koosk.net
 krxd.net
 kylyria.net
 lacierda.net
@@ -99882,7 +99842,6 @@ respottv.net
 returnpath.net
 brain.rtb.revcloud.net
 servedby.revive-adserver.net
-revsci.net
 ams-rtb1.rfihub.net
 c1.rfihub.net
 c2.rfihub.net
@@ -102270,7 +102229,6 @@ links.integrations.sendgrid.net
 ei-dev-a.k8s-us-east-2.sendgrid.net
 ei-prod-a.k8s-us-east-2.sendgrid.net
 ei-stage-a.k8s-us-east-2.sendgrid.net
-acceptance-event-consumer-s1mdw1.k8s.sendgrid.net
 alertmanager-antiabuse-production-iad2.k8s.sendgrid.net
 alertmanager-antiabuse-production-las1.k8s.sendgrid.net
 alertmanager-antiabuse-production-mdw1.k8s.sendgrid.net
@@ -106522,9 +106480,25 @@ platinumautosales.org
 playbuzz.org
 playtetris.org
 plela.org
+auth.plp2.org
+authsmtp.plp2.org
+email.plp2.org
 mail.plp2.org
+mail2.plp2.org
+mailin.plp2.org
+mailout.plp2.org
+mailserver.plp2.org
+mailx.plp2.org
+mx.plp2.org
+mx1.plp2.org
+ns2.plp2.org
+poczta.plp2.org
+postmaster.plp2.org
+relay.plp2.org
+smtps.plp2.org
 ww17.plp2.org
 www.plp2.org
+www1.plp2.org
 pmasterson.org
 poewiki.org
 policecanada.org
@@ -107544,13 +107518,7 @@ windows2univers.org
 wintercrest.org
 wkco.org
 cpcalendars.wmop.org
-email.wmop.org
 mail.wmop.org
-mailgate.wmop.org
-mailhost.wmop.org
-mailout.wmop.org
-post.wmop.org
-server.wmop.org
 ww1.wmop.org
 ww17.wmop.org
 ww38.wmop.org
