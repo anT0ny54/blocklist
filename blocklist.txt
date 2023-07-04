@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 339670
+# Ignored duplicates: 339704
 
 chameleon.ad
 pixel.ad
@@ -4473,7 +4473,6 @@ clubhkt-mkt-prod1-1.campaign.adobe.com
 cname.campaign.adobe.com
 cnova-mkt-prod1.campaign.adobe.com
 cocacola.campaign.adobe.com
-cocacola-mkt-prod1-1.campaign.adobe.com
 conad-mid-stage1.campaign.adobe.com
 coop.campaign.adobe.com
 coop-mkt-prod1.campaign.adobe.com
@@ -5316,15 +5315,7 @@ zephyr-digital.adsoptimal.com
 adsorb.com
 adspredictiv.com
 adspsp.com
-dc.adsqn.com
-mc12.adsqn.com
-mc13.adsqn.com
-mc14.adsqn.com
-mc15.adsqn.com
-mc16.adsqn.com
-survey.adsqn.com
 ww6.adsqn.com
-www.adsqn.com
 adsquare.com
 adsroller.com
 adsrvs.com
@@ -19609,7 +19600,6 @@ hsbcmf.com
 hsm-statusquo.com
 mail.hsnbank.com
 ww1.hsnbank.com
-ww25.hsnbank.com
 ads.hsoub.com
 ads2.hsoub.com
 hst-rc.com
@@ -43426,6 +43416,7 @@ parchedsofa.com
 parcheggiorio.com
 pardonpopular.com
 pardot.com
+parentpicture.com
 pargon.com
 paris-saillard.com
 ww16.parishotelandcasino.com
@@ -55417,6 +55408,7 @@ trance-bux.com
 traneline.com
 tranformise.com
 tranquilside.com
+transaction-id.com
 transitodemedellin.com
 translategoogle.com
 transmapp.com
@@ -57908,7 +57900,6 @@ webwiseforradio.com
 webxcdn.com
 webxmr.com
 weddingcakeshoppe.com
-www.wediafire.com
 weeblstuf.com
 weescooter.com
 weherit.com
@@ -61432,6 +61423,7 @@ ww12.91gxfl.info
 ww16.91gxfl.info
 ww25.91gxfl.info
 www.91gxfl.info
+ww1.1024.91lulea.info
 98hy.info
 99hy.info
 9xtunes.info
@@ -62231,9 +62223,6 @@ www.computer-arts.info
 computersetc.info
 www.consolasportatiles.info
 consolida.info
-mail.coolcashing.info
-ww2.coolcashing.info
-ww25.coolcashing.info
 coolinc.info
 corewiki.info
 corporategeek.info
@@ -62273,6 +62262,7 @@ curieux.info
 czmms.info
 daarija.info
 dadbab.info
+daftarcpns.info
 ns1.damdam.info
 ns2.damdam.info
 www.damdam.info
@@ -62816,9 +62806,6 @@ ww3.filoso.info
 ww38.filoso.info
 www.filoso.info
 financialsecurity.info
-ww1.finanzaseinversiones7.info
-ww17.finanzaseinversiones7.info
-www.finanzaseinversiones7.info
 firstnews.info
 fishinginisrael.info
 fisse.info
@@ -63206,8 +63193,6 @@ iptv-gratuit.info
 iptvserver.info
 ipv6news.info
 irkut.info
-ww62.irwarez.info
-ww82.irwarez.info
 isea2016.info
 ww25.m.islam-news.info
 isong.info
@@ -63261,6 +63246,7 @@ kbuj.info
 keliauk.info
 kenh14.info
 khalijmusic.info
+khetkrong.info
 kidala.info
 ww17.forum.kievonline.info
 ww17.kievonline.info
@@ -63417,6 +63403,11 @@ pub.macommune.info
 www.maedchen.info
 magiptv.info
 www.magure.info
+apps.mahajana.info
+backend.mahajana.info
+dev.mahajana.info
+new.mahajana.info
+testing.mahajana.info
 mahapolice.info
 mailgoogle.info
 mailings.info
@@ -63999,6 +63990,7 @@ ww25.porno2018.info
 www.porno2018.info
 pornobitx.info
 pornocomicsix.info
+pornoheroes.info
 pornokopilka.info
 pornos.info
 pornosemki.info
@@ -64028,9 +64020,10 @@ projectmanagement.info
 projectoval.info
 promma.info
 promolab.info
-ww16.pronostic-turf.info
 ww25.pronostic-turf.info
 pronosticodeltiempo.info
+finishingtouch.prouamarket.info
+mail.prouamarket.info
 ww38.prouamarket.info
 1300.proxysmart.info
 19.proxysmart.info
@@ -64388,6 +64381,7 @@ schladming.info
 schlankfit.info
 scholarshipsreview.info
 searchline.info
+seasonforgiving.info
 mail.sectionz.info
 webdisk.sectionz.info
 ww1.sectionz.info
@@ -64480,9 +64474,7 @@ sharonziv.info
 sheriff.info
 shineworks.info
 shkid.info
-ww11.traf.shlink.info
-ww38.shlink.info
-www.shlink.info
+shlink.info
 shop-shop.info
 showroom.info
 www.shturm.info
@@ -64527,13 +64519,9 @@ www.slut.info
 www1.slut.info
 www2.slut.info
 smarterfernsehen.info
-mail.smartexpo.info
-tucristosocial.smartexpo.info
-webdisk.smartexpo.info
 ww11.smartexpo.info
 ww17.smartexpo.info
 ww38.smartexpo.info
-www.smartexpo.info
 snapohack.info
 sneeuwklokjes.info
 snis.info
@@ -64930,9 +64918,6 @@ threaded.info
 thruster.info
 www.thuthuatpro.info
 tiaccaciproduzioni.info
-ww1.tinanime.info
-ww17.tinanime.info
-ww38.tinanime.info
 titangelrussia.info
 ww1.tnggz.info
 ww38.tnggz.info
@@ -65424,7 +65409,6 @@ ptwssi-936.vlagaxxxi.info
 reliable604.vlagaxxxi.info
 schoolgirl-blogs.vlagaxxxi.info
 uorhinow.vlagaxxxi.info
-ww3.vlagaxxxi.info
 www.vlagaxxxi.info
 year.vlagaxxxi.info
 vsesdam.info
@@ -65484,6 +65468,7 @@ worldsportsmemorabilia.info
 wowchar.info
 wowsource.info
 wwpc.info
+wwsy.info
 wwwmuzik.info
 xav11.info
 xeal.info
@@ -65640,6 +65625,7 @@ yourapps.info
 www.yourbestcity.info
 ytliu.info
 yunss.info
+yurtdisikargo.info
 zabolkata.info
 czat.zaburzeniaodzywiania.info
 ww11.forum.zaburzeniaodzywiania.info
@@ -65661,6 +65647,7 @@ zins-radar.info
 zipmangabk.info
 zonacodot.info
 zooplaneta.info
+zovv.info
 zppp.info
 zuckerkrankheit.info
 zvarych.info
@@ -81105,7 +81092,6 @@ bitcoinclicks.net
 blackfiday.net
 blocksmc.net
 blueconic.net
-ww25.bnbabes.net
 ww38.bnbabes.net
 www.bnbabes.net
 bokabilligt.net
@@ -104676,7 +104662,6 @@ prometheus.autobots-prod-a.us-east-1.aws.k8s.sendgrid.net
 alertmanager.general-prod-a.us-east-1.aws.k8s.sendgrid.net
 blackbox.general-prod-a.us-east-1.aws.k8s.sendgrid.net
 holocron-api.general-prod-a.us-east-1.aws.k8s.sendgrid.net
-sq.mp.general-prod-a.us-east-1.aws.k8s.sendgrid.net
 prometheus.general-prod-a.us-east-1.aws.k8s.sendgrid.net
 alertmanager.general-stage-a.us-east-1.aws.k8s.sendgrid.net
 blackbox.general-stage-a.us-east-1.aws.k8s.sendgrid.net
@@ -104738,7 +104723,6 @@ cortex.cortex-stage-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.cortex-stage-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.general-prod-a.us-east-2.aws.k8s.sendgrid.net
 blackbox.general-prod-a.us-east-2.aws.k8s.sendgrid.net
-sq.mp.general-prod-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.general-prod-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.general-stage-a.us-east-2.aws.k8s.sendgrid.net
 blackbox.general-stage-a.us-east-2.aws.k8s.sendgrid.net
@@ -104768,7 +104752,6 @@ blackbox.autobots-prod-a.us-west-2.aws.k8s.sendgrid.net
 prometheus.autobots-prod-a.us-west-2.aws.k8s.sendgrid.net
 alertmanager.general-prod-a.us-west-2.aws.k8s.sendgrid.net
 blackbox.general-prod-a.us-west-2.aws.k8s.sendgrid.net
-sq.mp.general-prod-a.us-west-2.aws.k8s.sendgrid.net
 prometheus.general-prod-a.us-west-2.aws.k8s.sendgrid.net
 alertmanager.general-stage-a.us-west-2.aws.k8s.sendgrid.net
 blackbox.general-stage-a.us-west-2.aws.k8s.sendgrid.net
@@ -107741,8 +107724,27 @@ www1.consulfrance-edimbourg.org
 metrics.consumerreports.org
 smetrics.consumerreports.org
 coresera.org
+antispam.cornerstonerecovery.org
 barracuda.cornerstonerecovery.org
+imap2.cornerstonerecovery.org
+mail.cornerstonerecovery.org
+mail7.cornerstonerecovery.org
+mailgate.cornerstonerecovery.org
+mx02.cornerstonerecovery.org
+mx1.cornerstonerecovery.org
+mx2.cornerstonerecovery.org
+mx4.cornerstonerecovery.org
+out.cornerstonerecovery.org
 postmaster.cornerstonerecovery.org
+relay.cornerstonerecovery.org
+smtpseguro.cornerstonerecovery.org
+sniper.cornerstonerecovery.org
+srv.cornerstonerecovery.org
+ww1.cornerstonerecovery.org
+ww16.cornerstonerecovery.org
+ww17.cornerstonerecovery.org
+ww25.cornerstonerecovery.org
+ww38.cornerstonerecovery.org
 www.cornerstonerecovery.org
 corsicanaisd.org
 cosmetix.org
@@ -109107,6 +109109,8 @@ plela.org
 auth.plp2.org
 authsmtp.plp2.org
 email.plp2.org
+gacor10k.plp2.org
+gacor138.plp2.org
 mail.plp2.org
 mail2.plp2.org
 mailin.plp2.org
@@ -109121,6 +109125,7 @@ postmaster.plp2.org
 relay.plp2.org
 smtps.plp2.org
 ww1.plp2.org
+ww16.plp2.org
 ww17.plp2.org
 ww25.plp2.org
 ww38.plp2.org
@@ -110226,7 +110231,6 @@ cpcalendars.wmop.org
 mail.wmop.org
 ww1.wmop.org
 ww17.wmop.org
-ww38.wmop.org
 woldpress.org
 wolrdcat.org
 womansway.org
