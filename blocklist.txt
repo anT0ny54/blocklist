@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 339704
+# Ignored duplicates: 339618
 
 chameleon.ad
 pixel.ad
@@ -2469,7 +2469,6 @@ str.ifs.advertising.a2z.com
 targetingdb.ifs.advertising.a2z.com
 beta.chvs.imp.advertising.a2z.com
 midway.prod.chvs.imp.advertising.a2z.com
-beta.cvs.imp.advertising.a2z.com
 app.beta.icw.imp.advertising.a2z.com
 app.gamma.icw.imp.advertising.a2z.com
 app.prod.icw.imp.advertising.a2z.com
@@ -2670,7 +2669,6 @@ abclivestream.com
 ad.abcnews.com
 abcoster.com
 ad.abctv.com
-hello.abcyoutube.com
 abdlnk.com
 abdumusic.com
 ww1.abeautifulpool.com
@@ -3141,7 +3139,6 @@ emailct.addthis.com
 go.addthis.com
 lct.addthis.com
 m.addthis.com
-m-cw.addthis.com
 m-dev.addthis.com
 m-origin.addthis.com
 m-test.addthis.com
@@ -36224,6 +36221,7 @@ clicks.monzo.com
 mookie1.com
 mopinion.com
 mopub.com
+mopuf.com
 mordningstar.com
 morethanjustmiles.com
 morganstanlely.com
@@ -38154,6 +38152,11 @@ ninjakloack.com
 ninjapd.com
 nintendo16.com
 ninthdecimal.com
+mx4.nippellady.com
+ww16.nippellady.com
+ww25.nippellady.com
+ww38.nippellady.com
+www.nippellady.com
 nirmalbangsecurities.com
 nishilandwaterpark.com
 nisko-projectsusa.com
@@ -38203,6 +38206,7 @@ nortonspywear.com
 norweigancrusielines.com
 ww25.notasuitablelink.com
 nothingunit.com
+notifications-update.com
 notnewhiphop.com
 comune.notting-hill-photography-club.com
 mail.notting-hill-photography-club.com
@@ -44670,6 +44674,7 @@ profero.com
 professionalteethcleaning.com
 ww16.profil-moker.com
 ww25.profil-moker.com
+profitredirect-us.com
 profitrumour.com
 profitwell.com
 proflowersrush.com
@@ -50598,6 +50603,7 @@ rifprisse.com
 rightmessage.com
 rightsouce.com
 rightstats.com
+rightyxxx.com
 rimbunanilmu.com
 ringplant.com
 ringshell.com
@@ -51142,12 +51148,7 @@ safedk.com
 safeharbourgames.com
 cdn.safenewtab.com
 ext.safenewtab.com
-pr.safenewtab.com
-search.safenewtab.com
 stats.safenewtab.com
-stats1.safenewtab.com
-stats2.safenewtab.com
-stats3.safenewtab.com
 ww5.safenewtab.com
 safety-search.com
 safeyoutube.com
@@ -52088,6 +52089,7 @@ sexlist.com
 sexonthestreets.com
 sexsat.com
 textad.sexsearch.com
+sexselector.com
 sexsrories.com
 sextracker.com
 sextubereview.com
@@ -53103,7 +53105,6 @@ benefits.sovendus.com
 sovrn.com
 ttauri.space.com
 spaceleadster.com
-spacexbonus.com
 spadelocket.com
 spammerparadise.com
 spammeuntilibleed.com
@@ -56184,6 +56185,7 @@ ads139.unoadsrv.com
 ads140.unoadsrv.com
 ads141.unoadsrv.com
 ads142.unoadsrv.com
+ads143.unoadsrv.com
 ads144.unoadsrv.com
 ads145.unoadsrv.com
 ads146.unoadsrv.com
@@ -57178,6 +57180,7 @@ vivtracking.com
 vizu.com
 vizury.com
 vkcdnservice.com
+vkiapcavnoc.com
 vkphandicrafts.com
 vkshopping.com
 vlcstreamer.com
@@ -60712,6 +60715,7 @@ ads2004.treiberupdate.de
 adserver.trojaner-info.de
 trustaproiam.de
 trusteverything.de
+www.vareangold.de
 vgwort.de
 videoreach.de
 view4cash.de
@@ -61538,6 +61542,7 @@ amiro.info
 amsterdamsightseeing.info
 anandgroup.info
 anarsi.info
+ww1.anash.info
 andreas-hofer.info
 androidfilmy.info
 androidioshacks.info
@@ -62154,7 +62159,6 @@ ww7.cclove12.info
 www.cclove12.info
 cctv-camera.info
 cd-player.info
-ww1.celiaimrie.info
 www.celiaimrie.info
 certificates.info
 ww1.cevaplus.info
@@ -62193,6 +62197,7 @@ citata.info
 cloud9tv.info
 cloudsecuritybenefits.info
 ww1.club-city.info
+ww16.club-city.info
 cocyoo.info
 coffee-aura.info
 coinfo.info
@@ -62227,6 +62232,7 @@ coolinc.info
 corewiki.info
 corporategeek.info
 cpcalendars.corrientesya.info
+cpcontacts.corrientesya.info
 mail.corrientesya.info
 webdisk.corrientesya.info
 ww1.corrientesya.info
@@ -62812,7 +62818,6 @@ fisse.info
 fkwv.info
 flex-tech.info
 flixzone.info
-ww16.footballstreamings.info
 forbest.info
 forkhost.info
 infowww.formadv.info
@@ -62997,6 +63002,7 @@ goodrxline.info
 goodtrk.info
 goonlinepoker.info
 gpgorakhpurtpo.info
+greatdatesites.info
 greatresults.info
 greekgods.info
 greekviral.info
@@ -63259,6 +63265,7 @@ kinesiotape.info
 kingm.info
 kino99.info
 kinomarvel.info
+ww25.kippik.info
 kisetu.info
 kitesurfen.info
 kitudacbiet.info
@@ -64020,10 +64027,10 @@ projectmanagement.info
 projectoval.info
 promma.info
 promolab.info
-ww25.pronostic-turf.info
 pronosticodeltiempo.info
 finishingtouch.prouamarket.info
 mail.prouamarket.info
+ww1.prouamarket.info
 ww38.prouamarket.info
 1300.proxysmart.info
 19.proxysmart.info
@@ -64465,6 +64472,10 @@ beta.sexoglasi.info
 mail.sexoglasi.info
 mysql08.sexoglasi.info
 stg.sexoglasi.info
+ww1.sexoglasi.info
+ww16.sexoglasi.info
+ww25.sexoglasi.info
+ww38.sexoglasi.info
 www.sexoglasi.info
 sexplain.info
 sexr.info
@@ -64556,6 +64567,7 @@ ww17.sourcevapes.info
 ww25.sourcevapes.info
 ww38.sourcevapes.info
 www.sourcevapes.info
+tyqi.specialbaby.info
 ww1.speedwest.info
 ww11.speedwest.info
 www.speedwest.info
@@ -64961,9 +64973,6 @@ ww38.torjacken.info
 www.torjacken.info
 torrentgamesps2.info
 ww11.torrentsave.info
-ww62.torrentsave.info
-ww82.torrentsave.info
-ww92.torrentsave.info
 www.torrentsave.info
 ww1.tosec.info
 ww11.tosec.info
@@ -65010,7 +65019,7 @@ ads.twojatv.info
 twzoa.info
 ww1.txjails.info
 ww16.txjails.info
-ww17.txjails.info
+ww16.ww17.txjails.info
 www.txjails.info
 mail.typolemag.info
 www.typolemag.info
@@ -65348,9 +65357,6 @@ videoking.info
 videoprivate.info
 vidk.info
 vinhomescity-tranduyhung.info
-ww25.english.virtualbus.info
-ww38.english.virtualbus.info
-ww38.wiki.virtualbus.info
 www.virtualbus.info
 az.visapornotv.info
 be.visapornotv.info
@@ -65398,16 +65404,10 @@ ww17.vitaminsforhairlosso.info
 www.vitaminsforhairlosso.info
 www.vlade.info
 271daughter.vlagaxxxi.info
-best-west.vlagaxxxi.info
-chflowly.vlagaxxxi.info
-internet-gape.vlagaxxxi.info
-me.vlagaxxxi.info
+ww25.internet-gape.vlagaxxxi.info
 meshbjwpl.vlagaxxxi.info
 more-yes.vlagaxxxi.info
-ww38.ozuab22.vlagaxxxi.info
-ptwssi-936.vlagaxxxi.info
 reliable604.vlagaxxxi.info
-schoolgirl-blogs.vlagaxxxi.info
 uorhinow.vlagaxxxi.info
 www.vlagaxxxi.info
 year.vlagaxxxi.info
@@ -65626,6 +65626,8 @@ www.yourbestcity.info
 ytliu.info
 yunss.info
 yurtdisikargo.info
+ww1.yx822.info
+www.yx822.info
 zabolkata.info
 czat.zaburzeniaodzywiania.info
 ww11.forum.zaburzeniaodzywiania.info
@@ -80404,9 +80406,7 @@ click-useast.ak-is.net
 comune.ak-is.net
 correo.ak-is.net
 cpm.ak-is.net
-cpn.ak-is.net
 email.ak-is.net
-eml.ak-is.net
 fs.ak-is.net
 gate.ak-is.net
 gateway.ak-is.net
@@ -80416,7 +80416,6 @@ home.ak-is.net
 host.ak-is.net
 imap1.ak-is.net
 imap2.ak-is.net
-internet.ak-is.net
 m.ak-is.net
 mail.ak-is.net
 mail02.ak-is.net
@@ -80435,7 +80434,6 @@ mailgate.ak-is.net
 mailgw.ak-is.net
 mailhost.ak-is.net
 mailin.ak-is.net
-mailout.ak-is.net
 mails.ak-is.net
 mailserver.ak-is.net
 mailsrv.ak-is.net
@@ -80478,7 +80476,6 @@ earnify.rtb-eu.ak-is.net
 mediastinct.rtb-eu.ak-is.net
 adfries.rtb-useast.ak-is.net
 adhunter.rtb-useast.ak-is.net
-earnify.rtb-useast.ak-is.net
 adsiduous.rtb-uswest.ak-is.net
 kds.rtb-uswest.ak-is.net
 pressize.rtb-uswest.ak-is.net
@@ -80486,15 +80483,12 @@ web3.rtb-uswest.ak-is.net
 rtb-xs.ak-is.net
 nativeadsfeed.rtv.ak-is.net
 secure.ak-is.net
-seed.ak-is.net
 server.ak-is.net
 server2.ak-is.net
 smtp01.ak-is.net
 smtpauth.ak-is.net
 smtps.ak-is.net
 smtpseguro.ak-is.net
-thor.ak-is.net
-tiger.ak-is.net
 eximdigital.ui.ak-is.net
 targead.ui.ak-is.net
 vip.ak-is.net
@@ -80504,7 +80498,6 @@ wldcrdrcrd.ak-is.net
 www1.ak-is.net
 www2.ak-is.net
 xml.ak-is.net
-adventurefeeds.xs.ak-is.net
 showcasead.xs.ak-is.net
 zimbra.ak-is.net
 apaccdn.adformnet.akadns.net
@@ -100233,7 +100226,6 @@ fineoffer.net
 fishingclub.net
 flero.net
 lmcsd.flexissched.net
-ww25.flexissched.net
 flippty.net
 flutterbyfields.net
 static.fmpub.net
@@ -100759,7 +100751,6 @@ fairfaxmedia-sydney.gscontxt.net
 ft2.gscontxt.net
 ft2-ash.gscontxt.net
 ft2-uswest.gscontxt.net
-galaxie-ams.gscontxt.net
 hearst.gscontxt.net
 hearst-useast.gscontxt.net
 hearst-uswest.gscontxt.net
@@ -100777,7 +100768,6 @@ moat-apsing.gscontxt.net
 moat-geo2.gscontxt.net
 pacmags.gscontxt.net
 pacmags-ash.gscontxt.net
-pacmags-sydney.gscontxt.net
 pedestrian-sydney.gscontxt.net
 pool.gscontxt.net
 prismamedia.gscontxt.net
@@ -100962,9 +100952,19 @@ knightscomm.net
 ads1.knxs.net
 box.koosk.net
 comune.koosk.net
+mail.koosk.net
+mail01.koosk.net
+mail7.koosk.net
+mailgw.koosk.net
 mailhost.koosk.net
+mailin.koosk.net
+mx10.koosk.net
+mx4.koosk.net
+newmail.koosk.net
 post.koosk.net
 postmaster.koosk.net
+sniper.koosk.net
+srv.koosk.net
 ww1.koosk.net
 krxd.net
 kylyria.net
@@ -107103,8 +107103,8 @@ static.ws.apsis.one
 webstats.one
 aj1070.online
 besocial.online
-btcbonus.online
 store-notification.online
+spacex.ooo
 12js.org
 1377x.org
 16js.org
@@ -107924,7 +107924,6 @@ mailx.dlbase.org
 send.dlbase.org
 starstablehack.dlbase.org
 ww38.dlbase.org
-ww1.dllr.org
 dmschool.org
 dmvaz.org
 server.dn888.org
@@ -108761,6 +108760,7 @@ molecularcuisine.org
 momentjs.org
 monkeyradio.org
 monterfiore.org
+ww38.monticelloar.org
 unmissions.monusco.org
 ww1.monusco.org
 ww25.monusco.org
@@ -108967,7 +108967,6 @@ thor.nvdet.org
 vip.nvdet.org
 ww1.nvdet.org
 www.nvdet.org
-www1.nvdet.org
 nwpartnership.org
 nxsecure.org
 ny511.org
@@ -109108,22 +109107,33 @@ playtetris.org
 plela.org
 auth.plp2.org
 authsmtp.plp2.org
+barracuda.plp2.org
+comune.plp2.org
 email.plp2.org
 gacor10k.plp2.org
 gacor138.plp2.org
+host.plp2.org
+m.plp2.org
 mail.plp2.org
+mail1.plp2.org
 mail2.plp2.org
+mailhost.plp2.org
 mailin.plp2.org
 mailout.plp2.org
 mailserver.plp2.org
 mailx.plp2.org
+mbox.plp2.org
 mx.plp2.org
+mx01.plp2.org
 mx1.plp2.org
+mx10.plp2.org
+mx7.plp2.org
 ns2.plp2.org
 poczta.plp2.org
 postmaster.plp2.org
 relay.plp2.org
 smtps.plp2.org
+vmail.plp2.org
 ww1.plp2.org
 ww16.plp2.org
 ww17.plp2.org
@@ -110227,10 +110237,6 @@ wilinet.org
 windows2univers.org
 wintercrest.org
 wkco.org
-cpcalendars.wmop.org
-mail.wmop.org
-ww1.wmop.org
-ww17.wmop.org
 woldpress.org
 wolrdcat.org
 womansway.org
@@ -110285,7 +110291,7 @@ wwwymca.org
 xcdsql.org
 xepan.org
 xposedmagazinenews.org
-xtremeeagles.org
+www.xtremeeagles.org
 xvedios.org
 y20turkey.org
 yabancidiziizle.org
