@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 339728
+# Ignored duplicates: 339888
 
 chameleon.ad
 pixel.ad
@@ -2426,9 +2426,6 @@ beta-explorer.benchmarks.advertising.a2z.com
 explorer.benchmarks.advertising.a2z.com
 gamma-api.benchmarks.advertising.a2z.com
 gamma-explorer.benchmarks.advertising.a2z.com
-api.ctrl.advertising.a2z.com
-api-beta.ctrl.advertising.a2z.com
-api-gamma.ctrl.advertising.a2z.com
 beta.data-onboarding.advertising.a2z.com
 eu.data-onboarding.advertising.a2z.com
 gamma-eu.data-onboarding.advertising.a2z.com
@@ -5617,6 +5614,7 @@ publisher1.adswizz.com
 publisher3.adswizz.com
 publisher4.adswizz.com
 puradsifm.adswizz.com
+qa.adswizz.com
 deliveryengine.qaintegration.adswizz.com
 qaintegrationssp.adswizz.com
 radioactive.adswizz.com
@@ -6989,6 +6987,7 @@ bounce.amplitude.com
 cdn.amplitude.com
 corp-static.amplitude.com
 corpsite.amplitude.com
+corpsite2.amplitude.com
 data.amplitude.com
 data-api.amplitude.com
 data-api-2.amplitude.com
@@ -7014,6 +7013,7 @@ fit.amplitude.com
 fr.amplitude.com
 get.amplitude.com
 go.amplitude.com
+gshlink.amplitude.com
 gsnlink.amplitude.com
 gsslink.amplitude.com
 hermes.amplitude.com
@@ -8975,91 +8975,7 @@ btbshoping.com
 www.btc-bonus.com
 ion.btcswe.com
 btefair.com
-7132.btinternernet.com
-auth.btinternernet.com
-authsmtp.btinternernet.com
-barracuda.btinternernet.com
-box.btinternernet.com
-comune.btinternernet.com
-correo.btinternernet.com
-db.btinternernet.com
-direct.btinternernet.com
-email.btinternernet.com
-gateway.btinternernet.com
-hermes.btinternernet.com
-home.btinternernet.com
-host.btinternernet.com
-imap1.btinternernet.com
-m.btinternernet.com
-mail.btinternernet.com
-mail01.btinternernet.com
-mail1.btinternernet.com
-mail11.btinternernet.com
-mail12.btinternernet.com
-mail2.btinternernet.com
-mail3.btinternernet.com
-mail4.btinternernet.com
-mail5.btinternernet.com
-mail6.btinternernet.com
-mail8.btinternernet.com
-mailbox.btinternernet.com
-mailer.btinternernet.com
-mailgate.btinternernet.com
-mailgw.btinternernet.com
-mailhost.btinternernet.com
-mailin.btinternernet.com
-mailout.btinternernet.com
-mails.btinternernet.com
-mailserver.btinternernet.com
-mailsrv.btinternernet.com
-mailx.btinternernet.com
-ms.btinternernet.com
-mta.btinternernet.com
-mx.btinternernet.com
-mx0.btinternernet.com
-mx02.btinternernet.com
-mx10.btinternernet.com
-mx2.btinternernet.com
-mx20.btinternernet.com
-mx4.btinternernet.com
-mx5.btinternernet.com
-mx7.btinternernet.com
-mxs.btinternernet.com
-newmail.btinternernet.com
-ns.btinternernet.com
-ns1.btinternernet.com
-out.btinternernet.com
-outmail.btinternernet.com
-po.btinternernet.com
-poczta.btinternernet.com
-pop.btinternernet.com
-post.btinternernet.com
-posta.btinternernet.com
-postmaster.btinternernet.com
-relay.btinternernet.com
-relay1.btinternernet.com
-relay2.btinternernet.com
-root.btinternernet.com
-server.btinternernet.com
-server1.btinternernet.com
-server2.btinternernet.com
-smtp01.btinternernet.com
-smtpauth.btinternernet.com
-smtps.btinternernet.com
-smtpseguro.btinternernet.com
-sniper.btinternernet.com
-srv.btinternernet.com
-ssl.btinternernet.com
-tiger.btinternernet.com
-tw.btinternernet.com
-vmail.btinternernet.com
-vnet.btinternernet.com
-ww16.btinternernet.com
-ww25.btinternernet.com
-ww38.btinternernet.com
-www.btinternernet.com
-www1.btinternernet.com
-zmail.btinternernet.com
+btinternernet.com
 btloader.com
 web.btncdn.com
 admanager.btopenworld.com
@@ -10058,6 +9974,7 @@ recade.clmbtech.com
 static.clmbtech.com
 tbl.clmbtech.com
 tml.clmbtech.com
+cloisteredcord.com
 cloisteredhydrant.com
 closedcows.com
 closertothedirt.com
@@ -17078,6 +16995,7 @@ flyingvintage.com
 fmwold.com
 traffic.focuusing.com
 fodoqur.com
+ww25.fogoogle.com
 www.fogoogle.com
 fohono.com
 folhauol.com
@@ -19547,7 +19465,6 @@ hotteenasia.com
 hottnewhiphop.com
 hourlynewsupdates.com
 house-of-h.com
-mvideo.housecamz.com
 householdhack.com
 householdhackers.com
 housesforren.com
@@ -19614,7 +19531,6 @@ js-eu1.hs-banner.com
 hs-scripts.com
 hsbcmf.com
 hsm-statusquo.com
-mail.hsnbank.com
 ads.hsoub.com
 ads2.hsoub.com
 hst-rc.com
@@ -19746,7 +19662,6 @@ idacoons.com
 ideeptrhoat.com
 identitytheftweb.com
 idevaffiliate.com
-idleidols.com
 idscopes.com
 idtargeting.com
 iem7.com
@@ -20339,7 +20254,7 @@ outbound250.iterable.com
 status.iterable.com
 iteratehq.com
 itil-officalsite.com
-ititarod.com
+www.ititarod.com
 itqansoft.com
 its-that-easy.com
 itsaboutthehudsonvalley.com
@@ -20362,7 +20277,6 @@ matching.ivitrack.com
 tag.ivitrack.com
 americansforprosperity.ivolunteers.com
 ivykiosk.com
-ads.iwon.com
 rose.ixbt.com
 iyfnzgb.com
 iyyotube.com
@@ -21043,7 +20957,7 @@ ads.leovegas.com
 lepietredimirtilla.com
 ads.lesbianpersonals.com
 lesibian.com
-ww25.lesten2myradio.com
+lesten2myradio.com
 letasbonus.com
 letsbobus.com
 recommendations.letslinc.com
@@ -36757,7 +36671,6 @@ ww25.mucho-hentai.com
 ww38.mucho-hentai.com
 www.mucho-hentai.com
 multiext.com
-ww1.mummy8.com
 mundanenail.com
 mundanepollution.com
 ww1.musakachat.com
@@ -37666,6 +37579,7 @@ ads.networksolutions.com
 seal.networksolutions.com
 affiliates.networx.com
 tr.networx.com
+www.netzreo.com
 neudesicmediagroup.com
 neuvasync.com
 neverbounce.com
@@ -37821,7 +37735,9 @@ got.newrelic.com
 gov-collector.newrelic.com
 gov-collector-001.newrelic.com
 gov-collector-007.newrelic.com
+gov-identity-api.newrelic.com
 gov-infra-api.newrelic.com
+gov-infrastructure-command-api.newrelic.com
 gov-log-api.newrelic.com
 gov-metric-api.newrelic.com
 gov-trace-api.newrelic.com
@@ -51165,7 +51081,6 @@ safedk.com
 safeharbourgames.com
 ext.safenewtab.com
 stats.safenewtab.com
-ww5.safenewtab.com
 safety-search.com
 safeyoutube.com
 saffronsshanklin.com
@@ -55646,7 +55561,6 @@ www.tsinf.com
 zimbra.tsinf.com
 tsyndicate.com
 ttehun.com
-mail.ttflb.com
 www.ttflb.com
 ttoc8ok.com
 tuabholic.com
@@ -61251,6 +61165,10 @@ analytics.htmedia.in
 adjust.net.in
 cdn.popt.in
 00221.info
+cpcalendars.0daypatch.info
+mail.0daypatch.info
+ww1.0daypatch.info
+ww11.0daypatch.info
 www.0daypatch.info
 www.104ez.info
 m.163ks.info
@@ -61559,7 +61477,9 @@ anandgroup.info
 anarsi.info
 ww1.anash.info
 ww11.anash.info
+ww12.anash.info
 ww16.anash.info
+ww7.anash.info
 andreas-hofer.info
 androidfilmy.info
 androidioshacks.info
@@ -62089,7 +62009,6 @@ butsex.info
 calciummangel.info
 mail.calme.info
 camersenat.info
-ww25.campdelariviere.info
 canberra.info
 ww1.cancer-treatment.info
 ww38.cancer-treatment.info
@@ -62931,7 +62850,6 @@ www.gameoke.info
 autodiscover.gamephysics.info
 cpcalendars.gamephysics.info
 cpcontacts.gamephysics.info
-mail.gamephysics.info
 sitemap.gamephysics.info
 sitemaps.gamephysics.info
 webdisk.gamephysics.info
@@ -63325,6 +63243,7 @@ kingm.info
 kino99.info
 kinomarvel.info
 ww25.kippik.info
+www.kippik.info
 kisetu.info
 kitesurfen.info
 kitudacbiet.info
@@ -63439,7 +63358,6 @@ xnxx.loby.info
 xvideos.loby.info
 youporn.loby.info
 lokalizacja.info
-lookbox.info
 lovexxxpics.info
 lowescoupon.info
 lrcs.info
@@ -63472,9 +63390,11 @@ apps.mahajana.info
 backend.mahajana.info
 cms.mahajana.info
 dev.mahajana.info
+mail.mahajana.info
 new.mahajana.info
 stage.mahajana.info
 testing.mahajana.info
+www.mahajana.info
 mahapolice.info
 mailgoogle.info
 mailings.info
@@ -63665,6 +63585,7 @@ www.muanyagablak.info
 mueckenschutz.info
 mujerbella.info
 muldental.info
+ww1.multi3ker.info
 multivitamine.info
 multiweblibre.info
 mur-porteur.info
@@ -63936,6 +63857,8 @@ optymalni.info
 organizationalmarket.info
 outdooradventure.info
 mail.outdoorman.info
+webdisk.outdoorman.info
+ww38.outdoorman.info
 mail.ovni.info
 nodejs.ovni.info
 shuriken.ovni.info
@@ -64478,15 +64401,8 @@ seefeld.info
 seisenkai.info
 semmering.info
 aaa.seo-mix.info
-cpt.seo-mix.info
-mail.seo-mix.info
-mvideo.seo-mix.info
 ww1.seo-mix.info
-ww16.seo-mix.info
-ww17.seo-mix.info
 ww25.seo-mix.info
-ww38.seo-mix.info
-www.seo-mix.info
 seo03.info
 seolinkek.info
 seotaolao.info
@@ -64631,18 +64547,22 @@ fyna.specialbaby.info
 gaca.specialbaby.info
 gewa.specialbaby.info
 gycy.specialbaby.info
+jybe.specialbaby.info
 kola.specialbaby.info
 lybi.specialbaby.info
 mowy.specialbaby.info
 muse.specialbaby.info
 myxo.specialbaby.info
 qore.specialbaby.info
+quvy.specialbaby.info
 roqe.specialbaby.info
+saqa.specialbaby.info
 sepo.specialbaby.info
 suri.specialbaby.info
 toso.specialbaby.info
 tyqi.specialbaby.info
 vaxi.specialbaby.info
+velo.specialbaby.info
 vofy.specialbaby.info
 wolu.specialbaby.info
 www.specialbaby.info
@@ -64728,7 +64648,6 @@ web.svabe.info
 ww17.svabe.info
 www.svabe.info
 svatektribratri.info
-ww1.sweetspotgolf.info
 swiss-military.info
 sworks.info
 sxxx.info
@@ -65090,7 +65009,6 @@ ww17.twentyone.info
 www.twentyone.info
 ads.twojatv.info
 twzoa.info
-ww1.txjails.info
 mail.typolemag.info
 www.typolemag.info
 u-jin.info
@@ -80559,7 +80477,21 @@ vip.ak-is.net
 vmail.ak-is.net
 www1.ak-is.net
 www2.ak-is.net
-xml.ak-is.net
+active8ads.xml.ak-is.net
+adright.xml.ak-is.net
+bonomate.xml.ak-is.net
+clickmenia.xml.ak-is.net
+eximdigital.xml.ak-is.net
+griffindigitalmedia.xml.ak-is.net
+houseofpubs.xml.ak-is.net
+mobipromote.xml.ak-is.net
+propellerads.xml.ak-is.net
+revrtb.xml.ak-is.net
+topdealad.xml.ak-is.net
+trafficmoose.xml.ak-is.net
+vertoz.xml.ak-is.net
+vokut.xml.ak-is.net
+xmlwizard.xml.ak-is.net
 showcasead.xs.ak-is.net
 zimbra.ak-is.net
 apaccdn.adformnet.akadns.net
@@ -81151,7 +81083,6 @@ www.bitlib.net
 blackfiday.net
 blocksmc.net
 blueconic.net
-ww38.bnbabes.net
 www.bnbabes.net
 bokabilligt.net
 bolly4u.net
@@ -100825,7 +100756,6 @@ kargo-useast.gscontxt.net
 le-monde-ams.gscontxt.net
 mediacorp.gscontxt.net
 mediagrid-uswest.gscontxt.net
-mi9.gscontxt.net
 moat-apsing.gscontxt.net
 moat-geo2.gscontxt.net
 pacmags.gscontxt.net
@@ -100836,13 +100766,11 @@ prismamedia.gscontxt.net
 prismamedia-ams.gscontxt.net
 prismamedia-ash.gscontxt.net
 prismamedia-fra.gscontxt.net
-refinery29-ash.gscontxt.net
 reuters.gscontxt.net
 rogers.gscontxt.net
 rogers-ash.gscontxt.net
 roularta-ams.gscontxt.net
 sapo-ams.gscontxt.net
-scmp.gscontxt.net
 scmp-apsing.gscontxt.net
 scmp-fra.gscontxt.net
 sevenwest.gscontxt.net
@@ -100854,7 +100782,6 @@ sph.gscontxt.net
 sph-apsing.gscontxt.net
 step-dk.gscontxt.net
 stuffnz-sydney.gscontxt.net
-t.gscontxt.net
 tab-ams.gscontxt.net
 tab-nj.gscontxt.net
 tag.gscontxt.net
@@ -100862,11 +100789,8 @@ theenthusiastnetwork-ash.gscontxt.net
 torstar.gscontxt.net
 torstar-ams.gscontxt.net
 torstar-ash.gscontxt.net
-tric.gscontxt.net
 trustedmediabrands.gscontxt.net
 trustedmediabrands-lax.gscontxt.net
-unilad-uk.gscontxt.net
-vice-euwest.gscontxt.net
 vice-useast.gscontxt.net
 vmg-ash.gscontxt.net
 vmg-useast.gscontxt.net
@@ -104702,8 +104626,6 @@ rgw.rook-ceph.asgard-prod-a.us-east-1.aws.k8s.sendgrid.net
 alertmanager.asgard-stage-a.us-east-1.aws.k8s.sendgrid.net
 blackbox.asgard-stage-a.us-east-1.aws.k8s.sendgrid.net
 prometheus.asgard-stage-a.us-east-1.aws.k8s.sendgrid.net
-alertmanager.autobots-prod-a.us-east-1.aws.k8s.sendgrid.net
-prometheus.autobots-prod-a.us-east-1.aws.k8s.sendgrid.net
 alertmanager.general-prod-a.us-east-1.aws.k8s.sendgrid.net
 blackbox.general-prod-a.us-east-1.aws.k8s.sendgrid.net
 holocron-api.general-prod-a.us-east-1.aws.k8s.sendgrid.net
@@ -108808,6 +108730,8 @@ momentjs.org
 monkeyradio.org
 monterfiore.org
 ww1.monticelloar.org
+ww11.monticelloar.org
+ww17.monticelloar.org
 ww38.monticelloar.org
 www.monticelloar.org
 unmissions.monusco.org
@@ -108989,7 +108913,6 @@ nsula.org
 nsvyfcu.org
 number2.org
 nutrtionfacts.org
-www.nvdet.org
 nwpartnership.org
 nxsecure.org
 ny511.org
@@ -110314,7 +110237,6 @@ wwwymca.org
 xcdsql.org
 xepan.org
 xposedmagazinenews.org
-www.xtremeeagles.org
 xvedios.org
 y20turkey.org
 yabancidiziizle.org
