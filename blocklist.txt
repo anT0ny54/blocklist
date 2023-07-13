@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336047
+# Ignored duplicates: 336349
 
 chameleon.ad
 pixel.ad
@@ -2258,7 +2258,6 @@ www.2sshoes.com
 zimbra.2sshoes.com
 zmail.2sshoes.com
 mail.2xbinance.com
-www.2xbinance.com
 2znp09oa.com
 3337723.com
 33across.com
@@ -2412,6 +2411,7 @@ wxlwf.a1villasmallorca.com
 xp9nv.a1villasmallorca.com
 directory.profile.alpha.aapn.advertising.a2z.com
 directory.profile.beta.aapn.advertising.a2z.com
+directory.profile.dev.cubanski.aapn.advertising.a2z.com
 directory.profile.gamma.aapn.advertising.a2z.com
 partner.alpha.portal.aapn.advertising.a2z.com
 partner.beta.portal.aapn.advertising.a2z.com
@@ -2451,6 +2451,8 @@ us-west-2.prod.gateway.demand-tools.advertising.a2z.com
 us-east-1.beta.proxy.gateway.demand-tools.advertising.a2z.com
 radchich.gateway.demand-tools.advertising.a2z.com
 us-east-1.sandbox.gateway.demand-tools.advertising.a2z.com
+us-east-1.test.gateway.demand-tools.advertising.a2z.com
+us-west-2.test.gateway.demand-tools.advertising.a2z.com
 yeya.gateway.demand-tools.advertising.a2z.com
 zhangjos.gateway.demand-tools.advertising.a2z.com
 test-your-api.demand-tools.advertising.a2z.com
@@ -8686,6 +8688,7 @@ bluemedicare.com
 ads.bluemountain.com
 bluepistons.com
 blueshielsca.com
+blueskydownload.com
 bluestarbrass.com
 bluewhaleweb.com
 blushingbeast.com
@@ -9170,7 +9173,6 @@ camporenacimiento.com
 adserver.cams.com
 banners.cams.com
 can-ambrp.com
-ww5.canada-air.com
 canalimoveisbahia.com
 canalinternational.com
 ww11.cananalcaracol.com
@@ -10056,6 +10058,7 @@ tip.cohesionapps.com
 coinbasegive.com
 coinbasegiving.com
 coinbasegold.com
+mail.coinbaseone.com
 www.coinbaseone.com
 coinbasepromotion.com
 coinbaserewards.com
@@ -16813,8 +16816,6 @@ ads.faxo.com
 fbcloud.com
 fbline.com
 ww1.fdjeaux.com
-ww11.fdjeaux.com
-ww25.fdjeaux.com
 februarylovestory.com
 smetrics.fedex.com
 feebleshock.com
@@ -17157,7 +17158,6 @@ franksgunshop.com
 franticcarpenter.com
 fraudalertequifax.com
 fraudalertsequifax.com
-ww11.freakscript.com
 ww25.freakscript.com
 free-banners.com
 free-blank-sheet-music.com
@@ -18191,7 +18191,6 @@ ww1.gameonlinegratis.com
 ww41.gameonlinegratis.com
 ww5.gameonlinegratis.com
 www.gameonlinegratis.com
-ww2.gamerz-land.com
 www.gamerz-land.com
 games2boy.com
 gameschill.com
@@ -18814,7 +18813,6 @@ test.firebaselogging.googleapis.com
 googleblack.com
 googlebussines.com
 googlecalender.com
-www.googlemaail.com
 googlemerchant.com
 googlemqil.com
 googlenewssubmit.com
@@ -19432,6 +19430,7 @@ homelinkinternational.com
 homelycrown.com
 homelysleep.com
 homemadebabe.com
+homeowners--insurance--quotes.com
 homesteadroadmobileranch.com
 adimages.homestore.com
 homeswopper.com
@@ -20036,7 +20035,7 @@ insticator.com
 instinctiveads.com
 instrumentsponge.com
 insurads.com
-www.insurance--quotes.com
+insurance--quotes.com
 insysinfocomm.com
 insights.integralads.com
 starget.intel.com
@@ -20711,7 +20710,6 @@ karakeparty.com
 kargo.com
 karnevalwierts.com
 karonty.com
-karuq.com
 kasperspy.com
 ww1.kassarctest.com
 ww25.kassarctest.com
@@ -20815,6 +20813,7 @@ kohjs.com
 t.am.kohls.com
 ww8.kohls.com
 koindut.com
+kol7agh.com
 koleksifilembioskop.com
 kolhscarrers.com
 kolkwi4tzicraamabilis.com
@@ -21160,7 +21159,6 @@ vamail3.linksynergy.com
 m.www.linksynergy.com
 linktarget.com
 elb.linmkedin.com
-ww1.linmkedin.com
 ww25.linmkedin.com
 ww38.linmkedin.com
 www.linmkedin.com
@@ -51314,6 +51312,7 @@ pop.s5e5.com
 wlamazcsrv1.s5e5.com
 ww1.s5e5.com
 ww11.s5e5.com
+ww16.s5e5.com
 ww17.s5e5.com
 ww38.s5e5.com
 ww45.s5e5.com
@@ -52179,6 +52178,9 @@ per2.segmentify.com
 per3.segmentify.com
 psh1.segmentify.com
 psh2.segmentify.com
+www.bt.segoogle.com
+www.matvarlden.segoogle.com
+z-net.pilen.nordnet.segoogle.com
 ww11.segoogle.com
 ww38.segoogle.com
 seiko5ers.com
@@ -54771,7 +54773,6 @@ pixel.surpasshosting.com
 surtthechannel.com
 survata.com
 survey-smiles.com
-ww16.surveyspaysyou.com
 api.survicate.com
 app.survicate.com
 assets.survicate.com
@@ -56798,6 +56799,7 @@ pm-bounces.usefathom.com
 quick-esteemed.usefathom.com
 starman.usefathom.com
 stats.usefathom.com
+status.usefathom.com
 test-cf-workers-232.usefathom.com
 videos.usefathom.com
 www.usefathom.com
@@ -58098,6 +58100,12 @@ webwiseforradio.com
 webxcdn.com
 webxmr.com
 weddingcakeshoppe.com
+ww1.wediafire.com
+ww11.wediafire.com
+ww16.wediafire.com
+ww2.wediafire.com
+ww25.wediafire.com
+www.wediafire.com
 weeblstuf.com
 weescooter.com
 weherit.com
@@ -59672,7 +59680,7 @@ cv.yieldmanager.com
 d.yieldmanager.com
 da1.yieldmanager.com
 deco.yieldmanager.com
-dedus.yieldmanager.com
+wildcard.dedus.yieldmanager.com
 dev-admin.yieldmanager.com
 dev-api.yieldmanager.com
 dev-bulkui.yieldmanager.com
@@ -59739,7 +59747,7 @@ migrate.yieldmanager.com
 miracle7.yieldmanager.com
 mitsubishi.yieldmanager.com
 monitor-se.yieldmanager.com
-my.yieldmanager.com
+wildcard.my.yieldmanager.com
 myfiles.yieldmanager.com
 n28xp179xwlwmw7p9mf8kdqw6xbbdpn1.yieldmanager.com
 nat.yieldmanager.com
@@ -61452,10 +61460,8 @@ ww25.0daypatch.info
 ww38.0daypatch.info
 www.0daypatch.info
 www.104ez.info
-m.163ks.info
-ww1.163ks.info
-ww11.163ks.info
-www.163ks.info
+ww1.m.163ks.info
+ww11.m.163ks.info
 177piczz.info
 1929barry.info
 1bollywood1.info
@@ -61471,9 +61477,6 @@ www.1seautotoonorn.info
 www.2clik.info
 2mq.info
 mvideo.2wz.info
-ww1.2wz.info
-ww17.2wz.info
-www.2wz.info
 300mb.info
 34300.info
 365or.info
@@ -61752,6 +61755,7 @@ www.allclipart.info
 allergene.info
 allgalle.info
 alsahabmedia.info
+alsjl-news.info
 amagrlsuk.info
 amazingporn.info
 amazonshoppingindir.info
@@ -62384,6 +62388,9 @@ ww7.cclove12.info
 www.cclove12.info
 cctv-camera.info
 cd-player.info
+smtp10.g1.cediss.info
+smtp10.g2.cediss.info
+ww25.cediss.info
 www.celiaimrie.info
 certificates.info
 ww1.cevaplus.info
@@ -62559,6 +62566,7 @@ www.delhicallgirls.info
 ww38.demisroussos.info
 www.demisroussos.info
 denada.info
+denhe.info
 denisa.info
 dentalxrays.info
 descargadictoz.info
@@ -62671,7 +62679,6 @@ ww17.dolly.info
 www.dolly.info
 doma2.info
 domalt.info
-www.dominatrice.info
 domowybudzet.info
 ww1.donpennington.info
 ww25.donpennington.info
@@ -62832,18 +62839,13 @@ email.eroflashgames.info
 gw.eroflashgames.info
 host.eroflashgames.info
 imap1.eroflashgames.info
-imap2.eroflashgames.info
 mail.eroflashgames.info
 mail1.eroflashgames.info
 mail2.eroflashgames.info
-mail7.eroflashgames.info
-mailbox.eroflashgames.info
 mailer.eroflashgames.info
 mailgate.eroflashgames.info
 mailgw.eroflashgames.info
 mailhost.eroflashgames.info
-mailin.eroflashgames.info
-mbox.eroflashgames.info
 ms1.eroflashgames.info
 mta.eroflashgames.info
 mx.eroflashgames.info
@@ -62853,13 +62855,10 @@ ns1.eroflashgames.info
 ns2.eroflashgames.info
 post.eroflashgames.info
 relay.eroflashgames.info
-secure.eroflashgames.info
 smtpauth.eroflashgames.info
 smtps.eroflashgames.info
-ww11.eroflashgames.info
 ww38.eroflashgames.info
 www.eroflashgames.info
-www1.eroflashgames.info
 www2.eroflashgames.info
 erolux.info
 erotella.info
@@ -62980,7 +62979,7 @@ ash.filoso.info
 ask.filoso.info
 asl.filoso.info
 asp.filoso.info
-auh.filoso.info
+ww16.auh.filoso.info
 auk.filoso.info
 aum.filoso.info
 aus.filoso.info
@@ -63020,10 +63019,8 @@ dak.filoso.info
 dal.filoso.info
 dam.filoso.info
 dan.filoso.info
-dao.filoso.info
 dap.filoso.info
 das.filoso.info
-hiv.filoso.info
 iou.filoso.info
 mail.filoso.info
 mvideo.filoso.info
@@ -63032,7 +63029,6 @@ sif.filoso.info
 ufa.filoso.info
 uma.filoso.info
 ww1.filoso.info
-ww16.filoso.info
 ww17.filoso.info
 ww2.filoso.info
 ww25.filoso.info
@@ -63305,6 +63301,7 @@ haodizhi3.info
 hapi.info
 happybook.info
 happytail.info
+harborbeachfarmersmarket.info
 hardis.info
 hargaproduk.info
 harmonielehre.info
@@ -63501,7 +63498,6 @@ kotaklagu.info
 www.kozi.info
 kreativan.info
 kreditvergleicheab.info
-ww1.krisallendaily.info
 ww16.krisallendaily.info
 ww25.krisallendaily.info
 ww38.krisallendaily.info
@@ -64231,7 +64227,6 @@ ww17.porno-chaman.info
 ww25.porno-chaman.info
 ww38.porno-chaman.info
 www.porno-chaman.info
-www.porno2018.info
 pornobitx.info
 pornocomicsix.info
 pornoheroes.info
@@ -64573,6 +64568,9 @@ rusputana.info
 russian-ships.info
 ww25.hostmaster.rutot.info
 ww16.rutot.info
+ww25.rutot.info
+ww38.rutot.info
+www.rutot.info
 hd5.rutube.info
 online.rutube.info
 tv.rutube.info
@@ -64655,7 +64653,6 @@ xn--z1t133c.seednet.info
 seefeld.info
 seisenkai.info
 semmering.info
-ww25.seo-mix.info
 seo03.info
 seolinkek.info
 seotaolao.info
@@ -65393,12 +65390,7 @@ www.unebriquedanslemur.info
 unel.info
 universalpizza.info
 universitaet.info
-cpcalendars.universitariosdelmundo.info
-mail.universitariosdelmundo.info
-webdisk.universitariosdelmundo.info
 ww11.universitariosdelmundo.info
-ww17.universitariosdelmundo.info
-ww25.universitariosdelmundo.info
 www.universitariosdelmundo.info
 welld.unn.info
 ww1.unn.info
@@ -80636,10 +80628,7 @@ shard-5.pop-iad-2.cf.dash.row.aiv-cdn.net
 shard-6.pop-iad-2.cf.dash.row.aiv-cdn.net
 api.us-east-1.aiv-delivery.net
 andbeyond.cpm.ak-is.net
-rtb-xs.ak-is.net
-nativeadsfeed.eu.rtb.ak-is.net
 kds.rtb.ak-is.net
-adright.xml.ak-is.net
 bonomate.xml.ak-is.net
 eximdigital.xml.ak-is.net
 showcasead.xs.ak-is.net
@@ -100868,7 +100857,6 @@ greatestvacationtrips.net
 greatgardening.net
 acmedia.gscontxt.net
 acmedia-ash.gscontxt.net
-admeira-ams.gscontxt.net
 adwebgr-fra.gscontxt.net
 amazon.gscontxt.net
 bbc.gscontxt.net
@@ -100907,14 +100895,12 @@ kargo-useast.gscontxt.net
 le-monde-ams.gscontxt.net
 mediacorp.gscontxt.net
 mediagrid-uswest.gscontxt.net
-pacmags.gscontxt.net
 pedestrian-sydney.gscontxt.net
 pool.gscontxt.net
 prismamedia.gscontxt.net
 prismamedia-ams.gscontxt.net
 prismamedia-ash.gscontxt.net
 prismamedia-fra.gscontxt.net
-reuters.gscontxt.net
 roularta-ams.gscontxt.net
 sapo-ams.gscontxt.net
 sevenwest.gscontxt.net
@@ -100926,15 +100912,10 @@ sph.gscontxt.net
 sph-apsing.gscontxt.net
 step-dk.gscontxt.net
 stuffnz-sydney.gscontxt.net
-tab-ams.gscontxt.net
-tab-nj.gscontxt.net
-tag.gscontxt.net
 theenthusiastnetwork-ash.gscontxt.net
 torstar.gscontxt.net
 torstar-ams.gscontxt.net
 torstar-ash.gscontxt.net
-trustedmediabrands.gscontxt.net
-trustedmediabrands-lax.gscontxt.net
 vmg-ash.gscontxt.net
 vmg-useast.gscontxt.net
 gudefrage.net
@@ -101423,7 +101404,6 @@ i.microad.net
 j.microad.net
 jgl.microad.net
 www.microad.net
-www.mimikennedy.net
 mintegral.net
 counter.mirohost.net
 missbonline.net
@@ -108599,6 +108579,7 @@ imslo.org
 imslt.org
 incident-report.org
 indexxx.org
+indianaexpeditions.org
 indonesianembassy-china.org
 infografias.org
 inskape.org
@@ -109190,6 +109171,7 @@ oxfarm.org
 ozgurlukdergisi.org
 ozilla.org
 paceapp.org
+paigai.org
 paintballplayers.org
 www.paippadputhenkavu.org
 palmoilresearch.org
