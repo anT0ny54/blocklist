@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336525
+# Ignored duplicates: 336427
 
 chameleon.ad
 pixel.ad
@@ -2666,7 +2666,6 @@ abcoster.com
 ad.abctv.com
 abdlnk.com
 abdumusic.com
-ww1.abeautifulpool.com
 www.abeautifulpool.com
 abedwest.com
 abercombieclothing.com
@@ -6474,7 +6473,6 @@ aluxurycars.com
 alxgtyqhio.com
 ww25.amadorasbrasileira.com
 ww38.amadorasbrasileira.com
-www.amadorasbrasileira.com
 amarillasintrnet.com
 amateurgallore.com
 amazingassistedliving.com
@@ -6914,7 +6912,6 @@ ww5.amcvote.com
 www.amcvote.com
 amdaws.com
 ww11.amdcsport.com
-ww2.amdcsport.com
 ww25.amdcsport.com
 amdgt.com
 ads.amdmb.com
@@ -7637,7 +7634,6 @@ smtpseguro.avalcred.com
 sniper.avalcred.com
 ww16.avalcred.com
 ww25.avalcred.com
-ww38.avalcred.com
 www.avalcred.com
 www1.avalcred.com
 www2.avalcred.com
@@ -8099,7 +8095,6 @@ collect.banggood.com
 bangkokstar.com
 bangladeshixnxx.com
 ww25.banglalionwmax.com
-www.banglalionwmax.com
 bangolore.com
 banhkofamerica.com
 ww1.bank-soal-un.com
@@ -8317,7 +8312,6 @@ dist.belnk.com
 belstat.com
 mvideo.beltsios-skiathos.com
 www.beltsios-skiathos.com
-ww16.beltsios-tiffany.com
 bemidjioutdoorpowerequipment.com
 benedictsingleton.com
 benefitsincard.com
@@ -8698,7 +8692,6 @@ bobsmodelships.com
 bobswatersports.com
 bobwap.com
 ww11.bocoransoal.com
-ww25.bocoransoal.com
 bocumot.com
 bodelen.com
 news.bodybyjack.com
@@ -8810,7 +8803,7 @@ bowflec.com
 boxheadzombiewar.com
 boxingfight.com
 boxingfights.com
-m.boyfrienstv.com
+ww25.m.boyfrienstv.com
 ww25.boyfrienstv.com
 ww38.boyfrienstv.com
 wwww.boyfrienstv.com
@@ -8822,7 +8815,6 @@ www.boysfoob.com
 boystwon.com
 bpath.com
 bpdresources.com
-ww1.bpinetempresa.com
 ww16.bpinetempresa.com
 ww25.bpinetempresa.com
 ads.brabys.com
@@ -9410,7 +9402,6 @@ cbssportslines.com
 ads.cc-dt.com
 cccgolfcarts.com
 ww16.cccp-canada.com
-ww25.cccp-canada.com
 ww38.cccp-canada.com
 www.cccp-canada.com
 ensighten.ccnag.com
@@ -9512,8 +9503,6 @@ chartbeat.com
 chartboost.com
 v-collector.dp.aws.charter.com
 charterfunding.com
-certserv.charterhouseuk.com
-vision.charterhouseuk.com
 analytics.chase.com
 chasedfinance.com
 chasef.com
@@ -9662,7 +9651,6 @@ classica-group.com
 mail.classiecassieinchester.com
 ww11.classiecassieinchester.com
 ww16.classiecassieinchester.com
-ww25.classiecassieinchester.com
 ww38.classiecassieinchester.com
 www.classiecassieinchester.com
 classifiedsnearme.com
@@ -16713,7 +16701,6 @@ eyewonder.com
 ww11.ez20snow.com
 ww25.ez20snow.com
 ww38.ez20snow.com
-www.ez20snow.com
 ezodn.com
 ezula.com
 ezwebsitetraffic.com
@@ -16785,7 +16772,6 @@ fastestyoutubedownloader.com
 fastflashupdates.com
 fastjest.com
 fastly-insights.com
-ww1.fastmathstudents.com
 ww16.fastmathstudents.com
 ww25.fastmathstudents.com
 ww38.fastmathstudents.com
@@ -16864,7 +16850,6 @@ fingereach.com
 analytics.dashboard.fingerprint.com
 fingersgames.com
 ww1.finishlineshoe.com
-www.finishlineshoe.com
 fiowertucci.com
 fipinocupid.com
 ads-game-187f4.firebaseapp.com
@@ -17123,7 +17108,6 @@ foxsoccersports.com
 foxsocersports.com
 analytics.nova.foxsports.com
 4jslg.foztrans.com
-ww11.foztrans.com
 ww25.foztrans.com
 fpctraffic.com
 fpctraffic2.com
@@ -18221,7 +18205,6 @@ gavvia.com
 tms.gay-parship.com
 gay-romeo.com
 gaya2.com
-gayasianmas.com
 gaydateconnectionnow.com
 gayhoola.com
 gaymalettube.com
@@ -18794,14 +18777,20 @@ googlebussines.com
 googlecalender.com
 aspmx3.googlemaail.com
 barracuda.googlemaail.com
+ww25.correo.googlemaail.com
 hermes.googlemaail.com
+ww25.mail01.googlemaail.com
 mail10.googlemaail.com
 mail5.googlemaail.com
 mail8.googlemaail.com
 mail9.googlemaail.com
+ww25.mailout.googlemaail.com
 mx02.googlemaail.com
 mx1.googlemaail.com
+mx2.googlemaail.com
+mx5.googlemaail.com
 mx7.googlemaail.com
+ww25.pop3.googlemaail.com
 posta.googlemaail.com
 relay2.googlemaail.com
 smtps.googlemaail.com
@@ -19341,7 +19330,11 @@ hifrases.com
 high-savings.com
 highcpmrevenuenetwork.com
 highfalutinroom.com
-highpotentionalssociety.com
+ww1.highpotentionalssociety.com
+ww16.highpotentionalssociety.com
+ww25.highpotentionalssociety.com
+ww38.highpotentionalssociety.com
+www.highpotentionalssociety.com
 hightrafficads.com
 hilariouszinc.com
 hildes-hjorne.com
@@ -19551,7 +19544,6 @@ js-eu1.hs-banner.com
 hs-scripts.com
 hsbcmf.com
 ww11.hsm-statusquo.com
-ww25.hsm-statusquo.com
 ads.hsoub.com
 ads2.hsoub.com
 hst-rc.com
@@ -37337,7 +37329,6 @@ myfavoritethingsfl.com
 analytics.myfinance.com
 myfirstdayphotogallery.com
 myfitneesspal.com
-ww35.myfitpal.com
 myfloridacess.com
 myforida.com
 myfox4weather.com
@@ -37420,7 +37411,6 @@ yahoo.mysace.com
 mysexfantasies.com
 myshopinggenie.com
 myshoppingcenters.com
-mail.myspacce.com
 ww25.myspacce.com
 myspacelayoutssupport.com
 www.myspaceprofiletracker.com
@@ -43518,15 +43508,12 @@ pageranktop.com
 metrics.pagerduty.com
 painstakingpickle.com
 promote.pair.com
-antispam.paisalaive.com
 auth.paisalaive.com
 authsmtp.paisalaive.com
 email.paisalaive.com
 m.paisalaive.com
-mail.paisalaive.com
 mail2.paisalaive.com
-mail6.paisalaive.com
-mail7.paisalaive.com
+ww25.mail6.paisalaive.com
 mailer.paisalaive.com
 mailgate.paisalaive.com
 mailgw.paisalaive.com
@@ -43542,7 +43529,6 @@ ns1.paisalaive.com
 ns2.paisalaive.com
 poczta.paisalaive.com
 pop.paisalaive.com
-posta.paisalaive.com
 postmaster.paisalaive.com
 secure.paisalaive.com
 server.paisalaive.com
@@ -43741,7 +43727,6 @@ ww38.phonerntica.com
 www.phonerntica.com
 phonesdo.com
 ww11.photobunner.com
-ww25.photobunner.com
 photofaceframe.com
 photographpan.com
 photosop.com
@@ -44059,7 +44044,6 @@ playtoymagazine.com
 playwhe.com
 playziz.com
 pleasantpump.com
-ww11.pleejee.com
 ww25.pleejee.com
 www.pleejee.com
 plentyofosh.com
@@ -44832,7 +44816,6 @@ profitwell.com
 proflowersrush.com
 progessiveagent.com
 ads.program3.com
-ww11.programamulheres.com
 ww25.programamulheres.com
 programattik.com
 progressievinsurance.com
@@ -47454,8 +47437,6 @@ t.raptorsmartadvisor.com
 raresummer.com
 rarioshack.com
 adz.rashflash.com
-cn.rateqoute.com
-www.rateqoute.com
 ratracerevolution.com
 ravenjs.com
 rayban-outlet.com
@@ -49977,7 +49958,6 @@ refinedads.com
 tags.refinery89.com
 reflectivereward.com
 ww11.reflexandsensemassage.com
-ww25.reflexandsensemassage.com
 reftagger.com
 regioncolonel.com
 registerservicedomains.com
@@ -50762,7 +50742,6 @@ c.riskified.com
 ww1.riskijatt.com
 ww11.riskijatt.com
 ww25.riskijatt.com
-www.riskijatt.com
 ristorante-golfoparadiso.com
 riteaidebenefits.com
 ritmoblog.com
@@ -54333,7 +54312,6 @@ ww38.sulancanews.com
 www.sulancanews.com
 sulkybutter.com
 sulkycook.com
-ww1.sumberdayaprimaindonesia.com
 ww2.sumberdayaprimaindonesia.com
 ww25.ww25.sumberdayaprimaindonesia.com
 www.sumberdayaprimaindonesia.com
@@ -54773,7 +54751,6 @@ swoleage.com
 swoop.com
 swordgoose.com
 swornclothes.com
-ww1.swoudecentavo.com
 ww25.swoudecentavo.com
 ww35.swoudecentavo.com
 ww38.swoudecentavo.com
@@ -54956,7 +54933,6 @@ teamviewerdownload.com
 teatrodelosentidos.com
 tebenefits.com
 tics.techdirt.com
-ww11.techfest2011.com
 ww25.techfest2011.com
 technicalfacilitation.com
 technicplatform.com
@@ -55292,7 +55268,6 @@ thurnu.com
 ti-brend.com
 tiantianpokemon.com
 ww25.tic-parchi.com
-www.tic-parchi.com
 ticketaunt.com
 click.mailing.ticketmaster.com
 ads.as4x.tmcs.ticketmaster.com
@@ -55553,7 +55528,6 @@ translategoogle.com
 transmapp.com
 ww16.trasformise.com
 ww25.trasformise.com
-www.trasformise.com
 ads.travelaudience.com
 t.travelaudience.com
 affiliate.travelnow.com
@@ -55600,7 +55574,6 @@ ssor.tribdss.com
 www.tribdss.com
 tribrrr.com
 ww11.tricksterclub.com
-ww25.tricksterclub.com
 ww35.tricksterclub.com
 ww38.tricksterclub.com
 trickycelery.com
@@ -56198,8 +56171,6 @@ unietd.com
 unifiedwrapper.com
 uniformbound.com
 uniformeuniversal.com
-ww1.unigatewaybd.com
-ww25.unigatewaybd.com
 ww38.unigatewaybd.com
 oas.uniontrib.com
 track.uniqodo.com
@@ -56387,6 +56358,7 @@ ads38.unoadsrv.com
 ads4.unoadsrv.com
 ads40.unoadsrv.com
 ads44.unoadsrv.com
+ads45.unoadsrv.com
 ads46.unoadsrv.com
 ads47.unoadsrv.com
 ads48.unoadsrv.com
@@ -56924,7 +56896,6 @@ vergic.com
 vericlick.com
 verifyvegetable.com
 sanalytics.verizon.com
-ww38.verizonfio.com
 sanalytics.verizonwireless.com
 verkkokuppa.com
 spinbox.versiontracker.com
@@ -57838,7 +57809,6 @@ wanogqaznt.com
 wansl.com
 staging.waptirck.com
 ww.waptirck.com
-ww1.waptirck.com
 www.waptirck.com
 waptrink.com
 warl-mart.com
@@ -58121,7 +58091,6 @@ winanp.com
 winareo.com
 wincocareers.com
 windblockerse.com
-www.windomrewards.com
 ppe.assets.activity.windows.com
 df.activity.windows.com
 edge-enterprise-apac.activity.windows.com
@@ -58464,7 +58433,6 @@ ww35.wwwfrev.com
 ww38.wwwfrev.com
 www.wwwfrev.com
 wwwfrif.com
-ww1.wwwgallitoluis.com
 wwwgasparense.com
 wwwgeonumbers.com
 wwwgiftube.com
@@ -59543,25 +59511,6 @@ app.yieldify.com
 yieldlove.com
 postmanpat.ad.yieldmanager.com
 ycpi.ad.yieldmanager.com
-adcheck.yieldmanager.com
-adcheckui.yieldmanager.com
-api.yieldmanager.com
-api-test.yieldmanager.com
-bap.yieldmanager.com
-beta.yieldmanager.com
-ccpui.yieldmanager.com
-ccpws.yieldmanager.com
-content.yieldmanager.com
-content-ssl.yieldmanager.com
-api.int1.yieldmanager.com
-my.int1.yieldmanager.com
-kb.yieldmanager.com
-ad.lhp.yieldmanager.com
-sandbox-ad.yieldmanager.com
-sandbox-cms.yieldmanager.com
-mail.se.yieldmanager.com
-www.yieldmanager.com
-yahoo.yieldmanager.com
 yieldmgr.com
 yieldmo.com
 yieldmrm.com
@@ -60048,9 +59997,7 @@ ww25.zaluucom.com
 ww38.zaluucom.com
 zambianairways.com
 wlamazcsrv1.zamek-oslavany.com
-ww11.zamek-oslavany.com
 ww2.zamek-oslavany.com
-ww25.zamek-oslavany.com
 ww35.zamek-oslavany.com
 ww38.zamek-oslavany.com
 www.zamek-oslavany.com
@@ -61581,9 +61528,6 @@ www.assafir-attounissia.info
 assilah.info
 assurancecomplementairesante.info
 astrofx.info
-croquis.atate.info
-ww11.atate.info
-ww38.atate.info
 www.atate.info
 atbt.info
 aumentatusingresos.info
@@ -62089,9 +62033,13 @@ ww7.cclove12.info
 www.cclove12.info
 cctv-camera.info
 cd-player.info
+degenerate.cediss.info
+dimension.cediss.info
+four.cediss.info
 smtp10.g1.cediss.info
 smtp10.g2.cediss.info
 ww25.cediss.info
+ww38.cediss.info
 www.celiaimrie.info
 certificates.info
 ww1.cevaplus.info
@@ -62384,15 +62332,11 @@ ww25.donpennington.info
 ww38.donpennington.info
 www.donpennington.info
 donquixotesmusic.info
-mail.dotb.info
-sitemap.dotb.info
-sitemaps.dotb.info
 ww16.dotb.info
 ww17.dotb.info
 ww2.dotb.info
 ww25.dotb.info
 ww38.dotb.info
-www.dotb.info
 ww1.doubleup.info
 www.doubleup.info
 downclub.info
@@ -62646,13 +62590,7 @@ abo.filoso.info
 ww16.auh.filoso.info
 ww16.boa.filoso.info
 bom.filoso.info
-ww16.bun.filoso.info
-ww16.dag.filoso.info
-dap.filoso.info
-ww16.iou.filoso.info
 mvideo.filoso.info
-ww1.filoso.info
-ww17.filoso.info
 ww25.filoso.info
 financialsecurity.info
 firstnews.info
@@ -64267,6 +64205,7 @@ xn--z1t133c.seednet.info
 seefeld.info
 seisenkai.info
 semmering.info
+www.seo-mix.info
 seo03.info
 seolinkek.info
 seotaolao.info
@@ -64885,7 +64824,6 @@ twzoa.info
 mail.typolemag.info
 www.typolemag.info
 u-jin.info
-ww17.ukairshows.info
 ukanbook.info
 1337x.ukbypass.info
 ahashare.ukbypass.info
@@ -73099,6 +73037,10 @@ funbox-rprd-179-addplcmt.yellowblue.io
 funbox-rprd-2.yellowblue.io
 funbox-rprd-203-display.yellowblue.io
 funbox-rprd-222-auctionimprovements.yellowblue.io
+funbox-rprd-243-bugs.yellowblue.io
+funbox-rprd-251-reporting.yellowblue.io
+funbox-rprd-261.yellowblue.io
+funbox-rprd-261-fix-prebid-mrkt-bas-subid.yellowblue.io
 funbox-rprd-52-tagsauction.yellowblue.io
 funbox-rprd-52-tagsauction-adjusttoresponse.yellowblue.io
 funbox-rprd-52-tagsfix.yellowblue.io
@@ -100084,6 +100026,7 @@ alertmanager.dev.synergy.aws.fwmrm.net
 atlantistest.dev.synergy.aws.fwmrm.net
 auth.dev.synergy.aws.fwmrm.net
 grafana.dev.synergy.aws.fwmrm.net
+kiali.dev.synergy.aws.fwmrm.net
 prometheus.dev.synergy.aws.fwmrm.net
 thanos-bucket.dev.synergy.aws.fwmrm.net
 thanos-query.dev.synergy.aws.fwmrm.net
@@ -101875,7 +101818,14 @@ pxsrv.net
 www.pyramisa.net
 wwww.qksrv.net
 ww11.qudsmedia.net
-www.qudsmedia.net
+demo1.www.qudsmedia.net
+demo2.www.qudsmedia.net
+demo3.www.qudsmedia.net
+shop.www.qudsmedia.net
+test.www.qudsmedia.net
+test1.www.qudsmedia.net
+test3.www.qudsmedia.net
+wordpress.www.qudsmedia.net
 questaffiliates.net
 raac33.net
 railtouring.net
@@ -105974,7 +105924,6 @@ f101.smaato.net
 gwaws.smaato.net
 gwham.smaato.net
 gwnyc.smaato.net
-gwsfo.smaato.net
 i1010.smaato.net
 i1011.smaato.net
 i1020.smaato.net
@@ -108341,7 +108290,6 @@ livervox.org
 lmba.org
 logview.org
 londonmint.org
-ww1.lookcreative.org
 mx.loop-us.org
 ww17.loop-us.org
 lophisc.org
@@ -108809,7 +108757,6 @@ pirlotv.org
 pitchme.org
 plaigarism.org
 planetsexstories.org
-www.planetsuy.org
 planocad.org
 plantesforkids.org
 platinumautosales.org
@@ -114658,6 +114605,7 @@ analytics.ica.se
 web-analytics.ica.se
 ai.idg.se
 ax.idg.se
+tracking.illvet.se
 sgtm.inet.se
 adserver.infotorg.se
 gwen.insertcoin.se
