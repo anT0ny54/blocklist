@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336496
+# Ignored duplicates: 336494
 
 chameleon.ad
 pixel.ad
@@ -3452,28 +3452,21 @@ unad.adkmob.com
 unconf.adkmob.com
 unrcv.adkmob.com
 www.adkmob.com
-adb.adledge.com
 advertstream.adledge.com
 affiperf.adledge.com
 aud.adledge.com
-auid.adledge.com
 auth.adledge.com
 bs.adledge.com
 c2a1nda.adledge.com
-cdn.adledge.com
 cdn-production.adledge.com
 cdnv2.adledge.com
 click.adledge.com
-clk.adledge.com
 comnda.adledge.com
 correo.adledge.com
 de-affiperf.adledge.com
 display.adledge.com
-dsp.adledge.com
 email.adledge.com
 emres.adledge.com
-epl.adledge.com
-www.epn.adledge.com
 es.adledge.com
 fi.adledge.com
 fr-affiperf.adledge.com
@@ -3486,11 +3479,8 @@ gateway.adledge.com
 havas.adledge.com
 hermes.adledge.com
 host.adledge.com
-id.adledge.com
 kantarmedia.adledge.com
 lab.adledge.com
-lbjs.adledge.com
-lbphp.adledge.com
 library.adledge.com
 lon.adledge.com
 m.adledge.com
@@ -3506,7 +3496,6 @@ mx02.adledge.com
 mx1.adledge.com
 mx4.adledge.com
 mx5.adledge.com
-nda.adledge.com
 newmail.adledge.com
 ns.adledge.com
 pl-affiperf.adledge.com
@@ -3519,10 +3508,8 @@ rd2.adledge.com
 remind.adledge.com
 report.adledge.com
 res.adledge.com
-www.rs.adledge.com
 s.adledge.com
 server1.adledge.com
-skw.adledge.com
 smart.adledge.com
 smtp01.adledge.com
 stg.adledge.com
@@ -3533,8 +3520,6 @@ tor.adledge.com
 undertone.adledge.com
 us-mi-affiperf.adledge.com
 v2.adledge.com
-vast.adledge.com
-vid.adledge.com
 www.adledge.com
 xl.adledge.com
 xn--nda-1da.adledge.com
@@ -8616,7 +8601,6 @@ bobinteriors.com
 bobsmodelships.com
 bobswatersports.com
 bobwap.com
-ww11.bocoransoal.com
 bocumot.com
 bodelen.com
 news.bodybyjack.com
@@ -9353,7 +9337,6 @@ cedato.com
 cedexis.com
 ceebritycruises.com
 sitemaps.cefcostore.com
-ww16.cefcostore.com
 www.cefcostore.com
 cehckdomain.com
 celebrityrehabvh1.com
@@ -16555,7 +16538,6 @@ interact.f5.com
 f9pennsy3glvkm6ania.com
 ww1.fabrioptica-fabricadeoculos.com
 ww11.fabrioptica-fabricadeoculos.com
-ww16.fabrioptica-fabricadeoculos.com
 ww25.fabrioptica-fabricadeoculos.com
 fabswingerd.com
 facebooktown.com
@@ -16649,7 +16631,6 @@ ww25.fengshanblog.com
 activate.ferguson.com
 ads.ferianc.com
 ww1.ff-model.com
-ww16.ff-model.com
 www.ff-model.com
 fghik.com
 fgl.com
@@ -16904,7 +16885,6 @@ www.fostos.com
 fotoceweknakal.com
 tagman.fotolia.com
 ww1.fotopeak.com
-ww16.fotopeak.com
 fouanalytics.com
 foundfax.com
 aaa.fountasandpinell.com
@@ -16984,7 +16964,6 @@ freepornxnxx.com
 freepublicdns.com
 freeresultsguide.com
 freerive.com
-www.freeservicerepairmanual.com
 freesexyworld.com
 freeskreen.com
 freespee.com
@@ -18147,7 +18126,10 @@ getwetvidoes.com
 metrics.gfycat.com
 px.gfycat.com
 ghanamotoin.com
-ghananations.com
+old.ghananations.com
+ww16.ghananations.com
+ww25.ghananations.com
+ww38.ghananations.com
 ghanantion.com
 mail.ghmproperties.com
 giagoc.com
@@ -18615,10 +18597,12 @@ box.googlemaail.com
 com.googlemaail.com
 comune.googlemaail.com
 ww25.correo.googlemaail.com
+gateway.googlemaail.com
 gw.googlemaail.com
 hermes.googlemaail.com
 home.googlemaail.com
 host.googlemaail.com
+info.googlemaail.com
 plus.smtp.mail.googlemaail.com
 ww25.mail01.googlemaail.com
 mail02.googlemaail.com
@@ -18637,6 +18621,7 @@ mailrelay.googlemaail.com
 mailsrv.googlemaail.com
 mailx.googlemaail.com
 ms.googlemaail.com
+ms1.googlemaail.com
 mta.googlemaail.com
 mx.googlemaail.com
 mx0.googlemaail.com
@@ -18661,6 +18646,7 @@ posta.googlemaail.com
 relay2.googlemaail.com
 server1.googlemaail.com
 smtp01.googlemaail.com
+smtpmail.googlemaail.com
 smtps.googlemaail.com
 smtpseguro.googlemaail.com
 sniper.googlemaail.com
@@ -19210,9 +19196,7 @@ high-savings.com
 highcpmrevenuenetwork.com
 highfalutinroom.com
 ww1.highpotentionalssociety.com
-ww16.highpotentionalssociety.com
 ww25.highpotentionalssociety.com
-ww38.highpotentionalssociety.com
 hightrafficads.com
 hilariouszinc.com
 hildes-hjorne.com
@@ -20265,7 +20249,6 @@ jivox.com
 jizzflixx.com
 jksabers.com
 ww11.jktfas01.com
-ww16.jktfas01.com
 ww25.jktfas01.com
 jminstitute.com
 prod-pixel-tracking-api-external-api.jobappnetwork.com
@@ -20596,7 +20579,6 @@ sandbox01.kaxsdc.com
 sandbox02.kaxsdc.com
 stage03.kaxsdc.com
 ww11.kayakiyek.com
-ww16.kayakiyek.com
 www.kayakiyek.com
 kayjewler.com
 smetrics.kbb.com
@@ -21728,6 +21710,7 @@ loreaparisusa.com
 lotadata.com
 stats.lotlinx.com
 loudlunch.com
+ww92.loudsjack.com
 www.loudsjack.com
 ww1.lourdesnet.com
 ww17.lourdesnet.com
@@ -23123,7 +23106,6 @@ metrilo.com
 mettajetovimuti.com
 ww35.meuporno.com
 ww5.meuporno.com
-www.meuporno.com
 mfadsrvr.com
 mg2connext.com
 mgid.com
@@ -36361,10 +36343,8 @@ event-collector.moviesanywhere.com
 moviesmo.com
 ww1.moviesnhack.com
 ww10.moviesnhack.com
-ww16.moviesnhack.com
 ww17.moviesnhack.com
 ww25.moviesnhack.com
-ww38.moviesnhack.com
 movilanka.com
 movistarnicaragua.com
 mowfruit.com
@@ -37308,6 +37288,7 @@ yahoo.mysace.com
 mysexfantasies.com
 myshopinggenie.com
 myshoppingcenters.com
+www.myspacce.com
 myspacelayoutssupport.com
 mysteriousmonth.com
 autodiscover.mysticallady.com
@@ -47339,8 +47320,6 @@ reactx.com
 readgoldfish.com
 readingguilt.com
 readymoon.com
-ww16.readysetglow.com
-ww25.readysetglow.com
 www.readysetglow.com
 realcastmedia.com
 realclever.com
@@ -49921,9 +49900,6 @@ retailmehot.com
 retargeter.com
 retargetly.com
 retargettracker.com
-ww1.retdube.com
-ww25.retdube.com
-ww38.retdube.com
 retentionscience.com
 retirementplansguide.com
 rettube.com
@@ -49939,8 +49915,6 @@ revenuedirect.com
 www.revenueemails.com
 revenuehits.com
 revenuemantra.com
-ww25.revitasfree.com
-ww38.revitasfree.com
 revive-adserver.com
 revjet.com
 revoloco.com
@@ -51589,7 +51563,6 @@ sbfsdvc.com
 sbobetv.com
 adserver.scannantivirincnew.com
 ww11.scannantivirincnew.com
-ww25.scannantivirincnew.com
 www.scannantivirincnew.com
 scanscout.com
 scarabresearch.com
@@ -52109,7 +52082,6 @@ shady45.com
 mail.shaferglazer.com
 shahidnet.com
 shairmarket.com
-ww1.shakeelabiz.com
 ww5.shakeelabiz.com
 shakegoldfish.com
 shakesuggestion.com
@@ -52488,8 +52460,6 @@ xytex.sitelabweb.com
 sitemeter.com
 sitescout.com
 insights.sitesearch360.com
-ww16.sitetaltravel.com
-ww25.sitetaltravel.com
 sixscissors.com
 sixsigmatraffic.com
 sizesidewalk.com
@@ -52847,8 +52817,6 @@ smratdate.com
 cdn.smrt-content.com
 smrtb.com
 sms-monster.com
-ww1.smseutopia.com
-ww25.smutbloggers.com
 snakesshop.com
 adserver.snapads.com
 adstats.snapads.com
@@ -53047,11 +53015,7 @@ url7285.sojern.com
 web.sojern.com
 www.sojern.com
 sokkkhhuaraa.com
-ww16.solanodrivein.com
-ww25.solanodrivein.com
-ww38.solanodrivein.com
 www.solanodrivein.com
-ww16.solariskino.com
 ww25.solariskino.com
 solocpm.com
 solofmexico.com
@@ -54082,7 +54046,6 @@ streettalkblog.com
 stretchsquirrel.com
 sentry.stripchat.com
 stripedburst.com
-ww25.stripgeneration.com
 ww38.stripgeneration.com
 strivesidewalk.com
 stroeermobileperformance.com
@@ -54129,7 +54092,6 @@ ww38.sulancanews.com
 www.sulancanews.com
 sulkybutter.com
 sulkycook.com
-ww25.ww25.sumberdayaprimaindonesia.com
 www.sumberdayaprimaindonesia.com
 summerobject.com
 summervilleseniorliving.com
@@ -62126,7 +62088,6 @@ ww25.donpennington.info
 ww38.donpennington.info
 www.donpennington.info
 donquixotesmusic.info
-ww25.dotb.info
 ww1.doubleup.info
 www.doubleup.info
 downclub.info
@@ -62311,6 +62272,7 @@ ww38.eyep.info
 www.eyep.info
 eyesurgery.info
 ezmethod.info
+ww38.factory-outlet-stores.info
 fajos.info
 fakeer.info
 ns.falvguwen.info
@@ -62358,7 +62320,6 @@ www.filmesporno.info
 filmix.info
 filmywap.info
 filmzenstream.info
-ww16.boa.filoso.info
 financialsecurity.info
 firstnews.info
 fishinginisrael.info
@@ -62820,7 +62781,6 @@ kotaklagu.info
 www.kozi.info
 kreativan.info
 kreditvergleicheab.info
-ww16.krisallendaily.info
 www.kristijan.info
 kritika.info
 kroatien.info
@@ -63474,7 +63434,6 @@ ww25.pfshop.info
 www.pfshop.info
 phanri.info
 phaze.info
-www.phigolf.info
 phimhay.info
 photosex.info
 phpprotect.info
@@ -63660,9 +63619,7 @@ ww25.proxysmart.info
 ww38.proxysmart.info
 www.proxysmart.info
 zappos.proxysmart.info
-ww17.przechowalnia.info
 ww25.przechowalnia.info
-www.przechowalnia.info
 auth.psylocke.info
 barracuda.psylocke.info
 box.psylocke.info
@@ -64705,7 +64662,6 @@ www.unebriquedanslemur.info
 unel.info
 universalpizza.info
 universitaet.info
-ww11.universitariosdelmundo.info
 welld.unn.info
 ww1.unn.info
 ww25.unn.info
@@ -101573,7 +101529,6 @@ pxchk.net
 pxsrv.net
 www.pyramisa.net
 wwww.qksrv.net
-ww11.qudsmedia.net
 demo1.www.qudsmedia.net
 demo2.www.qudsmedia.net
 demo3.www.qudsmedia.net
@@ -107683,6 +107638,7 @@ gedacademy.org
 gedcgoa.org
 geekforgeeks.org
 geekmyride.org
+cdnads.geeksforgeeks.org
 gegebra.org
 geneant.org
 genysis.org
@@ -107864,6 +107820,7 @@ honganthienchua.org
 honitonsurgery.org
 horizononefcu.org
 hotgirlxx.org
+househippo.org
 houstonmetro.org
 hpboard.org
 hprt.org
