@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336494
+# Ignored duplicates: 336590
 
 chameleon.ad
 pixel.ad
@@ -3456,7 +3456,6 @@ advertstream.adledge.com
 affiperf.adledge.com
 aud.adledge.com
 auth.adledge.com
-bs.adledge.com
 c2a1nda.adledge.com
 cdn-production.adledge.com
 cdnv2.adledge.com
@@ -4505,7 +4504,6 @@ fanone.campaign.adobe.com
 fanone-mkt-prod1.campaign.adobe.com
 fanone-mkt-prod1-1.campaign.adobe.com
 fanone-mkt-prod4.campaign.adobe.com
-fanone-mkt-prod4-1.campaign.adobe.com
 fanone-mkt-prod8-lb.campaign.adobe.com
 fastretailing.campaign.adobe.com
 fastretailing-mkt-prod1-lb.campaign.adobe.com
@@ -6216,6 +6214,7 @@ ahmedshobeir.com
 ahoritah.com
 ahsahre.com
 ahsmedicare.com
+aibsgc.com
 aiertpay.com
 aim4media.com
 cent.ads.aimatch.com
@@ -7033,8 +7032,6 @@ ww25.anhonestboy.com
 ww84.anhonestboy.com
 animalattractionstv.com
 ww1.animalfunsex.com
-ww25.animalfunsex.com
-ww38.animalfunsex.com
 animporn.com
 aniview.com
 ads.annabac.com
@@ -8031,7 +8028,6 @@ bankofamserica.com
 bankokofamerica.com
 ww1.bannerandlogodesigner.com
 ww5.bannerandlogodesigner.com
-www.bannerandlogodesigner.com
 embed.bannerboo.com
 bannerboxes.com
 bannerflow.com
@@ -8723,7 +8719,6 @@ www.boysfoob.com
 boystwon.com
 bpath.com
 bpdresources.com
-ww16.bpinetempresa.com
 ww25.bpinetempresa.com
 ads.brabys.com
 adsfeed.brabys.com
@@ -9308,9 +9303,7 @@ www2.cbssorts.com
 cbssportslines.com
 ads.cc-dt.com
 cccgolfcarts.com
-ww16.cccp-canada.com
 ww38.cccp-canada.com
-www.cccp-canada.com
 ensighten.ccnag.com
 ccssettlement.com
 cdg124.com
@@ -9337,7 +9330,6 @@ cedato.com
 cedexis.com
 ceebritycruises.com
 sitemaps.cefcostore.com
-www.cefcostore.com
 cehckdomain.com
 celebrityrehabvh1.com
 celebrus.com
@@ -10475,7 +10467,6 @@ share.crsspxl.com
 tag.crsspxl.com
 treble.crsspxl.com
 crueltoys.com
-links.email.crunchbase.com
 crusharcade.com
 crvhonda.com
 crypto-loot.com
@@ -15884,7 +15875,6 @@ cdn.bkov2.dynstc.com
 cdn.n.dynstc.com
 dyntrk.com
 ww25.e-ziria.com
-www.e-ziria.com
 e0mn.com
 wl1bet.adsrv.eacdn.com
 wladmiralinteractive.adsrv.eacdn.com
@@ -16161,6 +16151,7 @@ elyuom7.com
 em-consult.com
 emailcpc.com
 emailerschoice.com
+www.emailonlinechase.com
 emailprisoner.com
 emailresponderservice.com
 ablink.news.emails-puregym.com
@@ -16955,6 +16946,7 @@ track.freemmo2017.com
 freemotorinsurancequote.com
 freemotorinsurancequotes.com
 freemspacman.com
+matomo.freeones.com
 freeonlineusers.com
 srepdata.freep.com
 freepatternsdonnascrochetdesign.com
@@ -18127,9 +18119,6 @@ metrics.gfycat.com
 px.gfycat.com
 ghanamotoin.com
 old.ghananations.com
-ww16.ghananations.com
-ww25.ghananations.com
-ww38.ghananations.com
 ghanantion.com
 mail.ghmproperties.com
 giagoc.com
@@ -18589,78 +18578,7 @@ test.firebaselogging.googleapis.com
 googleblack.com
 googlebussines.com
 googlecalender.com
-aspmx3.googlemaail.com
-authsmtp.googlemaail.com
-autodiscover.googlemaail.com
-barracuda.googlemaail.com
-box.googlemaail.com
-com.googlemaail.com
-comune.googlemaail.com
-ww25.correo.googlemaail.com
-gateway.googlemaail.com
-gw.googlemaail.com
-hermes.googlemaail.com
-home.googlemaail.com
-host.googlemaail.com
-info.googlemaail.com
-plus.smtp.mail.googlemaail.com
-ww25.mail01.googlemaail.com
-mail02.googlemaail.com
-mail10.googlemaail.com
-mail11.googlemaail.com
-mail12.googlemaail.com
-mail3.googlemaail.com
-mail5.googlemaail.com
-mail6.googlemaail.com
-mail8.googlemaail.com
-mail9.googlemaail.com
-mailbox.googlemaail.com
-mailgw.googlemaail.com
-ww25.mailout.googlemaail.com
-mailrelay.googlemaail.com
-mailsrv.googlemaail.com
-mailx.googlemaail.com
-ms.googlemaail.com
-ms1.googlemaail.com
-mta.googlemaail.com
-mx.googlemaail.com
-mx0.googlemaail.com
-mx01.googlemaail.com
-mx02.googlemaail.com
-mx1.googlemaail.com
-mx2.googlemaail.com
-mx20.googlemaail.com
-mx3.googlemaail.com
-mx4.googlemaail.com
-mx5.googlemaail.com
-mx7.googlemaail.com
-mxs.googlemaail.com
-newmail.googlemaail.com
-out.googlemaail.com
-outmail.googlemaail.com
-pbrand.googlemaail.com
-po.googlemaail.com
-ww25.pop3.googlemaail.com
-post.googlemaail.com
-posta.googlemaail.com
-relay2.googlemaail.com
-server1.googlemaail.com
-smtp01.googlemaail.com
-smtpmail.googlemaail.com
-smtps.googlemaail.com
-smtpseguro.googlemaail.com
-sniper.googlemaail.com
-srv.googlemaail.com
-ssl.googlemaail.com
-thor.googlemaail.com
-tiger.googlemaail.com
-vip.googlemaail.com
-vmail.googlemaail.com
-vnet.googlemaail.com
-ww25.googlemaail.com
-ww38.googlemaail.com
-zimbra.googlemaail.com
-zmail.googlemaail.com
+googlemaail.com
 googlemerchant.com
 googlemqil.com
 googlenewssubmit.com
@@ -21771,6 +21689,11 @@ maccomestics.com
 maccosmeticspro.com
 maccoubreys.com
 machieved.com
+fallback.machigames.com
+mx1.machigames.com
+ns3.machigames.com
+ww1.machigames.com
+www.machigames.com
 macinstallerinfo.com
 mackeeperapp.mackeeper.com
 macksites.com
@@ -55672,7 +55595,6 @@ tuubee.com
 tuxbotax.com
 tvadsync.com
 ww11.tvcenliena.com
-ww16.tvcenliena.com
 ww25.tvcenliena.com
 ww38.tvcenliena.com
 tvkezy.com
@@ -62272,6 +62194,7 @@ ww38.eyep.info
 www.eyep.info
 eyesurgery.info
 ezmethod.info
+ww31.factory-outlet-stores.info
 ww38.factory-outlet-stores.info
 fajos.info
 fakeer.info
@@ -62680,7 +62603,6 @@ www.imigliori.info
 immortallife.info
 improvehealth.info
 indianarmy.info
-indianlaw.info
 ineedmoney.info
 infode.info
 inglesonlinegratis.info
@@ -62732,7 +62654,6 @@ joker7777.info
 josieskitchen.info
 jpub.info
 jumpon.info
-junaldpascua.info
 jupiter-directory.info
 kabhebrew.info
 kajak.info
@@ -62781,6 +62702,7 @@ kotaklagu.info
 www.kozi.info
 kreativan.info
 kreditvergleicheab.info
+krisallendaily.info
 www.kristijan.info
 kritika.info
 kroatien.info
@@ -62842,7 +62764,6 @@ lienz.info
 likeriteok.info
 likud.info
 limewire.info
-linksrush.info
 linuxscada.info
 lisandru.info
 listbuilderads.info
@@ -62887,7 +62808,6 @@ luvita.info
 luxfilm.info
 ww25.m4yfree.info
 ww38.m4yfree.info
-www.m4yfree.info
 bloc.mabosch.info
 cpcalendars.mabosch.info
 cpcontacts.mabosch.info
@@ -63021,7 +62941,7 @@ millstatt.info
 www.mimino.info
 mindsweeper.info
 ns.mine-server.info
-wikileaks.mine-server.info
+ww25.wikileaks.mine-server.info
 ww1.mine-server.info
 ww17.mine-server.info
 ww25.mine-server.info
@@ -63337,15 +63257,12 @@ only-soft.info
 onlymature.info
 onthespot.info
 ar.onzeweb.info
-bg.onzeweb.info
 blog-perso.onzeweb.info
 cs.onzeweb.info
 da.onzeweb.info
 de.onzeweb.info
 el.onzeweb.info
-es.onzeweb.info
 fi.onzeweb.info
-fr.onzeweb.info
 he.onzeweb.info
 hr.onzeweb.info
 hu.onzeweb.info
@@ -63355,25 +63272,19 @@ ja.onzeweb.info
 ko.onzeweb.info
 lehamstermasque.onzeweb.info
 lt.onzeweb.info
-nl.onzeweb.info
 pl.onzeweb.info
 pt.onzeweb.info
 ro.onzeweb.info
-ru.onzeweb.info
 sam.onzeweb.info
 sk.onzeweb.info
-sr.onzeweb.info
-sv.onzeweb.info
 ta.onzeweb.info
 th.onzeweb.info
 tl.onzeweb.info
-tr.onzeweb.info
 vi.onzeweb.info
 ww1.onzeweb.info
 ww11.onzeweb.info
 ww25.onzeweb.info
 ww38.onzeweb.info
-www.onzeweb.info
 zh.onzeweb.info
 optymalni.info
 organizationalmarket.info
@@ -68863,6 +68774,7 @@ datascience-nonprod.redventures.io
 disruption.redventures.io
 disruptions.redventures.io
 dmp.redventures.io
+hrassist.empx-stg.redventures.io
 photos-upload.empx.redventures.io
 auth.expertflyer-dev.redventures.io
 expertflyer-staging.redventures.io
@@ -68872,6 +68784,7 @@ galaxy.redventures.io
 guardian.redventures.io
 library.harbinger.redventures.io
 predict.harbinger.redventures.io
+hr-assist.redventures.io
 hughesnet.redventures.io
 insurance-development.redventures.io
 live-video.redventures.io
@@ -101196,7 +101109,6 @@ h-bambu.online-metrix.net
 h-bankaustralia.online-metrix.net
 h-barstoolsportsbook.online-metrix.net
 h-beachbody.online-metrix.net
-h-bestbuy.online-metrix.net
 h-betfair.online-metrix.net
 h-blueorangebank.online-metrix.net
 h-bluevine.online-metrix.net
@@ -101255,7 +101167,6 @@ h-fail-test.online-metrix.net
 h-fanduel.online-metrix.net
 h-fedex.online-metrix.net
 h-firstdata.online-metrix.net
-h-fisglobal.online-metrix.net
 h-franklintempleton.online-metrix.net
 h-freelancer1.online-metrix.net
 h-fsymclue.online-metrix.net
@@ -101270,7 +101181,6 @@ h-gumtree2.online-metrix.net
 h-gusto.online-metrix.net
 h-gyft.online-metrix.net
 h-halifax.online-metrix.net
-h-hebgrocery.online-metrix.net
 h-homeaway2.online-metrix.net
 h-houzz.online-metrix.net
 h-hsbchk.online-metrix.net
@@ -101399,7 +101309,6 @@ qa2-h-api.online-metrix.net
 qaperf2-h.online-metrix.net
 qaperf2-h-api.online-metrix.net
 r.online-metrix.net
-h-d3tracking.rbc.online-metrix.net
 h-content.rodanandfields.online-metrix.net
 staging-h-api.online-metrix.net
 test-api-eu.online-metrix.net
@@ -101529,14 +101438,6 @@ pxchk.net
 pxsrv.net
 www.pyramisa.net
 wwww.qksrv.net
-demo1.www.qudsmedia.net
-demo2.www.qudsmedia.net
-demo3.www.qudsmedia.net
-shop.www.qudsmedia.net
-test.www.qudsmedia.net
-test1.www.qudsmedia.net
-test3.www.qudsmedia.net
-wordpress.www.qudsmedia.net
 questaffiliates.net
 raac33.net
 railtouring.net
@@ -106133,6 +106034,7 @@ tcads.net
 cpt.test.technolutions.net
 telugunovels.net
 cityads.telus.net
+www.tennis-recruiting.net
 mail.terrabio.net
 ww1.terrabio.net
 ww17.terrabio.net
@@ -106735,8 +106637,6 @@ ahacpr.org
 ahainstuctornetwork.org
 ahlulbaitindonesia.org
 aiimsonians.org
-www.bitg.ainer.org
-www.ainer.org
 airframe.org
 aises-windsofchangedigitalguides.org
 ww1.ajaxcdn.org
@@ -107971,7 +107871,9 @@ learningaps.org
 leave-management-system.org
 leettips.org
 leginsy.org
-lemonsport.org
+ww1.lemonsport.org
+ww25.lemonsport.org
+www.lemonsport.org
 leppa.org
 lerningapps.org
 lffcu.org
@@ -108386,7 +108288,6 @@ sitemaps.operationcavalierrescue.org
 staging.operationcavalierrescue.org
 test.operationcavalierrescue.org
 ww16.operationcavalierrescue.org
-ww25.operationcavalierrescue.org
 www.operationcavalierrescue.org
 opestreetmap.org
 oraesatta.org
@@ -109269,6 +109170,7 @@ texasworksource.org
 textem.org
 tgcaptions.org
 thaiconsulate.org
+thaitv.org
 theamazings.org
 theaudiobookbay.org
 thebdc.org
@@ -109445,11 +109347,6 @@ umldiagrams.org
 unecdc.org
 unemploymentoregon.org
 unicf.org
-autodiscover.unief.org
-cpcalendars.unief.org
-mail.unief.org
-preview-unief.unief.org
-www.unief.org
 unionbbs.org
 unionpacific.org
 unvuganda.org
@@ -114360,6 +114257,8 @@ tracking.etidning.op.se
 tracking.op.se
 stats.poddtoppen.se
 track.postkodlotteriet.se
+gtm.proff.se
+stats.proff.se
 advert.rabaldermedia.se
 cdn.reaktion.se
 secure.reaktion.se
