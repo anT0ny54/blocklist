@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336590
+# Ignored duplicates: 336567
 
 chameleon.ad
 pixel.ad
@@ -1280,7 +1280,6 @@ gigazine.asia
 cdn.openxmarket.asia
 sea.openxmarket.asia
 ui.openxmarket.asia
-ads.5min.at
 ad-balancer.at
 ad4m.at
 ad4mat.at
@@ -1418,7 +1417,6 @@ adop.cc
 ads.cc
 site.flashx.cc
 mediabridge.cc
-www.tesla-x2.cc
 vk.cc
 zentr.cc
 track.mp4.center
@@ -3507,7 +3505,6 @@ rd2.adledge.com
 remind.adledge.com
 report.adledge.com
 res.adledge.com
-s.adledge.com
 server1.adledge.com
 smart.adledge.com
 smtp01.adledge.com
@@ -6414,7 +6411,6 @@ ads.alt.com
 altitude-arena.com
 aluxurycars.com
 alxgtyqhio.com
-ww25.amadorasbrasileira.com
 ww38.amadorasbrasileira.com
 amarillasintrnet.com
 amateurgallore.com
@@ -7031,7 +7027,6 @@ ww16.anhonestboy.com
 ww25.anhonestboy.com
 ww84.anhonestboy.com
 animalattractionstv.com
-ww1.animalfunsex.com
 animporn.com
 aniview.com
 ads.annabac.com
@@ -7535,29 +7530,10 @@ autroliner.com
 auxiliarytanks.com
 auzu.com
 av-scanner.com
-gateway.avalcred.com
 hermes.avalcred.com
-mail.avalcred.com
-mail02.avalcred.com
 mail2.avalcred.com
-mailgate.avalcred.com
 ww25.mailhost.avalcred.com
 ww25.mailserver.avalcred.com
-mbox.avalcred.com
-ms1.avalcred.com
-mx2.avalcred.com
-ns2.avalcred.com
-out.avalcred.com
-outmail.avalcred.com
-po.avalcred.com
-pop.avalcred.com
-relay2.avalcred.com
-smtp01.avalcred.com
-smtpauth.avalcred.com
-smtpseguro.avalcred.com
-sniper.avalcred.com
-ww16.avalcred.com
-ww25.avalcred.com
 avalonalbum.com
 avantisvideo.com
 uib.ff.avast.com
@@ -7859,7 +7835,6 @@ zmail.awtank.com
 awzbijw.com
 axiomaticalley.com
 link.axios.com
-ww16.axispensionehouse.com
 ww38.axispensionehouse.com
 axonix.com
 axrawjk.com
@@ -8088,7 +8063,6 @@ zmail.barclaycxardus.com
 barclayd.com
 baremetrics.com
 ww11.barfmusic19.com
-ww16.barfmusic19.com
 ww25.barfmusic19.com
 baristand.com
 barnsleyloftandpigeon.com
@@ -8282,7 +8256,6 @@ ads.betweendigital.com
 cache.betweendigital.com
 bewaslac.com
 ww1.bewekoof.com
-www.bewekoof.com
 bewilderedblade.com
 beybleybattle.com
 beyodntherack.com
@@ -8719,7 +8692,6 @@ www.boysfoob.com
 boystwon.com
 bpath.com
 bpdresources.com
-ww25.bpinetempresa.com
 ads.brabys.com
 adsfeed.brabys.com
 braincash.com
@@ -9458,7 +9430,6 @@ chickafila.com
 chickensstation.com
 chicoryapp.com
 ww11.chijolqp.com
-ww25.chijolqp.com
 ww38.chijolqp.com
 childlikecrowd.com
 chimilia.com
@@ -9506,9 +9477,7 @@ metrics1.citi.com
 content22.online.citi.com
 profile.citrix.com
 recommendation.citrix.com
-backup.citymark-hotel.com
 mail.citymark-hotel.com
-ww16.citymark-hotel.com
 ww38.citymark-hotel.com
 citzensfirstbank.com
 analytics.civicplus.com
@@ -9526,9 +9495,7 @@ clasesdeinglesgratis.com
 ads.clasificadox.com
 classic-photos.com
 classica-group.com
-ww16.classiecassieinchester.com
 ww38.classiecassieinchester.com
-www.classiecassieinchester.com
 classifiedsnearme.com
 click.classmates.com
 clavinkleinpreferred.com
@@ -11086,7 +11053,6 @@ decisivebase.com
 decisivedrawer.com
 decisiveducks.com
 decoratingwithlaceoutlet.com
-ww16.decorglamor.com
 fw.decorsmaison.com
 ww1.decorsmaison.com
 ww38.decorsmaison.com
@@ -15724,7 +15690,6 @@ mail.dufibepe.com
 ww1.dufibepe.com
 www.dufibepe.com
 www1.dufibepe.com
-ww16.dujacquierloft.com
 ww25.dujacquierloft.com
 dumbpop.com
 dunill.com
@@ -16135,7 +16100,6 @@ elitetoplist.com
 ads.elitetrader.com
 www.elizabeth-il.com
 elizabethmattress.com
-ww16.ellierio.com
 ww25.ellierio.com
 www.ellierio.com
 elliottchevroletcadillac.com
@@ -16217,9 +16181,6 @@ enzajit.com
 eonenergt.com
 eototal.com
 eperon-medieval.com
-ww16.epg2idfir.com
-ww25.epg2idfir.com
-ww38.epg2idfir.com
 metric-public-service-prod.ol.epicgames.com
 ads.epltalk.com
 epn3.com
@@ -16528,8 +16489,6 @@ f1tbit.com
 interact.f5.com
 f9pennsy3glvkm6ania.com
 ww1.fabrioptica-fabricadeoculos.com
-ww11.fabrioptica-fabricadeoculos.com
-ww25.fabrioptica-fabricadeoculos.com
 fabswingerd.com
 facebooktown.com
 faceeboc.com
@@ -16541,8 +16500,6 @@ facilitategrandfather.com
 ww1.facilpa.com
 ww11.facilpa.com
 ww38.facilpa.com
-ww11.facmood.com
-ww16.facmood.com
 fadedprofit.com
 fadedsnow.com
 fadxpyacboc.com
@@ -16657,7 +16614,6 @@ findsynology.com
 record.findtrustclicks.com
 findyourcasino.com
 fingereach.com
-analytics.dashboard.fingerprint.com
 fingersgames.com
 fiowertucci.com
 fipinocupid.com
@@ -16922,7 +16878,6 @@ fraagesport.com
 fractionalmedia.com
 frailoffer.com
 francelibertine.com
-ww16.francorioimobiliaria.com
 franklypitas.com
 franksgunshop.com
 franticcarpenter.com
@@ -17937,6 +17892,7 @@ galerie-blondel.com
 galerielectronik.com
 galleryofwives.com
 gam4free.com
+smtpauth.786.gamail.com
 gamblingsyndication.com
 game-advertising-online.com
 android-mobileairport.game-insight.com
@@ -18889,7 +18845,6 @@ gwnrecords.com
 gyanin.com
 ww16.gyermekfitness.com
 ww25.gyermekfitness.com
-ww38.gyermekfitness.com
 www.gyermekfitness.com
 gzxrong.com
 h-bid.com
@@ -19113,7 +19068,8 @@ hifrases.com
 high-savings.com
 highcpmrevenuenetwork.com
 highfalutinroom.com
-ww1.highpotentionalssociety.com
+ww25.ww1.highpotentionalssociety.com
+www.ww1.highpotentionalssociety.com
 ww25.highpotentionalssociety.com
 hightrafficads.com
 hilariouszinc.com
@@ -19809,7 +19765,6 @@ starget.intel.com
 www91.intel.com
 intelliads.com
 intelligenceadx.com
-intellitxt.com
 intelsad.com
 intentiq.com
 interactvereporting.com
@@ -20119,7 +20074,6 @@ use.jared-don.com
 jasperlabs.com
 jastats.com
 jasuq.com
-ww11.javafull.com
 javpron.com
 jazmincam.com
 jbcycles.com
@@ -24127,7 +24081,6 @@ status.mixpanel.com
 switchboard.mixpanel.com
 www.mixpanel.com
 mixpo.com
-ww1.mixyourtunes.com
 direct.miyoutube.com
 pbrand.miyoutube.com
 poczta.miyoutube.com
@@ -37224,8 +37177,6 @@ mysticalladyselegantgifts.com
 mystlyle.com
 mystts.com
 myteryshopreports.com
-ww25.myverizin.com
-ww31.myverizin.com
 ww38.myverizin.com
 myvirecard.com
 myxerfreeringtones.com
@@ -38162,11 +38113,6 @@ ww25.notasuitablelink.com
 nothingunit.com
 notifications-update.com
 notnewhiphop.com
-mail.notting-hill-photography-club.com
-mail2.notting-hill-photography-club.com
-mail9.notting-hill-photography-club.com
-mx7.notting-hill-photography-club.com
-ww11.notting-hill-photography-club.com
 ww16.notting-hill-photography-club.com
 www.notting-hill-photography-club.com
 nouison.com
@@ -38176,7 +38122,6 @@ www.novynha.com
 noworneverrecords.com
 nowspots.com
 ad.nozonedata.com
-md-test-prod.npttech.com
 test.npttech.com
 nrg-research.com
 ns1google.com
@@ -43833,7 +43778,6 @@ playwhe.com
 playziz.com
 pleasantpump.com
 ww25.pleejee.com
-www.pleejee.com
 plentyofosh.com
 se5.pliing.com
 plista.com
@@ -44596,7 +44540,6 @@ segment-cdn.producthunt.com
 proext.com
 profero.com
 professionalteethcleaning.com
-ww16.profil-moker.com
 ww25.profil-moker.com
 profitredirect-us.com
 profitrumour.com
@@ -44851,7 +44794,6 @@ quacksquirrel.com
 quaintcan.com
 qualaroo.com
 ww11.qualitbest.com
-ww16.qualitbest.com
 ww25.qualitbest.com
 aba.qualtrics.com
 abinbevprocurement.qualtrics.com
@@ -47242,6 +47184,7 @@ capture-api.reachlocalservices.com
 reactx.com
 readgoldfish.com
 readingguilt.com
+readingopera.com
 readymoon.com
 www.readysetglow.com
 realcastmedia.com
@@ -51485,7 +51428,6 @@ sb-inv1.com
 sbfsdvc.com
 sbobetv.com
 adserver.scannantivirincnew.com
-ww11.scannantivirincnew.com
 www.scannantivirincnew.com
 scanscout.com
 scarabresearch.com
@@ -52005,7 +51947,6 @@ shady45.com
 mail.shaferglazer.com
 shahidnet.com
 shairmarket.com
-ww5.shakeelabiz.com
 shakegoldfish.com
 shakesuggestion.com
 shakyseat.com
@@ -52939,7 +52880,6 @@ web.sojern.com
 www.sojern.com
 sokkkhhuaraa.com
 www.solanodrivein.com
-ww25.solariskino.com
 solocpm.com
 solofmexico.com
 solopum.com
@@ -54015,7 +53955,6 @@ ww38.sulancanews.com
 www.sulancanews.com
 sulkybutter.com
 sulkycook.com
-www.sumberdayaprimaindonesia.com
 summerobject.com
 summervilleseniorliving.com
 affiliate.sumo.com
@@ -54773,7 +54712,6 @@ tendertest.com
 tenjin.com
 sp.tennessean.com
 srepdata.tennessean.com
-ww25.tenshipproductions.com
 ww1.tentations-intimes.com
 ww16.tentations-intimes.com
 ww25.tentations-intimes.com
@@ -55115,7 +55053,6 @@ topsir.com
 topssneakers.com
 topstats.com
 ww1.topvotedvideos.com
-www.topvotedvideos.com
 topwheels-belgium.com
 toqofa.com
 toreentsmd.com
@@ -55163,7 +55100,6 @@ toyotafinincial.com
 toyotanissan.com
 toyotaofbrandon.com
 toyotarv.com
-ww25.toysfreaktokopediacom.com
 tpbid.com
 tpcserve.com
 tpctrust.com
@@ -57640,10 +57576,8 @@ webseoanalytics.com
 ssl.webserviceaward.com
 engage.webshrinker.com
 ww11.websimpik.com
-ww16.websimpik.com
 ww25.websimpik.com
 ww38.websimpik.com
-www.websimpik.com
 ads.websiteservices.com
 websmsonline.com
 webspectator.com
@@ -59142,7 +59076,6 @@ readmo.yahoo.com
 edge-mcdn-beacon.secure.yahoo.com
 ssp.yahoo.com
 bats.video.yahoo.com
-visit.webhosting.yahoo.com
 ads.yap.yahoo.com
 m.yap.yahoo.com
 bid-global.ybp.yahoo.com
@@ -61062,6 +60995,29 @@ www.adidasspringblade2.info
 aditech.info
 adm-vids.info
 advertisers.info
+aelf.aerjournal.info
+belgique.aerjournal.info
+bruciare.aerjournal.info
+donna.aerjournal.info
+dta.aerjournal.info
+eng.aerjournal.info
+ftx.aerjournal.info
+giorno.aerjournal.info
+inferiore.aerjournal.info
+jnt.aerjournal.info
+making.aerjournal.info
+mbl.aerjournal.info
+militari.aerjournal.info
+question.aerjournal.info
+some.aerjournal.info
+thee.aerjournal.info
+tix.aerjournal.info
+told.aerjournal.info
+trees.aerjournal.info
+vbk.aerjournal.info
+via.aerjournal.info
+watch.aerjournal.info
+wgp.aerjournal.info
 afreeurl.info
 africanlegends.info
 aftereffectvn.info
@@ -61739,8 +61695,6 @@ ww1.charleroi.info
 ww25.charleroi.info
 www.charleroi.info
 www.chavara.info
-ww1.checkcode.info
-www.checkcode.info
 checkip.info
 www.chemia-gimnazjum.info
 chequamegonbay.info
@@ -62807,7 +62761,6 @@ luoli.info
 luvita.info
 luxfilm.info
 ww25.m4yfree.info
-ww38.m4yfree.info
 bloc.mabosch.info
 cpcalendars.mabosch.info
 cpcontacts.mabosch.info
@@ -62993,6 +62946,7 @@ ww38.molnii.info
 www.molnii.info
 momonoyu.info
 moncherie.info
+monngonmoingay.info
 monroviatrustlaw.info
 www.monstersat.info
 montavilla.info
@@ -63092,6 +63046,7 @@ ww17.mytours.info
 ww38.mytours.info
 www.mytours.info
 naasongss.info
+nabcd.info
 nabimuhammad.info
 nadie007.info
 nagamochi.info
@@ -63530,7 +63485,6 @@ ww25.proxysmart.info
 ww38.proxysmart.info
 www.proxysmart.info
 zappos.proxysmart.info
-ww25.przechowalnia.info
 auth.psylocke.info
 barracuda.psylocke.info
 box.psylocke.info
@@ -63678,9 +63632,6 @@ ww25.register-expert-news-24h.info
 ww38.register-expert-news-24h.info
 www.register-expert-news-24h.info
 register-news-24h.info
-ww1.rehmanov.info
-ww17.rehmanov.info
-ww38.rehmanov.info
 reisu.info
 id.renktir.info
 ka.renktir.info
@@ -80439,7 +80390,6 @@ relay.bubbas-diner.net
 secure.bubbas-diner.net
 server2.bubbas-diner.net
 smtpauth.bubbas-diner.net
-ww1.bubbas-diner.net
 ww11.bubbas-diner.net
 ww16.bubbas-diner.net
 ww25.bubbas-diner.net
@@ -100569,7 +100519,6 @@ service.maxymiser.net
 staging.maxymiser.net
 maybethis.net
 media.net
-media-servers.net
 mediabong.net
 utils.mediageneral.net
 meetrics.net
@@ -106696,7 +106645,6 @@ r8i09.amcaotc.org
 rbxnq.amcaotc.org
 rffbp.amcaotc.org
 sbe1k.amcaotc.org
-shopper.amcaotc.org
 t4hcy.amcaotc.org
 ugu06.amcaotc.org
 wp6kw.amcaotc.org
@@ -107966,55 +107914,7 @@ memberclicks.org
 memebase.org
 men-deps.org
 men-dob.org
-antispam.menci.org
-auth.menci.org
-barracuda.menci.org
-box.menci.org
-gate.menci.org
-gateway.menci.org
-hermes.menci.org
-host.menci.org
-mail.menci.org
-mail02.menci.org
-mail10.menci.org
-mail12.menci.org
-mail2.menci.org
-mail4.menci.org
-mailapp.menci.org
-mailgate.menci.org
-mailhost.menci.org
-mailrelay.menci.org
-mails.menci.org
-mailsrv.menci.org
-mailx.menci.org
-ms1.menci.org
-mx.menci.org
-mx0.menci.org
-mx10.menci.org
-mx20.menci.org
-mx3.menci.org
-mx4.menci.org
-mx5.menci.org
-newmail.menci.org
-ns1.menci.org
-out.menci.org
-poczta.menci.org
-pop.menci.org
-posta.menci.org
-postmaster.menci.org
-relay.menci.org
-root.menci.org
-server.menci.org
-server2.menci.org
-smtpauth.menci.org
-smtpseguro.menci.org
-srv.menci.org
-ssl.menci.org
-vps.menci.org
-ww16.menci.org
 ww17.menci.org
-ww25.menci.org
-ww38.menci.org
 www.menci.org
 mentorschool.org
 metano.org
@@ -108282,13 +108182,7 @@ openstreetmao.org
 opensubtites.org
 ads.opensubtitles.org
 opensubtittles.org
-mta-sts.operationcavalierrescue.org
-sitemap.operationcavalierrescue.org
-sitemaps.operationcavalierrescue.org
-staging.operationcavalierrescue.org
-test.operationcavalierrescue.org
 ww16.operationcavalierrescue.org
-www.operationcavalierrescue.org
 opestreetmap.org
 oraesatta.org
 orbotech.org
@@ -109546,6 +109440,7 @@ zorgzaam.org
 zoter.org
 zotera.org
 zsazsagabor.org
+zvido.org
 hide.ovh
 wheredoyoucomefrom.ovh
 100-degrees-consulting.ck.page
