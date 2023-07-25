@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336525
+# Ignored duplicates: 336593
 
 chameleon.ad
 pixel.ad
@@ -1869,6 +1869,7 @@ staging.datadome.co
 static.datadome.co
 status.datadome.co
 subscriptions.datadome.co
+test-fpjs.datadome.co
 tooling.datadome.co
 tr.datadome.co
 validate-first-party-js.datadome.co
@@ -2295,8 +2296,6 @@ ads.4tube.com
 50websads.com
 59fifty.com
 ww1.5legeat.com
-ww38.5legeat.com
-www.5legeat.com
 622lq.com
 65daiguo.com
 69pcrepair.com
@@ -3445,7 +3444,6 @@ unad.adkmob.com
 unconf.adkmob.com
 unrcv.adkmob.com
 www.adkmob.com
-cdnv2.adledge.com
 comnda.adledge.com
 correo.adledge.com
 display.adledge.com
@@ -3470,7 +3468,6 @@ mx5.adledge.com
 newmail.adledge.com
 ns.adledge.com
 ras.adledge.com
-rd2.adledge.com
 server1.adledge.com
 stg.adledge.com
 subtitulito.adledge.com
@@ -3478,7 +3475,6 @@ sz.adledge.com
 tor.adledge.com
 v2.adledge.com
 www.adledge.com
-xn--nda-1da.adledge.com
 zmail.adledge.com
 adlegend.com
 cdn.adligature.com
@@ -4460,7 +4456,6 @@ expressllc-mkt-prod1-t.campaign.adobe.com
 fanone.campaign.adobe.com
 fanone-mkt-prod1.campaign.adobe.com
 fanone-mkt-prod1-1.campaign.adobe.com
-fanone-mkt-prod4.campaign.adobe.com
 fanone-mkt-prod8-lb.campaign.adobe.com
 fastretailing.campaign.adobe.com
 fastretailing-mkt-prod1-lb.campaign.adobe.com
@@ -6343,6 +6338,7 @@ at-adserver.alltop.com
 alluringbucket.com
 mail.almaarefqatar.com
 ww16.almaarefqatar.com
+ww38.almaarefqatar.com
 www.almaarefqatar.com
 almasryalyuom.com
 almasyalyoum.com
@@ -6994,7 +6990,6 @@ ads.annonsbladet.com
 annoyedairport.com
 annoyingacoustics.com
 ww11.anpurnapost.com
-ww25.anpurnapost.com
 ww38.anpurnapost.com
 anstrex.com
 answermedia.com
@@ -8134,8 +8129,6 @@ bellsouthmail.com
 bellsoutrh.com
 dist.belnk.com
 belstat.com
-mvideo.beltsios-skiathos.com
-www.beltsios-skiathos.com
 bemidjioutdoorpowerequipment.com
 benedictsingleton.com
 benefitsincard.com
@@ -8574,11 +8567,10 @@ web.boldchat.com
 web-beta.boldchat.com
 ws.boldchat.com
 www.boldchat.com
-bad.dns.bombattbojana.com
+test.bad.dns.bombattbojana.com
 ww11.bombattbojana.com
 ww16.bombattbojana.com
 ww25.bombattbojana.com
-www.bombattbojana.com
 ww11.bombome.com
 ww25.bombome.com
 ww38.bombome.com
@@ -8619,7 +8611,7 @@ bowflec.com
 boxheadzombiewar.com
 boxingfight.com
 boxingfights.com
-ww25.m.boyfrienstv.com
+m.boyfrienstv.com
 ww25.boyfrienstv.com
 ww38.boyfrienstv.com
 ww25.wwww.boyfrienstv.com
@@ -9720,7 +9712,8 @@ clrstm.com
 clubcarslon.com
 cluberiosul.com
 clubfemme.com
-clubnitendo.com
+ww1.clubnitendo.com
+ww25.clubnitendo.com
 clubpingoin.com
 ww1.clubscientificchesapeake.com
 ww11.clubscientificchesapeake.com
@@ -10765,7 +10758,6 @@ sitemap.davisheritage.com
 wlamazcsrv1.davisheritage.com
 ww1.davisheritage.com
 ww4.davisheritage.com
-www.davisheritage.com
 daylightmotorsinc.com
 daysinnbakersfieldca.com
 commercial.daznservices.com
@@ -17793,18 +17785,49 @@ galerielectronik.com
 galleryofwives.com
 gam4free.com
 smtpauth.068.gamail.com
+1234.gamail.com
 vip.13.gamail.com
+16.gamail.com
+autoconfig.3614.gamail.com
+autodiscover.3614.gamail.com
+6624.gamail.com
+6693.gamail.com
 autodiscover.7.gamail.com
 smtpauth.786.gamail.com
 citrix.888.gamail.com
+access.gamail.com
+accesso.gamail.com
 inacia.alvaventures.gamail.com
 authsmtp.gamail.com
+caixapostal.gamail.com
+citrix.gamail.com
+correio.gamail.com
+email.facebook.gamail.com
+gw.facebook.gamail.com
+mail.facebook.gamail.com
+mx02.facebook.gamail.com
+mx2.facebook.gamail.com
+mx7.facebook.gamail.com
 smtpauth.facebook.gamail.com
 smtpmail.facebook.gamail.com
+ka.gamail.com
+kerrdweb.gamail.com
+lev.gamail.com
+https.mail.gamail.com
+mailmetnet.gamail.com
 mlbcrp.mwsip.gamail.com
+nhlasi.gamail.com
 ns2.gamail.com
+office.gamail.com
+postur.gamail.com
+promail.gamail.com
 pvparte.gamail.com
+rdp.gamail.com
+rds.gamail.com
+rdweb.gamail.com
 smtpauth.rhdcf.gamail.com
+saintnoodle.gamail.com
+smtp-in.gamail.com
 srv.gamail.com
 direct.vikasbhargava.gamail.com
 eml.vikasbhargava.gamail.com
@@ -21714,7 +21737,6 @@ telemetry.malwarebytes.com
 mamatian.com
 mamoru-credit.com
 ww16.mamzellenikam.com
-ww25.mamzellenikam.com
 mail.manage.com
 manchesterdomain.com
 www.manga-news.com
@@ -36963,6 +36985,7 @@ mydiscoverdard.com
 myeloma-info.com
 ww25.myerizon.com
 ww31.myerizon.com
+ww38.myerizon.com
 myesaytv.com
 myevecondo.com
 myexnude.com
@@ -43215,6 +43238,8 @@ peer39.com
 cobrowse.pega.com
 pegnya.com
 peixerbano.com
+wlamazcsrv1.peixonauta.com
+ww11.peixonauta.com
 ww25.peixonauta.com
 ww38.peixonauta.com
 peliculasxxxflv.com
@@ -50494,7 +50519,6 @@ www.rollbar.com
 wwww.rollbar.com
 romaniauralent.com
 rontar.com
-www.roomstogobaby.com
 roosterfirework.com
 ww1.rosa-rosa.com
 www.rosa-rosa.com
@@ -51138,7 +51162,6 @@ xpu.samsungelectronics.com
 ypu.samsungelectronics.com
 zpu.samsungelectronics.com
 samsungpromociones.com
-ww16.samsungsmartphones.com
 sandipsandhu.com
 sandykruise.com
 sanews.com
@@ -52522,7 +52545,7 @@ ww25.sneakercafe.com
 www.sneakercafe.com
 sneakernewa.com
 sneakersisverige.com
-bad.dns.snezhinskiy.com
+test.bad.dns.snezhinskiy.com
 ww25.snezhinskiy.com
 assets.sni-dat.com
 code.adsales.snidigital.com
@@ -53235,8 +53258,6 @@ barracuda.standardcharetred.com
 box.standardcharetred.com
 com.standardcharetred.com
 comune.standardcharetred.com
-correo.standardcharetred.com
-gate.standardcharetred.com
 gateway.standardcharetred.com
 gdc.standardcharetred.com
 gw.standardcharetred.com
@@ -53282,7 +53303,6 @@ post.standardcharetred.com
 posta.standardcharetred.com
 postmaster.standardcharetred.com
 relay1.standardcharetred.com
-relay2.standardcharetred.com
 seed.standardcharetred.com
 server.standardcharetred.com
 server2.standardcharetred.com
@@ -53293,7 +53313,6 @@ sniper.standardcharetred.com
 thor.standardcharetred.com
 tiger.standardcharetred.com
 tw.standardcharetred.com
-vmail.standardcharetred.com
 www.standardcharetred.com
 zimbra.standardcharetred.com
 zmail.standardcharetred.com
@@ -53699,6 +53718,8 @@ studiorso.com
 stupendoussleet.com
 stupendoussnow.com
 stvvv.com
+host.styledeluxe.com
+mailrelay.styledeluxe.com
 ww16.styledeluxe.com
 ww38.styledeluxe.com
 www.styledeluxe.com
@@ -53729,7 +53750,6 @@ suhacuc.com
 suite6ixty6ix.com
 ww11.sulancanews.com
 ww38.sulancanews.com
-www.sulancanews.com
 sulkybutter.com
 sulkycook.com
 summerobject.com
@@ -57174,6 +57194,7 @@ wanogqaznt.com
 wansl.com
 staging.waptirck.com
 ww.waptirck.com
+ww1.waptirck.com
 www.waptirck.com
 waptrink.com
 warl-mart.com
@@ -59469,7 +59490,6 @@ wapo-analytics.zeustechnology.com
 analytics.zg-api.com
 e.zg-api.com
 ww11.zidobroad.com
-ww25.zidobroad.com
 li.ziffimages.com
 cdn.ziffstatic.com
 keystone.zillow.com
@@ -60726,6 +60746,7 @@ www.adidasspringblade2.info
 aditech.info
 adm-vids.info
 advertisers.info
+adh.aerjournal.info
 aelf.aerjournal.info
 bcn.aerjournal.info
 belgique.aerjournal.info
@@ -62517,7 +62538,6 @@ lucypindergallery.info
 luoli.info
 luvita.info
 luxfilm.info
-ww25.m4yfree.info
 bloc.mabosch.info
 cpcalendars.mabosch.info
 cpcontacts.mabosch.info
@@ -62652,7 +62672,6 @@ www.mimino.info
 mindsweeper.info
 ns.mine-server.info
 ww25.wikileaks.mine-server.info
-ww1.mine-server.info
 ww17.mine-server.info
 ww25.mine-server.info
 ww38.mine-server.info
@@ -62909,11 +62928,8 @@ nxnn.info
 www.nyanko.info
 nycc.info
 nzpersonals.info
-dc-c2913cf21be3.obatnya.info
 mail.obatnya.info
 webdisk.obatnya.info
-ww1.obatnya.info
-ww25.obatnya.info
 www.obatnya.info
 antispam.ofcpage.info
 auth.ofcpage.info
@@ -62969,18 +62985,13 @@ only-soft.info
 onlymature.info
 onthespot.info
 ar.onzeweb.info
-ww38.blog-perso.onzeweb.info
-cs.onzeweb.info
 da.onzeweb.info
 de.onzeweb.info
-el.onzeweb.info
-fi.onzeweb.info
 he.onzeweb.info
 hr.onzeweb.info
 hu.onzeweb.info
 id.onzeweb.info
 it.onzeweb.info
-ja.onzeweb.info
 ko.onzeweb.info
 ww1.lehamstermasque.onzeweb.info
 ww16.lehamstermasque.onzeweb.info
@@ -62990,10 +63001,7 @@ pl.onzeweb.info
 pt.onzeweb.info
 ta.onzeweb.info
 th.onzeweb.info
-tl.onzeweb.info
 vi.onzeweb.info
-ww11.onzeweb.info
-ww38.onzeweb.info
 zh.onzeweb.info
 optymalni.info
 organizationalmarket.info
@@ -80121,7 +80129,6 @@ browse.net
 btglss.net
 mail.bubbas-diner.net
 ww11.bubbas-diner.net
-ww38.bubbas-diner.net
 acceptable.buysellads.net
 cdn-s2s.buysellads.net
 cdn4.buysellads.net
@@ -106323,34 +106330,12 @@ allseasonstravel.org
 lpweb.altervista.org
 alumniaid.org
 alzwalk.org
-0wgk5.amcaotc.org
 1rjp3.amcaotc.org
-21r6i.amcaotc.org
 2u2h.amcaotc.org
-6xr34.amcaotc.org
 7xk.amcaotc.org
-aadw8.amcaotc.org
-db8it.amcaotc.org
-dh1js.amcaotc.org
-f8k8j.amcaotc.org
-g0i5z.amcaotc.org
-h3ky9.amcaotc.org
-i0rsz.amcaotc.org
-jqidz.amcaotc.org
-mmmo8.amcaotc.org
-pmric.amcaotc.org
-r8i09.amcaotc.org
-t4hcy.amcaotc.org
-ugu06.amcaotc.org
 ww1.amcaotc.org
-ww17.amcaotc.org
-ww25.amcaotc.org
 ww38.amcaotc.org
-wx85a.amcaotc.org
 x9ik.amcaotc.org
-xgo7b.amcaotc.org
-y11et.amcaotc.org
-yhrpf.amcaotc.org
 americancruises.org
 americanrelief.org
 americanthinker.org
