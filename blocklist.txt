@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336848
+# Ignored duplicates: 336904
 
 chameleon.ad
 pixel.ad
@@ -2896,7 +2896,6 @@ maltiverse.lt.acemlnc.com
 acesshollywood.com
 acexedge.com
 acgirls.com
-www.acidentesdemoto.com
 tags.acmeaom.com
 acquests.com
 lift.acquia.com
@@ -6789,7 +6788,6 @@ ambra.com
 ambroseshoemaker.com
 ambtraders.com
 mms.amc.com
-ww25.amcvote.com
 www.amcvote.com
 amdaws.com
 amdgt.com
@@ -10722,7 +10720,6 @@ daviedmovie.com
 ww5.davischevy.com
 www.davischevy.com
 sitemap.davisheritage.com
-ww4.davisheritage.com
 daylightmotorsinc.com
 daysinnbakersfieldca.com
 commercial.daznservices.com
@@ -15844,7 +15841,6 @@ ads.economist.com
 ecorebates.com
 ecoupons.com
 ww25.ecuadoninio.com
-www.ecuadoninio.com
 ecylight.com
 ww11.edddiebauwer.com
 ww16.edddiebauwer.com
@@ -17769,11 +17765,12 @@ authsmtp.05.gamail.com
 068.gamail.com
 077.gamail.com
 autodiscover.0786.gamail.com
-smtpauth.08.gamail.com
+08.gamail.com
 0810.gamail.com
 111.gamail.com
 1123.gamail.com
 autodiscover.123.gamail.com
+smtpauth.123.gamail.com
 1234.gamail.com
 13.gamail.com
 16.gamail.com
@@ -17829,7 +17826,7 @@ smtpauth.508.gamail.com
 64.gamail.com
 6624.gamail.com
 6693.gamail.com
-smtpauth.689.gamail.com
+689.gamail.com
 7.gamail.com
 70.gamail.com
 autodiscover.718.gamail.com
@@ -17942,6 +17939,7 @@ materdei.gamail.com
 mckenzie.gamail.com
 memani.gamail.com
 mihailova.gamail.com
+mtn.gamail.com
 musicalhouse.gamail.com
 mwsip.gamail.com
 mx.gamail.com
@@ -18182,7 +18180,7 @@ getwetvidoes.com
 metrics.gfycat.com
 px.gfycat.com
 ghanamotoin.com
-www.ghananations.com
+ghananations.com
 ghanantion.com
 mail.ghmproperties.com
 giagoc.com
@@ -18776,7 +18774,6 @@ www.googletagservices.com
 googletrad.com
 googlevedio.com
 googlrearth.com
-googlyoutube.com
 googm.com
 googolel.com
 gookl.com
@@ -19324,7 +19321,6 @@ housesforren.com
 housesforsaleinfortworth.com
 houstonoilers.com
 how-to-copy-and-paste.com
-howardjohnsonhotelorlando.com
 howmarketworks.com
 howtolearntarot.com
 howtomeetaguy.com
@@ -20124,7 +20120,6 @@ americansforprosperity.ivolunteers.com
 ivykiosk.com
 rose.ixbt.com
 iyfnzgb.com
-iyyotube.com
 izooto.com
 j93557g.com
 jabardasti.com
@@ -21666,7 +21661,6 @@ lookbookhq.com
 lookfanstastic.com
 lookout2000.com
 evs.sgmt.loom.com
-www.looneylane.com
 loopme.com
 loopmertb.com
 lootsie.com
@@ -23059,6 +23053,8 @@ tracker.metricswave.com
 metrigo.com
 metrilo.com
 mettajetovimuti.com
+www.ww35.meuporno.com
+www.meuporno.com
 mfadsrvr.com
 mg2connext.com
 mgid.com
@@ -41668,7 +41664,6 @@ secureimap.openfansite.com
 securemail.openfansite.com
 securepop.openfansite.com
 smtpauth.openfansite.com
-thissubdomainshouldnotexist.openfansite.com
 openx.com
 buyer.openxadexchange.com
 jp-buyer.openxadexchange.com
@@ -47304,6 +47299,8 @@ readgoldfish.com
 readingguilt.com
 readingopera.com
 readymoon.com
+ww16.readysetglow.com
+ww25.readysetglow.com
 www.readysetglow.com
 realcastmedia.com
 realclever.com
@@ -55394,7 +55391,6 @@ ns1.tsinf.com
 out.tsinf.com
 pop.tsinf.com
 root.tsinf.com
-ww25.tsinf.com
 tsyndicate.com
 ttehun.com
 ttoc8ok.com
@@ -56608,7 +56604,6 @@ rtb7.vertamedia.com
 s.vertamedia.com
 static.vertamedia.com
 sync.vertamedia.com
-verticalmass.com
 ads.verticalresponse.com
 verve.com
 vervemobile.com
@@ -57331,7 +57326,6 @@ email.wakanetwork.com
 home.wakanetwork.com
 imap1.wakanetwork.com
 imap2.wakanetwork.com
-mail.wakanetwork.com
 mail1.wakanetwork.com
 mail2.wakanetwork.com
 mail3.wakanetwork.com
@@ -57373,8 +57367,6 @@ sniper.wakanetwork.com
 srv.wakanetwork.com
 t.wakanetwork.com
 ww1.wakanetwork.com
-ww17.wakanetwork.com
-ww25.wakanetwork.com
 www.wakanetwork.com
 www1.wakanetwork.com
 zmail.wakanetwork.com
@@ -57872,17 +57864,14 @@ analytics.wozbtc.com
 backoffice.wozbtc.com
 bot.wozbtc.com
 cloud.wozbtc.com
-dan.wozbtc.com
 dev.wozbtc.com
 dev1.wozbtc.com
 game.wozbtc.com
 lms.wozbtc.com
 magento.wozbtc.com
-old.wozbtc.com
 prod.wozbtc.com
 shop.wozbtc.com
 stage.wozbtc.com
-staging.wozbtc.com
 test.wozbtc.com
 w1.wozbtc.com
 ws.wozbtc.com
@@ -59502,7 +59491,6 @@ youtubecreators.com
 ww11.youtubeeee.com
 ww25.youtubeeee.com
 ww31.youtubeeee.com
-ww38.youtubeeee.com
 youtubefreeporn.com
 youtubegetmusicsoft.com
 youtubegmail.com
@@ -60590,7 +60578,6 @@ xn--9dbnfg.co.il
 xn--9dbq2a.co.il
 xn--cebti.co.il
 xn--debbbfn2ef.co.il
-xn--debcwca9ad.co.il
 xn--eebdz.co.il
 xn--eebikd0a.co.il
 xn--febdf.co.il
@@ -60784,7 +60771,6 @@ ww38.5movies.info
 www1.5movies.info
 6630.info
 ww1.69love.info
-ww25.69love.info
 69postix.info
 7494568.info
 7hari.info
@@ -62395,7 +62381,6 @@ highusa.info
 hillwoodhome.info
 hinterglemm.info
 hinterstoder.info
-hirklikk.info
 ww1.hitcrick.info
 ww11.hitcrick.info
 ww25.hitcrick.info
@@ -62512,7 +62497,11 @@ kattankudi.info
 kaunertal.info
 kbbi.info
 kbuj.info
+netizen.kbuzz.info
 ww1.kbuzz.info
+ww11.kbuzz.info
+ww17.kbuzz.info
+ww38.kbuzz.info
 www.kbuzz.info
 keliauk.info
 kenh14.info
@@ -62601,7 +62590,6 @@ leber-galle.info
 lech.info
 legfrissebb.info
 legislatives.info
-leiji7.info
 leonardoschool.info
 leopalace21.info
 www.lhmdaakl.info
@@ -63125,9 +63113,6 @@ ww25.ovni.info
 ww38.ovni.info
 www.ovni.info
 p108.info
-ccc1447.p69.info
-ww16.p69.info
-ww25.p69.info
 packettracer.info
 www.padnij.info
 paginapeliculasonline.info
@@ -63226,7 +63211,6 @@ mail.porno-chaman.info
 mvideo.porno-chaman.info
 ww1.porno-chaman.info
 ww16.porno-chaman.info
-ww17.porno-chaman.info
 ww25.porno-chaman.info
 www.porno-chaman.info
 pornobitx.info
@@ -64830,10 +64814,7 @@ www.youjjzz.info
 youjjzzwww.youjjzz.info
 zh.youjjzz.info
 static.youluckywinner.info
-ww1.youluckywinner.info
-ww17.youluckywinner.info
 ww25.youluckywinner.info
-www.youluckywinner.info
 your-account.info
 yourapps.info
 www.yourbestcity.info
@@ -72699,7 +72680,6 @@ t3ex3.app.link
 vogoplay.app.link
 yayalive.app.link
 cdtechbox.link
-www.doubler.link
 eqy.link
 johr.page.link
 kolw.page.link
@@ -79471,7 +79451,6 @@ e-9699-us-east-1.adzerk.net
 e-9701.adzerk.net
 e-9701-us-east-1.adzerk.net
 e-9703.adzerk.net
-e-9706.adzerk.net
 e-9706-us-east-1.adzerk.net
 e-9708.adzerk.net
 e-9708-us-east-1.adzerk.net
@@ -82779,7 +82758,6 @@ cosmeticsurgery247.net
 crazy-holiday.net
 criteo.net
 crwdcntrl.net
-ww35.cryptocoiners.net
 www.cryptocoiners.net
 coadvertise.cubecdn.net
 culterycorner.net
@@ -98062,7 +98040,6 @@ li.mw.drhinternet.net
 drillconsolidating.net
 ww1.drivelicense.net
 ww25.drivelicense.net
-www.drivelicense.net
 www1.drivelicense.net
 dslinstallationbellsouth.net
 dubiavisa.net
@@ -100373,7 +100350,6 @@ ww1.monmetier.net
 ww16.monmetier.net
 ww2.monmetier.net
 ww25.monmetier.net
-ww38.monmetier.net
 www.monmetier.net
 montclairsports.net
 moquta.net
@@ -101168,7 +101144,6 @@ pxchk.net
 pxsrv.net
 www.pyramisa.net
 wwww.qksrv.net
-questaffiliates.net
 raac33.net
 railtouring.net
 rallyad-server.net
@@ -101287,6 +101262,7 @@ uipapac.semasio.net
 uipau.semasio.net
 uipglob.semasio.net
 uipus.semasio.net
+vault.semasio.net
 semester.net
 accounts-stage.sendgrid.net
 agg0000p1mdw1.sendgrid.net
@@ -103691,7 +103667,6 @@ prometheus.general-prod-a.us-east-1.aws.k8s.sendgrid.net
 rts.general-prod-a.us-east-1.aws.k8s.sendgrid.net
 alertmanager.general-stage-a.us-east-1.aws.k8s.sendgrid.net
 blackbox.general-stage-a.us-east-1.aws.k8s.sendgrid.net
-holocron-api.general-stage-a.us-east-1.aws.k8s.sendgrid.net
 prometheus.general-stage-a.us-east-1.aws.k8s.sendgrid.net
 rts.general-stage-a.us-east-1.aws.k8s.sendgrid.net
 alertmanager.geopod-prod-a.us-east-1a.aws.k8s.sendgrid.net
@@ -106379,7 +106354,6 @@ zimbra.accumed.org
 acenet.org
 achorusline.org
 acrhive.org
-acrostic.org
 action-social.org
 actionfraud.org
 actionsenfance.org
@@ -108033,7 +108007,6 @@ philla.org
 phimgay.org
 phimhdonline.org
 phoenixcenterbhs.org
-ads.phpclasses.org
 engage.physicstoday.org
 pi-hole.org
 piedmonthenry.org
