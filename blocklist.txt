@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336904
+# Ignored duplicates: 336992
 
 chameleon.ad
 pixel.ad
@@ -2690,7 +2690,6 @@ ww16.acacemy.com
 ww25.acacemy.com
 ww38.acacemy.com
 www.acacemy.com
-ww1.academiccareers-jobs.com
 ww2.academiccareers-jobs.com
 www.academiccareers-jobs.com
 acashatusa.com
@@ -6038,7 +6037,6 @@ tracking.aegpresents.com
 aeoutfiters.com
 ww16.aerlingusair.com
 ww38.aerlingusair.com
-www.aerlingusair.com
 aeropoatal.com
 aerserv.com
 smetrics.aetn.com
@@ -6962,7 +6960,6 @@ angelsinuniform.com
 mediax.angloinfo.com
 mediaz.angloinfo.com
 anhguera.com
-ww16.anhonestboy.com
 animalattractionstv.com
 animporn.com
 aniview.com
@@ -7991,10 +7988,6 @@ baristand.com
 barnsleyloftandpigeon.com
 barrettcars.com
 barsabon.com
-gw.barserafina.com
-mailer.barserafina.com
-mx20.barserafina.com
-postmaster.barserafina.com
 ww11.barserafina.com
 ww25.barserafina.com
 baseballsave.com
@@ -8536,8 +8529,6 @@ web-beta.boldchat.com
 ws.boldchat.com
 www.boldchat.com
 ww11.bombattbojana.com
-ww16.bombattbojana.com
-ww25.bombattbojana.com
 ww11.bombome.com
 ww25.bombome.com
 ww38.bombome.com
@@ -8809,9 +8800,11 @@ ads.bumlam.com
 c.bumlam.com
 ci.bumlam.com
 crtrgt.bumlam.com
+crtrgt2.bumlam.com
 dsp-us.bumlam.com
 f-rtg2.bumlam.com
 frtrgt.bumlam.com
+frtrgt2.bumlam.com
 hub.bumlam.com
 log.bumlam.com
 log3.bumlam.com
@@ -8836,7 +8829,6 @@ burlengton.com
 burlingtonfactoryoutlet.com
 burrningcamel.com
 businessbells.com
-ww16.businessfinansial.com
 ww25.businessfinansial.com
 analytics.businessinsider.com
 coupons.businessinsider.com
@@ -9039,21 +9031,18 @@ s.sspqns.comwf.cbarsrv.com
 liveupdate.symantecliveupdate.comwf.cbarsrv.com
 sv.symcd.comwf.cbarsrv.com
 wfbssvc61.icrc.trendmicro.comwf.cbarsrv.com
-convhkmp.cbarsrv.com
 convlatbmp.cbarsrv.com
 convnjmp.cbarsrv.com
 convusmp.cbarsrv.com
 crus.cbarsrv.com
 eu.cbarsrv.com
 news.genapi.euwf.cbarsrv.com
-f.cbarsrv.com
 update.fiducial-informatique.fropps.cbarsrv.com
 www.azko.frwf.cbarsrv.com
 www.google.frwf.cbarsrv.com
 f16.silaexpert02.frwf.cbarsrv.com
 imprammp.cbarsrv.com
 impreump.cbarsrv.com
-imprnjmp.cbarsrv.com
 imprusmp.cbarsrv.com
 match.cbarsrv.com
 mprnjmp.cbarsrv.com
@@ -9194,6 +9183,7 @@ cedato.com
 cedexis.com
 ceebritycruises.com
 ww16.cefcostore.com
+www.cefcostore.com
 cehckdomain.com
 celebrityrehabvh1.com
 celebrus.com
@@ -9678,7 +9668,6 @@ clrstm.com
 clubcarslon.com
 cluberiosul.com
 clubfemme.com
-ww25.clubnitendo.com
 clubpingoin.com
 ww1.clubscientificchesapeake.com
 ww11.clubscientificchesapeake.com
@@ -9935,6 +9924,7 @@ assets-staging.connatix.com
 auth.connatix.com
 auth0.connatix.com
 capi-testing-tunnels.connatix.com
+capi-tier-1-eu-west-1.connatix.com
 capi-tier-1-us-east-2.connatix.com
 capi-tier-1-us-west-2.connatix.com
 capi-tier-2-us-east-2.connatix.com
@@ -10719,7 +10709,6 @@ www.davidmovi.com
 daviedmovie.com
 ww5.davischevy.com
 www.davischevy.com
-sitemap.davisheritage.com
 daylightmotorsinc.com
 daysinnbakersfieldca.com
 commercial.daznservices.com
@@ -11367,10 +11356,7 @@ disipapa.com
 disneiplatino.com
 disneneylatino.com
 disney2.com
-ww1.disneyagentesdeviaje.com
 ww16.disneyagentesdeviaje.com
-ww17.disneyagentesdeviaje.com
-ww25.disneyagentesdeviaje.com
 ww38.disneyagentesdeviaje.com
 www.disneyagentesdeviaje.com
 ww1.disneycarees.com
@@ -11399,7 +11385,6 @@ displayvertising.com
 hasoffers.disqus.com
 disqusads.com
 distributionneck.com
-ww25.distroyer.com
 ditymechanics.com
 divergentoffer.com
 divinelee.com
@@ -11450,6 +11435,7 @@ www.dns-analytics.com
 0xc004f014.dnset.com
 12983.dnset.com
 1700scass.dnset.com
+1ab2pm.dnset.com
 1securef.dnset.com
 1stpubgm.dnset.com
 1w3891.dnset.com
@@ -11614,6 +11600,7 @@ adminq.dnset.com
 adn.dnset.com
 adobeshare0hr.dnset.com
 adresdas.dnset.com
+adult-beyond.dnset.com
 adwqadsa.dnset.com
 afcu.dnset.com
 afsi.dnset.com
@@ -12668,6 +12655,7 @@ freeucskin.dnset.com
 freeucspin18.dnset.com
 frefdhgd.dnset.com
 frefdsssf.dnset.com
+frequent-frequently.dnset.com
 frerewardpugs19.dnset.com
 fridayguidevt.dnset.com
 frontal.dnset.com
@@ -12759,6 +12747,8 @@ goldars.dnset.com
 goomi.dnset.com
 gotcha.dnset.com
 au.gov.dnset.com
+il.gove.dnset.com
+au.govr.dnset.com
 gprewardspin18.dnset.com
 gqxns.dnset.com
 gr669u.dnset.com
@@ -12957,6 +12947,7 @@ jspinravens19.dnset.com
 juljap.dnset.com
 juytfuhjrhfg.dnset.com
 jvrsizgntk.dnset.com
+au.jxsa.dnset.com
 jyr5ethgfd.dnset.com
 jytfdsfs.dnset.com
 jytjfdgds.dnset.com
@@ -12973,6 +12964,7 @@ karakinspinrewad.dnset.com
 kart.dnset.com
 kaskoo.dnset.com
 katja.dnset.com
+kauderwelsch.dnset.com
 kdopwfsf.dnset.com
 kennethg.dnset.com
 kfreereward18.dnset.com
@@ -13683,6 +13675,7 @@ es.posma.dnset.com
 it.posma.dnset.com
 se.posma.dnset.com
 uk.posma.dnset.com
+post-qatar.dnset.com
 postdirect.dnset.com
 power.dnset.com
 powerlucky15.dnset.com
@@ -14138,6 +14131,8 @@ s7-pubgm.dnset.com
 saab.dnset.com
 sacvnfd.dnset.com
 sadqi.dnset.com
+sahamdj.dnset.com
+sahamsj.dnset.com
 sahavre.dnset.com
 saipsaipw.dnset.com
 doc.sal.dnset.com
@@ -14702,6 +14697,7 @@ synssl.dnset.com
 t959.dnset.com
 taipeifoodsites.dnset.com
 talrv.dnset.com
+tdn.dnset.com
 techflask.dnset.com
 teda-laukoetter.dnset.com
 tenzi.dnset.com
@@ -14888,6 +14884,7 @@ uzu2ekj.dnset.com
 v2h968x.dnset.com
 v3riifymytctiizen.dnset.com
 v50i21u.dnset.com
+vakajeam.dnset.com
 valerijad.dnset.com
 validate.dnset.com
 validatechaseonline.dnset.com
@@ -15574,6 +15571,7 @@ aw.dwin1.com
 aws.dwin1.com
 www.dwin1.com
 www.dwin2.com
+www.dwnyoutube.com
 suggest.dxpapi.com
 dynadmic.com
 dynamic-tracking.com
@@ -15843,7 +15841,6 @@ ecoupons.com
 ww25.ecuadoninio.com
 ecylight.com
 ww11.edddiebauwer.com
-ww16.edddiebauwer.com
 ww25.edddiebauwer.com
 ww38.edddiebauwer.com
 edeits.com
@@ -17760,11 +17757,11 @@ galerie-blondel.com
 galerielectronik.com
 galleryofwives.com
 gam4free.com
-authsmtp.05.gamail.com
+05.gamail.com
 06.gamail.com
 068.gamail.com
 077.gamail.com
-autodiscover.0786.gamail.com
+0786.gamail.com
 08.gamail.com
 0810.gamail.com
 111.gamail.com
@@ -17775,31 +17772,30 @@ smtpauth.123.gamail.com
 13.gamail.com
 16.gamail.com
 17.gamail.com
-auth.1704.gamail.com
-authsmtp.1704.gamail.com
-smtpauth.17faxe.gamail.com
+1704.gamail.com
+17faxe.gamail.com
 18.gamail.com
 18nuts.gamail.com
+19.gamail.com
 2.gamail.com
 20.gamail.com
-auth.2000.gamail.com
-authsmtp.2000.gamail.com
+2000.gamail.com
 2000pianon.gamail.com
 2002.gamail.com
 2006.gamail.com
-autodiscover.2010.gamail.com
+2010.gamail.com
 2015.gamail.com
 201704.gamail.com
 2018.gamail.com
 2019.gamail.com
 20204.gamail.com
-smtpauth.228.gamail.com
-smtpauth.2310.gamail.com
+228.gamail.com
+2310.gamail.com
 vip.249.gamail.com
-smtpauth.26.gamail.com
-smtpauth.27.gamail.com
+26.gamail.com
+27.gamail.com
 28.gamail.com
-smtpauth.29.gamail.com
+29.gamail.com
 299.gamail.com
 31031998.gamail.com
 349857.gamail.com
@@ -17810,11 +17806,9 @@ smtpauth.29.gamail.com
 42tr.gamail.com
 455.gamail.com
 467.gamail.com
-smtpauth.47171.gamail.com
+47171.gamail.com
 5.gamail.com
-auth.508.gamail.com
-authsmtp.508.gamail.com
-smtpauth.508.gamail.com
+508.gamail.com
 55.gamail.com
 555.gamail.com
 5567.gamail.com
@@ -17835,12 +17829,12 @@ autodiscover.718.gamail.com
 786.gamail.com
 806.gamail.com
 citrix.888.gamail.com
+91.gamail.com
 914.gamail.com
 99.gamail.com
-smtpauth.999.gamail.com
+999.gamail.com
 9a.gamail.com
-smtpauth.9gerbyk.gamail.com
-vip.9gerbyk.gamail.com
+9gerbyk.gamail.com
 a.gamail.com
 aam.gamail.com
 abogan.gamail.com
@@ -17850,25 +17844,22 @@ ahsa.gamail.com
 alexgames.gamail.com
 almeida.gamail.com
 alvaventures.gamail.com
-smtpauth.amin090904.gamail.com
-smtpauth.amin2205.gamail.com
+amin090904.gamail.com
+amin2205.gamail.com
 anaarauza.gamail.com
 andana.gamail.com
+aniqmail.gamail.com
 apple.gamail.com
 arasi.gamail.com
-kurt.arnold2005.gamail.com
+arnold2005.gamail.com
 aug29.gamail.com
 authsmtp.gamail.com
 autodiscover.gamail.com
 ballpowel2.gamail.com
 batalha.gamail.com
 bebe.gamail.com
-smtpauth.bensalem.gamail.com
-out.bk.gamail.com
-relay.bk.gamail.com
-smtpauth.bk.gamail.com
-smtpmail.bk.gamail.com
-smtps.bk.gamail.com
+bensalem.gamail.com
+bk.gamail.com
 body.gamail.com
 g.c.gamail.com
 caixapostal.gamail.com
@@ -17877,8 +17868,7 @@ cha.gamail.com
 chauhan.gamail.com
 citrix.gamail.com
 ciupkevicius.gamail.com
-google.com.gamail.com
-yahoo.com.gamail.com
+com.gamail.com
 correio.gamail.com
 correo.gamail.com
 correu.gamail.com
@@ -17889,7 +17879,10 @@ dedsrgwuw.gamail.com
 demirr.gamail.com
 email.gamail.com
 emine.gamail.com
+eposta.gamail.com
 ex02.gamail.com
+exch2016.gamail.com
+exchangecorp.gamail.com
 exchmail.gamail.com
 exmail2.gamail.com
 facebook.gamail.com
@@ -17901,6 +17894,7 @@ gianon.gamail.com
 autodiscover.gki.gamail.com
 glumov.gamail.com
 gogle.gamail.com
+goglen.gamail.com
 gwww.gamail.com
 h.gamail.com
 hajihoseini.gamail.com
@@ -17908,7 +17902,7 @@ hcamara.gamail.com
 hotmail.gamail.com
 hotmail1234.gamail.com
 hotmail2234.gamail.com
-smtpauth.hp.gamail.com
+hp.gamail.com
 i.gamail.com
 icloud.gamail.com
 ikka.gamail.com
@@ -17939,20 +17933,25 @@ materdei.gamail.com
 mckenzie.gamail.com
 memani.gamail.com
 mihailova.gamail.com
+mobile.gamail.com
+msexch2k13.gamail.com
 mtn.gamail.com
 musicalhouse.gamail.com
 mwsip.gamail.com
 mx.gamail.com
+mx001.gamail.com
 mx10.gamail.com
 mymail.gamail.com
 mywebmail.gamail.com
-smtpauth.naros.gamail.com
-smtpauth.nash.gamail.com
+naros.gamail.com
+nash.gamail.com
+newmail2013.gamail.com
 nhlasi.gamail.com
 nk.gamail.com
 ns2.gamail.com
-edomex.nuevaescuela.gamail.com
+nuevaescuela.gamail.com
 office.gamail.com
+ogrencieposta.gamail.com
 openpgpkey.gamail.com
 pianon.gamail.com
 pop.gamail.com
@@ -17976,7 +17975,9 @@ sincar.gamail.com
 sip.gamail.com
 sipexternal.gamail.com
 sipinternal.gamail.com
+smail.gamail.com
 smtp-in.gamail.com
+smtpa.gamail.com
 srv.gamail.com
 tembad.gamail.com
 tt.gamail.com
@@ -17986,6 +17987,8 @@ uvi.gamail.com
 valad.gamail.com
 vikasbhargava.gamail.com
 w.gamail.com
+webmail05.gamail.com
+webmail2013.gamail.com
 wm.gamail.com
 ww.gamail.com
 www.gamail.com
@@ -18977,7 +18980,6 @@ mediahuis-nieuwsblad.h-cdn.com
 nbcsports-bz.h-cdn.com
 perr.h-cdn.com
 player.h-cdn.com
-player2.h-cdn.com
 polsatmedia-polsatnews-bz.h-cdn.com
 ringier-ch-bz.h-cdn.com
 ve-cdn.h-cdn.com
@@ -19155,6 +19157,7 @@ mcc.hextom.com
 qab.hextom.com
 usb.hextom.com
 assets.heylink.com
+tag.heylink.com
 heyzap.com
 hf5rbejvpwds.com
 hfc195b.com
@@ -19407,11 +19410,9 @@ adservices.hulu.com
 adtools.hulu.com
 adtrack.hulu.com
 advertising.hulu.com
-doppler.hulu.com
 iad.hulu.com
 metcon.hulu.com
 t2.hulu.com
-vortex.hulu.com
 huluim.com
 humanadecisions.com
 humanainc.com
@@ -37360,6 +37361,7 @@ mysticalladyselegantgifts.com
 mystlyle.com
 mystts.com
 myteryshopreports.com
+ww25.myverizin.com
 ww38.myverizin.com
 myvirecard.com
 myxerfreeringtones.com
@@ -51746,8 +51748,6 @@ ww16.sedna-aca.com
 www.sedna-aca.com
 sedoparking.com
 sedotracker.com
-ww25.sedutivebabe.com
-ww35.sedutivebabe.com
 seedpearl.com
 seedtag.com
 seently.com
@@ -53417,7 +53417,6 @@ ww1.spriceline.com
 www.spriceline.com
 springaftermath.com
 springbot.com
-ww16.springhillbulbs.com
 ww25.springhillbulbs.com
 www.springhillbulbs.com
 springserve.com
@@ -53522,7 +53521,6 @@ stakingslope.com
 stakingsmile.com
 stalesummer.com
 stameco.com
-ocp.standardcharetred.com
 www.standardcharetred.com
 standingnest.com
 stapleasadvantage.com
@@ -55568,7 +55566,6 @@ twinrdsrv.com
 twinsrecreation.com
 adserver.twitpic.com
 ww16.twitqi.com
-www.twitqi.com
 twittad.com
 ads-api.twitter.com
 ads-bidder-api.twitter.com
@@ -59488,7 +59485,6 @@ ads.youtube.com
 youtubebuddy.com
 youtubeco.com
 youtubecreators.com
-ww11.youtubeeee.com
 ww25.youtubeeee.com
 ww31.youtubeeee.com
 youtubefreeporn.com
@@ -62006,8 +62002,6 @@ www.etain.info
 etarin.info
 ethanfletcher.info
 ww16.euro-news.info
-ww25.euro-news.info
-ww38.euro-news.info
 www.euro-news.info
 eurocardsharing.info
 eventsco.info
@@ -62054,6 +62048,7 @@ fasan.info
 fatorfiction.info
 fazu.info
 fcsite.info
+mail.ferdos.info
 ferienhausinnorwegen.info
 ww11.ffy4.info
 ww16.ffy4.info
@@ -62252,7 +62247,7 @@ ww17.goodpeople.info
 ww2.goodpeople.info
 www.goodpeople.info
 goodrxline.info
-goodtrk.info
+idea.goodtrk.info
 goonlinepoker.info
 gpgorakhpurtpo.info
 greatdatesites.info
@@ -62531,7 +62526,6 @@ knochenmark.info
 komaneko.info
 www.konp.info
 konsan.info
-konyaalti.info
 kooora.info
 koorlive.info
 kotaklagu.info
@@ -62937,6 +62931,7 @@ narmedlek.info
 nassau.info
 natureshop.info
 navzdy.info
+nbalive.info
 neko299.info
 neptoons.info
 0www.ner-de-mi-nis-6.info
@@ -62951,6 +62946,7 @@ ww84.ner-de-mi-nis-6.info
 www.ner-de-mi-nis-6.info
 www42.ner-de-mi-nis-6.info
 nervositaet.info
+neumedia.info
 file.new-build.info
 mail.new-build.info
 ww1.new-build.info
@@ -63094,6 +63090,7 @@ de.onzeweb.info
 id.onzeweb.info
 pl.onzeweb.info
 pt.onzeweb.info
+www.onzeweb.info
 optymalni.info
 organizationalmarket.info
 outdooradventure.info
@@ -63699,7 +63696,6 @@ www.shturm.info
 shuwo.info
 sifangclub1.info
 sillanpaa.info
-cdn.simbox.info
 www.simbox.info
 simming.info
 sinazucar.info
@@ -79208,8 +79204,6 @@ e-10199.adzerk.net
 e-10199-us-east-1.adzerk.net
 e-10203.adzerk.net
 e-10203-us-east-1.adzerk.net
-e-10204.adzerk.net
-e-10204-us-east-1.adzerk.net
 e-10208.adzerk.net
 e-10208-us-east-1.adzerk.net
 e-10220.adzerk.net
@@ -79983,7 +79977,6 @@ at-o.net
 atatt.net
 athleitc.net
 athletci.net
-akamaissl.ati-host.net
 collect-euw1.ati-host.net
 cookie.ati-host.net
 logw305.ati-host.net
@@ -80094,6 +80087,7 @@ trk.atomex.net
 atouba.net
 atsem.net
 auctionads.net
+er-br.audienceinsights.net
 ausoafab.net
 australianmuseum.net
 autofficinamonzese.net
@@ -107613,6 +107607,7 @@ livervox.org
 lmba.org
 logview.org
 londonmint.org
+lookcreative.org
 mx.loop-us.org
 ww17.loop-us.org
 lophisc.org
@@ -107815,7 +107810,6 @@ ww25.mundonatural.org
 ww38.mundonatural.org
 www.mundonatural.org
 zmail.mundonatural.org
-musicalibre.org
 ads.muslimehelfen.org
 mutharaiyar.org
 my-stream.org
@@ -108609,8 +108603,6 @@ sdutlinux.org
 seasemestreet.org
 securedsearch.org
 securityservicefederalcreditunion.org
-ns1.sedg.org
-russ.sedg.org
 ww11.sedg.org
 ww17.sedg.org
 ww38.sedg.org
@@ -114039,6 +114031,7 @@ tagm.tchibo.sk
 ads.webinak.sk
 stats.jibber.social
 connector-signetjewelers.gomoxie.solutions
+elonpromo.space
 eversales.space
 addons.user-experience.space
 apps.user-experience.space
@@ -117427,7 +117420,6 @@ logfiles.zoom.us
 a.muloqot.uz
 nt.vc
 dynadmic.video
-binance2.vip
 usaclub.vip
 adi.admicro.vn
 admatic.admicro.vn
@@ -117502,7 +117494,6 @@ sbird.xyz
 server-status.xyz
 trk.us-learn-teacher-poetry.xyz
 cdn.vip-hd-movies.xyz
-wpnrtnmrewunrtok.xyz
 adsrv.iol.co.za
 itomedia.co.za
 marketingmachine.co.za
