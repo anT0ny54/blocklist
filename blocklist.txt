@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336992
+# Ignored duplicates: 337030
 
 chameleon.ad
 pixel.ad
@@ -2583,6 +2583,7 @@ aamcftag.aamsitecertifier.com
 collector.aamsitecertifier.com
 digitalaudit.aamsitecertifier.com
 aaronlewis.com
+ww25.aarvyresults.com
 ads.aavv.com
 aaxads.com
 aaxdetect.com
@@ -2690,7 +2691,6 @@ ww16.acacemy.com
 ww25.acacemy.com
 ww38.acacemy.com
 www.acacemy.com
-ww2.academiccareers-jobs.com
 www.academiccareers-jobs.com
 acashatusa.com
 acbjobs.com
@@ -5217,7 +5217,6 @@ amt.adswizz.com
 analytics.adswizz.com
 antenne.adswizz.com
 api.adswizz.com
-monitor-us-east-1.arbitron.adswizz.com
 asia.adswizz.com
 attribution.adswizz.com
 audimark.adswizz.com
@@ -6035,8 +6034,6 @@ aeabsexweb.com
 aegeansir.com
 tracking.aegpresents.com
 aeoutfiters.com
-ww16.aerlingusair.com
-ww38.aerlingusair.com
 aeropoatal.com
 aerserv.com
 smetrics.aetn.com
@@ -6804,7 +6801,6 @@ aaa.americanlibertyscolarship.com
 ww1.americanlibertyscolarship.com
 ww5.americanlibertyscolarship.com
 www.americanlibertyscolarship.com
-ww25.americanmotorcycleassociation.com
 americanskiff.com
 americash.com
 americsnas.com
@@ -6952,7 +6948,6 @@ andlache.com
 ww16.androidcentrall.com
 www.androidcentrall.com
 ww25.androidentral.com
-www.androidentral.com
 analytics.anedot.com
 photography.angela-mathis.com
 sidebar.angelfire.com
@@ -6972,7 +6967,6 @@ annoncesintimes.com
 ads.annonsbladet.com
 annoyedairport.com
 annoyingacoustics.com
-ww11.anpurnapost.com
 anstrex.com
 answermedia.com
 gateway.answerscloud.com
@@ -8386,7 +8380,6 @@ server2.blevinfranks.com
 smtps.blevinfranks.com
 ww1.blevinfranks.com
 ww11.blevinfranks.com
-ww16.blevinfranks.com
 ww25.blevinfranks.com
 www.blevinfranks.com
 www2.blevinfranks.com
@@ -8528,7 +8521,6 @@ web.boldchat.com
 web-beta.boldchat.com
 ws.boldchat.com
 www.boldchat.com
-ww11.bombattbojana.com
 ww11.bombome.com
 ww25.bombome.com
 ww38.bombome.com
@@ -8793,7 +8785,6 @@ upload.bugsnag.com
 buildersupplyatlanta.com
 buildyourdata.com
 buildyourownweapon.com
-ww25.builldabear.com
 bulkapothocary.com
 bulloger.com
 ads.bumlam.com
@@ -8829,7 +8820,6 @@ burlengton.com
 burlingtonfactoryoutlet.com
 burrningcamel.com
 businessbells.com
-ww25.businessfinansial.com
 analytics.businessinsider.com
 coupons.businessinsider.com
 bustlinganimal.com
@@ -8875,7 +8865,6 @@ ww1.caiptalone360.com
 ww16.caiptalone360.com
 ww25.caiptalone360.com
 ww38.caiptalone360.com
-www.caiptalone360.com
 openx.cairo360.com
 cakesdrum.com
 calculatingcircle.com
@@ -8927,11 +8916,12 @@ capriciouscorn.com
 ad.caprofitx.com
 adn.caprofitx.com
 cdn.caprofitx.com
-mail.caprofitx.com
 templates.caprofitx.com
 captainbicycle.com
 captainstablehotel.com
 captgarys.com
+car---insurance--quotes.com
+car--insurance--quotes.com
 caramellbbw.com
 caratulasgratis.com
 caraudioandtintdallas.com
@@ -9007,12 +8997,7 @@ cats-on-line.com
 catspage.com
 causecherry.com
 cautiouscredit.com
-15.cbarsrv.com
 actions-eu.cbarsrv.com
-actions-latb.cbarsrv.com
-actions-nj.cbarsrv.com
-actions-ny.cbarsrv.com
-clickam.cbarsrv.com
 clicknj.cbarsrv.com
 v4.avs.activscreen.comopps.cbarsrv.com
 connectivitycheck.android.comopps.cbarsrv.com
@@ -9031,30 +9016,18 @@ s.sspqns.comwf.cbarsrv.com
 liveupdate.symantecliveupdate.comwf.cbarsrv.com
 sv.symcd.comwf.cbarsrv.com
 wfbssvc61.icrc.trendmicro.comwf.cbarsrv.com
-convlatbmp.cbarsrv.com
-convnjmp.cbarsrv.com
 convusmp.cbarsrv.com
-crus.cbarsrv.com
 eu.cbarsrv.com
 news.genapi.euwf.cbarsrv.com
 update.fiducial-informatique.fropps.cbarsrv.com
 www.azko.frwf.cbarsrv.com
 www.google.frwf.cbarsrv.com
-f16.silaexpert02.frwf.cbarsrv.com
-imprammp.cbarsrv.com
 impreump.cbarsrv.com
-imprusmp.cbarsrv.com
-match.cbarsrv.com
-mprnjmp.cbarsrv.com
 update.cloud.2d585.cdn.bitdefender.netopps.cbarsrv.com
 http.00.s.sophosxl.netopps.cbarsrv.com
 push.bitdefender.netwf.cbarsrv.com
-onvlatbmp.cbarsrv.com
-oops.cbarsrv.com
-opps.cbarsrv.com
 checkipv6.quickconnect.towf.cbarsrv.com
 wf.cbarsrv.com
-www.cbarsrv.com
 cbcaau.com
 cbeao.com
 direct.cbmax.com
@@ -9604,8 +9577,6 @@ clickz.com
 clifftownhouse.com
 clikhoteles.com
 cliksolution.com
-clincaperuzzo.com
-clix200adz.com
 clixgalore.com
 clk1005.com
 clk1011.com
@@ -10517,6 +10488,7 @@ buildfarm.de-dev.cxense.com
 ccc.de-dev.cxense.com
 data-api.de-dev.cxense.com
 data-api-documentation.de-dev.cxense.com
+grafana.de-dev.cxense.com
 influxdb.de-dev.cxense.com
 kube-exec-controller.de-dev.cxense.com
 prom.de-dev.cxense.com
@@ -10981,7 +10953,6 @@ cdn.dep-x.com
 deployads.com
 derct.com
 desbrophy.com
-ww25.desenhocores.com
 marketing.desertcart.com
 desertedbreath.com
 desertedrat.com
@@ -15838,7 +15809,6 @@ economicpizzas.com
 ads.economist.com
 ecorebates.com
 ecoupons.com
-ww25.ecuadoninio.com
 ecylight.com
 ww11.edddiebauwer.com
 ww25.edddiebauwer.com
@@ -16133,7 +16103,6 @@ euphonyflirt.com
 eurekster.com
 banner.eurogrand.com
 eurome.com
-www.europeanduathonchampionships.com
 tracking.eurosport.com
 evadav.com
 evarify.com
@@ -16448,7 +16417,6 @@ feisibuk.com
 www.femdomabuse.com
 femmefatalfilms.com
 fendistore.com
-ww16.fengshanblog.com
 activate.ferguson.com
 ads.ferianc.com
 ww16.ff-model.com
@@ -16514,7 +16482,6 @@ spot.fitness.com
 collector.fiverr.com
 relay.fiverr.com
 fiverthirtyeight.com
-ww25.fjsdkfjsdjfksjfsdf.com
 fkiqisalq.com
 fkirhisaqwto.com
 flagcounter.com
@@ -16708,9 +16675,6 @@ resource.fountasandpinell.com
 resources.fountasandpinell.com
 resourses.fountasandpinell.com
 ww11.fountasandpinell.com
-ww16.fountasandpinell.com
-ww25.fountasandpinell.com
-ww38.fountasandpinell.com
 www.fountasandpinell.com
 fourarithmetic.com
 fourquare.com
@@ -16880,29 +16844,23 @@ functionalcrown.com
 fundsjoy.com
 funkeyad.com
 funklicks.com
-4jslg.funmoible.com
 barracuda.funmoible.com
 box.funmoible.com
 correo.funmoible.com
-email.funmoible.com
 home.funmoible.com
 mail10.funmoible.com
 mail3.funmoible.com
 mail7.funmoible.com
 mailer.funmoible.com
 mailserver.funmoible.com
-mx.funmoible.com
 mx3.funmoible.com
 ns.funmoible.com
-ns2.funmoible.com
 poczta.funmoible.com
-pop.funmoible.com
 postmaster.funmoible.com
 relay.funmoible.com
 relay2.funmoible.com
 smtp01.funmoible.com
 smtpseguro.funmoible.com
-www2.funmoible.com
 zimbra.funmoible.com
 funnelenvy.com
 ww15.funny-like.com
@@ -17828,7 +17786,7 @@ autodiscover.718.gamail.com
 784.gamail.com
 786.gamail.com
 806.gamail.com
-citrix.888.gamail.com
+888.gamail.com
 91.gamail.com
 914.gamail.com
 99.gamail.com
@@ -17861,7 +17819,7 @@ bebe.gamail.com
 bensalem.gamail.com
 bk.gamail.com
 body.gamail.com
-g.c.gamail.com
+c.gamail.com
 caixapostal.gamail.com
 cat.gamail.com
 cha.gamail.com
@@ -17908,7 +17866,7 @@ icloud.gamail.com
 ikka.gamail.com
 iphone4.gamail.com
 ivanshkol.gamail.com
-cs.jakarta.gamail.com
+jakarta.gamail.com
 jantra.gamail.com
 jkl.gamail.com
 ka.gamail.com
@@ -18782,7 +18740,22 @@ googolel.com
 gookl.com
 goolew.com
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
-goozaa.com
+barracuda.goozaa.com
+board.goozaa.com
+comune.goozaa.com
+eml.goozaa.com
+mail.goozaa.com
+mail1.goozaa.com
+mail2.goozaa.com
+mailgate.goozaa.com
+mailrelay.goozaa.com
+mx0.goozaa.com
+mx2.goozaa.com
+newmail.goozaa.com
+po.goozaa.com
+relay1.goozaa.com
+smtp01.goozaa.com
+www.goozaa.com
 goparod.com
 goplaylabels.com
 gorgeousground.com
@@ -19256,6 +19229,8 @@ clickstream-producer.hd-personalization-prod.gcp.homedepot.com
 clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
 rma.homedepot.com
 swasc.homedepot.com
+ww11.homefinderconnect.com
+ww25.homefinderconnect.com
 www.homefinderconnect.com
 homelinkinternational.com
 homelycrown.com
@@ -19857,6 +19832,7 @@ insticator.com
 instinctiveads.com
 instrumentsponge.com
 insurads.com
+insurance---quotes.com
 insurance--quotes.com
 insysinfocomm.com
 insights.integralads.com
@@ -20476,7 +20452,6 @@ nebula-assets.kampyle.com
 nebula-au.kampyle.com
 nebula-can.kampyle.com
 nebula-eu.kampyle.com
-nebulaqa.kampyle.com
 noodles.kampyle.com
 on-prem.kampyle.com
 oreilly.kampyle.com
@@ -20839,6 +20814,7 @@ lichouseing.com
 licoshnit.com
 lieber-tower.com
 liektuan.com
+life--insurance--quotes.com
 lifeinsurancequotescenter.com
 lifestreet.com
 ligadx.com
@@ -20999,7 +20975,6 @@ sca2.listrakbi.com
 west-idx.listrakbi.com
 www.listrakbi.com
 littlegirlsnude.com
-ww25.littlesweetworld.com
 live-cric.com
 live-mocha.com
 live-stripe.com
@@ -21887,7 +21862,6 @@ data.maisonsdumonde.com
 maitresse.com
 scripts.makeinfluence.com
 makkahhilton.com
-ww16.malaysiakinicom.com
 malaysianewsjournal.com
 malhotraflowers.com
 malibupalities.com
@@ -21898,7 +21872,6 @@ genesis.malwarebytes.com
 telemetry.malwarebytes.com
 mamatian.com
 mamoru-credit.com
-ww16.mamzellenikam.com
 mail.manage.com
 manchesterdomain.com
 www.manga-news.com
@@ -23028,7 +23001,6 @@ mennard.com
 tag.mention-me.com
 tag-demo.mention-me.com
 mepirtedic.com
-ww1.mercedesbenzofhoustonnorth.com
 ww16.mercedesbenzofhoustonnorth.com
 ww25.mercedesbenzofhoustonnorth.com
 ww38.mercedesbenzofhoustonnorth.com
@@ -23055,6 +23027,7 @@ metrigo.com
 metrilo.com
 mettajetovimuti.com
 www.ww35.meuporno.com
+www.ww5.meuporno.com
 www.meuporno.com
 mfadsrvr.com
 mg2connext.com
@@ -24154,6 +24127,7 @@ status.mixpanel.com
 switchboard.mixpanel.com
 www.mixpanel.com
 mixpo.com
+ww1.mixyourtunes.com
 direct.miyoutube.com
 pbrand.miyoutube.com
 poczta.miyoutube.com
@@ -37362,6 +37336,7 @@ mystlyle.com
 mystts.com
 myteryshopreports.com
 ww25.myverizin.com
+ww31.myverizin.com
 ww38.myverizin.com
 myvirecard.com
 myxerfreeringtones.com
@@ -41655,17 +41630,6 @@ tagger.opecloud.com
 tagger-admeira.opecloud.com
 tagger-scmp.opecloud.com
 openadsnetwork.com
-auth.openfansite.com
-citrix.openfansite.com
-mail2.openfansite.com
-mx.openfansite.com
-mx0.openfansite.com
-mx01.openfansite.com
-pciguateeimap.openfansite.com
-secureimap.openfansite.com
-securemail.openfansite.com
-securepop.openfansite.com
-smtpauth.openfansite.com
 openx.com
 buyer.openxadexchange.com
 jp-buyer.openxadexchange.com
@@ -44283,7 +44247,6 @@ legionathletics.postaffiliatepro.com
 lemingfootwear.postaffiliatepro.com
 lexli.postaffiliatepro.com
 libertyshield.postaffiliatepro.com
-lifeassurancecoa.postaffiliatepro.com
 lightspeedvt.postaffiliatepro.com
 linearsupplies.postaffiliatepro.com
 linkaraby.postaffiliatepro.com
@@ -44755,7 +44718,6 @@ pulsemaps.com
 pulsepoint.com
 punishtub.com
 punishtubbe.com
-ww25.punsup.com
 amc.purch.com
 assets.purch.com
 autodiscover.purch.com
@@ -47445,7 +47407,6 @@ redistats.com
 redtoube.com
 redtubed.com
 es.redtuber.com
-m.redtuber.com
 ww1.redtuber.com
 ww16.redtuber.com
 ww25.redtuber.com
@@ -49868,7 +49829,6 @@ resonate.com
 resortseastchicago.com
 responsetap.com
 responsiveads.com
-ww25.restaurant-olympe.com
 restrainstorm.com
 resugence.com
 resultify.com
@@ -51399,7 +51359,6 @@ toryburch-e.sailthru.com
 valuemags-a.sailthru.com
 web.sailthru.com
 www.sailthru.com
-www.saintclairshoressingles.com
 a.sakh.com
 tracking.etidning.salaallehanda.com
 tracking.salaallehanda.com
@@ -52033,6 +51992,7 @@ mail.shaferglazer.com
 shahidnet.com
 shairmarket.com
 ww1.shakeelabiz.com
+ww5.shakeelabiz.com
 www.shakeelabiz.com
 shakegoldfish.com
 shakesuggestion.com
@@ -52817,7 +52777,6 @@ ww25.sneakercafe.com
 www.sneakercafe.com
 sneakernewa.com
 sneakersisverige.com
-ww25.snezhinskiy.com
 assets.sni-dat.com
 code.adsales.snidigital.com
 operativesas.adsales.snidigital.com
@@ -53521,7 +53480,6 @@ stakingslope.com
 stakingsmile.com
 stalesummer.com
 stameco.com
-www.standardcharetred.com
 standingnest.com
 stapleasadvantage.com
 staplesandmore.com
@@ -54776,7 +54734,6 @@ terratracker.com
 terriblethumb.com
 tescoview.com
 teslagive.com
-ww25.tespen.com
 www.tespen.com
 testedtouch.com
 testlet.com
@@ -54876,6 +54833,7 @@ thesexmatrice.com
 thesignatureroomstl.com
 thesoferstam.com
 ads.thestar.com
+www.thesuaraus.com
 thethaovip.com
 thetradedesk.com
 thetruthspy.com
@@ -55023,7 +54981,6 @@ trust.titanhq.com
 tiznmktqel.com
 tk0x1.com
 track.tkbo.com
-ww25.tkocetebepratitdebiluglupi.com
 tkschools.com
 tl813.com
 tlabots.com
@@ -55338,6 +55295,7 @@ www2.tropicanagoldcasino.com
 zmail.tropicanagoldcasino.com
 analytics.trovit.com
 truboysmodels.com
+truck--insurance--quotes.com
 truckpapaer.com
 truckstomatoes.com
 truconversion.com
@@ -55380,15 +55338,6 @@ trycusomink.com
 trycustoink.com
 i.tryinteract.com
 tryinvesttool.com
-m.tsinf.com
-mail.tsinf.com
-mailrelay.tsinf.com
-mails.tsinf.com
-mx.tsinf.com
-ns1.tsinf.com
-out.tsinf.com
-pop.tsinf.com
-root.tsinf.com
 tsyndicate.com
 ttehun.com
 ttoc8ok.com
@@ -55543,7 +55492,6 @@ tw.tuscominc.com
 vnet.tuscominc.com
 vps.tuscominc.com
 ww16.tuscominc.com
-ww38.tuscominc.com
 www.tuscominc.com
 tutorialbagus.com
 tutoriali.com
@@ -55565,7 +55513,6 @@ twetar.com
 twinrdsrv.com
 twinsrecreation.com
 adserver.twitpic.com
-ww16.twitqi.com
 twittad.com
 ads-api.twitter.com
 ads-bidder-api.twitter.com
@@ -56613,7 +56560,6 @@ vfgte.com
 ads.vgchartz.com
 vhejafry.com
 aaa.vhlcenral.com
-ww11.vhlcenral.com
 ww25.vhlcenral.com
 www.vhlcenral.com
 s.vi-serve.com
@@ -57310,7 +57256,6 @@ w3ibm.com
 waardex.com
 link.wacom.com
 wadknisse.com
-ww25.wadsfasg.com
 adserver.waggonerguide.com
 wahlgreens.com
 auth.wakanetwork.com
@@ -57855,23 +57800,14 @@ worriednumber.com
 worthington-portal.com
 wowcirlce.com
 4jslg.wozbtc.com
-accounting.wozbtc.com
-alpha.wozbtc.com
-analytics.wozbtc.com
 backoffice.wozbtc.com
 bot.wozbtc.com
 cloud.wozbtc.com
-dev.wozbtc.com
 dev1.wozbtc.com
-game.wozbtc.com
 lms.wozbtc.com
-magento.wozbtc.com
 prod.wozbtc.com
-shop.wozbtc.com
 stage.wozbtc.com
-test.wozbtc.com
 w1.wozbtc.com
-ws.wozbtc.com
 www.wozbtc.com
 stats.wp.com
 www.wpeducation.com
@@ -60766,7 +60702,6 @@ ww16.5movies.info
 ww38.5movies.info
 www1.5movies.info
 6630.info
-ww1.69love.info
 69postix.info
 7494568.info
 7hari.info
@@ -60880,11 +60815,7 @@ ww17.adatmentes.info
 www.adatmentes.info
 www.adblog.info
 adessonews.info
-ns.adidasi-nike.info
-ww11.adidasi-nike.info
 ww25.adidasi-nike.info
-ww38.adidasi-nike.info
-www.adidasi-nike.info
 4jslg.adidasspringblade2.info
 mvideo.adidasspringblade2.info
 ww1.adidasspringblade2.info
@@ -61122,7 +61053,6 @@ ww6.baixarjogoscompletos.info
 www.baixarjogoscompletos.info
 mvideo.baixartorrent.info
 ww16.baixartorrent.info
-ww25.baixartorrent.info
 ww38.baixartorrent.info
 www.baixartorrent.info
 mail.balkaria.info
@@ -62001,8 +61931,6 @@ ww17.etain.info
 www.etain.info
 etarin.info
 ethanfletcher.info
-ww16.euro-news.info
-www.euro-news.info
 eurocardsharing.info
 eventsco.info
 evergreenseniorliving.info
@@ -63544,13 +63472,6 @@ ww16.rutot.info
 ww25.rutot.info
 ww38.rutot.info
 www.rutot.info
-hd5.rutube.info
-online.rutube.info
-tv.rutube.info
-tv1.rutube.info
-tv5.rutube.info
-tvhd.rutube.info
-tvs.rutube.info
 www.rutube.info
 ww16.rutur.info
 ww25.rutur.info
@@ -64809,7 +64730,6 @@ ww38.youjjzz.info
 www.youjjzz.info
 youjjzzwww.youjjzz.info
 zh.youjjzz.info
-static.youluckywinner.info
 ww25.youluckywinner.info
 your-account.info
 yourapps.info
@@ -79199,7 +79119,6 @@ e-10191-us-west-2.adzerk.net
 e-10192.adzerk.net
 e-10192-eu-west-1.adzerk.net
 e-10192-us-east-1.adzerk.net
-e-10198-us-east-1.adzerk.net
 e-10199.adzerk.net
 e-10199-us-east-1.adzerk.net
 e-10203.adzerk.net
@@ -80227,8 +80146,6 @@ cf69.net
 channelfurfing.net
 chartbeat.net
 chitika.net
-ww.cinetr.net
-ww1.cinetr.net
 ww16.cinetr.net
 ww2.cinetr.net
 www.cinetr.net
@@ -82437,6 +82354,7 @@ orders.clickbank.net
 5.livingmost.pay.clickbank.net
 paypal-orders.clickbank.net
 public.clickbank.net
+scripts.clickbank.net
 secure.clickbank.net
 smetrics.clickbank.net
 ssl.clickbank.net
@@ -82752,7 +82670,6 @@ cosmeticsurgery247.net
 crazy-holiday.net
 criteo.net
 crwdcntrl.net
-www.cryptocoiners.net
 coadvertise.cubecdn.net
 culterycorner.net
 culturaingles.net
@@ -107075,8 +106992,6 @@ eiceresources.org
 eisenhoweracademy.org
 www.el-tiempo.org
 eldercohousing.org
-about.elemnts.org
-ww1.elemnts.org
 ww17.elemnts.org
 ww3.elemnts.org
 www.elemnts.org
@@ -108945,7 +108860,6 @@ tulsalibary.org
 turkomania.org
 turnik.org
 tuscl.org
-mail.tutorialesphotoshop.org
 ns.tutorialesphotoshop.org
 ns1.tutorialesphotoshop.org
 ns2.tutorialesphotoshop.org
