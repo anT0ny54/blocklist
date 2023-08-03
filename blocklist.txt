@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 335921
+# Ignored duplicates: 335892
 
 chameleon.ad
 pixel.ad
@@ -2298,6 +2298,8 @@ ads.4tube.com
 50websads.com
 59fifty.com
 ww1.5legeat.com
+ww38.5legeat.com
+www.5legeat.com
 622lq.com
 65daiguo.com
 69pcrepair.com
@@ -2689,8 +2691,6 @@ mail5.acacemy.com
 ww11.acacemy.com
 ww16.acacemy.com
 ww25.acacemy.com
-ww38.acacemy.com
-www.acacemy.com
 www.academiccareers-jobs.com
 acashatusa.com
 acbjobs.com
@@ -3580,6 +3580,7 @@ loyalty.admitad.com
 marathon.admitad.com
 marketplacex.admitad.com
 maxmilhas.admitad.com
+mittalk.admitad.com
 mobile.admitad.com
 monetize.admitad.com
 mp.admitad.com
@@ -8085,8 +8086,6 @@ bdsm-latex.com
 ww1.beachbodywaxvb.com
 ww17.beachbodywaxvb.com
 ww35.beachbodywaxvb.com
-ww38.beachbodywaxvb.com
-www.beachbodywaxvb.com
 beachfront.com
 track.beachfrontreach.com
 beaconlightmotel.com
@@ -8846,6 +8845,7 @@ upload.bugsnag.com
 buildersupplyatlanta.com
 buildyourdata.com
 buildyourownweapon.com
+ww38.builldabear.com
 bulkapothocary.com
 bulloger.com
 ads.bumlam.com
@@ -10260,7 +10260,6 @@ crewbuxonline.com
 ww16.crfeditonebank.com
 ww25.crfeditonebank.com
 ww38.crfeditonebank.com
-www.crfeditonebank.com
 crickebuzz.com
 cricket-365info.com
 cricket365-info.com
@@ -11373,7 +11372,6 @@ disneneylatino.com
 disney2.com
 ww16.disneyagentesdeviaje.com
 ww38.disneyagentesdeviaje.com
-www.disneyagentesdeviaje.com
 disneycarees.com
 disneychannanel.com
 disneychany.com
@@ -15549,11 +15547,9 @@ ssl2.duapps.com
 whosthat.duapps.com
 revive.dubcnm.com
 ducel.com
-m.dufibepe.com
 mail.dufibepe.com
 ww1.dufibepe.com
 www.dufibepe.com
-www1.dufibepe.com
 dumbpop.com
 dunill.com
 excess.duolingo.com
@@ -15843,7 +15839,6 @@ ecorebates.com
 ecoupons.com
 ecylight.com
 ww25.edddiebauwer.com
-ww38.edddiebauwer.com
 edeits.com
 edgar2al2larngpoer.com
 edgedinawesome.com
@@ -16421,10 +16416,7 @@ femmefatalfilms.com
 fendistore.com
 activate.ferguson.com
 ads.ferianc.com
-ww1.ff-model.com
-ww16.ff-model.com
-ww5.ff-model.com
-www.ff-model.com
+ff-model.com
 fghik.com
 fgl.com
 fhpulse.com
@@ -16842,11 +16834,6 @@ functionalcrown.com
 fundsjoy.com
 funkeyad.com
 funklicks.com
-mail3.funmoible.com
-mailserver.funmoible.com
-relay.funmoible.com
-smtp01.funmoible.com
-smtpseguro.funmoible.com
 zimbra.funmoible.com
 funnelenvy.com
 ww15.funny-like.com
@@ -20266,7 +20253,8 @@ jyjwche.com
 kabu-book.com
 videostats.kakao.com
 kakapakistan.com
-kakatus.com
+ww11.kakatus.com
+ww25.kakatus.com
 kakatuz.com
 kakud.com
 analytics.kaltura.com
@@ -20512,7 +20500,49 @@ kentuckianafirearmstraining.com
 kenya-aiways.com
 kenyarevenueauthority.com
 keogers.com
-keopz.com
+antispam.keopz.com
+art.keopz.com
+barracuda.keopz.com
+com.keopz.com
+correo.keopz.com
+eml.keopz.com
+gw.keopz.com
+host.keopz.com
+internet.keopz.com
+m.keopz.com
+mail.keopz.com
+mail02.keopz.com
+mail11.keopz.com
+mail5.keopz.com
+mailbox.keopz.com
+mailer.keopz.com
+mailgate.keopz.com
+mailin.keopz.com
+mailrelay.keopz.com
+mails.keopz.com
+mailserver.keopz.com
+mta.keopz.com
+mx.keopz.com
+mx10.keopz.com
+mx2.keopz.com
+mx20.keopz.com
+mx4.keopz.com
+mx5.keopz.com
+mx7.keopz.com
+newmail.keopz.com
+ns.keopz.com
+ns1.keopz.com
+po.keopz.com
+post.keopz.com
+relay1.keopz.com
+root.keopz.com
+server.keopz.com
+server1.keopz.com
+srv.keopz.com
+ssl.keopz.com
+tiger.keopz.com
+vip.keopz.com
+www.keopz.com
 kerman94.com
 kesmatic.com
 kew-village.com
@@ -23024,10 +23054,8 @@ mail.micorsoftonline.com
 ogin.micorsoftonline.com
 passwordreset.micorsoftonline.com
 ww25.portal.micorsoftonline.com
-ww25.micorsoftonline.com
 ww31.micorsoftonline.com
 ww35.micorsoftonline.com
-ww38.micorsoftonline.com
 ww8.micorsoftonline.com
 www.micorsoftonline.com
 03tnrovd.micpn.com
@@ -36252,7 +36280,6 @@ mailgate.mocrosoftonline.com
 mailin.mocrosoftonline.com
 mailserver.mocrosoftonline.com
 mx1.mocrosoftonline.com
-office365.mocrosoftonline.com
 passwordreset.mocrosoftonline.com
 portail.mocrosoftonline.com
 ww16.portal.mocrosoftonline.com
@@ -38456,6 +38483,7 @@ cm.oneidentity.com
 onenetworkdirect.com
 oneopinion.com
 ads.oneplace.com
+www.oneshotketopro.com
 01.onesignal.com
 04maroc.onesignal.com
 09.onesignal.com
@@ -51194,6 +51222,7 @@ xpu.samsungelectronics.com
 ypu.samsungelectronics.com
 zpu.samsungelectronics.com
 samsungpromociones.com
+ww1.samsungsmartphones.com
 ww16.samsungsmartphones.com
 sandipsandhu.com
 sandykruise.com
@@ -53193,7 +53222,6 @@ www.spriceline.com
 springaftermath.com
 springbot.com
 ww25.springhillbulbs.com
-www.springhillbulbs.com
 springserve.com
 sprinklecontent.com
 sprotsmansguide.com
@@ -55384,7 +55412,6 @@ turninc.com
 turningwheelrv.com
 turnto.com
 mail.tuscominc.com
-ns2.tuscominc.com
 www.tuscominc.com
 tutorialbagus.com
 tutoriali.com
@@ -60438,10 +60465,7 @@ livechat.co.il
 livegol.co.il
 location-location.co.il
 authsmtp.logo2go.co.il
-mail.logo2go.co.il
 mail4.logo2go.co.il
-ns1.logo2go.co.il
-www.logo2go.co.il
 londonmusicals.co.il
 lottery24.co.il
 loxone.co.il
@@ -60879,7 +60903,6 @@ ww17.adatmentes.info
 www.adatmentes.info
 www.adblog.info
 adessonews.info
-ww25.adidasi-nike.info
 4jslg.adidasspringblade2.info
 mvideo.adidasspringblade2.info
 ww1.adidasspringblade2.info
@@ -61957,9 +61980,6 @@ www.dramaticdistinctives.info
 drare.info
 drasticdsemulatorapk.info
 dreiband.info
-ns1.dropcable.info
-out.dropcable.info
-ww25.dropcable.info
 drpciv.info
 duman.info
 duniaprinter.info
@@ -62139,12 +62159,15 @@ fazu.info
 fcsite.info
 mail.ferdos.info
 ww16.ferdos.info
+ww17.ferdos.info
+ww2.ferdos.info
 ww25.ferdos.info
+ww3.ferdos.info
+ww38.ferdos.info
 ferienhausinnorwegen.info
 ww11.ffy4.info
 ww16.ffy4.info
 ww25.ffy4.info
-www.ffy4.info
 mail.fieberbrunn.info
 antispam.figvam.info
 correo.figvam.info
@@ -62272,7 +62295,6 @@ ww1.futjakot.info
 ww17.futjakot.info
 www.futjakot.info
 futurestudys.info
-ww25.blog.fxwl.info
 dev.fxwl.info
 old.fxwl.info
 shop.fxwl.info
@@ -62367,7 +62389,6 @@ ww17.goodpeople.info
 ww2.goodpeople.info
 www.goodpeople.info
 goodrxline.info
-idea.goodtrk.info
 goonlinepoker.info
 gpgorakhpurtpo.info
 greatdatesites.info
@@ -62907,6 +62928,7 @@ ww1.mobile-tech.info
 ww25.mobile-tech.info
 www.mobile-tech.info
 mobilemovie.info
+www.mobileprices.info
 ww1.mobilesales.info
 ww11.mobilesales.info
 ww16.mobilesales.info
@@ -63400,8 +63422,6 @@ custom-window-sticker.porev.info
 ww1.porev.info
 ww38.porev.info
 www.porev.info
-ww16.porno-chaman.info
-ww16.ww38.ww38.ww25.porno-chaman.info
 pornobitx.info
 pornocomicsix.info
 pornoheroes.info
@@ -63682,7 +63702,8 @@ receptcity.info
 recepti-i-ideje.info
 red-rose.info
 redhotrealty.info
-mvideo.redup.info
+ww16.mvideo.redup.info
+ww25.mvideo.redup.info
 webdisk.redup.info
 ww16.redup.info
 ww17.redup.info
@@ -64611,6 +64632,7 @@ ww25.unn.info
 ww38.unn.info
 www.unn.info
 unnepek.info
+ww1.unnt.info
 ww16.unnt.info
 ww17.unnt.info
 ww2.unnt.info
@@ -68921,7 +68943,6 @@ soc-sandbox.sandbox.redventures.io
 terratest.sandbox.redventures.io
 thopkins.sandbox.redventures.io
 together.sandbox.redventures.io
-travel-mlsl.sandbox.redventures.io
 travel-planningbooking.sandbox.redventures.io
 wealth.sandbox.redventures.io
 credible-dev.secrets.redventures.io
@@ -72745,6 +72766,14 @@ funbox-rprd-243-bugs.yellowblue.io
 funbox-rprd-251-reporting.yellowblue.io
 funbox-rprd-261.yellowblue.io
 funbox-rprd-261-fix-prebid-mrkt-bas-subid.yellowblue.io
+funbox-rprd-274-newreportfields.yellowblue.io
+funbox-rprd-279-auction-ab-support.yellowblue.io
+funbox-rprd-282.yellowblue.io
+funbox-rprd-282-gam-fix-ai-event.yellowblue.io
+funbox-rprd-287-yahoossp-fix.yellowblue.io
+funbox-rprd-288-ai-event-tests.yellowblue.io
+funbox-rprd-301-vai.yellowblue.io
+funbox-rprd-304-rename-loadad-method.yellowblue.io
 funbox-rprd-52-tagsauction.yellowblue.io
 funbox-rprd-52-tagsauction-adjusttoresponse.yellowblue.io
 funbox-rprd-52-tagsfix.yellowblue.io
@@ -79774,7 +79803,6 @@ e-9869.adzerk.net
 e-9869-us-east-1.adzerk.net
 e-9874.adzerk.net
 e-9874-us-east-1.adzerk.net
-e-9875.adzerk.net
 e-9875-us-east-1.adzerk.net
 e-9896.adzerk.net
 e-9896-us-east-1.adzerk.net
@@ -80373,7 +80401,10 @@ mailgw.audienceinsights.net
 mailhost.audienceinsights.net
 mailout.audienceinsights.net
 mx1.audienceinsights.net
+ns1.audienceinsights.net
+ns2.audienceinsights.net
 relay.audienceinsights.net
+statics.audienceinsights.net
 whois.audienceinsights.net
 ausoafab.net
 australianmuseum.net
@@ -106758,11 +106789,8 @@ afella.org
 affix.org
 afflink.org
 africangirls.org
-ww1.africateachingauthorities.org
 ww12.africateachingauthorities.org
-ww16.africateachingauthorities.org
 ww17.africateachingauthorities.org
-ww38.africateachingauthorities.org
 ww7.africateachingauthorities.org
 www.africateachingauthorities.org
 ww1.agendaveb.org
@@ -107027,6 +107055,7 @@ ww17.centraldownloads.org
 ww25.centraldownloads.org
 ww31.centraldownloads.org
 www.centraldownloads.org
+www70.centraldownloads.org
 centrebodhicitta.org
 centroseducativosaragon.org
 ceprovi.org
@@ -107097,7 +107126,6 @@ antispam.consulfrance-edimbourg.org
 auth.consulfrance-edimbourg.org
 hermes.consulfrance-edimbourg.org
 imap1.consulfrance-edimbourg.org
-mail.consulfrance-edimbourg.org
 mail01.consulfrance-edimbourg.org
 mail1.consulfrance-edimbourg.org
 mail12.consulfrance-edimbourg.org
@@ -107847,6 +107875,7 @@ imslo.org
 imslt.org
 incident-report.org
 mx.indesa.org
+ww17.indesa.org
 www.indesa.org
 indexxx.org
 indianaexpeditions.org
@@ -108024,6 +108053,7 @@ m1carbine.org
 mactorrent.org
 madhyavitaran.org
 magnoliafarms.org
+ww1.mailwarebytes.org
 makemeagenius.org
 maktabkhoone.org
 maktoob.org
@@ -109119,9 +109149,6 @@ sdutlinux.org
 seasemestreet.org
 securedsearch.org
 securityservicefederalcreditunion.org
-ww11.sedg.org
-ww17.sedg.org
-ww38.sedg.org
 seeip.org
 self-compasion.org
 seniorplus.org
