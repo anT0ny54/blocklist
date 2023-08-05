@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 335886
+# Ignored duplicates: 335904
 
 chameleon.ad
 pixel.ad
@@ -1276,6 +1276,7 @@ zlmapi2-2qk5auvh3q-de.a.run.app
 zp-vivemas-api-prod-qghbiaf7ha-uk.a.run.app
 zygote-forward-4bt5673yyq-uk.a.run.app
 system-notify.app
+bannerlandia.com.ar
 smrt.as
 gigazine.asia
 cdn.openxmarket.asia
@@ -2308,6 +2309,7 @@ abm-old.6sense.com
 api.6sense.com
 asdfasdfasfd.6sense.com
 assets.6sense.com
+atlas.6sense.com
 atp.6sense.com
 autodiscover.6sense.com
 b.6sense.com
@@ -3230,8 +3232,6 @@ adgardener.com
 adgear.com
 adgibbon.com
 adgrx.com
-email-clk.adguard.com
-email-opn.adguard.com
 adhaven.com
 adhd-natural-treatments.com
 adherants.com
@@ -6304,7 +6304,65 @@ ww16.alianzavisual.com
 ww25.alianzavisual.com
 ww38.alianzavisual.com
 aliasanvil.com
+antispam.aliasusa.com
+auth.aliasusa.com
+box.aliasusa.com
+email.aliasusa.com
+gateway.aliasusa.com
+hermes.aliasusa.com
+host.aliasusa.com
+imap1.aliasusa.com
+imap2.aliasusa.com
+m.aliasusa.com
+mail.aliasusa.com
+mail02.aliasusa.com
+mail10.aliasusa.com
+mail12.aliasusa.com
+mail2.aliasusa.com
+mail7.aliasusa.com
+mail9.aliasusa.com
+mailbox.aliasusa.com
+mailgw.aliasusa.com
+mailhost.aliasusa.com
+mailin.aliasusa.com
+mailout.aliasusa.com
+mailrelay.aliasusa.com
+mails.aliasusa.com
+mailsrv.aliasusa.com
+mailx.aliasusa.com
+mbox.aliasusa.com
+ms.aliasusa.com
+ms1.aliasusa.com
+mx.aliasusa.com
+mx1.aliasusa.com
+mx5.aliasusa.com
+mx7.aliasusa.com
+mxs.aliasusa.com
+ns.aliasusa.com
+ns1.aliasusa.com
+ns2.aliasusa.com
+out.aliasusa.com
+poczta.aliasusa.com
+pop.aliasusa.com
+post.aliasusa.com
+posta.aliasusa.com
+postmaster.aliasusa.com
+relay.aliasusa.com
+relay2.aliasusa.com
+root.aliasusa.com
+secure.aliasusa.com
+server.aliasusa.com
+server2.aliasusa.com
+smtpauth.aliasusa.com
+smtps.aliasusa.com
+srv.aliasusa.com
+vmail.aliasusa.com
+ww1.aliasusa.com
+ww35.aliasusa.com
 www.aliasusa.com
+www1.aliasusa.com
+www2.aliasusa.com
+zmail.aliasusa.com
 alibabavision.com
 alibexpress.com
 li.alibris.com
@@ -8066,9 +8124,6 @@ bcbsg.com
 bcm-direct.com
 bcsciences.com
 bdsm-latex.com
-ww1.beachbodywaxvb.com
-ww17.beachbodywaxvb.com
-ww35.beachbodywaxvb.com
 beachfront.com
 track.beachfrontreach.com
 beaconlightmotel.com
@@ -8389,21 +8444,6 @@ blackmillclothing.com
 blackopsairsoftguns.com
 blackpapa.com
 bladdercancerdata.com
-authsmtp.blevinfranks.com
-gate.blevinfranks.com
-host.blevinfranks.com
-mail1.blevinfranks.com
-mail3.blevinfranks.com
-mail8.blevinfranks.com
-mailer.blevinfranks.com
-mailx.blevinfranks.com
-ms1.blevinfranks.com
-a.mx.blevinfranks.com
-newmail.blevinfranks.com
-root.blevinfranks.com
-ww1.blevinfranks.com
-ww11.blevinfranks.com
-zimbra.blevinfranks.com
 blingbucks.com
 blinkjork.com
 blinkloide.com
@@ -8547,9 +8587,7 @@ web.boldchat.com
 web-beta.boldchat.com
 ws.boldchat.com
 www.boldchat.com
-ww11.bombome.com
 ww25.bombome.com
-ww38.bombome.com
 www.bombome.com
 bombomme.com
 bombora.com
@@ -8886,9 +8924,6 @@ c3tag.com
 c43a3cd8f99413891.com
 cabledemand.com
 cacestpourmoi.com
-ww16.caiptalone360.com
-ww25.caiptalone360.com
-ww38.caiptalone360.com
 openx.cairo360.com
 cakesdrum.com
 calculatingcircle.com
@@ -9715,6 +9750,7 @@ www.coinbaseone.com
 coinbasepromotion.com
 coinbaserewards.com
 coinblind.com
+mail.coindeskbtc.com
 coinerra.com
 www.coinimp.com
 coinminingonline.com
@@ -15398,9 +15434,6 @@ mta1.drawnincest.com
 offer.drawnincest.com
 root.drawnincest.com
 smtpauth.drawnincest.com
-ww16.drawnincest.com
-ww25.drawnincest.com
-ww38.drawnincest.com
 www.drawnincest.com
 drbanner.com
 dreamameteurs.com
@@ -15741,7 +15774,6 @@ eagleinformatica.com
 ads.eagletribune.com
 r.ealeo.com
 earlychildren.com
-ww1.earlyshowcbsnews.com
 earnonfeedback.com
 earth-dancing.com
 earthquakescarf.com
@@ -16626,10 +16658,6 @@ fotoceweknakal.com
 tagman.fotolia.com
 fouanalytics.com
 foundfax.com
-aaa.fountasandpinell.com
-resource.fountasandpinell.com
-resources.fountasandpinell.com
-www.fountasandpinell.com
 fourarithmetic.com
 fourquare.com
 analytics.nova.fox.com
@@ -18668,7 +18696,6 @@ googolel.com
 gookl.com
 goolew.com
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
-board.goozaa.com
 goparod.com
 goplaylabels.com
 gorgeousground.com
@@ -19048,7 +19075,6 @@ ams3.100tb.heyzap.com
 ams4.100tb.heyzap.com
 lon1.100tb.heyzap.com
 par3.100tb.heyzap.com
-sjc1.100tb.heyzap.com
 wdc1.100tb.heyzap.com
 acls.heyzap.com
 adr.heyzap.com
@@ -19057,7 +19083,6 @@ android.heyzap.com
 resque-moses.ec2.heyzap.com
 o1.email.heyzap.com
 fyc.heyzap.com
-hzmedia-cdn.heyzap.com
 med.heyzap.com
 sdkstatic.heyzap.com
 android.stage-one.heyzap.com
@@ -19351,7 +19376,6 @@ tracking.hyros.com
 hystericalcloth.com
 hystericalhelp.com
 ww16.hyuday.com
-ww25.hyuday.com
 hyundaigenisis.com
 hyundauusa.com
 hyunja6.com
@@ -20229,7 +20253,6 @@ jyjwche.com
 kabu-book.com
 videostats.kakao.com
 kakapakistan.com
-ww11.kakatus.com
 kakatuz.com
 kakud.com
 analytics.kaltura.com
@@ -20960,7 +20983,6 @@ po.livejounral.com
 ww38.sirenscon.livejounral.com
 tyloric.livejounral.com
 ww16.livejounral.com
-ww25.livejounral.com
 ww38.livejounral.com
 ww38.wyldraven.livejounral.com
 njs.services.livejournal.com
@@ -22984,7 +23006,6 @@ mepirtedic.com
 ww16.mercedesbenzofhoustonnorth.com
 ww25.mercedesbenzofhoustonnorth.com
 ww38.mercedesbenzofhoustonnorth.com
-www.mercedesbenzofhoustonnorth.com
 merchantpm.com
 attribution.merrell.com
 stats.merriam-webster.com
@@ -23019,7 +23040,6 @@ ads.mic.com
 smetrics.michaels.com
 target.michaels.com
 ns2.bdm.micorsoftonline.com
-ns3.bdm.micorsoftonline.com
 ww25.login.micorsoftonline.com
 ww31.login.micorsoftonline.com
 mail.micorsoftonline.com
@@ -36244,7 +36264,7 @@ ww16.login.mocrosoftonline.com
 ww25.login.mocrosoftonline.com
 ww31.login.mocrosoftonline.com
 ww38.login.mocrosoftonline.com
-logion.mocrosoftonline.com
+ww25.logion.mocrosoftonline.com
 mail1.mocrosoftonline.com
 mailer.mocrosoftonline.com
 mailgate.mocrosoftonline.com
@@ -36253,12 +36273,10 @@ mailserver.mocrosoftonline.com
 mx1.mocrosoftonline.com
 passwordreset.mocrosoftonline.com
 portail.mocrosoftonline.com
-ww16.portal.mocrosoftonline.com
 ww35.portal.mocrosoftonline.com
 server.mocrosoftonline.com
 smtps.mocrosoftonline.com
 ww1.mocrosoftonline.com
-ww16.mocrosoftonline.com
 ww31.mocrosoftonline.com
 ww35.mocrosoftonline.com
 www.mocrosoftonline.com
@@ -37123,7 +37141,6 @@ user-room.naiadsystems.com
 nakaqut.com
 nakedcraig.com
 ww25.nakenpart.com
-www.nakenpart.com
 nalurujo.com
 namechecp.com
 data.namesakeoscilloscopemarquis.com
@@ -37341,7 +37358,6 @@ nehnutelnosti.com
 nei--corp.com
 neighborlywatch.com
 ww11.nejfilmy.com
-ww25.nejfilmy.com
 neodatagroup.com
 nerohut.com
 nervoussummer.com
@@ -37918,9 +37934,7 @@ www.nippellady.com
 nirmalbangsecurities.com
 nishilandwaterpark.com
 nisko-projectsusa.com
-ww2.nisnik.com
 ww25.nisnik.com
-ww35.nisnik.com
 www.nisnik.com
 nissian.com
 nitroclicks.com
@@ -46995,7 +47009,6 @@ rampmetrics.com
 expo.ads.ramsalt.com
 ww1.ramsurwey.com
 ww11.ramsurwey.com
-ww2.ramsurwey.com
 www.ramsurwey.com
 ranchonuevomexicanrestaurant.com
 ww1.randibazi.com
@@ -53719,6 +53732,7 @@ sugoicounter.com
 www.sugrasync.com
 suhacuc.com
 suite6ixty6ix.com
+ww11.sulancanews.com
 sulkybutter.com
 sulkycook.com
 summerobject.com
@@ -56874,7 +56888,6 @@ www.virginatlantc.com
 tagman.virginatlantic.com
 virginatllantic.com
 virginattlantic.com
-www.virgingmobileusa.com
 adserver.virginmedia.com
 virginmediativo.com
 virginmovil.com
@@ -57320,6 +57333,7 @@ email.wakanetwork.com
 home.wakanetwork.com
 imap1.wakanetwork.com
 imap2.wakanetwork.com
+interspire.wakanetwork.com
 mail1.wakanetwork.com
 mail2.wakanetwork.com
 mail3.wakanetwork.com
@@ -57855,15 +57869,6 @@ worldwidedigitalads.com
 worriednumber.com
 worthington-portal.com
 wowcirlce.com
-4jslg.wozbtc.com
-backoffice.wozbtc.com
-bot.wozbtc.com
-cloud.wozbtc.com
-dev1.wozbtc.com
-lms.wozbtc.com
-prod.wozbtc.com
-stage.wozbtc.com
-w1.wozbtc.com
 stats.wp.com
 www.wpeducation.com
 devmanny.wpengine.com
@@ -57960,7 +57965,6 @@ ww11.wwwfrev.com
 ww25.wwwfrev.com
 ww35.wwwfrev.com
 ww38.wwwfrev.com
-www.wwwfrev.com
 wwwfrif.com
 wwwgasparense.com
 wwwgeonumbers.com
@@ -59472,8 +59476,6 @@ youtubeco.com
 ww17.youtubecreators.com
 ww38.youtubecreators.com
 www.youtubecreators.com
-ww25.youtubeeee.com
-ww31.youtubeeee.com
 youtubefreeporn.com
 youtubegetmusicsoft.com
 youtubegmail.com
@@ -61940,12 +61942,8 @@ duman.info
 duniaprinter.info
 dunkelnacht.info
 durangomexico.info
-ww1.durara.info
 ww17.durara.info
 ww25.durara.info
-ww3.durara.info
-ww38.durara.info
-ww7.durara.info
 www.durara.info
 www.dutunudutu.info
 earthwisdom.info
@@ -62125,7 +62123,6 @@ ww3.ferdos.info
 ww38.ferdos.info
 www.ferdos.info
 ferienhausinnorwegen.info
-ww11.ffy4.info
 ww16.ffy4.info
 ww25.ffy4.info
 mail.fieberbrunn.info
@@ -62255,14 +62252,11 @@ ww1.futjakot.info
 ww17.futjakot.info
 www.futjakot.info
 futurestudys.info
-dev.fxwl.info
 old.fxwl.info
 shop.fxwl.info
-test.fxwl.info
 ww17.fxwl.info
 ww25.fxwl.info
 ww38.fxwl.info
-www.fxwl.info
 wwww.fxwl.info
 fyo.info
 g75v47q60.info
@@ -62277,7 +62271,6 @@ ww38.gameoke.info
 www.gameoke.info
 comune.gamerwap.info
 home.gamerwap.info
-mail.gamerwap.info
 mail10.gamerwap.info
 mail3.gamerwap.info
 mail4.gamerwap.info
@@ -62296,8 +62289,6 @@ srv.gamerwap.info
 topgames.gamerwap.info
 ww1.gamerwap.info
 ww11.gamerwap.info
-ww16.gamerwap.info
-ww25.gamerwap.info
 ww31.gamerwap.info
 ww38.gamerwap.info
 ww43.gamerwap.info
@@ -62483,7 +62474,8 @@ ww11.hitcrick.info
 ww25.hitcrick.info
 www.hitcrick.info
 www3.hitcrick.info
-hochfilzen.info
+mail.hochfilzen.info
+www.hochfilzen.info
 hochkoenig.info
 holisticphysicians.info
 hologeneticprofile.info
@@ -62546,7 +62538,6 @@ iptvserver.info
 ipv6news.info
 irkut.info
 isea2016.info
-ww25.m.islam-news.info
 isong.info
 it-stuff.info
 itsdogbreeds.info
@@ -62900,10 +62891,6 @@ www70.mobilesales.info
 modelismo-naval.info
 www.modernart.info
 moerbisch.info
-ww1.molnii.info
-ww17.molnii.info
-ww25.molnii.info
-ww38.molnii.info
 momonoyu.info
 moncherie.info
 monngonmoingay.info
@@ -63253,7 +63240,6 @@ organizationalmarket.info
 outdooradventure.info
 outdoorman.info
 nodejs.ovni.info
-shuriken.ovni.info
 www.ovni.info
 p108.info
 packettracer.info
@@ -63604,7 +63590,6 @@ ww1.pword.info
 ww16.pword.info
 ww2.pword.info
 ww25.pword.info
-ww38.pword.info
 www.pword.info
 que-significa-mi-nombre.info
 quepaso.info
@@ -80334,7 +80319,9 @@ trk.atomex.net
 atouba.net
 atsem.net
 auctionads.net
+0tatic.audienceinsights.net
 auth.audienceinsights.net
+ecure.audienceinsights.net
 er.audienceinsights.net
 er-br.audienceinsights.net
 er-de.audienceinsights.net
@@ -80351,8 +80338,11 @@ mx02.audienceinsights.net
 mx1.audienceinsights.net
 ns1.audienceinsights.net
 ns2.audienceinsights.net
+pixel.audienceinsights.net
 relay.audienceinsights.net
+secure.audienceinsights.net
 statics.audienceinsights.net
+tatic.audienceinsights.net
 whois.audienceinsights.net
 ww.audienceinsights.net
 www.audienceinsights.net
@@ -98303,7 +98293,6 @@ doublemax.net
 wwww.dpbolvw.net
 li.mw.drhinternet.net
 drillconsolidating.net
-www1.drivelicense.net
 dslinstallationbellsouth.net
 dubiavisa.net
 durationmedia.net
@@ -99517,7 +99506,6 @@ flippty.net
 flutterbyfields.net
 static.fmpub.net
 cdn.best-tv.com.c.footprint.net
-ssl-cdn-t.kicker.com.c.footprint.net
 global.msads.net.c.footprint.net
 ads.footymad.net
 ads.forbes.net
@@ -100665,7 +100653,6 @@ powerbi.com.rantec1.o365---lab.ransecurityshn2.myshn.net
 mystat-in.net
 mythmem.net
 mytop-in.net
-vt.myvisualiq.net
 myxmovies.net
 devint.mzbcdn.net
 prod.mzbcdn.net
@@ -107454,14 +107441,7 @@ email-verify.org
 emblemsales.org
 emetministries.org
 ad1.emule-project.org
-cust6.enfieldhomes.org
-family.enfieldhomes.org
-feedback.enfieldhomes.org
 www.meet.enfieldhomes.org
-security.enfieldhomes.org
-tango.enfieldhomes.org
-ww25.enfieldhomes.org
-ww38.enfieldhomes.org
 engineersrule.org
 englisforeveryone.org
 english-heritage.org
@@ -108081,7 +108061,6 @@ ww38.monticelloar.org
 www.monticelloar.org
 unmissions.monusco.org
 ww1.monusco.org
-ww25.monusco.org
 ww38.monusco.org
 www.monusco.org
 mooseint1.org
@@ -108152,7 +108131,6 @@ ww38.muhs.org
 www.muhs.org
 es.mundonatural.org
 gateway.mundonatural.org
-mail.mundonatural.org
 mail02.mundonatural.org
 mail12.mundonatural.org
 mail9.mundonatural.org
@@ -108160,10 +108138,7 @@ mailer.mundonatural.org
 pop.mundonatural.org
 server.mundonatural.org
 smtps.mundonatural.org
-webdisk.mundonatural.org
-ww1.mundonatural.org
 ww25.mundonatural.org
-www.mundonatural.org
 ads.muslimehelfen.org
 mutharaiyar.org
 my-stream.org
@@ -109477,11 +109452,6 @@ turkomania.org
 turnik.org
 tuscl.org
 tuttoanunci.org
-api.tvescola.org
-cdnbi.tvescola.org
-mail.tvescola.org
-revista.tvescola.org
-www.tvescola.org
 tvropes.org
 tweeker.org
 txcom.org
