@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 335976
+# Ignored duplicates: 335931
 
 chameleon.ad
 pixel.ad
@@ -2693,13 +2693,9 @@ barracuda.accelventures.com
 email.accelventures.com
 host.accelventures.com
 imap2.accelventures.com
-mail.accelventures.com
-mail3.accelventures.com
 mailhost.accelventures.com
-mta.accelventures.com
 secure.accelventures.com
 server2.accelventures.com
-smtp01.accelventures.com
 ww16.accelventures.com
 ww25.accelventures.com
 ww38.accelventures.com
@@ -6290,9 +6286,6 @@ v-63.algovid.com
 v-64.algovid.com
 v-65.algovid.com
 v2v.algovid.com
-ww16.alianzavisual.com
-ww25.alianzavisual.com
-ww38.alianzavisual.com
 aliasanvil.com
 antispam.aliasusa.com
 auth.aliasusa.com
@@ -7499,9 +7492,6 @@ www2.auditude.com
 aufr67i8sten.com
 aunica.com
 auntants.com
-ww16.aurigatrading.com
-ww25.aurigatrading.com
-ww38.aurigatrading.com
 ausgovindia.com
 ausieman.com
 austiran.com
@@ -7959,6 +7949,7 @@ bangkokstar.com
 bangladeshixnxx.com
 bangolore.com
 banhkofamerica.com
+ww11.bank-soal-un.com
 ww16.bank-soal-un.com
 bankaunited.com
 bankforclosedlistings.com
@@ -8151,7 +8142,6 @@ betterbanners.com
 betterbannerscloud.com
 ww16.bettycocker.com
 ww38.bettycocker.com
-www.bettycocker.com
 ads.betweendigital.com
 cache.betweendigital.com
 bewaslac.com
@@ -8238,7 +8228,6 @@ billigastelanet.com
 billigastforsakring.com
 billing-select.com
 mail.billyblank.com
-ww16.billyblank.com
 www.billyblank.com
 billywitchdoctor.com
 bilojobs.com
@@ -8488,7 +8477,6 @@ web.boldchat.com
 web-beta.boldchat.com
 ws.boldchat.com
 www.boldchat.com
-ww25.bombome.com
 www.bombome.com
 bombomme.com
 bombora.com
@@ -8827,8 +8815,6 @@ calculatingcircle.com
 calculatingtoothbrush.com
 calculatorcamera.com
 calculatorstatement.com
-ww1.calendari2012.com
-www.calendari2012.com
 californiastatetesting.com
 callawayvip.com
 callawy.com
@@ -9062,7 +9048,6 @@ releases.cdn-jquery.com
 six.cdn-net.com
 cdnativ.com
 tracker.cdnbye.com
-ww16.cdnmediafire.com
 ww25.cdnmediafire.com
 t.cdnopw.com
 www.cdnopw.com
@@ -10021,7 +10006,6 @@ cospot.com
 cosrtco.com
 costaricaapartment.com
 costcocreditcard.com
-cosumerlawfirmcenter.com
 banner.cotedazurpalace.com
 counselorreality.com
 counted.com
@@ -15429,7 +15413,6 @@ whosthat.duapps.com
 revive.dubcnm.com
 ducel.com
 mail.dufibepe.com
-ww1.dufibepe.com
 www.dufibepe.com
 dumbpop.com
 dunill.com
@@ -16457,17 +16440,13 @@ c.flx1.com
 fly-analytics.com
 com.flyeair.com
 email.flyeair.com
-mail1.flyeair.com
 mail2.flyeair.com
 mailgw.flyeair.com
 mailrelay.flyeair.com
 mailserver.flyeair.com
 ms.flyeair.com
-mx01.flyeair.com
 relay1.flyeair.com
 sniper.flyeair.com
-ww11.flyeair.com
-ww25.flyeair.com
 zmail.flyeair.com
 flyingvintage.com
 fmwold.com
@@ -18728,7 +18707,6 @@ guhafohu.com
 guideamour.com
 guieco.com
 www.guiguiland.com
-staging.guisinart.com
 guitarfedish.com
 gukacado.com
 gulfcoastconnections.com
@@ -18951,12 +18929,6 @@ qab.hextom.com
 usb.hextom.com
 assets.heylink.com
 tag.heylink.com
-ads.heyzap.com
-fyc.heyzap.com
-med.heyzap.com
-preflight.stage-one.heyzap.com
-trends.stage-one.heyzap.com
-android.stage-two.heyzap.com
 hf5rbejvpwds.com
 hfc195b.com
 hfrcl.com
@@ -19075,6 +19047,7 @@ honybunny.com
 click.hookupinyourcity.com
 click.hooligapps.com
 notice.hoopladigital.com
+ww16.hooshman-isp.com
 hoptheshop.com
 hormonacrecimiento.com
 horneybuds.com
@@ -19998,7 +19971,8 @@ jetlore.com
 ad.jetsoftware.com
 jetstarairline.com
 jeweleryfactorydirect.com
-jewelpets.com
+ww1.jewelpets.com
+ww11.jewelpets.com
 ads.jewishfriendfinder.com
 jianyuwenhua.com
 jibjabsendables.com
@@ -20284,7 +20258,6 @@ shelterinsurance.kampyle.com
 sodimac.kampyle.com
 sonos.kampyle.com
 subito.kampyle.com
-tableau.kampyle.com
 telefonicade.kampyle.com
 test.kampyle.com
 thermofishersbx.kampyle.com
@@ -20834,7 +20807,6 @@ live-mocha.com
 wlamazcsrv1.live-stripe.com
 ww1.live-stripe.com
 ww35.live-stripe.com
-www.live-stripe.com
 analytics.live.com
 liveadexchanger.com
 adv.livedoor.com
@@ -21563,6 +21535,7 @@ maccosmeticspro.com
 maccoubreys.com
 machieved.com
 machigames.com
+machotex.com
 macinstallerinfo.com
 mackeeperapp.mackeeper.com
 macksites.com
@@ -37745,7 +37718,6 @@ seed-7.nimiq.com
 seed-8.nimiq.com
 seed-9.nimiq.com
 nimiqpool.com
-mail3.ninaloca.com
 mailserver.ninaloca.com
 mx2.ninaloca.com
 ns2.ninaloca.com
@@ -42911,7 +42883,6 @@ paperworlds.com
 papoto.com
 papushapu.com
 papuyyar.com
-www.parachutes-occasions.com
 paradarestaurantpr.com
 paradoxfactor.com
 paradym.com
@@ -46779,7 +46750,6 @@ rampidads.com
 rampmetrics.com
 expo.ads.ramsalt.com
 ww11.ramsurwey.com
-www.ramsurwey.com
 ranchonuevomexicanrestaurant.com
 ww1.randibazi.com
 ww11.randibazi.com
@@ -46962,6 +46932,7 @@ redistats.com
 redtoube.com
 redtubed.com
 es.redtuber.com
+m.redtuber.com
 ww1.redtuber.com
 ww16.redtuber.com
 ww25.redtuber.com
@@ -50577,7 +50548,6 @@ smtpauth.rxpathway.com
 sniper.rxpathway.com
 ww16.rxpathway.com
 ww25.rxpathway.com
-ww38.rxpathway.com
 www.rxpathway.com
 rxprofessional.com
 rxsuperactive.com
@@ -50619,7 +50589,6 @@ www.sacredpages.com
 sadals.com
 sadloaf.com
 safedk.com
-ww1.safeharbourgames.com
 www.safeharbourgames.com
 safety-search.com
 safeyoutube.com
@@ -52906,9 +52875,7 @@ speedosnextdoor.com
 speedracergame.com
 speedshiftmedia.com
 affiliatemedia.speedybet.com
-ww25.spellenl.com
 ww38.spellenl.com
-www.spellenl.com
 spencerretail.com
 attribution.sperry.com
 adtag.sphdigital.com
@@ -53501,6 +53468,7 @@ www.sugrasync.com
 suhacuc.com
 suite6ixty6ix.com
 ww11.sulancanews.com
+ww25.sulancanews.com
 sulkybutter.com
 sulkycook.com
 summerobject.com
@@ -55042,9 +55010,7 @@ secure.tubqueens.com
 server.tubqueens.com
 smtps.tubqueens.com
 srv.tubqueens.com
-ww16.tubqueens.com
 ww25.tubqueens.com
-ww38.tubqueens.com
 www.tubqueens.com
 zmail.tubqueens.com
 tuby8.com
@@ -55561,6 +55527,7 @@ ads155.unoadsrv.com
 ads156.unoadsrv.com
 ads157.unoadsrv.com
 ads158.unoadsrv.com
+ads160.unoadsrv.com
 ads163.unoadsrv.com
 ads17.unoadsrv.com
 ads18.unoadsrv.com
@@ -56355,7 +56322,9 @@ a.vfgtb.com
 vfgte.com
 ads.vgchartz.com
 vhejafry.com
+ww11.vhlcenral.com
 ww25.vhlcenral.com
+www.vhlcenral.com
 s.vi-serve.com
 via9gag.com
 viacaoosasco.com
@@ -57538,6 +57507,7 @@ server2.worldlyric.com
 sniper.worldlyric.com
 srv.worldlyric.com
 ssl.worldlyric.com
+ww16.worldlyric.com
 www.worldlyric.com
 zimbra.worldlyric.com
 worldmathdays.com
@@ -57694,7 +57664,9 @@ wwwtuitionpay.com
 wwwuniteddentalonline.com
 wwwuntrust.com
 wwwustraveldocs.com
-wwwusvisa-mexico.com
+ww16.wwwusvisa-mexico.com
+ww5.wwwusvisa-mexico.com
+www.wwwusvisa-mexico.com
 ww1.wwwwaptrik.com
 www.wwwwaptrik.com
 wwwxnnx.com
@@ -58695,7 +58667,6 @@ ycarli.com
 ydigitalmedia.com
 bannersng.yell.com
 metrics.yellowpages.com
-ww25.yelol.com
 yepads.com
 yepopo.com
 yesads.com
@@ -59189,7 +59160,6 @@ ww35.zaies.com
 ww41.zaies.com
 www.zaies.com
 zaitzev.com
-ww16.zajicjiri.com
 ww25.zajicjiri.com
 ww38.zajicjiri.com
 zalescredit.com
@@ -59885,7 +59855,6 @@ failover-k8s-ams2.m6r.eu
 failover-router-ams2.m6r.eu
 gifwall.m6r.eu
 gokan.m6r.eu
-grafana.m6r.eu
 graphite.m6r.eu
 hue.m6r.eu
 management.m6r.eu
@@ -60298,7 +60267,6 @@ www.104ez.info
 177piczz.info
 1929barry.info
 1bollywood1.info
-ww1.1finalmovie.info
 ww38.1finalmovie.info
 1rhp.info
 www.1seautotoonorn.info
@@ -60555,7 +60523,6 @@ aerjournal.info
 afreeurl.info
 africanlegends.info
 aftereffectvn.info
-ww17.aguu.info
 ahhadesigns.info
 ainu.info
 www.akiba-pr.info
@@ -60716,15 +60683,11 @@ ww38.avlang17.info
 www.avlang17.info
 avlist.info
 ww16.blog.avpt.info
-mailin.avpt.info
 mvideo.avpt.info
-postmaster.avpt.info
 test.avpt.info
 wp.avpt.info
-ww1.avpt.info
 ww11.avpt.info
 ww17.avpt.info
-ww2.avpt.info
 ww25.avpt.info
 ww38.avpt.info
 www.avpt.info
@@ -60772,6 +60735,7 @@ ww6.baixarjogoscompletos.info
 www.baixarjogoscompletos.info
 mvideo.baixartorrent.info
 ww16.baixartorrent.info
+ww25.baixartorrent.info
 ww38.baixartorrent.info
 www.baixartorrent.info
 mail.balkaria.info
@@ -60986,7 +60950,6 @@ bled.info
 blockchani.info
 mvideo.blogvlw.info
 ww1.blogvlw.info
-www.blogvlw.info
 www77.blogvlw.info
 bluehippo.info
 bluenews.info
@@ -61772,8 +61735,6 @@ ww3.ferdos.info
 ww38.ferdos.info
 www.ferdos.info
 ferienhausinnorwegen.info
-ww16.ffy4.info
-ww25.ffy4.info
 mail.fieberbrunn.info
 antispam.figvam.info
 correo.figvam.info
@@ -62787,10 +62748,7 @@ cpcalendars.nrpg.info
 cpcontacts.nrpg.info
 mail.nrpg.info
 ww38.nstudio.nrpg.info
-ww17.ratiomaster.nrpg.info
-ww38.ratiomaster.nrpg.info
 webdisk.nrpg.info
-www.nrpg.info
 ww1.nrxdh.info
 ww11.nrxdh.info
 ww17.nrxdh.info
@@ -63265,9 +63223,7 @@ receptcity.info
 recepti-i-ideje.info
 red-rose.info
 redhotrealty.info
-ww16.mvideo.redup.info
 ww25.mvideo.redup.info
-webdisk.redup.info
 ww25.redup.info
 referendumailietuvos.info
 mx.regeneration.info
@@ -64012,7 +63968,6 @@ ww1.tosec.info
 ww11.tosec.info
 ww25.tosec.info
 ww38.tosec.info
-www.tosec.info
 totoarena.info
 touring24.info
 toutsurtlemcen.info
@@ -72413,7 +72368,6 @@ insight.logly.co.jp
 l.logly.co.jp
 lift.logly.co.jp
 liftapi.logly.co.jp
-loyal.logly.co.jp
 mail.logly.co.jp
 nt-compass-fit-jp.logly.co.jp
 proxy.logly.co.jp
@@ -82655,7 +82609,9 @@ coldwarshooters.net
 coleccionismo.net
 collegelatinas.net
 colorkids.net
-commentcamarch.net
+droit-finances.commentcamarch.net
+ww10.commentcamarch.net
+ww16.commentcamarch.net
 community-baptist.net
 comxcast.net
 connecthackensackumc.net
@@ -82872,7 +82828,6 @@ dnssitter.net
 ads.docunordic.net
 telemetry.docusign.net
 ww1.dogvideoclub.net
-ww16.dogvideoclub.net
 ww25.dogvideoclub.net
 ww16.ww16.ww38.dogvideoclub.net
 www.dogvideoclub.net
@@ -99883,7 +99838,6 @@ karppausinfo.net
 katespisnups.net
 kbj19.net
 kbpcollegevashi.net
-ww1.kccllcc.net
 kerei.net
 kidmose.net
 kinguit.net
@@ -105988,21 +105942,13 @@ webtrekk.net
 whachmovies.net
 whitedate.net
 whoisonline.net
-dev.wholesalebusinesscn.net
 magento.wholesalebusinesscn.net
 old.wholesalebusinesscn.net
-shop.wholesalebusinesscn.net
-sitemap.wholesalebusinesscn.net
-sitemaps.wholesalebusinesscn.net
 staging.wholesalebusinesscn.net
 test.wholesalebusinesscn.net
 ww1.wholesalebusinesscn.net
-ww11.wholesalebusinesscn.net
 ww17.wholesalebusinesscn.net
-ww25.wholesalebusinesscn.net
-ww35.wholesalebusinesscn.net
 ww38.wholesalebusinesscn.net
-www.wholesalebusinesscn.net
 bmbstatic.blob.core.windows.net
 cookiesuksouth.blob.core.windows.net
 mg2assetsdev.blob.core.windows.net
@@ -106279,10 +106225,9 @@ www.3qqq.org
 51av.org
 51avi.org
 ww1.55n3.org
-ww11.55n3.org
+ww25.ww11.55n3.org
 ww16.55n3.org
 ww17.55n3.org
-ww25.55n3.org
 ww38.55n3.org
 www.55n3.org
 57so.org
@@ -106742,38 +106687,9 @@ www.commonswikimedia.org
 communityhealthplan.org
 concivica.org
 consensu.org
-antispam.consulfrance-edimbourg.org
-auth.consulfrance-edimbourg.org
-hermes.consulfrance-edimbourg.org
-imap1.consulfrance-edimbourg.org
-mail01.consulfrance-edimbourg.org
-mail1.consulfrance-edimbourg.org
-mail12.consulfrance-edimbourg.org
-mailbox.consulfrance-edimbourg.org
-mailer.consulfrance-edimbourg.org
-mailhost.consulfrance-edimbourg.org
-mailx.consulfrance-edimbourg.org
-mbox.consulfrance-edimbourg.org
-mx.consulfrance-edimbourg.org
-mx10.consulfrance-edimbourg.org
-mx3.consulfrance-edimbourg.org
-mx4.consulfrance-edimbourg.org
 ns2.consulfrance-edimbourg.org
-poczta.consulfrance-edimbourg.org
-pop.consulfrance-edimbourg.org
-post.consulfrance-edimbourg.org
-postmaster.consulfrance-edimbourg.org
-relay1.consulfrance-edimbourg.org
-relay2.consulfrance-edimbourg.org
-root.consulfrance-edimbourg.org
-server.consulfrance-edimbourg.org
-server1.consulfrance-edimbourg.org
-server2.consulfrance-edimbourg.org
-smtpauth.consulfrance-edimbourg.org
-sniper.consulfrance-edimbourg.org
 ww1.consulfrance-edimbourg.org
 www.consulfrance-edimbourg.org
-www1.consulfrance-edimbourg.org
 metrics.consumerreports.org
 smetrics.consumerreports.org
 coresera.org
@@ -106861,7 +106777,7 @@ cwebh.org
 cwuce.org
 cyberthreatcoalition.org
 cylab.org
-cytcunoc.org
+www.cytcunoc.org
 d6f.org
 dabomb.org
 dailystream.org
