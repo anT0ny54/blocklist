@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 335974
+# Ignored duplicates: 336007
 
 chameleon.ad
 pixel.ad
@@ -2190,7 +2190,6 @@ affiliate.1800flowers.com
 1terms.com
 1thology.com
 1worldonline.com
-www.2-tigers.com
 2015pharmacy.com
 20eth.com
 21e14corp.com
@@ -6838,16 +6837,6 @@ ambiguousquilt.com
 ambitiousagreement.com
 ambra.com
 ambroseshoemaker.com
-antispam.ambtraders.com
-gw.ambtraders.com
-home.ambtraders.com
-mx01.ambtraders.com
-mx02.ambtraders.com
-ns1.ambtraders.com
-relay.ambtraders.com
-root.ambtraders.com
-smtp01.ambtraders.com
-smtpauth.ambtraders.com
 mms.amc.com
 amdaws.com
 amdgt.com
@@ -7101,7 +7090,6 @@ www.aolomail.com
 www2.aolomail.com
 zimbra.aolomail.com
 aovivo.com
-apathetictheory.com
 apaxalarm.com
 apester.com
 aplimarathi.com
@@ -7853,7 +7841,6 @@ sitemaps.b5e75c56.com
 ww1.b5e75c56.com
 www.b5e75c56.com
 bab-el-oued.com
-www.babesatomy.com
 babiesru.com
 bablace.com
 babrbiegirl.com
@@ -8212,8 +8199,6 @@ www.billgateshelp.com
 billigastelanet.com
 billigastforsakring.com
 billing-select.com
-mail.billyblank.com
-www.billyblank.com
 billywitchdoctor.com
 bilojobs.com
 services.bilsyndication.com
@@ -8257,7 +8242,6 @@ g.bing.com
 bining-involled.com
 binkiland.com
 biodeshautsdefrance.com
-www.gr.com---autotargeting.biolinok.com
 bipjiza.com
 bipolardisorderlab.com
 biqel.com
@@ -8501,8 +8485,6 @@ boxingfights.com
 boyfrienstv.com
 ads.boylesports.com
 boyonthenet.com
-ww1.boysfoob.com
-ww25.boysfoob.com
 boystwon.com
 bpath.com
 bpdresources.com
@@ -8630,7 +8612,6 @@ aff.bstatic.com
 btbshoping.com
 www.btc-bonus.com
 ion.btcswe.com
-www.btefair.com
 btinternernet.com
 btloader.com
 web.btncdn.com
@@ -8753,6 +8734,8 @@ burlengton.com
 burlingtonfactoryoutlet.com
 burrningcamel.com
 businessbells.com
+ww11.businessfinansial.com
+ww35.businessfinansial.com
 analytics.businessinsider.com
 coupons.businessinsider.com
 bustlinganimal.com
@@ -9257,6 +9240,7 @@ connect.clearbit.com
 connect-client.clearbit.com
 connect-outlook.clearbit.com
 design.clearbit.com
+dev-es710.os.dev.clearbit.com
 dev-os13.os.dev.clearbit.com
 luc-os13.os.dev.clearbit.com
 discovery.clearbit.com
@@ -9273,6 +9257,7 @@ hello.clearbit.com
 forms.help.clearbit.com
 home.clearbit.com
 hubspot.clearbit.com
+jaeger.os.infra.clearbit.com
 js.clearbit.com
 log.clearbit.com
 logo-core.clearbit.com
@@ -9284,12 +9269,14 @@ partnerships.clearbit.com
 person.clearbit.com
 person-stream.clearbit.com
 preferences.clearbit.com
+jaeger.os.prod.clearbit.com
 prospector.clearbit.com
 reveal.clearbit.com
 reveal-ga.clearbit.com
 risk.clearbit.com
 salesforce-extension.clearbit.com
 segment.clearbit.com
+staging-os13.os.staging.clearbit.com
 status.clearbit.com
 try.clearbit.com
 turk.clearbit.com
@@ -10769,7 +10756,6 @@ worker.deadlinefunnel.com
 www.deadlinefunnel.com
 deadpangate.com
 deadpanmarble.com
-deadpantruck.com
 dealdotcom.com
 analytics.dealer.com
 dfanalytics.dealerfire.com
@@ -16693,7 +16679,6 @@ yoyumob.fusetracking.com
 fusionquest.com
 futanar.com
 futanarigalleries.com
-www.futureiet.com
 design-system.futurelean.com
 links.futurelean.com
 mail.futurelean.com
@@ -19855,6 +19840,8 @@ tag.ivitrack.com
 americansforprosperity.ivolunteers.com
 ivykiosk.com
 en.iwkipedia.com
+ww1.iwkipedia.com
+www.iwkipedia.com
 rose.ixbt.com
 iyfnzgb.com
 izooto.com
@@ -19925,7 +19912,8 @@ jcpportraints.com
 wwww.jdoqocy.com
 jdunbar.com
 jdwentworth.com
-jecpeny.com
+fbt.jecpeny.com
+rg.jecpeny.com
 jennifersofas.com
 jeolladosushi.com
 cno.jerkmate.com
@@ -19937,7 +19925,6 @@ jetlore.com
 ad.jetsoftware.com
 jetstarairline.com
 jeweleryfactorydirect.com
-ww1.jewelpets.com
 ads.jewishfriendfinder.com
 jianyuwenhua.com
 jibjabsendables.com
@@ -20726,7 +20713,6 @@ www.listrakbi.com
 littlegirlsnude.com
 live-cric.com
 live-mocha.com
-wlamazcsrv1.live-stripe.com
 ww1.live-stripe.com
 analytics.live.com
 liveadexchanger.com
@@ -22575,7 +22561,6 @@ ads.affiliates.match.com
 matchcraft.com
 materialisticfan.com
 materialmoon.com
-www.maternityporn.com
 creative-origin.cbe.mathads.com
 creative.mathads.com
 creative-preview.mathads.com
@@ -22781,7 +22766,9 @@ mail.micorsoftonline.com
 ogin.micorsoftonline.com
 passwordreset.micorsoftonline.com
 ww25.portal.micorsoftonline.com
+ww25.micorsoftonline.com
 ww31.micorsoftonline.com
+ww38.micorsoftonline.com
 ww8.micorsoftonline.com
 www.micorsoftonline.com
 03tnrovd.micpn.com
@@ -35999,6 +35986,7 @@ mbox.mocrosoftonline.com
 mta.mocrosoftonline.com
 mx01.mocrosoftonline.com
 mx1.mocrosoftonline.com
+office365.mocrosoftonline.com
 passwordreset.mocrosoftonline.com
 portail.mocrosoftonline.com
 ww35.portal.mocrosoftonline.com
@@ -36006,6 +35994,7 @@ server.mocrosoftonline.com
 smtps.mocrosoftonline.com
 vmail.mocrosoftonline.com
 ww1.mocrosoftonline.com
+ww25.mocrosoftonline.com
 ww31.mocrosoftonline.com
 ww35.mocrosoftonline.com
 ww38.mocrosoftonline.com
@@ -36548,6 +36537,7 @@ ww25.mucho-hentai.com
 ww38.mucho-hentai.com
 www.mucho-hentai.com
 multiext.com
+ww1.mummy8.com
 ww2.mummy8.com
 ww35.mummy8.com
 mundanenail.com
@@ -37433,7 +37423,6 @@ newsandpromotions.com
 newscgp.com
 auth.newsibm.com
 bt.newsibm.com
-cd.newsibm.com
 imap2.newsibm.com
 mail2.newsibm.com
 mailgw.newsibm.com
@@ -42806,7 +42795,6 @@ pardot.com
 parentpicture.com
 pargon.com
 paris-saillard.com
-ww16.parishotelandcasino.com
 parkplacemotors.com
 parrz.com
 parsely.com
@@ -43383,17 +43371,6 @@ pornwilileaks.com
 porsche-desing.com
 portalhc.com
 portaporal.com
-direct.portstlucienews.com
-mail.portstlucienews.com
-mail2.portstlucienews.com
-mail7.portstlucienews.com
-mx0.portstlucienews.com
-mxs.portstlucienews.com
-ns.portstlucienews.com
-outmail.portstlucienews.com
-pbrand.portstlucienews.com
-relay.portstlucienews.com
-vmail.portstlucienews.com
 ww16.portstlucienews.com
 portugalsurfhotel.com
 poscute.com
@@ -46723,7 +46700,6 @@ recessgobananas.com
 recipeally.com
 reconditerake.com
 reconditerespect.com
-ww1.recordedonperson.com
 recreationshoes.com
 recruitem.com
 action.recruitics.com
@@ -53363,6 +53339,7 @@ suhacuc.com
 suite6ixty6ix.com
 ww11.sulancanews.com
 ww25.sulancanews.com
+ww38.sulancanews.com
 www.sulancanews.com
 sulkybutter.com
 sulkycook.com
@@ -54253,7 +54230,6 @@ theadhost.com
 theadx.com
 theallxclubguru.com
 ww1.theamaturetube.com
-www.theamaturetube.com
 theamericndishtv.com
 theamricandishtv.com
 apiweb248.theappanalytics.com
@@ -55491,6 +55467,7 @@ ads6.unoadsrv.com
 ads61.unoadsrv.com
 ads62.unoadsrv.com
 ads63.unoadsrv.com
+ads65.unoadsrv.com
 ads7.unoadsrv.com
 ads9.unoadsrv.com
 ads99.unoadsrv.com
@@ -57064,8 +57041,6 @@ webcindario.com
 webclickroute.com
 webcontentassessor.com
 ww1.webegettingrich.com
-ww16.webegettingrich.com
-www.webegettingrich.com
 afiles.webengage.com
 api.webengage.com
 c.webengage.com
@@ -57551,8 +57526,6 @@ wwwtuitionpay.com
 wwwuniteddentalonline.com
 wwwuntrust.com
 wwwustraveldocs.com
-ww5.wwwusvisa-mexico.com
-www.wwwusvisa-mexico.com
 ww1.wwwwaptrik.com
 www.wwwwaptrik.com
 wwwxnnx.com
@@ -59046,7 +59019,6 @@ ww35.zaies.com
 ww41.zaies.com
 www.zaies.com
 zaitzev.com
-ww25.zajicjiri.com
 zalescredit.com
 ww25.zaluucom.com
 ww38.zaluucom.com
@@ -59573,7 +59545,6 @@ dn.planetapes.de
 ads.playzo.de
 ads.ppvmedien.de
 pr-star.de
-praddpro.de
 ad.profiwin.de
 cgicounter.puretec.de
 bnnrrv.qontentum.de
@@ -59735,16 +59706,13 @@ dmp-staging.m6r.eu
 dsp.m6r.eu
 forecasting.dsp-warehouse-staging.m6r.eu
 forecasting.dsp-warehouse.m6r.eu
-failover-k8s-ams2.m6r.eu
 failover-router-ams2.m6r.eu
 gifwall.m6r.eu
 gokan.m6r.eu
 graphite.m6r.eu
-hue.m6r.eu
 management.m6r.eu
 management-testing.m6r.eu
 origin-tracking.m6r.eu
-puppet-private.m6r.eu
 reporting.m6r.eu
 testpublisher.m6r.eu
 tracking.m6r.eu
@@ -60489,12 +60457,6 @@ www.applifier.info
 aqueduct.info
 ar-raudhah.info
 arabtravail.info
-mailrelay.aroundthe-world.info
-mx0.aroundthe-world.info
-mx7.aroundthe-world.info
-post.aroundthe-world.info
-relay.aroundthe-world.info
-smtp01.aroundthe-world.info
 artecrochet.info
 arterienverkalkung.info
 arteycultura.info
@@ -60555,10 +60517,8 @@ ww38.avlang17.info
 www.avlang17.info
 avlist.info
 ww16.blog.avpt.info
-test.avpt.info
-wp.avpt.info
+ww16.wp.avpt.info
 ww17.avpt.info
-ww25.avpt.info
 www.avpt.info
 www.avtonom.info
 avusturyavizesi.info
@@ -60815,7 +60775,6 @@ analytics.bitrix.info
 bizbuildermastery.info
 bled.info
 blockchani.info
-www77.blogvlw.info
 bluehippo.info
 bluenews.info
 boatrental.info
@@ -60884,7 +60843,6 @@ www.borenje.info
 www1.borenje.info
 www2.borenje.info
 zimbra.borenje.info
-ww1.boxofficetraffic.info
 ww17.boxofficetraffic.info
 brazzers-hdx.info
 brshare.info
@@ -61033,8 +60991,11 @@ caouu.info
 caratulas.info
 antispam.cardking.info
 authsmtp.cardking.info
+com.cardking.info
 comune.cardking.info
 correo.cardking.info
+cs.cardking.info
+direct.cardking.info
 email.cardking.info
 gateway.cardking.info
 gw.cardking.info
@@ -61042,6 +61003,7 @@ hermes.cardking.info
 host.cardking.info
 l.cardking.info
 le.cardking.info
+lopez.cardking.info
 mail.cardking.info
 mail3.cardking.info
 mail5.cardking.info
@@ -61060,12 +61022,16 @@ mx01.cardking.info
 mx10.cardking.info
 mx2.cardking.info
 mx5.cardking.info
+mx7.cardking.info
 ns.cardking.info
 ns2.cardking.info
 out.cardking.info
+outmail.cardking.info
 po.cardking.info
 pop.cardking.info
 relay1.cardking.info
+relay2.cardking.info
+seed.cardking.info
 server1.cardking.info
 server2.cardking.info
 smtp01.cardking.info
@@ -61073,7 +61039,9 @@ smtpauth.cardking.info
 smtps.cardking.info
 smtpseguro.cardking.info
 sniper.cardking.info
+srv.cardking.info
 vmail.cardking.info
+vps.cardking.info
 ww1.cardking.info
 ww17.cardking.info
 www.cardking.info
@@ -61642,7 +61610,6 @@ ww3.ferdos.info
 ww38.ferdos.info
 www.ferdos.info
 ferienhausinnorwegen.info
-mail.fieberbrunn.info
 antispam.figvam.info
 correo.figvam.info
 mail.figvam.info
@@ -61786,7 +61753,7 @@ gamezonewap.info
 ganihp.info
 ganokuni.info
 gasteinertal.info
-gbinsta.info
+www.gbinsta.info
 gear-up.info
 geckos.info
 geid.info
@@ -62024,7 +61991,7 @@ ipv6news.info
 irkut.info
 isea2016.info
 isong.info
-www.it-notes.info
+it-notes.info
 it-stuff.info
 itsdogbreeds.info
 ivory.info
@@ -62040,12 +62007,7 @@ japy.info
 jayrigby.info
 jebar.info
 jetztodernie.info
-cpcontacts.jezdeckaskola.info
 mail.jezdeckaskola.info
-ww1.jezdeckaskola.info
-ww11.jezdeckaskola.info
-ww25.jezdeckaskola.info
-ww38.jezdeckaskola.info
 www.jezdeckaskola.info
 jianyue.info
 jinan.info
@@ -63170,6 +63132,7 @@ ww38.rockontrains.info
 www.rockontrains.info
 rohkost.info
 ma.rollover.info
+ww1.rollover.info
 ww25.rollover.info
 www.rollover.info
 romiso.info
@@ -63242,15 +63205,11 @@ ww25.salemfonden.info
 ww38.salemfonden.info
 www.salemfonden.info
 cpcalendars.saludablemente.info
-cpcontacts.saludablemente.info
-mail.saludablemente.info
-webdisk.saludablemente.info
 ww1.saludablemente.info
 ww11.saludablemente.info
 ww16.saludablemente.info
 ww25.saludablemente.info
 ww38.saludablemente.info
-www.saludablemente.info
 samstha.info
 cpcontacts.sancarlosminas.info
 mail.sancarlosminas.info
@@ -82499,7 +82458,6 @@ coleccionismo.net
 collegelatinas.net
 colorkids.net
 droit-finances.commentcamarch.net
-ww10.commentcamarch.net
 ww16.commentcamarch.net
 community-baptist.net
 comxcast.net
@@ -82716,8 +82674,6 @@ dnsnanny.net
 dnssitter.net
 ads.docunordic.net
 telemetry.docusign.net
-ww1.dogvideoclub.net
-ww16.ww16.ww38.dogvideoclub.net
 dotmetrics.net
 track.double.net
 accounts.doubleclick.net
@@ -106104,7 +106060,6 @@ www.3qqq.org
 511mo.org
 51av.org
 51avi.org
-ww16.55n3.org
 ww38.55n3.org
 57so.org
 5lu.org
@@ -106563,6 +106518,7 @@ www.commonswikimedia.org
 communityhealthplan.org
 concivica.org
 consensu.org
+mail.consulfrance-edimbourg.org
 mails.consulfrance-edimbourg.org
 ns2.consulfrance-edimbourg.org
 send.consulfrance-edimbourg.org
@@ -108955,6 +108911,7 @@ ventriloharassment.org
 ww16.veporn.org
 ww25.veporn.org
 www.veporn.org
+ns1.veridaincu.org
 ww1.veridaincu.org
 verpelis.org
 ww17.victoria-justice.org
