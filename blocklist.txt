@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336007
+# Ignored duplicates: 336008
 
 chameleon.ad
 pixel.ad
@@ -2258,7 +2258,6 @@ zmail.2sshoes.com
 2znp09oa.com
 3337723.com
 33across.com
-ww16.360bwin.com
 360safe.com
 360yield.com
 362b643a66026e.com
@@ -7723,55 +7722,6 @@ xxdtuvo.awsmppl.com
 youare.awsmppl.com
 zpuffy.awsmppl.com
 awsstatreporter.com
-antispam.awtank.com
-art.awtank.com
-auth.awtank.com
-authsmtp.awtank.com
-com.awtank.com
-comune.awtank.com
-direct.awtank.com
-email.awtank.com
-gw.awtank.com
-hermes.awtank.com
-host.awtank.com
-imap2.awtank.com
-internet.awtank.com
-ipe.awtank.com
-mail12.awtank.com
-mail4.awtank.com
-mail8.awtank.com
-mailapp.awtank.com
-mailer.awtank.com
-mailgate.awtank.com
-mailgw.awtank.com
-mailout.awtank.com
-mailrelay.awtank.com
-ms1.awtank.com
-mta.awtank.com
-mta1.awtank.com
-mx02.awtank.com
-mx10.awtank.com
-mx2.awtank.com
-mx20.awtank.com
-newmail.awtank.com
-pbrand.awtank.com
-post.awtank.com
-relay.awtank.com
-secure.awtank.com
-seed.awtank.com
-server.awtank.com
-smtp01.awtank.com
-smtpauth.awtank.com
-sniper.awtank.com
-srv.awtank.com
-ssl.awtank.com
-tiger.awtank.com
-tw.awtank.com
-vmail.awtank.com
-vnet.awtank.com
-vps.awtank.com
-www1.awtank.com
-zimbra.awtank.com
 awzbijw.com
 axiomaticalley.com
 link.axios.com
@@ -7965,7 +7915,6 @@ barclayd.com
 baremetrics.com
 baristand.com
 barnsleyloftandpigeon.com
-ww1.barrettcars.com
 ww16.barrettcars.com
 ww25.barrettcars.com
 barsabon.com
@@ -8734,6 +8683,7 @@ burlengton.com
 burlingtonfactoryoutlet.com
 burrningcamel.com
 businessbells.com
+ww1.businessfinansial.com
 ww11.businessfinansial.com
 ww35.businessfinansial.com
 analytics.businessinsider.com
@@ -9892,6 +9842,7 @@ o31.ck.m.convertkit.com
 o8.ck.m.convertkit.com
 link.m.convertkit.com
 mail.convertkit.com
+migrations.convertkit.com
 o10.ck.n.convertkit.com
 o15.ck.n.convertkit.com
 o16.ck.n.convertkit.com
@@ -17745,7 +17696,6 @@ tribez-stat.game-insight.com
 track.game18click.com
 gameanalytics.com
 gameandfishnetwork.com
-www.gamebannernet.com
 gamefugh.com
 gamenoed.com
 www.gamerz-land.com
@@ -19477,7 +19427,6 @@ analytics.dyn.indeed.com
 iadprod.indeed.com
 pxl.indeed.com
 sentry.indeed.com
-t.indeed.com
 jas.indeednps.com
 indemaya.com
 indexexchange.com
@@ -19912,8 +19861,6 @@ jcpportraints.com
 wwww.jdoqocy.com
 jdunbar.com
 jdwentworth.com
-fbt.jecpeny.com
-rg.jecpeny.com
 jennifersofas.com
 jeolladosushi.com
 cno.jerkmate.com
@@ -20310,7 +20257,7 @@ kington123.com
 ads.kinxxx.com
 kiosked.com
 metric.kirklands.com
-kirmizcam.com
+ww1.kirmizcam.com
 kissmetrics.com
 kissyouporn.com
 kivitie.com
@@ -20375,7 +20322,6 @@ kurandakihidayet.com
 kurdrojh.com
 kusharice.com
 kutsatsa.com
-kuwujo.com
 ad-template.kuyun.com
 api-ad.kuyun.com
 kwanzoo.com
@@ -20440,7 +20386,6 @@ whatsnew.launchdarkly.com
 lauritch.com
 laybrookscooters.com
 lazerlending.com
-lcoste.com
 auth.lcs-solar.com
 autoconfig.lcs-solar.com
 autodiscover.lcs-solar.com
@@ -20713,7 +20658,6 @@ www.listrakbi.com
 littlegirlsnude.com
 live-cric.com
 live-mocha.com
-ww1.live-stripe.com
 analytics.live.com
 liveadexchanger.com
 adv.livedoor.com
@@ -21594,7 +21538,6 @@ maitresse.com
 scripts.makeinfluence.com
 makkahhilton.com
 malaysianewsjournal.com
-ww16.malhotraflowers.com
 malibupalities.com
 mallusexy.com
 malsup.com
@@ -22760,6 +22703,7 @@ ads.mic.com
 smetrics.michaels.com
 target.michaels.com
 ns2.bdm.micorsoftonline.com
+ns3.bdm.micorsoftonline.com
 ww25.login.micorsoftonline.com
 ww31.login.micorsoftonline.com
 mail.micorsoftonline.com
@@ -22768,6 +22712,7 @@ passwordreset.micorsoftonline.com
 ww25.portal.micorsoftonline.com
 ww25.micorsoftonline.com
 ww31.micorsoftonline.com
+ww35.micorsoftonline.com
 ww38.micorsoftonline.com
 ww8.micorsoftonline.com
 www.micorsoftonline.com
@@ -37294,6 +37239,7 @@ insights-collector.newrelic.com
 insights-embed.newrelic.com
 integration.newrelic.com
 integration-alerts.newrelic.com
+internal-ed.newrelic.com
 ip-connectivity-test-162-247-240.newrelic.com
 ir.newrelic.com
 issues.newrelic.com
@@ -37323,6 +37269,7 @@ mobile-symbol-upload.newrelic.com
 mobile-symbol-upload-origin.newrelic.com
 next-azure-ext.newrelic.com
 nrpn.newrelic.com
+nru.newrelic.com
 nucleus-lb.newrelic.com
 oldblog.newrelic.com
 one.newrelic.com
@@ -37365,6 +37312,7 @@ staging-collectors.newrelic.com
 staging-connect.newrelic.com
 staging-discuss.newrelic.com
 staging-forums.newrelic.com
+staging-httptools.newrelic.com
 staging-identity-api.newrelic.com
 staging-images.newrelic.com
 staging-infra.newrelic.com
@@ -37422,7 +37370,6 @@ yum.newrelic.com
 newsandpromotions.com
 newscgp.com
 auth.newsibm.com
-bt.newsibm.com
 imap2.newsibm.com
 mail2.newsibm.com
 mailgw.newsibm.com
@@ -37433,9 +37380,6 @@ poczta.newsibm.com
 pop.newsibm.com
 smtpauth.newsibm.com
 smtps.newsibm.com
-ww25.newsibm.com
-ww38.newsibm.com
-www.newsibm.com
 newsjacaranda.com
 newsletter-link.com
 newsmaxfeednetwork.com
@@ -37623,10 +37567,6 @@ seed-7.nimiq.com
 seed-8.nimiq.com
 seed-9.nimiq.com
 nimiqpool.com
-mailserver.ninaloca.com
-mx2.ninaloca.com
-ns2.ninaloca.com
-post.ninaloca.com
 ww16.ninaloca.com
 ww38.ninaloca.com
 ninesmsn.com
@@ -42134,6 +42074,7 @@ a9974278916.cdn.optimizely.com
 www.cdn.optimizely.com
 cg.optimizely.com
 errors.client.optimizely.com
+cmstest.optimizely.com
 commerce-edu.optimizely.com
 common.optimizely.com
 communications.optimizely.com
@@ -42376,11 +42317,16 @@ production.optimizely.com
 query.optimizely.com
 querying.optimizely.com
 rc-app.optimizely.com
+app.au1.reporting.optimizely.com
 app.eu1.reporting.optimizely.com
 app.inte.reporting.optimizely.com
 app.eu.inte.reporting.optimizely.com
+app.eu1.inte.reporting.optimizely.com
+app.us1.inte.reporting.optimizely.com
 app.prep.reporting.optimizely.com
 app.eu.prep.reporting.optimizely.com
+app.eu1.prep.reporting.optimizely.com
+app.us1.prep.reporting.optimizely.com
 app.us1.reporting.optimizely.com
 rum.optimizely.com
 segdemo.optimizely.com
@@ -43319,19 +43265,14 @@ gateway.popunderonly.com
 gw.popunderonly.com
 home.popunderonly.com
 host.popunderonly.com
-mail01.popunderonly.com
 mail02.popunderonly.com
 mail12.popunderonly.com
-mail3.popunderonly.com
-mailapp.popunderonly.com
 mailer.popunderonly.com
 mailgate.popunderonly.com
-mailgw.popunderonly.com
 mailrelay.popunderonly.com
 mailsrv.popunderonly.com
 mbox.popunderonly.com
 ms1.popunderonly.com
-mx0.popunderonly.com
 mx01.popunderonly.com
 mx5.popunderonly.com
 mxs.popunderonly.com
@@ -43347,7 +43288,6 @@ root.popunderonly.com
 server1.popunderonly.com
 sniper.popunderonly.com
 srv.popunderonly.com
-www.popunderonly.com
 www2.popunderonly.com
 zimbra.popunderonly.com
 zmail.popunderonly.com
@@ -52155,7 +52095,6 @@ smilewanted.com
 smilingcattle.com
 smilingwaves.com
 smoggysnakes.com
-www.smokefirealarms.com
 smokeykin.com
 smokeymouth.com
 cdn.smrt-content.com
@@ -53574,7 +53513,6 @@ www.suntrutst.com
 www.sunwayputrahotel.com
 ads.suomiautomaatti.com
 supedrug.com
-ww38.super-grandsparents.com
 aaguides.superawesome.com
 marketing.superawesome.com
 superbnike.com
@@ -54229,7 +54167,6 @@ theadex.com
 theadhost.com
 theadx.com
 theallxclubguru.com
-ww1.theamaturetube.com
 theamericndishtv.com
 theamricandishtv.com
 apiweb248.theappanalytics.com
@@ -55392,6 +55329,7 @@ ads155.unoadsrv.com
 ads156.unoadsrv.com
 ads157.unoadsrv.com
 ads158.unoadsrv.com
+ads16.unoadsrv.com
 ads160.unoadsrv.com
 ads163.unoadsrv.com
 ads17.unoadsrv.com
@@ -55435,6 +55373,9 @@ ads28.unoadsrv.com
 ads29.unoadsrv.com
 ads3.unoadsrv.com
 ads30.unoadsrv.com
+ads31.unoadsrv.com
+ads32.unoadsrv.com
+ads33.unoadsrv.com
 ads34.unoadsrv.com
 ads35.unoadsrv.com
 ads352.unoadsrv.com
@@ -55468,6 +55409,7 @@ ads61.unoadsrv.com
 ads62.unoadsrv.com
 ads63.unoadsrv.com
 ads65.unoadsrv.com
+ads66.unoadsrv.com
 ads7.unoadsrv.com
 ads9.unoadsrv.com
 ads99.unoadsrv.com
@@ -56939,6 +56881,7 @@ warrock-hack.com
 waryfog.com
 metrics.washingtonpost.com
 smetrics.washingtonpost.com
+wasud.com
 ww1.watchcri.com
 ww17.watchcri.com
 ww2.watchcri.com
@@ -57040,7 +56983,6 @@ webcamtransx.com
 webcindario.com
 webclickroute.com
 webcontentassessor.com
-ww1.webegettingrich.com
 afiles.webengage.com
 api.webengage.com
 c.webengage.com
@@ -59709,7 +59651,6 @@ forecasting.dsp-warehouse.m6r.eu
 failover-router-ams2.m6r.eu
 gifwall.m6r.eu
 gokan.m6r.eu
-graphite.m6r.eu
 management.m6r.eu
 management-testing.m6r.eu
 origin-tracking.m6r.eu
@@ -60307,10 +60248,6 @@ ww7.abbottandcostello.info
 www.abbottandcostello.info
 abono.info
 abportal.info
-ww1.acehonline.info
-ww11.acehonline.info
-ww17.acehonline.info
-ww25.acehonline.info
 actiegeld.info
 actu30.info
 actualite.info
@@ -60517,7 +60454,6 @@ ww38.avlang17.info
 www.avlang17.info
 avlist.info
 ww16.blog.avpt.info
-ww16.wp.avpt.info
 ww17.avpt.info
 www.avpt.info
 www.avtonom.info
@@ -60742,13 +60678,10 @@ zimbra.big-library.info
 big-news.info
 bigger-penis.info
 biggerpenisnow.info
-cpcalendars.bigrealestate.info
-webdisk.bigrealestate.info
 ww1.bigrealestate.info
 ww11.bigrealestate.info
 ww17.bigrealestate.info
 ww38.bigrealestate.info
-www.bigrealestate.info
 bijsluiterscore.info
 bill-gates.info
 mail.bimba.info
@@ -60991,6 +60924,7 @@ caouu.info
 caratulas.info
 antispam.cardking.info
 authsmtp.cardking.info
+barracuda.cardking.info
 com.cardking.info
 comune.cardking.info
 correo.cardking.info
@@ -61005,6 +60939,7 @@ l.cardking.info
 le.cardking.info
 lopez.cardking.info
 mail.cardking.info
+mail2.cardking.info
 mail3.cardking.info
 mail5.cardking.info
 mail7.cardking.info
@@ -61019,6 +60954,7 @@ mailserver.cardking.info
 mailsrv.cardking.info
 mta.cardking.info
 mx01.cardking.info
+mx02.cardking.info
 mx10.cardking.info
 mx2.cardking.info
 mx5.cardking.info
@@ -61029,6 +60965,7 @@ out.cardking.info
 outmail.cardking.info
 po.cardking.info
 pop.cardking.info
+relay.cardking.info
 relay1.cardking.info
 relay2.cardking.info
 seed.cardking.info
@@ -61099,8 +61036,6 @@ ww17.cift.info
 cpcalendars.cilantroweb.info
 cpcontacts.cilantroweb.info
 webdisk.cilantroweb.info
-ww1.cilantroweb.info
-www.cilantroweb.info
 mail.citata.info
 ww1.citata.info
 ww11.citata.info
@@ -61745,7 +61680,6 @@ ww1.gameoke.info
 ww25.gameoke.info
 ww38.gameoke.info
 www.gameoke.info
-ww16.mx0.gamerwap.info
 www.gamerwap.info
 gameswin.info
 gamewin.info
@@ -63205,11 +63139,6 @@ ww25.salemfonden.info
 ww38.salemfonden.info
 www.salemfonden.info
 cpcalendars.saludablemente.info
-ww1.saludablemente.info
-ww11.saludablemente.info
-ww16.saludablemente.info
-ww25.saludablemente.info
-ww38.saludablemente.info
 samstha.info
 cpcontacts.sancarlosminas.info
 mail.sancarlosminas.info
@@ -69667,6 +69596,7 @@ securitytest.my.sentry.io
 sentry.my.sentry.io
 test-control.my.sentry.io
 test-region.my.sentry.io
+test-region.test.my.sentry.io
 testing.my.sentry.io
 zendesk-eu.my.sentry.io
 open.sentry.io
@@ -77606,7 +77536,6 @@ ad.mg
 ads.365.mk
 marketing365.mk
 adserver.piksel.mk
-gasolina.ml
 adex.mobi
 adserver.mobi
 dsfffmb.mobi
@@ -82457,8 +82386,6 @@ coldwarshooters.net
 coleccionismo.net
 collegelatinas.net
 colorkids.net
-droit-finances.commentcamarch.net
-ww16.commentcamarch.net
 community-baptist.net
 comxcast.net
 connecthackensackumc.net
@@ -99038,6 +98965,8 @@ ashns1-ext2.fwmrm.net
 ashsstestvip2.fwmrm.net
 ads.aws.fwmrm.net
 adsdev.aws.fwmrm.net
+clickhouse.prd.af.aws.fwmrm.net
+clickhouse.stg.af.aws.fwmrm.net
 awstools.aws.fwmrm.net
 dev.cps.aws.fwmrm.net
 dev.creative.aws.fwmrm.net
@@ -99099,13 +99028,21 @@ sb1.aws.fwmrm.net
 ss.aws.fwmrm.net
 stg.aws.fwmrm.net
 alertmanager.dev.synergy.aws.fwmrm.net
+argo-workflows.dev.synergy.aws.fwmrm.net
 atlantistest.dev.synergy.aws.fwmrm.net
 auth.dev.synergy.aws.fwmrm.net
 grafana.dev.synergy.aws.fwmrm.net
 kiali.dev.synergy.aws.fwmrm.net
+otel-collector.dev.synergy.aws.fwmrm.net
 prometheus.dev.synergy.aws.fwmrm.net
 thanos-bucket.dev.synergy.aws.fwmrm.net
 thanos-query.dev.synergy.aws.fwmrm.net
+alertmanager.stg.synergy.aws.fwmrm.net
+auth.stg.synergy.aws.fwmrm.net
+grafana.stg.synergy.aws.fwmrm.net
+prometheus.stg.synergy.aws.fwmrm.net
+thanos-bucket.stg.synergy.aws.fwmrm.net
+thanos-query.stg.synergy.aws.fwmrm.net
 dev.tools.aws.fwmrm.net
 prd.turbine.aws.fwmrm.net
 dev.ui.aws.fwmrm.net
@@ -99594,8 +99531,10 @@ h0.t.hubspotemail.net
 hyperbanner.net
 hypizel.net
 i305175.net
+imp.i312864.net
 ichec.net
 idealadvertising.net
+bespoke.iln8.net
 imagecash.net
 imprev.net
 incontrolhobbies.net
@@ -105675,8 +105614,6 @@ ads.tmcs.net
 ads.as4x.tmcs.net
 rekl.tns-cs.net
 ssl-rekl.tns-cs.net
-search.todaysnewsupdates.net
-www.todaysnewsupdates.net
 todaytvseries.net
 topgamesites.net
 totalh.net
@@ -106060,7 +105997,6 @@ www.3qqq.org
 511mo.org
 51av.org
 51avi.org
-ww38.55n3.org
 57so.org
 5lu.org
 666av.org
@@ -106523,6 +106459,8 @@ mails.consulfrance-edimbourg.org
 ns2.consulfrance-edimbourg.org
 send.consulfrance-edimbourg.org
 ww1.consulfrance-edimbourg.org
+ww17.consulfrance-edimbourg.org
+ww38.consulfrance-edimbourg.org
 www.consulfrance-edimbourg.org
 metrics.consumerreports.org
 smetrics.consumerreports.org
@@ -106982,7 +106920,6 @@ free-video-cutter.org
 www.free6xxx.org
 freeasiantube.org
 ww1.freebook4u.org
-ww11.freebook4u.org
 ww17.freebook4u.org
 ww25.freebook4u.org
 ww38.freebook4u.org
@@ -113840,6 +113777,7 @@ tracking.soderhamnskuriren.se
 tracking.etidning.sodran.se
 tracking.sodran.se
 spartoo.se
+cdn.sprida.se
 storymedia.se
 matomo.studio.se
 analytics.sunet.se
@@ -117093,7 +117031,10 @@ mediamath.digitru.st
 p161.digitru.st
 pixel.digitru.st
 prebid.digitru.st
+rubicon.digitru.st
 sovrn.digitru.st
+trustx.digitru.st
+www.digitru.st
 www.po.st
 emea.viadata.store
 www.freecontent.stream
