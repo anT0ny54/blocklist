@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336008
+# Ignored duplicates: 335990
 
 chameleon.ad
 pixel.ad
@@ -6529,7 +6529,6 @@ analytics-elb-634008047.us-east-1.elb.amazonaws.com
 analyticsagent-1016790388.us-east-1.elb.amazonaws.com
 apigee-rmp-4-50-alb-1976774296.us-east-1.elb.amazonaws.com
 apigee-rmp-4-51-alb-387649984.us-east-1.elb.amazonaws.com
-bc-bidder-alb-1485194680.us-east-1.elb.amazonaws.com
 canvas-iad-prod-c1-1262762608.us-east-1.elb.amazonaws.com
 canvas-iad-prod-c10-1435857817.us-east-1.elb.amazonaws.com
 canvas-iad-prod-c100-1878097273.us-east-1.elb.amazonaws.com
@@ -7915,8 +7914,6 @@ barclayd.com
 baremetrics.com
 baristand.com
 barnsleyloftandpigeon.com
-ww16.barrettcars.com
-ww25.barrettcars.com
 barsabon.com
 baseballsave.com
 basketballbelieve.com
@@ -11173,10 +11170,11 @@ disneycruie.com
 t.vacations.disneydestinations.com
 t.visit.disneydestinations.com
 ww1.disneydx.com
+ww16.disneydx.com
+ww38.disneydx.com
 www.disneydx.com
 sales.disneylandparis.com
 disneylivingonline.com
-ww1.disneymoviecllub.com
 disneymoviewrewards.com
 disneyozmovieoffers.com
 disneypchannel.com
@@ -18950,7 +18948,6 @@ click.hooligapps.com
 notice.hoopladigital.com
 hooshman-isp.com
 hoptheshop.com
-hormonacrecimiento.com
 horneybuds.com
 horneycam.com
 ads.horsehero.com
@@ -19052,7 +19049,6 @@ turo.hrzn-nxt.com
 js.hs-banner.com
 js-eu1.hs-banner.com
 hs-scripts.com
-www.hsbcmf.com
 ads.hsoub.com
 ads2.hsoub.com
 hst-rc.com
@@ -20257,7 +20253,6 @@ kington123.com
 ads.kinxxx.com
 kiosked.com
 metric.kirklands.com
-ww1.kirmizcam.com
 kissmetrics.com
 kissyouporn.com
 kivitie.com
@@ -20494,7 +20489,9 @@ libihimu.com
 libring.com
 lichouseing.com
 licoshnit.com
-lieber-tower.com
+mail.lieber-tower.com
+ww38.lieber-tower.com
+www.lieber-tower.com
 liektuan.com
 life--insurance--quotes.com
 lifeinsurancequotescenter.com
@@ -20629,7 +20626,6 @@ linktarget.com
 liquidm.com
 lisasophia.com
 lisnr.com
-listingsyellowpages.com
 listn2myradio.com
 al1.listrakbi.com
 at1.listrakbi.com
@@ -21526,7 +21522,6 @@ track.mailerlite.com
 mailibupilates.com
 maillotspro.com
 mailrtb.com
-ww25.mailsoufun.com
 mailtrafficnetwork.com
 mailtrafficrtb.com
 mainad.com
@@ -23713,7 +23708,6 @@ ww1.mikkymax.com
 ww3.mikkymax.com
 www.mikkymax.com
 milfplatz.com
-www.militaryonesourse.com
 militaryverse.com
 millennialmedia.com
 millsapveterinaryclinic.com
@@ -35919,8 +35913,9 @@ imap2.mocrosoftonline.com
 isoc-net.mocrosoftonline.com
 ww16.login.mocrosoftonline.com
 ww25.login.mocrosoftonline.com
+ww31.login.mocrosoftonline.com
 ww38.login.mocrosoftonline.com
-ww25.logion.mocrosoftonline.com
+logion.mocrosoftonline.com
 mail.mocrosoftonline.com
 mail1.mocrosoftonline.com
 mailer.mocrosoftonline.com
@@ -35934,11 +35929,13 @@ mx1.mocrosoftonline.com
 office365.mocrosoftonline.com
 passwordreset.mocrosoftonline.com
 portail.mocrosoftonline.com
+ww16.portal.mocrosoftonline.com
 ww35.portal.mocrosoftonline.com
 server.mocrosoftonline.com
 smtps.mocrosoftonline.com
 vmail.mocrosoftonline.com
 ww1.mocrosoftonline.com
+ww16.mocrosoftonline.com
 ww25.mocrosoftonline.com
 ww31.mocrosoftonline.com
 ww35.mocrosoftonline.com
@@ -36485,6 +36482,7 @@ multiext.com
 ww1.mummy8.com
 ww2.mummy8.com
 ww35.mummy8.com
+www.mummy8.com
 mundanenail.com
 mundanepollution.com
 ww1.musakachat.com
@@ -36503,7 +36501,6 @@ musk-elon.com
 musk-event.com
 muskgive.com
 muslimexweb.com
-www.muslims4marriag.com
 mustang50thbirthdaycelebration.com
 muteknife.com
 muwmedia.com
@@ -36596,7 +36593,6 @@ myindangirl.com
 myinformationamedisys.com
 mx1.myjoyonlin.com
 ww16.myjoyonlin.com
-ww17.myjoyonlin.com
 www.myjoyonlin.com
 mylink-today.com
 mymarketingreports.com
@@ -37567,8 +37563,6 @@ seed-7.nimiq.com
 seed-8.nimiq.com
 seed-9.nimiq.com
 nimiqpool.com
-ww16.ninaloca.com
-ww38.ninaloca.com
 ninesmsn.com
 ninjakloack.com
 ninjapd.com
@@ -37667,7 +37661,6 @@ obscenesidewalk.com
 observantice.com
 oclasrv.com
 octaviagallery.com
-www.ocuriso.com
 ads.oddschecker.com
 adserver.oddschecker.com
 odeswk.com
@@ -37704,7 +37697,6 @@ oldmenwantsex.com
 oldnationalback.com
 ww35.oldnavyl.com
 ads.ole.com
-ww1.olivecookies.com
 oliviersanrey.com
 olkjf.com
 tracking.olx-st.com
@@ -44028,7 +44020,6 @@ protopline.com
 protraffic.com
 provenpixel.com
 proxiy.com
-www.proxporn.com
 proxyas.com
 prpops.com
 prsitecheck.com
@@ -50316,7 +50307,6 @@ rude-son.com
 ruderulette.com
 rudtub.com
 ruelela.com
-www.rugbydumb.com
 rugscleaningservice.com
 ruhaho.com
 rumahdanisa.com
@@ -50845,6 +50835,7 @@ saysidewalk.com
 sb-inv1.com
 sbfsdvc.com
 sbobetv.com
+link.sbstck.com
 scanscout.com
 scarabresearch.com
 scarcesign.com
@@ -54496,8 +54487,6 @@ tags.toyota.com
 toyotadiscountparts.com
 toyotafinincial.com
 toyotanissan.com
-ww35.toyotaofbrandon.com
-www.toyotaofbrandon.com
 toyotarv.com
 tpbid.com
 tpcserve.com
@@ -57417,7 +57406,6 @@ wwwenvisionreports.com
 wwwepatest.com
 wwwevercleanse.com
 wwwfaberlic.com
-wwwflhealthsource.com
 wwwfonacot.com
 wwwfrif.com
 wwwgasparense.com
@@ -59648,9 +59636,7 @@ dmp-staging.m6r.eu
 dsp.m6r.eu
 forecasting.dsp-warehouse-staging.m6r.eu
 forecasting.dsp-warehouse.m6r.eu
-failover-router-ams2.m6r.eu
 gifwall.m6r.eu
-gokan.m6r.eu
 management.m6r.eu
 management-testing.m6r.eu
 origin-tracking.m6r.eu
@@ -60224,6 +60210,7 @@ www.91gxfl.info
 1024.91lulea.info
 mvideo.91lulea.info
 ww1.91lulea.info
+www.91lulea.info
 98hy.info
 99hy.info
 image.9xtunes.info
@@ -60335,11 +60322,9 @@ amagrlsuk.info
 amazingporn.info
 ww1.amazonshoppingindir.info
 ww11.amazonshoppingindir.info
-ww16.amazonshoppingindir.info
 ww17.amazonshoppingindir.info
 ww25.amazonshoppingindir.info
 ww38.amazonshoppingindir.info
-ww7.amazonshoppingindir.info
 amine.info
 amiro.info
 amsterdamsightseeing.info
@@ -60679,9 +60664,6 @@ big-news.info
 bigger-penis.info
 biggerpenisnow.info
 ww1.bigrealestate.info
-ww11.bigrealestate.info
-ww17.bigrealestate.info
-ww38.bigrealestate.info
 bijsluiterscore.info
 bill-gates.info
 mail.bimba.info
@@ -60923,6 +60905,7 @@ caoliudz.info
 caouu.info
 caratulas.info
 antispam.cardking.info
+art.cardking.info
 authsmtp.cardking.info
 barracuda.cardking.info
 com.cardking.info
@@ -60931,6 +60914,7 @@ correo.cardking.info
 cs.cardking.info
 direct.cardking.info
 email.cardking.info
+gate.cardking.info
 gateway.cardking.info
 gw.cardking.info
 hermes.cardking.info
@@ -60942,6 +60926,7 @@ mail.cardking.info
 mail2.cardking.info
 mail3.cardking.info
 mail5.cardking.info
+mail6.cardking.info
 mail7.cardking.info
 mail8.cardking.info
 mail9.cardking.info
@@ -60952,23 +60937,30 @@ mailhost.cardking.info
 mailrelay.cardking.info
 mailserver.cardking.info
 mailsrv.cardking.info
+ms1.cardking.info
 mta.cardking.info
+mta1.cardking.info
 mx01.cardking.info
 mx02.cardking.info
 mx10.cardking.info
 mx2.cardking.info
+mx20.cardking.info
 mx5.cardking.info
 mx7.cardking.info
 ns.cardking.info
 ns2.cardking.info
 out.cardking.info
 outmail.cardking.info
+pbrand.cardking.info
+pieroni.cardking.info
 po.cardking.info
 pop.cardking.info
+post.cardking.info
 relay.cardking.info
 relay1.cardking.info
 relay2.cardking.info
 seed.cardking.info
+send.cardking.info
 server1.cardking.info
 server2.cardking.info
 smtp01.cardking.info
@@ -60977,7 +60969,12 @@ smtps.cardking.info
 smtpseguro.cardking.info
 sniper.cardking.info
 srv.cardking.info
+ssl.cardking.info
+tiger.cardking.info
+tw.cardking.info
+vip.cardking.info
 vmail.cardking.info
+vnet.cardking.info
 vps.cardking.info
 ww1.cardking.info
 ww17.cardking.info
@@ -61033,9 +61030,6 @@ ww25.churchviewfarm.info
 ww38.churchviewfarm.info
 www.churchviewfarm.info
 ww17.cift.info
-cpcalendars.cilantroweb.info
-cpcontacts.cilantroweb.info
-webdisk.cilantroweb.info
 mail.citata.info
 ww1.citata.info
 ww11.citata.info
@@ -61687,7 +61681,6 @@ gamezonewap.info
 ganihp.info
 ganokuni.info
 gasteinertal.info
-www.gbinsta.info
 gear-up.info
 geckos.info
 geid.info
@@ -61941,8 +61934,6 @@ japy.info
 jayrigby.info
 jebar.info
 jetztodernie.info
-mail.jezdeckaskola.info
-www.jezdeckaskola.info
 jianyue.info
 jinan.info
 jinseikenko.info
@@ -62235,7 +62226,6 @@ mightylinks.info
 ww1.milfpics.info
 ww16.milfpics.info
 www.milfpics.info
-mail.millstatt.info
 www.mimino.info
 mindsweeper.info
 mine-server.info
@@ -63138,7 +63128,6 @@ ww17.salemfonden.info
 ww25.salemfonden.info
 ww38.salemfonden.info
 www.salemfonden.info
-cpcalendars.saludablemente.info
 samstha.info
 cpcontacts.sancarlosminas.info
 mail.sancarlosminas.info
@@ -77536,6 +77525,7 @@ ad.mg
 ads.365.mk
 marketing365.mk
 adserver.piksel.mk
+gasolina.ml
 adex.mobi
 adserver.mobi
 dsfffmb.mobi
@@ -98277,13 +98267,8 @@ e3uspmta2.emarsys.net
 e3uspmta3.emarsys.net
 e3uspmta4.emarsys.net
 e3uspmta9.emarsys.net
-list-unsubscribe.eservice.emarsys.net
 log-dealer.eservice.emarsys.net
-me-client.eservice.emarsys.net
-me-inbox.eservice.emarsys.net
 mobile-events.eservice.emarsys.net
-push.eservice.emarsys.net
-webchannel-content.eservice.emarsys.net
 gservice.emarsys.net
 image-bhphotovideo-com.emarsys.net
 link-disneyonbroadway-com.emarsys.net
@@ -100026,9 +100011,6 @@ www.monetate.net
 montclairsports.net
 moquta.net
 morrisonproductions.net
-mail.moto-plus.net
-sitemap.moto-plus.net
-sitemaps.moto-plus.net
 ww1.moto-plus.net
 ww17.moto-plus.net
 www.moto-plus.net
@@ -104973,7 +104955,6 @@ servg1.net
 servicecreditunion.net
 sevafrom.net
 sexeshop.net
-www.sexinvodka.net
 sexpsp.net
 shadid.net
 cdn.shareaholic.net
@@ -105553,7 +105534,6 @@ sperdtest.net
 spulse.net
 srbiaulogin.net
 ss-omtrdc.net
-www.ssfrom.net
 ww1.sstoday.net
 ww16.sstoday.net
 ww38.sstoday.net
@@ -105720,8 +105700,6 @@ webtrekk.net
 whachmovies.net
 whitedate.net
 whoisonline.net
-ww1.wholesalebusinesscn.net
-ww38.wholesalebusinesscn.net
 bmbstatic.blob.core.windows.net
 cookiesuksouth.blob.core.windows.net
 mg2assetsdev.blob.core.windows.net
@@ -107491,6 +107469,9 @@ ww16.muhs.org
 ww25.muhs.org
 ww38.muhs.org
 www.muhs.org
+mail.mundonatural.org
+webdisk.mundonatural.org
+www.mundonatural.org
 ads.muslimehelfen.org
 mutharaiyar.org
 my-stream.org
@@ -107883,6 +107864,7 @@ projectgazelle.org
 projectobolix.org
 projectyouthsafety.org
 promoteyourself.org
+ww1.pron00.org
 content.prons.org
 online.prons.org
 videochat.prons.org
@@ -108425,8 +108407,6 @@ www.shabad.org
 shador.org
 shadowsock.org
 fledge.sharedid.org
-id.sharedid.org
-www.sharedid.org
 shekinahlive.org
 shelbywarrant.org
 sheltonpublicschool.org
@@ -108850,6 +108830,7 @@ ww25.veporn.org
 www.veporn.org
 ns1.veridaincu.org
 ww1.veridaincu.org
+www.veridaincu.org
 verpelis.org
 ww17.victoria-justice.org
 ww35.victoria-justice.org
