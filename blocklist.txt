@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336087
+# Ignored duplicates: 336114
 
 chameleon.ad
 pixel.ad
@@ -2057,9 +2057,11 @@ procoinbase.co
 pushtrack.co
 reddit.co
 resetdigital.co
+a.rockabox.co
 adserving.rockabox.co
 c.rockabox.co
 creatives.rockabox.co
+r.rockabox.co
 www.rockabox.co
 scoota.co
 sele.co
@@ -7432,6 +7434,9 @@ relay.auctionsuccessteam.com
 relay2.auctionsuccessteam.com
 server2.auctionsuccessteam.com
 smtpauth.auctionsuccessteam.com
+ww16.auctionsuccessteam.com
+ww25.auctionsuccessteam.com
+ww38.auctionsuccessteam.com
 www.auctionsuccessteam.com
 www1.auctionsuccessteam.com
 zimbra.auctionsuccessteam.com
@@ -8688,6 +8693,7 @@ burrningcamel.com
 businessbells.com
 ww1.businessfinansial.com
 ww11.businessfinansial.com
+ww16.businessfinansial.com
 ww35.businessfinansial.com
 analytics.businessinsider.com
 coupons.businessinsider.com
@@ -10057,6 +10063,10 @@ creditdiadnosis.com
 sponge.creditkarma.com
 tags.creditkarma.com
 metrics.creditreport.com
+ww16.credkitonebank.com
+ww25.credkitonebank.com
+ww38.credkitonebank.com
+www.credkitonebank.com
 crewbuxonline.com
 crickebuzz.com
 cricket-365info.com
@@ -10084,6 +10094,7 @@ critters360.com
 crnival.com
 crobra.com
 crossdressex.com
+crotamiton.com
 crowdedmass.com
 email-links.crowdfireapp.com
 crowdgravity.com
@@ -11623,6 +11634,7 @@ barrie.dnset.com
 baseball-basically.dnset.com
 baseguidefj.dnset.com
 basf.dnset.com
+basic-crime.dnset.com
 batang.dnset.com
 bavixt.dnset.com
 bbrdspin18.dnset.com
@@ -11652,9 +11664,11 @@ bidding.dnset.com
 bienstar.dnset.com
 bigelaw.dnset.com
 bigreward.dnset.com
+au.billz.dnset.com
 bizala.dnset.com
 bkp-terbaru.dnset.com
 bladanunkit.dnset.com
+blade-carrier.dnset.com
 blitemswds.dnset.com
 blood-free-skins19.dnset.com
 bloodevent.dnset.com
@@ -12110,6 +12124,7 @@ cttzvaldte.dnset.com
 ctzcheckonline.dnset.com
 ctzenshmepagelogin.dnset.com
 ctzonlinnesupport.dnset.com
+curriculum-damage.dnset.com
 cvndev.dnset.com
 cvoprt.dnset.com
 cxzmfcv.dnset.com
@@ -14231,6 +14246,7 @@ seicurmaiicu.dnset.com
 seklusipm13.dnset.com
 seldon-nas.dnset.com
 semeru.dnset.com
+senator-taste.dnset.com
 serial.dnset.com
 seriuyat.dnset.com
 server-support-02.dnset.com
@@ -17701,7 +17717,6 @@ gameanalytics.com
 gameandfishnetwork.com
 gamefugh.com
 gamenoed.com
-www.gamerz-land.com
 games2boy.com
 gameschill.com
 gamesites200.com
@@ -18833,9 +18848,19 @@ qab.hextom.com
 usb.hextom.com
 assets.heylink.com
 tag.heylink.com
+ams3.100tb.heyzap.com
+ams4.100tb.heyzap.com
+lon1.100tb.heyzap.com
+par3.100tb.heyzap.com
+wdc1.100tb.heyzap.com
 acls.heyzap.com
+adr.heyzap.com
+resque-moses.ec2.heyzap.com
+o1.email.heyzap.com
+www.trends.stage-one.heyzap.com
 www.stage-three.heyzap.com
-www.stage-two.heyzap.com
+stage-two.heyzap.com
+track.heyzap.com
 hf5rbejvpwds.com
 hfc195b.com
 hfrcl.com
@@ -18953,6 +18978,7 @@ honorableland.com
 honybunny.com
 click.hookupinyourcity.com
 click.hooligapps.com
+www.hoookupnight.com
 notice.hoopladigital.com
 hooshman-isp.com
 hoptheshop.com
@@ -19244,6 +19270,7 @@ ft.imgsniper.com
 ft-src.imgsniper.com
 newboom.imgsniper.com
 newboom-src.imgsniper.com
+rtg.imgsniper.com
 tdm1.imgsniper.com
 tdm1-src.imgsniper.com
 tdm2-src.imgsniper.com
@@ -20536,6 +20563,7 @@ links-protect.com
 linkswaper.com
 ad.linksynergy.com
 addash-cdn.linksynergy.com
+addash-qa-cdn.linksynergy.com
 aftp.linksynergy.com
 analytics.linksynergy.com
 analytics1.linksynergy.com
@@ -20598,6 +20626,7 @@ vault-ui.private.linksynergy.com
 products.linksynergy.com
 productsearch.linksynergy.com
 pubdash-cdn.linksynergy.com
+pubdash-qa-cdn.linksynergy.com
 r2.linksynergy.com
 cg.ra.linksynergy.com
 ci1.ra.linksynergy.com
@@ -21464,6 +21493,7 @@ mhs-admin.macromill.com
 mhs-reference.macromill.com
 millreach.macromill.com
 mint-dev.macromill.com
+mint-stg.macromill.com
 mmdatarpt.macromill.com
 mnri.macromill.com
 mobile.macromill.com
@@ -22627,7 +22657,10 @@ mediav.com
 mediavine.com
 mediavoice.com
 ww1.medicalmutualofohio.com
+ww16.medicalmutualofohio.com
+ww25.medicalmutualofohio.com
 ww35.medicalmutualofohio.com
+ww38.medicalmutualofohio.com
 www.medicalmutualofohio.com
 medicaresupplementinsuranceguide.com
 medicaresupplementmentors.com
@@ -42360,6 +42393,7 @@ optnmstr.com
 optrainingcenter.com
 opttracker.com
 optumbankfinancial.com
+mc.optvdo.com
 cobrowse.oraclecloud.com
 ccexperimentsstatic.oracleoutsourcing.com
 cloud-commerce-visit.oracleoutsourcing.com
@@ -60158,6 +60192,7 @@ ww25.4downfiles1.info
 ww38.4downfiles1.info
 www.4downfiles1.info
 4downfiles2.info
+www.4health.info
 ww17.4shared.info
 ww38.4shared.info
 ww8.4shared.info
@@ -60334,7 +60369,6 @@ alterzon.info
 amagrlsuk.info
 amazingporn.info
 ww1.amazonshoppingindir.info
-ww11.amazonshoppingindir.info
 ww17.amazonshoppingindir.info
 ww25.amazonshoppingindir.info
 ww38.amazonshoppingindir.info
@@ -60392,6 +60426,7 @@ www.applifier.info
 aqueduct.info
 ar-raudhah.info
 arabtravail.info
+ww1.aroundthe-world.info
 artecrochet.info
 arterienverkalkung.info
 arteycultura.info
@@ -60419,12 +60454,6 @@ ww38.aso-sabo.info
 ww7.aso-sabo.info
 www.aso-sabo.info
 assafir-attounissia.info
-mvideo.assilah.info
-ww16.assilah.info
-ww17.assilah.info
-ww25.assilah.info
-ww38.assilah.info
-www.assilah.info
 assurancecomplementairesante.info
 astrofx.info
 atbt.info
@@ -60772,7 +60801,6 @@ zimbra.borenje.info
 brazzers-hdx.info
 brshare.info
 brunei.info
-www.brzozow.info
 bt177.info
 antispam.btbt.info
 box.btbt.info
@@ -61256,11 +61284,7 @@ ww17.desiaunties.info
 ww25.desiaunties.info
 ww38.desiaunties.info
 www.desiaunties.info
-ww1.desimms.info
-ww11.desimms.info
 ww17.desimms.info
-ww38.desimms.info
-www.desimms.info
 developmentideas.info
 devki.info
 devpn.info
@@ -61598,8 +61622,6 @@ fisse.info
 fkwv.info
 flex-tech.info
 flixzone.info
-ww17.forbest.info
-www.forbest.info
 forkhost.info
 infowww.formadv.info
 ww1.formadv.info
@@ -61894,7 +61916,7 @@ ifsaciusta.info
 ifullreview.info
 igopro.info
 ihtiyar.info
-ilcorsaroblu.info
+ww16.s.ilcorsaroblu.info
 ilfornello.info
 ilit.info
 ilkoala.info
@@ -99462,7 +99484,6 @@ prismamedia-ams.gscontxt.net
 prismamedia-ash.gscontxt.net
 prismamedia-fra.gscontxt.net
 roularta-ams.gscontxt.net
-sapo-ams.gscontxt.net
 sevenwest.gscontxt.net
 sevenwest-apsing.gscontxt.net
 sevenwest-lax.gscontxt.net
@@ -100418,7 +100439,11 @@ www.omtrdc.net
 onclickads.net
 onetag.net
 trkpnt.ongage.net
-aa.online-metrix.net
+a-sac.aa.online-metrix.net
+dev.aa.online-metrix.net
+qa1.aa.online-metrix.net
+qa2.aa.online-metrix.net
+qaperf2.aa.online-metrix.net
 am1-h.online-metrix.net
 api-canary-am1.online-metrix.net
 cf-api.online-metrix.net
@@ -106474,6 +106499,7 @@ communityhealthplan.org
 concivica.org
 consensu.org
 mail.consulfrance-edimbourg.org
+mailrelay.consulfrance-edimbourg.org
 mails.consulfrance-edimbourg.org
 ns2.consulfrance-edimbourg.org
 send.consulfrance-edimbourg.org
@@ -107106,7 +107132,7 @@ greenvillecount.org
 greenwoodcreditunion.org
 grublabs.org
 gscnj.org
-gsecs.org
+ns1.gsecs.org
 gsen.org
 gsi-one.org
 gsx1400.org
@@ -107905,7 +107931,7 @@ projectgazelle.org
 projectobolix.org
 projectyouthsafety.org
 promoteyourself.org
-ww1.pron00.org
+pron00.org
 content.prons.org
 online.prons.org
 videochat.prons.org
@@ -108972,14 +108998,6 @@ wordmapper.org
 work-out.org
 worknets.org
 world-bank.org
-123.world2build.org
-cdn.world2build.org
-corp.world2build.org
-dev.world2build.org
-sitemap.world2build.org
-ww1.world2build.org
-ww11.world2build.org
-www.world2build.org
 worldchanel.org
 worldfoodprogram.org
 worldindata.org
@@ -113283,6 +113301,7 @@ tableau.a.pxi.pub
 client.staging.pxi.pub
 collector.staging.pxi.pub
 5mcwl.pw
+www.autocapital.pw
 bmcm.pw
 bmnr.pw
 bmst.pw
