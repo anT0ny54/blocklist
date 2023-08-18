@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336279
+# Ignored duplicates: 336479
 
 chameleon.ad
 pixel.ad
@@ -7259,7 +7259,6 @@ arlpositiva.com
 armstromg.com
 aromamirror.com
 aronmovies.com
-ww1.arpdmn.com
 www.arpdmn.com
 arrecifesdigital.com
 arrivalist.com
@@ -8123,6 +8122,7 @@ bhandarimaruti.com
 bhandhan.com
 campaign.bharatmatrimony.com
 bhcumsc.com
+www.bheyafry.com
 bhringer.com
 biberukalap.com
 ww1.bibng.com
@@ -10357,6 +10357,7 @@ csyn-r.cxense.com
 cxad.cxense.com
 fairfax.cxsearch.cxense.com
 airflow.de-dev.cxense.com
+auth.de-dev.cxense.com
 buildfarm.de-dev.cxense.com
 ccc.de-dev.cxense.com
 data-api.de-dev.cxense.com
@@ -10367,6 +10368,7 @@ kube-exec-controller.de-dev.cxense.com
 prom.de-dev.cxense.com
 wiremock.de-dev.cxense.com
 airflow.de-prod.cxense.com
+auth.de-prod.cxense.com
 buildfarm.de-prod.cxense.com
 data-api.de-prod.cxense.com
 data-api-documentation.de-prod.cxense.com
@@ -10374,6 +10376,7 @@ dependency-track.de-prod.cxense.com
 grafana.de-prod.cxense.com
 kube-exec-controller.de-prod.cxense.com
 prom.de-prod.cxense.com
+topiclabeling.de-prod.cxense.com
 de26.cxense.com
 de295.cxense.com
 de392.cxense.com
@@ -17844,6 +17847,7 @@ nomad1-production.fremont.linode.georiot.com
 nomad2-production.fremont.linode.georiot.com
 lb-production.london.linode.georiot.com
 lb1b-production.london.linode.georiot.com
+mq1-production.london.linode.georiot.com
 lb1a-production.newark.linode.georiot.com
 nomad5-production.newark.linode.georiot.com
 lb-production.singapore.linode.georiot.com
@@ -18892,7 +18896,9 @@ resque-moses.ec2.heyzap.com
 o1.email.heyzap.com
 fyc.heyzap.com
 med.heyzap.com
-www.trends.stage-one.heyzap.com
+www.iphone.stage-one.heyzap.com
+preflight.stage-one.heyzap.com
+trends.stage-one.heyzap.com
 www.stage-three.heyzap.com
 stage-two.heyzap.com
 track.heyzap.com
@@ -20450,7 +20456,9 @@ whatsnew.launchdarkly.com
 lauritch.com
 laybrookscooters.com
 lazerlending.com
+ww35.lcoste.com
 ww41.lcoste.com
+www.lcoste.com
 auth.lcs-solar.com
 autoconfig.lcs-solar.com
 autodiscover.lcs-solar.com
@@ -43397,6 +43405,7 @@ ammoseek.postaffiliatepro.com
 ample.postaffiliatepro.com
 amplifi.postaffiliatepro.com
 amyhoward.postaffiliatepro.com
+amz.postaffiliatepro.com
 ancientgrains.postaffiliatepro.com
 annikids.postaffiliatepro.com
 antiquecandleco.postaffiliatepro.com
@@ -43643,7 +43652,6 @@ laser.postaffiliatepro.com
 latinocpa.postaffiliatepro.com
 latostadora.postaffiliatepro.com
 laughinghens.postaffiliatepro.com
-learnenough.postaffiliatepro.com
 legaldesk.postaffiliatepro.com
 legart.postaffiliatepro.com
 legionathletics.postaffiliatepro.com
@@ -50398,6 +50406,7 @@ smtpauth.rxpathway.com
 sniper.rxpathway.com
 ww16.rxpathway.com
 ww25.rxpathway.com
+ww38.rxpathway.com
 www.rxpathway.com
 rxprofessional.com
 rxsuperactive.com
@@ -53868,7 +53877,6 @@ taamjhaam.com
 tabijirestaurant.com
 dev.telemetry.tableausoftware.com
 prod.telemetry.tableausoftware.com
-prod-gcp.telemetry.tableausoftware.com
 qa.telemetry.tableausoftware.com
 stage.telemetry.tableausoftware.com
 asset.tabloidbintang.com
@@ -54846,7 +54854,9 @@ secure.tubqueens.com
 server.tubqueens.com
 smtps.tubqueens.com
 srv.tubqueens.com
+ww16.tubqueens.com
 ww25.tubqueens.com
+ww38.tubqueens.com
 www.tubqueens.com
 zmail.tubqueens.com
 tuby8.com
@@ -55129,7 +55139,6 @@ pages.ubembed.com
 pages-integration.ubembed.com
 ww25.forum.uberstirke.com
 v2.uberstirke.com
-ww1.uberstirke.com
 ww11.uberstirke.com
 data.ubi.com
 www.ublockerext.com
@@ -55406,6 +55415,7 @@ ads231.unoadsrv.com
 ads232.unoadsrv.com
 ads24.unoadsrv.com
 ads25.unoadsrv.com
+ads26.unoadsrv.com
 ads28.unoadsrv.com
 ads29.unoadsrv.com
 ads3.unoadsrv.com
@@ -57487,6 +57497,7 @@ wwwfaberlic.com
 ww16.wwwflhealthsource.com
 ww25.wwwflhealthsource.com
 ww38.wwwflhealthsource.com
+www.wwwflhealthsource.com
 wwwfonacot.com
 wwwfrif.com
 wwwgasparense.com
@@ -60404,7 +60415,6 @@ amagrlsuk.info
 amazingporn.info
 ww17.amazonshoppingindir.info
 ww25.amazonshoppingindir.info
-ww38.amazonshoppingindir.info
 amine.info
 amiro.info
 amsterdamsightseeing.info
@@ -60508,7 +60518,6 @@ avgpctuneup2019.info
 av.avlang17.info
 ww1.avlang17.info
 ww11.avlang17.info
-ww16.avlang17.info
 ww25.avlang17.info
 ww38.avlang17.info
 www.avlang17.info
@@ -61551,8 +61560,6 @@ dc-3b6de0f8a9c6.epilator.info
 ww1.epilator.info
 ww17.epilator.info
 ww25.epilator.info
-ww38.epilator.info
-www.epilator.info
 episiotomie.info
 epixeiro.info
 equityfunds.info
@@ -61587,8 +61594,6 @@ ww25.evershine.info
 ww38.evershine.info
 www.evershine.info
 evgrid.info
-ww17.evmaps.info
-ww38.evmaps.info
 www.exabyte.info
 www1.exabyte.info
 examroom.info
@@ -61702,7 +61707,6 @@ ww3.formadv.info
 ww38.formadv.info
 www.formadv.info
 www.formenterazen.info
-www.forthewomen.info
 mx.fotomodelle.info
 ww25.fotomodelle.info
 www.fotomodelle.info
@@ -62629,6 +62633,7 @@ skyper.nrpg.info
 webdisk.nrpg.info
 wtf.nrpg.info
 ww1.nrpg.info
+www.nrpg.info
 ww1.nrxdh.info
 ww11.nrxdh.info
 ww17.nrxdh.info
@@ -63180,7 +63185,6 @@ srv.rootsandshoots.info
 ww1.rootsandshoots.info
 ww11.rootsandshoots.info
 ww16.rootsandshoots.info
-ww25.rootsandshoots.info
 ww38.rootsandshoots.info
 www.rootsandshoots.info
 ww1.rotor.info
@@ -64286,7 +64290,6 @@ ww17.whatsontv.info
 ww2.whatsontv.info
 ww25.whatsontv.info
 ww38.whatsontv.info
-www.whatsontv.info
 white-media.info
 whs.info
 wiersze.info
@@ -66147,10 +66150,7 @@ cl-eu2.k5a.io
 kayzen.io
 keen.io
 segment.kilometer.io
-accounts.kindmetrics.io
-api.kindmetrics.io
-app.kindmetrics.io
-staging.kindmetrics.io
+kindmetrics.io
 ladatab.io
 leadware.io
 lemonpi.io
@@ -79166,13 +79166,9 @@ e-9841.adzerk.net
 e-9841-us-east-1.adzerk.net
 e-9856.adzerk.net
 e-9856-us-east-1.adzerk.net
-e-9865.adzerk.net
-e-9865-us-east-1.adzerk.net
 e-9869.adzerk.net
-e-9869-us-east-1.adzerk.net
 e-9874.adzerk.net
 e-9874-us-east-1.adzerk.net
-e-9896-us-east-1.adzerk.net
 e-9897.adzerk.net
 e-9897-us-east-1.adzerk.net
 e-9900.adzerk.net
@@ -100111,7 +100107,6 @@ moquta.net
 morrisonproductions.net
 ww1.moto-plus.net
 ww17.moto-plus.net
-www.moto-plus.net
 movad.net
 movie-6.net
 moviesisters.net
@@ -106336,7 +106331,6 @@ authentiseal.org
 auversup.org
 ekb.avtoru.org
 gefest.avtoru.org
-org.avtoru.org
 sitemap.avtoru.org
 wp.avtoru.org
 ww1.avtoru.org
@@ -107059,10 +107053,7 @@ freagle.org
 free-video-cutter.org
 www.free6xxx.org
 freeasiantube.org
-ww1.freebook4u.org
-ww17.freebook4u.org
 ww38.freebook4u.org
-www.freebook4u.org
 freecardgamesonline.org
 freecoinbase.org
 freedomdeliverance.org
@@ -107911,7 +107902,6 @@ authsmtp.primarysourcelearning.org
 barracuda.primarysourcelearning.org
 box.primarysourcelearning.org
 com.primarysourcelearning.org
-comune.primarysourcelearning.org
 correo.primarysourcelearning.org
 cs.primarysourcelearning.org
 direct.primarysourcelearning.org
@@ -107919,7 +107909,6 @@ email.primarysourcelearning.org
 gate.primarysourcelearning.org
 gateway.primarysourcelearning.org
 gw.primarysourcelearning.org
-hermes.primarysourcelearning.org
 home.primarysourcelearning.org
 host.primarysourcelearning.org
 imap2.primarysourcelearning.org
@@ -107960,13 +107949,11 @@ mx.primarysourcelearning.org
 mx0.primarysourcelearning.org
 mx01.primarysourcelearning.org
 mx02.primarysourcelearning.org
-mx1.primarysourcelearning.org
 mx10.primarysourcelearning.org
 mx2.primarysourcelearning.org
 mx20.primarysourcelearning.org
 mx3.primarysourcelearning.org
 mx4.primarysourcelearning.org
-mx5.primarysourcelearning.org
 mx7.primarysourcelearning.org
 mxs.primarysourcelearning.org
 newmail.primarysourcelearning.org
@@ -108000,10 +107987,7 @@ thor.primarysourcelearning.org
 tpsnva.primarysourcelearning.org
 tw.primarysourcelearning.org
 vip.primarysourcelearning.org
-vmail.primarysourcelearning.org
 vnet.primarysourcelearning.org
-ww17.primarysourcelearning.org
-ww38.primarysourcelearning.org
 www.primarysourcelearning.org
 www1.primarysourcelearning.org
 zimbra.primarysourcelearning.org
@@ -113483,6 +113467,7 @@ hitlist.ru
 hotlog.ru
 content.hybrid.ru
 inetlog.ru
+gpw.kbyakor.ru
 click.kmindex.ru
 counting.kmindex.ru
 lbn.ru
