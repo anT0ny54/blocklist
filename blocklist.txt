@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336479
+# Ignored duplicates: 336509
 
 chameleon.ad
 pixel.ad
@@ -18894,6 +18894,7 @@ lon1.100tb.heyzap.com
 par3.100tb.heyzap.com
 sjc2.100tb.heyzap.com
 wdc1.100tb.heyzap.com
+wdc2.100tb.heyzap.com
 wdc3.100tb.heyzap.com
 acls.heyzap.com
 adr.heyzap.com
@@ -18912,6 +18913,7 @@ sdk.heyzap.com
 stage-five.heyzap.com
 stage-four.heyzap.com
 stage-one.heyzap.com
+android.stage-three.heyzap.com
 www.stage-three.heyzap.com
 stage-two.heyzap.com
 tools.heyzap.com
@@ -19043,7 +19045,6 @@ horneycam.com
 ads.horsehero.com
 ads.horyzon-media.com
 hosag.com
-hoscopofree.com
 hosllister.com
 hospitalitycreditunion.com
 hostadserver.com
@@ -20471,6 +20472,7 @@ whatsnew.launchdarkly.com
 lauritch.com
 laybrookscooters.com
 lazerlending.com
+ww1.lcoste.com
 ww35.lcoste.com
 ww41.lcoste.com
 www.lcoste.com
@@ -42443,8 +42445,10 @@ optrainingcenter.com
 opttracker.com
 optumbankfinancial.com
 a.optvdo.com
+e.optvdo.com
 mc.optvdo.com
 p.optvdo.com
+rtb.optvdo.com
 v-01-stage.optvdo.com
 v2v.optvdo.com
 cobrowse.oraclecloud.com
@@ -51669,6 +51673,7 @@ shopvirginmedia.com
 shortscuts.com
 ww1.shotinthehead.com
 ww35.shotinthehead.com
+ww38.shotinthehead.com
 www.shotinthehead.com
 showcasejamie.com
 showheroes.com
@@ -59835,7 +59840,6 @@ ads.adsbtc.fun
 ads.a-snag-smartmoney.fyi
 autologica.ga
 kaloo.ga
-az-webha.drawbrid.ge
 relay.drawbrid.ge
 www.drawbrid.ge
 clean.gg
@@ -60425,7 +60429,6 @@ alsjl-news.info
 alterzon.info
 amagrlsuk.info
 amazingporn.info
-ww17.amazonshoppingindir.info
 amine.info
 amiro.info
 amsterdamsightseeing.info
@@ -60481,6 +60484,9 @@ aqueduct.info
 ar-raudhah.info
 arabtravail.info
 ww1.aroundthe-world.info
+ww11.aroundthe-world.info
+ww17.aroundthe-world.info
+ww38.aroundthe-world.info
 www.aroundthe-world.info
 www70.aroundthe-world.info
 artecrochet.info
@@ -61569,7 +61575,6 @@ entenduaparis.info
 epfo.info
 dc-3b6de0f8a9c6.epilator.info
 ww1.epilator.info
-ww17.epilator.info
 ww25.epilator.info
 episiotomie.info
 epixeiro.info
@@ -64280,12 +64285,9 @@ watchmovie.info
 watchpinoymovieonline.info
 wazze.info
 wczasykolobrzeg.info
-mx.web-ranking.info
 ww1.web-ranking.info
 ww12.web-ranking.info
-ww16.web-ranking.info
 ww25.web-ranking.info
-ww38.web-ranking.info
 www.web-ranking.info
 webflow.info
 webhealth.info
@@ -78871,7 +78873,6 @@ e-10027-us-east-1.adzerk.net
 e-10029.adzerk.net
 e-10029-us-east-1.adzerk.net
 e-10039.adzerk.net
-e-10039-us-east-1.adzerk.net
 e-10040.adzerk.net
 e-10040-us-east-1.adzerk.net
 e-10050.adzerk.net
@@ -106101,7 +106102,6 @@ spacex.ooo
 32nd.org
 mail.3qqq.org
 ns.3qqq.org
-ww1.3qqq.org
 ww17.3qqq.org
 www.3qqq.org
 49nct.org
@@ -106122,7 +106122,6 @@ ww7.6ixty9ine.org
 ww1.7bug.org
 ww25.7bug.org
 ww38.7bug.org
-www.7bug.org
 7thavenuefamilyhealthcenter.org
 7tv.org
 88000.org
@@ -106247,7 +106246,12 @@ ahacpr.org
 ahainstuctornetwork.org
 ahlulbaitindonesia.org
 aiimsonians.org
+beiyongwang.ainer.org
 www.bitg.ainer.org
+ww1.ainer.org
+ww17.ainer.org
+ww25.ainer.org
+ww38.ainer.org
 www.ainer.org
 ymgqs.ainer.org
 airframe.org
@@ -106337,15 +106341,10 @@ auscharity.org
 authentiseal.org
 auversup.org
 ww11.ekb.avtoru.org
-ww16.ekb.avtoru.org
 ww25.ekb.avtoru.org
-sitemap.avtoru.org
-wp.avtoru.org
 ww1.avtoru.org
 ww17.avtoru.org
-ww2.avtoru.org
 ww25.avtoru.org
-ww3.avtoru.org
 awanas.org
 awshs.org
 ayso177.org
@@ -107310,12 +107309,14 @@ indexxx.org
 indianaexpeditions.org
 indonesianembassy-china.org
 infografias.org
+mail.insaps.org
 ns1.insaps.org
 ww1.insaps.org
 ww17.insaps.org
 ww38.insaps.org
 inskape.org
 intarnet.org
+www.interboro.org
 intercambiosvituales.org
 internalrequests.org
 internetlawlac.org
@@ -107967,7 +107968,6 @@ mx7.primarysourcelearning.org
 mxs.primarysourcelearning.org
 newmail.primarysourcelearning.org
 ns.primarysourcelearning.org
-ns1.primarysourcelearning.org
 ns2.primarysourcelearning.org
 out.primarysourcelearning.org
 outmail.primarysourcelearning.org
@@ -109072,8 +109072,10 @@ wilinet.org
 windows2univers.org
 wintercrest.org
 wkco.org
+mail.wlsd.org
 students.wlsd.org
 ww1.wlsd.org
+ww38.wlsd.org
 woldpress.org
 wolrdcat.org
 womansway.org
