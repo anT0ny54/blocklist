@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336505
+# Ignored duplicates: 336526
 
 chameleon.ad
 pixel.ad
@@ -1817,7 +1817,6 @@ calendar.datadome.co
 consul-eu-france-1-hn63zmpymyev55vhbkds.datadome.co
 ct.datadome.co
 customer-api.datadome.co
-datadomeiis8.datadome.co
 db.datadome.co
 dev.datadome.co
 dev-app.datadome.co
@@ -2090,6 +2089,8 @@ analytics.vic-m.co
 banner.vic-m.co
 broadsign.vic-m.co
 content.vic-m.co
+dsp.vic-m.co
+dsp-staging.vic-m.co
 geolytics.vic-m.co
 leo.vic-m.co
 sa.vic-m.co
@@ -7577,8 +7578,6 @@ www.autotraderni.com
 autroliner.com
 auxiliarytanks.com
 auzu.com
-img108jkn42.av-scanner.com
-m.av-scanner.com
 avalonalbum.com
 avantisvideo.com
 uib.ff.avast.com
@@ -8334,7 +8333,6 @@ blueshielsca.com
 blueskydownload.com
 citrix.bluestarbrass.com
 ww25.forum.bluestarbrass.com
-secure.bluestarbrass.com
 ww1.bluestarbrass.com
 ww25.bluestarbrass.com
 ww38.bluestarbrass.com
@@ -17940,7 +17938,7 @@ www8.glam.com
 glamfusionext.com
 cdn.glassboxcdn.com
 glassearch.com
-glasslytics.com
+www.glasslytics.com
 glasswipe.com
 glennnbeck.com
 glersakr.com
@@ -21602,7 +21600,6 @@ genesis.malwarebytes.com
 telemetry.malwarebytes.com
 mamatian.com
 mamoru-credit.com
-mail.manage.com
 manchesterdomain.com
 www.manga-news.com
 manga2h.com
@@ -53286,7 +53283,6 @@ servedby.studads.com
 studiorso.com
 stupendoussleet.com
 stupendoussnow.com
-ww11.stvvv.com
 styledeluxe.com
 styles4w.com
 styletravelmarq.com
@@ -53301,6 +53297,7 @@ submityoutflicks.com
 submityyourflicks.com
 submtyourflicks.com
 subscnce.com
+email.mg1.substack.com
 suburbanepropane.com
 subwayblaze.com
 succeedscene.com
@@ -53935,7 +53932,6 @@ simonscat.tactilews.com
 simonscatpoptime.tactilews.com
 tac-production-eu.tactilews.com
 tac-production-us.tactilews.com
-www.tag-analytics.com
 tagcommander.com
 tagdelivery.com
 taggingyourpals.com
@@ -58395,13 +58391,7 @@ creative.xlviirdr.com
 go.xlviirdr.com
 video.xlviirdr.com
 xn--12c8bfd6bc8hsa9l.com
-dev.xn--22cjb6eae6gxav4ccc3zua.com
-magento.xn--22cjb6eae6gxav4ccc3zua.com
-old.xn--22cjb6eae6gxav4ccc3zua.com
-shop.xn--22cjb6eae6gxav4ccc3zua.com
-staging.xn--22cjb6eae6gxav4ccc3zua.com
 ww25.xn--22cjb6eae6gxav4ccc3zua.com
-ww4.xn--22cjb6eae6gxav4ccc3zua.com
 xn--3jswe97yxxb10jty5bgfmo2d6t8b.com
 xn--4dbggoc3ai.com
 xn--4gr.com
@@ -60473,6 +60463,7 @@ smtp01.aroundthe-world.info
 ww1.aroundthe-world.info
 ww11.aroundthe-world.info
 ww17.aroundthe-world.info
+ww25.aroundthe-world.info
 ww38.aroundthe-world.info
 www.aroundthe-world.info
 www70.aroundthe-world.info
@@ -60521,9 +60512,6 @@ av815.info
 av99cn.info
 avakin.info
 avgpctuneup2019.info
-av.avlang17.info
-ww1.avlang17.info
-ww25.avlang17.info
 ww38.avlang17.info
 www.avlang17.info
 avlist.info
@@ -61554,7 +61542,6 @@ ennstal.info
 enoughts.info
 entenduaparis.info
 epfo.info
-ww1.epilator.info
 episiotomie.info
 epixeiro.info
 equityfunds.info
@@ -62566,11 +62553,9 @@ noorani.info
 ww1.aparece-cecilia-bracamonte.noraredenoma.info
 ww1.bacan-sat.noraredenoma.info
 ww1.biografia-de-jose-pardo-y-barreda.noraredenoma.info
-ww25.biografia-de-jose-pardo-y-barreda.noraredenoma.info
 ww38.chalets-gilet.noraredenoma.info
 ww11.famosas-follando-gratis.noraredenoma.info
 ww38.punto-iluminacion.noraredenoma.info
-ww11.video-natacha-gh.noraredenoma.info
 norrland.info
 noticias365.info
 ww1.novaonautoadssword.info
@@ -62720,6 +62705,10 @@ phpprotect.info
 phpstore.info
 phtechtools.info
 phur.info
+autodiscover.picaduras.info
+ww1.picaduras.info
+ww17.picaduras.info
+ww25.picaduras.info
 ww1.pictureguycabo.info
 ww11.pictureguycabo.info
 ww12.pictureguycabo.info
@@ -62757,7 +62746,6 @@ mail.planetdoc.info
 ngtbng.planetdoc.info
 qqetrn.planetdoc.info
 uv33abs69jrj.planetdoc.info
-ww1.planetdoc.info
 ww11.planetdoc.info
 ww17.planetdoc.info
 www.planetdoc.info
@@ -62766,22 +62754,13 @@ play2pay.info
 autodiscover.playcity.info
 cpcalendars.playcity.info
 cpcontacts.playcity.info
-facebook-casino-app.playcity.info
-free-promo-codes-for-funzpoints.playcity.info
-www.free-slotomania-coins.playcity.info
-internet-casino.playcity.info
-luckyland-casino.playcity.info
 mail.playcity.info
-play-slots.playcity.info
-slot-games-app.playcity.info
-tinka.playcity.info
 ww1.playcity.info
 ww11.playcity.info
 ww16.playcity.info
 ww17.playcity.info
 ww25.playcity.info
 ww38.playcity.info
-www.playcity.info
 playmod.info
 playonbg.info
 playstation4.info
@@ -64234,7 +64213,6 @@ watchmovie.info
 watchpinoymovieonline.info
 wazze.info
 wczasykolobrzeg.info
-ww1.web-ranking.info
 ww25.web-ranking.info
 www.web-ranking.info
 webflow.info
@@ -68202,7 +68180,6 @@ auth.expertflyer-dev.redventures.io
 expertflyer-staging.redventures.io
 feeds.redventures.io
 frontier.redventures.io
-galaxy.redventures.io
 guardian.redventures.io
 library.harbinger.redventures.io
 predict.harbinger.redventures.io
@@ -68280,7 +68257,6 @@ tools-dev.redventures.io
 transcription.redventures.io
 travel-platform.redventures.io
 varo.redventures.io
-varo-dev.redventures.io
 vod-development.redventures.io
 volt.redventures.io
 remerge.io
@@ -106054,7 +106030,6 @@ spacex.ooo
 mail.3qqq.org
 ns.3qqq.org
 ww17.3qqq.org
-www.3qqq.org
 49nct.org
 4bilder1wort.org
 4hu.org
@@ -106070,7 +106045,6 @@ ww25.6ixty9ine.org
 ww38.6ixty9ine.org
 ww7.6ixty9ine.org
 720pfilm.org
-ww1.7bug.org
 ww25.7bug.org
 ww38.7bug.org
 7thavenuefamilyhealthcenter.org
@@ -106292,7 +106266,6 @@ authentiseal.org
 auversup.org
 ww11.ekb.avtoru.org
 ww25.ekb.avtoru.org
-ww1.avtoru.org
 ww17.avtoru.org
 ww25.avtoru.org
 awanas.org
@@ -107039,13 +107012,7 @@ gamca.org
 gavfw.org
 gay-torrent.org
 gayboys.org
-it.gaymaletube.org
-tr.gaymaletube.org
 webdisk.gaymaletube.org
-ww16.gaymaletube.org
-ww17.gaymaletube.org
-ww38.gaymaletube.org
-ww6.gaymaletube.org
 www.gaymaletube.org
 gccca.org
 gcfleanrfree.org
@@ -107410,8 +107377,6 @@ likes4likes.org
 lilpawsrescue.org
 limpeza.org
 linconcenter.org
-ww25.shop.linezero.org
-ww1.linezero.org
 linkojager.org
 linkscholar.org
 linksys.org
@@ -107885,7 +107850,6 @@ poczta.primarysourcelearning.org
 pop.primarysourcelearning.org
 post.primarysourcelearning.org
 smtps.primarysourcelearning.org
-www.primarysourcelearning.org
 www1.primarysourcelearning.org
 primejailbait.org
 prismarc.org
@@ -108962,6 +108926,7 @@ mail.wlsd.org
 students.wlsd.org
 ww1.wlsd.org
 ww38.wlsd.org
+www.wlsd.org
 woldpress.org
 wolrdcat.org
 womansway.org
