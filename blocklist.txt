@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336475
+# Ignored duplicates: 336444
 
 chameleon.ad
 pixel.ad
@@ -1820,7 +1820,6 @@ customer-api.datadome.co
 db.datadome.co
 dev.datadome.co
 dev-app.datadome.co
-www.dev-corporate-website.datadome.co
 dev-customer-api.datadome.co
 first-party-js.datadome.co
 flink.datadome.co
@@ -5667,7 +5666,6 @@ adsxyz.com
 ads.adsymptotic.com
 adsapi.adsymptotic.com
 adse.adsymptotic.com
-api-eu.adsymptotic.com
 api-sc2.adsymptotic.com
 api6.adsymptotic.com
 awsw-spdy-lb1.adsymptotic.com
@@ -5675,7 +5673,6 @@ awsw-spdy-lb2.adsymptotic.com
 c.adsymptotic.com
 c-eu.adsymptotic.com
 c-sc2.adsymptotic.com
-fc-eu.adsymptotic.com
 og-iad2.adsymptotic.com
 og-sc2.adsymptotic.com
 p.adsymptotic.com
@@ -17748,6 +17745,18 @@ gameanalytics.com
 gameandfishnetwork.com
 gamefugh.com
 gamenoed.com
+alldwnlds.gamerz-land.com
+bst.gamerz-land.com
+datastore.gamerz-land.com
+download.gamerz-land.com
+games4win.gamerz-land.com
+gamessetup.gamerz-land.com
+lg.gamerz-land.com
+ravenfile.gamerz-land.com
+static.gamerz-land.com
+ww16.gamerz-land.com
+ww25.gamerz-land.com
+www.gamerz-land.com
 games2boy.com
 gameschill.com
 gamesites200.com
@@ -20811,6 +20820,7 @@ campaignservicev3-usa-prod.localiq.com
 campaignservicev3-usa-qa.localiq.com
 capture-admin.localiq.com
 capture-admin-qa.localiq.com
+ceea.localiq.com
 ceea-qa.localiq.com
 centralohio.localiq.com
 chillicothegazette.localiq.com
@@ -44075,6 +44085,7 @@ www.psp35.com
 pspioz.com
 psychedelicchess.com
 ptalo.com
+www.ptestexapta.com
 deliver.ptgncdn.com
 ptoushoa.com
 ptp22.com
@@ -55130,7 +55141,6 @@ s6600d6d98e534115970f9529a45f3195.js.ubembed.com
 pages.ubembed.com
 pages-integration.ubembed.com
 ww25.forum.uberstirke.com
-ww11.uberstirke.com
 data.ubi.com
 www.ublockerext.com
 ubucatucarro.com
@@ -55969,7 +55979,6 @@ vapidsoftware.com
 variantproducts.com
 vmstats.varrando.com
 a.vartoken.com
-www.varusu.com
 vasphotos.com
 track.vcdc.com
 analytics.vcdevhub.com
@@ -59945,7 +59954,6 @@ meal.co.il
 megared.co.il
 meidashoa.co.il
 mellex.co.il
-www.midmeds.co.il
 mortein.co.il
 movefree.co.il
 mucinex.co.il
@@ -60454,11 +60462,25 @@ www.applifier.info
 aqueduct.info
 ar-raudhah.info
 arabtravail.info
+m.aroundthe-world.info
+mail.aroundthe-world.info
+mail1.aroundthe-world.info
+mailgate.aroundthe-world.info
 mailrelay.aroundthe-world.info
+mailserver.aroundthe-world.info
 mx0.aroundthe-world.info
+mx1.aroundthe-world.info
+mx2.aroundthe-world.info
 mx7.aroundthe-world.info
+ns.aroundthe-world.info
+ns1.aroundthe-world.info
+ns2.aroundthe-world.info
+poczta.aroundthe-world.info
+pop.aroundthe-world.info
 post.aroundthe-world.info
 relay.aroundthe-world.info
+secure.aroundthe-world.info
+server.aroundthe-world.info
 smtp01.aroundthe-world.info
 ww1.aroundthe-world.info
 ww11.aroundthe-world.info
@@ -60467,6 +60489,7 @@ ww17.aroundthe-world.info
 ww25.aroundthe-world.info
 ww38.aroundthe-world.info
 www.aroundthe-world.info
+www1.aroundthe-world.info
 www70.aroundthe-world.info
 artecrochet.info
 arterienverkalkung.info
@@ -60495,6 +60518,7 @@ ww38.aso-sabo.info
 ww7.aso-sabo.info
 www.aso-sabo.info
 assafir-attounissia.info
+www.assilah.info
 assurancecomplementairesante.info
 astrofx.info
 atbt.info
@@ -61712,10 +61736,6 @@ ww16.freeiphonesex.info
 ww25.freeiphonesex.info
 ww38.freeiphonesex.info
 www.freeiphonesex.info
-ww1.freejavascriptgames.info
-ww17.freejavascriptgames.info
-ww25.freejavascriptgames.info
-www.freejavascriptgames.info
 freelancewriter88.info
 freenet.info
 freenetflixaccount.info
@@ -61994,7 +62014,6 @@ there.hondacb450s.info
 who.hondacb450s.info
 wind.hondacb450s.info
 wood.hondacb450s.info
-www.hondacb450s.info
 yee.hondacb450s.info
 honwa.info
 hookers.info
@@ -62603,9 +62622,7 @@ ww25.nonude-stars.info
 ww38.nonude-stars.info
 www.nonude-stars.info
 noorani.info
-ww1.aparece-cecilia-bracamonte.noraredenoma.info
 ww1.bacan-sat.noraredenoma.info
-ww1.biografia-de-jose-pardo-y-barreda.noraredenoma.info
 ww38.chalets-gilet.noraredenoma.info
 ww11.famosas-follando-gratis.noraredenoma.info
 ww38.punto-iluminacion.noraredenoma.info
@@ -62709,10 +62726,7 @@ www.olioli.info
 one-step-beyond.info
 only-soft.info
 ww1.onlymature.info
-ww11.onlymature.info
 ww16.onlymature.info
-ww38.onlymature.info
-www.onlymature.info
 onthespot.info
 onzeweb.info
 optisyen.info
@@ -62759,10 +62773,13 @@ phpstore.info
 phtechtools.info
 phur.info
 autodiscover.picaduras.info
+mail.picaduras.info
+webdisk.picaduras.info
 ww1.picaduras.info
 ww17.picaduras.info
 ww25.picaduras.info
 ww38.picaduras.info
+www.picaduras.info
 ww1.pictureguycabo.info
 ww11.pictureguycabo.info
 ww12.pictureguycabo.info
@@ -62805,8 +62822,6 @@ ww17.planetdoc.info
 plantio.info
 play2pay.info
 ww1.playcity.info
-ww11.playcity.info
-ww38.playcity.info
 playmod.info
 playonbg.info
 playstation4.info
@@ -62885,9 +62900,7 @@ mail.projectoval.info
 mvideo.projectoval.info
 webdisk.projectoval.info
 ww1.projectoval.info
-ww16.projectoval.info
 ww2.projectoval.info
-ww38.projectoval.info
 www.projectoval.info
 promma.info
 promolab.info
@@ -63454,7 +63467,6 @@ stockphotoexpress.info
 stoommachine.info
 stopillegals.info
 streamingvf.info
-www.stroims.info
 studnet.info
 mail.subsidios.info
 ww38.subsidios.info
@@ -79016,7 +79028,6 @@ e-4669-us-east-1.adzerk.net
 e-49.adzerk.net
 e-49-us-east-1.adzerk.net
 e-4916.adzerk.net
-e-4916-us-east-1.adzerk.net
 e-5146.adzerk.net
 e-5146-us-east-1.adzerk.net
 e-5177.adzerk.net
@@ -99642,7 +99653,6 @@ johnnyboy.net
 joowon.net
 joululauluja.net
 juggworld.net
-www.juiceplusgreece.net
 juicyhentia.net
 jyukudou.net
 ads.kaktuz.net
@@ -106044,7 +106054,6 @@ spacex.ooo
 24tabs.org
 2kmovie.org
 32nd.org
-mail.3qqq.org
 ns.3qqq.org
 ww17.3qqq.org
 49nct.org
@@ -106062,7 +106071,6 @@ ww25.6ixty9ine.org
 ww38.6ixty9ine.org
 ww7.6ixty9ine.org
 720pfilm.org
-ww25.7bug.org
 ww38.7bug.org
 7thavenuefamilyhealthcenter.org
 7tv.org
@@ -107246,12 +107254,7 @@ indexxx.org
 indianaexpeditions.org
 indonesianembassy-china.org
 infografias.org
-mail.insaps.org
-ns1.insaps.org
-ww1.insaps.org
-ww17.insaps.org
-ww38.insaps.org
-www.insaps.org
+insaps.org
 inskape.org
 intarnet.org
 www.interboro.org
@@ -107862,7 +107865,6 @@ online.prons.org
 videochat.prons.org
 ww1.prons.org
 ww12.prons.org
-ww16.prons.org
 ww2.prons.org
 ww25.prons.org
 ww38.prons.org
