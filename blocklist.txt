@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336444
+# Ignored duplicates: 336425
 
 chameleon.ad
 pixel.ad
@@ -5672,7 +5672,6 @@ awsw-spdy-lb1.adsymptotic.com
 awsw-spdy-lb2.adsymptotic.com
 c.adsymptotic.com
 c-eu.adsymptotic.com
-c-sc2.adsymptotic.com
 og-iad2.adsymptotic.com
 og-sc2.adsymptotic.com
 p.adsymptotic.com
@@ -5681,11 +5680,8 @@ pinterest.adsymptotic.com
 pixel-useast.adsymptotic.com
 platform.adsymptotic.com
 rtb.adsymptotic.com
-rtb-eu.adsymptotic.com
-rtbe.adsymptotic.com
 c-vip-lb1.sc2.adsymptotic.com
 c-vip-lb2.sc2.adsymptotic.com
-spdy-lb7.adsymptotic.com
 spdy-lb8.adsymptotic.com
 adsynergy.com
 cdn.adt328.com
@@ -9188,9 +9184,6 @@ c.cintnetworks.com
 cirsuitcity.com
 cision.com
 citadelbank.com
-mail.citelcom.com
-webdisk.citelcom.com
-www.citelcom.com
 metrics1.citi.com
 content22.online.citi.com
 profile.citrix.com
@@ -17755,6 +17748,7 @@ lg.gamerz-land.com
 ravenfile.gamerz-land.com
 static.gamerz-land.com
 ww16.gamerz-land.com
+ww2.gamerz-land.com
 ww25.gamerz-land.com
 www.gamerz-land.com
 games2boy.com
@@ -44136,6 +44130,7 @@ tableau.purch.com
 vc.purch.com
 videounit.purch.com
 www.purch.com
+pure-osaka.com
 www.puresweeteners.com
 pursuanthealth.com
 pushame.com
@@ -50908,8 +50903,6 @@ jssdk.pulse.schibsted.com
 mktg.schlage.com
 scholarshipdeals.com
 schoolnpjs.com
-mail.schoolyoutube.com
-www.schoolyoutube.com
 ads.scifi.com
 adserver.sciflicks.com
 scintillatingscissors.com
@@ -54817,6 +54810,7 @@ ww.tube16.com
 ww1.tube16.com
 ww25.tube16.com
 www.tube16.com
+www42.tube16.com
 tube21.com
 ifa.tube8live.com
 tubemogul.com
@@ -55140,7 +55134,6 @@ assets.ubembed.com
 s6600d6d98e534115970f9529a45f3195.js.ubembed.com
 pages.ubembed.com
 pages-integration.ubembed.com
-ww25.forum.uberstirke.com
 data.ubi.com
 www.ublockerext.com
 ubucatucarro.com
@@ -58462,7 +58455,6 @@ xvideossex.com
 xvideows.com
 xvidep.com
 xvides.com
-xx69x.com
 xxflogger.com
 xxfreehdvideos.com
 xxnvx.com
@@ -58537,7 +58529,6 @@ yamaha-disklavier.com
 yamails.com
 yamstamp.com
 yanaiarfi.com
-ww1.yantays.com
 www.yantays.com
 yaskyatv.com
 yatube.com
@@ -60675,7 +60666,6 @@ bestmovies.info
 bestouyagames.info
 ww1.bestxxxgals.info
 ww38.bestxxxgals.info
-www.bestxxxgals.info
 www.bestyoutubechannels.info
 betamax.info
 mail.bettersalud.info
@@ -60852,6 +60842,7 @@ www.borenje.info
 www1.borenje.info
 www2.borenje.info
 zimbra.borenje.info
+bravotogel.info
 brazzers-hdx.info
 brshare.info
 brunei.info
@@ -62622,7 +62613,6 @@ ww25.nonude-stars.info
 ww38.nonude-stars.info
 www.nonude-stars.info
 noorani.info
-ww1.bacan-sat.noraredenoma.info
 ww38.chalets-gilet.noraredenoma.info
 ww11.famosas-follando-gratis.noraredenoma.info
 ww38.punto-iluminacion.noraredenoma.info
@@ -62821,7 +62811,6 @@ ww11.planetdoc.info
 ww17.planetdoc.info
 plantio.info
 play2pay.info
-ww1.playcity.info
 playmod.info
 playonbg.info
 playstation4.info
@@ -64249,7 +64238,6 @@ watchmovie.info
 watchpinoymovieonline.info
 wazze.info
 wczasykolobrzeg.info
-ww25.web-ranking.info
 www.web-ranking.info
 webflow.info
 webhealth.info
@@ -64260,7 +64248,6 @@ weimei.info
 welda.info
 wesua.info
 wfrtys.info
-ww25.whatsontv.info
 white-media.info
 whs.info
 wiersze.info
@@ -64473,7 +64460,6 @@ kellan.zapret.info
 odalys.zapret.info
 trey.zapret.info
 ww16.zapret.info
-ww17.zapret.info
 ww25.zapret.info
 ww38.zapret.info
 ww6.zapret.info
@@ -78836,7 +78822,6 @@ e-10040-us-east-1.adzerk.net
 e-10050.adzerk.net
 e-10050-us-east-1.adzerk.net
 e-10050-us-west-2.adzerk.net
-e-10075.adzerk.net
 e-10075-ap-northeast-2.adzerk.net
 e-10077.adzerk.net
 e-10077-us-east-1.adzerk.net
@@ -79063,7 +79048,6 @@ e-8960.adzerk.net
 e-8960-us-east-1.adzerk.net
 e-9435.adzerk.net
 e-9435-us-east-1.adzerk.net
-e-946.adzerk.net
 e-946-us-east-1.adzerk.net
 e-9532.adzerk.net
 e-9532-us-east-1.adzerk.net
@@ -79100,7 +79084,6 @@ e-9699-us-east-1.adzerk.net
 e-9701.adzerk.net
 e-9701-us-east-1.adzerk.net
 e-9703.adzerk.net
-e-9708.adzerk.net
 e-9708-us-east-1.adzerk.net
 e-9711.adzerk.net
 e-9711-us-east-1.adzerk.net
@@ -101016,6 +100999,7 @@ rmcollections.net
 roastedvolt.net
 ronalo7.net
 ronniescatfishandmore.net
+routwelogin.net
 roxr.net
 a.rs6.net
 a.d1.rs6.net
@@ -106071,7 +106055,6 @@ ww25.6ixty9ine.org
 ww38.6ixty9ine.org
 ww7.6ixty9ine.org
 720pfilm.org
-ww38.7bug.org
 7thavenuefamilyhealthcenter.org
 7tv.org
 88000.org
@@ -106920,6 +106903,7 @@ exramath.org
 ad.exyws.org
 eyeofthecat.org
 ezpassnj.org
+f1tv.org
 ww1.face-copyright.org
 ww17.face-copyright.org
 ww35.face-copyright.org
@@ -106977,6 +106961,7 @@ filmesonlinegratishd.org
 filmhot.org
 finalfantasy12.org
 financelacity.org
+fixwilsonyard.org
 flightplanner.org
 floridabuildingcode.org
 dev.flrministry.org
@@ -107305,7 +107290,6 @@ jpsschool.org
 jrc.org
 jsdc33jsod24.org
 jsononlineeditor.org
-jstriclub.org
 judgenow.org
 justintvizle.org
 justservice.org
@@ -107488,7 +107472,6 @@ mistreci.org
 mnshsl.org
 mobiloil.org
 moblism.org
-www.mochilero.org
 ww1.moconnections.org
 ww17.moconnections.org
 ww38.moconnections.org
@@ -107635,7 +107618,6 @@ nicotineanonymous.org
 nidaatounes.org
 nigerianmusic.org
 niifty.org
-www.nikeonline.org
 nitfy.org
 ww1.njlom.org
 www.njlom.org
@@ -107683,8 +107665,6 @@ olllo.org
 olmpic.org
 olypic.org
 onahepatitis.org
-dev.onet-center.org
-old.onet-center.org
 sitemap.onet-center.org
 staging.onet-center.org
 ww1.onet-center.org
@@ -107860,16 +107840,6 @@ projectobolix.org
 projectyouthsafety.org
 promoteyourself.org
 pron00.org
-content.prons.org
-online.prons.org
-videochat.prons.org
-ww1.prons.org
-ww12.prons.org
-ww2.prons.org
-ww25.prons.org
-ww38.prons.org
-ww7.prons.org
-www.prons.org
 proudflex.org
 providencu.org
 pryaja.org
@@ -108964,7 +108934,8 @@ wwwushistory.org
 wwwworkintexas.org
 wwwymca.org
 xcdsql.org
-xepan.org
+ww17.xepan.org
+ww38.xepan.org
 xposedmagazinenews.org
 xvedios.org
 y20turkey.org
