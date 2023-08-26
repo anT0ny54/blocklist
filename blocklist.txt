@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336425
+# Ignored duplicates: 336421
 
 chameleon.ad
 pixel.ad
@@ -1386,13 +1386,11 @@ banners.bol.com.br
 www3.convergenciadigital.com.br
 adserver.diariodosertao.com.br
 anuncios.edicaoms.com.br
-ads.egrana.com.br
 goiasprodutos.com.br
 ads.ibest.com.br
 ad.jacotei.com.br
 medicalcenterbr.com.br
 adserver.pampa.com.br
-adfs.senacrs.com.br
 softclick.com.br
 ads.todoti.com.br
 topsites.com.br
@@ -5678,10 +5676,8 @@ p.adsymptotic.com
 p-eu.adsymptotic.com
 pinterest.adsymptotic.com
 pixel-useast.adsymptotic.com
-platform.adsymptotic.com
 rtb.adsymptotic.com
 c-vip-lb1.sc2.adsymptotic.com
-c-vip-lb2.sc2.adsymptotic.com
 spdy-lb8.adsymptotic.com
 adsynergy.com
 cdn.adt328.com
@@ -15827,6 +15823,7 @@ english4ksa.com
 englishseak.com
 pixel-profile-cloud.eniro.com
 enormousearth.com
+enquisite.com
 ensighten.com
 mediaserver.entainpartners.com
 entercasino.com
@@ -17954,7 +17951,6 @@ affiliates.globat.com
 ml.globenewswire.com
 globlb.com
 globtrix.com
-globus-inter.com
 glockpost.com
 glooogl.com
 gloriousbeef.com
@@ -43643,6 +43639,7 @@ kiaranaturals.postaffiliatepro.com
 kinguin.postaffiliatepro.com
 kiwitaxi.postaffiliatepro.com
 knightfgcom.postaffiliatepro.com
+koicbd.postaffiliatepro.com
 konga.postaffiliatepro.com
 konibet.postaffiliatepro.com
 kratora.postaffiliatepro.com
@@ -51025,7 +51022,6 @@ ww16.sea-patrol.com
 ww17.sea-patrol.com
 ww25.sea-patrol.com
 ww38.sea-patrol.com
-www.sea-patrol.com
 seagate-datarecovery.com
 seal-n-send.com
 search-mngr.com
@@ -56975,7 +56971,6 @@ watrick.com
 wavesecure.com
 mail.way2sma.com
 ww1.way2sma.com
-ww25.way2sma.com
 ww38.way2sma.com
 ww5.way2sma.com
 www.way2sma.com
@@ -59811,7 +59806,6 @@ ads.adsbtc.fun
 ads.a-snag-smartmoney.fyi
 autologica.ga
 kaloo.ga
-relay.drawbrid.ge
 www.drawbrid.ge
 clean.gg
 telemetry.consumersentinel.gov
@@ -63161,7 +63155,6 @@ ww25.rollover.info
 www.rollover.info
 romiso.info
 roomie.info
-a.mx.rootsandshoots.info
 ww1.rotor.info
 www.rotor.info
 routerhowto.info
@@ -63816,7 +63809,6 @@ traveller.info
 trinhcongson.info
 trustfund.info
 dc-c05045e64dd9.truyengay.info
-ww25.truyengay.info
 ww38.truyengay.info
 www.truyengay.info
 ww17.tsuki-subs.info
@@ -64457,7 +64449,6 @@ ww25.zaburzeniaodzywiania.info
 ww38.zaburzeniaodzywiania.info
 www.zaburzeniaodzywiania.info
 kellan.zapret.info
-odalys.zapret.info
 trey.zapret.info
 ww16.zapret.info
 ww25.zapret.info
@@ -78822,14 +78813,12 @@ e-10040-us-east-1.adzerk.net
 e-10050.adzerk.net
 e-10050-us-east-1.adzerk.net
 e-10050-us-west-2.adzerk.net
-e-10075-ap-northeast-2.adzerk.net
 e-10077.adzerk.net
 e-10077-us-east-1.adzerk.net
 e-10085.adzerk.net
 e-10085-us-east-1.adzerk.net
 e-10085-us-west-2.adzerk.net
 e-10116.adzerk.net
-e-10116-ap-northeast-2.adzerk.net
 e-10136.adzerk.net
 e-10136-us-east-1.adzerk.net
 e-10146.adzerk.net
@@ -78849,7 +78838,6 @@ e-10199.adzerk.net
 e-10199-us-east-1.adzerk.net
 e-10203.adzerk.net
 e-10203-us-east-1.adzerk.net
-e-10208.adzerk.net
 e-10208-us-east-1.adzerk.net
 e-10220.adzerk.net
 e-10220-us-east-1.adzerk.net
@@ -78863,7 +78851,6 @@ e-10238.adzerk.net
 e-10238-us-east-1.adzerk.net
 e-10240.adzerk.net
 e-10240-us-east-1.adzerk.net
-e-10246.adzerk.net
 e-10246-us-east-1.adzerk.net
 e-10247-us-east-1.adzerk.net
 e-10250.adzerk.net
@@ -78874,7 +78861,6 @@ e-10256.adzerk.net
 e-10256-us-east-1.adzerk.net
 e-10257.adzerk.net
 e-10257-us-east-1.adzerk.net
-e-10258.adzerk.net
 e-10258-us-east-1.adzerk.net
 e-10274.adzerk.net
 e-10274-us-east-1.adzerk.net
@@ -79089,7 +79075,6 @@ e-9711.adzerk.net
 e-9711-us-east-1.adzerk.net
 e-9715.adzerk.net
 e-9715-us-east-1.adzerk.net
-e-9726.adzerk.net
 e-9726-us-east-1.adzerk.net
 e-9727.adzerk.net
 e-9727-us-east-1.adzerk.net
@@ -105607,7 +105592,11 @@ srbiaulogin.net
 ss-omtrdc.net
 38.ssfrom.net
 ww2.ssfrom.net
+ww25.ssfrom.net
 www.ssfrom.net
+www12.ssfrom.net
+www14.ssfrom.net
+www42.ssfrom.net
 ww1.sstoday.net
 ww16.sstoday.net
 ww38.sstoday.net
@@ -106169,7 +106158,6 @@ afflink.org
 africangirls.org
 www.africateachingauthorities.org
 ww1.agendaveb.org
-ww16.agendaveb.org
 ww17.agendaveb.org
 ww25.agendaveb.org
 www.agendaveb.org
@@ -106289,6 +106277,7 @@ ww11.babelinks.org
 ww38.babelinks.org
 www.babelinks.org
 app.backinstock.org
+ww25.bagira.org
 baillii.org
 bajkidladzieci.org
 ballotopedia.org
@@ -107619,7 +107608,6 @@ nidaatounes.org
 nigerianmusic.org
 niifty.org
 nitfy.org
-ww1.njlom.org
 www.njlom.org
 www.nlcollege.org
 nnpcgroup.org
@@ -107669,7 +107657,6 @@ sitemap.onet-center.org
 staging.onet-center.org
 ww1.onet-center.org
 ww25.onet-center.org
-ww38.onet-center.org
 openae.org
 openambit.org
 opencamera.org
