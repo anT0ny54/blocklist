@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336406
+# Ignored duplicates: 336390
 
 chameleon.ad
 pixel.ad
@@ -5661,24 +5661,16 @@ zc.adswizz.com
 zemeho.adswizz.com
 adsximg.com
 adsxyz.com
-ads.adsymptotic.com
-adsapi.adsymptotic.com
 adse.adsymptotic.com
-api-sc2.adsymptotic.com
 api6.adsymptotic.com
 awsw-spdy-lb1.adsymptotic.com
-awsw-spdy-lb2.adsymptotic.com
 c.adsymptotic.com
 c-eu.adsymptotic.com
 og-iad2.adsymptotic.com
 og-sc2.adsymptotic.com
 p.adsymptotic.com
-p-eu.adsymptotic.com
 pinterest.adsymptotic.com
-pixel-useast.adsymptotic.com
 rtb.adsymptotic.com
-c-vip-lb1.sc2.adsymptotic.com
-spdy-lb8.adsymptotic.com
 adsynergy.com
 cdn.adt328.com
 cdn.adt356.com
@@ -8043,6 +8035,7 @@ benefitsincard.com
 bengalimatimony.com
 benkoltd.com
 bennha.com
+ww1.bentlyauction.com
 ww25.bentlyauction.com
 www.bentlyauction.com
 benuaghty.com
@@ -8323,9 +8316,7 @@ bluepistons.com
 blueshielsca.com
 blueskydownload.com
 ww25.forum.bluestarbrass.com
-ww1.bluestarbrass.com
 ww25.bluestarbrass.com
-www.bluestarbrass.com
 bluewhaleweb.com
 blushingbeast.com
 blushingboundary.com
@@ -19156,6 +19147,7 @@ hyprmx.com
 tracking.hyros.com
 hystericalcloth.com
 hystericalhelp.com
+ww38.hyuday.com
 hyundaigenisis.com
 hyundauusa.com
 hyunja6.com
@@ -19253,7 +19245,6 @@ ilebox.com
 ilife-insurance.com
 ilikeitmomma.com
 illfatedsnail.com
-ww1.illinoiselottery.com
 www.illinoiselottery.com
 illustriousoatmeal.com
 ilo134ulih.com
@@ -36957,7 +36948,6 @@ lxpcm01.nanigans.com
 memcached.nanigans.com
 pip.nanigans.com
 pip-dev.nanigans.com
-plxprptdal901.nanigans.com
 puppet.nanigans.com
 nanoadbite.com
 nanointeractive.com
@@ -56956,10 +56946,8 @@ www.watchthechannel.com
 wateryvan.com
 watrick.com
 wavesecure.com
-mail.way2sma.com
 ww1.way2sma.com
 ww5.way2sma.com
-www.way2sma.com
 waychop.com
 prx.wayfair.com
 px.wayfair.com
@@ -60759,13 +60747,8 @@ bluenews.info
 boatrental.info
 bockchain.info
 bodenmarkt.info
-mvideo.bodybilding.info
-ww1.bodybilding.info
 ww11.bodybilding.info
-ww12.bodybilding.info
 ww17.bodybilding.info
-ww38.bodybilding.info
-ww7.bodybilding.info
 www.bodybilding.info
 bokepgratiz.info
 bokepsmp.info
@@ -61191,7 +61174,6 @@ ww1.crikit.info
 ww17.crikit.info
 ww38.crikit.info
 www.crikit.info
-ww1.crownheight.info
 www.crownheight.info
 crtaci.info
 crtx.info
@@ -61208,6 +61190,7 @@ daftarcpns.info
 ns1.damdam.info
 ns2.damdam.info
 www.damdam.info
+www.danangplus.info
 danjeh.info
 1st-rangers.darkbb.info
 2claws.darkbb.info
@@ -61477,7 +61460,6 @@ relay2.editomanga.info
 server1.editomanga.info
 webdisk.editomanga.info
 ww16.editomanga.info
-ww38.editomanga.info
 www.editomanga.info
 www2.editomanga.info
 eigenblut.info
@@ -61603,6 +61585,7 @@ ww17.farace.info
 ww25.farace.info
 ww38.farace.info
 fasan.info
+ww11.fatma.info
 fatorfiction.info
 fazu.info
 fcsite.info
@@ -61930,29 +61913,6 @@ www3.hitcrick.info
 hochkoenig.info
 holisticphysicians.info
 hologeneticprofile.info
-arn.hondacb450s.info
-bcx.hondacb450s.info
-bpt.hondacb450s.info
-czr.hondacb450s.info
-dep.hondacb450s.info
-diaria.hondacb450s.info
-dlt.hondacb450s.info
-drink.hondacb450s.info
-home.hondacb450s.info
-ipx.hondacb450s.info
-lbc.hondacb450s.info
-lord.hondacb450s.info
-mans.hondacb450s.info
-phx.hondacb450s.info
-poe.hondacb450s.info
-qun.hondacb450s.info
-sigma.hondacb450s.info
-site.hondacb450s.info
-state.hondacb450s.info
-sys.hondacb450s.info
-there.hondacb450s.info
-wood.hondacb450s.info
-yee.hondacb450s.info
 honwa.info
 hookers.info
 hookuponlineplussize.info
@@ -62560,7 +62520,6 @@ ww25.nonude-stars.info
 ww38.nonude-stars.info
 www.nonude-stars.info
 noorani.info
-ww11.famosas-follando-gratis.noraredenoma.info
 norrland.info
 noticias365.info
 ww1.novaonautoadssword.info
@@ -62833,7 +62792,6 @@ mail.projectoval.info
 mvideo.projectoval.info
 webdisk.projectoval.info
 ww1.projectoval.info
-www.projectoval.info
 promma.info
 promolab.info
 pronosticodeltiempo.info
@@ -63457,7 +63415,6 @@ www.takebin.info
 www.takipcisiteleri.info
 mail.tamil-rockers.info
 webdisk.tamil-rockers.info
-www.tamil-rockers.info
 taoy999.info
 ap.tap7500.info
 bo.tap7500.info
@@ -78998,7 +78955,6 @@ e-9624.adzerk.net
 e-9624-us-east-1.adzerk.net
 e-9631.adzerk.net
 e-9631-us-east-1.adzerk.net
-e-9637.adzerk.net
 e-9637-us-east-1.adzerk.net
 e-9638.adzerk.net
 e-9638-us-east-1.adzerk.net
@@ -82348,6 +82304,8 @@ coldwarshooters.net
 coleccionismo.net
 collegelatinas.net
 colorkids.net
+ww11.wengo.droit-finances.commentcamarch.net
+ww25.wengo.droit-finances.commentcamarch.net
 community-baptist.net
 comxcast.net
 connecthackensackumc.net
@@ -105973,8 +105931,6 @@ spacex.ooo
 24tabs.org
 2kmovie.org
 32nd.org
-ns.3qqq.org
-ww17.3qqq.org
 49nct.org
 4bilder1wort.org
 4hu.org
@@ -106222,11 +106178,7 @@ ww11.babelinks.org
 ww38.babelinks.org
 www.babelinks.org
 app.backinstock.org
-autodiscover.bagira.org
-mail.bagira.org
-old.bagira.org
-ww25.bagira.org
-www.bagira.org
+bagira.org
 baillii.org
 bajkidladzieci.org
 ballotopedia.org
@@ -107555,8 +107507,8 @@ nigerianmusic.org
 niifty.org
 ww17.nintendobr.org
 ww38.nintendobr.org
+www.nintendobr.org
 nitfy.org
-www.njlom.org
 www.nlcollege.org
 nnpcgroup.org
 nnville.org
@@ -107659,6 +107611,7 @@ comune.pacsweb.org
 correo.pacsweb.org
 cs.pacsweb.org
 direct.pacsweb.org
+email.pacsweb.org
 gate.pacsweb.org
 gateway.pacsweb.org
 hermes.pacsweb.org
@@ -107667,23 +107620,30 @@ host.pacsweb.org
 imap1.pacsweb.org
 internet.pacsweb.org
 ipe.pacsweb.org
+m.pacsweb.org
 mail01.pacsweb.org
 mail1.pacsweb.org
+mail10.pacsweb.org
 mail11.pacsweb.org
+mail12.pacsweb.org
 mail2.pacsweb.org
 mail3.pacsweb.org
 mail4.pacsweb.org
 mail5.pacsweb.org
 mail6.pacsweb.org
+mail7.pacsweb.org
 mail8.pacsweb.org
+mail9.pacsweb.org
 mailapp.pacsweb.org
 mailbox.pacsweb.org
 mailgw.pacsweb.org
 mailin.pacsweb.org
 mailrelay.pacsweb.org
 mails.pacsweb.org
+mailserver.pacsweb.org
 mailsrv.pacsweb.org
 mbox.pacsweb.org
+mms.pacsweb.org
 ms.pacsweb.org
 ms1.pacsweb.org
 mta.pacsweb.org
@@ -107699,21 +107659,25 @@ mx7.pacsweb.org
 mxs.pacsweb.org
 newmail.pacsweb.org
 ns.pacsweb.org
+ns1.pacsweb.org
 out.pacsweb.org
 pbrand.pacsweb.org
 po.pacsweb.org
+poczta.pacsweb.org
 pop.pacsweb.org
 post.pacsweb.org
 posta.pacsweb.org
 postmaster.pacsweb.org
 relay.pacsweb.org
 relay2.pacsweb.org
+root.pacsweb.org
 send.pacsweb.org
 server.pacsweb.org
 server1.pacsweb.org
 server2.pacsweb.org
 smtpauth.pacsweb.org
 smtps.pacsweb.org
+smtpseguro.pacsweb.org
 sniper.pacsweb.org
 srv.pacsweb.org
 ssl.pacsweb.org
@@ -107722,6 +107686,7 @@ tw.pacsweb.org
 vip.pacsweb.org
 vmail.pacsweb.org
 vps.pacsweb.org
+ww1.pacsweb.org
 ww3.pacsweb.org
 zimbra.pacsweb.org
 zmail.pacsweb.org
@@ -108420,14 +108385,11 @@ snafeee.org
 snappvis.org
 10780.snapsteal.org
 12314.snapsteal.org
-12808.snapsteal.org
-13039.snapsteal.org
+ww11.13039.snapsteal.org
 ww25.15161.snapsteal.org
-15757.snapsteal.org
-1714.snapsteal.org
-18815.snapsteal.org
-19335.snapsteal.org
-19483.snapsteal.org
+ww1.19335.snapsteal.org
+ww11.19483.snapsteal.org
+ww25.19483.snapsteal.org
 2054.snapsteal.org
 ww1.20801.snapsteal.org
 ww38.20801.snapsteal.org
@@ -108438,8 +108400,9 @@ ww11.2716.snapsteal.org
 32335.snapsteal.org
 ww11.33727.snapsteal.org
 43715.snapsteal.org
-5396.snapsteal.org
-7984.snapsteal.org
+ww11.5396.snapsteal.org
+ww1.7984.snapsteal.org
+ww25.7984.snapsteal.org
 ww25.snapsteal.org
 ww31.snapsteal.org
 ww38.snapsteal.org
@@ -113190,6 +113153,7 @@ h78xb.pw
 new.minr.pw
 test.minr.pw
 tdzvm.pw
+mine.torrent.pw
 zlp6s.pw
 www.hostingcloud.racing
 adsco.re
@@ -117277,6 +117241,7 @@ user.ampliacion.xyz
 utm.ampliacion.xyz
 bezos.xyz
 r.codio.xyz
+play.estream.xyz
 fadb.xyz
 t.favaqo.xyz
 fstats.xyz
