@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336390
+# Ignored duplicates: 336460
 
 chameleon.ad
 pixel.ad
@@ -2688,6 +2688,8 @@ abtasty.com
 abuelasfollando.com
 ad.abum.com
 abuzada.com
+ww38.acacemy.com
+www.acacemy.com
 acashatusa.com
 acbjobs.com
 barracuda.accelventures.com
@@ -5661,16 +5663,9 @@ zc.adswizz.com
 zemeho.adswizz.com
 adsximg.com
 adsxyz.com
-adse.adsymptotic.com
-api6.adsymptotic.com
-awsw-spdy-lb1.adsymptotic.com
 c.adsymptotic.com
-c-eu.adsymptotic.com
-og-iad2.adsymptotic.com
-og-sc2.adsymptotic.com
 p.adsymptotic.com
 pinterest.adsymptotic.com
-rtb.adsymptotic.com
 adsynergy.com
 cdn.adt328.com
 cdn.adt356.com
@@ -8315,8 +8310,6 @@ ads.bluemountain.com
 bluepistons.com
 blueshielsca.com
 blueskydownload.com
-ww25.forum.bluestarbrass.com
-ww25.bluestarbrass.com
 bluewhaleweb.com
 blushingbeast.com
 blushingboundary.com
@@ -17780,14 +17773,14 @@ gavvia.com
 tms.gay-parship.com
 gay-romeo.com
 gaya2.com
-gaydateconnectionnow.com
 gayhoola.com
 gaymalettube.com
 gayprivate.com
 gayroayl.com
 data.gblcdn.com
 gcpdirect.com
-gdcdcovers.com
+ww11.gdcdcovers.com
+ww16.gdcdcovers.com
 gdmconvtrck.com
 gdmgsecure.com
 gdprcountryrestriction.com
@@ -19147,7 +19140,7 @@ hyprmx.com
 tracking.hyros.com
 hystericalcloth.com
 hystericalhelp.com
-ww38.hyuday.com
+hyuday.com
 hyundaigenisis.com
 hyundauusa.com
 hyunja6.com
@@ -19245,7 +19238,6 @@ ilebox.com
 ilife-insurance.com
 ilikeitmomma.com
 illfatedsnail.com
-www.illinoiselottery.com
 illustriousoatmeal.com
 ilo134ulih.com
 ilovebeach.com
@@ -56926,7 +56918,6 @@ metrics.washingtonpost.com
 smetrics.washingtonpost.com
 wasud.com
 ww1.watchcri.com
-ww17.watchcri.com
 ww2.watchcri.com
 ww25.watchcri.com
 ww38.watchcri.com
@@ -57448,6 +57439,7 @@ www.wwwblazecc.com
 wwwcevalogistics.com
 wwwcharlotteobserver.com
 wwwcmpco.com
+www.wwwconcordecollection.com
 wwwcrankyape.com
 wwwdatviet.com
 wwwdiamondresorts.com
@@ -58498,7 +58490,6 @@ yamaha-disklavier.com
 yamails.com
 yamstamp.com
 yanaiarfi.com
-www.yantays.com
 yaskyatv.com
 yatube.com
 ycarli.com
@@ -59901,6 +59892,9 @@ lida.co.il
 livechat.co.il
 livegol.co.il
 location-location.co.il
+mail.logo2go.co.il
+ns1.logo2go.co.il
+www.logo2go.co.il
 londonmusicals.co.il
 lottery24.co.il
 loxone.co.il
@@ -61174,7 +61168,6 @@ ww1.crikit.info
 ww17.crikit.info
 ww38.crikit.info
 www.crikit.info
-www.crownheight.info
 crtaci.info
 crtx.info
 crypto-promo.info
@@ -61445,13 +61438,11 @@ ecce.info
 eclats.info
 ecodream.info
 ecostudio.info
-imap2.editomanga.info
 m.editomanga.info
 mail2.editomanga.info
 mx.editomanga.info
 mx10.editomanga.info
 mx20.editomanga.info
-ns2.editomanga.info
 pop.editomanga.info
 post.editomanga.info
 posta.editomanga.info
@@ -61513,6 +61504,8 @@ ennstal.info
 enoughts.info
 entenduaparis.info
 epfo.info
+ww17.epilator.info
+ww25.epilator.info
 ww38.epilator.info
 www.epilator.info
 episiotomie.info
@@ -62788,7 +62781,6 @@ www.prlinkpop.info
 problemhaut.info
 procurements.info
 projectmanagement.info
-mail.projectoval.info
 mvideo.projectoval.info
 webdisk.projectoval.info
 ww1.projectoval.info
@@ -63714,9 +63706,7 @@ travelersales.info
 traveller.info
 trinhcongson.info
 trustfund.info
-dc-c05045e64dd9.truyengay.info
 ww38.truyengay.info
-www.truyengay.info
 ww17.tsuki-subs.info
 www.tsuki-subs.info
 tugaflix.info
@@ -64353,8 +64343,6 @@ ww16.zaburzeniaodzywiania.info
 ww25.zaburzeniaodzywiania.info
 ww38.zaburzeniaodzywiania.info
 www.zaburzeniaodzywiania.info
-kellan.zapret.info
-trey.zapret.info
 ww16.zapret.info
 ww25.zapret.info
 ww38.zapret.info
@@ -65829,7 +65817,6 @@ r.gleam.io
 status.gleam.io
 pixel.glimr.io
 graphly.io
-gromarketing.io
 holid.io
 cem.hotelsapi.io
 hrum.hotelsapi.io
@@ -78750,7 +78737,6 @@ e-10234.adzerk.net
 e-10234-us-east-1.adzerk.net
 e-10235.adzerk.net
 e-10235-us-east-1.adzerk.net
-e-10238.adzerk.net
 e-10238-us-east-1.adzerk.net
 e-10240.adzerk.net
 e-10240-us-east-1.adzerk.net
@@ -78915,7 +78901,6 @@ e-6666.adzerk.net
 e-6666-us-east-1.adzerk.net
 e-6770.adzerk.net
 e-6770-us-east-1.adzerk.net
-e-6819.adzerk.net
 e-6819-us-east-1.adzerk.net
 e-6863.adzerk.net
 e-6863-us-east-1.adzerk.net
@@ -78936,7 +78921,6 @@ e-8960.adzerk.net
 e-8960-us-east-1.adzerk.net
 e-9435.adzerk.net
 e-9435-us-east-1.adzerk.net
-e-946-us-east-1.adzerk.net
 e-9532.adzerk.net
 e-9532-us-east-1.adzerk.net
 e-9536.adzerk.net
@@ -78960,13 +78944,11 @@ e-9638.adzerk.net
 e-9638-us-east-1.adzerk.net
 e-9660.adzerk.net
 e-9660-us-east-1.adzerk.net
-e-9663.adzerk.net
 e-9663-us-east-1.adzerk.net
 e-9671.adzerk.net
 e-9671-us-east-1.adzerk.net
 e-9674.adzerk.net
 e-9674-us-east-1.adzerk.net
-e-9699.adzerk.net
 e-9699-us-east-1.adzerk.net
 e-9701.adzerk.net
 e-9701-us-east-1.adzerk.net
@@ -99885,10 +99867,7 @@ mkrumlov.net
 mkt61.net
 mkt81.net
 a.mktw.net
-ww1.mobil4ik.net
 ww16.mobil4ik.net
-ww17.mobil4ik.net
-ww38.mobil4ik.net
 mobuna.net
 models24seven.net
 monbell.net
@@ -107688,6 +107667,7 @@ vmail.pacsweb.org
 vps.pacsweb.org
 ww1.pacsweb.org
 ww3.pacsweb.org
+ww38.pacsweb.org
 zimbra.pacsweb.org
 zmail.pacsweb.org
 paigai.org
@@ -108389,7 +108369,6 @@ ww11.13039.snapsteal.org
 ww25.15161.snapsteal.org
 ww1.19335.snapsteal.org
 ww11.19483.snapsteal.org
-ww25.19483.snapsteal.org
 2054.snapsteal.org
 ww1.20801.snapsteal.org
 ww38.20801.snapsteal.org
