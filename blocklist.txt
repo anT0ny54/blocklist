@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336460
+# Ignored duplicates: 336464
 
 chameleon.ad
 pixel.ad
@@ -5666,9 +5666,6 @@ zc.adswizz.com
 zemeho.adswizz.com
 adsximg.com
 adsxyz.com
-c.adsymptotic.com
-p.adsymptotic.com
-pinterest.adsymptotic.com
 adsynergy.com
 cdn.adt328.com
 cdn.adt356.com
@@ -6743,6 +6740,7 @@ tagging.me-south-1.amazonaws.com
 iadevplatform-rds.c9in3mi8kiok.us-east-1.rds.amazonaws.com
 track-order-animations.s3-ap-southeast-1.amazonaws.com
 appodealx-imply.s3-eu-central-1.amazonaws.com
+pc-tc.s3-eu-west-1.amazonaws.com
 analytic-scripts.s3-us-west-2.amazonaws.com
 static-42andpark-com.s3-us-west-2.amazonaws.com
 tesla2020mar15.s3-us-west-2.amazonaws.com
@@ -8978,6 +8976,7 @@ ensighten.ccnag.com
 ccssettlement.com
 cdg124.com
 cstat.cdn-apple.com
+code.cdn-jquery.com
 releases.cdn-jquery.com
 six.cdn-net.com
 cdnativ.com
@@ -17788,8 +17787,6 @@ gayprivate.com
 gayroayl.com
 data.gblcdn.com
 gcpdirect.com
-ww11.gdcdcovers.com
-ww16.gdcdcovers.com
 gdmconvtrck.com
 gdmgsecure.com
 gdprcountryrestriction.com
@@ -17922,7 +17919,7 @@ www8.glam.com
 glamfusionext.com
 cdn.glassboxcdn.com
 glassearch.com
-www.glasslytics.com
+glasslytics.com
 glasswipe.com
 glennnbeck.com
 glersakr.com
@@ -19828,6 +19825,7 @@ ivykiosk.com
 iwkipedia.com
 rose.ixbt.com
 iyfnzgb.com
+ww1.iyyotube.com
 izooto.com
 j93557g.com
 jabardasti.com
@@ -23754,6 +23752,7 @@ ww3.mikkymax.com
 www.mikkymax.com
 milfplatz.com
 ww35.militaryonesourse.com
+www.militaryonesourse.com
 militaryverse.com
 millennialmedia.com
 millsapveterinaryclinic.com
@@ -36943,12 +36942,7 @@ ww38.nancysfabrics.com
 www.nancysfabrics.com
 zimbra.nancysfabrics.com
 zmail.nancysfabrics.com
-dtc-app.nanigans.com
-dtc-login.nanigans.com
 lxpcm01.nanigans.com
-memcached.nanigans.com
-pip.nanigans.com
-pip-dev.nanigans.com
 puppet.nanigans.com
 nanoadbite.com
 nanointeractive.com
@@ -43831,7 +43825,6 @@ swissuplabs.postaffiliatepro.com
 tachyon.postaffiliatepro.com
 talkatoo.postaffiliatepro.com
 tegroup.postaffiliatepro.com
-tellabetterstory.postaffiliatepro.com
 templates.postaffiliatepro.com
 terrakeys.postaffiliatepro.com
 thebooknookstore.postaffiliatepro.com
@@ -46602,9 +46595,7 @@ rampmetrics.com
 expo.ads.ramsalt.com
 ranchonuevomexicanrestaurant.com
 ww11.randibazi.com
-ww16.randibazi.com
 ww25.randibazi.com
-ww38.randibazi.com
 local.randmcnallymaps.com
 office.randmcnallymaps.com
 pos.randmcnallymaps.com
@@ -50997,12 +50988,10 @@ sdfsdvc.com
 sdkfjxjertertry.com
 sdouthwest.com
 mattyonline.sea-patrol.com
-saveseapatrol.sea-patrol.com
+ww25.saveseapatrol.sea-patrol.com
 v2.sea-patrol.com
 ww1.sea-patrol.com
-ww11.sea-patrol.com
 ww16.sea-patrol.com
-ww17.sea-patrol.com
 ww25.sea-patrol.com
 ww38.sea-patrol.com
 seagate-datarecovery.com
@@ -52168,7 +52157,6 @@ sneaker-shop08.com
 ww1.sneakercafe.com
 ww25.sneakercafe.com
 www.sneakercafe.com
-ww1.sneakernewa.com
 ww17.sneakernewa.com
 ww25.sneakernewa.com
 www.sneakernewa.com
@@ -53917,6 +53905,7 @@ simonscat.tactilews.com
 simonscatpoptime.tactilews.com
 tac-production-eu.tactilews.com
 tac-production-us.tactilews.com
+www.tag-analytics.com
 tagcommander.com
 tagdelivery.com
 taggingyourpals.com
@@ -56933,7 +56922,6 @@ metrics.washingtonpost.com
 smetrics.washingtonpost.com
 wasud.com
 ww1.watchcri.com
-ww2.watchcri.com
 ww25.watchcri.com
 ww38.watchcri.com
 www.watchcri.com
@@ -60201,9 +60189,6 @@ ww38.4downfiles1.info
 www.4downfiles1.info
 4downfiles2.info
 www.4health.info
-ww17.4shared.info
-ww38.4shared.info
-ww8.4shared.info
 www.4shared.info
 52youwu.info
 5fan.info
@@ -60641,8 +60626,6 @@ ww38.bestgarten.info
 www.bestgarten.info
 bestmovies.info
 bestouyagames.info
-ww1.bestxxxgals.info
-ww38.bestxxxgals.info
 www.bestyoutubechannels.info
 betamax.info
 mail.bettersalud.info
@@ -60758,7 +60741,6 @@ bockchain.info
 bodenmarkt.info
 ww11.bodybilding.info
 ww17.bodybilding.info
-www.bodybilding.info
 bokepgratiz.info
 bokepsmp.info
 mvideo.bolero.info
@@ -61526,6 +61508,7 @@ enoughts.info
 entenduaparis.info
 epfo.info
 dc-3b6de0f8a9c6.epilator.info
+ww1.epilator.info
 ww17.epilator.info
 ww25.epilator.info
 ww38.epilator.info
@@ -61587,7 +61570,6 @@ web.falvguwen.info
 ww1.falvguwen.info
 ww11.falvguwen.info
 ww17.falvguwen.info
-ww25.falvguwen.info
 ww38.falvguwen.info
 www.falvguwen.info
 familiengarten.info
@@ -61651,11 +61633,8 @@ ww11.filieregourmande.info
 ww17.filieregourmande.info
 www.filieregourmande.info
 filmai.info
-ns2.filmesporno.info
-ww16.filmesporno.info
 ww25.filmesporno.info
 ww38.filmesporno.info
-www.filmesporno.info
 filmix.info
 filmywap.info
 filmzenstream.info
@@ -62725,6 +62704,7 @@ mail.planetdoc.info
 ngtbng.planetdoc.info
 qqetrn.planetdoc.info
 uv33abs69jrj.planetdoc.info
+ww1.planetdoc.info
 ww11.planetdoc.info
 ww17.planetdoc.info
 plantio.info
@@ -63164,7 +63144,6 @@ seefeld.info
 ww1.seisenkai.info
 ww11.seisenkai.info
 ww16.seisenkai.info
-ww25.seisenkai.info
 ww38.seisenkai.info
 www.seisenkai.info
 semmering.info
@@ -63424,8 +63403,6 @@ tagasite.info
 takeaway.info
 www.takebin.info
 www.takipcisiteleri.info
-mail.tamil-rockers.info
-webdisk.tamil-rockers.info
 taoy999.info
 ap.tap7500.info
 bo.tap7500.info
@@ -64330,16 +64307,22 @@ zh.youjjzz.info
 your-account.info
 yourapps.info
 www.yourbestcity.info
+akeelah.ytliu.info
+alijah.ytliu.info
+anneliese.ytliu.info
+areli.ytliu.info
 atlas.ytliu.info
 axl.ytliu.info
 bo.ytliu.info
 damian.ytliu.info
+designdrawing.ytliu.info
 drew.ytliu.info
 gianni.ytliu.info
 kaia.ytliu.info
 kashton.ytliu.info
 kieran.ytliu.info
 kira.ytliu.info
+marcelo.ytliu.info
 marely.ytliu.info
 moses.ytliu.info
 nicedrawings.ytliu.info
@@ -64361,11 +64344,6 @@ ww16.zaburzeniaodzywiania.info
 ww25.zaburzeniaodzywiania.info
 ww38.zaburzeniaodzywiania.info
 www.zaburzeniaodzywiania.info
-ww16.zapret.info
-ww25.zapret.info
-ww38.zapret.info
-ww6.zapret.info
-www.zapret.info
 zaraban.info
 zcpa.info
 zdania.info
@@ -79013,7 +78991,6 @@ e-9933-us-east-1.adzerk.net
 e-9957-us-east-1.adzerk.net
 e-9969.adzerk.net
 e-9969-us-east-1.adzerk.net
-e-9972.adzerk.net
 e-9980.adzerk.net
 e-9980-us-east-1.adzerk.net
 e-9990.adzerk.net
@@ -82305,6 +82282,7 @@ collegelatinas.net
 colorkids.net
 droit-finances.commentcamarch.net
 ww10.commentcamarch.net
+ww16.commentcamarch.net
 community-baptist.net
 comxcast.net
 connecthackensackumc.net
@@ -100845,6 +100823,7 @@ promoget.net
 psp-music.net
 pubnative.net
 sentry.app.osl.pubops.net
+pureclarity.net
 px-cdn.net
 px-cloud.net
 pxchk.net
@@ -106853,8 +106832,6 @@ dev.flrministry.org
 magento.flrministry.org
 mail.flrministry.org
 old.flrministry.org
-ww1.flrministry.org
-ww11.flrministry.org
 ww17.flrministry.org
 www.flrministry.org
 flydenver.org
@@ -107124,7 +107101,9 @@ indonesianembassy-china.org
 infografias.org
 insaps.org
 inskape.org
+ww17.instamag.org
 intarnet.org
+app.interboro.org
 www.interboro.org
 intercambiosvituales.org
 internalrequests.org
@@ -107326,9 +107305,7 @@ medadgujarat.org
 mediash.org
 medicalquestionsanswers.org
 mediterraneangenweb.org
-ww1.mejoresaplicacionesandroid.org
 ww11.mejoresaplicacionesandroid.org
-ww38.mejoresaplicacionesandroid.org
 www.mejoresaplicacionesandroid.org
 memberclicks.org
 memebase.org
@@ -107617,6 +107594,7 @@ imap1.pacsweb.org
 internet.pacsweb.org
 ipe.pacsweb.org
 m.pacsweb.org
+mail.pacsweb.org
 mail01.pacsweb.org
 mail1.pacsweb.org
 mail10.pacsweb.org
@@ -108384,8 +108362,6 @@ snappvis.org
 10780.snapsteal.org
 12314.snapsteal.org
 ww25.15161.snapsteal.org
-ww1.19335.snapsteal.org
-ww11.19483.snapsteal.org
 2054.snapsteal.org
 ww1.20801.snapsteal.org
 ww38.20801.snapsteal.org
@@ -108396,7 +108372,6 @@ ww11.2716.snapsteal.org
 32335.snapsteal.org
 ww11.33727.snapsteal.org
 43715.snapsteal.org
-ww1.7984.snapsteal.org
 ww25.7984.snapsteal.org
 ww25.snapsteal.org
 ww31.snapsteal.org
