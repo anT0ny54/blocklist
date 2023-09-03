@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 335925
+# Ignored duplicates: 336084
 
 chameleon.ad
 pixel.ad
@@ -7803,6 +7803,7 @@ www.cdg124.com
 cstat.cdn-apple.com
 code.cdn-jquery.com
 releases.cdn-jquery.com
+www.cdn-jquery.com
 six.cdn-net.com
 cdnativ.com
 tracker.cdnbye.com
@@ -9613,10 +9614,6 @@ decisivebase.com
 decisivedrawer.com
 decisiveducks.com
 decoratingwithlaceoutlet.com
-fw.decorsmaison.com
-ww1.decorsmaison.com
-ww38.decorsmaison.com
-www.decorsmaison.com
 decoycreation.com
 dedell.com
 deepakprakashan.com
@@ -10655,6 +10652,7 @@ calaimupdatexrewad.dnset.com
 calidadprecio.dnset.com
 camispromar.dnset.com
 caneel.dnset.com
+cansa.dnset.com
 carab.dnset.com
 carfax.dnset.com
 casera.dnset.com
@@ -11022,6 +11020,7 @@ densley.dnset.com
 desamd.dnset.com
 desrv-chek1.dnset.com
 device.dnset.com
+dewhryjhdgs.dnset.com
 dfgverauth02-authoris1.dnset.com
 dgao.dnset.com
 dgepmb.dnset.com
@@ -11232,6 +11231,7 @@ feischoolicor.dnset.com
 ferewrditem.dnset.com
 fergesaa.dnset.com
 ferhgfdssd.dnset.com
+ferhtrgfs.dnset.com
 ferthfgds.dnset.com
 ffitem.dnset.com
 fflclasses.dnset.com
@@ -11423,6 +11423,7 @@ glsc.dnset.com
 gmboxs18.dnset.com
 gmlareens.dnset.com
 gnnppmokzv.dnset.com
+cl.gob.dnset.com
 gofate.dnset.com
 goldars.dnset.com
 goomi.dnset.com
@@ -11440,6 +11441,7 @@ green1.dnset.com
 greence.dnset.com
 greenpan.dnset.com
 greentest.dnset.com
+grejhrgds.dnset.com
 grenades.dnset.com
 grossfunk.dnset.com
 grup-vip26.dnset.com
@@ -13316,6 +13318,21 @@ srvjp.dnset.com
 srwditems17.dnset.com
 ssw3lllsffrgooo.dnset.com
 stanzarp.dnset.com
+autoscan.stargate.dnset.com
+dash.stargate.dnset.com
+jackett.stargate.dnset.com
+lidarr.stargate.dnset.com
+nzbget.stargate.dnset.com
+nzbhydra2.stargate.dnset.com
+organizr.stargate.dnset.com
+overseerr.stargate.dnset.com
+plex.stargate.dnset.com
+plex-webtools.stargate.dnset.com
+portainer.stargate.dnset.com
+radarr.stargate.dnset.com
+rutorrent.stargate.dnset.com
+sonarr.stargate.dnset.com
+tautulli.stargate.dnset.com
 starnova.dnset.com
 steamplayers.dnset.com
 string-loginn007.dnset.com
@@ -13337,6 +13354,7 @@ supercell20.dnset.com
 superellmagic.dnset.com
 supermax07.dnset.com
 support-citizensbank-online.dnset.com
+support-here.dnset.com
 support-mycitizenonline.dnset.com
 support0apple.dnset.com
 support3citizen.dnset.com
@@ -13507,6 +13525,7 @@ tutorialst.dnset.com
 tvrewarditemm.dnset.com
 tw28.dnset.com
 tyoucompka.dnset.com
+cdn.u.dnset.com
 u96dw8.dnset.com
 uas.dnset.com
 uc-pubg-event-season10.dnset.com
@@ -13578,6 +13597,7 @@ vboxitemrewards18.dnset.com
 vboxitems18.dnset.com
 verfication03-required.dnset.com
 verfy-gncu.dnset.com
+verfylog3ip.dnset.com
 verhaege.dnset.com
 veriaccsafe101.dnset.com
 veridiancu-us.dnset.com
@@ -13655,6 +13675,7 @@ vm-transfer.dnset.com
 vmfmaoujgz.dnset.com
 vnp.dnset.com
 vnplan.dnset.com
+au.voes.dnset.com
 voyo.dnset.com
 vpbgmrewards18.dnset.com
 vpnn.dnset.com
@@ -14465,7 +14486,6 @@ cdn.ebdr1.com
 mx7.ebdr1.com
 ww9.ebdr1.com
 www.ebdr1.com
-www.ebdr3.com
 ebuzzingvideo.com
 applets.ebxcdn.com
 ecampaignstats.com
@@ -18550,7 +18570,7 @@ internetxfinity.com
 internshps.com
 interpolls.com
 survey.interquest.com
-intershieldismart.com
+www.intershieldismart.com
 intervalleyhealth.com
 intowow.com
 intraisp.com
@@ -55665,6 +55685,7 @@ wer-will-ficken.com
 weratherchannel.com
 wesrelm.com
 count.west263.com
+westcoast-estates.com
 westernunionl.com
 westernunipn.com
 westernwallnote.com
@@ -58341,6 +58362,7 @@ adplus.co.id
 props.id
 qualia.id
 digitize.ie
+www.303.co.il
 5fm.co.il
 adi-tech.co.il
 ahusregistry.co.il
@@ -60155,12 +60177,9 @@ familydick.info
 fangot.info
 fanserials.info
 fappu.info
-ww1.farace.info
-ww17.farace.info
-ww25.farace.info
 ww38.farace.info
 fasan.info
-ww11.fatma.info
+fatma.info
 fatorfiction.info
 fazu.info
 fcsite.info
@@ -60223,6 +60242,7 @@ fisse.info
 fkwv.info
 flex-tech.info
 flixzone.info
+forbest.info
 autodiscover.forkhost.info
 mail.forkhost.info
 webdisk.forkhost.info
@@ -60667,6 +60687,7 @@ kurdishdrama.info
 kurumkan.info
 kvest.info
 l3g.info
+lacle.info
 ladyzhyn.info
 lafamiglia.info
 lagupedia.info
@@ -61749,6 +61770,15 @@ schlankfit.info
 scholarshipsreview.info
 searchline.info
 seasonforgiving.info
+2011.secimsonuclari.info
+2014.secimsonuclari.info
+2015.secimsonuclari.info
+autodiscover.secimsonuclari.info
+mail.secimsonuclari.info
+webdisk.secimsonuclari.info
+ww1.secimsonuclari.info
+ww17.secimsonuclari.info
+ww25.secimsonuclari.info
 mail.sectionz.info
 webdisk.sectionz.info
 ww1.sectionz.info
@@ -63049,7 +63079,6 @@ ww11.yiwo.info
 ww17.yiwo.info
 ww25.yiwo.info
 ww62.yiwo.info
-ww17.ylg2.info
 yomovies.info
 youhookup.info
 mvideo.youjjzz.info
@@ -63164,6 +63193,7 @@ adapt.io
 adtouch.adbrix.io
 event.adbrix.io
 static.adbrix.io
+addrevenue.io
 admetrics.io
 admp.io
 adnami.io
@@ -105612,10 +105642,7 @@ financelacity.org
 fixwilsonyard.org
 flightplanner.org
 floridabuildingcode.org
-dev.flrministry.org
-magento.flrministry.org
 mail.flrministry.org
-old.flrministry.org
 ww17.flrministry.org
 flydenver.org
 fmc4me.org
@@ -107130,7 +107157,6 @@ ww25.32335.snapsteal.org
 ww11.33727.snapsteal.org
 ww25.7984.snapsteal.org
 ww25.snapsteal.org
-ww11.x.snapsteal.org
 snowcrestowners.org
 socalprobono.org
 sociedadvenezolanadecirugia.org
@@ -115664,6 +115690,7 @@ p.estream.to
 play.estream.to
 video.streaming.estream.to
 feed.aservice.tools
+www.aservice.tools
 mail.binancegiveaway.top
 fingahvf.top
 push-notifications.top
