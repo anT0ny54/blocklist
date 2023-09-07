@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336508
+# Ignored duplicates: 336488
 
 chameleon.ad
 pixel.ad
@@ -5817,7 +5817,6 @@ aniview.com
 ads.annabac.com
 annaiengg.com
 annieoccasions.com
-www.annistar.com
 p.annodeliver.com
 annoncesintimes.com
 ads.annonsbladet.com
@@ -9147,7 +9146,6 @@ mobile.ctnsnet.com
 scm.ctnsnet.com
 uas.ctnsnet.com
 ctrix.com
-www.cuchsurfing.com
 cuddlethehyena.com
 cugak.com
 cuhofaw.com
@@ -16750,6 +16748,7 @@ gayprivate.com
 gayroayl.com
 data.gblcdn.com
 gcpdirect.com
+gdcdcovers.com
 gdmconvtrck.com
 gdmgsecure.com
 gdprcountryrestriction.com
@@ -41346,11 +41345,9 @@ querying.optimizely.com
 rc-app.optimizely.com
 app.au1.reporting.optimizely.com
 app.eu1.reporting.optimizely.com
-app.inte.reporting.optimizely.com
 app.eu.inte.reporting.optimizely.com
 app.eu1.inte.reporting.optimizely.com
 app.us1.inte.reporting.optimizely.com
-app.prep.reporting.optimizely.com
 app.eu.prep.reporting.optimizely.com
 app.eu1.prep.reporting.optimizely.com
 app.us1.prep.reporting.optimizely.com
@@ -51218,7 +51215,6 @@ sneaker-shop08.com
 ww1.sneakercafe.com
 ww25.sneakercafe.com
 www.sneakercafe.com
-ww17.sneakernewa.com
 sneakersisverige.com
 assets.sni-dat.com
 code.adsales.snidigital.com
@@ -52834,7 +52830,6 @@ tendertest.com
 tenjin.com
 sp.tennessean.com
 srepdata.tennessean.com
-ww16.tentations-intimes.com
 ww25.tentations-intimes.com
 ww38.tentations-intimes.com
 www.tentations-intimes.com
@@ -57464,6 +57459,7 @@ es.yourseniorcarenetwork.com
 et.yourseniorcarenetwork.com
 fr.yourseniorcarenetwork.com
 hr.yourseniorcarenetwork.com
+id.yourseniorcarenetwork.com
 it.yourseniorcarenetwork.com
 ko.yourseniorcarenetwork.com
 link.yourseniorcarenetwork.com
@@ -57478,6 +57474,7 @@ pop.yourseniorcarenetwork.com
 ro.yourseniorcarenetwork.com
 sitemaps.yourseniorcarenetwork.com
 sk.yourseniorcarenetwork.com
+sl.yourseniorcarenetwork.com
 sv.yourseniorcarenetwork.com
 ta.yourseniorcarenetwork.com
 te.yourseniorcarenetwork.com
@@ -59249,6 +59246,7 @@ ww1.bigrealestate.info
 ww11.bigrealestate.info
 ww16.bigrealestate.info
 ww17.bigrealestate.info
+ww25.bigrealestate.info
 ww38.bigrealestate.info
 bijsluiterscore.info
 bill-gates.info
@@ -60523,7 +60521,6 @@ hypnonet.info
 hypo2.info
 i-standart.info
 iasa.info
-mx0.icas5.info
 icolist1.info
 ifsaciusta.info
 ifullreview.info
@@ -60562,14 +60559,17 @@ iptv-gratuit.info
 iptvserver.info
 ipv6news.info
 irkut.info
-isea2016.info
+ww16.isea2016.info
+ww17.isea2016.info
+ww25.isea2016.info
+ww38.isea2016.info
+www.isea2016.info
 isong.info
 it-notes.info
 it-stuff.info
 itsdogbreeds.info
 ivory.info
 ww25.iwarez.info
-ww38.iwarez.info
 www.iwarez.info
 iwilltell.info
 izayoinet.info
@@ -61317,22 +61317,6 @@ pravoznavec.info
 prchecker.info
 presents.info
 presidentielle.info
-da.prespornoga.info
-ga.prespornoga.info
-he.prespornoga.info
-hi.prespornoga.info
-hr.prespornoga.info
-is.prespornoga.info
-km.prespornoga.info
-ky.prespornoga.info
-ne.prespornoga.info
-pa.prespornoga.info
-pl.prespornoga.info
-ru.prespornoga.info
-sr.prespornoga.info
-sv.prespornoga.info
-sw.prespornoga.info
-tg.prespornoga.info
 ww1.prespornoga.info
 cpcalendars.presviter.info
 cpcontacts.presviter.info
@@ -61681,8 +61665,6 @@ ww25.rumahmodernterbaik.info
 ww38.rumahmodernterbaik.info
 www.rumahmodernterbaik.info
 1apps.rumobi.info
-ww25.apps.rumobi.info
-ww38.apps.rumobi.info
 ww1.rumobi.info
 ww25.rumobi.info
 ww38.rumobi.info
@@ -61863,6 +61845,7 @@ shop-shop.info
 showroom.info
 www.shturm.info
 shuwo.info
+www.siberguvenlik.info
 sifangclub1.info
 sillanpaa.info
 simming.info
@@ -62360,7 +62343,9 @@ travelersales.info
 traveller.info
 trinhcongson.info
 trustfund.info
+dc-c05045e64dd9.truyengay.info
 ww25.truyengay.info
+www.truyengay.info
 ww17.tsuki-subs.info
 www.tsuki-subs.info
 tugaflix.info
@@ -70705,8 +70690,15 @@ funbox-rprd-300-bidid.yellowblue.io
 funbox-rprd-301-vai.yellowblue.io
 funbox-rprd-304-rename-loadad-method.yellowblue.io
 funbox-rprd-312-fpo.yellowblue.io
+funbox-rprd-318-tests.yellowblue.io
 funbox-rprd-319.yellowblue.io
 funbox-rprd-319-unittests.yellowblue.io
+funbox-rprd-330-gdpr.yellowblue.io
+funbox-rprd-341-gam-module-refactor.yellowblue.io
+funbox-rprd-342.yellowblue.io
+funbox-rprd-342-gam-module.yellowblue.io
+funbox-rprd-345-infinite-scroll--slot.yellowblue.io
+funbox-rprd-363-refactorauctionclass.yellowblue.io
 funbox-rprd-52-tagsauction.yellowblue.io
 funbox-rprd-52-tagsauction-adjusttoresponse.yellowblue.io
 funbox-rprd-52-tagsfix.yellowblue.io
@@ -99324,7 +99316,6 @@ esx4.or-tec.net
 gate.or-tec.net
 gateway.or-tec.net
 gw.or-tec.net
-hermes.or-tec.net
 home.or-tec.net
 host.or-tec.net
 internet.or-tec.net
@@ -99338,13 +99329,11 @@ mail10.or-tec.net
 mail11.or-tec.net
 mail2.or-tec.net
 mail3.or-tec.net
-mail4.or-tec.net
 mail5.or-tec.net
 mail6.or-tec.net
 mail7.or-tec.net
 mail8.or-tec.net
 mail9.or-tec.net
-mailapp.or-tec.net
 mailbox.or-tec.net
 mailer.or-tec.net
 mailgw.or-tec.net
@@ -99373,14 +99362,11 @@ newmail.or-tec.net
 ns.or-tec.net
 office.or-tec.net
 out.or-tec.net
-outmail.or-tec.net
 po.or-tec.net
 pop.or-tec.net
 post.or-tec.net
-posta.or-tec.net
 postmaster.or-tec.net
 relay1.or-tec.net
-relay2.or-tec.net
 root.or-tec.net
 seed.or-tec.net
 send.or-tec.net
@@ -99390,7 +99376,6 @@ smtpauth.or-tec.net
 smtps.or-tec.net
 smtpseguro.or-tec.net
 sniper.or-tec.net
-srv.or-tec.net
 ssl.or-tec.net
 thor.or-tec.net
 tiger.or-tec.net
@@ -99454,7 +99439,6 @@ pages03.net
 www.sc.pages06.net
 ww1.paimt.net
 ww17.paimt.net
-ww25.paimt.net
 ww31.paimt.net
 ww38.paimt.net
 www.paimt.net
@@ -99503,7 +99487,6 @@ ww16.potinga.net
 www.potinga.net
 primetime.net
 cdn.pixel.printsites.net
-www.ctr0181.pixel.printsites.net
 pscore-beta.pixel.printsites.net
 staging.pixel.printsites.net
 uat.pixel.printsites.net
@@ -99534,7 +99517,6 @@ rallyad-server.net
 randyorton.net
 nextcloud.ratds.net
 services.ratds.net
-ww16.ratds.net
 www.ratds.net
 stats.rdphv.net
 readserver.net
@@ -103180,7 +103162,6 @@ servernameapi-p1iad2.k8s.sendgrid.net
 servernameapi-p1las1.k8s.sendgrid.net
 servernameapi-p1mdw1.k8s.sendgrid.net
 servernameapi-stage.k8s.sendgrid.net
-orchestrator.staging-mdw1.k8s.sendgrid.net
 kasi.staging.k8s.sendgrid.net
 supapi-p1iad2.k8s.sendgrid.net
 supapi-p1las1.k8s.sendgrid.net
@@ -104646,7 +104627,6 @@ ads.xtra.co.nz
 kingfish.fishing.net.nz
 static.ws.apsis.one
 aj1070.online
-www.besocial.online
 store-notification.online
 spacex.ooo
 12js.org
@@ -105043,6 +105023,7 @@ ww17.centraldownloads.org
 ww25.centraldownloads.org
 ww31.centraldownloads.org
 www.centraldownloads.org
+www6.centraldownloads.org
 www70.centraldownloads.org
 centrebodhicitta.org
 centroseducativosaragon.org
@@ -105934,6 +105915,7 @@ ww17.kinoclub.org
 ww38.kinoclub.org
 ww45.kinoclub.org
 www.kinoclub.org
+www.kinofan.org
 kinopoisk.org
 kitapyurdu.org
 kizilhack.org
@@ -106097,6 +106079,7 @@ www.moconnections.org
 modestneed.org
 molecularcuisine.org
 momentjs.org
+www.mompov.org
 monkeyradio.org
 monterfiore.org
 reserve.monticelloar.org
@@ -107442,8 +107425,6 @@ ns1.veridaincu.org
 ww1.veridaincu.org
 www.veridaincu.org
 verpelis.org
-ww35.victoria-justice.org
-www1.victoria-justice.org
 vidik.org
 vidma.org
 viedeolan.org
