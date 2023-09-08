@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336488
+# Ignored duplicates: 336313
 
 chameleon.ad
 pixel.ad
@@ -41345,10 +41345,8 @@ querying.optimizely.com
 rc-app.optimizely.com
 app.au1.reporting.optimizely.com
 app.eu1.reporting.optimizely.com
-app.eu.inte.reporting.optimizely.com
 app.eu1.inte.reporting.optimizely.com
 app.us1.inte.reporting.optimizely.com
-app.eu.prep.reporting.optimizely.com
 app.eu1.prep.reporting.optimizely.com
 app.us1.prep.reporting.optimizely.com
 app.us1.reporting.optimizely.com
@@ -43030,6 +43028,7 @@ staging-app.proof-x.com
 propellerads.com
 propellerclick.com
 prostate-pleasure-guide.com
+protagcdn.com
 protectcrev.com
 metrics.protectmyid.com
 protectsubrev.com
@@ -52831,7 +52830,6 @@ tenjin.com
 sp.tennessean.com
 srepdata.tennessean.com
 ww25.tentations-intimes.com
-ww38.tentations-intimes.com
 www.tentations-intimes.com
 tercept.com
 termiix.com
@@ -58736,7 +58734,6 @@ www.5fan.info
 6630.info
 69postix.info
 mvideo.7494568.info
-ww1.7494568.info
 www.7494568.info
 7hari.info
 game.8591.info
@@ -59128,7 +59125,6 @@ bauhuas.info
 bdlove24.info
 beautifulbeauty.info
 beautifulplaces.info
-www.beauty73.info
 beautyofboys.info
 behindthescene.info
 www.belajarpc.info
@@ -59242,12 +59238,14 @@ zimbra.big-library.info
 big-news.info
 bigger-penis.info
 biggerpenisnow.info
+cpcalendars.bigrealestate.info
 ww1.bigrealestate.info
 ww11.bigrealestate.info
 ww16.bigrealestate.info
 ww17.bigrealestate.info
 ww25.bigrealestate.info
 ww38.bigrealestate.info
+www.bigrealestate.info
 bijsluiterscore.info
 bill-gates.info
 mail.bimba.info
@@ -60559,9 +60557,7 @@ iptv-gratuit.info
 iptvserver.info
 ipv6news.info
 irkut.info
-ww16.isea2016.info
 ww17.isea2016.info
-ww25.isea2016.info
 ww38.isea2016.info
 www.isea2016.info
 isong.info
@@ -60569,7 +60565,6 @@ it-notes.info
 it-stuff.info
 itsdogbreeds.info
 ivory.info
-ww25.iwarez.info
 www.iwarez.info
 iwilltell.info
 izayoinet.info
@@ -60696,7 +60691,13 @@ lamedia.info
 lankawap.info
 laoselv.info
 lapakdewa.info
-laptopsinhvien.info
+123vanchuyenhang.laptopsinhvien.info
+diendanvanchuyen.laptopsinhvien.info
+lovefor100years.laptopsinhvien.info
+mail.laptopsinhvien.info
+webdisk.laptopsinhvien.info
+ww25.laptopsinhvien.info
+www.laptopsinhvien.info
 lbmedia.info
 lcov.info
 ldir.info
@@ -61305,7 +61306,6 @@ ww17.pornstock.info
 www.pornstock.info
 porshe.info
 portablesoft.info
-ww1.postcode-zoeken.info
 ww16.postcode-zoeken.info
 ww25.postcode-zoeken.info
 ww38.postcode-zoeken.info
@@ -61667,7 +61667,6 @@ www.rumahmodernterbaik.info
 1apps.rumobi.info
 ww1.rumobi.info
 ww25.rumobi.info
-ww38.rumobi.info
 rupertmallin.info
 rusputana.info
 russian-ships.info
@@ -62304,8 +62303,6 @@ server1.tnoa2019.info
 smtp01.tnoa2019.info
 srv.tnoa2019.info
 webdisk.tnoa2019.info
-ww1.tnoa2019.info
-ww2.tnoa2019.info
 ww25.tnoa2019.info
 ww38.tnoa2019.info
 www.tnoa2019.info
@@ -62345,6 +62342,7 @@ trinhcongson.info
 trustfund.info
 dc-c05045e64dd9.truyengay.info
 ww25.truyengay.info
+ww38.truyengay.info
 www.truyengay.info
 ww17.tsuki-subs.info
 www.tsuki-subs.info
@@ -64831,7 +64829,6 @@ celtra.ntv.io
 ceros.ntv.io
 clp.ntv.io
 cnn.ntv.io
-ebay.ntv.io
 edge.ntv.io
 fortune-com-edge.ntv.io
 i.ntv.io
@@ -64840,7 +64837,6 @@ phillymag-com-edge.ntv.io
 preview.ntv.io
 pub.ntv.io
 public.ntv.io
-realworldsurvivor-com-edge.ntv.io
 rtb-sandbox.ntv.io
 s.ntv.io
 share.ntv.io
@@ -97527,7 +97523,6 @@ fullspa.net
 funafterdark.net
 funnymathgames.net
 furniturex.net
-ww1.fussballlivestream.net
 ww2.fussballlivestream.net
 ww38.fussballlivestream.net
 futbollive.net
@@ -99089,7 +99084,6 @@ h-bankaustralia.online-metrix.net
 h-barstoolsportsbook.online-metrix.net
 h-beachbody.online-metrix.net
 h-betfair.online-metrix.net
-h-blueorangebank.online-metrix.net
 h-bluevine.online-metrix.net
 h-bmo.online-metrix.net
 h-bmoharris2.online-metrix.net
@@ -99487,8 +99481,6 @@ ww16.potinga.net
 www.potinga.net
 primetime.net
 cdn.pixel.printsites.net
-pscore-beta.pixel.printsites.net
-staging.pixel.printsites.net
 uat.pixel.printsites.net
 privatepensionplans.net
 ado.pro-market.net
@@ -104627,6 +104619,7 @@ ads.xtra.co.nz
 kingfish.fishing.net.nz
 static.ws.apsis.one
 aj1070.online
+www.besocial.online
 store-notification.online
 spacex.ooo
 12js.org
@@ -106995,7 +106988,6 @@ mailin.scribblekid.org
 mailserver.scribblekid.org
 mbox.scribblekid.org
 mta.scribblekid.org
-mx.scribblekid.org
 mx1.scribblekid.org
 mx2.scribblekid.org
 mx5.scribblekid.org
@@ -107003,7 +106995,6 @@ newmail.scribblekid.org
 ns1.scribblekid.org
 ns2.scribblekid.org
 out.scribblekid.org
-pop.scribblekid.org
 post.scribblekid.org
 postmaster.scribblekid.org
 relay2.scribblekid.org
@@ -107016,7 +107007,6 @@ ww25.scribblekid.org
 ww31.scribblekid.org
 ww38.scribblekid.org
 www.scribblekid.org
-www2.scribblekid.org
 zmail.scribblekid.org
 scribd.org
 sdacape.org
