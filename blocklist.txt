@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336294
+# Ignored duplicates: 336248
 
 chameleon.ad
 pixel.ad
@@ -14798,7 +14798,6 @@ esobuild.com
 espalhaai.com
 log.espn.com
 sw88.espn.com
-static.espncriciinfo.com
 ww25.espncriciinfo.com
 www.espncriciinfo.com
 espnfootball.com
@@ -16899,6 +16898,7 @@ glossysense.com
 centech.glulive.com
 revtech.glulive.com
 glupen.studio.glulive.com
+gm-advertising.com
 gmail-signup.com
 gmailaa.com
 gmailf.com
@@ -17977,6 +17977,9 @@ hotpinoyplanet.com
 ww1.m.hotsalewear.com
 ww11.m.hotsalewear.com
 ww25.m.hotsalewear.com
+ww1.hotsalewear.com
+ww38.hotsalewear.com
+www.hotsalewear.com
 hotsexypicture.com
 hotteenasia.com
 hottnewhiphop.com
@@ -19859,6 +19862,8 @@ lancastereaglegazette.localiq.com
 lansingstatejournal.localiq.com
 lcsun-news.localiq.com
 ldnews.localiq.com
+leadsaiservices-aus.localiq.com
+leadsaiservices-can.localiq.com
 legacy-qa-api.localiq.com
 livingstondaily.localiq.com
 lohud.localiq.com
@@ -35964,7 +35969,6 @@ navdmp.com
 navegg.com
 ww1.navghty.com
 ww16.navghty.com
-ww16.ww25.ww25.navghty.com
 www.navghty.com
 authsmtp.navy-officer.com
 barracuda.navy-officer.com
@@ -48977,6 +48981,7 @@ ww11.rocks-tgp.com
 ww17.rocks-tgp.com
 ww35.rocks-tgp.com
 ww38.rocks-tgp.com
+www.rocks-tgp.com
 rockyou.com
 rockywaters.com
 rodeopolice.com
@@ -49294,7 +49299,6 @@ percolator.rubiconproject.com
 performance-analytics.rubiconproject.com
 pg-prebid-server.rubiconproject.com
 pg-prebid-server-aws-ane1.rubiconproject.com
-pg-prebid-server-aws-ase2.rubiconproject.com
 pg-prebid-server-aws-euc1.rubiconproject.com
 pg-prebid-server-aws-euw1.rubiconproject.com
 pg-prebid-server-aws-use1.rubiconproject.com
@@ -49983,6 +49987,7 @@ scyprn.com
 sdfsdvc.com
 sdkfjxjertertry.com
 sdouthwest.com
+mattyonline.sea-patrol.com
 saveseapatrol.sea-patrol.com
 v2.sea-patrol.com
 ww1.sea-patrol.com
@@ -50129,6 +50134,7 @@ customer-dashboard.segment.com
 datacouncil.segment.com
 dataeng.segment.com
 airflow.datasci.segment.com
+sagemaker.datasci.segment.com
 demos.segment.com
 deploys.segment.com
 dispatch.segment.com
@@ -53321,7 +53327,6 @@ trendcounter.com
 trenddownload.com
 trendmd.com
 pwm-image.trendmicro.com
-www.trendmicronano.com
 tresensa.com
 tri-comma.com
 trialfire.com
@@ -55853,7 +55858,6 @@ worldwidedigitalads.com
 worriednumber.com
 worthington-portal.com
 cp.wowcirlce.com
-ww11.forum.wowcirlce.com
 ww25.forum.wowcirlce.com
 logon.wowcirlce.com
 ww11.wowcirlce.com
@@ -55988,7 +55992,6 @@ wwwnypost.com
 wwwogoogle.com
 wwwolayforyou.com
 wwwpowersrap.com
-ww2.wwwprokerala.com
 ww25.wwwprokerala.com
 www.wwwprokerala.com
 wwwpromoter.com
@@ -58900,9 +58903,7 @@ alsjl-news.info
 alterzon.info
 amagrlsuk.info
 ww1.amazingporn.info
-ww17.amazingporn.info
 ww25.amazingporn.info
-ww38.amazingporn.info
 www.amazingporn.info
 amine.info
 amiro.info
@@ -59632,7 +59633,10 @@ churchviewfarm.info
 ww17.cift.info
 mail.citata.info
 ww1.citata.info
-www.ww25.citata.info
+ww11.citata.info
+ww16.citata.info
+ww17.citata.info
+ww25.citata.info
 ww38.citata.info
 cloud9tv.info
 cloudsecuritybenefits.info
@@ -60143,6 +60147,7 @@ ww11.falvguwen.info
 ww17.falvguwen.info
 ww25.falvguwen.info
 ww38.falvguwen.info
+www.falvguwen.info
 familiengarten.info
 familydick.info
 fangot.info
@@ -61630,10 +61635,9 @@ ww17.rockontrains.info
 ww2.rockontrains.info
 ww38.rockontrains.info
 www.rockontrains.info
-offline.rohkost.info
+ww25.offline.rohkost.info
 ww17.rohkost.info
 ww25.rohkost.info
-ww3.rohkost.info
 www.rohkost.info
 rollover.info
 romiso.info
@@ -97513,7 +97517,6 @@ fullspa.net
 funafterdark.net
 funnymathgames.net
 furniturex.net
-ww38.fussballlivestream.net
 futbollive.net
 api.vanilla.futurecdn.net
 fuzk.net
@@ -99285,18 +99288,7 @@ optimadns.net
 optofine.net
 dns1.or-tec.net
 dns2.or-tec.net
-esx4.or-tec.net
-mail.or-tec.net
 mail2.or-tec.net
-mailer.or-tec.net
-mailgw.or-tec.net
-mailx.or-tec.net
-mta.or-tec.net
-mx.or-tec.net
-mx4.or-tec.net
-mx7.or-tec.net
-smtp01.or-tec.net
-vmail.or-tec.net
 www.or-tec.net
 banner.orb.net
 aw.owneriq.net
@@ -99349,8 +99341,6 @@ www.owneriq.net
 ads.p161.net
 pages03.net
 www.sc.pages06.net
-ww1.paimt.net
-ww17.paimt.net
 ww38.paimt.net
 www.paimt.net
 palimas.net
@@ -105536,10 +105526,7 @@ geolsoc.org
 georgiamethadone.org
 georgiasouthern.org
 gerthshop.org
-mail.gescom.org
-ns1.gescom.org
-ns2.gescom.org
-www.gescom.org
+gescom.org
 getrockmusic.org
 ghange.org
 giansagar.org
@@ -107365,8 +107352,6 @@ wadefamilytree.org
 wahealthpathfinder.org
 walgreen.org
 alpha.wallhaven.org
-sitemap.wallhaven.org
-sitemaps.wallhaven.org
 ww25.wallhaven.org
 www.wallhaven.org
 sitemaps.walnutavenueumc.org
@@ -115615,6 +115600,7 @@ affiliates.rozetka.com.ua
 hit.ua
 stat24.meta.ua
 mycounter.ua
+krb.devphp.org.ua
 a5.overclockers.ua
 ads.pfl.ua
 tracking.1-a1502-bi.co.uk
