@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336248
+# Ignored duplicates: 336243
 
 chameleon.ad
 pixel.ad
@@ -7636,7 +7636,6 @@ cartaovalemais.com
 pixel.carters.com
 smetrics.carters.com
 ww11.cartonnetworkarbic.com
-ww25.cartonnetworkarbic.com
 www.cartonnetworkarbic.com
 cartoomnnetwork.com
 agility.cartoonnetwork.com
@@ -9550,7 +9549,6 @@ dc-storm.com
 dcxservice.com
 ddl-musik.com
 ddoge.com
-www.ddtak.com
 research.de.com
 de17a.com
 de17aserver.com
@@ -10040,7 +10038,6 @@ ww1.disneymoviewrewards.com
 ww16.disneymoviewrewards.com
 ww25.disneymoviewrewards.com
 ww38.disneymoviewrewards.com
-www.disneymoviewrewards.com
 disneyozmovieoffers.com
 disneypchannel.com
 ww38.disneypeliculas.com
@@ -14448,7 +14445,6 @@ c.eacla.com
 eadexchange.com
 ww11.eagleinformatica.com
 ww25.eagleinformatica.com
-www.eagleinformatica.com
 ads.eagletribune.com
 r.ealeo.com
 earlychildren.com
@@ -18465,7 +18461,8 @@ infolinks.com
 infopicked.com
 hits.informer.com
 web.informer.com
-informtrades.com
+ww1.informtrades.com
+ww16.informtrades.com
 infoscammer.com
 ad.infoseek.com
 infospress.com
@@ -18883,7 +18880,6 @@ jminstitute.com
 prod-pixel-tracking-api-external-api.jobappnetwork.com
 jobecenterplus.com
 jobs9.com
-jobsidubai.com
 jobsmnc.com
 jocasal.com
 counter.joeldare.com
@@ -19661,7 +19657,8 @@ xc3.services.livejournal.com
 livelumber.com
 livelylaugh.com
 livelyreward.com
-livemucho.com
+ww1.livemucho.com
+www.livemucho.com
 ads.livenation.com
 adserver.livenetlife.com
 engine.livenetlife.com
@@ -35967,9 +35964,7 @@ trckr.naturalbid.com
 www.naturalbid.com
 navdmp.com
 navegg.com
-ww1.navghty.com
 ww16.navghty.com
-www.navghty.com
 authsmtp.navy-officer.com
 barracuda.navy-officer.com
 box.navy-officer.com
@@ -41428,7 +41423,6 @@ pixel.oshkosh.com
 oshxhofaf.com
 marketing.osijek031.com
 osoji-sommelier.com
-www.otcisrael.com
 api.otherlevels.com
 cdn.otherlevels.com
 cdn-image.otherlevels.com
@@ -52315,6 +52309,7 @@ gmail.supplyframe.com
 grafana.supplyframe.com
 hardware.supplyframe.com
 im.supplyframe.com
+intelligence.supplyframe.com
 ipplan.supplyframe.com
 itvm.supplyframe.com
 jp.supplyframe.com
@@ -52501,7 +52496,6 @@ smtpseguro.swornclothes.com
 sniper.swornclothes.com
 srv.swornclothes.com
 ww25.swornclothes.com
-ww38.swornclothes.com
 www.swornclothes.com
 www2.swornclothes.com
 zmail.swornclothes.com
@@ -53178,20 +53172,16 @@ torrentd.com
 torrenteu.com
 torrenteval.com
 torrentextra.com
-antispam.torrentim.com
 auth.torrentim.com
 email.torrentim.com
-hermes.torrentim.com
 mail1.torrentim.com
 mail2.torrentim.com
 mailbox.torrentim.com
 mailin.torrentim.com
 mailx.torrentim.com
-ms.torrentim.com
 mx.torrentim.com
 mx2.torrentim.com
 relay.torrentim.com
-relay1.torrentim.com
 smtps.torrentim.com
 zmail.torrentim.com
 torudon.com
@@ -54194,7 +54184,6 @@ uploadsation.com
 uploadstaion.com
 ww11.uploadzad.com
 ww25.uploadzad.com
-ww38.uploadzad.com
 upltv.com
 upnrhm.com
 uppercaselving.com
@@ -54797,7 +54786,6 @@ vidlcs.com
 ads.vidoomy.com
 vidora.com
 vidsdbm.com
-ww1.vidyoutube.com
 ww25.vidyoutube.com
 ww38.vidyoutube.com
 ww5.vidyoutube.com
@@ -55762,7 +55750,6 @@ wirypaste.com
 ww11.wisbenbae.com
 ww25.wisbenbae.com
 ww35.wisbenbae.com
-ww38.wisbenbae.com
 www.wisbenbae.com
 wisepops.com
 ads.wish.com
@@ -58715,13 +58702,6 @@ ww38.44renti.info
 ww7.44renti.info
 www.44renti.info
 48br.info
-server.4downfiles1.info
-ww1.4downfiles1.info
-ww11.4downfiles1.info
-ww17.4downfiles1.info
-ww25.4downfiles1.info
-ww38.4downfiles1.info
-www.4downfiles1.info
 4downfiles2.info
 www.4health.info
 52youwu.info
@@ -59638,6 +59618,7 @@ ww16.citata.info
 ww17.citata.info
 ww25.citata.info
 ww38.citata.info
+www.citata.info
 cloud9tv.info
 cloudsecuritybenefits.info
 club-city.info
@@ -60551,6 +60532,7 @@ iphonedata.info
 iprisonbreak.info
 iptv-gratuit.info
 iptvserver.info
+iptvturk.info
 ipv6news.info
 irkut.info
 isong.info
@@ -60558,7 +60540,7 @@ it-notes.info
 it-stuff.info
 itsdogbreeds.info
 ivory.info
-www.iwarez.info
+iwarez.info
 iwilltell.info
 izayoinet.info
 izvestia.info
@@ -61794,7 +61776,6 @@ ww17.seventorrents5.info
 ww25.seventorrents5.info
 ww38.seventorrents5.info
 www.seventorrents5.info
-www.sexesex.info
 everyoneflv.sexitunes.info
 expensiveavi.sexitunes.info
 extremeanime.sexitunes.info
@@ -61837,6 +61818,7 @@ shlink.info
 shop-shop.info
 showroom.info
 www.shturm.info
+shudokan.info
 shuwo.info
 www.siberguvenlik.info
 sifangclub1.info
@@ -63929,6 +63911,7 @@ beta-api-eu.customer.io
 calendar.customer.io
 cdp.customer.io
 cdp-east.customer.io
+cdp-eu.customer.io
 cdp-prod-us-base-hydra-assets-us.customer.io
 cdp-prod-us-cdp-hydra-assets-us.customer.io
 cdp-prod-us-cdp-ui-us.customer.io
@@ -64834,9 +64817,7 @@ public.ntv.io
 rtb-sandbox.ntv.io
 s.ntv.io
 share.ntv.io
-simple-origin-realworldsurvivor-com-edge.ntv.io
 test-site.ntv.io
-www1-cultivatedknowledge-com-edge.ntv.io
 nucleusanalytics.io
 medias.cloud.ogury.io
 prod.cloud.ogury.io
@@ -66832,6 +66813,7 @@ mymove.sandbox.redventures.io
 netops.sandbox.redventures.io
 network2.sandbox.redventures.io
 peopleanalytics.sandbox.redventures.io
+platformtools-test.sandbox.redventures.io
 power.sandbox.redventures.io
 ranger.sandbox.redventures.io
 reddigital.sandbox.redventures.io
@@ -66856,6 +66838,7 @@ transcription.redventures.io
 travel-platform.redventures.io
 vod-development.redventures.io
 volt.redventures.io
+volt-development.redventures.io
 remerge.io
 revlift.io
 rocks.io
@@ -81002,7 +80985,8 @@ r.contentsquare.net
 t.contentsquare.net
 w.contentsquare.net
 wr-us.contentsquare.net
-convertidordeyoutubemp3.net
+ww25.convertidordeyoutubemp3.net
+ww38.convertidordeyoutubemp3.net
 convertvideos.net
 adv.cooperhosting.net
 cosentinousa.net
@@ -98565,6 +98549,7 @@ mkrumlov.net
 mkt61.net
 mkt81.net
 a.mktw.net
+www.mmatv.net
 mobuna.net
 models24seven.net
 monbell.net
@@ -99287,8 +99272,6 @@ openx.net
 optimadns.net
 optofine.net
 dns1.or-tec.net
-dns2.or-tec.net
-mail2.or-tec.net
 www.or-tec.net
 banner.orb.net
 aw.owneriq.net
@@ -99341,8 +99324,6 @@ www.owneriq.net
 ads.p161.net
 pages03.net
 www.sc.pages06.net
-ww38.paimt.net
-www.paimt.net
 palimas.net
 panniniamerica.net
 panties-area.net
@@ -105031,27 +105012,8 @@ metrics.consumerreports.org
 smetrics.consumerreports.org
 coresera.org
 cornerstoneaog.org
-antispam.cornerstonerecovery.org
 barracuda.cornerstonerecovery.org
-imap2.cornerstonerecovery.org
-mail.cornerstonerecovery.org
-mail7.cornerstonerecovery.org
-mailgate.cornerstonerecovery.org
-mx02.cornerstonerecovery.org
-mx1.cornerstonerecovery.org
-mx2.cornerstonerecovery.org
-mx4.cornerstonerecovery.org
-out.cornerstonerecovery.org
 postmaster.cornerstonerecovery.org
-relay.cornerstonerecovery.org
-smtpseguro.cornerstonerecovery.org
-sniper.cornerstonerecovery.org
-srv.cornerstonerecovery.org
-ww1.cornerstonerecovery.org
-ww16.cornerstonerecovery.org
-ww17.cornerstonerecovery.org
-ww25.cornerstonerecovery.org
-ww38.cornerstonerecovery.org
 www.cornerstonerecovery.org
 corsicanaisd.org
 cosmetix.org
@@ -105811,6 +105773,7 @@ ww17.kinoclub.org
 ww38.kinoclub.org
 ww45.kinoclub.org
 www.kinoclub.org
+mail.kinofan.org
 www.kinofan.org
 kinopoisk.org
 kitapyurdu.org
@@ -106098,7 +106061,6 @@ ww25.nationalfurniturebank.org
 ww38.nationalfurniturebank.org
 www.nationalfurniturebank.org
 track.nationalgunrights.org
-nationalscoutshop.org
 natta.org
 naturalconstipationrelief.org
 naturalizedherbs.org
@@ -106378,6 +106340,7 @@ www.projectobolix.org
 projectyouthsafety.org
 promoteyourself.org
 pron00.org
+pronko.org
 proudflex.org
 providencu.org
 pryaja.org
@@ -107351,9 +107314,7 @@ vue-js.org
 wadefamilytree.org
 wahealthpathfinder.org
 walgreen.org
-alpha.wallhaven.org
 ww25.wallhaven.org
-www.wallhaven.org
 sitemaps.walnutavenueumc.org
 ww17.walnutavenueumc.org
 ww25.walnutavenueumc.org
