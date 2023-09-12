@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336243
+# Ignored duplicates: 336189
 
 chameleon.ad
 pixel.ad
@@ -180,22 +180,17 @@ ads.dtpnetwork.biz
 ads.expat-blog.biz
 0.findmedia.biz
 1.findmedia.biz
-10.findmedia.biz
 1000.findmedia.biz
 2.findmedia.biz
 3.findmedia.biz
 4.findmedia.biz
 5.findmedia.biz
 6.findmedia.biz
-7.findmedia.biz
-8.findmedia.biz
 9.findmedia.biz
 c0clcga23akidbko7h90.findmedia.biz
 download.findmedia.biz
 edca6uhn.findmedia.biz
-ghdbch6nc.findmedia.biz
 o.findmedia.biz
-www.findmedia.biz
 api.freshaddress.biz
 mixmarket.biz
 adserver.msmb.biz
@@ -1209,7 +1204,6 @@ marketing.888.com
 937mikefm.com
 96av.com
 ww11.99couters.com
-ww25.99couters.com
 privacy-api.9gag.com
 9icesfaces.com
 a-ads.com
@@ -4950,7 +4944,6 @@ ahdol.com
 aheadday.com
 ahmedshobeir.com
 ahoritah.com
-ww25.ahsahre.com
 ww38.ahsahre.com
 www.ahsahre.com
 ahsmedicare.com
@@ -6849,7 +6842,6 @@ beyonstherack.com
 bfbs-tv.com
 bfijteodglun.com
 bfmio.com
-ww25.blog.bgbeatle.com
 ww38.blog.bgbeatle.com
 gateway.bgbeatle.com
 mail.bgbeatle.com
@@ -6864,7 +6856,6 @@ server1.bgbeatle.com
 vmail.bgbeatle.com
 ww11.bgbeatle.com
 ww25.bgbeatle.com
-ww35.bgbeatle.com
 ww38.bgbeatle.com
 bgstechnik.com
 bhandarimaruti.com
@@ -7548,31 +7539,8 @@ camporenacimiento.com
 adserver.cams.com
 banners.cams.com
 can-ambrp.com
-auth.canalimoveisbahia.com
-authsmtp.canalimoveisbahia.com
-comune.canalimoveisbahia.com
-email.canalimoveisbahia.com
-imap1.canalimoveisbahia.com
-imap2.canalimoveisbahia.com
-mail3.canalimoveisbahia.com
-mailer.canalimoveisbahia.com
-mailgate.canalimoveisbahia.com
-mailhost.canalimoveisbahia.com
-mailserver.canalimoveisbahia.com
-mailx.canalimoveisbahia.com
-mx.canalimoveisbahia.com
-mx0.canalimoveisbahia.com
-ns2.canalimoveisbahia.com
-postmaster.canalimoveisbahia.com
-relay.canalimoveisbahia.com
-server.canalimoveisbahia.com
-sniper.canalimoveisbahia.com
-srv.canalimoveisbahia.com
-ww25.canalimoveisbahia.com
+a.mx.canalimoveisbahia.com
 ww38.canalimoveisbahia.com
-www1.canalimoveisbahia.com
-www2.canalimoveisbahia.com
-zmail.canalimoveisbahia.com
 canalinternational.com
 candaulismeaufeminin.com
 candyhostel.com
@@ -9729,7 +9697,6 @@ desicunts.com
 desihies.com
 desihpes.com
 ww25.desimarthini.com
-ww38.desimarthini.com
 desingshopoutlet.com
 desipaa.com
 desiredirt.com
@@ -15022,7 +14989,6 @@ exposebox.com
 expresscameras.com
 expressdirections.com
 exsteze.com
-ww11.exszakasz.com
 ww25.exszakasz.com
 extasy-sp.com
 m.extellio.com
@@ -17269,6 +17235,7 @@ click.google-analytics.com
 region1.google-analytics.com
 alt1.sandbox.google-analytics.com
 www-alv.google-analytics.com
+www.google-assistant.com
 google-docs.com
 google-money.com
 google-porn.com
@@ -17306,6 +17273,7 @@ test.firebaselogging.googleapis.com
 googleblack.com
 googlebussines.com
 googlecalender.com
+googleespn.com
 googlemaail.com
 googlemasil.com
 googlemerchant.com
@@ -17696,6 +17664,7 @@ hadaragallery.com
 hadplus.com
 haihot.com
 haikunatura.com
+hair-ultra.com
 hairextensionssale.com
 hairtransplantguides.com
 hajanac.com
@@ -18461,7 +18430,6 @@ infolinks.com
 infopicked.com
 hits.informer.com
 web.informer.com
-ww1.informtrades.com
 ww16.informtrades.com
 infoscammer.com
 ad.infoseek.com
@@ -19454,7 +19422,6 @@ lfstmedia.com
 lgledtv.com
 lgsmartad.com
 b-code.liadm.com
-b-collector.liadm.com
 b-dcr-production.liadm.com
 b-staging-collector.liadm.com
 d.liadm.com
@@ -19658,7 +19625,6 @@ livelumber.com
 livelylaugh.com
 livelyreward.com
 ww1.livemucho.com
-www.livemucho.com
 ads.livenation.com
 adserver.livenetlife.com
 engine.livenetlife.com
@@ -35964,7 +35930,7 @@ trckr.naturalbid.com
 www.naturalbid.com
 navdmp.com
 navegg.com
-ww16.navghty.com
+ww16.ww16.ww16.navghty.com
 authsmtp.navy-officer.com
 barracuda.navy-officer.com
 box.navy-officer.com
@@ -36718,7 +36684,6 @@ okqapmnpyox.com
 log.olark.com
 stats.olark.com
 ww1.olbgsport.com
-ww11.olbgsport.com
 ww25.olbgsport.com
 olcnet.com
 oldenglandroma.com
@@ -36937,6 +36902,7 @@ appservice5-15.omniture.com
 appservice5-19.omniture.com
 appservice5-7.omniture.com
 ark.omniture.com
+as1.omniture.com
 assets.omniture.com
 audience.omniture.com
 authorize.omniture.com
@@ -48875,7 +48841,6 @@ rightyxxx.com
 authsmtp.rimbunanilmu.com
 barracuda.rimbunanilmu.com
 box.rimbunanilmu.com
-gateway.rimbunanilmu.com
 mail1.rimbunanilmu.com
 mail10.rimbunanilmu.com
 mail11.rimbunanilmu.com
@@ -48887,11 +48852,9 @@ mailbox.rimbunanilmu.com
 mailgate.rimbunanilmu.com
 mailgw.rimbunanilmu.com
 mailin.rimbunanilmu.com
-mails.rimbunanilmu.com
 mailserver.rimbunanilmu.com
 ms.rimbunanilmu.com
 mx01.rimbunanilmu.com
-mx10.rimbunanilmu.com
 mx2.rimbunanilmu.com
 mx20.rimbunanilmu.com
 mx5.rimbunanilmu.com
@@ -48902,9 +48865,7 @@ relay2.rimbunanilmu.com
 root.rimbunanilmu.com
 secure.rimbunanilmu.com
 smtps.rimbunanilmu.com
-sniper.rimbunanilmu.com
 vmail.rimbunanilmu.com
-ww25.rimbunanilmu.com
 www2.rimbunanilmu.com
 ringplant.com
 ringshell.com
@@ -51425,6 +51386,8 @@ speedosnextdoor.com
 speedracergame.com
 speedshiftmedia.com
 affiliatemedia.speedybet.com
+ww25.spellenl.com
+www.spellenl.com
 spencerretail.com
 attribution.sperry.com
 adtag.sphdigital.com
@@ -51486,7 +51449,6 @@ spotxchange.com
 ad.spreaker.com
 bad.dns.spribd.com
 ww11.spribd.com
-ww25.spribd.com
 www.spribd.com
 ww1.spriceline.com
 www.spriceline.com
@@ -52430,13 +52392,6 @@ web.survicate.com
 www.survicate.com
 susifhfh2d8ldn09.com
 insights.sustainablebrands.com
-mail.svilosa.com
-mail12.svilosa.com
-mailx.svilosa.com
-ns.svilosa.com
-ns2.svilosa.com
-postmaster.svilosa.com
-ww25.svilosa.com
 ww38.svilosa.com
 svmds.com
 svntrk.com
@@ -54591,7 +54546,6 @@ analytics.vcdevhub.com
 vciuy.com
 vcommission.com
 ww11.vcrictime.com
-ww25.vcrictime.com
 www.vcrictime.com
 vcyud.com
 veeplay.com
@@ -54787,7 +54741,6 @@ ads.vidoomy.com
 vidora.com
 vidsdbm.com
 ww25.vidyoutube.com
-ww38.vidyoutube.com
 ww5.vidyoutube.com
 www.vidyoutube.com
 ww1.vienamairline.com
@@ -54970,7 +54923,6 @@ virginatlantc.com
 tagman.virginatlantic.com
 ww1.virginatllantic.com
 www.virginatllantic.com
-ww1.virginattlantic.com
 www.virginattlantic.com
 virgingmobileusa.com
 adserver.virginmedia.com
@@ -55979,7 +55931,6 @@ wwwnypost.com
 wwwogoogle.com
 wwwolayforyou.com
 wwwpowersrap.com
-ww25.wwwprokerala.com
 www.wwwprokerala.com
 wwwpromoter.com
 wwwpullups.com
@@ -58883,7 +58834,6 @@ alsjl-news.info
 alterzon.info
 amagrlsuk.info
 ww1.amazingporn.info
-ww25.amazingporn.info
 www.amazingporn.info
 amine.info
 amiro.info
@@ -59571,7 +59521,6 @@ zmail.cardking.info
 ww25.carrots.info
 www.carrots.info
 carsale.info
-www.cartires.info
 casablanca.info
 cashtrafic.info
 caytre.info
@@ -60428,7 +60377,6 @@ haodizhi3.info
 hapi.info
 happybook.info
 happytail.info
-harborbeachfarmersmarket.info
 hardis.info
 hargaproduk.info
 harmonielehre.info
@@ -61598,11 +61546,8 @@ ww17.reunionideas.info
 ww25.reunionideas.info
 ww38.reunionideas.info
 www.reunionideas.info
-ww1.revitol.info
 ww16.revitol.info
-ww17.revitol.info
 ww25.revitol.info
-ww38.revitol.info
 www.revitol.info
 rewy.info
 rexhado.info
@@ -61774,7 +61719,6 @@ ww1.seventorrents5.info
 ww11.seventorrents5.info
 ww17.seventorrents5.info
 ww25.seventorrents5.info
-ww38.seventorrents5.info
 www.seventorrents5.info
 everyoneflv.sexitunes.info
 expensiveavi.sexitunes.info
@@ -62638,6 +62582,8 @@ usmi.info
 uzbek.info
 vacationdeals.info
 vaduz.info
+ww1.valuedirectories.info
+ww17.valuedirectories.info
 vatname.info
 cpcalendars.vbucksfortnitefree.info
 mail.vbucksfortnitefree.info
@@ -64799,7 +64745,6 @@ west.geo.ngtv.io
 a.ntv.io
 admin-static.ntv.io
 api.ntv.io
-ballisticmag-com-edge.ntv.io
 c.ntv.io
 cdn.ntv.io
 celtra.ntv.io
@@ -64807,10 +64752,7 @@ ceros.ntv.io
 clp.ntv.io
 cnn.ntv.io
 edge.ntv.io
-fortune-com-edge.ntv.io
 i.ntv.io
-personaldefenseworld-com-edge.ntv.io
-phillymag-com-edge.ntv.io
 preview.ntv.io
 pub.ntv.io
 public.ntv.io
@@ -80985,8 +80927,6 @@ r.contentsquare.net
 t.contentsquare.net
 w.contentsquare.net
 wr-us.contentsquare.net
-ww25.convertidordeyoutubemp3.net
-ww38.convertidordeyoutubemp3.net
 convertvideos.net
 adv.cooperhosting.net
 cosentinousa.net
@@ -99271,8 +99211,6 @@ onnatural.net
 openx.net
 optimadns.net
 optofine.net
-dns1.or-tec.net
-www.or-tec.net
 banner.orb.net
 aw.owneriq.net
 aws-ec2-01.owneriq.net
@@ -99394,9 +99332,6 @@ raac33.net
 railtouring.net
 rallyad-server.net
 randyorton.net
-nextcloud.ratds.net
-services.ratds.net
-www.ratds.net
 stats.rdphv.net
 readserver.net
 realvu.net
@@ -104283,7 +104218,8 @@ wwwbrita.net
 wwwdiziizle.net
 wwwilsos.net
 wwwmymercy.net
-wwwoptonline.net
+ww1.wwwoptonline.net
+www.wwwoptonline.net
 wwwxmeye.net
 xemeye.net
 xn--hava-85a.net
@@ -104742,6 +104678,7 @@ audioheuristics.org
 auscharity.org
 authentiseal.org
 auversup.org
+www.avtoru.org
 awanas.org
 awshs.org
 ayso177.org
@@ -105849,7 +105786,6 @@ livervox.org
 lmba.org
 logview.org
 londonmint.org
-lookcreative.org
 mx.loop-us.org
 ww17.loop-us.org
 lophisc.org
@@ -115447,7 +115383,7 @@ adservio.tech
 armis.tech
 coinbasepro.tech
 sommelier.futurehybrid.tech
-instabid.tech
+rtb.instabid.tech
 volvelle.tech
 ads5.matichon.co.th
 truehits1.gits.net.th
@@ -115747,7 +115683,6 @@ pervl206.xyz
 premiumstats.xyz
 quatrefeuillepolonaise.xyz
 sbird.xyz
-server-status.xyz
 trk.us-learn-teacher-poetry.xyz
 cdn.vip-hd-movies.xyz
 adsrv.iol.co.za
