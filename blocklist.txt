@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336003
+# Ignored duplicates: 336042
 
 chameleon.ad
 pixel.ad
@@ -4902,7 +4902,6 @@ tr-1.agilone.com
 aa.agkn.com
 activation-api.agkn.com
 classicui.agkn.com
-d.agkn.com
 data.agkn.com
 distro.agkn.com
 fabrick.agkn.com
@@ -5167,6 +5166,7 @@ allmedstore.com
 allosponsor.com
 affiliates.allposters.com
 ww17.allrecicpes.com
+www.www.allrecicpes.com
 allsaroak-pornstories.com
 allswingergangbangs.com
 at-adserver.alltop.com
@@ -6835,7 +6835,6 @@ beyonstherack.com
 bfbs-tv.com
 bfijteodglun.com
 bfmio.com
-ww38.blog.bgbeatle.com
 gateway.bgbeatle.com
 mailgw.bgbeatle.com
 mx0.bgbeatle.com
@@ -7491,7 +7490,6 @@ buzzonclick.com
 buzzoola.com
 bwyogdt.com
 mail.byanuncios.com
-ww25.byanuncios.com
 www.byporn.com
 bytegain.com
 mon.byteoversea.com
@@ -7509,6 +7507,7 @@ mx4.c-loverz.com
 relay2.c-loverz.com
 smtpseguro.c-loverz.com
 ww31.c-loverz.com
+ww38.c-loverz.com
 www.c-loverz.com
 c1exchange.com
 c3metrics.com
@@ -7604,7 +7603,6 @@ t.carta.com
 cartaovalemais.com
 pixel.carters.com
 smetrics.carters.com
-www.cartonnetworkarbic.com
 cartoomnnetwork.com
 agility.cartoonnetwork.com
 sstats.cartoonnetwork.com
@@ -7773,7 +7771,6 @@ cdnsynd.com
 cdnwidget.com
 activate.cdw.com
 activate.cdwg.com
-ww25.cecytemichoacan.com
 www.cecytemichoacan.com
 ns2.ced7000pro.com
 ww38.ced7000pro.com
@@ -7938,8 +7935,6 @@ mx4.christopherpallett.com
 ns1.christopherpallett.com
 post.christopherpallett.com
 relay.christopherpallett.com
-ww25.christopherpallett.com
-ww38.christopherpallett.com
 zmail.christopherpallett.com
 chrono-experts.com
 chryslercareer.com
@@ -14732,7 +14727,6 @@ etahub.com
 etargetnet.com
 ww11.etebento.com
 ww25.etebento.com
-ww38.etebento.com
 eteppy.com
 eth-pocket.com
 ethaiinfo.com
@@ -16314,7 +16308,6 @@ gahapa.com
 gaiyuki.com
 galaxien.com
 galerie-blondel.com
-ww1.galerielectronik.com
 ww25.galerielectronik.com
 galleryofwives.com
 gam4free.com
@@ -16807,7 +16800,6 @@ ml.globenewswire.com
 globlb.com
 globtrix.com
 glockpost.com
-glooogl.com
 gloriousbeef.com
 glossysense.com
 centech.glulive.com
@@ -17691,7 +17683,7 @@ heirloomreproductions.com
 heisejinyao.com
 hellobar.com
 hellospy.com
-helmbanck.com
+ww11.helmbanck.com
 helpcollar.com
 helpinghandshomeimprovement.com
 hentaicounter.com
@@ -17819,7 +17811,9 @@ holitika.com
 hollowafterthought.com
 hollymodel.com
 ads.hollywood.com
-hollywoolife.com
+ww11.hollywoolife.com
+ww25.hollywoolife.com
+ww35.hollywoolife.com
 holmescountyflorida.com
 hombresmujeresyviceversa.com
 home-of-speed.com
@@ -17894,6 +17888,7 @@ hotnewhophop.com
 hotpinoyplanet.com
 m.hotsalewear.com
 ww1.hotsalewear.com
+ww25.hotsalewear.com
 ww38.hotsalewear.com
 www.hotsalewear.com
 hotsexypicture.com
@@ -17912,7 +17907,6 @@ howtolearntarot.com
 howtomeetaguy.com
 hoyoutube.com
 hpl-adserver.com
-hpnoy.com
 hpyjmp.com
 hpyrdr.com
 hqdiesel.com
@@ -18111,7 +18105,7 @@ ignitionone.com
 igodigital.com
 analytics.inferno.iheart.com
 smy.iheart.com
-ihoneydrew.com
+ww11.ihoneydrew.com
 iincorporate.com
 sdk.mobad.ijinshan.com
 unconf.mobad.ijinshan.com
@@ -18544,7 +18538,8 @@ members.ip-api.com
 status.ip-api.com
 www.ip-api.com
 api.ipapi.com
-ipardpa.com
+ww11.ipardpa.com
+ww25.ipardpa.com
 iperceptions.com
 iphwallpaper.com
 api.ipinfodb.com
@@ -19304,7 +19299,7 @@ kwanzoo.com
 kwpsurveys.com
 l6b587txj1.com
 lackadaisicalkite.com
-lackplaying.com
+www.lackplaying.com
 ladieslatina.com
 ladsp.com
 ladygag.com
@@ -19659,7 +19654,7 @@ uswestmonitoring.livesegmentservice.com
 livesteaming.com
 ww1.livestreming.com
 ww16.livestreming.com
-livingelcetro.com
+ww38.livingelcetro.com
 li.livingsocial.com
 lizardslaugh.com
 lkqd.com
@@ -20910,6 +20905,8 @@ app-ab59.marketo.com
 app-ab60.marketo.com
 app-ab61.marketo.com
 app-ab62.marketo.com
+app-ab63.marketo.com
+app-ab64.marketo.com
 app-aba.marketo.com
 app-abb.marketo.com
 app-abc.marketo.com
@@ -21244,6 +21241,8 @@ na-ab59.marketo.com
 na-ab60.marketo.com
 na-ab61.marketo.com
 na-ab62.marketo.com
+na-ab63.marketo.com
+na-ab64.marketo.com
 na-aba.marketo.com
 na-abb.marketo.com
 na-abc.marketo.com
@@ -21567,7 +21566,6 @@ pulse.mcdonalds.com
 mchnad.com
 partners.mcontigo.com
 wpad.mcpdomain.com
-ww25.mcpdomain.com
 mcphospital.com
 mcuvzuozqji.com
 bs.mdadx.com
@@ -35664,7 +35662,6 @@ mysticalladyselegantgifts.com
 mystlyle.com
 mystts.com
 myverizin.com
-ww1.myvirecard.com
 ww25.myvirecard.com
 www.myvirecard.com
 myxerfreeringtones.com
@@ -36668,7 +36665,6 @@ okknotty.com
 okqapmnpyox.com
 log.olark.com
 stats.olark.com
-ww1.olbgsport.com
 ww25.olbgsport.com
 olcnet.com
 oldenglandroma.com
@@ -41402,7 +41398,6 @@ log.outbrainimg.com
 tcheck.outbrainimg.com
 www.outbrainimg.com
 zem.outbrainimg.com
-ww25.outdoorweddingshow.com
 ww35.outdoorweddingshow.com
 ww38.outdoorweddingshow.com
 outoftheboxgifts.com
@@ -41977,8 +41972,6 @@ platform161.com
 play4traffic.com
 playbond.com
 playbuzz.com
-ww11.playdato.com
-ww25.playdato.com
 ww38.playdato.com
 12d56.playfabapi.com
 135ef.playfabapi.com
@@ -45652,7 +45645,6 @@ mgmt.recruitics.com
 monitoring.recruitics.com
 ns2.recruitics.com
 old.recruitics.com
-opsopenvpn.recruitics.com
 pima.recruitics.com
 platform-dev.recruitics.com
 argocd.platform-development.recruitics.com
@@ -48817,35 +48809,19 @@ ww11.rightsouce.com
 ww25.rightsouce.com
 rightstats.com
 rightyxxx.com
-authsmtp.rimbunanilmu.com
-barracuda.rimbunanilmu.com
 box.rimbunanilmu.com
-mail1.rimbunanilmu.com
-mail10.rimbunanilmu.com
 mail11.rimbunanilmu.com
 mail2.rimbunanilmu.com
-mail4.rimbunanilmu.com
 mail6.rimbunanilmu.com
 mail8.rimbunanilmu.com
-mailbox.rimbunanilmu.com
 mailgate.rimbunanilmu.com
-mailgw.rimbunanilmu.com
-mailin.rimbunanilmu.com
-mailserver.rimbunanilmu.com
 ms.rimbunanilmu.com
 mx01.rimbunanilmu.com
-mx2.rimbunanilmu.com
 mx20.rimbunanilmu.com
 mx5.rimbunanilmu.com
 out.rimbunanilmu.com
-po.rimbunanilmu.com
-post.rimbunanilmu.com
-relay2.rimbunanilmu.com
 root.rimbunanilmu.com
-secure.rimbunanilmu.com
-smtps.rimbunanilmu.com
 vmail.rimbunanilmu.com
-www2.rimbunanilmu.com
 ringplant.com
 ringshell.com
 ringsrecord.com
@@ -50280,10 +50256,6 @@ sesamestats.com
 interactions.sesamy.com
 sessioncam.com
 setransp-aju.com
-ww1.seturb.com
-ww25.seturb.com
-ww38.seturb.com
-www.seturb.com
 sewfit.com
 sexcounter.com
 ww16.sexect.com
@@ -50602,7 +50574,6 @@ shopayhome.com
 trk.a.shopdisney.com
 shophee.com
 ww25.shophieparis.com
-ww38.shophieparis.com
 shopkick.com
 www.shopnbastore.com
 shopofcosplay.com
@@ -51361,6 +51332,7 @@ speedracergame.com
 speedshiftmedia.com
 affiliatemedia.speedybet.com
 ww25.spellenl.com
+ww38.spellenl.com
 www.spellenl.com
 spencerretail.com
 attribution.sperry.com
@@ -51421,7 +51393,6 @@ cdn.spotxcdn.com
 llnw.spotxcdn.com
 spotxchange.com
 ad.spreaker.com
-bad.dns.spribd.com
 www.spribd.com
 ww1.spriceline.com
 www.spriceline.com
@@ -52365,7 +52336,6 @@ web.survicate.com
 www.survicate.com
 susifhfh2d8ldn09.com
 insights.sustainablebrands.com
-ww38.svilosa.com
 svmds.com
 svntrk.com
 a.svtrd.com
@@ -52400,7 +52370,6 @@ mailer.swornclothes.com
 mailin.swornclothes.com
 mailout.swornclothes.com
 mailx.swornclothes.com
-a.mx.swornclothes.com
 mx1.swornclothes.com
 mx2.swornclothes.com
 ns1.swornclothes.com
@@ -53061,7 +53030,6 @@ com-wildlifestudios-skywarriors.topaz-analytics.com
 com-wildlifestudios-suspects.topaz-analytics.com
 playtest-api.topaz-analytics.com
 push-api.topaz-analytics.com
-ww25.topboyrio.com
 ww1.topcoverpic.com
 www.topcoverpic.com
 www.topdisplaynetwork.com
@@ -54091,8 +54059,6 @@ upkvib.com
 upladstation.com
 uploadsation.com
 uploadstaion.com
-ww11.uploadzad.com
-ww25.uploadzad.com
 upltv.com
 upnrhm.com
 uppercaselving.com
@@ -54499,7 +54465,6 @@ track.vcdc.com
 analytics.vcdevhub.com
 vciuy.com
 vcommission.com
-ww11.vcrictime.com
 vcyud.com
 veeplay.com
 advertising.veeseo.com
@@ -54660,6 +54625,7 @@ video-dating.com
 videoadex.com
 videoamp.com
 videod2h.com
+ww25.videoduma.com
 videoegg.com
 videoincest.com
 securecdn.videologygroup.com
@@ -54728,8 +54694,6 @@ webhooks.viglink.com
 www.viglink.com
 sentry.viidea.com
 vikasajob.com
-ww25.vikicraze.com
-ww38.vikicraze.com
 www.vikicraze.com
 vildlonger.com
 villainousvamps.com
@@ -54863,9 +54827,7 @@ vintage-threads.com
 vintagemafia.com
 violentcomix.com
 e.viously.com
-ww1.vipmailhu.com
 ww25.vipmailhu.com
-ww38.vipmailhu.com
 viralize.com
 virgiatlantic.com
 virgimmedia.com
@@ -54873,7 +54835,6 @@ tagman.virgin-atlantic.com
 virginatalntic.com
 virginatlantc.com
 tagman.virginatlantic.com
-ww1.virginatllantic.com
 www.virginatllantic.com
 www.virginattlantic.com
 virgingmobileusa.com
@@ -55644,7 +55605,6 @@ wiprocareers.com
 wirecomic.com
 analytics.wirefly.com
 wirypaste.com
-ww11.wisbenbae.com
 ww35.wisbenbae.com
 www.wisbenbae.com
 wisepops.com
@@ -55844,7 +55804,9 @@ ww25.wwwflhealthsource.com
 ww38.wwwflhealthsource.com
 www.wwwflhealthsource.com
 wwwfonacot.com
+ww11.wwwfrev.com
 ww25.wwwfrev.com
+ww35.wwwfrev.com
 ww38.wwwfrev.com
 www.wwwfrev.com
 wwwfrif.com
@@ -57426,10 +57388,7 @@ zappoks.com
 zazlitatpd.com
 zbwp6ghm.com
 urs.zdnet.com
-ww11.zdravykorinek.com
 ww25.zdravykorinek.com
-ww38.zdravykorinek.com
-www.zdravykorinek.com
 zealousfield.com
 ww35.zedgames.com
 www.zedgames.com
@@ -57554,9 +57513,7 @@ analytics.zoho.com
 salesiq.zoho.com
 webanalytics.zohodcm.com
 zoo356.com
-ww25.zoofilio.com
 ww35.zoofilio.com
-www.zoofilio.com
 vdc.zoomph.com
 zoophiliatube.com
 zotabox.com
@@ -59548,6 +59505,7 @@ ww25.computer-arts.info
 ww38.computer-arts.info
 www.computer-arts.info
 computersetc.info
+mail.concertandco.info
 ww25.concertandco.info
 ww38.concertandco.info
 www.consolasportatiles.info
@@ -59876,7 +59834,6 @@ ww1.downloader.info
 www.downloader.info
 xxvcy.downloader.info
 ww1.downxvideo.info
-ww17.downxvideo.info
 www.downxvideo.info
 dporn.info
 www.dramaticdistinctives.info
@@ -59976,6 +59933,7 @@ esperiabg.info
 autodiscover.essebah.info
 mail2.essebah.info
 shop.essebah.info
+ww17.essebah.info
 essmile.info
 estacionesnauticas.info
 freescout.etain.info
@@ -60461,6 +60419,7 @@ jnu.info
 jobcircular.info
 jobquest.info
 jobs4u.info
+jocuricumasini.info
 joelgaujard.info
 joining.info
 joinmyworld.info
@@ -60513,6 +60472,7 @@ kitzsteinhorn.info
 kizi.info
 kleinanzeigen.info
 kleio.info
+ns1.klussenbedrijven.info
 ww25.klussenbedrijven.info
 ww3.klussenbedrijven.info
 knochenmark.info
@@ -60909,6 +60869,7 @@ mail.nanotehnologija.info
 www.nanotehnologija.info
 narmedlek.info
 nassau.info
+www.natureshop.info
 navzdy.info
 nbalive.info
 neko299.info
@@ -61367,8 +61328,10 @@ puntolimpio.info
 pusat-bahasa.info
 www.putana.info
 mail.python-os.info
+ww1.python-os.info
 ww11.python-os.info
 ww17.python-os.info
+ww38.python-os.info
 www.python-os.info
 que-significa-mi-nombre.info
 quepaso.info
@@ -61543,6 +61506,7 @@ ww25.rumahmodernterbaik.info
 ww38.rumahmodernterbaik.info
 www.rumahmodernterbaik.info
 1apps.rumobi.info
+apps.rumobi.info
 ww1.rumobi.info
 ww2.rumobi.info
 ww3.rumobi.info
@@ -61877,7 +61841,6 @@ mail.subtitlepedia.info
 mvideo.subtitlepedia.info
 webdisk.subtitlepedia.info
 ww1.subtitlepedia.info
-ww17.subtitlepedia.info
 ww38.subtitlepedia.info
 www.subtitlepedia.info
 suertetrabajos.info
@@ -62213,6 +62176,7 @@ torino.info
 torjacka.info
 torrentgamesps2.info
 torrentsave.info
+webdisk.totaalbalans.info
 ww25.totaalbalans.info
 totoarena.info
 touring24.info
@@ -104186,7 +104150,6 @@ wwwbrita.net
 wwwdiziizle.net
 wwwilsos.net
 wwwmymercy.net
-ww1.wwwoptonline.net
 www.wwwoptonline.net
 wwwxmeye.net
 xemeye.net
@@ -104914,8 +104877,6 @@ metrics.consumerreports.org
 smetrics.consumerreports.org
 coresera.org
 cornerstoneaog.org
-postmaster.cornerstonerecovery.org
-www.cornerstonerecovery.org
 corsicanaisd.org
 cosmetix.org
 councilonglobalsecurity.org
@@ -106170,7 +106131,6 @@ ww16.plp2.org
 ww17.plp2.org
 ww25.plp2.org
 ww38.plp2.org
-www.plp2.org
 www1.plp2.org
 pmasterson.org
 poewiki.org
@@ -106204,7 +106164,6 @@ ww38.probestfilm.org
 www.probestfilm.org
 procorn.org
 progepe.org
-comune.projectgazelle.org
 autodiscover.boilam.cwww.projectgazelle.org
 gateway.projectgazelle.org
 mail01.projectgazelle.org
@@ -107183,7 +107142,9 @@ ww1.veridaincu.org
 www.veridaincu.org
 verpelis.org
 ww17.victoria-justice.org
+ww35.victoria-justice.org
 www.victoria-justice.org
+www1.victoria-justice.org
 vidik.org
 vidma.org
 viedeolan.org
@@ -107293,7 +107254,6 @@ sitemap.worldwarzfilm.org
 sitemaps.worldwarzfilm.org
 staging.worldwarzfilm.org
 test.worldwarzfilm.org
-ww1.worldwarzfilm.org
 ww16.worldwarzfilm.org
 ww17.worldwarzfilm.org
 ww25.worldwarzfilm.org
