@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336042
+# Ignored duplicates: 336157
 
 chameleon.ad
 pixel.ad
@@ -212,6 +212,7 @@ banners.bol.com.br
 www3.convergenciadigital.com.br
 adserver.diariodosertao.com.br
 anuncios.edicaoms.com.br
+ads.egrana.com.br
 goiasprodutos.com.br
 ads.ibest.com.br
 ad.jacotei.com.br
@@ -4941,7 +4942,6 @@ ahdol.com
 aheadday.com
 ahmedshobeir.com
 ahoritah.com
-ww38.ahsahre.com
 ahsmedicare.com
 aibsgc.com
 aiertpay.com
@@ -5979,7 +5979,6 @@ md-ll.apptimize.com
 plank.apptimize.com
 tycho.apptimize.com
 user-data.apptimize.com
-www.apptouser.com
 apptrckr.com
 apreamare.com
 aprenderingles-sila.com
@@ -6845,9 +6844,6 @@ postmaster.bgbeatle.com
 relay2.bgbeatle.com
 server1.bgbeatle.com
 vmail.bgbeatle.com
-ww11.bgbeatle.com
-ww25.bgbeatle.com
-ww38.bgbeatle.com
 bgstechnik.com
 bhandarimaruti.com
 bhandhan.com
@@ -7426,7 +7422,6 @@ upload.bugsnag.com
 buildersupplyatlanta.com
 buildyourdata.com
 buildyourownweapon.com
-ww38.builldabear.com
 bulkapothocary.com
 bulloger.com
 ads.bumlam.com
@@ -7489,7 +7484,6 @@ recsys-api.buzzfeed.com
 buzzonclick.com
 buzzoola.com
 bwyogdt.com
-mail.byanuncios.com
 www.byporn.com
 bytegain.com
 mon.byteoversea.com
@@ -7506,6 +7500,7 @@ mx10.c-loverz.com
 mx4.c-loverz.com
 relay2.c-loverz.com
 smtpseguro.c-loverz.com
+ww11.c-loverz.com
 ww31.c-loverz.com
 ww38.c-loverz.com
 www.c-loverz.com
@@ -7539,8 +7534,6 @@ camporenacimiento.com
 adserver.cams.com
 banners.cams.com
 can-ambrp.com
-a.mx.canalimoveisbahia.com
-ww38.canalimoveisbahia.com
 canalinternational.com
 candaulismeaufeminin.com
 candyhostel.com
@@ -7589,7 +7582,6 @@ carinsuranceguys.com
 carlatadesco.com
 ww1.carmaxactions.com
 ww25.carmaxactions.com
-www.carmaxactions.com
 carneoam.com
 carolinaherrara.com
 carpetcleaningservicesvirginiabeach.com
@@ -7751,7 +7743,6 @@ ads.cc-dt.com
 cccgolfcarts.com
 ensighten.ccnag.com
 ccssettlement.com
-ww11.cdg124.com
 ww25.cdg124.com
 ww35.cdg124.com
 cstat.cdn-apple.com
@@ -7771,7 +7762,6 @@ cdnsynd.com
 cdnwidget.com
 activate.cdw.com
 activate.cdwg.com
-www.cecytemichoacan.com
 ns2.ced7000pro.com
 ww38.ced7000pro.com
 www.ced7000pro.com
@@ -8005,9 +7995,11 @@ connect.clearbit.com
 connect-client.clearbit.com
 connect-outlook.clearbit.com
 design.clearbit.com
+dev-es56.os.dev.clearbit.com
 dev-es710.os.dev.clearbit.com
 dev-os13.os.dev.clearbit.com
 dev-os27.os.dev.clearbit.com
+dev-watchlist-es56.os.dev.clearbit.com
 luc-os13.os.dev.clearbit.com
 discovery.clearbit.com
 edge.clearbit.com
@@ -8038,8 +8030,10 @@ person-stream.clearbit.com
 preferences.clearbit.com
 discovery.os.prod.clearbit.com
 jaeger.os.prod.clearbit.com
+log.os.prod.clearbit.com
 prospector.os.prod.clearbit.com
 scrapinghub.os.prod.clearbit.com
+watchlist.os.prod.clearbit.com
 prospector.clearbit.com
 reveal.clearbit.com
 reveal-ga.clearbit.com
@@ -8048,6 +8042,7 @@ salesforce-extension.clearbit.com
 segment.clearbit.com
 staging-os13.os.staging.clearbit.com
 staging-os27.os.staging.clearbit.com
+staging-watchlist-es56.os.staging.clearbit.com
 status.clearbit.com
 try.clearbit.com
 turk.clearbit.com
@@ -9952,7 +9947,6 @@ discoveryespanol.com
 discreetfield.com
 diseymovierewards.com
 ww25.disfloration.com
-ww35.disfloration.com
 www.disfloration.com
 disipapa.com
 disneiplatino.com
@@ -9971,8 +9965,6 @@ ww38.disneydx.com
 www.disneydx.com
 sales.disneylandparis.com
 disneylivingonline.com
-ww25.disneymoviewrewards.com
-ww38.disneymoviewrewards.com
 disneyozmovieoffers.com
 disneypchannel.com
 ww38.disneypeliculas.com
@@ -14379,7 +14371,6 @@ wltwinspires.eacdn.com
 wlwilliamhill.eacdn.com
 c.eacla.com
 eadexchange.com
-ww11.eagleinformatica.com
 ads.eagletribune.com
 r.ealeo.com
 earlychildren.com
@@ -14465,7 +14456,6 @@ egyptyair.com
 ehepatitis.com
 career.eigeradvanture.com
 photocontest.eigeradvanture.com
-ww11.eigeradvanture.com
 ww25.eigeradvanture.com
 einthusn.com
 eitkdj.com
@@ -14667,7 +14657,6 @@ envisonreports.com
 enzajit.com
 eonenergt.com
 authsmtp.eototal.com
-mail.comune.eototal.com
 email.eototal.com
 m.eototal.com
 mail.eototal.com
@@ -14720,13 +14709,10 @@ www.espncriciinfo.com
 espnfootball.com
 estat.com
 estheticmeso.com
-ww1.estudiosdoscrias.com
-ww11.estudiosdoscrias.com
 esty.com
 etahub.com
 etargetnet.com
 ww11.etebento.com
-ww25.etebento.com
 eteppy.com
 eth-pocket.com
 ethaiinfo.com
@@ -17683,7 +17669,6 @@ heirloomreproductions.com
 heisejinyao.com
 hellobar.com
 hellospy.com
-ww11.helmbanck.com
 helpcollar.com
 helpinghandshomeimprovement.com
 hentaicounter.com
@@ -17716,7 +17701,8 @@ usefomo.com.herokudns.com
 ca-collector.webtexts.com.herokudns.com
 api.wootric.com.herokudns.com
 analytics.yopify.com.herokudns.com
-hessperss.com
+ww25.hessperss.com
+www.hessperss.com
 hewmjifrn4gway.com
 hex99.com
 hexagon-analytics.com
@@ -17744,7 +17730,6 @@ hibachiexpressusa.com
 hibbertsports.com
 hiconversion.com
 hiddenmms.com
-hifrases.com
 high-savings.com
 highcpmrevenuenetwork.com
 highfalutinroom.com
@@ -17806,13 +17791,12 @@ hofopuno.com
 hofucuqu.com
 holidayinnanaheimresort.com
 holidayinnaruba.com
-holihungama.com
+ww25.holihungama.com
 holitika.com
 hollowafterthought.com
 hollymodel.com
 ads.hollywood.com
 ww11.hollywoolife.com
-ww25.hollywoolife.com
 ww35.hollywoolife.com
 holmescountyflorida.com
 hombresmujeresyviceversa.com
@@ -17886,6 +17870,7 @@ hotnewhihop.com
 hotnewhiphopsongs.com
 hotnewhophop.com
 hotpinoyplanet.com
+backup.hotsalewear.com
 m.hotsalewear.com
 ww1.hotsalewear.com
 ww25.hotsalewear.com
@@ -19202,77 +19187,15 @@ komsantv.com
 konferansereiser.com
 adserver.kontent.com
 kontera.com
-authsmtp.konvaso.com
 barracuda.konvaso.com
-correo.konvaso.com
-direct.konvaso.com
-email.konvaso.com
-eml.konvaso.com
-gate.konvaso.com
-gateway.konvaso.com
-gw.konvaso.com
-home.konvaso.com
-host.konvaso.com
-mail.konvaso.com
-mail02.konvaso.com
-mail10.konvaso.com
-mail11.konvaso.com
-mail12.konvaso.com
-mail2.konvaso.com
-mail3.konvaso.com
-mail7.konvaso.com
-mail8.konvaso.com
-mail9.konvaso.com
-mailbox.konvaso.com
-mailer.konvaso.com
-mailgate.konvaso.com
-mailgw.konvaso.com
 mailin.konvaso.com
-mailrelay.konvaso.com
-mails.konvaso.com
-mailserver.konvaso.com
-mailx.konvaso.com
-mbox.konvaso.com
 ms.konvaso.com
-mta.konvaso.com
-mta1.konvaso.com
-mx.konvaso.com
-mx01.konvaso.com
-mx02.konvaso.com
-mx10.konvaso.com
 mx2.konvaso.com
-mx20.konvaso.com
-mx3.konvaso.com
-mx4.konvaso.com
-mx7.konvaso.com
-mxs.konvaso.com
-newmail.konvaso.com
 ns.konvaso.com
-ns1.konvaso.com
 ns2.konvaso.com
-out.konvaso.com
-outmail.konvaso.com
-pbrand.konvaso.com
-po.konvaso.com
-pop.konvaso.com
 posta.konvaso.com
-postmaster.konvaso.com
 relay2.konvaso.com
-root.konvaso.com
-send.konvaso.com
-server.konvaso.com
-server1.konvaso.com
-server2.konvaso.com
-smtpauth.konvaso.com
-sniper.konvaso.com
-ssl.konvaso.com
-tiger.konvaso.com
-vmail.konvaso.com
-ww2.konvaso.com
 ww5.konvaso.com
-www.konvaso.com
-zimbra.konvaso.com
-zmail.konvaso.com
 kotsedtee4monton.com
 kowalakypage.com
 kowskypage.com
@@ -21581,8 +21504,6 @@ mxs.mdavos.com
 relay.mdavos.com
 relay1.mdavos.com
 ww25.mdavos.com
-ww38.mdavos.com
-www.mdavos.com
 mdbuy.com
 mdeinstructure.com
 mdnun.com
@@ -36436,8 +36357,6 @@ sts.nielseniq.com
 surveys.nielseniq.com
 night-cats.com
 nightfallroad.com
-ww35.nigomy.com
-www.nigomy.com
 nihulhon.com
 m.nikbor.com
 www.nikbor.com
@@ -41286,10 +41205,13 @@ production.optimizely.com
 query.optimizely.com
 querying.optimizely.com
 rc-app.optimizely.com
+app.reporting.optimizely.com
 app.au1.reporting.optimizely.com
 app.eu1.reporting.optimizely.com
+app.inte.reporting.optimizely.com
 app.eu1.inte.reporting.optimizely.com
 app.us1.inte.reporting.optimizely.com
+app.prep.reporting.optimizely.com
 app.eu1.prep.reporting.optimizely.com
 app.us1.prep.reporting.optimizely.com
 app.us1.reporting.optimizely.com
@@ -48145,7 +48067,6 @@ revprotect.com
 revrelations.com
 revrtb.com
 revsq0.com
-revstats.com
 rewardsecure.com
 collect.rewardstyle.com
 reyden-x.com
@@ -50218,7 +50139,6 @@ seorakhotel.com
 separatesilver.com
 sepohora.com
 sequoyahlanding.com
-ww1.serbaduit.com
 sercheshub-copd.com
 sercheshub-donate-cars.com
 serconmp.com
@@ -50573,7 +50493,6 @@ shoopcar.com
 shopayhome.com
 trk.a.shopdisney.com
 shophee.com
-ww25.shophieparis.com
 shopkick.com
 www.shopnbastore.com
 shopofcosplay.com
@@ -53106,7 +53025,6 @@ trackingsoft.com
 trackjs.com
 trackmysales.com
 tracksmall.com
-trackuhub.com
 trackverify.com
 tracot.com
 tractionize.com
@@ -54660,7 +54578,6 @@ ads.vidoomy.com
 vidora.com
 vidsdbm.com
 ww25.vidyoutube.com
-ww5.vidyoutube.com
 www.vidyoutube.com
 ww1.vienamairline.com
 www.vienamairline.com
@@ -59229,6 +59146,7 @@ www.bukinist.info
 bukittinggi.info
 bulldozer.info
 mvideo.bundesliga-livestream.info
+www.bundesliga-livestream.info
 bungalows.info
 ww1.forum.buonchuyen.info
 ww17.forum.buonchuyen.info
@@ -59505,9 +59423,7 @@ ww25.computer-arts.info
 ww38.computer-arts.info
 www.computer-arts.info
 computersetc.info
-mail.concertandco.info
-ww25.concertandco.info
-ww38.concertandco.info
+concertandco.info
 www.consolasportatiles.info
 consolida.info
 coolinc.info
@@ -59833,7 +59749,6 @@ wiyqr.downloader.info
 ww1.downloader.info
 www.downloader.info
 xxvcy.downloader.info
-ww1.downxvideo.info
 www.downxvideo.info
 dporn.info
 www.dramaticdistinctives.info
@@ -59998,18 +59913,13 @@ fatma.info
 fatorfiction.info
 fazu.info
 fcsite.info
-magento.ferdos.info
 mail.ferdos.info
-staging.ferdos.info
-test.ferdos.info
-ww1.ferdos.info
 ww16.ferdos.info
 ww17.ferdos.info
 ww2.ferdos.info
 ww25.ferdos.info
 ww3.ferdos.info
 ww38.ferdos.info
-www.ferdos.info
 ferienhausinnorwegen.info
 antispam.figvam.info
 correo.figvam.info
@@ -60381,7 +60291,8 @@ infomails.info
 inglesonlinegratis.info
 inima.info
 injured.info
-interlin.info
+ww38.interlin.info
+www.interlin.info
 internetmarketingideas.info
 interwork.info
 investition.info
@@ -61143,6 +61054,7 @@ ww17.pornstock.info
 www.pornstock.info
 porshe.info
 portablesoft.info
+ww1.postcode-zoeken.info
 ww16.postcode-zoeken.info
 ww25.postcode-zoeken.info
 ww38.postcode-zoeken.info
@@ -61374,8 +61286,6 @@ v1.quicktime-download.info
 v2.quicktime-download.info
 webapp.quicktime-download.info
 ww1.quicktime-download.info
-ww17.quicktime-download.info
-ww38.quicktime-download.info
 www.quicktime-download.info
 wx.quicktime-download.info
 rabidshare.info
@@ -61439,7 +61349,6 @@ webdisk.register-news-24h.info
 ww1.register-news-24h.info
 ww16.register-news-24h.info
 ww17.register-news-24h.info
-ww25.register-news-24h.info
 ww38.register-news-24h.info
 www.register-news-24h.info
 reisu.info
@@ -61467,7 +61376,6 @@ ww17.reunionideas.info
 ww25.reunionideas.info
 ww38.reunionideas.info
 www.reunionideas.info
-www.revitol.info
 rewy.info
 rexhado.info
 ww1.ricojeu.info
@@ -61510,6 +61418,7 @@ apps.rumobi.info
 ww1.rumobi.info
 ww2.rumobi.info
 ww3.rumobi.info
+ww38.rumobi.info
 rupertmallin.info
 rusputana.info
 russian-ships.info
@@ -61835,6 +61744,10 @@ stockphotoexpress.info
 stoommachine.info
 stopillegals.info
 streamingvf.info
+backup.stroims.info
+ww17.stroims.info
+ww25.stroims.info
+ww38.stroims.info
 studnet.info
 subsidios.info
 mail.subtitlepedia.info
@@ -62177,6 +62090,7 @@ torjacka.info
 torrentgamesps2.info
 torrentsave.info
 webdisk.totaalbalans.info
+ww17.totaalbalans.info
 ww25.totaalbalans.info
 totoarena.info
 touring24.info
@@ -98872,6 +98786,7 @@ dev.aa.online-metrix.net
 idev.aa.online-metrix.net
 qa1.aa.online-metrix.net
 qa2.aa.online-metrix.net
+qaperf2.aa.online-metrix.net
 am1-h.online-metrix.net
 api-canary-am1.online-metrix.net
 cf-api.online-metrix.net
@@ -98993,7 +98908,6 @@ h-fedex.online-metrix.net
 h-firstdata.online-metrix.net
 h-franklintempleton.online-metrix.net
 h-freelancer1.online-metrix.net
-h-fsymclue.online-metrix.net
 h-garmin.online-metrix.net
 h-globalsources.online-metrix.net
 h-goldennugget.online-metrix.net
@@ -99145,7 +99059,6 @@ onnatural.net
 openx.net
 optimadns.net
 optofine.net
-banner.orb.net
 aw.owneriq.net
 aws-ec2-01.owneriq.net
 mail1.aws.owneriq.net
@@ -104150,7 +104063,6 @@ wwwbrita.net
 wwwdiziizle.net
 wwwilsos.net
 wwwmymercy.net
-www.wwwoptonline.net
 wwwxmeye.net
 xemeye.net
 xn--hava-85a.net
@@ -106097,41 +106009,23 @@ platinumautosales.org
 playbuzz.org
 playtetris.org
 plela.org
-auth.plp2.org
-authsmtp.plp2.org
 barracuda.plp2.org
 comune.plp2.org
-email.plp2.org
 gacor10k.plp2.org
 gacor138.plp2.org
 host.plp2.org
 m.plp2.org
-mail.plp2.org
 mail1.plp2.org
-mail2.plp2.org
 mailhost.plp2.org
-mailin.plp2.org
-mailout.plp2.org
-mailserver.plp2.org
-mailx.plp2.org
 mbox.plp2.org
-mx.plp2.org
 mx01.plp2.org
-mx1.plp2.org
 mx10.plp2.org
 mx7.plp2.org
-ns2.plp2.org
-poczta.plp2.org
-postmaster.plp2.org
-relay.plp2.org
-smtps.plp2.org
 vmail.plp2.org
 ww1.plp2.org
 ww16.plp2.org
-ww17.plp2.org
 ww25.plp2.org
 ww38.plp2.org
-www1.plp2.org
 pmasterson.org
 poewiki.org
 policecanada.org
@@ -107247,15 +107141,9 @@ worldchanel.org
 worldfoodprogram.org
 worldindata.org
 worldonfire.org
-dev.worldwarzfilm.org
-old.worldwarzfilm.org
-shop.worldwarzfilm.org
-sitemap.worldwarzfilm.org
-sitemaps.worldwarzfilm.org
 staging.worldwarzfilm.org
 test.worldwarzfilm.org
 ww16.worldwarzfilm.org
-ww17.worldwarzfilm.org
 ww25.worldwarzfilm.org
 ww38.worldwarzfilm.org
 www.worldwarzfilm.org
