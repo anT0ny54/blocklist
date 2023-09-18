@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336098
+# Ignored duplicates: 336083
 
 chameleon.ad
 pixel.ad
@@ -178,18 +178,8 @@ cloudcoins.biz
 czx5eyk0exbhwp43ya.biz
 ads.dtpnetwork.biz
 ads.expat-blog.biz
-0.findmedia.biz
-1.findmedia.biz
 1000.findmedia.biz
-2.findmedia.biz
-3.findmedia.biz
-4.findmedia.biz
-5.findmedia.biz
-6.findmedia.biz
-9.findmedia.biz
 download.findmedia.biz
-edca6uhn.findmedia.biz
-o.findmedia.biz
 api.freshaddress.biz
 mixmarket.biz
 adserver.msmb.biz
@@ -5004,7 +4994,6 @@ analytics.akaunting.com
 akbaralami.com
 akinato.com
 atlas.r.akipam.com
-ww25.akotuve.com
 akslar.com
 alabamacoastalrentals.com
 alabangautoexchange.com
@@ -7572,7 +7561,6 @@ cargodisplayads.com
 caringcast.com
 carinsuranceguys.com
 carlatadesco.com
-ww25.carmaxactions.com
 carneoam.com
 carolinaherrara.com
 carpetcleaningservicesvirginiabeach.com
@@ -7733,7 +7721,6 @@ ads.cc-dt.com
 cccgolfcarts.com
 ensighten.ccnag.com
 ccssettlement.com
-ww25.cdg124.com
 cstat.cdn-apple.com
 cache.cdn-jquery.com
 code.cdn-jquery.com
@@ -8297,28 +8284,16 @@ cnzz.com
 ads.co.com
 co5n3nerm6arapo7ny.com
 antispam.coachingandcoaches.com
-authsmtp.coachingandcoaches.com
-comune.coachingandcoaches.com
-email.coachingandcoaches.com
+mail.comune.coachingandcoaches.com
 gate.coachingandcoaches.com
 host.coachingandcoaches.com
 mail.coachingandcoaches.com
-mail1.coachingandcoaches.com
-mailgate.coachingandcoaches.com
-mailhost.coachingandcoaches.com
-mailout.coachingandcoaches.com
-mailx.coachingandcoaches.com
 ms.coachingandcoaches.com
-mx1.coachingandcoaches.com
-ns.coachingandcoaches.com
 ns1.coachingandcoaches.com
 ns2.coachingandcoaches.com
 outmail.coachingandcoaches.com
-server.coachingandcoaches.com
-smtpauth.coachingandcoaches.com
 webdisk.coachingandcoaches.com
 www.coachingandcoaches.com
-www2.coachingandcoaches.com
 coasttocoastcarports.com
 traffic.prod.cobaltgroup.com
 cobraelect.com
@@ -14638,7 +14613,6 @@ engageya.com
 engagio.com
 enginenetwork.com
 english4ksa.com
-4jslg.englishseak.com
 pixel-profile-cloud.eniro.com
 enormousearth.com
 enquisite.com
@@ -14686,6 +14660,7 @@ esobuild.com
 espalhaai.com
 log.espn.com
 sw88.espn.com
+static.espncriciinfo.com
 ww25.espncriciinfo.com
 www.espncriciinfo.com
 espnfootball.com
@@ -14694,7 +14669,6 @@ estheticmeso.com
 esty.com
 etahub.com
 etargetnet.com
-ww11.etebento.com
 eteppy.com
 eth-pocket.com
 ethaiinfo.com
@@ -17338,7 +17312,7 @@ ads.gplusmedia.com
 li.gq.com
 gr.com
 click.mkt.grab.com
-grabbesttours.com
+www.grabbesttours.com
 gracefulsock.com
 ads.gradfinder.com
 smetrics.grainger.com
@@ -17470,7 +17444,8 @@ guepiere.com
 guestionpro.com
 guffawdecipher.com
 guhafohu.com
-guideamour.com
+consider.guideamour.com
+www.guideamour.com
 guieco.com
 www.guiguiland.com
 guitarfedish.com
@@ -17682,7 +17657,6 @@ usefomo.com.herokudns.com
 ca-collector.webtexts.com.herokudns.com
 api.wootric.com.herokudns.com
 analytics.yopify.com.herokudns.com
-ww25.hessperss.com
 hewmjifrn4gway.com
 hex99.com
 hexagon-analytics.com
@@ -17771,13 +17745,10 @@ hofopuno.com
 hofucuqu.com
 holidayinnanaheimresort.com
 holidayinnaruba.com
-ww25.holihungama.com
 holitika.com
 hollowafterthought.com
 hollymodel.com
 ads.hollywood.com
-ww11.hollywoolife.com
-ww35.hollywoolife.com
 holmescountyflorida.com
 hombresmujeresyviceversa.com
 home-of-speed.com
@@ -19544,7 +19515,6 @@ uswestmonitoring.livesegmentservice.com
 livesteaming.com
 ww1.livestreming.com
 ww16.livestreming.com
-ww38.livingelcetro.com
 li.livingsocial.com
 lizardslaugh.com
 lkqd.com
@@ -20171,7 +20141,6 @@ logsss.com
 logua.com
 lojafemmefatale.com
 lokaplatform.com
-ww25.lolgarena.com
 nimwss-us-shark.lolopool.com
 longborntube.com
 longhairyo.com
@@ -27728,6 +27697,7 @@ mktoresp.com
 476-air-524.mktoweb.com
 476-art-028.mktoweb.com
 476-bgp-461.mktoweb.com
+476-ciu-888.mktoweb.com
 476-kal-829.mktoweb.com
 476-vuj-107.mktoweb.com
 476-xqx-870.mktoweb.com
@@ -29224,6 +29194,7 @@ mktoresp.com
 616-ldx-212.mktoweb.com
 616-rjr-062.mktoweb.com
 616-rqw-002.mktoweb.com
+616-vxc-790.mktoweb.com
 616-xdz-951.mktoweb.com
 616-yrv-195.mktoweb.com
 617-crw-446.mktoweb.com
@@ -30766,6 +30737,7 @@ mktoresp.com
 767-bij-087.mktoweb.com
 767-djd-392.mktoweb.com
 767-edl-148.mktoweb.com
+767-jvs-761.mktoweb.com
 767-zcw-584.mktoweb.com
 768-gcu-492.mktoweb.com
 768-iku-248.mktoweb.com
@@ -30787,6 +30759,7 @@ mktoresp.com
 769-rwr-099.mktoweb.com
 769-sua-709.mktoweb.com
 769-xvt-787.mktoweb.com
+770-bsm-224.mktoweb.com
 770-gzk-990.mktoweb.com
 770-hqb-035.mktoweb.com
 770-hsf-936.mktoweb.com
@@ -31237,6 +31210,7 @@ mktoresp.com
 808-uad-598.mktoweb.com
 808-ugf-816.mktoweb.com
 809-azi-067.mktoweb.com
+809-ela-407.mktoweb.com
 809-evb-079.mktoweb.com
 809-gps-698.mktoweb.com
 809-mda-780.mktoweb.com
@@ -31983,6 +31957,7 @@ mktoresp.com
 881-pps-800.mktoweb.com
 881-wls-480.mktoweb.com
 881-wyo-555.mktoweb.com
+881-zgb-381.mktoweb.com
 882-bgz-157.mktoweb.com
 882-dxv-558.mktoweb.com
 882-fqk-573.mktoweb.com
@@ -34781,7 +34756,6 @@ platform.mobileapptracking.com
 status.mobileapptracking.com
 www.mobileapptracking.com
 ads.mobilebet.com
-ww25.mobiledvrhost.com
 mobilefuse.com
 analytics.mobilegamestats.com
 assets.mobilegamestats.com
@@ -35343,7 +35317,6 @@ www.musakachat.com
 muscleandfitnessforum.com
 musclehero.com
 musicasshow.com
-ww25.musicdumpere.com
 ad.musicmatch.com
 musicsceneusa.com
 musikpapare.com
@@ -35524,7 +35497,6 @@ mysticalladyselegantgifts.com
 mystlyle.com
 mystts.com
 myverizin.com
-ww25.myvirecard.com
 myxerfreeringtones.com
 mzhhiphop.com
 metrics.mzstatic.com
@@ -36467,7 +36439,6 @@ ntwyt.com
 nuaghtytube.com
 nubsnobwebcam.com
 nucahu.com
-ww38.nuevobancodesantafe.com
 nugajo.com
 nullnorth.com
 nuseek.com
@@ -41266,8 +41237,6 @@ log.outbrainimg.com
 tcheck.outbrainimg.com
 www.outbrainimg.com
 zem.outbrainimg.com
-ww35.outdoorweddingshow.com
-ww38.outdoorweddingshow.com
 outoftheboxgifts.com
 ads.outpersonals.com
 outriggermedia.com
@@ -41736,7 +41705,6 @@ photosop.com
 phototfunia.com
 photozella.com
 physicalbikes.com
-4jslg.picjook.com
 picklequeen.com
 picmonnkey.com
 picreel.com
@@ -41827,7 +41795,6 @@ pkracv.com
 post.pkthop.com
 s.pkthop.com
 plaaylist.com
-www.place2use.com
 placed.com
 placeframe.com
 planetcorrina.com
@@ -45376,7 +45343,6 @@ rainoffice.com
 raintwig.com
 rainyhand.com
 rajadimafilbal.com
-ww25.rajubatt.com
 rak-tehlem.com
 rakebacknbonus.com
 a.ichiba.jp.rakuten-static.com
@@ -47969,9 +47935,6 @@ surveytools.researchnow.com
 tag.researchnow.com
 tags.researchnow.com
 tags-ds.researchnow.com
-ww11.residencedelaseine.com
-ww38.residencedelaseine.com
-www.residencedelaseine.com
 resolutekey.com
 reson8.com
 resonantbrush.com
@@ -48674,19 +48637,6 @@ ww11.rightsouce.com
 ww25.rightsouce.com
 rightstats.com
 rightyxxx.com
-box.rimbunanilmu.com
-mail11.rimbunanilmu.com
-mail2.rimbunanilmu.com
-mail6.rimbunanilmu.com
-mail8.rimbunanilmu.com
-mailgate.rimbunanilmu.com
-ms.rimbunanilmu.com
-mx01.rimbunanilmu.com
-mx20.rimbunanilmu.com
-mx5.rimbunanilmu.com
-out.rimbunanilmu.com
-root.rimbunanilmu.com
-vmail.rimbunanilmu.com
 ringplant.com
 ringshell.com
 ringsrecord.com
@@ -52197,6 +52147,7 @@ web.survicate.com
 www.survicate.com
 susifhfh2d8ldn09.com
 insights.sustainablebrands.com
+suxvubxmyjig.com
 svmds.com
 svntrk.com
 a.svtrd.com
@@ -52332,8 +52283,6 @@ bidder.talkingpointsmemo.com
 tallysollution.com
 tamgrt.com
 tamilpeel.com
-ww11.tamolt.com
-ww2.tamolt.com
 tampahousewife.com
 tangibleteam.com
 tangmaythutam.com
@@ -52576,7 +52525,6 @@ thaimassaagemodel.com
 thaitation.com
 thanhnhacvietnam.com
 thankypu.com
-ww25.thatstail.com
 statm.the-adult-company.com
 the-musicstore.com
 the-ozone-project.com
@@ -54487,7 +54435,6 @@ vidlcs.com
 ads.vidoomy.com
 vidora.com
 vidsdbm.com
-ww25.vidyoutube.com
 www.vidyoutube.com
 ww1.vienamairline.com
 www.vienamairline.com
@@ -54521,7 +54468,6 @@ webhooks.viglink.com
 www.viglink.com
 sentry.viidea.com
 vikasajob.com
-www.vikicraze.com
 vildlonger.com
 villainousvamps.com
 vilynx.com
@@ -54661,8 +54607,6 @@ tagman.virgin-atlantic.com
 virginatalntic.com
 virginatlantc.com
 tagman.virginatlantic.com
-www.virginatllantic.com
-www.virginattlantic.com
 virgingmobileusa.com
 adserver.virginmedia.com
 virginmediativo.com
@@ -55077,8 +55021,6 @@ vsassets.com
 vsfglobal.com
 vsfglobal-it-bd.com
 vstru.com
-ww11.vtbleague.com
-ww38.vtbleague.com
 vtunnelyoutube.com
 vucdmuvavnu.com
 vudo.com
@@ -55592,7 +55534,6 @@ wuzbhjpvsf.com
 ww-hsn.com
 wwbasspro.com
 wwcoach.com
-ww11.wwesport.com
 ww25.wwesport.com
 www.wwesport.com
 wwethemesongs.com
@@ -59047,6 +58988,9 @@ www.bukinist.info
 bukittinggi.info
 bulldozer.info
 mvideo.bundesliga-livestream.info
+ww11.bundesliga-livestream.info
+ww16.bundesliga-livestream.info
+ww25.bundesliga-livestream.info
 ww3.bundesliga-livestream.info
 www.bundesliga-livestream.info
 bungalows.info
@@ -59304,21 +59248,10 @@ coinloft.info
 coinprobase.info
 cointracker.info
 gate.col3negshiran.info
-gw.col3negshiran.info
-home.col3negshiran.info
 mail.col3negshiran.info
-mail4.col3negshiran.info
-mail8.col3negshiran.info
-mailin.col3negshiran.info
 mailrelay.col3negshiran.info
-mails.col3negshiran.info
-mx0.col3negshiran.info
-mx02.col3negshiran.info
-mx1.col3negshiran.info
 ns1.col3negshiran.info
 old.col3negshiran.info
-out.col3negshiran.info
-outmail.col3negshiran.info
 www.col3negshiran.info
 collectivegap.info
 coltivazioneindoor.info
@@ -60041,7 +59974,6 @@ groenehartmedia.info
 grossglockner.info
 growtech.info
 gruzya.info
-gsfl.info
 gsidorov.info
 gstyle.info
 gta5apkdownload.info
@@ -60210,7 +60142,6 @@ inglesonlinegratis.info
 inima.info
 injured.info
 ww38.interlin.info
-www.interlin.info
 internetmarketingideas.info
 interwork.info
 investition.info
@@ -60256,6 +60187,7 @@ jointventures.info
 joker7777.info
 josieskitchen.info
 jpub.info
+jsong.info
 jumpon.info
 jupiter-directory.info
 kabhebrew.info
@@ -60301,9 +60233,7 @@ kitzsteinhorn.info
 kizi.info
 kleinanzeigen.info
 kleio.info
-ns1.klussenbedrijven.info
-ww25.klussenbedrijven.info
-ww3.klussenbedrijven.info
+klussenbedrijven.info
 knochenmark.info
 komaneko.info
 www.konp.info
@@ -60470,6 +60400,7 @@ mapsmods.info
 mariaalm.info
 marokolastminute.info
 marthabeatriz.info
+ww11.maslennikov.info
 massagebykathy.info
 masscryp.info
 masterfilmesonlinegratis.info
@@ -60692,6 +60623,8 @@ mail.nanotehnologija.info
 www.nanotehnologija.info
 narmedlek.info
 nassau.info
+ww11.natureshop.info
+ww38.natureshop.info
 www.natureshop.info
 navzdy.info
 nbalive.info
@@ -60876,9 +60809,7 @@ wlamazcsrv1.peepshow.info
 www.peepshow.info
 pelagia.info
 perfectcorner.info
-ww1.periscopeporn.info
 ww25.periscopeporn.info
-ww38.periscopeporn.info
 www.periscopeporn.info
 petrolbusiness.info
 petsupply.info
@@ -61252,10 +61183,7 @@ redup.info
 referendumailietuvos.info
 mx.regeneration.info
 www.regeneration.info
-ww1.register-news-24h.info
 ww16.register-news-24h.info
-ww17.register-news-24h.info
-ww38.register-news-24h.info
 reisu.info
 id.renktir.info
 ka.renktir.info
@@ -61622,6 +61550,8 @@ eusebia.spreekwoorden.info
 free-naughty-chat.spreekwoorden.info
 futanari-dating.spreekwoorden.info
 granny-live-chat.spreekwoorden.info
+hot-horny-woman-ready-personals-ads.spreekwoorden.info
+indian-adult-married.spreekwoorden.info
 latin-adult-personals.spreekwoorden.info
 mail.spreekwoorden.info
 mainesex.spreekwoorden.info
@@ -61656,9 +61586,6 @@ ww25.stroims.info
 ww38.stroims.info
 studnet.info
 subsidios.info
-mail.subtitlepedia.info
-webdisk.subtitlepedia.info
-ww38.subtitlepedia.info
 suertetrabajos.info
 temuko.sumariados.info
 upla.sumariados.info
@@ -61994,9 +61921,11 @@ torino.info
 torjacka.info
 torrentgamesps2.info
 torrentsave.info
+cpcalendars.totaalbalans.info
 webdisk.totaalbalans.info
 ww17.totaalbalans.info
 ww25.totaalbalans.info
+www.totaalbalans.info
 totoarena.info
 touring24.info
 toutsurtlemcen.info
@@ -105765,6 +105694,7 @@ niifty.org
 ww17.nintendobr.org
 ww38.nintendobr.org
 www.nintendobr.org
+www6.nintendobr.org
 nitfy.org
 www.nlcollege.org
 nnpcgroup.org
