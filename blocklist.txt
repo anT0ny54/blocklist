@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336083
+# Ignored duplicates: 336133
 
 chameleon.ad
 pixel.ad
@@ -49,6 +49,7 @@ apps.media-lab.ai
 argocd-data-prod.media-lab.ai
 assembly-exchange-grafana.media-lab.ai
 data.media-lab.ai
+data-test.media-lab.ai
 argocd-staging.datascience.media-lab.ai
 recommenderapi-prod.datascience.media-lab.ai
 recommenderapi-staging.datascience.media-lab.ai
@@ -178,8 +179,6 @@ cloudcoins.biz
 czx5eyk0exbhwp43ya.biz
 ads.dtpnetwork.biz
 ads.expat-blog.biz
-1000.findmedia.biz
-download.findmedia.biz
 api.freshaddress.biz
 mixmarket.biz
 adserver.msmb.biz
@@ -1848,6 +1847,7 @@ adasiaholdings.com
 adbiq.com
 adblade.com
 adblockanalytics.com
+adblocker-vpn.com
 adbot.com
 adbrite.com
 adbull.com
@@ -5624,7 +5624,6 @@ mail.amdaws.com
 s3.amdaws.com
 shop.amdaws.com
 staging.amdaws.com
-ww25.amdaws.com
 www.amdaws.com
 amdgt.com
 ads.amdmb.com
@@ -5674,6 +5673,7 @@ amillionads.com
 mail.amirpirani.com
 www.amirpirani.com
 amishfurnaces.com
+amlbubctet.com
 amoad.com
 amobee.com
 amoreangels.com
@@ -7366,6 +7366,7 @@ sidebar.bugherd.com
 status.bugherd.com
 stg.bugherd.com
 test.bugherd.com
+webflow.bugherd.com
 widget.bugherd.com
 www.bugherd.com
 content.analytics.bugsnag.com
@@ -7642,7 +7643,6 @@ cbsi.com
 cbsileads.com
 adops.cbsinteractive.com
 doppler-beacons.cbsivideo.com
-www.cbsmagazine.com
 cbsmoneyline.com
 cbsmorning.com
 bidbarrel.cbsnews.com
@@ -8289,15 +8289,11 @@ gate.coachingandcoaches.com
 host.coachingandcoaches.com
 mail.coachingandcoaches.com
 ms.coachingandcoaches.com
-ns1.coachingandcoaches.com
-ns2.coachingandcoaches.com
 outmail.coachingandcoaches.com
 webdisk.coachingandcoaches.com
-www.coachingandcoaches.com
 coasttocoastcarports.com
 traffic.prod.cobaltgroup.com
 cobraelect.com
-cocalar.com
 cocospy.com
 coddycummings.com
 codeadnetwork.com
@@ -8888,6 +8884,7 @@ epibird.crsspxl.com
 h.f.crsspxl.com
 fpmdev.crsspxl.com
 hyperion.fs.crsspxl.com
+hero.crsspxl.com
 m.crsspxl.com
 planit.crsspxl.com
 planit-dev.crsspxl.com
@@ -9762,7 +9759,6 @@ ceops.dickssportinggoods.com
 metrics.dickssportinggoods.com
 smetrics.dickssportinggoods.com
 dicshary.com
-ww1.dicsoveryeducation.com
 irene.dictionary.com
 track.dictionary.com
 dictortionary.com
@@ -17157,7 +17153,7 @@ crashlyticsreports-pa.googleapis.com
 firebaselogging-pa.googleapis.com
 test.firebaselogging.googleapis.com
 googleblack.com
-googlebussines.com
+www.googlebussines.com
 googlecalender.com
 googleespn.com
 googlemaail.com
@@ -17312,7 +17308,6 @@ ads.gplusmedia.com
 li.gq.com
 gr.com
 click.mkt.grab.com
-www.grabbesttours.com
 gracefulsock.com
 ads.gradfinder.com
 smetrics.grainger.com
@@ -17445,7 +17440,6 @@ guestionpro.com
 guffawdecipher.com
 guhafohu.com
 consider.guideamour.com
-www.guideamour.com
 guieco.com
 www.guiguiland.com
 guitarfedish.com
@@ -17588,7 +17582,6 @@ hashsrv.com
 hausabf.com
 r.sibmail.havasit.com
 tracking.hawksearch.com
-hawxgames.com
 hayssupermarket.com
 hbfstech.com
 smetrics.hbogo.com
@@ -18473,8 +18466,6 @@ members.ip-api.com
 status.ip-api.com
 www.ip-api.com
 api.ipapi.com
-ww11.ipardpa.com
-ww25.ipardpa.com
 iperceptions.com
 iphwallpaper.com
 api.ipinfodb.com
@@ -18691,7 +18682,8 @@ jcpeenys.com
 jcpenne.com
 jcpenneeys.com
 jcpenneygiftcard.com
-jcpenneyscreditcard.com
+ww1.jcpenneyscreditcard.com
+www.jcpenneyscreditcard.com
 jcpenneyshomestore.com
 jcpenniys.com
 jcpennyportaits.com
@@ -19124,7 +19116,6 @@ koindut.com
 kol7agh.com
 kolhscarrers.com
 kolkwi4tzicraamabilis.com
-kolscareers.com
 komonplus.com
 komoona.com
 adsimg.kompas.com
@@ -19500,7 +19491,7 @@ xc3.services.livejournal.com
 livelumber.com
 livelylaugh.com
 livelyreward.com
-ww1.livemucho.com
+livemucho.com
 ads.livenation.com
 adserver.livenetlife.com
 engine.livenetlife.com
@@ -19701,7 +19692,12 @@ lansingstatejournal.localiq.com
 lcsun-news.localiq.com
 ldnews.localiq.com
 leadsaiservices-aus.localiq.com
+leadsaiservices-aus-qa.localiq.com
 leadsaiservices-can.localiq.com
+leadsaiservices-can-qa.localiq.com
+leadsaiservices-gbr.localiq.com
+leadsaiservices-usa-dev.localiq.com
+leadsaiservices-usa-qa.localiq.com
 legacy-qa-api.localiq.com
 livingstondaily.localiq.com
 lohud.localiq.com
@@ -20362,6 +20358,7 @@ www.magictraps.com
 magmypics.com
 magnificentmist.com
 magscustomerservice.com
+a.magsrv.com
 mahan-news.com
 mahasagar.com
 mahohaq.com
@@ -36496,7 +36493,6 @@ okknotty.com
 okqapmnpyox.com
 log.olark.com
 stats.olark.com
-ww25.olbgsport.com
 olcnet.com
 oldenglandroma.com
 oldmaturechick.com
@@ -41209,6 +41205,7 @@ pixel.oshkosh.com
 oshxhofaf.com
 marketing.osijek031.com
 osoji-sommelier.com
+www.otcisrael.com
 api.otherlevels.com
 cdn.otherlevels.com
 cdn-image.otherlevels.com
@@ -49147,7 +49144,6 @@ safety-search.com
 safeyoutube.com
 ww11.saffronsshanklin.com
 ww25.saffronsshanklin.com
-ww38.saffronsshanklin.com
 www.saffronsshanklin.com
 safronmarigold.com
 sail-horizon.com
@@ -49878,6 +49874,7 @@ facade.segment.com
 facebook-lead-ads-receiver.segment.com
 flagon.segment.com
 fleetdm.segment.com
+flex-unify.segment.com
 foxpass.segment.com
 g.segment.com
 gateway-api.segment.com
@@ -51702,8 +51699,6 @@ strossle.com
 strpjmp.com
 structurerod.com
 servedby.studads.com
-mx.studiorso.com
-www.studiorso.com
 stupendoussleet.com
 stupendoussnow.com
 styledeluxe.com
@@ -54369,7 +54364,6 @@ ww16.victoriassecrest.com
 ww17.victoriassecrest.com
 ww25.victoriassecrest.com
 www.victoriassecrest.com
-nic.aaa.victoricasecrets.com
 bis.vidazoo.com
 bisdr.vidazoo.com
 img.vidazoo.com
@@ -55467,6 +55461,7 @@ worldwidedigitalads.com
 worriednumber.com
 worthington-portal.com
 cp.wowcirlce.com
+ww11.forum.wowcirlce.com
 ww25.forum.wowcirlce.com
 logon.wowcirlce.com
 ww11.wowcirlce.com
@@ -57152,7 +57147,6 @@ zappoks.com
 zazlitatpd.com
 zbwp6ghm.com
 urs.zdnet.com
-ww25.zdravykorinek.com
 zealousfield.com
 ww35.zedgames.com
 www.zedgames.com
@@ -58454,7 +58448,6 @@ aerjournal.info
 afreeurl.info
 mvideo.africanlegends.info
 ww1.africanlegends.info
-ww16.africanlegends.info
 ww17.africanlegends.info
 ww25.africanlegends.info
 ww38.africanlegends.info
@@ -58735,6 +58728,7 @@ smtps.besplatno-kachaem.info
 ww1.besplatno-kachaem.info
 ww25.besplatno-kachaem.info
 ww38.besplatno-kachaem.info
+www.besplatno-kachaem.info
 besstahete.info
 bestcb.info
 mail.bestgarten.info
@@ -58865,11 +58859,12 @@ bizbuildermastery.info
 bled.info
 blockchani.info
 blogvlw.info
-www.bluehippo.info
 bluenews.info
 boatrental.info
 bockchain.info
 bodenmarkt.info
+ww11.bodybilding.info
+ww17.bodybilding.info
 www.bodybilding.info
 bokepgratiz.info
 bokepsmp.info
@@ -58988,8 +58983,10 @@ www.bukinist.info
 bukittinggi.info
 bulldozer.info
 mvideo.bundesliga-livestream.info
+ww1.bundesliga-livestream.info
 ww11.bundesliga-livestream.info
 ww16.bundesliga-livestream.info
+ww2.bundesliga-livestream.info
 ww25.bundesliga-livestream.info
 ww3.bundesliga-livestream.info
 www.bundesliga-livestream.info
@@ -59696,8 +59693,13 @@ ersag.info
 eshuvidha.info
 esperiabg.info
 autodiscover.essebah.info
+mail.essebah.info
+mail1.essebah.info
 mail2.essebah.info
+mx.essebah.info
 shop.essebah.info
+sitemap.essebah.info
+sitemaps.essebah.info
 ww17.essebah.info
 www.essebah.info
 essmile.info
@@ -59912,7 +59914,6 @@ ww1.gameoke.info
 ww25.gameoke.info
 ww38.gameoke.info
 www.gameoke.info
-www.gamerwap.info
 gameswin.info
 gamewin.info
 gamezonewap.info
@@ -60141,7 +60142,6 @@ infomails.info
 inglesonlinegratis.info
 inima.info
 injured.info
-ww38.interlin.info
 internetmarketingideas.info
 interwork.info
 investition.info
@@ -60810,7 +60810,6 @@ www.peepshow.info
 pelagia.info
 perfectcorner.info
 ww25.periscopeporn.info
-www.periscopeporn.info
 petrolbusiness.info
 petsupply.info
 ww17.pfshop.info
@@ -60907,6 +60906,11 @@ pravoznavec.info
 prchecker.info
 presents.info
 presidentielle.info
+be.prespornoga.info
+cs.prespornoga.info
+et.prespornoga.info
+fa.prespornoga.info
+lv.prespornoga.info
 www.prespornoga.info
 cpcalendars.presviter.info
 cpcontacts.presviter.info
@@ -61183,7 +61187,6 @@ redup.info
 referendumailietuvos.info
 mx.regeneration.info
 www.regeneration.info
-ww16.register-news-24h.info
 reisu.info
 id.renktir.info
 ka.renktir.info
@@ -61222,9 +61225,10 @@ ww17.rockontrains.info
 ww2.rockontrains.info
 ww38.rockontrains.info
 www.rockontrains.info
-ww25.offline.rohkost.info
+offline.rohkost.info
 ww17.rohkost.info
 ww25.rohkost.info
+ww3.rohkost.info
 www.rohkost.info
 rollover.info
 romiso.info
@@ -61235,6 +61239,7 @@ routerhowto.info
 rpg-maker.info
 rtbnews.info
 ruensport.info
+ww1.rukodelnitsa.info
 mail.rumahmodernterbaik.info
 sitemap.rumahmodernterbaik.info
 sitemaps.rumahmodernterbaik.info
@@ -61549,6 +61554,7 @@ black-amateurs-swinger.spreekwoorden.info
 eusebia.spreekwoorden.info
 free-naughty-chat.spreekwoorden.info
 futanari-dating.spreekwoorden.info
+girlshorney.spreekwoorden.info
 granny-live-chat.spreekwoorden.info
 hot-horny-woman-ready-personals-ads.spreekwoorden.info
 indian-adult-married.spreekwoorden.info
@@ -61581,9 +61587,11 @@ stoommachine.info
 stopillegals.info
 streamingvf.info
 backup.stroims.info
+ww1.stroims.info
 ww17.stroims.info
 ww25.stroims.info
 ww38.stroims.info
+www.stroims.info
 studnet.info
 subsidios.info
 suertetrabajos.info
@@ -80783,6 +80791,10 @@ districtm.net
 ditme.net
 dividshub.net
 adv.dlh.net
+dsm.a.dlqm.net
+ml2k.a.dlqm.net
+b.dlqm.net
+s3.dlqm.net
 dm-event.net
 tofu-ssl.dmcdn.net
 dnsnanny.net
@@ -97807,6 +97819,7 @@ ads1.knxs.net
 koosk.net
 krxd.net
 kylyria.net
+ww1.lacierda.net
 lanchpad.net
 landirekt.net
 laooste.net
@@ -98893,6 +98906,18 @@ onnatural.net
 openx.net
 optimadns.net
 optofine.net
+dns2.or-tec.net
+esx4.or-tec.net
+mail.or-tec.net
+mail2.or-tec.net
+mailer.or-tec.net
+mailgw.or-tec.net
+mailx.or-tec.net
+mta.or-tec.net
+mx.or-tec.net
+mx4.or-tec.net
+smtp01.or-tec.net
+vmail.or-tec.net
 aw.owneriq.net
 aws-ec2-01.owneriq.net
 mail1.aws.owneriq.net
@@ -101507,6 +101532,7 @@ alertmanager.geopod-prod-a.eu-central-1b.aws.k8s.sendgrid.net
 blackbox.geopod-prod-a.eu-central-1b.aws.k8s.sendgrid.net
 prometheus.geopod-prod-a.eu-central-1b.aws.k8s.sendgrid.net
 alertmanager.mgmtdub1-prod.eu-west-1.aws.k8s.sendgrid.net
+am-aggregator.mgmtdub1-prod.eu-west-1.aws.k8s.sendgrid.net
 blackbox.mgmtdub1-prod.eu-west-1.aws.k8s.sendgrid.net
 capl-gw.mgmtdub1-prod.eu-west-1.aws.k8s.sendgrid.net
 hapi.mgmtdub1-prod.eu-west-1.aws.k8s.sendgrid.net
@@ -101631,6 +101657,7 @@ alertmanager.mgmtaws-stage.us-east-2.aws.k8s.sendgrid.net
 blackbox.mgmtaws-stage.us-east-2.aws.k8s.sendgrid.net
 prometheus.mgmtaws-stage.us-east-2.aws.k8s.sendgrid.net
 alertmanager.mgmtmdw1-stage.us-east-2.aws.k8s.sendgrid.net
+am-aggregator.mgmtmdw1-stage.us-east-2.aws.k8s.sendgrid.net
 blackbox.mgmtmdw1-stage.us-east-2.aws.k8s.sendgrid.net
 prometheus.mgmtmdw1-stage.us-east-2.aws.k8s.sendgrid.net
 alertmanager.asgard-prod-a.us-east-2a.aws.k8s.sendgrid.net
@@ -101799,7 +101826,10 @@ rgw.rook-ceph.asgard-prod-f.fra1.k8s.sendgrid.net
 alertmanager.asgard-prod-g.fra1.k8s.sendgrid.net
 atc-web.asgard-prod-g.fra1.k8s.sendgrid.net
 blackbox.asgard-prod-g.fra1.k8s.sendgrid.net
+deliverability-settings.asgard-prod-g.fra1.k8s.sendgrid.net
 ips.asgard-prod-g.fra1.k8s.sendgrid.net
+postoffice.asgard-prod-g.fra1.k8s.sendgrid.net
+prometheus.asgard-prod-g.fra1.k8s.sendgrid.net
 dash.rook-ceph.asgard-prod-g.fra1.k8s.sendgrid.net
 rgw.rook-ceph.asgard-prod-g.fra1.k8s.sendgrid.net
 alertmanager.general-prod-a.fra1.k8s.sendgrid.net
@@ -102529,6 +102559,7 @@ shim.iam.general-prod-a.mdw1.k8s.sendgrid.net
 imp.general-prod-a.mdw1.k8s.sendgrid.net
 ippoolutil.general-prod-a.mdw1.k8s.sendgrid.net
 ips.general-prod-a.mdw1.k8s.sendgrid.net
+kafkarest-p1-cup.general-prod-a.mdw1.k8s.sendgrid.net
 alertmanager.mail-pipeline.general-prod-a.mdw1.k8s.sendgrid.net
 mailsettings-p1mdw1.general-prod-a.mdw1.k8s.sendgrid.net
 mailsettings-p1mdw1-ing.general-prod-a.mdw1.k8s.sendgrid.net
@@ -102579,6 +102610,7 @@ shim-dev.iam.general-stage-a.mdw1.k8s.sendgrid.net
 imp.general-stage-a.mdw1.k8s.sendgrid.net
 ippoolutil.general-stage-a.mdw1.k8s.sendgrid.net
 ips.general-stage-a.mdw1.k8s.sendgrid.net
+kafkarest-s1-cup.general-stage-a.mdw1.k8s.sendgrid.net
 alertmanager.mail-pipeline.general-stage-a.mdw1.k8s.sendgrid.net
 mailsettings-s1mdw1.general-stage-a.mdw1.k8s.sendgrid.net
 mailsettings-s1mdw1-ing.general-stage-a.mdw1.k8s.sendgrid.net
@@ -104339,7 +104371,6 @@ aspinalfoundation.org
 assertj.org
 assistirfilmesonlinehd.org
 assistmypc.org
-mx4.assre.org
 assst.org
 assuranceinsurance.org
 atlantagamer.org
@@ -105350,7 +105381,9 @@ jordanembassyuk.org
 joucemeyer.org
 jpsschool.org
 jrc.org
-jsdc33jsod24.org
+ww1.jsdc33jsod24.org
+ww38.jsdc33jsod24.org
+www.jsdc33jsod24.org
 jsononlineeditor.org
 judgenow.org
 justintvizle.org
@@ -105856,10 +105889,7 @@ mx01.plp2.org
 mx10.plp2.org
 mx7.plp2.org
 vmail.plp2.org
-ww1.plp2.org
 ww16.plp2.org
-ww25.plp2.org
-ww38.plp2.org
 pmasterson.org
 poewiki.org
 policecanada.org
@@ -106491,7 +106521,6 @@ shoeman.org
 shopbs.org
 shrutinandan.org
 ww16.siapakepo.org
-ww25.siapakepo.org
 sidrith.org
 sikayethatti.org
 simkey.org
@@ -106975,8 +107004,6 @@ worldfoodprogram.org
 worldindata.org
 worldonfire.org
 staging.worldwarzfilm.org
-test.worldwarzfilm.org
-ww16.worldwarzfilm.org
 ww25.worldwarzfilm.org
 ww38.worldwarzfilm.org
 www.worldwarzfilm.org
@@ -115030,7 +115057,6 @@ adservio.tech
 armis.tech
 coinbasepro.tech
 sommelier.futurehybrid.tech
-rtb.instabid.tech
 volvelle.tech
 ads5.matichon.co.th
 truehits1.gits.net.th
@@ -115229,7 +115255,6 @@ openx.angelsgroup.org.uk
 adsfac.us
 amung.us
 mail.anonymousinsights.us
-www.anonymousinsights.us
 binances.us
 hudderostmaster.coinbasegive.us
 www.coinbasegive.us
