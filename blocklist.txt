@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336133
+# Ignored duplicates: 336210
 
 chameleon.ad
 pixel.ad
@@ -6879,9 +6879,6 @@ ads.bigchurch.com
 bigclicks.com
 bigdogdot.com
 ads.bigfoot.com
-mvideo.biggishgames.com
-ww1.biggishgames.com
-www.biggishgames.com
 biggsfashionsny.com
 logger-load-balancer.bigmarker.com
 bigmouthboatsupply.com
@@ -6904,6 +6901,7 @@ www.binancebegin.com
 binancebonus.com
 binancedeals.com
 www.binanceforce.com
+binancefree.com
 binancevalue.com
 binarybizz.com
 bindhertv.com
@@ -9917,7 +9915,6 @@ discovernative.com
 discoveryespanol.com
 discreetfield.com
 diseymovierewards.com
-www.disfloration.com
 disipapa.com
 disneiplatino.com
 disneneylatino.com
@@ -10096,6 +10093,7 @@ www.dns-analytics.com
 9n20lq0ql.dnset.com
 a888.dnset.com
 aasconnect.dnset.com
+absence-absolute.dnset.com
 abunesre.dnset.com
 acc-verification.dnset.com
 acc-verifyy.dnset.com
@@ -10443,6 +10441,7 @@ bravens19.dnset.com
 brenacasra.dnset.com
 brill.dnset.com
 britagent.dnset.com
+broadviewfcuprofilev2.dnset.com
 broughton.dnset.com
 bstm.dnset.com
 bu0gs2.dnset.com
@@ -10955,6 +10954,7 @@ drawspinpubg.dnset.com
 drawxpubg.dnset.com
 drawxsuitpubg.dnset.com
 dropboxserver.dnset.com
+droppy.dnset.com
 drowup5.dnset.com
 drusabo.dnset.com
 ds01-akptech.dnset.com
@@ -11301,6 +11301,7 @@ gilda-poles.dnset.com
 girararticulo19bug.dnset.com
 giveaway-skin2k20.dnset.com
 givecodashopml.dnset.com
+gj76dfrtryr.dnset.com
 glaciermax.dnset.com
 glbloodspin18.dnset.com
 glsc.dnset.com
@@ -11485,8 +11486,10 @@ iw3row.dnset.com
 iw3row-domotica.dnset.com
 j4k76u.dnset.com
 j4t1f.dnset.com
+jelly.dnset.com
 jetbkareta.dnset.com
 jetsurf.dnset.com
+sk.jfoew.dnset.com
 jiangshan.dnset.com
 jifesvede.dnset.com
 jimmy.dnset.com
@@ -11541,6 +11544,7 @@ kiosgamersfreee65.dnset.com
 klfsdfs.dnset.com
 knee.dnset.com
 knoihe.dnset.com
+know-knowledge.dnset.com
 koifsfdsf.dnset.com
 kolihome.dnset.com
 konfirmasi-tarif-bri.dnset.com
@@ -11942,6 +11946,7 @@ name.dnset.com
 namix.dnset.com
 namsahowsi.dnset.com
 codeserver.naquada.dnset.com
+delegate.naquada.dnset.com
 filebrowser.naquada.dnset.com
 fs22.naquada.dnset.com
 gamehost.naquada.dnset.com
@@ -12019,6 +12024,7 @@ nousliotradphi.dnset.com
 noustous.dnset.com
 now.dnset.com
 npereira.dnset.com
+nproxy.dnset.com
 nsfreeskin18.dnset.com
 nslarenitems.dnset.com
 nsmclareens1.dnset.com
@@ -12079,9 +12085,11 @@ officialeventbug.dnset.com
 offlce.dnset.com
 ogrfsfs.dnset.com
 ohmyga.dnset.com
+au.ohss.dnset.com
 oiran.dnset.com
 oksana.dnset.com
 omnitera.dnset.com
+omv.dnset.com
 oniine-sceurewlls.dnset.com
 onlin3chas3-secure07.dnset.com
 onlincitzverify.dnset.com
@@ -12219,6 +12227,7 @@ playervote.dnset.com
 playervotes.dnset.com
 playeventx.dnset.com
 pleasac1308.dnset.com
+plextv.dnset.com
 plicewknisheart.dnset.com
 plooster.dnset.com
 pltredsf.dnset.com
@@ -12232,6 +12241,7 @@ pointblank-free.dnset.com
 pointeventpes.dnset.com
 polarok.dnset.com
 porrimi.dnset.com
+porta.dnset.com
 sga.pos.dnset.com
 poseidonnew.dnset.com
 poseidonx.dnset.com
@@ -13203,6 +13213,7 @@ srwditems17.dnset.com
 ssw3lllsffrgooo.dnset.com
 stanzarp.dnset.com
 autoscan.stargate.dnset.com
+bazarr4k.stargate.dnset.com
 dash.stargate.dnset.com
 jackett.stargate.dnset.com
 lidarr.stargate.dnset.com
@@ -13214,6 +13225,7 @@ plex.stargate.dnset.com
 plex-webtools.stargate.dnset.com
 portainer.stargate.dnset.com
 radarr.stargate.dnset.com
+radarr4k.stargate.dnset.com
 rutorrent.stargate.dnset.com
 sonarr.stargate.dnset.com
 tautulli.stargate.dnset.com
@@ -13412,6 +13424,7 @@ tyoucompka.dnset.com
 cdn.u.dnset.com
 u96dw8.dnset.com
 uas.dnset.com
+ubooq.dnset.com
 uc-pubg-event-season10.dnset.com
 ucitempubgs6.dnset.com
 uclxsxiqxp.dnset.com
@@ -13670,6 +13683,7 @@ winnetcon.dnset.com
 winrar.dnset.com
 winsuper.dnset.com
 wishing.dnset.com
+without-witness.dnset.com
 wlc-legal.dnset.com
 wllssecure-online-verify.dnset.com
 wmti.dnset.com
@@ -17153,7 +17167,6 @@ crashlyticsreports-pa.googleapis.com
 firebaselogging-pa.googleapis.com
 test.firebaselogging.googleapis.com
 googleblack.com
-www.googlebussines.com
 googlecalender.com
 googleespn.com
 googlemaail.com
@@ -36268,8 +36281,6 @@ surveys.nielseniq.com
 night-cats.com
 nightfallroad.com
 nihulhon.com
-m.nikbor.com
-www.nikbor.com
 beiadsp1wadc001.ad.nike.com
 beiadsp1wadc002.ad.nike.com
 chsadsp1wadc002.ad.nike.com
@@ -49143,7 +49154,6 @@ safedk.com
 safety-search.com
 safeyoutube.com
 ww11.saffronsshanklin.com
-ww25.saffronsshanklin.com
 www.saffronsshanklin.com
 safronmarigold.com
 sail-horizon.com
@@ -50385,7 +50395,6 @@ shopayhome.com
 trk.a.shopdisney.com
 shophee.com
 shopkick.com
-www.shopnbastore.com
 shopofcosplay.com
 shoppingads.com
 logs-api.shoprunner.com
@@ -51069,6 +51078,7 @@ tableau.sojern.com
 tcfv2.sojern.com
 techops.sojern.com
 techops-staging.sojern.com
+techops2.sojern.com
 tops.sojern.com
 tops-staging.sojern.com
 tracker.sojern.com
@@ -54156,6 +54166,7 @@ pdw-flx1.userreport.com
 pdw-ipr.userreport.com
 pdw-pmt.userreport.com
 pdw-scl.userreport.com
+pdw-test.userreport.com
 pdw-usr.userreport.com
 postalcodes.userreport.com
 qa1-admin.userreport.com
@@ -58447,10 +58458,8 @@ advertisers.info
 aerjournal.info
 afreeurl.info
 mvideo.africanlegends.info
-ww1.africanlegends.info
 ww17.africanlegends.info
 ww25.africanlegends.info
-ww38.africanlegends.info
 www.africanlegends.info
 aftereffectvn.info
 ahhadesigns.info
@@ -58918,6 +58927,7 @@ bravotogel.info
 brazzers-hdx.info
 brshare.info
 brunei.info
+www.brzozow.info
 bt177.info
 antispam.btbt.info
 box.btbt.info
@@ -59244,12 +59254,6 @@ coinfo.info
 coinloft.info
 coinprobase.info
 cointracker.info
-gate.col3negshiran.info
-mail.col3negshiran.info
-mailrelay.col3negshiran.info
-ns1.col3negshiran.info
-old.col3negshiran.info
-www.col3negshiran.info
 collectivegap.info
 coltivazioneindoor.info
 come-fare.info
@@ -60048,6 +60052,7 @@ haodizhi3.info
 hapi.info
 happybook.info
 happytail.info
+harborbeachfarmersmarket.info
 hardis.info
 hargaproduk.info
 harmonielehre.info
@@ -60259,6 +60264,7 @@ lacle.info
 ladyzhyn.info
 lafamiglia.info
 lagupedia.info
+lajmi.info
 dewiq.laloo.info
 duvef.laloo.info
 fador.laloo.info
@@ -60390,6 +60396,7 @@ manapeddapuram.info
 manga-channel.info
 mangareading.info
 manualdekangoo.info
+manymany.info
 wallpapersafariphone.mapalaui.info
 ww1.mapalaui.info
 ww17.mapalaui.info
@@ -60400,7 +60407,10 @@ mapsmods.info
 mariaalm.info
 marokolastminute.info
 marthabeatriz.info
+mail.maslennikov.info
+ww1.maslennikov.info
 ww11.maslennikov.info
+www.maslennikov.info
 massagebykathy.info
 masscryp.info
 masterfilmesonlinegratis.info
@@ -60796,6 +60806,7 @@ ww25.paleoforbreakfast.info
 ww38.paleoforbreakfast.info
 www.paleoforbreakfast.info
 www.paleohub.info
+panchenlama.info
 passports.info
 www.passthetime.info
 pawno.info
@@ -61112,9 +61123,7 @@ preprod.quicktime-download.info
 prod.quicktime-download.info
 projects.quicktime-download.info
 qa.quicktime-download.info
-reports.quicktime-download.info
 rest.quicktime-download.info
-secure.quicktime-download.info
 service.quicktime-download.info
 shop.quicktime-download.info
 sistema.quicktime-download.info
@@ -61125,11 +61134,9 @@ staging-api.quicktime-download.info
 staging-steppyweb.quicktime-download.info
 status.quicktime-download.info
 system.quicktime-download.info
-taxi.quicktime-download.info
 uat.quicktime-download.info
 v1.quicktime-download.info
 v2.quicktime-download.info
-webapp.quicktime-download.info
 ww1.quicktime-download.info
 www.quicktime-download.info
 wx.quicktime-download.info
@@ -61240,6 +61247,8 @@ rpg-maker.info
 rtbnews.info
 ruensport.info
 ww1.rukodelnitsa.info
+ww38.rukodelnitsa.info
+www.rukodelnitsa.info
 mail.rumahmodernterbaik.info
 sitemap.rumahmodernterbaik.info
 sitemaps.rumahmodernterbaik.info
@@ -62274,6 +62283,7 @@ vacationdeals.info
 vaduz.info
 ww1.valuedirectories.info
 ww17.valuedirectories.info
+www.valuedirectories.info
 vatname.info
 cpcalendars.vbucksfortnitefree.info
 mail.vbucksfortnitefree.info
@@ -80791,9 +80801,9 @@ districtm.net
 ditme.net
 dividshub.net
 adv.dlh.net
-dsm.a.dlqm.net
-ml2k.a.dlqm.net
+a.dlqm.net
 b.dlqm.net
+s.dlqm.net
 s3.dlqm.net
 dm-event.net
 tofu-ssl.dmcdn.net
@@ -96535,6 +96545,8 @@ ero-videos.net
 escapicon.net
 esm1.net
 www.espaebook.net
+mx4.espeedteste.net
+www.espeedteste.net
 estrenodorama.net
 estudiaenlinea.net
 ad.ettoday.net
@@ -97614,6 +97626,7 @@ graphicdesignercourses.net
 cdn.gravitec.net
 greatestvacationtrips.net
 greatgardening.net
+grommetsplaza.net
 acmedia.gscontxt.net
 acmedia-ash.gscontxt.net
 adwebgr-fra.gscontxt.net
@@ -97705,7 +97718,6 @@ sdk.hockeyapp.net
 holohotel.net
 homeschoolingbenefits.net
 hoota.net
-houken.net
 hubspot-test-subdomain.hs-analytics.net
 js.hs-analytics.net
 js-eu1.hs-analytics.net
@@ -97831,7 +97843,6 @@ leadboltads.net
 custom-proxy.leadpages.net
 leakybasementrepair.net
 levelaccess.net
-lexustuning.net
 libertytaxservice.net
 lifeimpressions.net
 ads.lifethink.net
@@ -98906,6 +98917,7 @@ onnatural.net
 openx.net
 optimadns.net
 optofine.net
+dns1.or-tec.net
 dns2.or-tec.net
 esx4.or-tec.net
 mail.or-tec.net
@@ -103766,11 +103778,13 @@ synonimen.net
 cs905.wac.systemcdn.net
 tacticalconcealment.net
 tahoeindustries.net
+tamilrakers.net
 tamilshows.net
 adunion.tapas.net
 ggimg.tapas.net
 nrc.tapas.net
 ortshk.tapas.net
+tappeout.net
 targetix.net
 tcads.net
 cpt.test.technolutions.net
@@ -104819,6 +104833,7 @@ ww17.digitalminimalism.org
 www.digitalminimalism.org
 dirtyvideos.org
 disasterflorida.org
+discoverysummit.org
 distanceannauniv.org
 divineprovince.org
 diyarbakirescortbayan.org
@@ -105655,6 +105670,7 @@ ww25.muhs.org
 ww38.muhs.org
 www.muhs.org
 mundonatural.org
+musicalibre.org
 ads.muslimehelfen.org
 mutharaiyar.org
 my-stream.org
@@ -105878,8 +105894,6 @@ playtetris.org
 plela.org
 barracuda.plp2.org
 comune.plp2.org
-gacor10k.plp2.org
-gacor138.plp2.org
 host.plp2.org
 m.plp2.org
 mail1.plp2.org
@@ -105889,7 +105903,6 @@ mx01.plp2.org
 mx10.plp2.org
 mx7.plp2.org
 vmail.plp2.org
-ww16.plp2.org
 pmasterson.org
 poewiki.org
 policecanada.org
@@ -106738,6 +106751,7 @@ thegreenspace.org
 thehomeplanet.org
 theisa.org
 thejapanesekitchen.org
+thenewsreport.org
 thepartyanimal.org
 thepiratebayproxy.org
 thepiratebayt.org
@@ -106869,7 +106883,6 @@ usalerns.org
 lime.usalr.org
 ww1.usalr.org
 ww17.usalr.org
-www.usalr.org
 mail.usamnesty.org
 ns2.usamnesty.org
 ww1.usamnesty.org
@@ -107004,7 +107017,6 @@ worldfoodprogram.org
 worldindata.org
 worldonfire.org
 staging.worldwarzfilm.org
-ww25.worldwarzfilm.org
 ww38.worldwarzfilm.org
 www.worldwarzfilm.org
 woundedwariorproject.org
