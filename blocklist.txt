@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336210
+# Ignored duplicates: 336373
 
 chameleon.ad
 pixel.ad
@@ -5616,7 +5616,6 @@ ambitiousagreement.com
 ambra.com
 ambroseshoemaker.com
 mms.amc.com
-api.amdaws.com
 image.amdaws.com
 m.amdaws.com
 magento.amdaws.com
@@ -6897,6 +6896,7 @@ billywitchdoctor.com
 bilojobs.com
 services.bilsyndication.com
 binance2.com
+binance2x.com
 www.binancebegin.com
 binancebonus.com
 binancedeals.com
@@ -8325,7 +8325,6 @@ coinbasegold.com
 autodiscover.coinbaseone.com
 mail.coinbaseone.com
 www.coinbaseone.com
-coinbasepromotion.com
 coinbaserewards.com
 coinblind.com
 mail.coindeskbtc.com
@@ -14022,7 +14021,6 @@ dramaticcondition.com
 drbanner.com
 ww1.dreamameteurs.com
 ww11.dreamameteurs.com
-ww25.dreamameteurs.com
 www.dreamameteurs.com
 dreamameture.com
 dreambathinternational.com
@@ -15050,6 +15048,7 @@ fingersgames.com
 fiowertucci.com
 fipinocupid.com
 ads-game-187f4.firebaseapp.com
+firebasegoogle.com
 fireworkadservices.com
 fireworkanalytics.com
 fireworks-advertising.com
@@ -15289,8 +15288,6 @@ freefirearmsfx.com
 freejustteensite.com
 freelancemanga.com
 freelogs.com
-ww25.freemakevideo.com
-ww38.freemakevideo.com
 www.freemakevideo.com
 track.freemmo2017.com
 freemotorinsurancequote.com
@@ -16572,7 +16569,6 @@ ganoll.com
 securemetrics.gap.com
 ww11.gaqmepost.com
 ww25.gaqmepost.com
-www.gaqmepost.com
 dev.garantiephoenix.com
 shop.garantiephoenix.com
 test.garantiephoenix.com
@@ -16581,7 +16577,6 @@ ww16.garantiephoenix.com
 ww2.garantiephoenix.com
 ww25.garantiephoenix.com
 ww38.garantiephoenix.com
-www.garantiephoenix.com
 garce.com
 gardencityjeep.com
 appinfo.garenanow.com
@@ -17452,7 +17447,6 @@ guepiere.com
 guestionpro.com
 guffawdecipher.com
 guhafohu.com
-consider.guideamour.com
 guieco.com
 www.guiguiland.com
 guitarfedish.com
@@ -20199,7 +20193,6 @@ ludicrousarch.com
 luiviton.com
 lukassbprojects.com
 lula3d.com
-www.lulutong8899.com
 lulutuh.com
 lumberamount.com
 lungcancerguides.com
@@ -20410,8 +20403,6 @@ ww11.mangehere.com
 ww25.mangehere.com
 ww38.mangehere.com
 ww11.manjisstudio.com
-ww25.manjisstudio.com
-ww38.manjisstudio.com
 www.manjisstudio.com
 manroulett.com
 mansrun.com
@@ -21357,18 +21348,13 @@ auth.marzaniprogetti.com
 hermes.marzaniprogetti.com
 imap1.marzaniprogetti.com
 mail1.marzaniprogetti.com
-mail9.marzaniprogetti.com
 mailgate.marzaniprogetti.com
-ms.marzaniprogetti.com
 mx.marzaniprogetti.com
-mx10.marzaniprogetti.com
 ww25.ns1.marzaniprogetti.com
-out.marzaniprogetti.com
 pop.marzaniprogetti.com
 relay.marzaniprogetti.com
 smtpauth.marzaniprogetti.com
 ww11.marzaniprogetti.com
-ww25.marzaniprogetti.com
 www.marzaniprogetti.com
 masdejon.com
 mashero.com
@@ -41202,7 +41188,6 @@ ww11.originalredrooster.com
 ww17.originalredrooster.com
 ww2.originalredrooster.com
 ww25.originalredrooster.com
-www.originalredrooster.com
 originty.com
 oriori.com
 tracking.orixa-media.com
@@ -50804,7 +50789,6 @@ bo.promotions.skype.com
 skysporthd1.com
 tracking.skyword.com
 analytics.slashdotmedia.com
-ww25.slatetheschool.com
 ww38.slatetheschool.com
 www.slatetheschool.com
 sleeklogo.com
@@ -59770,7 +59754,6 @@ fatma.info
 fatorfiction.info
 fazu.info
 fcsite.info
-mail.ferdos.info
 ww16.ferdos.info
 ww17.ferdos.info
 ww2.ferdos.info
@@ -60820,7 +60803,6 @@ wlamazcsrv1.peepshow.info
 www.peepshow.info
 pelagia.info
 perfectcorner.info
-ww25.periscopeporn.info
 petrolbusiness.info
 petsupply.info
 ww17.pfshop.info
@@ -60917,11 +60899,16 @@ pravoznavec.info
 prchecker.info
 presents.info
 presidentielle.info
+ar.prespornoga.info
 be.prespornoga.info
 cs.prespornoga.info
 et.prespornoga.info
 fa.prespornoga.info
+hy.prespornoga.info
 lv.prespornoga.info
+pt.prespornoga.info
+tk.prespornoga.info
+tr.prespornoga.info
 www.prespornoga.info
 cpcalendars.presviter.info
 cpcontacts.presviter.info
@@ -61397,6 +61384,7 @@ ww1.seventorrents5.info
 ww11.seventorrents5.info
 ww17.seventorrents5.info
 ww25.seventorrents5.info
+ww38.seventorrents5.info
 www.seventorrents5.info
 everyoneflv.sexitunes.info
 expensiveavi.sexitunes.info
@@ -97597,6 +97585,7 @@ play.mine.gay-hotvideo.net
 www.quotes.gb.net
 ads.geekswithblogs.net
 geoplugin.net
+www.mail.germanstudy.net
 b-gi.getui.net
 b-gtc.getui.net
 b-gy.getui.net
@@ -98006,6 +97995,8 @@ lotop.net
 lovely-kiss.net
 lowfareticket.net
 lsimg.net
+comcast.lspeedtest.net
+ww1.lspeedtest.net
 luckyorange.net
 maillaposte.net
 ads.mainloop.net
@@ -98930,6 +98921,7 @@ mx.or-tec.net
 mx4.or-tec.net
 smtp01.or-tec.net
 vmail.or-tec.net
+www.or-tec.net
 aw.owneriq.net
 aws-ec2-01.owneriq.net
 mail1.aws.owneriq.net
@@ -103696,6 +103688,8 @@ specially4u.net
 collector.pi.spectrum.net
 speectest.net
 sperdtest.net
+backup.sporcash.net
+ww1.sporcash.net
 spulse.net
 srbiaulogin.net
 ss-omtrdc.net
@@ -105892,17 +105886,6 @@ platinumautosales.org
 playbuzz.org
 playtetris.org
 plela.org
-barracuda.plp2.org
-comune.plp2.org
-host.plp2.org
-m.plp2.org
-mail1.plp2.org
-mailhost.plp2.org
-mbox.plp2.org
-mx01.plp2.org
-mx10.plp2.org
-mx7.plp2.org
-vmail.plp2.org
 pmasterson.org
 poewiki.org
 policecanada.org
@@ -106533,7 +106516,6 @@ shikotv.org
 shoeman.org
 shopbs.org
 shrutinandan.org
-ww16.siapakepo.org
 sidrith.org
 sikayethatti.org
 simkey.org
@@ -106881,8 +106863,6 @@ usalears.org
 usalerans.org
 usalerns.org
 lime.usalr.org
-ww1.usalr.org
-ww17.usalr.org
 mail.usamnesty.org
 ns2.usamnesty.org
 ww1.usamnesty.org
