@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336373
+# Ignored duplicates: 336455
 
 chameleon.ad
 pixel.ad
@@ -5623,7 +5623,6 @@ mail.amdaws.com
 s3.amdaws.com
 shop.amdaws.com
 staging.amdaws.com
-www.amdaws.com
 amdgt.com
 ads.amdmb.com
 amefly.com
@@ -9102,6 +9101,7 @@ data-api-documentation.de-dev.cxense.com
 grafana.de-dev.cxense.com
 influxdb.de-dev.cxense.com
 kube-exec-controller.de-dev.cxense.com
+nginx.de-dev.cxense.com
 prom.de-dev.cxense.com
 wiremock.de-dev.cxense.com
 airflow.de-prod.cxense.com
@@ -9110,9 +9110,11 @@ buildfarm.de-prod.cxense.com
 data-api.de-prod.cxense.com
 data-api-documentation.de-prod.cxense.com
 dependency-track.de-prod.cxense.com
+git-stats.de-prod.cxense.com
 grafana.de-prod.cxense.com
 kube-exec-controller.de-prod.cxense.com
 prom.de-prod.cxense.com
+rp.de-prod.cxense.com
 topiclabeling.de-prod.cxense.com
 de26.cxense.com
 de295.cxense.com
@@ -15288,7 +15290,6 @@ freefirearmsfx.com
 freejustteensite.com
 freelancemanga.com
 freelogs.com
-www.freemakevideo.com
 track.freemmo2017.com
 freemotorinsurancequote.com
 freemotorinsurancequotes.com
@@ -16569,14 +16570,11 @@ ganoll.com
 securemetrics.gap.com
 ww11.gaqmepost.com
 ww25.gaqmepost.com
-dev.garantiephoenix.com
-shop.garantiephoenix.com
-test.garantiephoenix.com
+www.shop.garantiephoenix.com
 ww1.garantiephoenix.com
 ww16.garantiephoenix.com
 ww2.garantiephoenix.com
 ww25.garantiephoenix.com
-ww38.garantiephoenix.com
 garce.com
 gardencityjeep.com
 appinfo.garenanow.com
@@ -17176,7 +17174,9 @@ googleplsy.com
 googleprank.com
 googlerive.com
 googlesettings.com
-googlessites.com
+ww25.googlessites.com
+ww38.googlessites.com
+www.googlessites.com
 ade.googlesyndication.com
 afs.googlesyndication.com
 buttons.googlesyndication.com
@@ -18689,8 +18689,6 @@ jcpeenys.com
 jcpenne.com
 jcpenneeys.com
 jcpenneygiftcard.com
-ww1.jcpenneyscreditcard.com
-www.jcpenneyscreditcard.com
 jcpenneyshomestore.com
 jcpenniys.com
 jcpennyportaits.com
@@ -19254,7 +19252,8 @@ lightcast.leadscoringcenter.com
 leadspace.com
 t.leady.com
 leadzupc.com
-leaguoflegend.com
+eune.leaguoflegend.com
+tr.leaguoflegend.com
 leanplum.com
 leaplunchroom.com
 leapretrieval.com
@@ -19270,6 +19269,7 @@ leftliquid.com
 web.legalandgeneral.com
 leggoit.com
 static.legitscript.com
+www.legolanddiscovercenter.com
 legostarwarsthecompletesaga.com
 leial.com
 leiki.com
@@ -20402,7 +20402,6 @@ ww1.mangehere.com
 ww11.mangehere.com
 ww25.mangehere.com
 ww38.mangehere.com
-ww11.manjisstudio.com
 www.manjisstudio.com
 manroulett.com
 mansrun.com
@@ -41553,7 +41552,6 @@ parentpicture.com
 pargon.com
 post.paris-saillard.com
 relay.paris-saillard.com
-ww25.paris-saillard.com
 ww38.paris-saillard.com
 www.paris-saillard.com
 parkplacemotors.com
@@ -47979,7 +47977,6 @@ ww2.reyoutube.com
 ww5.reyoutube.com
 www.reyoutube.com
 rezonence.com
-ww25.rezultait.com
 rezutati.com
 rezync.com
 134842711840976p.rfihub.com
@@ -49119,6 +49116,7 @@ www.s5e5.com
 sa-shipyards.com
 saambaa.com
 ww11.sabdcosh.com
+ww25.sabdcosh.com
 www.sabdcosh.com
 saboeintenso.com
 sabrae.com
@@ -49139,7 +49137,6 @@ safedk.com
 safety-search.com
 safeyoutube.com
 ww11.saffronsshanklin.com
-www.saffronsshanklin.com
 safronmarigold.com
 sail-horizon.com
 api.sail-personalize.com
@@ -50789,7 +50786,6 @@ bo.promotions.skype.com
 skysporthd1.com
 tracking.skyword.com
 analytics.slashdotmedia.com
-ww38.slatetheschool.com
 www.slatetheschool.com
 sleeklogo.com
 sleeknote.com
@@ -51079,7 +51075,6 @@ somalioz.com
 sombersea.com
 sombersquirrel.com
 sombersurprise.com
-ww25.sonaaunty.com
 ww38.sonaaunty.com
 telemetry.sonarsource.com
 songaza.com
@@ -52567,8 +52562,7 @@ thedocpdfconverter.com
 thedoctopdf.com
 thedogfleas.com
 theearlyshowcbsnews.com
-mail.thegreatorder.com
-music.thegreatorder.com
+www.music.thegreatorder.com
 webdisk.thegreatorder.com
 www.thegreatorder.com
 hits.theguardian.com
@@ -55524,7 +55518,6 @@ wuzbhjpvsf.com
 ww-hsn.com
 wwbasspro.com
 wwcoach.com
-ww25.wwesport.com
 www.wwesport.com
 wwethemesongs.com
 wweyoutube.com
@@ -56579,7 +56572,6 @@ pn.ybp.yahoo.com
 pr.ybp.yahoo.com
 pr-apac.ybp.yahoo.com
 pr-bh.ybp.yahoo.com
-pr-bh-bucket.ybp.yahoo.com
 pr-bucket.ybp.yahoo.com
 pr-emea.ybp.yahoo.com
 pr-preprod.ybp.yahoo.com
@@ -58566,9 +58558,6 @@ authorise.info
 authorne.info
 autopaintrepairs.info
 autria.info
-12352.av18.info
-ww3.av18.info
-ww4.av18.info
 www.av18.info
 av815.info
 av99cn.info
@@ -60511,6 +60500,7 @@ www70.mobilesales.info
 modelismo-naval.info
 www.modernart.info
 moerbisch.info
+www.molnii.info
 momonoyu.info
 moncherie.info
 monngonmoingay.info
@@ -60617,6 +60607,7 @@ www.nanotehnologija.info
 narmedlek.info
 nassau.info
 ww11.natureshop.info
+ww25.natureshop.info
 ww38.natureshop.info
 www.natureshop.info
 navzdy.info
@@ -61378,6 +61369,7 @@ ww16.sese377.info
 ww25.sese377.info
 www.sese377.info
 sese755.info
+mail.seventorrents5.info
 mvideo.seventorrents5.info
 sitemap.seventorrents5.info
 ww1.seventorrents5.info
@@ -62404,7 +62396,6 @@ ww17.welda.info
 actioncam.wesua.info
 airmouse.wesua.info
 baelfor.wesua.info
-binokl-top.wesua.info
 carcam.wesua.info
 carheater.wesua.info
 cleanstep.wesua.info
@@ -64499,6 +64490,7 @@ custom.plausible.io
 custom-new.plausible.io
 e47b4959.plausible.io
 feedback.plausible.io
+ingest.plausible.io
 journal.plausible.io
 kb.plausible.io
 ingress.lb.plausible.io
@@ -77962,7 +77954,6 @@ srv.audienceinsights.net
 statics.audienceinsights.net
 tatic.audienceinsights.net
 vmail.audienceinsights.net
-whois.audienceinsights.net
 ww.audienceinsights.net
 www.audienceinsights.net
 www1.audienceinsights.net
@@ -97112,6 +97103,7 @@ fineoffer.net
 fishingclub.net
 flero.net
 flippty.net
+www.flouwhot.net
 flutterbyfields.net
 static.fmpub.net
 cdn.best-tv.com.c.footprint.net
@@ -97585,6 +97577,7 @@ play.mine.gay-hotvideo.net
 www.quotes.gb.net
 ads.geekswithblogs.net
 geoplugin.net
+bypass.germanstudy.net
 www.mail.germanstudy.net
 b-gi.getui.net
 b-gtc.getui.net
@@ -97821,6 +97814,11 @@ koosk.net
 krxd.net
 kylyria.net
 ww1.lacierda.net
+ww25.lacierda.net
+www12.lacierda.net
+www14.lacierda.net
+www42.lacierda.net
+www6.lacierda.net
 lanchpad.net
 landirekt.net
 laooste.net
@@ -97997,6 +97995,8 @@ lowfareticket.net
 lsimg.net
 comcast.lspeedtest.net
 ww1.lspeedtest.net
+ww25.lspeedtest.net
+www.lspeedtest.net
 luckyorange.net
 maillaposte.net
 ads.mainloop.net
@@ -98432,6 +98432,8 @@ nsleep.net
 nuggad.net
 ads.nyi.net
 marketing.nyi.net
+ww17.nylonmilf.net
+ww25.nylonmilf.net
 nymburk.net
 adcanopus.offerstrack.net
 adgood.offerstrack.net
@@ -105369,7 +105371,16 @@ itsajeep.org
 iuhelath.org
 iyns.org
 jabook.org
-jaffbooks.org
+citrix.jaffbooks.org
+dev.jaffbooks.org
+mail.jaffbooks.org
+old.jaffbooks.org
+shop.jaffbooks.org
+sitemap.jaffbooks.org
+test.jaffbooks.org
+ww1.jaffbooks.org
+ww17.jaffbooks.org
+ww25.jaffbooks.org
 jailbase.org
 jaketm.org
 javlibrary.org
@@ -105905,6 +105916,13 @@ prajakeeya.org
 prebid.org
 preparetexas.org
 presion.org
+comune.primarysourcelearning.org
+hermes.primarysourcelearning.org
+mx1.primarysourcelearning.org
+mx5.primarysourcelearning.org
+vmail.primarysourcelearning.org
+ww17.primarysourcelearning.org
+ww38.primarysourcelearning.org
 primejailbait.org
 prismarc.org
 privacy-center.org
@@ -106996,9 +107014,7 @@ worldchanel.org
 worldfoodprogram.org
 worldindata.org
 worldonfire.org
-staging.worldwarzfilm.org
 ww38.worldwarzfilm.org
-www.worldwarzfilm.org
 woundedwariorproject.org
 wp11.org
 wpswpatester.org
