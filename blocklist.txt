@@ -2,9 +2,8 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336455
+# Ignored duplicates: 336482
 
-chameleon.ad
 pixel.ad
 roq.ad
 ads.emirates.net.ae
@@ -201,7 +200,6 @@ banners.bol.com.br
 www3.convergenciadigital.com.br
 adserver.diariodosertao.com.br
 anuncios.edicaoms.com.br
-ads.egrana.com.br
 goiasprodutos.com.br
 ads.ibest.com.br
 ad.jacotei.com.br
@@ -5639,7 +5637,6 @@ americanironhorse.com
 aaa.americanlibertyscolarship.com
 ww1.americanlibertyscolarship.com
 ww5.americanlibertyscolarship.com
-www.americanlibertyscolarship.com
 americanmotorcycleassociation.com
 americanskiff.com
 americash.com
@@ -8280,14 +8277,7 @@ cnwpu.com
 cnzz.com
 ads.co.com
 co5n3nerm6arapo7ny.com
-antispam.coachingandcoaches.com
 mail.comune.coachingandcoaches.com
-gate.coachingandcoaches.com
-host.coachingandcoaches.com
-mail.coachingandcoaches.com
-ms.coachingandcoaches.com
-outmail.coachingandcoaches.com
-webdisk.coachingandcoaches.com
 coasttocoastcarports.com
 traffic.prod.cobaltgroup.com
 cobraelect.com
@@ -14022,7 +14012,6 @@ dramasoloist.com
 dramaticcondition.com
 drbanner.com
 ww1.dreamameteurs.com
-ww11.dreamameteurs.com
 www.dreamameteurs.com
 dreamameture.com
 dreambathinternational.com
@@ -14531,7 +14520,7 @@ art.elmokhtabar.com
 authsmtp.elmokhtabar.com
 correo.elmokhtabar.com
 eml.elmokhtabar.com
-esults.elmokhtabar.com
+ww25.esults.elmokhtabar.com
 gateway.elmokhtabar.com
 gw.elmokhtabar.com
 home.elmokhtabar.com
@@ -16569,7 +16558,6 @@ atoms.gannettdigital.com
 ganoll.com
 securemetrics.gap.com
 ww11.gaqmepost.com
-ww25.gaqmepost.com
 www.shop.garantiephoenix.com
 ww1.garantiephoenix.com
 ww16.garantiephoenix.com
@@ -17174,7 +17162,6 @@ googleplsy.com
 googleprank.com
 googlerive.com
 googlesettings.com
-ww25.googlessites.com
 ww38.googlessites.com
 www.googlessites.com
 ade.googlesyndication.com
@@ -19187,7 +19174,6 @@ latestflashupdates.com
 latexmatresscompany.com
 ads.latinongroup.com
 laughablecopper.com
-laughcloth.com
 launchbit.com
 app.launchdarkly.com
 clientsdk.launchdarkly.com
@@ -19252,8 +19238,6 @@ lightcast.leadscoringcenter.com
 leadspace.com
 t.leady.com
 leadzupc.com
-eune.leaguoflegend.com
-tr.leaguoflegend.com
 leanplum.com
 leaplunchroom.com
 leapretrieval.com
@@ -19269,6 +19253,7 @@ leftliquid.com
 web.legalandgeneral.com
 leggoit.com
 static.legitscript.com
+ww1.legolanddiscovercenter.com
 www.legolanddiscovercenter.com
 legostarwarsthecompletesaga.com
 leial.com
@@ -19457,6 +19442,7 @@ vamail2.linksynergy.com
 vamail3.linksynergy.com
 m.www.linksynergy.com
 linktarget.com
+linkvertise.com
 liquidm.com
 lisasophia.com
 lisnr.com
@@ -20402,7 +20388,6 @@ ww1.mangehere.com
 ww11.mangehere.com
 ww25.mangehere.com
 ww38.mangehere.com
-www.manjisstudio.com
 manroulett.com
 mansrun.com
 mantisadnetwork.com
@@ -41181,8 +41166,6 @@ markhor.organicfruitapps.com
 orgazmika.com
 orgoogle.com
 originalgiftcompany.com
-sitemap.originalredrooster.com
-ww1.originalredrooster.com
 ww11.originalredrooster.com
 ww17.originalredrooster.com
 ww2.originalredrooster.com
@@ -42575,7 +42558,6 @@ tachyon.postaffiliatepro.com
 talkatoo.postaffiliatepro.com
 tegroup.postaffiliatepro.com
 templates.postaffiliatepro.com
-terrakeys.postaffiliatepro.com
 thebooknookstore.postaffiliatepro.com
 thefreedomformula.postaffiliatepro.com
 thejacketmaker.postaffiliatepro.com
@@ -42729,6 +42711,7 @@ priceypies.com
 priefy.com
 ads.printscr.com
 ads.prisacom.com
+track.privacyatclearbit.com
 privatecash.com
 privateteenmovies.com
 privy.com
@@ -47965,6 +47948,7 @@ revprotect.com
 revrelations.com
 revrtb.com
 revsq0.com
+revstats.com
 rewardsecure.com
 collect.rewardstyle.com
 reyden-x.com
@@ -51075,7 +51059,6 @@ somalioz.com
 sombersea.com
 sombersquirrel.com
 sombersurprise.com
-ww38.sonaaunty.com
 telemetry.sonarsource.com
 songaza.com
 sonobi.com
@@ -52807,7 +52790,6 @@ www.topdisplaynetwork.com
 topfifty.com
 topforall.com
 toppmarkensverige.com
-toprebates.com
 topsir.com
 topssneakers.com
 topstats.com
@@ -54420,7 +54402,6 @@ vidora.com
 vidsdbm.com
 www.vidyoutube.com
 ww1.vienamairline.com
-www.vienamairline.com
 viewbix.com
 viewdeos.com
 viewsignage.com
@@ -56577,7 +56558,6 @@ pr-emea.ybp.yahoo.com
 pr-preprod.ybp.yahoo.com
 pr-preprod-2.ybp.yahoo.com
 pr-test.ybp.yahoo.com
-stg-api.ybp.yahoo.com
 bid.stg.ybp.yahoo.com
 pr.stg.ybp.yahoo.com
 test-pr-bh.ybp.yahoo.com
@@ -58433,10 +58413,7 @@ adm-vids.info
 advertisers.info
 aerjournal.info
 afreeurl.info
-mvideo.africanlegends.info
 ww17.africanlegends.info
-ww25.africanlegends.info
-www.africanlegends.info
 aftereffectvn.info
 ahhadesigns.info
 ainu.info
@@ -58845,8 +58822,12 @@ bluenews.info
 boatrental.info
 bockchain.info
 bodenmarkt.info
+mvideo.bodybilding.info
+ww1.bodybilding.info
 ww11.bodybilding.info
+ww12.bodybilding.info
 ww17.bodybilding.info
+ww7.bodybilding.info
 www.bodybilding.info
 bokepgratiz.info
 bokepsmp.info
@@ -59743,10 +59724,8 @@ fatma.info
 fatorfiction.info
 fazu.info
 fcsite.info
-ww16.ferdos.info
 ww17.ferdos.info
 ww2.ferdos.info
-ww25.ferdos.info
 ww3.ferdos.info
 ww38.ferdos.info
 ferienhausinnorwegen.info
@@ -60900,6 +60879,8 @@ lv.prespornoga.info
 pt.prespornoga.info
 tk.prespornoga.info
 tr.prespornoga.info
+ww17.prespornoga.info
+ww38.prespornoga.info
 www.prespornoga.info
 cpcalendars.presviter.info
 cpcontacts.presviter.info
@@ -61588,7 +61569,6 @@ temuko.sumariados.info
 upla.sumariados.info
 ww1.sumariados.info
 ww16.sumariados.info
-ww38.sumariados.info
 webdisk.sunbuster.info
 www.sunbuster.info
 sunderlandinsurance.info
@@ -62298,7 +62278,6 @@ www.verthewalkingdeadonline.info
 mail.vestige.info
 webdisk.vestige.info
 www.vestige.info
-ww1.vhotdownload.info
 ww17.vhotdownload.info
 ww2.vhotdownload.info
 ww25.vhotdownload.info
@@ -62394,7 +62373,6 @@ ww1.welda.info
 ww17.welda.info
 3d.wesua.info
 actioncam.wesua.info
-airmouse.wesua.info
 baelfor.wesua.info
 carcam.wesua.info
 carheater.wesua.info
@@ -62435,7 +62413,6 @@ renumax.wesua.info
 rmilod.wesua.info
 rmolnia.wesua.info
 rpodob.wesua.info
-rsilik.wesua.info
 rtrack.wesua.info
 rvidreg.wesua.info
 salad.wesua.info
@@ -62753,7 +62730,6 @@ adnami.io
 adnami2.io
 adpredictive.io
 dy.adserve.io
-adstage.io
 3p-pix.adstk.io
 conv-pix.adstk.io
 doraemon.adstk.io
@@ -77716,6 +77692,23 @@ x8yzo.amazingvacationhomesfl.net
 analytics-active.net
 box.anchorfree.net
 androiddownload.net
+authsmtp.angelataylor.net
+email.angelataylor.net
+m.angelataylor.net
+mail01.angelataylor.net
+mail1.angelataylor.net
+mail10.angelataylor.net
+mailer.angelataylor.net
+mailin.angelataylor.net
+mailout.angelataylor.net
+mta1.angelataylor.net
+postmaster.angelataylor.net
+relay.angelataylor.net
+secure.angelataylor.net
+server.angelataylor.net
+smtps.angelataylor.net
+www.angelataylor.net
+www1.angelataylor.net
 anime-sharing.net
 anng.net
 anobi.net
@@ -77864,7 +77857,6 @@ atsem.net
 auctionads.net
 0tatic.audienceinsights.net
 antispam.audienceinsights.net
-auth.audienceinsights.net
 authsmtp.audienceinsights.net
 barracuda.audienceinsights.net
 comune.audienceinsights.net
@@ -77873,18 +77865,13 @@ ecure.audienceinsights.net
 email.audienceinsights.net
 er.audienceinsights.net
 er-br.audienceinsights.net
-er-de.audienceinsights.net
 er-es.audienceinsights.net
-er-it.audienceinsights.net
-er-uk.audienceinsights.net
 gate.audienceinsights.net
 gateway.audienceinsights.net
 gw.audienceinsights.net
 hermes.audienceinsights.net
 home.audienceinsights.net
 host.audienceinsights.net
-imap1.audienceinsights.net
-imap2.audienceinsights.net
 l.audienceinsights.net
 m.audienceinsights.net
 mail.audienceinsights.net
@@ -77901,10 +77888,7 @@ mail7.audienceinsights.net
 mailbox.audienceinsights.net
 mailer.audienceinsights.net
 mailgate.audienceinsights.net
-mailgw.audienceinsights.net
-mailhost.audienceinsights.net
 mailin.audienceinsights.net
-mailout.audienceinsights.net
 mailrelay.audienceinsights.net
 mails.audienceinsights.net
 mailserver.audienceinsights.net
@@ -77918,7 +77902,6 @@ mx.audienceinsights.net
 mx0.audienceinsights.net
 mx01.audienceinsights.net
 mx02.audienceinsights.net
-mx1.audienceinsights.net
 mx2.audienceinsights.net
 mx20.audienceinsights.net
 mx3.audienceinsights.net
@@ -77937,7 +77920,6 @@ pop.audienceinsights.net
 post.audienceinsights.net
 posta.audienceinsights.net
 postmaster.audienceinsights.net
-relay.audienceinsights.net
 relay1.audienceinsights.net
 relay2.audienceinsights.net
 root.audienceinsights.net
@@ -96406,12 +96388,6 @@ wildcard46.akstat.io.edgekey.net
 static.dable.io.edgekey.net
 moatpixel1.edgekey.net
 http2.monetate.edgekey.net
-cdn.clicktale.net.edgekey.net
-cdn-dsa.clicktale.net.edgekey.net
-cdna-dsa.clicktale.net.edgekey.net
-conductor.clicktale.net.edgekey.net
-ir-conductor.clicktale.net.edgekey.net
-sptc.clicktale.net.edgekey.net
 wildcard.marketo.net.edgekey.net
 tt.omtrdc.net.edgekey.net
 wildcard.owneriq.net.edgekey.net
@@ -97086,6 +97062,7 @@ win-media.fastclick.net
 www.fastclick.net
 fastcomputerrepairs.net
 krxd.net.c.global-ssl.fastly.net
+newrelic.map.fastly.net
 sonobi-go.map.fastly.net
 taboola.map.fastly.net
 t.wayfair.map.fastly.net
@@ -97099,6 +97076,7 @@ wkxppshj-qx.global.ssl.fastly.net
 prod.contextweb.map.fastlylb.net
 feminicidios.net
 fickeria.net
+fickparties.net
 fineoffer.net
 fishingclub.net
 flero.net
@@ -97815,6 +97793,7 @@ krxd.net
 kylyria.net
 ww1.lacierda.net
 ww25.lacierda.net
+ww31.lacierda.net
 www12.lacierda.net
 www14.lacierda.net
 www42.lacierda.net
@@ -98910,20 +98889,43 @@ onnatural.net
 openx.net
 optimadns.net
 optofine.net
+box.or-tec.net
+com.or-tec.net
+mail.comune.or-tec.net
 dns1.or-tec.net
 dns2.or-tec.net
+email.or-tec.net
 esx4.or-tec.net
+imap1.or-tec.net
+imap2.or-tec.net
+ipe.or-tec.net
 mail.or-tec.net
+mail12.or-tec.net
 mail2.or-tec.net
 mailer.or-tec.net
+mailgate.or-tec.net
 mailgw.or-tec.net
+mailout.or-tec.net
+mailrelay.or-tec.net
+mailserver.or-tec.net
 mailx.or-tec.net
 mta.or-tec.net
 mx.or-tec.net
+mx20.or-tec.net
 mx4.or-tec.net
+mx5.or-tec.net
+ns1.or-tec.net
+ns2.or-tec.net
+pbrand.or-tec.net
+poczta.or-tec.net
+relay.or-tec.net
+secure.or-tec.net
+server.or-tec.net
+server1.or-tec.net
 smtp01.or-tec.net
 vmail.or-tec.net
 www.or-tec.net
+www1.or-tec.net
 aw.owneriq.net
 aws-ec2-01.owneriq.net
 mail1.aws.owneriq.net
@@ -104395,6 +104397,7 @@ auversup.org
 www.avtoru.org
 awanas.org
 awshs.org
+www.ayetelkursi.org
 ayso177.org
 ayudapsicologica.org
 azarab.org
@@ -105375,9 +105378,6 @@ citrix.jaffbooks.org
 dev.jaffbooks.org
 mail.jaffbooks.org
 old.jaffbooks.org
-shop.jaffbooks.org
-sitemap.jaffbooks.org
-test.jaffbooks.org
 ww1.jaffbooks.org
 ww17.jaffbooks.org
 ww25.jaffbooks.org
@@ -105565,6 +105565,7 @@ medadgujarat.org
 mediash.org
 medicalquestionsanswers.org
 mediterraneangenweb.org
+www.mejoresaplicacionesandroid.org
 memberclicks.org
 memebase.org
 men-deps.org
@@ -105715,7 +105716,6 @@ mx0.nationalfurniturebank.org
 smtps.nationalfurniturebank.org
 smtpseguro.nationalfurniturebank.org
 sniper.nationalfurniturebank.org
-ww1.nationalfurniturebank.org
 ww16.nationalfurniturebank.org
 ww25.nationalfurniturebank.org
 ww38.nationalfurniturebank.org
@@ -107014,7 +107014,6 @@ worldchanel.org
 worldfoodprogram.org
 worldindata.org
 worldonfire.org
-ww38.worldwarzfilm.org
 woundedwariorproject.org
 wp11.org
 wpswpatester.org
