@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336482
+# Ignored duplicates: 336525
 
 pixel.ad
 roq.ad
@@ -1691,7 +1691,6 @@ accuspina.com
 acdelcostore.com
 wlamazcsrv1.acebiik.com
 ww25.acebiik.com
-ww38.acebiik.com
 acebk.com
 acecashexpres.com
 aceguarulhos.com
@@ -5634,7 +5633,6 @@ americaneaglesoutfitter.com
 ep.americanexpress.com
 iwmap.americanexpress.com
 americanironhorse.com
-aaa.americanlibertyscolarship.com
 ww1.americanlibertyscolarship.com
 ww5.americanlibertyscolarship.com
 americanmotorcycleassociation.com
@@ -8277,7 +8275,6 @@ cnwpu.com
 cnzz.com
 ads.co.com
 co5n3nerm6arapo7ny.com
-mail.comune.coachingandcoaches.com
 coasttocoastcarports.com
 traffic.prod.cobaltgroup.com
 cobraelect.com
@@ -14011,8 +14008,6 @@ dragzebra.com
 dramasoloist.com
 dramaticcondition.com
 drbanner.com
-ww1.dreamameteurs.com
-www.dreamameteurs.com
 dreamameture.com
 dreambathinternational.com
 dreamfeets.com
@@ -14541,7 +14536,7 @@ poczta.elmokhtabar.com
 ww25.pop3.elmokhtabar.com
 relay.elmokhtabar.com
 relay1.elmokhtabar.com
-result.elmokhtabar.com
+ww25.result.elmokhtabar.com
 results.elmokhtabar.com
 root.elmokhtabar.com
 server2.elmokhtabar.com
@@ -16562,7 +16557,6 @@ www.shop.garantiephoenix.com
 ww1.garantiephoenix.com
 ww16.garantiephoenix.com
 ww2.garantiephoenix.com
-ww25.garantiephoenix.com
 garce.com
 gardencityjeep.com
 appinfo.garenanow.com
@@ -18726,7 +18720,7 @@ d.joinhoney.com
 s.joinhoney.com
 jointag.com
 joneswear.com
-jop4uae.com
+www.jop4uae.com
 jopincyprus.com
 jordanwether.com
 jostonsyearbooks.com
@@ -19133,7 +19127,7 @@ kugocu.com
 kugut.com
 kuireg.com
 hb.kumma.com
-kuntipstudio.com
+www.kuntipstudio.com
 kurandakihidayet.com
 kurdrojh.com
 kusharice.com
@@ -19278,7 +19272,6 @@ levyeasthouse.com
 track.lexico.com
 lfeeder.com
 lfstmedia.com
-lgledtv.com
 lgsmartad.com
 b-code.liadm.com
 b-dcr-production.liadm.com
@@ -21328,18 +21321,6 @@ martinewebster.com
 maruthuvam.com
 marveikids.com
 maryksyintouch.com
-auth.marzaniprogetti.com
-hermes.marzaniprogetti.com
-imap1.marzaniprogetti.com
-mail1.marzaniprogetti.com
-mailgate.marzaniprogetti.com
-mx.marzaniprogetti.com
-ww25.ns1.marzaniprogetti.com
-pop.marzaniprogetti.com
-relay.marzaniprogetti.com
-smtpauth.marzaniprogetti.com
-ww11.marzaniprogetti.com
-www.marzaniprogetti.com
 masdejon.com
 mashero.com
 mashface.com
@@ -41166,7 +41147,6 @@ markhor.organicfruitapps.com
 orgazmika.com
 orgoogle.com
 originalgiftcompany.com
-ww11.originalredrooster.com
 ww17.originalredrooster.com
 ww2.originalredrooster.com
 ww25.originalredrooster.com
@@ -41535,7 +41515,6 @@ parentpicture.com
 pargon.com
 post.paris-saillard.com
 relay.paris-saillard.com
-ww38.paris-saillard.com
 www.paris-saillard.com
 parkplacemotors.com
 parrz.com
@@ -51006,7 +50985,6 @@ doc.sojern.com
 email.sojern.com
 es.sojern.com
 france.sojern.com
-go.sojern.com
 handbook.sojern.com
 hub.sojern.com
 impressions.sojern.com
@@ -58413,7 +58391,6 @@ adm-vids.info
 advertisers.info
 aerjournal.info
 afreeurl.info
-ww17.africanlegends.info
 aftereffectvn.info
 ahhadesigns.info
 ainu.info
@@ -58827,6 +58804,7 @@ ww1.bodybilding.info
 ww11.bodybilding.info
 ww12.bodybilding.info
 ww17.bodybilding.info
+ww38.bodybilding.info
 ww7.bodybilding.info
 www.bodybilding.info
 bokepgratiz.info
@@ -59724,10 +59702,6 @@ fatma.info
 fatorfiction.info
 fazu.info
 fcsite.info
-ww17.ferdos.info
-ww2.ferdos.info
-ww3.ferdos.info
-ww38.ferdos.info
 ferienhausinnorwegen.info
 antispam.figvam.info
 correo.figvam.info
@@ -60366,13 +60340,11 @@ massagebykathy.info
 masscryp.info
 masterfilmesonlinegratis.info
 root.matureanal.info
-ww1.matureanal.info
 ww11.matureanal.info
 ww16.matureanal.info
 ww17.matureanal.info
 ww2.matureanal.info
 ww25.matureanal.info
-ww38.matureanal.info
 www.matureanal.info
 maxmaillots.info
 mayrhofen.info
@@ -60492,9 +60464,6 @@ www.mosrenta.info
 motordealer.info
 mail.mouth-is-the-sun.info
 mta-sts.mouth-is-the-sun.info
-mvideo.mouth-is-the-sun.info
-sitemap.mouth-is-the-sun.info
-sitemaps.mouth-is-the-sun.info
 ww1.mouth-is-the-sun.info
 ww25.mouth-is-the-sun.info
 ww38.mouth-is-the-sun.info
@@ -60872,11 +60841,27 @@ presidentielle.info
 ar.prespornoga.info
 be.prespornoga.info
 cs.prespornoga.info
+da.prespornoga.info
 et.prespornoga.info
 fa.prespornoga.info
+ga.prespornoga.info
+he.prespornoga.info
+hi.prespornoga.info
+hr.prespornoga.info
 hy.prespornoga.info
+is.prespornoga.info
+km.prespornoga.info
+ky.prespornoga.info
 lv.prespornoga.info
+ne.prespornoga.info
+pa.prespornoga.info
+pl.prespornoga.info
 pt.prespornoga.info
+ru.prespornoga.info
+sr.prespornoga.info
+sv.prespornoga.info
+sw.prespornoga.info
+tg.prespornoga.info
 tk.prespornoga.info
 tr.prespornoga.info
 ww17.prespornoga.info
@@ -61097,6 +61082,8 @@ uat.quicktime-download.info
 v1.quicktime-download.info
 v2.quicktime-download.info
 ww1.quicktime-download.info
+ww17.quicktime-download.info
+ww38.quicktime-download.info
 www.quicktime-download.info
 wx.quicktime-download.info
 rabidshare.info
@@ -62281,7 +62268,6 @@ www.vestige.info
 ww17.vhotdownload.info
 ww2.vhotdownload.info
 ww25.vhotdownload.info
-ww38.vhotdownload.info
 www.vhotdownload.info
 ww1.videoindir.info
 ww16.videoindir.info
@@ -70138,7 +70124,6 @@ zimowaofertarabatowamcdonalds.sjv.io
 ziptop.sjv.io
 smart-traffik.io
 smarterhq.io
-web-analytics.smile.io
 snapsmedia.io
 sophi.io
 static.sparechange.io
@@ -77911,8 +77896,6 @@ mx7.audienceinsights.net
 mxs.audienceinsights.net
 netsecure.audienceinsights.net
 ns.audienceinsights.net
-ns1.audienceinsights.net
-ns2.audienceinsights.net
 out.audienceinsights.net
 po.audienceinsights.net
 poczta.audienceinsights.net
@@ -77933,7 +77916,6 @@ smtps.audienceinsights.net
 smtpseguro.audienceinsights.net
 sniper.audienceinsights.net
 srv.audienceinsights.net
-statics.audienceinsights.net
 tatic.audienceinsights.net
 vmail.audienceinsights.net
 ww.audienceinsights.net
@@ -97081,7 +97063,7 @@ fineoffer.net
 fishingclub.net
 flero.net
 flippty.net
-www.flouwhot.net
+flouwhot.net
 flutterbyfields.net
 static.fmpub.net
 cdn.best-tv.com.c.footprint.net
@@ -97193,7 +97175,6 @@ alertmanager.dev.synergy.aws.fwmrm.net
 argo-workflows.dev.synergy.aws.fwmrm.net
 auth.dev.synergy.aws.fwmrm.net
 grafana.dev.synergy.aws.fwmrm.net
-kiali.dev.synergy.aws.fwmrm.net
 otel-collector.dev.synergy.aws.fwmrm.net
 prometheus.dev.synergy.aws.fwmrm.net
 thanos-bucket.dev.synergy.aws.fwmrm.net
@@ -98167,6 +98148,9 @@ mkt61.net
 mkt81.net
 a.mktw.net
 www.mmatv.net
+ww1.mobil4ik.net
+ww17.mobil4ik.net
+ww38.mobil4ik.net
 mobuna.net
 models24seven.net
 monbell.net
@@ -98411,8 +98395,10 @@ nsleep.net
 nuggad.net
 ads.nyi.net
 marketing.nyi.net
+ww1.nylonmilf.net
 ww17.nylonmilf.net
 ww25.nylonmilf.net
+ww38.nylonmilf.net
 nymburk.net
 adcanopus.offerstrack.net
 adgood.offerstrack.net
@@ -98896,12 +98882,15 @@ dns1.or-tec.net
 dns2.or-tec.net
 email.or-tec.net
 esx4.or-tec.net
+hermes.or-tec.net
 imap1.or-tec.net
 imap2.or-tec.net
 ipe.or-tec.net
 mail.or-tec.net
 mail12.or-tec.net
 mail2.or-tec.net
+mail4.or-tec.net
+mailapp.or-tec.net
 mailer.or-tec.net
 mailgate.or-tec.net
 mailgw.or-tec.net
@@ -98916,13 +98905,17 @@ mx4.or-tec.net
 mx5.or-tec.net
 ns1.or-tec.net
 ns2.or-tec.net
+outmail.or-tec.net
 pbrand.or-tec.net
 poczta.or-tec.net
+posta.or-tec.net
 relay.or-tec.net
+relay2.or-tec.net
 secure.or-tec.net
 server.or-tec.net
 server1.or-tec.net
 smtp01.or-tec.net
+srv.or-tec.net
 vmail.or-tec.net
 www.or-tec.net
 www1.or-tec.net
@@ -98976,6 +98969,7 @@ www.owneriq.net
 ads.p161.net
 pages03.net
 www.sc.pages06.net
+ww25.paimt.net
 palimas.net
 panniniamerica.net
 panties-area.net
@@ -104397,6 +104391,7 @@ auversup.org
 www.avtoru.org
 awanas.org
 awshs.org
+mail.ayetelkursi.org
 www.ayetelkursi.org
 ayso177.org
 ayudapsicologica.org
@@ -105359,6 +105354,7 @@ iowacourtonline.org
 ip-traker.org
 ipadresslocation.org
 iphoneguy.org
+www.iphoneservice.org
 ad.iplayer.org
 ipsas.org
 ironoakshoa.org
@@ -105401,9 +105397,6 @@ jordanembassyuk.org
 joucemeyer.org
 jpsschool.org
 jrc.org
-ww1.jsdc33jsod24.org
-ww38.jsdc33jsod24.org
-www.jsdc33jsod24.org
 jsononlineeditor.org
 judgenow.org
 justintvizle.org
@@ -105716,10 +105709,8 @@ mx0.nationalfurniturebank.org
 smtps.nationalfurniturebank.org
 smtpseguro.nationalfurniturebank.org
 sniper.nationalfurniturebank.org
-ww16.nationalfurniturebank.org
 ww25.nationalfurniturebank.org
 ww38.nationalfurniturebank.org
-www.nationalfurniturebank.org
 track.nationalgunrights.org
 natta.org
 naturalconstipationrelief.org
@@ -105920,6 +105911,7 @@ comune.primarysourcelearning.org
 hermes.primarysourcelearning.org
 mx1.primarysourcelearning.org
 mx5.primarysourcelearning.org
+ns1.primarysourcelearning.org
 vmail.primarysourcelearning.org
 ww17.primarysourcelearning.org
 ww38.primarysourcelearning.org
@@ -106880,7 +106872,6 @@ usadf.org
 usalears.org
 usalerans.org
 usalerns.org
-lime.usalr.org
 mail.usamnesty.org
 ns2.usamnesty.org
 ww1.usamnesty.org
@@ -115261,7 +115252,6 @@ openx.angelsgroup.org.uk
 4et.us
 adsfac.us
 amung.us
-mail.anonymousinsights.us
 binances.us
 hudderostmaster.coinbasegive.us
 www.coinbasegive.us
