@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336550
+# Ignored duplicates: 336561
 
 pixel.ad
 roq.ad
@@ -5612,9 +5612,6 @@ ambitiousagreement.com
 ambra.com
 ambroseshoemaker.com
 mms.amc.com
-image.amdaws.com
-mail.amdaws.com
-s3.amdaws.com
 amdgt.com
 ads.amdmb.com
 amefly.com
@@ -6686,6 +6683,7 @@ bebasrestaurant.com
 bebi.com
 becanium.com
 beck-technologies.com
+www.becooldoright.com
 ww25.beeconimic.com
 ww38.beeconimic.com
 www.beeconimic.com
@@ -6818,7 +6816,6 @@ bhcumsc.com
 bheyafry.com
 mx4.bhringer.com
 ww25.bhringer.com
-ww38.bhringer.com
 biberukalap.com
 ww1.bibng.com
 ww11.bibng.com
@@ -7760,11 +7757,8 @@ cghhml.com
 mail2.cha-cha-chat.com
 mx1.cha-cha-chat.com
 ns1.cha-cha-chat.com
-securepop.cha-cha-chat.com
 ww1.cha-cha-chat.com
-ww25.cha-cha-chat.com
 ww38.cha-cha-chat.com
-www.cha-cha-chat.com
 attribution.chacos.com
 chaesfinance.com
 ads-backend.chaincliq.com
@@ -15222,7 +15216,6 @@ fortvision.com
 forupuc.com
 forwrdnow.com
 www.fostos.com
-www.fotoceweknakal.com
 tagman.fotolia.com
 fouanalytics.com
 foundfax.com
@@ -16547,8 +16540,6 @@ apgb2b-reachcodeandproxy.gannettdigital.com
 atoms.gannettdigital.com
 ganoll.com
 securemetrics.gap.com
-www.shop.garantiephoenix.com
-ww16.garantiephoenix.com
 garce.com
 gardencityjeep.com
 appinfo.garenanow.com
@@ -16674,7 +16665,7 @@ metrics.gfycat.com
 px.gfycat.com
 ghanamotoin.com
 ghananations.com
-ghanantion.com
+www.ghanantion.com
 mail.ghmproperties.com
 giagoc.com
 giantgrocerylist.com
@@ -19673,7 +19664,6 @@ leadsaiservices-can-qa.localiq.com
 leadsaiservices-gbr.localiq.com
 leadsaiservices-usa-dev.localiq.com
 leadsaiservices-usa-qa.localiq.com
-legacy-qa-api.localiq.com
 livingstondaily.localiq.com
 lohud.localiq.com
 louisiana.localiq.com
@@ -20188,7 +20178,6 @@ www.m3adaptador.com
 mag.maarefsite.com
 reg.maarefsite.com
 ww1.maarefsite.com
-ww17.maarefsite.com
 ww38.maarefsite.com
 www.maarefsite.com
 maatelugumovies.com
@@ -41133,7 +41122,6 @@ markhor.organicfruitapps.com
 orgazmika.com
 orgoogle.com
 originalgiftcompany.com
-ww2.originalredrooster.com
 originty.com
 oriori.com
 tracking.orixa-media.com
@@ -52496,8 +52484,6 @@ thedocpdfconverter.com
 thedoctopdf.com
 thedogfleas.com
 theearlyshowcbsnews.com
-webdisk.thegreatorder.com
-www.thegreatorder.com
 hits.theguardian.com
 thehatsite.com
 thehearingaidscenter.com
@@ -56506,7 +56492,6 @@ pr-emea.ybp.yahoo.com
 pr-preprod.ybp.yahoo.com
 pr-preprod-2.ybp.yahoo.com
 pr-test.ybp.yahoo.com
-bid.stg.ybp.yahoo.com
 test-pr-bh.ybp.yahoo.com
 partnerads.ysm.yahoo.com
 jac.yahoosandbox.com
@@ -58123,7 +58108,7 @@ www.104ez.info
 1rhp.info
 www.1seautotoonorn.info
 www.2clik.info
-2mq.info
+www.2mq.info
 300mb.info
 34300.info
 365or.info
@@ -58890,7 +58875,6 @@ ww16.bukinist.info
 ww17.bukinist.info
 ww25.bukinist.info
 ww38.bukinist.info
-www.bukinist.info
 bukittinggi.info
 bulldozer.info
 mvideo.bundesliga-livestream.info
@@ -59156,7 +59140,7 @@ coinloft.info
 coinprobase.info
 cointracker.info
 collectivegap.info
-coltivazioneindoor.info
+sitemaps.coltivazioneindoor.info
 come-fare.info
 good.comix.info
 porn.comix.info
@@ -59243,7 +59227,6 @@ ww1.advertisemotherload.darkbb.info
 anita-blake.darkbb.info
 ww25.billyad2000.darkbb.info
 ww38.billyad2000.darkbb.info
-c-gru.darkbb.info
 ww1.darkfx.darkbb.info
 ww25.darkfx.darkbb.info
 ww17.deltasoldierz.darkbb.info
@@ -59251,10 +59234,10 @@ ww25.deltasoldierz.darkbb.info
 ww38.deltasoldierz.darkbb.info
 ww16.dosti.darkbb.info
 ww17.exiledninja.darkbb.info
-freiheit.darkbb.info
-fretsonfiredownloads.darkbb.info
+ww17.fretsonfiredownloads.darkbb.info
+ww25.fretsonfiredownloads.darkbb.info
+ww38.fretsonfiredownloads.darkbb.info
 ww16.grandforum.darkbb.info
-highwaytohell.darkbb.info
 jx.darkbb.info
 l2genion.darkbb.info
 lampungmig33.darkbb.info
@@ -59263,20 +59246,16 @@ ww38.mbrprealm.darkbb.info
 midnightmagicacademy.darkbb.info
 ww17.monforum.darkbb.info
 mongol.darkbb.info
-mr-westwick.darkbb.info
+ww17.mr-westwick.darkbb.info
 music-movies.darkbb.info
-naruto-bg.darkbb.info
 platink.darkbb.info
 poet-world.darkbb.info
 runewings317.darkbb.info
 scorpionforum.darkbb.info
 simmania.darkbb.info
-sport-life.darkbb.info
-uclan.darkbb.info
 watchersoffate-jka.darkbb.info
 ww1.darkbb.info
 ww17.darkbb.info
-www.darkbb.info
 cpcalendars.darknets.info
 cpcontacts.darknets.info
 mail.darknets.info
@@ -59665,6 +59644,7 @@ fatma.info
 fatorfiction.info
 fazu.info
 fcsite.info
+ww11.fdating.info
 ww38.fdating.info
 www.fdating.info
 ferienhausinnorwegen.info
@@ -59717,11 +59697,9 @@ autodiscover.forkhost.info
 mail.forkhost.info
 webdisk.forkhost.info
 ww1.forkhost.info
-ww12.forkhost.info
 ww16.forkhost.info
 ww17.forkhost.info
 ww25.forkhost.info
-ww7.forkhost.info
 www.forkhost.info
 infowww.formadv.info
 ww1.formadv.info
@@ -59739,7 +59717,6 @@ mx.fotomodelle.info
 ww25.fotomodelle.info
 www.fotomodelle.info
 ww38.fotomodels.info
-www.fotomodels.info
 www.fotoway.info
 ww1.fralo.info
 ww16.fralo.info
@@ -59941,8 +59918,6 @@ hapi.info
 happybook.info
 happytail.info
 harborbeachfarmersmarket.info
-dev.hardis.info
-magento.hardis.info
 hargaproduk.info
 harmonielehre.info
 hastalavista.info
@@ -59979,7 +59954,6 @@ hienmau.info
 higashimurayama.info
 highusa.info
 hillwoodhome.info
-www.hinterglemm.info
 hinterstoder.info
 ww1.hitcrick.info
 ww11.hitcrick.info
@@ -60015,7 +59989,13 @@ ifullreview.info
 igopro.info
 ihtiyar.info
 ilfornello.info
-ilit.info
+info.ilit.info
+sitemap.ilit.info
+sitemaps.ilit.info
+ww1.ilit.info
+ww17.ilit.info
+ww25.ilit.info
+www.ilit.info
 ilkoala.info
 ilovefilmesonline.info
 ilovepix.info
@@ -60585,7 +60565,6 @@ ww25.nonude-stars.info
 ww38.nonude-stars.info
 www.nonude-stars.info
 noorani.info
-ww17.norrland.info
 www.norrland.info
 noticias365.info
 ww1.novaonautoadssword.info
@@ -60820,6 +60799,7 @@ sw.prespornoga.info
 tg.prespornoga.info
 tk.prespornoga.info
 tr.prespornoga.info
+ww1.prespornoga.info
 ww17.prespornoga.info
 ww38.prespornoga.info
 www.prespornoga.info
@@ -61155,7 +61135,6 @@ mail.rumahmodernterbaik.info
 sitemap.rumahmodernterbaik.info
 sitemaps.rumahmodernterbaik.info
 ww11.rumahmodernterbaik.info
-ww12.rumahmodernterbaik.info
 ww16.rumahmodernterbaik.info
 ww17.rumahmodernterbaik.info
 ww25.rumahmodernterbaik.info
@@ -61276,7 +61255,6 @@ sergamer.info
 mail.servercore.info
 ns.servercore.info
 smtp01.servercore.info
-ww1.servercore.info
 www.servercore.info
 zmail.servercore.info
 ww1.sese377.info
@@ -61393,7 +61371,6 @@ mail.softwaresaw.info
 webdisk.softwaresaw.info
 ww1.softwaresaw.info
 ww17.softwaresaw.info
-ww2.softwaresaw.info
 ww25.softwaresaw.info
 ww38.softwaresaw.info
 www.softwaresaw.info
@@ -62212,7 +62189,6 @@ www.verthewalkingdeadonline.info
 mail.vestige.info
 webdisk.vestige.info
 www.vestige.info
-ww17.vhotdownload.info
 ww2.vhotdownload.info
 ww25.vhotdownload.info
 www.vhotdownload.info
@@ -77663,6 +77639,7 @@ server.angelataylor.net
 smtps.angelataylor.net
 smtpseguro.angelataylor.net
 vnet.angelataylor.net
+ww1.angelataylor.net
 ww25.angelataylor.net
 ww38.angelataylor.net
 www.angelataylor.net
@@ -77818,7 +77795,6 @@ authsmtp.audienceinsights.net
 barracuda.audienceinsights.net
 comune.audienceinsights.net
 correo.audienceinsights.net
-ecure.audienceinsights.net
 email.audienceinsights.net
 er-br.audienceinsights.net
 er-es.audienceinsights.net
@@ -96377,7 +96353,9 @@ wsop-poker-live-cdn-playtika.edgesuite.net
 ww1.eeepadhacks.net
 ww11.eeepadhacks.net
 ww25.eeepadhacks.net
+ww31.eeepadhacks.net
 ww38.eeepadhacks.net
+ww82.eeepadhacks.net
 in-ssl.effectivemeasure.net
 elasticad.net
 dan.elemen.net
@@ -97741,14 +97719,7 @@ ads1.knxs.net
 koosk.net
 krxd.net
 kylyria.net
-ww1.lacierda.net
-ww25.lacierda.net
-ww31.lacierda.net
-www12.lacierda.net
-www14.lacierda.net
-www42.lacierda.net
-www6.lacierda.net
-www70.lacierda.net
+lacierda.net
 lanchpad.net
 landirekt.net
 laooste.net
@@ -98090,7 +98061,6 @@ ipam.mediabong.net
 mail.mediabong.net
 au.player.mediabong.net
 pma.mediabong.net
-pop.mediabong.net
 preprod.mediabong.net
 recette.mediabong.net
 rgpd.mediabong.net
@@ -98098,7 +98068,6 @@ sprint.mediabong.net
 staging.mediabong.net
 staging2.mediabong.net
 staging3.mediabong.net
-static.mediabong.net
 teampass.mediabong.net
 tools.mediabong.net
 vacances.mediabong.net
@@ -98366,6 +98335,7 @@ nuggad.net
 ads.nyi.net
 marketing.nyi.net
 ww1.nylonmilf.net
+ww11.nylonmilf.net
 ww16.nylonmilf.net
 ww17.nylonmilf.net
 ww25.nylonmilf.net
@@ -98919,6 +98889,7 @@ mx20.or-tec.net
 mx3.or-tec.net
 mx4.or-tec.net
 mx5.or-tec.net
+mx7.or-tec.net
 mxs.or-tec.net
 newmail.or-tec.net
 ns.or-tec.net
@@ -99011,6 +98982,8 @@ www.owneriq.net
 ads.p161.net
 pages03.net
 www.sc.pages06.net
+ww1.paimt.net
+ww17.paimt.net
 ww25.paimt.net
 ww31.paimt.net
 palimas.net
@@ -103741,6 +103714,7 @@ ww1.sstoday.net
 ww16.sstoday.net
 ww38.sstoday.net
 www.sstoday.net
+www6.sstoday.net
 xfxsxhlr.sstoday.net
 ssvefrom.net
 st-av.net
@@ -103753,14 +103727,13 @@ ad.mynetreklam.com.streamprovider.net
 streamrail.net
 subarurelease.net
 suncolonyapts.net
-box.sundenlink.net
+ww25.box.sundenlink.net
 comune.sundenlink.net
 email.sundenlink.net
 gate.sundenlink.net
 imap1.sundenlink.net
 m.sundenlink.net
 mail.sundenlink.net
-mail1.sundenlink.net
 mail11.sundenlink.net
 mail2.sundenlink.net
 mail9.sundenlink.net
@@ -103770,13 +103743,11 @@ mailgw.sundenlink.net
 mailhost.sundenlink.net
 mailin.sundenlink.net
 mailout.sundenlink.net
-mailserver.sundenlink.net
 mailx.sundenlink.net
-mbox.sundenlink.net
 mx.sundenlink.net
 mx01.sundenlink.net
 mx02.sundenlink.net
-mx1.sundenlink.net
+ww38.mx1.sundenlink.net
 mx10.sundenlink.net
 mx2.sundenlink.net
 mx4.sundenlink.net
@@ -103798,7 +103769,6 @@ smtpauth.sundenlink.net
 smtps.sundenlink.net
 vmail.sundenlink.net
 ww25.sundenlink.net
-ww31.sundenlink.net
 ww38.sundenlink.net
 www.sundenlink.net
 www1.sundenlink.net
@@ -104436,7 +104406,11 @@ auversup.org
 www.avtoru.org
 awanas.org
 awshs.org
+e84tithnr0xytcj0gnfyeif.ayetelkursi.org
+fuplu3cvfbcuaq6gpop99jj.ayetelkursi.org
 mail.ayetelkursi.org
+webdisk.ayetelkursi.org
+ww1.ayetelkursi.org
 www.ayetelkursi.org
 ayso177.org
 ayudapsicologica.org
@@ -105418,7 +105392,6 @@ jabook.org
 mail.jaffbooks.org
 ww1.jaffbooks.org
 ww17.jaffbooks.org
-ww25.jaffbooks.org
 jailbase.org
 jaketm.org
 javlibrary.org
@@ -105951,6 +105924,7 @@ preparetexas.org
 presion.org
 antispam.primarysourcelearning.org
 art.primarysourcelearning.org
+auth.primarysourcelearning.org
 authsmtp.primarysourcelearning.org
 barracuda.primarysourcelearning.org
 box.primarysourcelearning.org
@@ -105959,19 +105933,25 @@ comune.primarysourcelearning.org
 correo.primarysourcelearning.org
 cs.primarysourcelearning.org
 direct.primarysourcelearning.org
+email.primarysourcelearning.org
 gate.primarysourcelearning.org
 gateway.primarysourcelearning.org
 gw.primarysourcelearning.org
 hermes.primarysourcelearning.org
 home.primarysourcelearning.org
 host.primarysourcelearning.org
+imap2.primarysourcelearning.org
 internet.primarysourcelearning.org
 ipe.primarysourcelearning.org
 m.primarysourcelearning.org
+mail.primarysourcelearning.org
 mail01.primarysourcelearning.org
 mail02.primarysourcelearning.org
+mail1.primarysourcelearning.org
 mail10.primarysourcelearning.org
+mail11.primarysourcelearning.org
 mail12.primarysourcelearning.org
+mail2.primarysourcelearning.org
 mail3.primarysourcelearning.org
 mail4.primarysourcelearning.org
 mail5.primarysourcelearning.org
@@ -105980,19 +105960,27 @@ mail8.primarysourcelearning.org
 mail9.primarysourcelearning.org
 mailapp.primarysourcelearning.org
 mailbox.primarysourcelearning.org
+mailer.primarysourcelearning.org
+mailgate.primarysourcelearning.org
+mailgw.primarysourcelearning.org
 mailhost.primarysourcelearning.org
+mailin.primarysourcelearning.org
 mailrelay.primarysourcelearning.org
 mails.primarysourcelearning.org
+mailserver.primarysourcelearning.org
 mailsrv.primarysourcelearning.org
+mailx.primarysourcelearning.org
 mbox.primarysourcelearning.org
 ms.primarysourcelearning.org
 mta.primarysourcelearning.org
 mta1.primarysourcelearning.org
+mx.primarysourcelearning.org
 mx0.primarysourcelearning.org
 mx01.primarysourcelearning.org
 mx02.primarysourcelearning.org
 mx1.primarysourcelearning.org
 mx10.primarysourcelearning.org
+mx2.primarysourcelearning.org
 mx20.primarysourcelearning.org
 mx3.primarysourcelearning.org
 mx4.primarysourcelearning.org
@@ -106000,9 +105988,15 @@ mx5.primarysourcelearning.org
 mx7.primarysourcelearning.org
 mxs.primarysourcelearning.org
 newmail.primarysourcelearning.org
+ns.primarysourcelearning.org
 ns1.primarysourcelearning.org
+ns2.primarysourcelearning.org
 out.primarysourcelearning.org
+outmail.primarysourcelearning.org
 po.primarysourcelearning.org
+poczta.primarysourcelearning.org
+pop.primarysourcelearning.org
+post.primarysourcelearning.org
 posta.primarysourcelearning.org
 relay.primarysourcelearning.org
 relay1.primarysourcelearning.org
@@ -106015,6 +106009,7 @@ server1.primarysourcelearning.org
 server2.primarysourcelearning.org
 smtp01.primarysourcelearning.org
 smtpauth.primarysourcelearning.org
+smtps.primarysourcelearning.org
 smtpseguro.primarysourcelearning.org
 sniper.primarysourcelearning.org
 srv.primarysourcelearning.org
@@ -106028,6 +106023,7 @@ vnet.primarysourcelearning.org
 ww17.primarysourcelearning.org
 ww38.primarysourcelearning.org
 www.primarysourcelearning.org
+www1.primarysourcelearning.org
 zimbra.primarysourcelearning.org
 zmail.primarysourcelearning.org
 primejailbait.org
