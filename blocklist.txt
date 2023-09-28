@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336561
+# Ignored duplicates: 336501
 
 pixel.ad
 roq.ad
@@ -716,7 +716,6 @@ story-data.ex.co
 voting.ex.co
 fave.co
 feathr.co
-financeleader.co
 fw4.co
 g792337340.co
 js.getlasso.co
@@ -867,12 +866,9 @@ procoinbase.co
 pushtrack.co
 reddit.co
 resetdigital.co
-a.rockabox.co
 adserving.rockabox.co
 c.rockabox.co
 creatives.rockabox.co
-r.rockabox.co
-www.rockabox.co
 scoota.co
 sele.co
 servertrack.co
@@ -1953,11 +1949,9 @@ s10.addthis.com
 s3.addthis.com
 s4.addthis.com
 s5.addthis.com
-s7.addthis.com
 s7-dev.addthis.com
 s7-test.addthis.com
 s7-uat.addthis.com
-s8.addthis.com
 s9.addthis.com
 search.addthis.com
 search-iad.addthis.com
@@ -5625,8 +5619,6 @@ americaneaglesoutfitter.com
 ep.americanexpress.com
 iwmap.americanexpress.com
 americanironhorse.com
-ww1.americanlibertyscolarship.com
-ww5.americanlibertyscolarship.com
 americanmotorcycleassociation.com
 americanskiff.com
 americash.com
@@ -5758,7 +5750,6 @@ analytics-iq.com
 analytics-sm.com
 analyticson.com
 anapchat.com
-ww25.anardesh.com
 metrics.ancestry.com
 smetrics.ancestry.com
 track.anchorfree.com
@@ -6010,7 +6001,6 @@ archswimming.com
 targeting.nzme.arcpublishing.com
 targeting.tronc.arcpublishing.com
 arenapoa.com
-www.arennabg.com
 aretecnologia.com
 argyresthia.com
 arielmadeni.com
@@ -6593,7 +6583,6 @@ bancodelchaco.com
 bancopeel.com
 bancosal.com
 ww25.bancredcar.com
-www.bancredcar.com
 bancsabdell.com
 bandaraandsons.com
 bandstreaming.com
@@ -6683,6 +6672,7 @@ bebasrestaurant.com
 bebi.com
 becanium.com
 beck-technologies.com
+ww38.becooldoright.com
 www.becooldoright.com
 ww25.beeconimic.com
 ww38.beeconimic.com
@@ -6753,7 +6743,6 @@ ww1.bentlyauction.com
 ww25.bentlyauction.com
 www.bentlyauction.com
 benuaghty.com
-ww25.beradar.com
 berkleysettlement.com
 berp.com
 berskah.com
@@ -7059,6 +7048,7 @@ news.bodybyjack.com
 ww25.bodybyjack.com
 ww38.bodybyjack.com
 www.bodybyjack.com
+www.bodyrubsbybritney.com
 ads.boerding.com
 boffoadsapi.com
 bohatas.com
@@ -7755,7 +7745,6 @@ cfceastergroup.com
 cfricinfo.com
 cghhml.com
 mail2.cha-cha-chat.com
-mx1.cha-cha-chat.com
 ns1.cha-cha-chat.com
 ww1.cha-cha-chat.com
 ww38.cha-cha-chat.com
@@ -14538,7 +14527,6 @@ vnet.elmokhtabar.com
 ww11.elmokhtabar.com
 ww25.elmokhtabar.com
 ww38.elmokhtabar.com
-www.elmokhtabar.com
 elocalisting.com
 www.elonpresent.com
 elonshares.com
@@ -17803,7 +17791,8 @@ houstonoilers.com
 how-to-copy-and-paste.com
 howmarketworks.com
 howtolearntarot.com
-howtomeetaguy.com
+ww5.howtomeetaguy.com
+www.howtomeetaguy.com
 hoyoutube.com
 hpl-adserver.com
 hpyjmp.com
@@ -51069,7 +51058,6 @@ spirebaboon.com
 spirtanimals.com
 spitzoo.com
 widgets.spklw.com
-ww1.splderman3.com
 ww5.splderman3.com
 www.splderman3.com
 bidswitch-eu.splicky.com
@@ -55461,9 +55449,6 @@ wwwenvisionreports.com
 wwwepatest.com
 wwwevercleanse.com
 ww10.wwwflhealthsource.com
-ww16.wwwflhealthsource.com
-ww25.wwwflhealthsource.com
-ww38.wwwflhealthsource.com
 www.wwwflhealthsource.com
 wwwfonacot.com
 ww11.wwwfrev.com
@@ -58086,6 +58071,7 @@ admix.in
 adsolut.in
 adstacks.in
 captive.adservice.google.co.in
+com-isupport.in
 com-sign.in
 domaining.in
 analytics.htmedia.in
@@ -58871,7 +58857,6 @@ buffalos.info
 buhaus.info
 ww1.bukinist.info
 ww11.bukinist.info
-ww16.bukinist.info
 ww17.bukinist.info
 ww25.bukinist.info
 ww38.bukinist.info
@@ -60042,6 +60027,7 @@ jailbreakunlock.info
 jamb.info
 janasevanakendram.info
 japy.info
+www.javanenvansuriname.info
 jayrigby.info
 jebar.info
 jetztodernie.info
@@ -60405,8 +60391,6 @@ www.mosrenta.info
 motordealer.info
 mail.mouth-is-the-sun.info
 mta-sts.mouth-is-the-sun.info
-ww25.mouth-is-the-sun.info
-ww38.mouth-is-the-sun.info
 www.mouth-is-the-sun.info
 www1.mouth-is-the-sun.info
 move2012.info
@@ -60565,7 +60549,6 @@ ww25.nonude-stars.info
 ww38.nonude-stars.info
 www.nonude-stars.info
 noorani.info
-www.norrland.info
 noticias365.info
 ww1.novaonautoadssword.info
 ww11.novaonautoadssword.info
@@ -60733,7 +60716,6 @@ play2pay.info
 playcity.info
 playmod.info
 playonbg.info
-www.playstation4.info
 plexamedia.info
 plus7.info
 pn9a.info
@@ -61003,7 +60985,9 @@ preprod.quicktime-download.info
 prod.quicktime-download.info
 projects.quicktime-download.info
 qa.quicktime-download.info
+reports.quicktime-download.info
 rest.quicktime-download.info
+secure.quicktime-download.info
 service.quicktime-download.info
 shop.quicktime-download.info
 sistema.quicktime-download.info
@@ -61014,9 +60998,11 @@ staging-api.quicktime-download.info
 staging-steppyweb.quicktime-download.info
 status.quicktime-download.info
 system.quicktime-download.info
+taxi.quicktime-download.info
 uat.quicktime-download.info
 v1.quicktime-download.info
 v2.quicktime-download.info
+webapp.quicktime-download.info
 ww1.quicktime-download.info
 ww17.quicktime-download.info
 ww38.quicktime-download.info
@@ -61818,13 +61804,7 @@ totoarena.info
 touring24.info
 toutsurtlemcen.info
 toy-terrier.info
-mail.traficando.info
-server1.traficando.info
-sitemap.traficando.info
-sitemaps.traficando.info
-webdisk.traficando.info
 ww17.traficando.info
-www.traficando.info
 translator.info
 travelersales.info
 traveller.info
@@ -66228,7 +66208,6 @@ zoestrollers.pxf.io
 zola.pxf.io
 zolucky.pxf.io
 quickkoala.io
-api.radar.io
 raygun.io
 rdtk.io
 metrics.readme.io
@@ -97708,7 +97687,6 @@ ads.kaktuz.net
 karppausinfo.net
 katespisnups.net
 kbj19.net
-kbpcollegevashi.net
 kerei.net
 kidmose.net
 kinguit.net
@@ -98069,7 +98047,6 @@ staging.mediabong.net
 staging2.mediabong.net
 staging3.mediabong.net
 teampass.mediabong.net
-tools.mediabong.net
 vacances.mediabong.net
 www.mediabong.net
 utils.mediageneral.net
@@ -98088,6 +98065,7 @@ mkt81.net
 a.mktw.net
 www.mmatv.net
 ww1.mobil4ik.net
+ww16.mobil4ik.net
 ww17.mobil4ik.net
 ww38.mobil4ik.net
 mobuna.net
@@ -98986,6 +98964,8 @@ ww1.paimt.net
 ww17.paimt.net
 ww25.paimt.net
 ww31.paimt.net
+ww38.paimt.net
+www.paimt.net
 palimas.net
 panniniamerica.net
 panties-area.net
@@ -104188,15 +104168,12 @@ spacex.ooo
 4bilder1wort.org
 4hu.org
 511mo.org
-m.51av.org
-wmw.51av.org
 wnw.51av.org
 ww.51av.org
 ww01.51av.org
 ww1.51av.org
 ww16.51av.org
-ww17.51av.org
-ww38.51av.org
+www.ww17.51av.org
 www.51av.org
 xn--nsraa.51av.org
 51avi.org
@@ -105348,7 +105325,21 @@ ihsdxb.org
 iisj.org
 ikyep.org
 illegalcartoons.org
-imiw.org
+colombia.imiw.org
+english.imiw.org
+evangelisticimpact.imiw.org
+missionaryconference.imiw.org
+msl.imiw.org
+mslmmm.imiw.org
+sitemaps.imiw.org
+spanish.imiw.org
+ww1.wiir.imiw.org
+www.wiir.imiw.org
+wmmasia.imiw.org
+ww1.imiw.org
+ww17.imiw.org
+ww38.imiw.org
+www.imiw.org
 impslp.org
 imslo.org
 imslt.org
@@ -105378,7 +105369,6 @@ ad.iplayer.org
 ipsas.org
 ironoakshoa.org
 isamesih.org
-isfedu.org
 islandofrhodes.org
 islandtowers.org
 islcollective.org
@@ -105724,8 +105714,6 @@ mx0.nationalfurniturebank.org
 smtps.nationalfurniturebank.org
 smtpseguro.nationalfurniturebank.org
 sniper.nationalfurniturebank.org
-ww25.nationalfurniturebank.org
-ww38.nationalfurniturebank.org
 track.nationalgunrights.org
 natta.org
 naturalconstipationrelief.org
@@ -106040,15 +106028,9 @@ www.probestfilm.org
 procorn.org
 progepe.org
 autodiscover.boilam.cwww.projectgazelle.org
-out.projectgazelle.org
-post.projectgazelle.org
-postmaster.projectgazelle.org
-root.projectgazelle.org
 smtpseguro.projectgazelle.org
 ww1.projectgazelle.org
-ww17.projectgazelle.org
 ww2.projectgazelle.org
-ww25.projectgazelle.org
 ww38.projectgazelle.org
 www.projectgazelle.org
 auth.projectobolix.org
