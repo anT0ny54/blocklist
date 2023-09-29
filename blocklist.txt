@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336501
+# Ignored duplicates: 336529
 
 pixel.ad
 roq.ad
@@ -1685,7 +1685,6 @@ zeroviruses.accountkit.com
 accountonlineupdateinfo.com
 accuspina.com
 acdelcostore.com
-ww25.acebiik.com
 acebk.com
 acecashexpres.com
 aceguarulhos.com
@@ -3178,7 +3177,6 @@ devialet-mkt-prod1.campaign.adobe.com
 devialet-mkt-prod1-1.campaign.adobe.com
 directlinegroup.campaign.adobe.com
 dkb-mid-prod1-cus.campaign.adobe.com
-dkb-mid-stage1-1.campaign.adobe.com
 dollartree-mkt-prod1.campaign.adobe.com
 douglasgmbh-mkt-prod1.campaign.adobe.com
 dsg-mkt-prod1-lb.campaign.adobe.com
@@ -7268,18 +7266,10 @@ p.brsrvr.com
 p-eu.brsrvr.com
 static.brsrvr.com
 brtweb.com
-dev.brussheitnerfuneralhome.com
 magento.brussheitnerfuneralhome.com
-mail.brussheitnerfuneralhome.com
-old.brussheitnerfuneralhome.com
-staging.brussheitnerfuneralhome.com
-test.brussheitnerfuneralhome.com
 ww1.brussheitnerfuneralhome.com
-ww16.brussheitnerfuneralhome.com
 ww17.brussheitnerfuneralhome.com
-ww25.brussheitnerfuneralhome.com
 ww38.brussheitnerfuneralhome.com
-www.brussheitnerfuneralhome.com
 bruthalove.com
 bsbrowsing.com
 bsctelangana.com
@@ -7746,7 +7736,6 @@ cfricinfo.com
 cghhml.com
 mail2.cha-cha-chat.com
 ns1.cha-cha-chat.com
-ww1.cha-cha-chat.com
 ww38.cha-cha-chat.com
 attribution.chacos.com
 chaesfinance.com
@@ -8282,6 +8271,8 @@ staging-cdn.cohesionapps.com
 staging-cdn-adt.cohesionapps.com
 taggy.cohesionapps.com
 tip.cohesionapps.com
+mail.coinbase-team.com
+www.coinbase-team.com
 coinbasegive.com
 coinbasegiving.com
 coinbasegold.com
@@ -14343,6 +14334,7 @@ cdn.ebdr1.com
 mx7.ebdr1.com
 ww9.ebdr1.com
 www.ebdr1.com
+www.ebdr3.com
 ebuzzingvideo.com
 applets.ebxcdn.com
 ecampaignstats.com
@@ -14525,7 +14517,6 @@ ssl.elmokhtabar.com
 tw.elmokhtabar.com
 vnet.elmokhtabar.com
 ww11.elmokhtabar.com
-ww25.elmokhtabar.com
 ww38.elmokhtabar.com
 elocalisting.com
 www.elonpresent.com
@@ -20139,6 +20130,7 @@ ludicrousarch.com
 luiviton.com
 lukassbprojects.com
 lula3d.com
+www.lulutong8899.com
 lulutuh.com
 lumberamount.com
 lungcancerguides.com
@@ -20165,7 +20157,6 @@ ww25.m3adaptador.com
 ww38.m3adaptador.com
 www.m3adaptador.com
 mag.maarefsite.com
-reg.maarefsite.com
 ww1.maarefsite.com
 ww38.maarefsite.com
 www.maarefsite.com
@@ -20305,7 +20296,6 @@ magellansupport.com
 mageplastikk.com
 magicaljoin.com
 magicobux.com
-www.magictraps.com
 magmypics.com
 magnificentmist.com
 magscustomerservice.com
@@ -35775,7 +35765,6 @@ beacon.us-west-2.prodaa.netflix.com
 ads.test.netflix.com
 netflixnetflix.com
 ww1.netglog.com
-www.netglog.com
 nethousesprices.com
 netincap.com
 netmera.com
@@ -48537,8 +48526,6 @@ richrelevance.com
 richstring.com
 ridedical-riseats.com
 rotator.riedta.com
-ww25.rifprisse.com
-ww38.rifprisse.com
 rightmessage.com
 ww11.rightsouce.com
 ww25.rightsouce.com
@@ -49408,6 +49395,7 @@ sanipovoa.com
 sanmsclub.com
 sannsyn.com
 santandermotor.com
+santatrackergoogle.com
 tag.santediscount.com
 saqon.com
 sareepoint.com
@@ -51438,6 +51426,7 @@ stmichaelsmuseum.com
 dc.stokke.com
 stomachscience.com
 www.stopsteam.com
+storegoogle.com
 storesurprise.com
 stormcontainertag.com
 stormiq.com
@@ -58186,10 +58175,6 @@ www.44renti.info
 www.4health.info
 52youwu.info
 mail.5fan.info
-mvideo.5fan.info
-ww1.5fan.info
-ww17.5fan.info
-ww25.5fan.info
 ww38.5fan.info
 www.5fan.info
 5movies.info
@@ -58376,6 +58361,7 @@ www.anash.info
 andreas-hofer.info
 androidfilmy.info
 androidioshacks.info
+androidpolice.info
 angebote.info
 angren.info
 www.ani-ban.info
@@ -58725,9 +58711,6 @@ ww16.birdwindowcollisions.info
 ww25.birdwindowcollisions.info
 ww38.birdwindowcollisions.info
 sitemap.biszofit.info
-ww17.biszofit.info
-ww25.biszofit.info
-ww38.biszofit.info
 www.biszofit.info
 bitaddress.info
 analytics.bitrix.info
@@ -59082,6 +59065,7 @@ www.cclove12.info
 cctv-camera.info
 cd-player.info
 cediss.info
+celebmafia.info
 www.celiaimrie.info
 certificates.info
 ww1.cevaplus.info
@@ -59210,15 +59194,12 @@ danjeh.info
 ww1.2claws.darkbb.info
 ww1.advertisemotherload.darkbb.info
 anita-blake.darkbb.info
-ww25.billyad2000.darkbb.info
-ww38.billyad2000.darkbb.info
 ww1.darkfx.darkbb.info
 ww25.darkfx.darkbb.info
 ww17.deltasoldierz.darkbb.info
 ww25.deltasoldierz.darkbb.info
 ww38.deltasoldierz.darkbb.info
 ww16.dosti.darkbb.info
-ww17.exiledninja.darkbb.info
 ww17.fretsonfiredownloads.darkbb.info
 ww25.fretsonfiredownloads.darkbb.info
 ww38.fretsonfiredownloads.darkbb.info
@@ -59235,7 +59216,6 @@ ww17.mr-westwick.darkbb.info
 music-movies.darkbb.info
 platink.darkbb.info
 poet-world.darkbb.info
-runewings317.darkbb.info
 scorpionforum.darkbb.info
 simmania.darkbb.info
 watchersoffate-jka.darkbb.info
@@ -59678,7 +59658,6 @@ fkwv.info
 flex-tech.info
 flixzone.info
 forbest.info
-autodiscover.forkhost.info
 mail.forkhost.info
 webdisk.forkhost.info
 ww1.forkhost.info
@@ -60390,7 +60369,6 @@ moqr.info
 www.mosrenta.info
 motordealer.info
 mail.mouth-is-the-sun.info
-mta-sts.mouth-is-the-sun.info
 www.mouth-is-the-sun.info
 www1.mouth-is-the-sun.info
 move2012.info
@@ -61486,7 +61464,9 @@ ww1.sutekh.info
 ww16.sutekh.info
 ww38.sutekh.info
 www.sutekh.info
+m.suzxx.info
 ww17.suzxx.info
+www1.suzxx.info
 api.svabe.info
 app.svabe.info
 apps.svabe.info
@@ -62246,6 +62226,8 @@ waldviertel.info
 wap9.info
 waploft.info
 waptrik.info
+ww25.warface.info
+ww38.warface.info
 watchmovie.info
 watchpinoymovieonline.info
 wazze.info
@@ -62374,7 +62356,6 @@ xnxxn.info
 xorroxinirratia.info
 xptheme.info
 xrpgive.info
-xrplive.info
 mail.xxlshow.info
 mvideo.xxlshow.info
 ww1.xxlshow.info
@@ -66306,6 +66287,7 @@ rvo-security.sandbox.redventures.io
 rvoh-talent-analytics.sandbox.redventures.io
 rvpr.sandbox.redventures.io
 security-tools.sandbox.redventures.io
+securityoperationswizcollab1.sandbox.redventures.io
 soc-forensics.sandbox.redventures.io
 soc-sandbox.sandbox.redventures.io
 terratest.sandbox.redventures.io
@@ -66317,6 +66299,7 @@ wealth.sandbox.redventures.io
 credible-dev.secrets.redventures.io
 credible-prod.secrets.redventures.io
 shield.redventures.io
+tech-intake.redventures.io
 tools.redventures.io
 tools-dev.redventures.io
 transcription.redventures.io
@@ -97622,6 +97605,7 @@ supply.inmobicdn.net
 web.inmobicdn.net
 innity.net
 innovativesys.net
+inquerer.net
 instalovers.net
 inteligentreturns.net
 intellagents.net
@@ -98041,7 +98025,6 @@ au.player.mediabong.net
 pma.mediabong.net
 preprod.mediabong.net
 recette.mediabong.net
-rgpd.mediabong.net
 sprint.mediabong.net
 staging.mediabong.net
 staging2.mediabong.net
@@ -104127,6 +104110,7 @@ deals.innocode.no
 am.medialaben.no
 log.medietall.no
 pinch.no
+click.email.strawberry.no
 ad.tv2.no
 ads.vg.no
 advert.vg.no
@@ -104152,7 +104136,6 @@ static.ws.apsis.one
 aj1070.online
 www.besocial.online
 store-notification.online
-spacex.ooo
 12js.org
 1377x.org
 16js.org
@@ -104168,13 +104151,10 @@ spacex.ooo
 4bilder1wort.org
 4hu.org
 511mo.org
-wnw.51av.org
-ww.51av.org
 ww01.51av.org
 ww1.51av.org
-ww16.51av.org
 www.ww17.51av.org
-www.51av.org
+www.www.51av.org
 xn--nsraa.51av.org
 51avi.org
 57so.org
@@ -104666,6 +104646,7 @@ cowlitzreptilerescuelab.org
 cpursera.org
 cracketgames.org
 crackgame.org
+craigslisdt.org
 creativecommoms.org
 crecweb.org
 cremesp.org
@@ -105333,7 +105314,6 @@ msl.imiw.org
 mslmmm.imiw.org
 sitemaps.imiw.org
 spanish.imiw.org
-ww1.wiir.imiw.org
 www.wiir.imiw.org
 wmmasia.imiw.org
 ww1.imiw.org
@@ -105379,7 +105359,6 @@ itsajeep.org
 iuhelath.org
 iyns.org
 jabook.org
-mail.jaffbooks.org
 ww1.jaffbooks.org
 ww17.jaffbooks.org
 jailbase.org
@@ -105555,6 +105534,7 @@ mcstayfamily.org
 dc-767749cdb988.mcvote.org
 mail.mcvote.org
 ww1.mcvote.org
+ww17.mcvote.org
 ww25.mcvote.org
 www.mcvote.org
 mdes.org
@@ -105708,12 +105688,6 @@ napolisotteranea.org
 narms.org
 naruniha.org
 nasakids.org
-mail02.nationalfurniturebank.org
-mx.nationalfurniturebank.org
-mx0.nationalfurniturebank.org
-smtps.nationalfurniturebank.org
-smtpseguro.nationalfurniturebank.org
-sniper.nationalfurniturebank.org
 track.nationalgunrights.org
 natta.org
 naturalconstipationrelief.org
