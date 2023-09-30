@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336529
+# Ignored duplicates: 336528
 
 pixel.ad
 roq.ad
@@ -5851,7 +5851,6 @@ www.aolomail.com
 www2.aolomail.com
 zimbra.aolomail.com
 aovivo.com
-apathetictheory.com
 apaxalarm.com
 apester.com
 aplimarathi.com
@@ -6580,7 +6579,6 @@ bancocredicop.com
 bancodelchaco.com
 bancopeel.com
 bancosal.com
-ww25.bancredcar.com
 bancsabdell.com
 bandaraandsons.com
 bandstreaming.com
@@ -6672,7 +6670,6 @@ becanium.com
 beck-technologies.com
 ww38.becooldoright.com
 www.becooldoright.com
-ww25.beeconimic.com
 ww38.beeconimic.com
 www.beeconimic.com
 beegl.com
@@ -7147,7 +7144,6 @@ ads.boylesports.com
 boyonthenet.com
 mxs.boystwon.com
 vip.boystwon.com
-ww25.boystwon.com
 bpath.com
 bpdresources.com
 ads.brabys.com
@@ -7734,7 +7730,6 @@ cetrk.com
 cfceastergroup.com
 cfricinfo.com
 cghhml.com
-mail2.cha-cha-chat.com
 ns1.cha-cha-chat.com
 ww38.cha-cha-chat.com
 attribution.chacos.com
@@ -9441,7 +9436,6 @@ worker.deadlinefunnel.com
 www.deadlinefunnel.com
 deadpangate.com
 deadpanmarble.com
-deadpantruck.com
 dealdotcom.com
 analytics.dealer.com
 dfanalytics.dealerfire.com
@@ -14231,6 +14225,8 @@ cdn.bko.dynstc.com
 cdn.bkov2.dynstc.com
 cdn.n.dynstc.com
 dyntrk.com
+ww11.e-labcorp.com
+ww25.e-labcorp.com
 e0mn.com
 wl1bet.adsrv.eacdn.com
 wladmiralinteractive.adsrv.eacdn.com
@@ -15177,7 +15173,6 @@ forcedgirls.com
 forcloserradar.com
 data.ford.com
 ford500.com
-fordampitheatre.com
 fordmotorscompany.com
 fordpatner.com
 foresee.com
@@ -15353,7 +15348,6 @@ fullizle.com
 fullstory.com
 fultoncounty-jail.com
 fultoncountyjail.com
-www.fun141.com
 funcake.com
 functionalcrown.com
 fundsjoy.com
@@ -17245,7 +17239,10 @@ goplaylabels.com
 gorgeousground.com
 gorillalink.com
 goriziaboats.com
-gosabol.com
+ww1.gosabol.com
+ww25.gosabol.com
+ww38.gosabol.com
+www.gosabol.com
 gospongebob.com
 gosquared.com
 gostats.com
@@ -17989,7 +17986,7 @@ iincorporate.com
 sdk.mobad.ijinshan.com
 unconf.mobad.ijinshan.com
 ikka-online.com
-iklaneklusif.com
+www.iklaneklusif.com
 il-insurance--quotes.com
 ilebox.com
 ilife-insurance.com
@@ -18214,7 +18211,6 @@ iadprod.indeed.com
 pxl.indeed.com
 sentry.indeed.com
 jas.indeednps.com
-indemaya.com
 indexexchange.com
 indexstats.com
 external-dns-test.automation-test.indexww.com
@@ -19090,7 +19086,8 @@ kugut.com
 kuireg.com
 hb.kumma.com
 kurandakihidayet.com
-kurdrojh.com
+ww35.kurdrojh.com
+www.kurdrojh.com
 kusharice.com
 kutsatsa.com
 ad-template.kuyun.com
@@ -20130,7 +20127,7 @@ ludicrousarch.com
 luiviton.com
 lukassbprojects.com
 lula3d.com
-www.lulutong8899.com
+lulutong8899.com
 lulutuh.com
 lumberamount.com
 lungcancerguides.com
@@ -35230,7 +35227,6 @@ multiext.com
 mummy8.com
 mundanenail.com
 mundanepollution.com
-www.musakachat.com
 muscleandfitnessforum.com
 musclehero.com
 musicasshow.com
@@ -35764,7 +35760,6 @@ ichnaea.us-west-2.origin.prodaa.netflix.com
 beacon.us-west-2.prodaa.netflix.com
 ads.test.netflix.com
 netflixnetflix.com
-ww1.netglog.com
 nethousesprices.com
 netincap.com
 netmera.com
@@ -47885,6 +47880,7 @@ ww2.reyoutube.com
 ww5.reyoutube.com
 www.reyoutube.com
 rezonence.com
+ww25.rezultait.com
 rezutati.com
 rezync.com
 134842711840976p.rfihub.com
@@ -49462,7 +49458,6 @@ ww2.satangay.com
 ww25.satangay.com
 ww38.satangay.com
 www.satangay.com
-ww1.satishtv.com
 ww5.satishtv.com
 www.satishtv.com
 satismeter.com
@@ -50981,7 +50976,6 @@ telemetry.sonarsource.com
 songaza.com
 sonobi.com
 msmetrics.ws.sonos.com
-ww25.sonpopular.com
 swebanalytics.sony.com
 webanalytics.sony.com
 www.soootoo.com
@@ -51592,7 +51586,6 @@ stupendoussleet.com
 stupendoussnow.com
 styledeluxe.com
 styles4w.com
-ww16.styletravelmarq.com
 ww25.styletravelmarq.com
 stylinetrucks.com
 subaruaccessories.com
@@ -52703,6 +52696,7 @@ www.topdisplaynetwork.com
 topfifty.com
 topforall.com
 toppmarkensverige.com
+toprebates.com
 topsir.com
 topssneakers.com
 topstats.com
@@ -55438,7 +55432,6 @@ wwwenvisionreports.com
 wwwepatest.com
 wwwevercleanse.com
 ww10.wwwflhealthsource.com
-www.wwwflhealthsource.com
 wwwfonacot.com
 ww11.wwwfrev.com
 ww25.wwwfrev.com
@@ -56451,7 +56444,6 @@ edge-mcdn-beacon.secure.yahoo.com
 ssp.yahoo.com
 bats.video.yahoo.com
 ads.yap.yahoo.com
-m.yap.yahoo.com
 bid-global.ybp.yahoo.com
 east-bid.ybp.yahoo.com
 nrb.ybp.yahoo.com
@@ -56915,7 +56907,6 @@ youjuizz.com
 youngfirstimers.com
 ww25.youporna.com
 ww38.youporna.com
-www.youporna.com
 youporncommunity.com
 youpornpussy.com
 youporntr.com
@@ -58441,7 +58432,6 @@ autria.info
 www.av18.info
 av815.info
 av99cn.info
-ww1.avakin.info
 ww25.avakin.info
 www.avakin.info
 ww11.avgpctuneup2019.info
@@ -58839,9 +58829,6 @@ www.buduar.info
 buffalos.info
 buhaus.info
 ww1.bukinist.info
-ww11.bukinist.info
-ww17.bukinist.info
-ww25.bukinist.info
 ww38.bukinist.info
 bukittinggi.info
 bulldozer.info
@@ -59956,7 +59943,6 @@ ilfornello.info
 info.ilit.info
 sitemap.ilit.info
 sitemaps.ilit.info
-ww1.ilit.info
 ww17.ilit.info
 ww25.ilit.info
 www.ilit.info
@@ -60251,7 +60237,6 @@ massagebykathy.info
 masscryp.info
 masterfilmesonlinegratis.info
 ww16.matureanal.info
-ww25.matureanal.info
 maxmaillots.info
 mayrhofen.info
 mbfans.info
@@ -60369,7 +60354,6 @@ moqr.info
 www.mosrenta.info
 motordealer.info
 mail.mouth-is-the-sun.info
-www.mouth-is-the-sun.info
 www1.mouth-is-the-sun.info
 move2012.info
 sitemaps.movieeater.info
@@ -61095,15 +61079,11 @@ ruensport.info
 ww1.rukodelnitsa.info
 ww38.rukodelnitsa.info
 www.rukodelnitsa.info
-mail.rumahmodernterbaik.info
-sitemap.rumahmodernterbaik.info
-sitemaps.rumahmodernterbaik.info
 ww11.rumahmodernterbaik.info
 ww16.rumahmodernterbaik.info
 ww17.rumahmodernterbaik.info
 ww25.rumahmodernterbaik.info
 ww38.rumahmodernterbaik.info
-www.rumahmodernterbaik.info
 1apps.rumobi.info
 apps.rumobi.info
 ww1.rumobi.info
@@ -61441,9 +61421,6 @@ www.stroims.info
 studnet.info
 subsidios.info
 suertetrabajos.info
-temuko.sumariados.info
-upla.sumariados.info
-ww1.sumariados.info
 webdisk.sunbuster.info
 www.sunbuster.info
 sunderlandinsurance.info
@@ -61784,7 +61761,6 @@ totoarena.info
 touring24.info
 toutsurtlemcen.info
 toy-terrier.info
-ww17.traficando.info
 translator.info
 travelersales.info
 traveller.info
@@ -62245,7 +62221,6 @@ ww17.welda.info
 actioncam.wesua.info
 baelfor.wesua.info
 carcam.wesua.info
-carheater.wesua.info
 cleanstep.wesua.info
 crossbody.wesua.info
 dozator.wesua.info
@@ -62253,47 +62228,30 @@ dust.wesua.info
 eyebrow.wesua.info
 flexcam.wesua.info
 fresh.wesua.info
-furw.wesua.info
-g-30.wesua.info
 gearwatch.wesua.info
-gofre.wesua.info
-guard.wesua.info
-hq.wesua.info
-izmelchitelm.wesua.info
 juicer.wesua.info
-kitchenmaster.wesua.info
 klol.wesua.info
-kmaster.wesua.info
 new.kran.wesua.info
 ua.kran.wesua.info
 lens.wesua.info
 master.wesua.info
-mini.wesua.info
 molniaizmelchitel.wesua.info
 monokl.wesua.info
 niss.wesua.info
-panda2.wesua.info
 pfloss.wesua.info
 pil.wesua.info
 pillow.wesua.info
 plast.wesua.info
-portmone.wesua.info
 psypn.wesua.info
-renumax.wesua.info
 rmilod.wesua.info
-rmolnia.wesua.info
 rpodob.wesua.info
-rtrack.wesua.info
-rvidreg.wesua.info
 salad.wesua.info
-screen.wesua.info
 sdozator.wesua.info
 sgear.wesua.info
 shoes.wesua.info
 silic.wesua.info
 sill.wesua.info
-skovrik.wesua.info
-skywatch.wesua.info
+ww11.skovrik.wesua.info
 smarttv.wesua.info
 snapgrip.wesua.info
 sploika.wesua.info
@@ -62301,11 +62259,8 @@ sssticks.wesua.info
 stimbrush.wesua.info
 tpillow.wesua.info
 truxx.wesua.info
-v8.wesua.info
-v8pods.wesua.info
 vidreg.wesua.info
 ww1.wesua.info
-ww25.wesua.info
 ww38.wesua.info
 www.wesua.info
 wylson.wesua.info
@@ -62343,7 +62298,10 @@ wowsource.info
 wwpc.info
 wwsy.info
 wwwmuzik.info
-xav11.info
+ww1.xav11.info
+ww25.xav11.info
+ww38.xav11.info
+www.xav11.info
 xeal.info
 xiaohuangren.info
 xiaoshuog58.info
@@ -77823,6 +77781,7 @@ smtpseguro.audienceinsights.net
 sniper.audienceinsights.net
 srv.audienceinsights.net
 vmail.audienceinsights.net
+whois.audienceinsights.net
 www.audienceinsights.net
 www1.audienceinsights.net
 zimbra.audienceinsights.net
@@ -98014,23 +97973,17 @@ service.maxymiser.net
 staging.maxymiser.net
 maybethis.net
 media.net
-api.mediabong.net
 cloud.mediabong.net
 e.mediabong.net
-env.mediabong.net
 grafana.mediabong.net
 ipam.mediabong.net
 mail.mediabong.net
 au.player.mediabong.net
 pma.mediabong.net
-preprod.mediabong.net
 recette.mediabong.net
-sprint.mediabong.net
 staging.mediabong.net
-staging2.mediabong.net
 staging3.mediabong.net
 teampass.mediabong.net
-vacances.mediabong.net
 www.mediabong.net
 utils.mediageneral.net
 meetrics.net
@@ -98152,7 +98105,6 @@ nb69.net
 nedstatbasic.net
 nend.net
 neodatatype.net
-neocounter.neoworx-blog-tools.net
 netpool.netbookia.net
 beaconimages.netflix.net
 netmats.net
@@ -104151,11 +104103,8 @@ store-notification.online
 4bilder1wort.org
 4hu.org
 511mo.org
-ww01.51av.org
 ww1.51av.org
 www.ww17.51av.org
-www.www.51av.org
-xn--nsraa.51av.org
 51avi.org
 57so.org
 666av.org
@@ -105297,7 +105246,9 @@ iapsr.org
 go.icann.org
 icj-cji.org
 icun.org
-idealit.org
+ww1.idealit.org
+ww17.idealit.org
+ww38.idealit.org
 ideasemu.org
 idiotenapostroph.org
 igrid.org
@@ -105313,7 +105264,6 @@ missionaryconference.imiw.org
 msl.imiw.org
 mslmmm.imiw.org
 sitemaps.imiw.org
-spanish.imiw.org
 www.wiir.imiw.org
 wmmasia.imiw.org
 ww1.imiw.org
@@ -105359,8 +105309,6 @@ itsajeep.org
 iuhelath.org
 iyns.org
 jabook.org
-ww1.jaffbooks.org
-ww17.jaffbooks.org
 jailbase.org
 jaketm.org
 javlibrary.org
@@ -106006,7 +105954,6 @@ smtpseguro.projectgazelle.org
 ww1.projectgazelle.org
 ww2.projectgazelle.org
 ww38.projectgazelle.org
-www.projectgazelle.org
 auth.projectobolix.org
 hermes.projectobolix.org
 mail.projectobolix.org
