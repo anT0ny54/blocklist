@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336528
+# Ignored duplicates: 336501
 
 pixel.ad
 roq.ad
@@ -4723,7 +4723,6 @@ www.advanced-web-analytics.com
 xn--aweuw3-hta.advanced-web-analytics.com
 zimbra.advanced-web-analytics.com
 ww11.advancedeto.com
-ww25.advancedeto.com
 advandeo.com
 advangelists.com
 advanseads.com
@@ -6670,7 +6669,6 @@ becanium.com
 beck-technologies.com
 ww38.becooldoright.com
 www.becooldoright.com
-ww38.beeconimic.com
 www.beeconimic.com
 beegl.com
 beeketing.com
@@ -6798,7 +6796,6 @@ bhandhan.com
 campaign.bharatmatrimony.com
 bhcumsc.com
 bheyafry.com
-mx4.bhringer.com
 ww25.bhringer.com
 biberukalap.com
 ww1.bibng.com
@@ -7730,7 +7727,6 @@ cetrk.com
 cfceastergroup.com
 cfricinfo.com
 cghhml.com
-ns1.cha-cha-chat.com
 ww38.cha-cha-chat.com
 attribution.chacos.com
 chaesfinance.com
@@ -8789,8 +8785,6 @@ crewbuxonline.com
 crickebuzz.com
 cricket-365info.com
 cricket365-info.com
-ww25.crickvideo.com
-www.crickvideo.com
 crictym.com
 crimtan.com
 dev.crisdomson.com
@@ -14477,43 +14471,6 @@ www.elizabeth-il.com
 elizabethmattress.com
 elliottchevroletcadillac.com
 elmananadevalles.com
-antispam.elmokhtabar.com
-art.elmokhtabar.com
-authsmtp.elmokhtabar.com
-correo.elmokhtabar.com
-eml.elmokhtabar.com
-ww25.esults.elmokhtabar.com
-gateway.elmokhtabar.com
-gw.elmokhtabar.com
-home.elmokhtabar.com
-host.elmokhtabar.com
-ipe.elmokhtabar.com
-mail3.elmokhtabar.com
-mailin.elmokhtabar.com
-mails.elmokhtabar.com
-mailserver.elmokhtabar.com
-mailx.elmokhtabar.com
-mbox.elmokhtabar.com
-ms.elmokhtabar.com
-mx.elmokhtabar.com
-mx5.elmokhtabar.com
-mx7.elmokhtabar.com
-out.elmokhtabar.com
-poczta.elmokhtabar.com
-ww25.pop3.elmokhtabar.com
-relay.elmokhtabar.com
-relay1.elmokhtabar.com
-ww25.result.elmokhtabar.com
-results.elmokhtabar.com
-root.elmokhtabar.com
-server2.elmokhtabar.com
-smtpauth.elmokhtabar.com
-smtps.elmokhtabar.com
-ssl.elmokhtabar.com
-tw.elmokhtabar.com
-vnet.elmokhtabar.com
-ww11.elmokhtabar.com
-ww38.elmokhtabar.com
 elocalisting.com
 www.elonpresent.com
 elonshares.com
@@ -16610,7 +16567,23 @@ getdoctopdf.com
 logging.getgo.com
 api-telemetry.servers.getgo.com
 telemetry.servers.getgo.com
-gethatch.com
+autodiscover.gethatch.com
+aws.gethatch.com
+cdn.gethatch.com
+lb.gethatch.com
+lyncdiscover.gethatch.com
+marketing.gethatch.com
+msoid.gethatch.com
+my.gethatch.com
+papi.gethatch.com
+preprod.gethatch.com
+proxy.gethatch.com
+registry.gethatch.com
+reviews.gethatch.com
+sip.gethatch.com
+static.gethatch.com
+www.gethatch.com
+zabbix.gethatch.com
 getintent.com
 banners.getiton.com
 api.getlevelten.com
@@ -17240,7 +17213,6 @@ gorgeousground.com
 gorillalink.com
 goriziaboats.com
 ww1.gosabol.com
-ww25.gosabol.com
 ww38.gosabol.com
 www.gosabol.com
 gospongebob.com
@@ -19066,6 +19038,8 @@ adsimg.kompas.com
 apis.kompas.com
 img.kompasads.com
 ads.kompass.com
+ww25.kompoas.com
+ww35.kompoas.com
 komsantv.com
 konferansereiser.com
 adserver.kontent.com
@@ -19086,8 +19060,6 @@ kugut.com
 kuireg.com
 hb.kumma.com
 kurandakihidayet.com
-ww35.kurdrojh.com
-www.kurdrojh.com
 kusharice.com
 kutsatsa.com
 ad-template.kuyun.com
@@ -42692,6 +42664,7 @@ propellerclick.com
 prostate-pleasure-guide.com
 protagcdn.com
 protectcrev.com
+protectivemetrics.com
 metrics.protectmyid.com
 protectsubrev.com
 protesidenext.com
@@ -51040,7 +51013,6 @@ spirebaboon.com
 spirtanimals.com
 spitzoo.com
 widgets.spklw.com
-ww5.splderman3.com
 www.splderman3.com
 bidswitch-eu.splicky.com
 cdn-global.splicky.com
@@ -58307,6 +58279,7 @@ adm-vids.info
 advertisers.info
 aerjournal.info
 afreeurl.info
+ww25.africanlegends.info
 aftereffectvn.info
 ahhadesigns.info
 ainu.info
@@ -58432,8 +58405,6 @@ autria.info
 www.av18.info
 av815.info
 av99cn.info
-ww25.avakin.info
-www.avakin.info
 ww11.avgpctuneup2019.info
 ww16.avgpctuneup2019.info
 ww25.avgpctuneup2019.info
@@ -58829,7 +58800,6 @@ www.buduar.info
 buffalos.info
 buhaus.info
 ww1.bukinist.info
-ww38.bukinist.info
 bukittinggi.info
 bulldozer.info
 mvideo.bundesliga-livestream.info
@@ -59096,7 +59066,6 @@ coinloft.info
 coinprobase.info
 cointracker.info
 collectivegap.info
-sitemaps.coltivazioneindoor.info
 come-fare.info
 good.comix.info
 porn.comix.info
@@ -59386,8 +59355,12 @@ dotb.info
 ww1.doubleup.info
 www.doubleup.info
 downclub.info
+2ffgkzc.downloader.info
+afyzk.downloader.info
 aigkk.downloader.info
+data.downloader.info
 ditrj.downloader.info
+dl10.downloader.info
 dl11.downloader.info
 dl12.downloader.info
 dl13.downloader.info
@@ -59409,11 +59382,13 @@ dl8.downloader.info
 dl9.downloader.info
 fgkzc.downloader.info
 fkaph.downloader.info
+gpkio.downloader.info
 hmqbu.downloader.info
 hpbnj.downloader.info
 kjzmv.downloader.info
 kyhxj.downloader.info
 kzrzi.downloader.info
+macsn.downloader.info
 nwwxj.downloader.info
 pikku.downloader.info
 qgxhg.downloader.info
@@ -59645,13 +59620,10 @@ fkwv.info
 flex-tech.info
 flixzone.info
 forbest.info
-mail.forkhost.info
-webdisk.forkhost.info
 ww1.forkhost.info
 ww16.forkhost.info
 ww17.forkhost.info
 ww25.forkhost.info
-www.forkhost.info
 infowww.formadv.info
 ww1.formadv.info
 ww11.formadv.info
@@ -59662,6 +59634,8 @@ ww25.formadv.info
 ww3.formadv.info
 ww38.formadv.info
 www.formadv.info
+ww1.formenterazen.info
+ww16.formenterazen.info
 www.formenterazen.info
 forthewomen.info
 mx.fotomodelle.info
@@ -59940,12 +59914,8 @@ ifullreview.info
 igopro.info
 ihtiyar.info
 ilfornello.info
-info.ilit.info
-sitemap.ilit.info
-sitemaps.ilit.info
 ww17.ilit.info
 ww25.ilit.info
-www.ilit.info
 ilkoala.info
 ilovefilmesonline.info
 ilovepix.info
@@ -60236,7 +60206,6 @@ www.maslennikov.info
 massagebykathy.info
 masscryp.info
 masterfilmesonlinegratis.info
-ww16.matureanal.info
 maxmaillots.info
 mayrhofen.info
 mbfans.info
@@ -60353,8 +60322,6 @@ moonlitecoin.info
 moqr.info
 www.mosrenta.info
 motordealer.info
-mail.mouth-is-the-sun.info
-www1.mouth-is-the-sun.info
 move2012.info
 sitemaps.movieeater.info
 ww1.movieeater.info
@@ -61081,7 +61048,6 @@ ww38.rukodelnitsa.info
 www.rukodelnitsa.info
 ww11.rumahmodernterbaik.info
 ww16.rumahmodernterbaik.info
-ww17.rumahmodernterbaik.info
 ww25.rumahmodernterbaik.info
 ww38.rumahmodernterbaik.info
 1apps.rumobi.info
@@ -61311,12 +61277,7 @@ ww17.socialsnatcher.info
 ww25.socialsnatcher.info
 ww38.socialsnatcher.info
 www.socialsnatcher.info
-mail.softwaresaw.info
-webdisk.softwaresaw.info
-ww1.softwaresaw.info
-ww17.softwaresaw.info
-ww25.softwaresaw.info
-ww38.softwaresaw.info
+ww25.mail.softwaresaw.info
 www.softwaresaw.info
 www.solarvip.info
 solicita.info
@@ -62097,7 +62058,6 @@ mail.vbucksfortnitefree.info
 ww1.vbucksfortnitefree.info
 ww16.vbucksfortnitefree.info
 ww17.vbucksfortnitefree.info
-ww25.vbucksfortnitefree.info
 ww38.vbucksfortnitefree.info
 www.vbucksfortnitefree.info
 vchas.info
@@ -62126,7 +62086,6 @@ mail.vestige.info
 webdisk.vestige.info
 www.vestige.info
 ww2.vhotdownload.info
-ww25.vhotdownload.info
 www.vhotdownload.info
 ww1.videoindir.info
 ww16.videoindir.info
@@ -62218,7 +62177,6 @@ sitemap.welda.info
 ww1.welda.info
 ww17.welda.info
 3d.wesua.info
-actioncam.wesua.info
 baelfor.wesua.info
 carcam.wesua.info
 cleanstep.wesua.info
@@ -62227,44 +62185,30 @@ dozator.wesua.info
 dust.wesua.info
 eyebrow.wesua.info
 flexcam.wesua.info
-fresh.wesua.info
-gearwatch.wesua.info
 juicer.wesua.info
 klol.wesua.info
-new.kran.wesua.info
-ua.kran.wesua.info
-lens.wesua.info
 master.wesua.info
 molniaizmelchitel.wesua.info
 monokl.wesua.info
 niss.wesua.info
 pfloss.wesua.info
-pil.wesua.info
 pillow.wesua.info
 plast.wesua.info
 psypn.wesua.info
 rmilod.wesua.info
 rpodob.wesua.info
 salad.wesua.info
-sdozator.wesua.info
 sgear.wesua.info
 shoes.wesua.info
 silic.wesua.info
-sill.wesua.info
-ww11.skovrik.wesua.info
 smarttv.wesua.info
 snapgrip.wesua.info
 sploika.wesua.info
 sssticks.wesua.info
 stimbrush.wesua.info
-tpillow.wesua.info
 truxx.wesua.info
-vidreg.wesua.info
-ww1.wesua.info
 ww38.wesua.info
-www.wesua.info
 wylson.wesua.info
-zerkalo.wesua.info
 wfrtys.info
 white-media.info
 whs.info
@@ -62290,6 +62234,7 @@ www.wishrobux.info
 witze.info
 woco.info
 wonderweblink.info
+www.wood35.info
 woodworkplans.info
 worldmarketplace.info
 worldsportsmemorabilia.info
@@ -62299,8 +62244,6 @@ wwpc.info
 wwsy.info
 wwwmuzik.info
 ww1.xav11.info
-ww25.xav11.info
-ww38.xav11.info
 www.xav11.info
 xeal.info
 xiaohuangren.info
@@ -96925,6 +96868,7 @@ includemodal.global.ssl.fastly.net
 webcontentassessor.global.ssl.fastly.net
 wkxppshj-qx.global.ssl.fastly.net
 prod.contextweb.map.fastlylb.net
+www.fdcserver.net
 feminicidios.net
 fickeria.net
 fickparties.net
@@ -97979,10 +97923,7 @@ grafana.mediabong.net
 ipam.mediabong.net
 mail.mediabong.net
 au.player.mediabong.net
-pma.mediabong.net
-recette.mediabong.net
 staging.mediabong.net
-staging3.mediabong.net
 teampass.mediabong.net
 www.mediabong.net
 utils.mediageneral.net
@@ -99009,6 +98950,7 @@ rule20.net
 runtnc.net
 rvty.net
 sabrashop.net
+safeanalytics.net
 safefrome.net
 auth.satellitebr.net
 gateway.satellitebr.net
@@ -105247,8 +105189,6 @@ go.icann.org
 icj-cji.org
 icun.org
 ww1.idealit.org
-ww17.idealit.org
-ww38.idealit.org
 ideasemu.org
 idiotenapostroph.org
 igrid.org
@@ -105257,14 +105197,9 @@ ihsdxb.org
 iisj.org
 ikyep.org
 illegalcartoons.org
-colombia.imiw.org
 english.imiw.org
 evangelisticimpact.imiw.org
 missionaryconference.imiw.org
-msl.imiw.org
-mslmmm.imiw.org
-sitemaps.imiw.org
-www.wiir.imiw.org
 wmmasia.imiw.org
 ww1.imiw.org
 ww17.imiw.org
@@ -105949,8 +105884,6 @@ ww38.probestfilm.org
 www.probestfilm.org
 procorn.org
 progepe.org
-autodiscover.boilam.cwww.projectgazelle.org
-smtpseguro.projectgazelle.org
 ww1.projectgazelle.org
 ww2.projectgazelle.org
 ww38.projectgazelle.org
@@ -106947,9 +106880,6 @@ wadefamilytree.org
 wahealthpathfinder.org
 walgreen.org
 sitemaps.walnutavenueumc.org
-ww17.walnutavenueumc.org
-ww25.walnutavenueumc.org
-www.walnutavenueumc.org
 www.wanderingnotlost.org
 waplib.org
 ja.wardpress.org
