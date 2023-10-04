@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336257
+# Ignored duplicates: 336333
 
 pixel.ad
 roq.ad
@@ -3302,7 +3302,6 @@ intact-mid-prod1.campaign.adobe.com
 interflora-mkt-prod1-lb.campaign.adobe.com
 interflora-mkt-prod1-t.campaign.adobe.com
 interglobe-s.campaign.adobe.com
-itau-mid-prod1-cus.campaign.adobe.com
 itvconsumer-mid-prod1.campaign.adobe.com
 itvconsumer-mid-stage1-res.campaign.adobe.com
 izotope.campaign.adobe.com
@@ -4724,7 +4723,6 @@ vps.advanced-web-analytics.com
 www.advanced-web-analytics.com
 xn--aweuw3-hta.advanced-web-analytics.com
 zimbra.advanced-web-analytics.com
-ww11.advancedeto.com
 advandeo.com
 advangelists.com
 advanseads.com
@@ -6962,7 +6960,6 @@ www.bhandhan.com
 campaign.bharatmatrimony.com
 bhcumsc.com
 bheyafry.com
-ww25.bhringer.com
 biberukalap.com
 ww1.bibng.com
 ww11.bibng.com
@@ -8242,6 +8239,7 @@ jaeger.os.prod.clearbit.com
 log.os.prod.clearbit.com
 prospector.os.prod.clearbit.com
 scrapinghub.os.prod.clearbit.com
+temporal-visibility.os.prod.clearbit.com
 watchlist.os.prod.clearbit.com
 prospector.clearbit.com
 reveal.clearbit.com
@@ -43250,7 +43248,9 @@ p3.ssl.qhimgs0.com
 qkimg.com
 qnsr.com
 qofod.com
+qojug.com
 qoof.com
+qosag.com
 bugly.qq.com
 analytics.map.qq.com
 track.mta.qq.com
@@ -58613,7 +58613,6 @@ www.adidasspringblade2.info
 autodiscover.aditech.info
 cpcalendars.aditech.info
 cpcontacts.aditech.info
-mail.aditech.info
 www.aditech.info
 adm-vids.info
 advertisers.info
@@ -59042,14 +59041,15 @@ mvideo.birdwindowcollisions.info
 ww16.birdwindowcollisions.info
 ww25.birdwindowcollisions.info
 ww38.birdwindowcollisions.info
-sitemap.biszofit.info
-www.biszofit.info
 bitaddress.info
 analytics.bitrix.info
 bizbuildermastery.info
 bled.info
 blockchani.info
 blogvlw.info
+mvideo.bluehippo.info
+ww1.bluehippo.info
+ww25.bluehippo.info
 bluenews.info
 boatrental.info
 bockchain.info
@@ -59169,7 +59169,6 @@ buddhadhamma.info
 www.buduar.info
 buffalos.info
 buhaus.info
-ww1.bukinist.info
 bukittinggi.info
 bulldozer.info
 mvideo.bundesliga-livestream.info
@@ -59877,6 +59876,7 @@ fcsite.info
 ww11.fdating.info
 ww38.fdating.info
 www.fdating.info
+www.ferdos.info
 ferienhausinnorwegen.info
 antispam.figvam.info
 correo.figvam.info
@@ -60226,8 +60226,6 @@ ifullreview.info
 igopro.info
 ihtiyar.info
 ilfornello.info
-ww17.ilit.info
-ww25.ilit.info
 ilkoala.info
 ilovepix.info
 imagediet.info
@@ -61019,6 +61017,7 @@ ww17.pornstock.info
 www.pornstock.info
 porshe.info
 portablesoft.info
+ww16.portailwebecoles.info
 postcode-zoeken.info
 potenzstoerungen.info
 pozivitno.info
@@ -61332,9 +61331,6 @@ ruensport.info
 ww1.rukodelnitsa.info
 ww38.rukodelnitsa.info
 www.rukodelnitsa.info
-ww11.rumahmodernterbaik.info
-ww25.rumahmodernterbaik.info
-ww38.rumahmodernterbaik.info
 rumobi.info
 rupertmallin.info
 rusputana.info
@@ -62514,10 +62510,7 @@ waldviertel.info
 wap9.info
 waploft.info
 waptrik.info
-is.warface.info
-mail.warface.info
-ww25.warface.info
-ww38.warface.info
+warface.info
 watchmovie.info
 watchpinoymovieonline.info
 wazze.info
@@ -62574,6 +62567,7 @@ witze.info
 woco.info
 wonderweblink.info
 ns1.wood35.info
+ns2.wood35.info
 ww38.wood35.info
 www.wood35.info
 woodworkplans.info
@@ -66435,7 +66429,6 @@ metrics.readme.io
 recapture.io
 redshell.io
 training.ac-utility.redventures.io
-adt-staging.redventures.io
 adtech.redventures.io
 airhorn.redventures.io
 gateway.atom.redventures.io
@@ -77808,7 +77801,6 @@ o0bm4.amazingvacationhomesfl.net
 orqml.amazingvacationhomesfl.net
 saprr.amazingvacationhomesfl.net
 vy65o.amazingvacationhomesfl.net
-www.amazingvacationhomesfl.net
 wxojd.amazingvacationhomesfl.net
 x8yzo.amazingvacationhomesfl.net
 analytics-active.net
@@ -77968,6 +77960,7 @@ barracuda.audienceinsights.net
 comune.audienceinsights.net
 correo.audienceinsights.net
 email.audienceinsights.net
+er.audienceinsights.net
 er-br.audienceinsights.net
 er-de.audienceinsights.net
 er-es.audienceinsights.net
@@ -77976,6 +77969,7 @@ er-uk.audienceinsights.net
 gate.audienceinsights.net
 gateway.audienceinsights.net
 gw.audienceinsights.net
+hermes.audienceinsights.net
 home.audienceinsights.net
 host.audienceinsights.net
 imap1.audienceinsights.net
@@ -77991,6 +77985,7 @@ mail2.audienceinsights.net
 mail3.audienceinsights.net
 mail4.audienceinsights.net
 mail5.audienceinsights.net
+mail6.audienceinsights.net
 mail7.audienceinsights.net
 mailbox.audienceinsights.net
 mailer.audienceinsights.net
@@ -78011,6 +78006,7 @@ mta.audienceinsights.net
 mx.audienceinsights.net
 mx0.audienceinsights.net
 mx01.audienceinsights.net
+mx02.audienceinsights.net
 mx1.audienceinsights.net
 mx2.audienceinsights.net
 mx20.audienceinsights.net
@@ -78035,6 +78031,7 @@ relay1.audienceinsights.net
 relay2.audienceinsights.net
 root.audienceinsights.net
 secue.audienceinsights.net
+secure.audienceinsights.net
 server.audienceinsights.net
 server1.audienceinsights.net
 server2.audienceinsights.net
@@ -78047,8 +78044,10 @@ srv.audienceinsights.net
 statics.audienceinsights.net
 vmail.audienceinsights.net
 whois.audienceinsights.net
+ww.audienceinsights.net
 www.audienceinsights.net
 www1.audienceinsights.net
+www2.audienceinsights.net
 zimbra.audienceinsights.net
 zmail.audienceinsights.net
 ausoafab.net
@@ -98242,13 +98241,7 @@ service.maxymiser.net
 staging.maxymiser.net
 maybethis.net
 media.net
-cloud.mediabong.net
-grafana.mediabong.net
-ipam.mediabong.net
 au.player.mediabong.net
-staging.mediabong.net
-teampass.mediabong.net
-www.mediabong.net
 utils.mediageneral.net
 meetrics.net
 mennavi.net
@@ -105705,13 +105698,7 @@ www.mbhsfcu.org
 mc-thias.org
 mclearn.org
 mcstayfamily.org
-123movies.mcvote.org
-dc-767749cdb988.mcvote.org
-mail.mcvote.org
-ww1.mcvote.org
-ww17.mcvote.org
-ww25.mcvote.org
-www.mcvote.org
+mcvote.org
 mdes.org
 meczyki.org
 medadgujarat.org
@@ -106097,7 +106084,6 @@ pop.projectobolix.org
 postmaster.projectobolix.org
 ww1.projectobolix.org
 ww11.projectobolix.org
-ww25.projectobolix.org
 ww38.projectobolix.org
 www.projectobolix.org
 projectyouthsafety.org
@@ -106606,7 +106592,8 @@ scoliosis-support.org
 scoutin.org
 scp-foundation.org
 barracuda.scribblekid.org
-chugworth.scribblekid.org
+ww31.chugworth.scribblekid.org
+ww38.chugworth.scribblekid.org
 gateway.scribblekid.org
 hermes.scribblekid.org
 imap1.scribblekid.org
@@ -106617,12 +106604,10 @@ m.scribblekid.org
 mail.scribblekid.org
 mail1.scribblekid.org
 mail11.scribblekid.org
-mail12.scribblekid.org
 mailer.scribblekid.org
 mailhost.scribblekid.org
 mailin.scribblekid.org
 mx1.scribblekid.org
-mx2.scribblekid.org
 newmail.scribblekid.org
 ns1.scribblekid.org
 ns2.scribblekid.org
@@ -106632,13 +106617,11 @@ postmaster.scribblekid.org
 relay2.scribblekid.org
 server2.scribblekid.org
 smtps.scribblekid.org
-vmail.scribblekid.org
 ww1.scribblekid.org
 ww17.scribblekid.org
 ww25.scribblekid.org
 ww31.scribblekid.org
 ww38.scribblekid.org
-www.scribblekid.org
 zmail.scribblekid.org
 scribd.org
 sdacape.org
