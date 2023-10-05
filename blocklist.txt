@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 336333
+# Ignored duplicates: 336334
 
 pixel.ad
 roq.ad
@@ -1024,7 +1024,6 @@ y.254a.com
 2fastuploads.com
 2htg.com
 2journalnow.com
-ww25.2partyhard.com
 antispam.2sshoes.com
 barracuda.2sshoes.com
 box.2sshoes.com
@@ -1332,7 +1331,6 @@ itzhakc.search.ad-suite.sizmek.advertising.a2z.com
 production.search.ad-suite.sizmek.advertising.a2z.com
 uat.search.ad-suite.sizmek.advertising.a2z.com
 ada-dashboard.sizmek.advertising.a2z.com
-gamma.dashboard.olympus.sizmek.advertising.a2z.com
 alpha.report-builder.sizmek.advertising.a2z.com
 beta.report-builder.sizmek.advertising.a2z.com
 prod.report-builder.sizmek.advertising.a2z.com
@@ -6063,7 +6061,6 @@ art-zaya.com
 arthritiscancer.com
 metrics.articulate.com
 poczta.artistiksigns.com
-ww11.artistiksigns.com
 ww25.artistiksigns.com
 artofzo.com
 artpever.com
@@ -6821,6 +6818,8 @@ vqe49i5.becooldoright.com
 vyljde.becooldoright.com
 wn7c6s.becooldoright.com
 wulsxlbi.becooldoright.com
+ww17.becooldoright.com
+ww25.becooldoright.com
 ww38.becooldoright.com
 www.becooldoright.com
 x4hilo.becooldoright.com
@@ -14220,7 +14219,6 @@ collector.doordash.com
 doppler10.com
 dorpbox.com
 ww11.dota-hotkeys.com
-ww25.dota-hotkeys.com
 ad.dotandad.com
 act.bal.dotandad.com
 cnfm.ad2.bal.dotandad.com
@@ -18028,7 +18026,6 @@ hotelravel.com
 hotelreunion.com
 hotels-in-israel.com
 click.mail.hotels.com
-ww38.hotes-ballet.com
 www.hotfreebees.com
 hotjar.com
 hotkeys.com
@@ -18179,17 +18176,6 @@ hyunja6.com
 i-cleaning.com
 i23greeting.com
 iadnet.com
-mail12.iahoro.com
-mail8.iahoro.com
-mailgw.iahoro.com
-mailin.iahoro.com
-mailsrv.iahoro.com
-mailx.iahoro.com
-mx.iahoro.com
-mx02.iahoro.com
-mx5.iahoro.com
-po.iahoro.com
-srv.iahoro.com
 ww11.iahoro.com
 ww25.iahoro.com
 ialotter.com
@@ -18639,7 +18625,9 @@ interpolls.com
 survey.interquest.com
 intervalleyhealth.com
 intowow.com
-intraisp.com
+boss.uat1.it.stl.cw.intraisp.com
+dc-c9c0f3cb02a3.intraisp.com
+www.intraisp.com
 tags.prd.api.a.intuit.com
 tags-us-west-2.prd.api.a.intuit.com
 abtesting.intuit.com
@@ -36235,6 +36223,7 @@ docs-staging.newrelic.com
 download.newrelic.com
 dr.newrelic.com
 eu.newrelic.com
+eu-notifications.newrelic.com
 frame-alerts.newrelic.com
 frame-infrastructure.newrelic.com
 frame-maps.newrelic.com
@@ -36301,6 +36290,7 @@ mobile-symbol-upload.newrelic.com
 mobile-symbol-upload-origin.newrelic.com
 next-azure-ext.newrelic.com
 non-sni-dcv.newrelic.com
+notifications.newrelic.com
 nrpn.newrelic.com
 nru.newrelic.com
 nucleus-lb.newrelic.com
@@ -36386,6 +36376,7 @@ t.newrelic.com
 test.newrelic.com
 test-api.newrelic.com
 test-blue-sky.newrelic.com
+test-httptools.newrelic.com
 test1.newrelic.com
 test5.newrelic.com
 testttts.newrelic.com
@@ -36693,9 +36684,7 @@ obscenesidewalk.com
 observantice.com
 oclasrv.com
 n31bd.octaviagallery.com
-ww17.octaviagallery.com
 ww38.octaviagallery.com
-www.octaviagallery.com
 ads.oddschecker.com
 adserver.oddschecker.com
 odeswk.com
@@ -41101,10 +41090,12 @@ www.cdn.optimizely.com
 cg.optimizely.com
 errors.client.optimizely.com
 cmp.optimizely.com
+ilfbpk.collections-localdev.cmp-dev.optimizely.com
 zhaunq.collections-localdev.cmp-dev.optimizely.com
 mxhirt.collections.cmp-dev.optimizely.com
 files-localdev.cmp-dev.optimizely.com
 hozpab.files.cmp-dev.optimizely.com
+middleware.cmp-dev.optimizely.com
 cmstest.optimizely.com
 commerce-edu.optimizely.com
 common.optimizely.com
@@ -41133,7 +41124,9 @@ example.optimizely.com
 expeng-inte-use1.expeng.optimizely.com
 expeng-prep-use1.expeng.optimizely.com
 expeng-prod-use1.expeng.optimizely.com
+ice.expeng.optimizely.com
 ice.inte.expeng.optimizely.com
+ai-backend.prod.expeng.optimizely.com
 extensions.optimizely.com
 feedback.optimizely.com
 gcso.optimizely.com
@@ -51897,7 +51890,6 @@ submityoutflicks.com
 submityyourflicks.com
 submtyourflicks.com
 ww25.subscnce.com
-www.subscnce.com
 email.mg1.substack.com
 suburbanepropane.com
 subwayblaze.com
@@ -52493,13 +52485,10 @@ tastefulsongs.com
 tatlermagazine.com
 account.tatness.com
 bill.tatness.com
-bredband.tatness.com
 citrix.tatness.com
-dev.tatness.com
-magento.tatness.com
+www.magento.tatness.com
 sitemap.tatness.com
 sitemaps.tatness.com
-staging.tatness.com
 www.tatness.com
 tattooedgoddess.com
 tawdryson.com
@@ -58375,7 +58364,6 @@ ww38.1rhp.info
 www.1rhp.info
 www.1seautotoonorn.info
 www.2clik.info
-www.2mq.info
 300mb.info
 34300.info
 365or.info
@@ -59047,9 +59035,7 @@ bizbuildermastery.info
 bled.info
 blockchani.info
 blogvlw.info
-mvideo.bluehippo.info
-ww1.bluehippo.info
-ww25.bluehippo.info
+bluehippo.info
 bluenews.info
 boatrental.info
 bockchain.info
@@ -59494,20 +59480,38 @@ ns2.damdam.info
 www.damdam.info
 danangplus.info
 danjeh.info
-ww16.dosti.darkbb.info
-ww16.grandforum.darkbb.info
+1st-rangers.darkbb.info
+2claws.darkbb.info
+advertisemotherload.darkbb.info
+billyad2000.darkbb.info
+darkfx.darkbb.info
+deltasoldierz.darkbb.info
+dosti.darkbb.info
+exiledninja.darkbb.info
+gn-team.darkbb.info
+grandforum.darkbb.info
+iansbalkan.darkbb.info
 jx.darkbb.info
 l2genion.darkbb.info
 lampungmig33.darkbb.info
 lttwilightersrpg.darkbb.info
+mbrprealm.darkbb.info
 midnightmagicacademy.darkbb.info
+monforum.darkbb.info
 mongol.darkbb.info
 music-movies.darkbb.info
+myr-gaming.darkbb.info
+naruto-hit.darkbb.info
 platink.darkbb.info
 poet-world.darkbb.info
+samp-party.darkbb.info
 scorpionforum.darkbb.info
+selenagomez-serbia.darkbb.info
 simmania.darkbb.info
+theirishmob.darkbb.info
 watchersoffate-jka.darkbb.info
+ww25.darkbb.info
+ww38.darkbb.info
 cpcalendars.darknets.info
 cpcontacts.darknets.info
 mail.darknets.info
@@ -59842,7 +59846,14 @@ ww38.eyep.info
 www.eyep.info
 eyesurgery.info
 ezmethod.info
-factory-outlet-stores.info
+mpp.factory-outlet-stores.info
+ww25.static.factory-outlet-stores.info
+ww31.static.factory-outlet-stores.info
+ww11.factory-outlet-stores.info
+ww17.factory-outlet-stores.info
+ww31.factory-outlet-stores.info
+ww38.factory-outlet-stores.info
+www.factory-outlet-stores.info
 fajos.info
 fakeer.info
 ns.falvguwen.info
@@ -60080,6 +60091,7 @@ groenehartmedia.info
 grossglockner.info
 growtech.info
 gruzya.info
+gsfl.info
 gsidorov.info
 gstyle.info
 gta5apkdownload.info
@@ -60199,6 +60211,7 @@ www3.hitcrick.info
 hochkoenig.info
 holisticphysicians.info
 hologeneticprofile.info
+hondacb450s.info
 honwa.info
 hookers.info
 hookuponlineplussize.info
@@ -60226,6 +60239,7 @@ ifullreview.info
 igopro.info
 ihtiyar.info
 ilfornello.info
+ilit.info
 ilkoala.info
 ilovepix.info
 imagediet.info
@@ -60940,12 +60954,8 @@ phpprotect.info
 phpstore.info
 phtechtools.info
 phur.info
-autodiscover.picaduras.info
 mail.picaduras.info
 webdisk.picaduras.info
-ww1.picaduras.info
-ww17.picaduras.info
-ww25.picaduras.info
 ww38.picaduras.info
 www.picaduras.info
 ww1.pictureguycabo.info
@@ -61017,7 +61027,17 @@ ww17.pornstock.info
 www.pornstock.info
 porshe.info
 portablesoft.info
+email.portailwebecoles.info
+gateway.portailwebecoles.info
+outmail.portailwebecoles.info
+server.portailwebecoles.info
+server1.portailwebecoles.info
+smtpauth.portailwebecoles.info
+ww11.portailwebecoles.info
 ww16.portailwebecoles.info
+ww17.portailwebecoles.info
+ww25.portailwebecoles.info
+ww38.portailwebecoles.info
 postcode-zoeken.info
 potenzstoerungen.info
 pozivitno.info
@@ -61422,6 +61442,7 @@ xn--z1t133c.seednet.info
 seefeld.info
 semmering.info
 seo-mix.info
+seo02.info
 seo03.info
 seotaolao.info
 seouldl.info
@@ -62363,6 +62384,7 @@ phoebe.urlforum.info
 porsha.urlforum.info
 raquel.urlforum.info
 rubye.urlforum.info
+sarah.urlforum.info
 selena.urlforum.info
 sex-buddies.urlforum.info
 sex-kontakt.urlforum.info
@@ -62568,6 +62590,7 @@ woco.info
 wonderweblink.info
 ns1.wood35.info
 ns2.wood35.info
+ww1.wood35.info
 ww38.wood35.info
 www.wood35.info
 woodworkplans.info
@@ -77953,12 +77976,14 @@ trk.atomex.net
 atouba.net
 atsem.net
 auctionads.net
+0tatic.audienceinsights.net
 antispam.audienceinsights.net
 auth.audienceinsights.net
 authsmtp.audienceinsights.net
 barracuda.audienceinsights.net
 comune.audienceinsights.net
 correo.audienceinsights.net
+ecure.audienceinsights.net
 email.audienceinsights.net
 er.audienceinsights.net
 er-br.audienceinsights.net
@@ -78020,6 +78045,7 @@ ns.audienceinsights.net
 ns1.audienceinsights.net
 ns2.audienceinsights.net
 out.audienceinsights.net
+pixel.audienceinsights.net
 po.audienceinsights.net
 poczta.audienceinsights.net
 pop.audienceinsights.net
@@ -78042,6 +78068,7 @@ smtpseguro.audienceinsights.net
 sniper.audienceinsights.net
 srv.audienceinsights.net
 statics.audienceinsights.net
+tatic.audienceinsights.net
 vmail.audienceinsights.net
 whois.audienceinsights.net
 ww.audienceinsights.net
@@ -97271,6 +97298,7 @@ dev.fwaci.aws.fwmrm.net
 dev.fwci.aws.fwmrm.net
 fwsso.aws.fwmrm.net
 dev.identity.aws.fwmrm.net
+prod.identity.aws.fwmrm.net
 dev.klotski.aws.fwmrm.net
 prd.klotski.aws.fwmrm.net
 ss.klotski.aws.fwmrm.net
@@ -97316,6 +97344,13 @@ otel-collector.dev.synergy.aws.fwmrm.net
 prometheus.dev.synergy.aws.fwmrm.net
 thanos-bucket.dev.synergy.aws.fwmrm.net
 thanos-query.dev.synergy.aws.fwmrm.net
+alertmanager.prd.synergy.aws.fwmrm.net
+auth.prd.synergy.aws.fwmrm.net
+grafana.prd.synergy.aws.fwmrm.net
+otel-collector.prd.synergy.aws.fwmrm.net
+prometheus.prd.synergy.aws.fwmrm.net
+thanos-bucket.prd.synergy.aws.fwmrm.net
+thanos-query.prd.synergy.aws.fwmrm.net
 alertmanager.stg.synergy.aws.fwmrm.net
 auth.stg.synergy.aws.fwmrm.net
 grafana.stg.synergy.aws.fwmrm.net
@@ -98241,7 +98276,6 @@ service.maxymiser.net
 staging.maxymiser.net
 maybethis.net
 media.net
-au.player.mediabong.net
 utils.mediageneral.net
 meetrics.net
 mennavi.net
@@ -101850,7 +101884,6 @@ blackbox.aai-prod-a.us-west-2.aws.k8s.sendgrid.net
 prometheus.aai-prod-a.us-west-2.aws.k8s.sendgrid.net
 ace-uvs-api.ace.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
 alertmanager.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
-nsqadmin.antiabuse.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
 blackbox.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
 prometheus.aai-stage-a.us-west-2.aws.k8s.sendgrid.net
 alertmanager.autobots-prod-a.us-west-2.aws.k8s.sendgrid.net
@@ -106070,7 +106103,6 @@ ww38.probestfilm.org
 www.probestfilm.org
 procorn.org
 progepe.org
-ww2.projectgazelle.org
 auth.projectobolix.org
 hermes.projectobolix.org
 mail.projectobolix.org
@@ -106594,32 +106626,25 @@ scp-foundation.org
 barracuda.scribblekid.org
 ww31.chugworth.scribblekid.org
 ww38.chugworth.scribblekid.org
-gateway.scribblekid.org
 hermes.scribblekid.org
 imap1.scribblekid.org
 imap2.scribblekid.org
 loserz.scribblekid.org
 lozers.scribblekid.org
 m.scribblekid.org
-mail.scribblekid.org
 mail1.scribblekid.org
-mail11.scribblekid.org
 mailer.scribblekid.org
 mailhost.scribblekid.org
-mailin.scribblekid.org
 mx1.scribblekid.org
 newmail.scribblekid.org
 ns1.scribblekid.org
 ns2.scribblekid.org
-out.scribblekid.org
 post.scribblekid.org
 postmaster.scribblekid.org
 relay2.scribblekid.org
-server2.scribblekid.org
 smtps.scribblekid.org
 ww1.scribblekid.org
 ww17.scribblekid.org
-ww25.scribblekid.org
 ww31.scribblekid.org
 ww38.scribblekid.org
 zmail.scribblekid.org
@@ -115496,6 +115521,7 @@ cdn.vip-hd-movies.xyz
 adsrv.iol.co.za
 itomedia.co.za
 marketingmachine.co.za
+adserver.openx.co.za
 www.openx.co.za
 adserve.zone
 candid.zone
