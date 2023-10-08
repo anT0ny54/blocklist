@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338487
+# Ignored duplicates: 338530
 
 pixel.ad
 roq.ad
@@ -986,7 +986,6 @@ emarketing.biz.163.com
 crash.163.com
 crashlytics.163.com
 iad.g.163.com
-errorcollect.hzgj.163.com
 stat.mail.163.com
 tag.163.com
 analytics.yuehui.163.com
@@ -1501,7 +1500,6 @@ accessiblemetrics.com
 www.accessjpmorgan.com
 accessmyflorida.com
 ww25.accessory4kid.com
-www.accessory4kid.com
 0.accountkit.com
 0-4graph-9graph2-okta-graph.accountkit.com
 01.accountkit.com
@@ -3251,7 +3249,6 @@ giorgioarmanigroup-mkt-prod1-t.campaign.adobe.com
 gmde-mid-prod2.campaign.adobe.com
 gmde-mid-prod2-1.campaign.adobe.com
 gmde-mid-stage14.campaign.adobe.com
-goodyear-mkt-prod1.campaign.adobe.com
 grdfpts.campaign.adobe.com
 grdfpts-mid-stage4.campaign.adobe.com
 gumtreeau.campaign.adobe.com
@@ -3490,7 +3487,6 @@ photobox-mkt-prod6.campaign.adobe.com
 pickup-services-mkt-prod1-res.campaign.adobe.com
 pickup-services-mkt-stage1-res.campaign.adobe.com
 pickup-services-rt-prod2-res.campaign.adobe.com
-pizzahuthk-mkt-prod1-cus.campaign.adobe.com
 pizzahutuk-mkt-stage1-res.campaign.adobe.com
 powerleisurebookmakers-mid-prod1.campaign.adobe.com
 powerleisurebookmakers-mid-prod1-1.campaign.adobe.com
@@ -3541,7 +3537,6 @@ sagagroup.campaign.adobe.com
 sagagroup-mkt-prod1.campaign.adobe.com
 sagagroup-mkt-prod1-res.campaign.adobe.com
 saiglobal-mkt-stage1-res.campaign.adobe.com
-samsung-france-mid-prod2-cus.campaign.adobe.com
 samsungcanada-mkt-prod1-res.campaign.adobe.com
 samsungcanada-rt-prod2-lb.campaign.adobe.com
 samsungelectronicsamericainc-mkt-prod1-lb.campaign.adobe.com
@@ -7413,10 +7408,18 @@ p.brsrvr.com
 p-eu.brsrvr.com
 static.brsrvr.com
 brtweb.com
+dev.brussheitnerfuneralhome.com
 magento.brussheitnerfuneralhome.com
+mail.brussheitnerfuneralhome.com
+old.brussheitnerfuneralhome.com
+staging.brussheitnerfuneralhome.com
+test.brussheitnerfuneralhome.com
 ww1.brussheitnerfuneralhome.com
+ww16.brussheitnerfuneralhome.com
 ww17.brussheitnerfuneralhome.com
+ww25.brussheitnerfuneralhome.com
 ww38.brussheitnerfuneralhome.com
+www.brussheitnerfuneralhome.com
 bruthalove.com
 bsbrowsing.com
 bsctelangana.com
@@ -11606,6 +11609,7 @@ hfximeckuv.dnset.com
 hgfdrfds.dnset.com
 hgsjkt.dnset.com
 higsscipevents.dnset.com
+hjyjthfdhhe.dnset.com
 hmbloodspin19.dnset.com
 hmclrewaards.dnset.com
 hmspinreward18.dnset.com
@@ -12398,6 +12402,7 @@ oset.dnset.com
 osmantr.dnset.com
 oster.dnset.com
 ouegonupocagafy.dnset.com
+kz.ouezs.dnset.com
 ouskula.dnset.com
 outlook-f1.dnset.com
 outlook-f4.dnset.com
@@ -12536,6 +12541,7 @@ protectwelxnow.dnset.com
 protectwelzsecure.dnset.com
 prothandfulde.dnset.com
 protime.dnset.com
+prox.dnset.com
 pubg-event-frost.dnset.com
 pubg-free-uc-new-season-2020.dnset.com
 pubg-freeucs12midas.dnset.com
@@ -13446,6 +13452,7 @@ srwditems17.dnset.com
 ssw3lllsffrgooo.dnset.com
 stanzarp.dnset.com
 autoscan.stargate.dnset.com
+bazarr.stargate.dnset.com
 bazarr4k.stargate.dnset.com
 dash.stargate.dnset.com
 jackett.stargate.dnset.com
@@ -13579,6 +13586,7 @@ trustbnk.dnset.com
 trustdns.dnset.com
 trustwallet.dnset.com
 trustwallete.dnset.com
+try.dnset.com
 tsbf.dnset.com
 tsciu.dnset.com
 tsitemrwardss.dnset.com
@@ -13890,6 +13898,7 @@ wetransferc4login.dnset.com
 wetransferc5login.dnset.com
 wetransferc6login.dnset.com
 wetransferc7login.dnset.com
+wetty.dnset.com
 wfbverifylink03.dnset.com
 wfonlinesupport.dnset.com
 wfss.dnset.com
@@ -16472,7 +16481,7 @@ gam4free.com
 06.gamail.com
 068.gamail.com
 077.gamail.com
-0786.gamail.com
+autodiscover.0786.gamail.com
 08.gamail.com
 0810.gamail.com
 111.gamail.com
@@ -16494,7 +16503,7 @@ smtpauth.123.gamail.com
 2000pianon.gamail.com
 2002.gamail.com
 2006.gamail.com
-2010.gamail.com
+autodiscover.2010.gamail.com
 2015.gamail.com
 201704.gamail.com
 2018.gamail.com
@@ -16540,7 +16549,7 @@ autodiscover.718.gamail.com
 786.gamail.com
 806.gamail.com
 888.gamail.com
-91.gamail.com
+autodiscover.91.gamail.com
 914.gamail.com
 99.gamail.com
 999.gamail.com
@@ -16562,7 +16571,7 @@ andana.gamail.com
 aniqmail.gamail.com
 apple.gamail.com
 arasi.gamail.com
-arnold2005.gamail.com
+kurt.arnold2005.gamail.com
 aug29.gamail.com
 authsmtp.gamail.com
 autodiscover.gamail.com
@@ -16605,7 +16614,6 @@ gianon.gamail.com
 autodiscover.gki.gamail.com
 glumov.gamail.com
 gogle.gamail.com
-goglen.gamail.com
 gwww.gamail.com
 h.gamail.com
 hajihoseini.gamail.com
@@ -16644,7 +16652,6 @@ materdei.gamail.com
 mckenzie.gamail.com
 memani.gamail.com
 mihailova.gamail.com
-mobile.gamail.com
 msexch2k13.gamail.com
 mtn.gamail.com
 musicalhouse.gamail.com
@@ -16660,7 +16667,7 @@ newmail2013.gamail.com
 nhlasi.gamail.com
 nk.gamail.com
 ns2.gamail.com
-nuevaescuela.gamail.com
+edomex.nuevaescuela.gamail.com
 office.gamail.com
 ogrencieposta.gamail.com
 openpgpkey.gamail.com
@@ -18172,7 +18179,6 @@ hyunja6.com
 i-cleaning.com
 i23greeting.com
 iadnet.com
-ww11.iahoro.com
 ialotter.com
 amisc.iasds01.com
 auci.iasds01.com
@@ -36738,7 +36744,6 @@ obscenesidewalk.com
 observantice.com
 oclasrv.com
 n31bd.octaviagallery.com
-ww38.octaviagallery.com
 ads.oddschecker.com
 adserver.oddschecker.com
 odeswk.com
@@ -47845,6 +47850,7 @@ scanscout.com
 scarabresearch.com
 scarcesign.com
 scaredsnakes.com
+scaredsong.com
 scaredswing.com
 scaredvideos.com
 scarfsmash.com
@@ -49218,6 +49224,7 @@ soguq.com
 alaskaair.sojern.com
 api.sojern.com
 app.sojern.com
+dev.auth.sojern.com
 autodiscover.sojern.com
 beacon.sojern.com
 bounce.sojern.com
@@ -49907,6 +49914,7 @@ submityoutflicks.com
 submityyourflicks.com
 submtyourflicks.com
 ww25.subscnce.com
+cdn.subscribers.com
 email.mg1.substack.com
 suburbanepropane.com
 subwayblaze.com
@@ -54652,7 +54660,6 @@ xn--sahane-xua.com
 xn--ssyoutube-r3a.com
 xn--tlchargements-bhbb.com
 ww1.xn--trktelekom-9db.com
-ww38.xn--trktelekom-9db.com
 xn--trtocuk-wxa.com
 xn--xhamstr-7xa.com
 xn--yahooenespaol-skb.com
@@ -54673,7 +54680,7 @@ ad2.xrea.com
 ad3.xrea.com
 xredtube.com
 xrnxx.com
-www.xrp-info.com
+xrp-info.com
 xscreenattribution.com
 www.xsslabphpbb.com
 xtendmedia.com
@@ -57159,7 +57166,6 @@ buddhadhamma.info
 www.buduar.info
 buffalos.info
 buhaus.info
-bukittinggi.info
 bulldozer.info
 mvideo.bundesliga-livestream.info
 ww1.bundesliga-livestream.info
@@ -57651,6 +57657,9 @@ ww1.directory2010.info
 ww17.directory2010.info
 ww38.directory2010.info
 www.directory2010.info
+ww1.directoryelite.info
+ww17.directoryelite.info
+ww2.directoryelite.info
 www.directoryelite.info
 dirproject.info
 display-systems.info
@@ -57897,6 +57906,7 @@ fcsite.info
 ww11.fdating.info
 ww38.fdating.info
 www.fdating.info
+mail.ferdos.info
 www.ferdos.info
 ferienhausinnorwegen.info
 antispam.figvam.info
@@ -58072,6 +58082,7 @@ gighoe.info
 gitorm.info
 giveawayforyou.info
 glee-episode.info
+www.gm6.info
 godspeakstoday.info
 godublin.info
 goldrock.info
@@ -74961,7 +74972,6 @@ engine.adglare.net
 ext.adglare.net
 try.adglare.net
 vaping360.adglare.net
-wininapp.adglare.net
 xo.adglare.net
 b9999.adgraph.net
 ddai.adgraph.net
@@ -95274,7 +95284,6 @@ fullspa.net
 funafterdark.net
 funnymathgames.net
 ww1.furniturex.net
-ww11.furniturex.net
 ww35.furniturex.net
 ww38.furniturex.net
 www.furniturex.net
@@ -102585,14 +102594,6 @@ ayso177.org
 ayudapsicologica.org
 azarab.org
 azdachshundrescue.org
-ns1.azfilma.org
-ns2.azfilma.org
-ns3.azfilma.org
-ns4.azfilma.org
-ww1.azfilma.org
-ww17.azfilma.org
-ww38.azfilma.org
-www.azfilma.org
 azmonakan.org
 azmoun.org
 azmunakan.org
@@ -103018,7 +103019,6 @@ mail.digipos.org
 webdisk.digipos.org
 www.digipos.org
 www.digitalbazaar.org
-dan.digitalminimalism.org
 ww17.digitalminimalism.org
 www.digitalminimalism.org
 dirtyvideos.org
@@ -104649,7 +104649,11 @@ ww31.chugworth.scribblekid.org
 ww38.chugworth.scribblekid.org
 imap1.scribblekid.org
 imap2.scribblekid.org
-loserz.scribblekid.org
+ww1.loserz.scribblekid.org
+ww11.loserz.scribblekid.org
+ww25.loserz.scribblekid.org
+ww31.loserz.scribblekid.org
+ww38.loserz.scribblekid.org
 ww25.lozers.scribblekid.org
 m.scribblekid.org
 mail1.scribblekid.org
