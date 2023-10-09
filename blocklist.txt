@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338530
+# Ignored duplicates: 338632
 
 pixel.ad
 roq.ad
@@ -427,7 +427,6 @@ umami.nordiskehandel.cloud
 ads.one-mobile-prod.aws.oath.cloud
 event.syndigo.cloud
 50million.club
-www.ailawlani.club
 hoho.club
 intnotif.club
 traffic.club
@@ -1499,7 +1498,6 @@ accessallstatebenefits.com
 accessiblemetrics.com
 www.accessjpmorgan.com
 accessmyflorida.com
-ww25.accessory4kid.com
 0.accountkit.com
 0-4graph-9graph2-okta-graph.accountkit.com
 01.accountkit.com
@@ -3328,7 +3326,6 @@ lcc-mkt-prod1-t.campaign.adobe.com
 leboncoin-mkt-prod1-lb.campaign.adobe.com
 lebonmarche-mid-prod1.campaign.adobe.com
 lebonmarche-mid-prod1-t.campaign.adobe.com
-libertywireless.campaign.adobe.com
 lifemiles-mkt-prod1-cus.campaign.adobe.com
 lightspeedresearch-mkt-prod1-cus.campaign.adobe.com
 lightspeedresearch-rt-prod2-cus.campaign.adobe.com
@@ -8735,6 +8732,7 @@ assets.connatix.com
 assets-staging.connatix.com
 auth.connatix.com
 auth0.connatix.com
+capi-testing-tunnels.connatix.com
 capi-tier-1-eu-west-1.connatix.com
 capi-tier-1-us-east-2.connatix.com
 capi-tier-1-us-west-2.connatix.com
@@ -14223,7 +14221,6 @@ doonstang.com
 collector.doordash.com
 doppler10.com
 dorpbox.com
-ww11.dota-hotkeys.com
 ad.dotandad.com
 act.bal.dotandad.com
 cnfm.ad2.bal.dotandad.com
@@ -16548,8 +16545,7 @@ autodiscover.718.gamail.com
 784.gamail.com
 786.gamail.com
 806.gamail.com
-888.gamail.com
-autodiscover.91.gamail.com
+citrix.888.gamail.com
 914.gamail.com
 99.gamail.com
 999.gamail.com
@@ -16581,7 +16577,7 @@ bebe.gamail.com
 bensalem.gamail.com
 bk.gamail.com
 body.gamail.com
-c.gamail.com
+g.c.gamail.com
 caixapostal.gamail.com
 cat.gamail.com
 cha.gamail.com
@@ -16627,7 +16623,7 @@ icloud.gamail.com
 ikka.gamail.com
 iphone4.gamail.com
 ivanshkol.gamail.com
-jakarta.gamail.com
+cs.jakarta.gamail.com
 jantra.gamail.com
 jkl.gamail.com
 ka.gamail.com
@@ -16675,7 +16671,6 @@ pianon.gamail.com
 pop.gamail.com
 postur.gamail.com
 promail.gamail.com
-pvparte.gamail.com
 asri.ramdhani.gamail.com
 rdp.gamail.com
 rds.gamail.com
@@ -17671,7 +17666,6 @@ guitarfedish.com
 gukacado.com
 gulfcoastconnections.com
 gumgum.com
-gundamguy.com
 gunggo.com
 gunmilan.com
 ad-specs.guoshipartners.com
@@ -17811,7 +17805,7 @@ hayssupermarket.com
 hbfstech.com
 smetrics.hbogo.com
 smetrics.hbonow.com
-hcm-ansiedad.com
+ww35.hcm-ansiedad.com
 hcworld.com
 hd10.com
 hdcum.com
@@ -43681,7 +43675,6 @@ xml-eu.realtime-bid.com
 track.realtimeboard.com
 li.realtor.com
 smetrics.realtor.com
-rock.reauthenticator.com
 rebelhen.com
 rebelmouse.com
 rebelsubway.com
@@ -54634,6 +54627,7 @@ creative.xlviirdr.com
 go.xlviirdr.com
 video.xlviirdr.com
 xn--12c8bfd6bc8hsa9l.com
+xn--2gr.com
 xn--3jswe97yxxb10jty5bgfmo2d6t8b.com
 xn--4dbggoc3ai.com
 xn--4gr.com
@@ -55204,7 +55198,6 @@ youjjizz.com
 youjjzz.com
 youjuizz.com
 youngfirstimers.com
-ww25.youporna.com
 youporncommunity.com
 youpornpussy.com
 youporntr.com
@@ -56775,10 +56768,7 @@ ww25.av815.info
 ww38.av815.info
 www.av815.info
 av99cn.info
-ww11.avgpctuneup2019.info
-ww16.avgpctuneup2019.info
 ww25.avgpctuneup2019.info
-ww38.avgpctuneup2019.info
 www.avgpctuneup2019.info
 avlist.info
 avpt.info
@@ -56813,8 +56803,6 @@ xoryc.babymassage-apeldoorn.info
 xuqyp.babymassage-apeldoorn.info
 zalaf.babymassage-apeldoorn.info
 backhoe.info
-mvideo.backlinkcanyon.info
-ww1.backlinkcanyon.info
 ww38.backlinkcanyon.info
 bacsidinhduong.info
 baguena.info
@@ -57520,6 +57508,7 @@ naruto-bg.darkbb.info
 naruto-hit.darkbb.info
 platink.darkbb.info
 poet-world.darkbb.info
+runewings317.darkbb.info
 samp-party.darkbb.info
 scorpionforum.darkbb.info
 selenagomez-serbia.darkbb.info
@@ -57718,6 +57707,9 @@ www.doubleup.info
 downclub.info
 downloader.info
 dporn.info
+cpcalendars.dramaticdistinctives.info
+mail.dramaticdistinctives.info
+webdisk.dramaticdistinctives.info
 www.dramaticdistinctives.info
 drare.info
 drasticdsemulatorapk.info
@@ -57854,7 +57846,6 @@ ww11.examroom.info
 ww16.examroom.info
 ww17.examroom.info
 ww25.examroom.info
-ww38.examroom.info
 2004.eyep.info
 commitment.eyep.info
 ol.eyep.info
@@ -57868,8 +57859,6 @@ www.eyep.info
 eyesurgery.info
 ezmethod.info
 mpp.factory-outlet-stores.info
-ww25.static.factory-outlet-stores.info
-ww31.static.factory-outlet-stores.info
 ww11.factory-outlet-stores.info
 ww17.factory-outlet-stores.info
 www.factory-outlet-stores.info
@@ -59540,6 +59529,7 @@ sharedb.info
 sharonziv.info
 sheriff.info
 shineworks.info
+ww1.shippuden.info
 shkid.info
 shlink.info
 shop-shop.info
@@ -60006,16 +59996,9 @@ www.thebestcloudcomputing.info
 theendoflawyers.info
 theforce.info
 thehealingplace.info
-mail.theineptowl.info
-ns1.theineptowl.info
 ns2.theineptowl.info
-ww1.theineptowl.info
 ww16.theineptowl.info
-ww17.theineptowl.info
 ww25.theineptowl.info
-ww4.theineptowl.info
-ww7.theineptowl.info
-www.theineptowl.info
 theleader.info
 thema.info
 track.themaccleanup.info
@@ -60612,7 +60595,6 @@ win-prize.info
 winner-topper-1.info
 sl.wir9.info
 tk.wir9.info
-ww1.wir9.info
 ww17.wir9.info
 www.wir9.info
 ww1.wishrobux.info
@@ -60628,6 +60610,7 @@ ns1.wood35.info
 ns2.wood35.info
 ww1.wood35.info
 ww16.wood35.info
+ww25.wood35.info
 ww38.wood35.info
 www.wood35.info
 woodworkplans.info
@@ -62265,6 +62248,7 @@ info2.gleam.io
 l.gleam.io
 preview.gleam.io
 r.gleam.io
+re.gleam.io
 status.gleam.io
 pixel.glimr.io
 graphly.io
@@ -102507,9 +102491,7 @@ aiimsonians.org
 ainer.org
 airframe.org
 ww1.aises-windsofchangedigitalguides.org
-ww25.aises-windsofchangedigitalguides.org
 ww7.aises-windsofchangedigitalguides.org
-www.aises-windsofchangedigitalguides.org
 ajaxcdn.org
 ajugarconunicef.org
 akpk.org
