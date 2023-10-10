@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338632
+# Ignored duplicates: 338660
 
 pixel.ad
 roq.ad
@@ -3167,7 +3167,6 @@ deltadentalca-rt-prod1-cus.campaign.adobe.com
 devialet-mkt-prod1.campaign.adobe.com
 devialet-mkt-prod1-1.campaign.adobe.com
 directlinegroup.campaign.adobe.com
-dkb-mid-prod1-cus.campaign.adobe.com
 dollartree-mkt-prod1.campaign.adobe.com
 douglasgmbh-mkt-prod1.campaign.adobe.com
 dsg-mkt-prod1-lb.campaign.adobe.com
@@ -6045,7 +6044,6 @@ arroheadexchange.com
 art-zaya.com
 arthritiscancer.com
 metrics.articulate.com
-ww25.artistiksigns.com
 artofzo.com
 artpever.com
 artsai.com
@@ -6878,8 +6876,6 @@ bengalimatimony.com
 benkoltd.com
 bennha.com
 ww1.bentlyauction.com
-ww25.bentlyauction.com
-www.bentlyauction.com
 benuaghty.com
 berkleysettlement.com
 berp.com
@@ -14288,7 +14284,6 @@ dropgox.com
 dropsendit.com
 drpopbox.com
 eproof.drudgereport.com
-ww1.druggarfamily.com
 druggedassult.com
 drumcash.com
 drvehq.com
@@ -15627,7 +15622,6 @@ funnelenvy.com
 ww15.funny-like.com
 www.funny-like.com
 funnyyordie.com
-ww16.funsharetower.com
 ww25.funsharetower.com
 funsite24.com
 funtafreeh.com
@@ -16545,7 +16539,6 @@ autodiscover.718.gamail.com
 784.gamail.com
 786.gamail.com
 806.gamail.com
-citrix.888.gamail.com
 914.gamail.com
 99.gamail.com
 999.gamail.com
@@ -16675,7 +16668,6 @@ asri.ramdhani.gamail.com
 rdp.gamail.com
 rds.gamail.com
 rdweb.gamail.com
-smtpauth.rhdcf.gamail.com
 roche.gamail.com
 roma.gamail.com
 vip.sahs.gamail.com
@@ -16703,7 +16695,7 @@ w.gamail.com
 webmail05.gamail.com
 webmail2013.gamail.com
 wm.gamail.com
-ww.gamail.com
+smtpauth.ww.gamail.com
 www.gamail.com
 wwww.gamail.com
 yahho.gamail.com
@@ -16824,6 +16816,7 @@ geoip-js.com
 geolocation-db.com
 api.georiot.com
 cdn.georiot.com
+lb1b-production.fra1.digitalocean.georiot.com
 mq1-production.fra1.digitalocean.georiot.com
 nomad5-production.fra1.digitalocean.georiot.com
 rabbitbe3-dev.nyc3.digitalocean.georiot.com
@@ -16831,6 +16824,7 @@ email.georiot.com
 geo-itunes.georiot.com
 geo-itunes-stage.georiot.com
 global.georiot.com
+cachefe1-dev.dallas.linode.georiot.com
 lbfe1-dev.dallas.linode.georiot.com
 nomadfe1-dev.dallas.linode.georiot.com
 lb-production.fremont.linode.georiot.com
@@ -19271,7 +19265,6 @@ keogers.com
 keopz.com
 kerman94.com
 kesmatic.com
-kew-village.com
 keywordblocks.com
 kfeawfjatxpi.com
 kgfjrb711.com
@@ -50503,7 +50496,6 @@ tastefulsongs.com
 tatlermagazine.com
 www.magento.tatness.com
 sitemap.tatness.com
-sitemaps.tatness.com
 tattooedgoddess.com
 tawdryson.com
 ww1.taxereturn.com
@@ -51086,7 +51078,6 @@ trafmag.com
 ablink.comms.trainline.com
 traktrafficflow.com
 tranaero.com
-ww16.trance-bux.com
 traneline.com
 tranformise.com
 tranquilside.com
@@ -56609,7 +56600,6 @@ ww38.adidasspringblade2.info
 ww7.adidasspringblade2.info
 www.adidasspringblade2.info
 autodiscover.aditech.info
-cpcalendars.aditech.info
 cpcontacts.aditech.info
 www.aditech.info
 adm-vids.info
@@ -56769,9 +56759,9 @@ ww38.av815.info
 www.av815.info
 av99cn.info
 ww25.avgpctuneup2019.info
-www.avgpctuneup2019.info
 avlist.info
 avpt.info
+ns.avtonom.info
 www.avtonom.info
 avusturyavizesi.info
 ayc0zsm69431gfebd.info
@@ -57710,6 +57700,8 @@ dporn.info
 cpcalendars.dramaticdistinctives.info
 mail.dramaticdistinctives.info
 webdisk.dramaticdistinctives.info
+ww1.dramaticdistinctives.info
+ww38.dramaticdistinctives.info
 www.dramaticdistinctives.info
 drare.info
 drasticdsemulatorapk.info
@@ -57765,16 +57757,8 @@ www.ejabah.info
 el-youm.info
 www.eldolarparalelo.info
 electromenager.info
-darmowe-tlumaczenia.eltt.info
-files.eltt.info
 ms1.eltt.info
-ww1.eltt.info
 ww11.eltt.info
-ww16.eltt.info
-ww17.eltt.info
-ww25.eltt.info
-ww38.eltt.info
-www.eltt.info
 mail.elweva.info
 www.elweva.info
 www.emoticone-gratuit.info
@@ -57840,9 +57824,6 @@ ww38.evershine.info
 www.evershine.info
 evgrid.info
 exabyte.info
-wallet.examroom.info
-ww1.examroom.info
-ww11.examroom.info
 ww16.examroom.info
 ww17.examroom.info
 ww25.examroom.info
@@ -57859,8 +57840,6 @@ www.eyep.info
 eyesurgery.info
 ezmethod.info
 mpp.factory-outlet-stores.info
-ww11.factory-outlet-stores.info
-ww17.factory-outlet-stores.info
 www.factory-outlet-stores.info
 fajos.info
 fakeer.info
@@ -59058,6 +59037,7 @@ smtpauth.portailwebecoles.info
 ww11.portailwebecoles.info
 ww16.portailwebecoles.info
 ww17.portailwebecoles.info
+ww2.portailwebecoles.info
 ww25.portailwebecoles.info
 ww38.portailwebecoles.info
 www.portailwebecoles.info
@@ -59254,9 +59234,7 @@ quepaso.info
 quicktime-download.info
 rabidshare.info
 ract.info
-mail.rad-facts-to-possessmovingforth.info
 ww1.rad-facts-to-possessmovingforth.info
-www.rad-facts-to-possessmovingforth.info
 radiobg.info
 radiomotofm.info
 radioshqip.info
@@ -59530,6 +59508,7 @@ sharonziv.info
 sheriff.info
 shineworks.info
 ww1.shippuden.info
+www.shippuden.info
 shkid.info
 shlink.info
 shop-shop.info
@@ -60596,7 +60575,6 @@ winner-topper-1.info
 sl.wir9.info
 tk.wir9.info
 ww17.wir9.info
-www.wir9.info
 ww1.wishrobux.info
 ww16.wishrobux.info
 ww17.wishrobux.info
@@ -62613,6 +62591,7 @@ custom.plausible.io
 custom-new.plausible.io
 e47b4959.plausible.io
 feedback.plausible.io
+gravatar.plausible.io
 ingest.plausible.io
 journal.plausible.io
 kb.plausible.io
@@ -74117,6 +74096,7 @@ ms.domain.name
 mt.domain.name
 mv.domain.name
 mw.domain.name
+www.my.domain.name
 mz.domain.name
 na.domain.name
 nc.domain.name
@@ -95267,9 +95247,6 @@ fullhdfilmizleyelim.net
 fullspa.net
 funafterdark.net
 funnymathgames.net
-ww1.furniturex.net
-ww35.furniturex.net
-ww38.furniturex.net
 www.furniturex.net
 futbollive.net
 api.vanilla.futurecdn.net
@@ -103002,7 +102979,6 @@ webdisk.digipos.org
 www.digipos.org
 www.digitalbazaar.org
 ww17.digitalminimalism.org
-www.digitalminimalism.org
 dirtyvideos.org
 disasterflorida.org
 discoverysummit.org
@@ -104119,9 +104095,6 @@ ww38.probestfilm.org
 www.probestfilm.org
 procorn.org
 progepe.org
-ww11.projectobolix.org
-ww38.projectobolix.org
-www.projectobolix.org
 projectyouthsafety.org
 www.promoteyourself.org
 pron00.org
@@ -104493,7 +104466,6 @@ ww16.rocketai.org
 ww17.rocketai.org
 ww25.rocketai.org
 ww38.rocketai.org
-www.rocketai.org
 roulemafrite.org
 royalarmouriesshop.org
 run3.org
@@ -104632,7 +104604,6 @@ ww38.chugworth.scribblekid.org
 imap1.scribblekid.org
 imap2.scribblekid.org
 ww1.loserz.scribblekid.org
-ww11.loserz.scribblekid.org
 ww25.loserz.scribblekid.org
 ww31.loserz.scribblekid.org
 ww38.loserz.scribblekid.org
