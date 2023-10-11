@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338660
+# Ignored duplicates: 338666
 
 pixel.ad
 roq.ad
@@ -3516,7 +3516,6 @@ redcross-mid-prod3-cus.campaign.adobe.com
 redcross-mid-stage3-t.campaign.adobe.com
 redfcu-mkt-prod1-1.campaign.adobe.com
 redlobsterllc-mid-prod1-cus.campaign.adobe.com
-registercom-mid-prod1-cus.campaign.adobe.com
 renault-mkt-dev1.campaign.adobe.com
 riteaid-mid-stage1.campaign.adobe.com
 riteaid-mid-stage1-1.campaign.adobe.com
@@ -6875,7 +6874,6 @@ benefitsincard.com
 bengalimatimony.com
 benkoltd.com
 bennha.com
-ww1.bentlyauction.com
 benuaghty.com
 berkleysettlement.com
 berp.com
@@ -6939,6 +6937,7 @@ www.bhandhan.com
 campaign.bharatmatrimony.com
 bhcumsc.com
 bheyafry.com
+mx4.bhringer.com
 biberukalap.com
 ww1.bibng.com
 ww11.bibng.com
@@ -7980,21 +7979,14 @@ century21pattysnell.com
 centuryautobodylv.com
 ta-collector.centurygame.com
 smetrics.centurylink.com
-email.certfiles.com
-m.certfiles.com
 mail.certfiles.com
-mail02.certfiles.com
 mailout.certfiles.com
 mailserver.certfiles.com
-mailsrv.certfiles.com
 mailx.certfiles.com
-mx02.certfiles.com
 mx2.certfiles.com
 ns.certfiles.com
 ns1.certfiles.com
-po.certfiles.com
 poczta.certfiles.com
-smtpauth.certfiles.com
 ww1.certfiles.com
 ww11.certfiles.com
 ww16.certfiles.com
@@ -10187,6 +10179,7 @@ djsenol.com
 dk4ywix.com
 dlbia2music.com
 dma-institute.com
+s.dmmew.com
 bob.dmpxs.com
 ciq.dmpxs.com
 gdprexclusion.dmpxs.com
@@ -15622,7 +15615,6 @@ funnelenvy.com
 ww15.funny-like.com
 www.funny-like.com
 funnyyordie.com
-ww25.funsharetower.com
 funsite24.com
 funtafreeh.com
 furryfork.com
@@ -16562,7 +16554,6 @@ apple.gamail.com
 arasi.gamail.com
 kurt.arnold2005.gamail.com
 aug29.gamail.com
-authsmtp.gamail.com
 autodiscover.gamail.com
 ballpowel2.gamail.com
 batalha.gamail.com
@@ -16655,7 +16646,6 @@ nash.gamail.com
 newmail2013.gamail.com
 nhlasi.gamail.com
 nk.gamail.com
-ns2.gamail.com
 edomex.nuevaescuela.gamail.com
 office.gamail.com
 ogrencieposta.gamail.com
@@ -16683,7 +16673,6 @@ sipinternal.gamail.com
 smail.gamail.com
 smtp-in.gamail.com
 smtpa.gamail.com
-srv.gamail.com
 tembad.gamail.com
 tt.gamail.com
 u.gamail.com
@@ -16705,7 +16694,6 @@ yohou.gamail.com
 yt.gamail.com
 zimbra.gamail.com
 zimbra1.gamail.com
-zmail.gamail.com
 gamblingsyndication.com
 game-advertising-online.com
 android-mobileairport.game-insight.com
@@ -17799,7 +17787,6 @@ hayssupermarket.com
 hbfstech.com
 smetrics.hbogo.com
 smetrics.hbonow.com
-ww35.hcm-ansiedad.com
 hcworld.com
 hd10.com
 hdcum.com
@@ -20374,11 +20361,6 @@ lovedtied.com
 lovelater.com
 lovelocalgirl.com
 loversims.com
-m-jk2skn5zfwl7kcwmpyx.marketing.lovesvg.com
-mta-4.marketing.lovesvg.com
-multimedia.marketing.lovesvg.com
-rsz41zn4nrr2lu8ytqfe--t.marketing.lovesvg.com
-www.marketing.lovesvg.com
 lovetestpro.com
 low1sneakerssverige.com
 smetrics.lowes.com
@@ -22759,7 +22741,6 @@ ww1.mikkymax.com
 ww3.mikkymax.com
 www.mikkymax.com
 milfplatz.com
-ww35.militaryonesourse.com
 www.militaryonesourse.com
 militaryverse.com
 millennialmedia.com
@@ -35973,12 +35954,9 @@ liquidad.narrowcastmedia.com
 nastydollars.com
 natacha-masseuse-paris.com
 natgeoyyo.com
-mymail.nationalbaza.com
-search.nationalbaza.com
+ww25.search.nationalbaza.com
 ww1.nationalbaza.com
 ww25.nationalbaza.com
-ww35.nationalbaza.com
-www.nationalbaza.com
 nationalcostumercare.com
 nationaltimber.com
 natsyvideotube.com
@@ -43075,7 +43053,6 @@ ptalo.com
 deliver.ptgncdn.com
 ptoushoa.com
 ptp22.com
-www.ptypygrebu.com
 pubdirecte.com
 pubexchange.com
 publicdnsinfo.com
@@ -43668,6 +43645,7 @@ xml-eu.realtime-bid.com
 track.realtimeboard.com
 li.realtor.com
 smetrics.realtor.com
+rock.reauthenticator.com
 rebelhen.com
 rebelmouse.com
 rebelsubway.com
@@ -46207,6 +46185,7 @@ retargeter.com
 retargetly.com
 retargettracker.com
 retentionscience.com
+retirementaccountsguide.com
 retirementplansguide.com
 rettube.com
 returnpath.com
@@ -48059,6 +48038,7 @@ secured-cbrw.com
 securedopen-bp.com
 securedserch.com
 securedvisit.com
+securely-protectsoft.com
 securitassecurity.com
 ww16.sedna-aca.com
 www.sedna-aca.com
@@ -49899,7 +49879,6 @@ submityourflcks.com
 submityoutflicks.com
 submityyourflicks.com
 submtyourflicks.com
-ww25.subscnce.com
 cdn.subscribers.com
 email.mg1.substack.com
 suburbanepropane.com
@@ -53594,7 +53573,6 @@ attribution.wolverine.com
 womanear.com
 analytics.wonderanal.com
 wonderlandads.com
-ww11.wonjiintl.com
 ww25.wonjiintl.com
 ww35.wonjiintl.com
 ww38.wonjiintl.com
@@ -54644,7 +54622,6 @@ xn--prednyam-95a.com
 xn--sahane-xua.com
 xn--ssyoutube-r3a.com
 xn--tlchargements-bhbb.com
-ww1.xn--trktelekom-9db.com
 xn--trtocuk-wxa.com
 xn--xhamstr-7xa.com
 xn--yahooenespaol-skb.com
@@ -56286,7 +56263,6 @@ xn--9dbl4bd.co.il
 xn--9dbnfg.co.il
 xn--9dbq2a.co.il
 xn--cebti.co.il
-xn--debbbfn2ef.co.il
 xn--eebdz.co.il
 xn--eebikd0a.co.il
 xn--febdf.co.il
@@ -56793,7 +56769,6 @@ xoryc.babymassage-apeldoorn.info
 xuqyp.babymassage-apeldoorn.info
 zalaf.babymassage-apeldoorn.info
 backhoe.info
-ww38.backlinkcanyon.info
 bacsidinhduong.info
 baguena.info
 bahth.info
@@ -57824,8 +57799,6 @@ ww38.evershine.info
 www.evershine.info
 evgrid.info
 exabyte.info
-ww16.examroom.info
-ww17.examroom.info
 ww25.examroom.info
 2004.eyep.info
 commitment.eyep.info
@@ -57839,8 +57812,6 @@ ww38.eyep.info
 www.eyep.info
 eyesurgery.info
 ezmethod.info
-mpp.factory-outlet-stores.info
-www.factory-outlet-stores.info
 fajos.info
 fakeer.info
 ns.falvguwen.info
@@ -59975,7 +59946,6 @@ www.thebestcloudcomputing.info
 theendoflawyers.info
 theforce.info
 thehealingplace.info
-ns2.theineptowl.info
 ww16.theineptowl.info
 ww25.theineptowl.info
 theleader.info
@@ -103525,7 +103495,6 @@ app.interboro.org
 www.interboro.org
 intercambiosvituales.org
 internalrequests.org
-internetlawlac.org
 interventionscentral.org
 inwebwetrust.org
 iowacourtonline.org
@@ -104441,9 +104410,6 @@ removepearlypenilepapules.org
 rencontre-mature.org
 rentshop.org
 www.rescuecommittee.org
-www1.rescuecommittee.org
-www42.rescuecommittee.org
-www6.rescuecommittee.org
 rescume.org
 reserveusa.org
 resistere.org
@@ -104599,14 +104565,8 @@ scmed.org
 scoliosis-support.org
 scoutin.org
 scp-foundation.org
-ww31.chugworth.scribblekid.org
-ww38.chugworth.scribblekid.org
 imap1.scribblekid.org
 imap2.scribblekid.org
-ww1.loserz.scribblekid.org
-ww25.loserz.scribblekid.org
-ww31.loserz.scribblekid.org
-ww38.loserz.scribblekid.org
 ww25.lozers.scribblekid.org
 m.scribblekid.org
 mail1.scribblekid.org
@@ -104621,8 +104581,6 @@ postmaster.scribblekid.org
 relay2.scribblekid.org
 smtps.scribblekid.org
 ww17.scribblekid.org
-ww31.scribblekid.org
-ww38.scribblekid.org
 scribd.org
 sdacape.org
 sdutlinux.org
