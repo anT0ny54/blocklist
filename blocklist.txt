@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338666
+# Ignored duplicates: 338726
 
 pixel.ad
 roq.ad
@@ -8935,6 +8935,7 @@ cowuw.com
 coxmt.com
 coyotecarries.com
 banner.coza.com
+cozyhillside.com
 cpalead.com
 cpays.com
 cpmktg.com
@@ -9745,6 +9746,7 @@ delandeau.com
 delasobera.com
 delawareonlie.com
 delegatediscussion.com
+delicatecascade.com
 deliverancerocks.com
 p.delivercdn.com
 delivered-by-madington.com
@@ -16644,7 +16646,6 @@ mywebmail.gamail.com
 naros.gamail.com
 nash.gamail.com
 newmail2013.gamail.com
-nhlasi.gamail.com
 nk.gamail.com
 edomex.nuevaescuela.gamail.com
 office.gamail.com
@@ -16661,7 +16662,6 @@ rdweb.gamail.com
 roche.gamail.com
 roma.gamail.com
 vip.sahs.gamail.com
-saintnoodle.gamail.com
 samir.gamail.com
 sbcglobal.gamail.com
 serhatozden.gamail.com
@@ -16671,7 +16671,6 @@ sip.gamail.com
 sipexternal.gamail.com
 sipinternal.gamail.com
 smail.gamail.com
-smtp-in.gamail.com
 smtpa.gamail.com
 tembad.gamail.com
 tt.gamail.com
@@ -17663,7 +17662,9 @@ gwallet.com
 gwnrecords.com
 gyanin.com
 www.gymsharkswedens.com
-gzxrong.com
+ww11.gzxrong.com
+ww25.gzxrong.com
+www.gzxrong.com
 h-bid.com
 api-cdn.h-cdn.com
 ard-de.h-cdn.com
@@ -20093,7 +20094,9 @@ locpub.com
 locsensads.com
 smetrics.loft.com
 logbor.com
-logdelnarco.com
+ww11.logdelnarco.com
+ww25.logdelnarco.com
+www.logdelnarco.com
 logentries.com
 01.loggly.com
 23snaps.loggly.com
@@ -43212,12 +43215,11 @@ mail02.pusnet.com
 mail12.pusnet.com
 mail2.pusnet.com
 mail3.pusnet.com
-mail5.pusnet.com
+ww16.mail5.pusnet.com
 mail8.pusnet.com
 mailbox.pusnet.com
 mailer.pusnet.com
 mails.pusnet.com
-mbox.pusnet.com
 mx.pusnet.com
 mx02.pusnet.com
 mx1.pusnet.com
@@ -49684,8 +49686,6 @@ statxpress.com
 stayisland.com
 steadfastsound.com
 steadfastsystem.com
-sitemap.steamedcheeseburger.com
-sitemaps.steamedcheeseburger.com
 ww1.steamedcheeseburger.com
 www.steamedcheeseburger.com
 steelhouse.com
@@ -53443,7 +53443,9 @@ whiirlpool.com
 whirlwealth.com
 whiskyqueue.com
 whispa.com
+whisperingcascade.com
 whisperingcrib.com
+whisperingsummit.com
 whitelabelpros.com
 www.whittallshonmen.com
 whizzco.com
@@ -55547,7 +55549,6 @@ tm.br.de
 marketing.net.brillen.de
 cash4popup.de
 clicktag.de
-cloud-miner.de
 commindo-media-ressourcen.de
 foo.cosmocode.de
 coupling-media.de
@@ -55567,7 +55568,6 @@ www.adc.emp.de
 eth-pocket.de
 ethereum-cashcard.de
 ethereum-pocket.de
-ethtrader.de
 euros4click.de
 eusta.de
 evilsbedont.de
@@ -55883,7 +55883,6 @@ bitcoin-pay.eu
 bitcoin-pocket.eu
 braze.eu
 manageadv.cblogs.eu
-cloud-miner.eu
 conversantmedia.eu
 browser-http-intake.logs.datadoghq.eu
 rum-http-intake.logs.datadoghq.eu
@@ -56575,9 +56574,6 @@ ww25.adidasspringblade2.info
 ww38.adidasspringblade2.info
 ww7.adidasspringblade2.info
 www.adidasspringblade2.info
-autodiscover.aditech.info
-cpcontacts.aditech.info
-www.aditech.info
 adm-vids.info
 advertisers.info
 aerjournal.info
@@ -56727,6 +56723,7 @@ authgram.info
 authorise.info
 authorne.info
 autopaintrepairs.info
+www.autopuls.info
 autria.info
 www.av18.info
 ww16.av815.info
@@ -56885,9 +56882,6 @@ ww38.besplatno-kachaem.info
 www.besplatno-kachaem.info
 besstahete.info
 bestcb.info
-mvideo.bestgarten.info
-ww1.bestgarten.info
-www.bestgarten.info
 bestmovies.info
 bestouyagames.info
 bestxxxgals.info
@@ -57446,6 +57440,7 @@ danjeh.info
 1st-rangers.darkbb.info
 2claws.darkbb.info
 advertisemotherload.darkbb.info
+anita-blake.darkbb.info
 billyad2000.darkbb.info
 c-gru.darkbb.info
 darkfx.darkbb.info
@@ -57482,6 +57477,8 @@ sport-life.darkbb.info
 theirishmob.darkbb.info
 uclan.darkbb.info
 watchersoffate-jka.darkbb.info
+ww1.darkbb.info
+ww17.darkbb.info
 ww25.darkbb.info
 ww38.darkbb.info
 www.darkbb.info
@@ -57732,8 +57729,6 @@ www.ejabah.info
 el-youm.info
 www.eldolarparalelo.info
 electromenager.info
-ms1.eltt.info
-ww11.eltt.info
 mail.elweva.info
 www.elweva.info
 www.emoticone-gratuit.info
@@ -57985,10 +57980,8 @@ ww25.gameoke.info
 ww38.gameoke.info
 www.gameoke.info
 gameswin.info
-mvideo.gamewin.info
 ww25.gamewin.info
 ww38.gamewin.info
-www.gamewin.info
 gamezonewap.info
 ganihp.info
 ganokuni.info
@@ -58146,6 +58139,7 @@ hdrezka.info
 healthbeautyvn.info
 healthdiet.info
 www.healthontrack.info
+www.healthtips1.info
 healthy-weight-loss-plan.info
 heart-work.info
 heartbreakers.info
@@ -58993,13 +58987,17 @@ portablesoft.info
 auth.portailwebecoles.info
 email.portailwebecoles.info
 gateway.portailwebecoles.info
+host.portailwebecoles.info
 imap2.portailwebecoles.info
+mail9.portailwebecoles.info
 mailer.portailwebecoles.info
 mailx.portailwebecoles.info
 mx2.portailwebecoles.info
+mx4.portailwebecoles.info
 outmail.portailwebecoles.info
 poczta.portailwebecoles.info
 pop.portailwebecoles.info
+post.portailwebecoles.info
 postmaster.portailwebecoles.info
 secure.portailwebecoles.info
 server.portailwebecoles.info
@@ -59946,8 +59944,6 @@ www.thebestcloudcomputing.info
 theendoflawyers.info
 theforce.info
 thehealingplace.info
-ww16.theineptowl.info
-ww25.theineptowl.info
 theleader.info
 thema.info
 track.themaccleanup.info
@@ -60422,9 +60418,7 @@ mail.vestige.info
 webdisk.vestige.info
 www.vestige.info
 ww1.videoindir.info
-ww25.videoindir.info
 ww38.videoindir.info
-www.videoindir.info
 videoking.info
 videoprivate.info
 vidk.info
@@ -102383,8 +102377,6 @@ metrics.aarp.org
 smetrics.aarp.org
 aauk.org
 ww1.abcya2.org
-ww17.abcya2.org
-www.abcya2.org
 abercrombieworkout.org
 abetka-logopedka.org
 aboutdrugtesting.org
@@ -104409,7 +104401,6 @@ relay1.org
 removepearlypenilepapules.org
 rencontre-mature.org
 rentshop.org
-www.rescuecommittee.org
 rescume.org
 reserveusa.org
 resistere.org
@@ -104565,22 +104556,7 @@ scmed.org
 scoliosis-support.org
 scoutin.org
 scp-foundation.org
-imap1.scribblekid.org
-imap2.scribblekid.org
 ww25.lozers.scribblekid.org
-m.scribblekid.org
-mail1.scribblekid.org
-mailer.scribblekid.org
-mailhost.scribblekid.org
-mx1.scribblekid.org
-newmail.scribblekid.org
-ns1.scribblekid.org
-ns2.scribblekid.org
-post.scribblekid.org
-postmaster.scribblekid.org
-relay2.scribblekid.org
-smtps.scribblekid.org
-ww17.scribblekid.org
 scribd.org
 sdacape.org
 sdutlinux.org
