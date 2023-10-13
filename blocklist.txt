@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338726
+# Ignored duplicates: 338957
 
 pixel.ad
 roq.ad
@@ -2408,6 +2408,7 @@ run.admost.com
 statistic.admost.com
 admotion.com
 admthop.com
+adnetasia.com
 adnetworkperformance.com
 adnium.com
 adnuntius.com
@@ -5792,9 +5793,7 @@ aniview.com
 ads.annabac.com
 ww11.annaiengg.com
 ww25.annaiengg.com
-ww35.annaiengg.com
 ww38.annaiengg.com
-www.annaiengg.com
 annieoccasions.com
 p.annodeliver.com
 annoncesintimes.com
@@ -16473,9 +16472,7 @@ autodiscover.0786.gamail.com
 1123.gamail.com
 autodiscover.123.gamail.com
 smtpauth.123.gamail.com
-1234.gamail.com
 13.gamail.com
-16.gamail.com
 17.gamail.com
 1704.gamail.com
 17faxe.gamail.com
@@ -16487,7 +16484,6 @@ smtpauth.123.gamail.com
 2000.gamail.com
 2000pianon.gamail.com
 2002.gamail.com
-2006.gamail.com
 autodiscover.2010.gamail.com
 2015.gamail.com
 201704.gamail.com
@@ -16523,8 +16519,6 @@ vip.249.gamail.com
 6000.gamail.com
 60900.gamail.com
 64.gamail.com
-6624.gamail.com
-6693.gamail.com
 689.gamail.com
 7.gamail.com
 70.gamail.com
@@ -16541,8 +16535,6 @@ autodiscover.718.gamail.com
 a.gamail.com
 aam.gamail.com
 abogan.gamail.com
-access.gamail.com
-accesso.gamail.com
 ahsa.gamail.com
 alexgames.gamail.com
 almeida.gamail.com
@@ -16564,14 +16556,11 @@ bensalem.gamail.com
 bk.gamail.com
 body.gamail.com
 g.c.gamail.com
-caixapostal.gamail.com
 cat.gamail.com
 cha.gamail.com
 chauhan.gamail.com
-citrix.gamail.com
 ciupkevicius.gamail.com
 com.gamail.com
-correio.gamail.com
 correo.gamail.com
 correu.gamail.com
 courrier.gamail.com
@@ -16585,8 +16574,6 @@ eposta.gamail.com
 ex02.gamail.com
 exch2016.gamail.com
 exchangecorp.gamail.com
-exchmail.gamail.com
-exmail2.gamail.com
 facebook.gamail.com
 faygshsj.gamail.com
 rewad.ff.gamail.com
@@ -16612,12 +16599,10 @@ ivanshkol.gamail.com
 cs.jakarta.gamail.com
 jantra.gamail.com
 jkl.gamail.com
-ka.gamail.com
-kerrdweb.gamail.com
+smtpauth.ka.gamail.com
 khenniche.gamail.com
 kr.gamail.com
 lena.gamail.com
-lev.gamail.com
 lifhred.gamail.com
 live.gamail.com
 luis.gamail.com
@@ -16627,7 +16612,6 @@ mail.gamail.com
 mail1.gamail.com
 mail2.gamail.com
 mail3.gamail.com
-mailmetnet.gamail.com
 maksik.gamail.com
 maryamamini67.gamail.com
 materdei.gamail.com
@@ -16648,18 +16632,11 @@ nash.gamail.com
 newmail2013.gamail.com
 nk.gamail.com
 edomex.nuevaescuela.gamail.com
-office.gamail.com
 ogrencieposta.gamail.com
 openpgpkey.gamail.com
 pianon.gamail.com
 pop.gamail.com
-postur.gamail.com
-promail.gamail.com
 asri.ramdhani.gamail.com
-rdp.gamail.com
-rds.gamail.com
-rdweb.gamail.com
-roche.gamail.com
 roma.gamail.com
 vip.sahs.gamail.com
 samir.gamail.com
@@ -16674,7 +16651,6 @@ smail.gamail.com
 smtpa.gamail.com
 tembad.gamail.com
 tt.gamail.com
-u.gamail.com
 ucarrillo.gamail.com
 uvi.gamail.com
 valad.gamail.com
@@ -16685,7 +16661,6 @@ webmail2013.gamail.com
 wm.gamail.com
 smtpauth.ww.gamail.com
 www.gamail.com
-wwww.gamail.com
 yahho.gamail.com
 yahoo.gamail.com
 yandex.gamail.com
@@ -17278,7 +17253,7 @@ gogglegame.com
 goglegames.com
 gogorithm.com
 goingplatinum.com
-gold-bride.com
+ww25.gold-bride.com
 goldcoastrenfaire.com
 goldencorral-listeners.com
 goldencorrral-listens.com
@@ -20601,8 +20576,6 @@ ppc.adhere.marchex.com
 call-ad-network-api.marchex.com
 marfeelcache.com
 ww1.marimga.com
-ww25.marimga.com
-www.marimga.com
 marinsm.com
 marisada.com
 markedcrayon.com
@@ -35959,7 +35932,6 @@ natacha-masseuse-paris.com
 natgeoyyo.com
 ww25.search.nationalbaza.com
 ww1.nationalbaza.com
-ww25.nationalbaza.com
 nationalcostumercare.com
 nationaltimber.com
 natsyvideotube.com
@@ -36711,7 +36683,6 @@ service.cmp.oath.com
 obscenesidewalk.com
 observantice.com
 oclasrv.com
-n31bd.octaviagallery.com
 ads.oddschecker.com
 adserver.oddschecker.com
 odeswk.com
@@ -41982,7 +41953,6 @@ sj2-pvnmr14.pinger.com
 sj2-pvnmr15.pinger.com
 x.pinger.com
 pingudu.com
-ww1.pinkbunnylilli.com
 www.pinkbunnylilli.com
 pinkdoorboutique.com
 pinncle.com
@@ -43528,8 +43498,6 @@ quickflashupdater.com
 quickflashupdating.com
 quicknewsplus.com
 quicksandear.com
-ww1.quickwaycarrier.com
-ww5.quickwaycarrier.com
 www.quickwaycarrier.com
 quickwinupdates.com
 quieresligar.com
@@ -52377,6 +52345,7 @@ track.vcdc.com
 analytics.vcdevhub.com
 vciuy.com
 vcommission.com
+ww11.vcrictime.com
 vcyud.com
 veeplay.com
 advertising.veeseo.com
@@ -55549,6 +55518,7 @@ tm.br.de
 marketing.net.brillen.de
 cash4popup.de
 clicktag.de
+cloud-miner.de
 commindo-media-ressourcen.de
 foo.cosmocode.de
 coupling-media.de
@@ -55568,6 +55538,7 @@ www.adc.emp.de
 eth-pocket.de
 ethereum-cashcard.de
 ethereum-pocket.de
+ethtrader.de
 euros4click.de
 eusta.de
 evilsbedont.de
@@ -55883,6 +55854,7 @@ bitcoin-pay.eu
 bitcoin-pocket.eu
 braze.eu
 manageadv.cblogs.eu
+cloud-miner.eu
 conversantmedia.eu
 browser-http-intake.logs.datadoghq.eu
 rum-http-intake.logs.datadoghq.eu
@@ -56688,6 +56660,9 @@ arterienverkalkung.info
 arteycultura.info
 mail.articleabc.info
 www.articleabc.info
+bbs.arunachalfront.info
+mail.arunachalfront.info
+webdisk.arunachalfront.info
 ww11.arunachalfront.info
 ww17.arunachalfront.info
 ww38.arunachalfront.info
@@ -56731,7 +56706,6 @@ ww25.av815.info
 ww38.av815.info
 www.av815.info
 av99cn.info
-ww25.avgpctuneup2019.info
 avlist.info
 avpt.info
 ns.avtonom.info
@@ -57143,6 +57117,8 @@ ww1.cancer-treatment.info
 ww38.cancer-treatment.info
 www.cancer-treatment.info
 candoo.info
+ww1.candysite.info
+ww17.candysite.info
 www.candysite.info
 canirunit.info
 canj.info
@@ -57980,8 +57956,6 @@ ww25.gameoke.info
 ww38.gameoke.info
 www.gameoke.info
 gameswin.info
-ww25.gamewin.info
-ww38.gamewin.info
 gamezonewap.info
 ganihp.info
 ganokuni.info
@@ -58860,19 +58834,21 @@ ww11.onlymature.info
 ww16.onlymature.info
 ww38.onlymature.info
 www.onlymature.info
-jasaseo.onthespot.info
+ww17.jasaseo.onthespot.info
 mail.onthespot.info
-ww1.onthespot.info
 ww11.onthespot.info
 ww17.onthespot.info
-ww38.onthespot.info
-www.onthespot.info
 onzeweb.info
 optisyen.info
 optymalni.info
 organizationalmarket.info
 outdooradventure.info
 outdoorman.info
+ww11.ov3.info
+ww17.ov3.info
+ww25.ov3.info
+ww38.ov3.info
+www.ov3.info
 p108.info
 packettracer.info
 www.padnij.info
@@ -59003,6 +58979,7 @@ secure.portailwebecoles.info
 server.portailwebecoles.info
 server1.portailwebecoles.info
 smtpauth.portailwebecoles.info
+ww1.portailwebecoles.info
 ww11.portailwebecoles.info
 ww16.portailwebecoles.info
 ww17.portailwebecoles.info
@@ -59203,7 +59180,6 @@ quepaso.info
 quicktime-download.info
 rabidshare.info
 ract.info
-ww1.rad-facts-to-possessmovingforth.info
 radiobg.info
 radiomotofm.info
 radioshqip.info
@@ -59477,6 +59453,7 @@ sharonziv.info
 sheriff.info
 shineworks.info
 ww1.shippuden.info
+ww38.shippuden.info
 www.shippuden.info
 shkid.info
 shlink.info
@@ -60418,7 +60395,6 @@ mail.vestige.info
 webdisk.vestige.info
 www.vestige.info
 ww1.videoindir.info
-ww38.videoindir.info
 videoking.info
 videoprivate.info
 vidk.info
@@ -60506,8 +60482,6 @@ webreggi.info
 webspro.info
 webworth.info
 weimei.info
-sitemap.welda.info
-ww1.welda.info
 ww17.welda.info
 cleanstep.wesua.info
 dust.wesua.info
@@ -68367,11 +68341,17 @@ funbox-rprd-380-reportsfixes.yellowblue.io
 funbox-rprd-381-public-api.yellowblue.io
 funbox-rprd-382-infinite.yellowblue.io
 funbox-rprd-383.yellowblue.io
+funbox-rprd-383-intentiq.yellowblue.io
+funbox-rprd-383-intentiq-forci.yellowblue.io
+funbox-rprd-383-intentiq-new.yellowblue.io
 funbox-rprd-384.yellowblue.io
 funbox-rprd-384-datarejects.yellowblue.io
+funbox-rprd-384-intentiq.yellowblue.io
 funbox-rprd-391-infinite-scroll-cooldown.yellowblue.io
 funbox-rprd-392-min-floor.yellowblue.io
 funbox-rprd-396-report-bl-flow.yellowblue.io
+funbox-rprd-397-blflowidfix.yellowblue.io
+funbox-rprd-409-reportadunitload.yellowblue.io
 funbox-rprd-52-tagsauction.yellowblue.io
 funbox-rprd-52-tagsauction-adjusttoresponse.yellowblue.io
 funbox-rprd-52-tagsfix.yellowblue.io
@@ -74874,6 +74854,7 @@ adbooth.net
 adc-serv.net
 adc-srv.net
 adcenter.net
+adclixx.net
 adexc.net
 adform.net
 a2.adformdsp.net
@@ -97205,6 +97186,7 @@ pxsrv.net
 www.pyramisa.net
 wwww.qksrv.net
 siteintercept.qprod2.net
+www.qudsmedia.net
 questaffiliates.net
 raac33.net
 railtouring.net
@@ -102376,7 +102358,6 @@ aampr.org
 metrics.aarp.org
 smetrics.aarp.org
 aauk.org
-ww1.abcya2.org
 abercrombieworkout.org
 abetka-logopedka.org
 aboutdrugtesting.org
@@ -102491,6 +102472,7 @@ arsuicideprevention.org
 arteterapiaforo.org
 as3js.org
 asburywarren.org
+mail.ask2.org
 www.ask2.org
 aspinalfoundation.org
 assertj.org
@@ -102525,7 +102507,7 @@ ww11.babelinks.org
 ww38.babelinks.org
 www.babelinks.org
 app.backinstock.org
-bagira.org
+ww25.old.bagira.org
 baillii.org
 bajkidladzieci.org
 ballotopedia.org
@@ -102940,7 +102922,6 @@ mail.digipos.org
 webdisk.digipos.org
 www.digipos.org
 www.digitalbazaar.org
-ww17.digitalminimalism.org
 dirtyvideos.org
 disasterflorida.org
 discoverysummit.org
@@ -102958,6 +102939,7 @@ mailx.dlbase.org
 send.dlbase.org
 starstablehack.dlbase.org
 ww38.dlbase.org
+www.dlbase.org
 dmschool.org
 dmvaz.org
 server.dn888.org
@@ -103875,7 +103857,6 @@ nonamepizza.org
 noradsant.org
 norcalfiretraining.org
 noticias-cambridgeesol.org
-www.notmining.org
 notpad-plus-plus.org
 novalighting.org
 novosti-mk.org
@@ -104556,7 +104537,6 @@ scmed.org
 scoliosis-support.org
 scoutin.org
 scp-foundation.org
-ww25.lozers.scribblekid.org
 scribd.org
 sdacape.org
 sdutlinux.org
