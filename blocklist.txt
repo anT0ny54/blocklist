@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338900
+# Ignored duplicates: 338818
 
 pixel.ad
 roq.ad
@@ -516,7 +516,7 @@ inmobi.cn
 ip193.cn
 s.jpush.cn
 stats.jpush.cn
-invitation.cantonfair.org.cn
+www.invitation.cantonfair.org.cn
 zzhc.vnet.cn
 xadchina.cn
 api.2no.co
@@ -1165,7 +1165,6 @@ www.6sense.com
 www2.6sense.com
 zendesk.6sense.com
 zeniq-prod.6sense.com
-ww11.6wissen.com
 ww25.6wissen.com
 ads.73dpi.com
 777partner.com
@@ -4600,7 +4599,6 @@ adultmoviesales.com
 adultpinay.com
 cluster.adultworld.com
 newt1.adultworld.com
-ww11.adulysearch.com
 ww25.adulysearch.com
 adunity.com
 adup-tech.com
@@ -7549,7 +7547,6 @@ buxoal.com
 buy-ad.com
 buyonlineretinanow.com
 jagi.buypixelads.com
-mail.buypixelads.com
 pixel.buypixelads.com
 webdisk.buypixelads.com
 www.buypixelads.com
@@ -14846,7 +14843,6 @@ ww1.eroshemales.com
 ww35.eroshemales.com
 www.eroshemales.com
 eroticrealm.com
-ww11.escort-gold.com
 ww25.escort-gold.com
 escortpunterforum.com
 eskime.com
@@ -15085,9 +15081,7 @@ exposebox.com
 expresscameras.com
 expressdirections.com
 exsteze.com
-ww11.extasy-sp.com
 ww25.extasy-sp.com
-ww35.extasy-sp.com
 ww38.extasy-sp.com
 www.extasy-sp.com
 m.extellio.com
@@ -15613,6 +15607,7 @@ funnelenvy.com
 ww15.funny-like.com
 www.funny-like.com
 funnyyordie.com
+ww1.funordie.com
 funsite24.com
 funtafreeh.com
 furryfork.com
@@ -16460,7 +16455,6 @@ galleryofwives.com
 gam4free.com
 05.gamail.com
 06.gamail.com
-autodiscover.0786.gamail.com
 08.gamail.com
 0810.gamail.com
 1123.gamail.com
@@ -16491,20 +16485,19 @@ vip.349857.gamail.com
 4.gamail.com
 40.gamail.com
 42tr.gamail.com
-467.gamail.com
+autodiscover.467.gamail.com
 47171.gamail.com
 5.gamail.com
 508.gamail.com
 555.gamail.com
 vip.5567.gamail.com
 56.gamail.com
-5678.gamail.com
+autodiscover.5678.gamail.com
 586.gamail.com
 6000.gamail.com
 60900.gamail.com
 64.gamail.com
 689.gamail.com
-7.gamail.com
 autodiscover.718.gamail.com
 77.gamail.com
 784.gamail.com
@@ -16518,7 +16511,6 @@ autodiscover.718.gamail.com
 abogan.gamail.com
 vip.ahsa.gamail.com
 almeida.gamail.com
-alvaventures.gamail.com
 amin090904.gamail.com
 amin2205.gamail.com
 anaarauza.gamail.com
@@ -16545,19 +16537,14 @@ ssl.apple.gamail.com
 thor.apple.gamail.com
 autodiscover.gamail.com
 ballpowel2.gamail.com
-batalha.gamail.com
 bebe.gamail.com
 bensalem.gamail.com
 bk.gamail.com
 body.gamail.com
-g.c.gamail.com
 cat.gamail.com
 cha.gamail.com
-ciupkevicius.gamail.com
 com.gamail.com
-com.cowww.gamail.com
 dani.gamail.com
-dedsrgwuw.gamail.com
 demirr.gamail.com
 emine.gamail.com
 eposta.gamail.com
@@ -16569,16 +16556,75 @@ rewad.ff.gamail.com
 g.gamail.com
 gianon.gamail.com
 autodiscover.gki.gamail.com
-glumov.gamail.com
 h.gamail.com
 hotmail.gamail.com
-hotmail2234.gamail.com
 hp.gamail.com
-icloud.gamail.com
+antispam.icloud.gamail.com
+art.icloud.gamail.com
+auth.icloud.gamail.com
+authsmtp.icloud.gamail.com
+barracuda.icloud.gamail.com
+box.icloud.gamail.com
+com.icloud.gamail.com
+correo.icloud.gamail.com
+cs.icloud.gamail.com
+direct.icloud.gamail.com
+eml.icloud.gamail.com
+gw.icloud.gamail.com
+hermes.icloud.gamail.com
+home.icloud.gamail.com
+host.icloud.gamail.com
+internet.icloud.gamail.com
+ipe.icloud.gamail.com
+mail01.icloud.gamail.com
+mail02.icloud.gamail.com
+mail10.icloud.gamail.com
+mail4.icloud.gamail.com
+mail5.icloud.gamail.com
+mailbox.icloud.gamail.com
+mailer.icloud.gamail.com
+mailgate.icloud.gamail.com
+mailgw.icloud.gamail.com
+mailhost.icloud.gamail.com
+mailin.icloud.gamail.com
+mailrelay.icloud.gamail.com
+mailserver.icloud.gamail.com
+mailx.icloud.gamail.com
+ms.icloud.gamail.com
+mta1.icloud.gamail.com
+mx.icloud.gamail.com
+mx1.icloud.gamail.com
+mx10.icloud.gamail.com
+mx3.icloud.gamail.com
+newmail.icloud.gamail.com
+ns.icloud.gamail.com
+ns1.icloud.gamail.com
+pbrand.icloud.gamail.com
+po.icloud.gamail.com
+poczta.icloud.gamail.com
+pop.icloud.gamail.com
+post.icloud.gamail.com
+posta.icloud.gamail.com
+root.icloud.gamail.com
+seed.icloud.gamail.com
+send.icloud.gamail.com
+server.icloud.gamail.com
+server1.icloud.gamail.com
+smtpauth.icloud.gamail.com
+smtps.icloud.gamail.com
+smtpseguro.icloud.gamail.com
+sniper.icloud.gamail.com
+srv.icloud.gamail.com
+thor.icloud.gamail.com
+tiger.icloud.gamail.com
+tw.icloud.gamail.com
+vip.icloud.gamail.com
+vnet.icloud.gamail.com
+vps.icloud.gamail.com
+zimbra.icloud.gamail.com
+zmail.icloud.gamail.com
 ikka.gamail.com
 iphone4.gamail.com
-ivanshkol.gamail.com
-cs.jakarta.gamail.com
 jantra.gamail.com
 smtpauth.ka.gamail.com
 khenniche.gamail.com
@@ -16589,7 +16635,6 @@ lyncdiscover.gamail.com
 lyncdiscoverinternal.gamail.com
 mail.gamail.com
 maryamamini67.gamail.com
-materdei.gamail.com
 mckenzie.gamail.com
 memani.gamail.com
 vip.mihailova.gamail.com
@@ -16600,10 +16645,8 @@ mx001.gamail.com
 naros.gamail.com
 nash.gamail.com
 newmail2013.gamail.com
-smtpauth.nk.gamail.com
 edomex.nuevaescuela.gamail.com
 ogrencieposta.gamail.com
-openpgpkey.gamail.com
 asri.ramdhani.gamail.com
 vip.sahs.gamail.com
 sbcglobal.gamail.com
@@ -16615,16 +16658,12 @@ sipinternal.gamail.com
 smail.gamail.com
 smtpa.gamail.com
 tembad.gamail.com
-uvi.gamail.com
 valad.gamail.com
 vikasbhargava.gamail.com
-w.gamail.com
 webmail05.gamail.com
 webmail2013.gamail.com
-smtpauth.ww.gamail.com
 www.gamail.com
 yahho.gamail.com
-yahoo.gamail.com
 smtpauth.yandex.gamail.com
 yohou.gamail.com
 gamblingsyndication.com
@@ -20533,7 +20572,6 @@ adfeed.marchex.com
 ppc.adhere.marchex.com
 call-ad-network-api.marchex.com
 marfeelcache.com
-ww1.marimga.com
 marinsm.com
 marisada.com
 markedcrayon.com
@@ -22675,7 +22713,6 @@ ww1.mikkymax.com
 ww3.mikkymax.com
 www.mikkymax.com
 milfplatz.com
-www.militaryonesourse.com
 militaryverse.com
 millennialmedia.com
 millsapveterinaryclinic.com
@@ -42494,7 +42531,6 @@ godarkbags.postaffiliatepro.com
 goldenbuzz.postaffiliatepro.com
 golfknack.postaffiliatepro.com
 golfscape.postaffiliatepro.com
-goodcell-tq.postaffiliatepro.com
 goodnesslover.postaffiliatepro.com
 goosevpn.postaffiliatepro.com
 gopillar.postaffiliatepro.com
@@ -43165,7 +43201,6 @@ smtpauth.pusnet.com
 smtpseguro.pusnet.com
 srv.pusnet.com
 ww11.pusnet.com
-ww16.pusnet.com
 www.pusnet.com
 putasviejas.com
 puwoqog.com
@@ -50396,8 +50431,6 @@ targetpoint.com
 tastebudsfm.com
 tastefulsongs.com
 tatlermagazine.com
-www.magento.tatness.com
-sitemap.tatness.com
 tattooedgoddess.com
 tawdryson.com
 ww1.taxereturn.com
@@ -53501,7 +53534,6 @@ attribution.wolverine.com
 womanear.com
 analytics.wonderanal.com
 wonderlandads.com
-ww25.wonjiintl.com
 ww38.wonjiintl.com
 www.woogiewoo.com
 woomio.com
@@ -56246,14 +56278,6 @@ domaining.in
 analytics.htmedia.in
 adjust.net.in
 cdn.popt.in
-album.00221.info
-f.00221.info
-tak.00221.info
-tak2.00221.info
-tak3.00221.info
-ww1.00221.info
-ww17.00221.info
-ww38.00221.info
 0daypatch.info
 www.104ez.info
 177piczz.info
@@ -57301,6 +57325,8 @@ coinloft.info
 coinprobase.info
 cointracker.info
 collectivegap.info
+mail.coltivazioneindoor.info
+webdisk.coltivazioneindoor.info
 come-fare.info
 good.comix.info
 porn.comix.info
@@ -57725,7 +57751,6 @@ ww38.evershine.info
 www.evershine.info
 evgrid.info
 exabyte.info
-ww25.examroom.info
 2004.eyep.info
 commitment.eyep.info
 ol.eyep.info
@@ -58842,8 +58867,12 @@ phpprotect.info
 phpstore.info
 phtechtools.info
 phur.info
+autodiscover.picaduras.info
 mail.picaduras.info
 webdisk.picaduras.info
+ww1.picaduras.info
+ww17.picaduras.info
+ww25.picaduras.info
 ww38.picaduras.info
 www.picaduras.info
 ww1.pictureguycabo.info
@@ -59431,6 +59460,8 @@ ww16.sirri.info
 ww25.sirri.info
 ww38.sirri.info
 www.sirri.info
+ww1.sitedata.info
+ww38.sitedata.info
 www.sitedata.info
 sixcalifornias.info
 ads.sjon.info
@@ -60463,8 +60494,6 @@ www.wikipenza.info
 wikiseda.info
 win-prize.info
 winner-topper-1.info
-sl.wir9.info
-tk.wir9.info
 ww1.wishrobux.info
 ww16.wishrobux.info
 ww17.wishrobux.info
@@ -75725,6 +75754,7 @@ o0bm4.amazingvacationhomesfl.net
 orqml.amazingvacationhomesfl.net
 saprr.amazingvacationhomesfl.net
 vy65o.amazingvacationhomesfl.net
+www.amazingvacationhomesfl.net
 wxojd.amazingvacationhomesfl.net
 x8yzo.amazingvacationhomesfl.net
 analytics-active.net
@@ -78585,8 +78615,6 @@ coldwarshooters.net
 coleccionismo.net
 collegelatinas.net
 colorkids.net
-droit-finances.commentcamarch.net
-ww16.commentcamarch.net
 community-baptist.net
 comxcast.net
 connecthackensackumc.net
@@ -101838,6 +101866,8 @@ tappeout.net
 targetix.net
 tcads.net
 cpt.test.technolutions.net
+mail.tekniart.net
+webdisk.tekniart.net
 telugunovels.net
 cityads.telus.net
 www.tennis-recruiting.net
@@ -102363,8 +102393,6 @@ ahlulbaitindonesia.org
 aiimsonians.org
 ainer.org
 airframe.org
-ww1.aises-windsofchangedigitalguides.org
-ww7.aises-windsofchangedigitalguides.org
 ajaxcdn.org
 ajugarconunicef.org
 akpk.org
@@ -102460,7 +102488,6 @@ ww11.babelinks.org
 ww38.babelinks.org
 www.babelinks.org
 app.backinstock.org
-ww25.old.bagira.org
 baillii.org
 bajkidladzieci.org
 ballotopedia.org
@@ -103056,8 +103083,6 @@ account.epfindia.org
 api.epfindia.org
 chat.epfindia.org
 www.ww17.epfindia.org
-ww25.epfindia.org
-www.epfindia.org
 eplore.org
 epsthailand.org
 ervaringswerkers.org
@@ -103845,6 +103870,8 @@ oleggio2.org
 olllo.org
 olmpic.org
 olypic.org
+home.omegachart.org
+host.omegachart.org
 onahepatitis.org
 openae.org
 openambit.org
@@ -104487,6 +104514,7 @@ scmed.org
 scoliosis-support.org
 scoutin.org
 scp-foundation.org
+www.scribblekid.org
 scribd.org
 sdacape.org
 sdutlinux.org
@@ -104509,7 +104537,6 @@ www.shabad.org
 shador.org
 shadowsock.org
 shekinahlive.org
-ww25.shelbywarrant.org
 sheltonpublicschool.org
 shiapgcollege.org
 shikotv.org
