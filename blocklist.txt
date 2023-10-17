@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338738
+# Ignored duplicates: 338747
 
 pixel.ad
 roq.ad
@@ -6923,7 +6923,6 @@ bfmio.com
 bgstechnik.com
 bhandarimaruti.com
 ww11.bhandhan.com
-ww25.bhandhan.com
 www.bhandhan.com
 campaign.bharatmatrimony.com
 bhcumsc.com
@@ -7545,7 +7544,6 @@ buxoal.com
 buy-ad.com
 buyonlineretinanow.com
 jagi.buypixelads.com
-webdisk.buypixelads.com
 www.buypixelads.com
 buyrumba.com
 buysellads.com
@@ -15270,7 +15268,6 @@ flagcounter.com
 flairadscpc.com
 ww11.flaitradar24.com
 ww25.flaitradar24.com
-ww35.flaitradar24.com
 ww38.flaitradar24.com
 www.flaitradar24.com
 flakesrental.com
@@ -16449,8 +16446,6 @@ galerie-blondel.com
 galleryofwives.com
 gam4free.com
 05.gamail.com
-08.gamail.com
-smtpauth.123.gamail.com
 1704.gamail.com
 17faxe.gamail.com
 19.gamail.com
@@ -16462,30 +16457,16 @@ smtpauth.123.gamail.com
 29.gamail.com
 47171.gamail.com
 508.gamail.com
-689.gamail.com
 999.gamail.com
 9gerbyk.gamail.com
 amin090904.gamail.com
 amin2205.gamail.com
-aniqmail.gamail.com
 bensalem.gamail.com
 bk.gamail.com
 com.gamail.com
-eposta.gamail.com
-exch2016.gamail.com
-exchangecorp.gamail.com
 hp.gamail.com
-msexch2k13.gamail.com
-mtn.gamail.com
-mx001.gamail.com
 naros.gamail.com
 nash.gamail.com
-newmail2013.gamail.com
-ogrencieposta.gamail.com
-smail.gamail.com
-smtpa.gamail.com
-webmail05.gamail.com
-webmail2013.gamail.com
 gamblingsyndication.com
 game-advertising-online.com
 android-mobileairport.game-insight.com
@@ -17890,7 +17871,7 @@ httpool.com
 httpqvc.com
 httptrack.com
 httpturbotax.com
-htvmobili.com
+ww1.htvmobili.com
 huang-jianhua.com
 hubadnetwork.com
 eventtracking.hubapi.com
@@ -18231,7 +18212,6 @@ vwrap.imrworldwide.com
 imtwjwoasak.com
 inagbe.com
 inatgrm.com
-nri.inbintranet.com
 dev.sbi.inbintranet.com
 magento.sbi.inbintranet.com
 online.sbi.inbintranet.com
@@ -18245,11 +18225,6 @@ old.sbionline.inbintranet.com
 shop.sbionline.inbintranet.com
 test.sbionline.inbintranet.com
 ww1.inbintranet.com
-ww11.inbintranet.com
-ww25.inbintranet.com
-ww35.inbintranet.com
-ww38.inbintranet.com
-www.inbintranet.com
 tracking.inboxads.com
 inboxdollars.com
 incestboard.com
@@ -42847,6 +42822,7 @@ www.psp35.com
 pspioz.com
 psychedelicchess.com
 ptalo.com
+www.ptestexapta.com
 deliver.ptgncdn.com
 ptoushoa.com
 ptp22.com
@@ -54398,7 +54374,6 @@ xn--niasxxx-5za.com
 xn--parfmevi-95a.com
 xn--prednyam-95a.com
 xn--sahane-xua.com
-xn--ssyoutube-r3a.com
 xn--tlchargements-bhbb.com
 xn--trtocuk-wxa.com
 xn--xhamstr-7xa.com
@@ -62273,7 +62248,6 @@ us.geo.ngtv.io
 west.geo.ngtv.io
 a.ntv.io
 admin-static.ntv.io
-api.ntv.io
 c.ntv.io
 cdn.ntv.io
 celtra.ntv.io
@@ -64292,6 +64266,7 @@ rvoh-talent-analytics.sandbox.redventures.io
 rvpr.sandbox.redventures.io
 security-tools.sandbox.redventures.io
 securityoperationswizcollab1.sandbox.redventures.io
+securityoperationswizcollab2.sandbox.redventures.io
 soc-forensics.sandbox.redventures.io
 soc-sandbox.sandbox.redventures.io
 terratest.sandbox.redventures.io
@@ -101688,6 +101663,7 @@ tcads.net
 cpt.test.technolutions.net
 mail.tekniart.net
 webdisk.tekniart.net
+www.tekniart.net
 telugunovels.net
 cityads.telus.net
 www.tennis-recruiting.net
@@ -103249,7 +103225,9 @@ impslp.org
 imslo.org
 imslt.org
 incident-report.org
-indesa.org
+mx.indesa.org
+ww17.indesa.org
+www.indesa.org
 indexxx.org
 indianaexpeditions.org
 indonesianembassy-china.org
@@ -103273,6 +103251,7 @@ ad.iplayer.org
 ipsas.org
 ironoakshoa.org
 isamesih.org
+isfedu.org
 islandofrhodes.org
 islandtowers.org
 islcollective.org
@@ -103682,6 +103661,7 @@ oakparkschool.org
 oasissanctuary.org
 objectifdemocratie.org
 oceach.org
+ogcweb.org
 ogrid.org
 oharahs.org
 okdslive.org
@@ -103753,6 +103733,7 @@ parapro.org
 pargodungan.org
 parivahan.org
 parkinsonvoice.org
+particuliers.org
 partnershealth.org
 party-girls.org
 partycat.org
