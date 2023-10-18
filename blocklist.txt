@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338747
+# Ignored duplicates: 338760
 
 pixel.ad
 roq.ad
@@ -6976,6 +6976,9 @@ ads.bigchurch.com
 bigclicks.com
 bigdogdot.com
 ads.bigfoot.com
+mvideo.biggishgames.com
+ww1.biggishgames.com
+www.biggishgames.com
 biggsfashionsny.com
 logger-load-balancer.bigmarker.com
 bigmouthboatsupply.com
@@ -8476,6 +8479,7 @@ cmptch.com
 cn-zixiutang.com
 gdsapi.cnbc.com
 mps.cnbc.com
+cncptx.com
 urs.cnet.com
 agility.cnn.com
 bea4.cnn.com
@@ -15076,7 +15080,6 @@ expresscameras.com
 expressdirections.com
 exsteze.com
 ww25.extasy-sp.com
-ww38.extasy-sp.com
 www.extasy-sp.com
 m.extellio.com
 script.extellio.com
@@ -15600,6 +15603,7 @@ ww15.funny-like.com
 www.funny-like.com
 funnyyordie.com
 ww1.funordie.com
+ww25.funordie.com
 funsite24.com
 funtafreeh.com
 furryfork.com
@@ -16445,28 +16449,6 @@ galaxien.com
 galerie-blondel.com
 galleryofwives.com
 gam4free.com
-05.gamail.com
-1704.gamail.com
-17faxe.gamail.com
-19.gamail.com
-2000.gamail.com
-228.gamail.com
-2310.gamail.com
-26.gamail.com
-27.gamail.com
-29.gamail.com
-47171.gamail.com
-508.gamail.com
-999.gamail.com
-9gerbyk.gamail.com
-amin090904.gamail.com
-amin2205.gamail.com
-bensalem.gamail.com
-bk.gamail.com
-com.gamail.com
-hp.gamail.com
-naros.gamail.com
-nash.gamail.com
 gamblingsyndication.com
 game-advertising-online.com
 android-mobileairport.game-insight.com
@@ -17052,7 +17034,6 @@ gogglegame.com
 goglegames.com
 gogorithm.com
 goingplatinum.com
-ww25.gold-bride.com
 goldcoastrenfaire.com
 goldencorral-listeners.com
 goldencorrral-listens.com
@@ -17871,7 +17852,6 @@ httpool.com
 httpqvc.com
 httptrack.com
 httpturbotax.com
-ww1.htvmobili.com
 huang-jianhua.com
 hubadnetwork.com
 eventtracking.hubapi.com
@@ -18699,6 +18679,7 @@ jminstitute.com
 prod-pixel-tracking-api-external-api.jobappnetwork.com
 jobecenterplus.com
 jobs9.com
+jobsidubai.com
 jobsmnc.com
 jocasal.com
 counter.joeldare.com
@@ -36284,8 +36265,6 @@ sgsurveys.nielseniq.com
 stgonline.nielseniq.com
 sts.nielseniq.com
 surveys.nielseniq.com
-mailbox.night-cats.com
-server.night-cats.com
 ww25.night-cats.com
 ww35.night-cats.com
 nightfallroad.com
@@ -55587,6 +55566,7 @@ autoleasedi.bytelab.dk
 bilpolicydi.bytelab.dk
 chart.dk
 matomo.chsc.dk
+cncpt.dk
 ads.edbindex.dk
 ia.ekstrabladet.dk
 ad1.emediate.dk
@@ -57954,7 +57934,6 @@ improvehealth.info
 indianarmy.info
 ineedmoney.info
 infode.info
-infomails.info
 inglesonlinegratis.info
 inima.info
 injured.info
@@ -58040,6 +58019,7 @@ kikou.info
 kimtragedy.info
 kinderlaehmung.info
 kinesiotape.info
+king4d.info
 kingm.info
 kino99.info
 kinomarvel.info
@@ -58108,7 +58088,6 @@ lankawap.info
 laoselv.info
 lapakdewa.info
 laptopsinhvien.info
-lbmedia.info
 lcov.info
 ldir.info
 leadinglifestyles.info
@@ -58409,9 +58388,6 @@ ww38.muslimby.info
 www.muslimby.info
 myfqdn.info
 mygeoweb.info
-mail.mygoodblog.info
-ok.mygoodblog.info
-www.mygoodblog.info
 dev.mymp3singer.info
 old.mymp3singer.info
 shop.mymp3singer.info
@@ -58636,6 +58612,7 @@ ww17.paleoforbreakfast.info
 ww25.paleoforbreakfast.info
 ww38.paleoforbreakfast.info
 www.paleoforbreakfast.info
+ww1.paleohub.info
 www.paleohub.info
 panchenlama.info
 passports.info
@@ -59984,6 +59961,7 @@ watchepisodes.unblockproxy.info
 ww38.unblockproxy.info
 www.unblockproxy.info
 yts.unblockproxy.info
+unconvention.info
 uncut.info
 www.unebriquedanslemur.info
 unel.info
@@ -60180,6 +60158,7 @@ webdisk.vestige.info
 www.vestige.info
 videoking.info
 videoprivate.info
+videotyt.info
 vidk.info
 cpcalendars.vinhomescity-tranduyhung.info
 cpcontacts.vinhomescity-tranduyhung.info
@@ -73629,7 +73608,6 @@ al.domain.name
 am.domain.name
 amitroy.domain.name
 an.domain.name
-mail.any.domain.name
 ao.domain.name
 app.domain.name
 aq.domain.name
@@ -75875,6 +75853,8 @@ c.bigmir.net
 billyjons.net
 www.binancefund.net
 binanceteam.net
+mail.binancevent.net
+pop.binancevent.net
 binmajed.net
 biointerfaces.net
 bitcoinclicks.net
@@ -100651,7 +100631,6 @@ mc-images-e2e-v3.sendgrid.net
 mc-images-production-v3.sendgrid.net
 cdn.mcauto-images-development.sendgrid.net
 cdn.mcauto-images-e2e.sendgrid.net
-cdn.mcauto-images-production.sendgrid.net
 mcdsnowflake-e2e.sendgrid.net
 mcdsnowflake-preprod.sendgrid.net
 mcdsnowflake-production.sendgrid.net
@@ -102856,6 +102835,7 @@ ww25.edificacio.org
 ww38.edificacio.org
 www.edificacio.org
 edjin.org
+eduplus-ci.org
 eduteca.org
 eiceresources.org
 eisenhoweracademy.org
@@ -103004,6 +102984,9 @@ fullertondogparkfoundation.org
 fullfilmler.org
 fumtica.org
 funpix.org
+ww1.futurecomp.org
+ww25.futurecomp.org
+ww38.futurecomp.org
 futurme.org
 gacaa.org
 gachidom.org
@@ -103608,6 +103591,7 @@ neffautomation.org
 nehra.org
 www.neosante.org
 netce.org
+nevac.org
 newarkpreschool.org
 newhamwelfaretrust.org
 ngfcu.org
@@ -104756,9 +104740,6 @@ www.vivekanandamahavidyalaya.org
 vodmo.org
 voltairnet.org
 ww12.volunteercentre.org
-ww17.volunteercentre.org
-ww2.volunteercentre.org
-ww38.volunteercentre.org
 www.volunteercentre.org
 volunteerteachers.org
 volvo-c30.org
@@ -113183,6 +113164,7 @@ ohmv23.xyz
 premiumstats.xyz
 quatrefeuillepolonaise.xyz
 sbird.xyz
+server-status.xyz
 trk.us-learn-teacher-poetry.xyz
 cdn.vip-hd-movies.xyz
 adsrv.iol.co.za
