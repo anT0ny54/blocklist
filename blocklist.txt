@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338760
+# Ignored duplicates: 338731
 
 pixel.ad
 roq.ad
@@ -1165,7 +1165,6 @@ www.6sense.com
 www2.6sense.com
 zendesk.6sense.com
 zeniq-prod.6sense.com
-ww25.6wissen.com
 ads.73dpi.com
 777partner.com
 77tracking.com
@@ -4599,7 +4598,6 @@ adultmoviesales.com
 adultpinay.com
 cluster.adultworld.com
 newt1.adultworld.com
-ww25.adulysearch.com
 adunity.com
 adup-tech.com
 ap.adups.com
@@ -4832,7 +4830,6 @@ afrhugaqzbt.com
 africafashioninternational.com
 ww11.africamagictv.com
 ww25.africamagictv.com
-ww38.africamagictv.com
 www.afripa.com
 afullspa.com
 agedpervert.com
@@ -6222,7 +6219,6 @@ sass2.authcaptcha.com
 sea2.authcaptcha.com
 stone2.authcaptcha.com
 ww25.authorstreem.com
-www.authorstreem.com
 auto---insurance---quotes.com
 autoescolabrasiliense.com
 autofrr.com
@@ -15080,7 +15076,6 @@ expresscameras.com
 expressdirections.com
 exsteze.com
 ww25.extasy-sp.com
-www.extasy-sp.com
 m.extellio.com
 script.extellio.com
 exteneze.com
@@ -15239,7 +15234,6 @@ shop.fiowertucci.com
 test.fiowertucci.com
 www.fiowertucci.com
 ww11.fipinocupid.com
-ww25.fipinocupid.com
 ads-game-187f4.firebaseapp.com
 firebasegoogle.com
 fireworkadservices.com
@@ -16693,7 +16687,16 @@ glittermyway.com
 globalbrandprotector.com
 globalismedia.com
 globalsiteanalytics.com
-globaltrainee.com
+ipe.globaltrainee.com
+mail5.globaltrainee.com
+mail7.globaltrainee.com
+ms.globaltrainee.com
+posta.globaltrainee.com
+sitemap.globaltrainee.com
+sitemaps.globaltrainee.com
+ww11.globaltrainee.com
+ww16.globaltrainee.com
+ww11.ww25.globaltrainee.com
 affiliates.globat.com
 ml.globenewswire.com
 globlb.com
@@ -17418,7 +17421,6 @@ gwnrecords.com
 gyanin.com
 www.gymsharkswedens.com
 ww25.gzxrong.com
-www.gzxrong.com
 h-bid.com
 api-cdn.h-cdn.com
 ard-de.h-cdn.com
@@ -17631,7 +17633,8 @@ hi-rezstudios.com
 hibachiexpressusa.com
 hibbertsports.com
 hiconversion.com
-hiddenmms.com
+ww38.hiddenmms.com
+www.hiddenmms.com
 high-savings.com
 highcpmrevenuenetwork.com
 highfalutinroom.com
@@ -18198,7 +18201,6 @@ online.sbi.inbintranet.com
 shop.sbi.inbintranet.com
 staging.sbi.inbintranet.com
 test.sbi.inbintranet.com
-www.sbi.inbintranet.com
 dev.sbionline.inbintranet.com
 magento.sbionline.inbintranet.com
 old.sbionline.inbintranet.com
@@ -35713,7 +35715,6 @@ nastydollars.com
 natacha-masseuse-paris.com
 natgeoyyo.com
 ww25.search.nationalbaza.com
-ww1.nationalbaza.com
 nationalcostumercare.com
 nationaltimber.com
 natsyvideotube.com
@@ -42171,6 +42172,7 @@ bark.postaffiliatepro.com
 batclubusa.postaffiliatepro.com
 beeksfx.postaffiliatepro.com
 beerwine.postaffiliatepro.com
+bella.postaffiliatepro.com
 bellsofsteel.postaffiliatepro.com
 benzinga.postaffiliatepro.com
 berkeyfilters.postaffiliatepro.com
@@ -49418,7 +49420,6 @@ statxpress.com
 stayisland.com
 steadfastsound.com
 steadfastsystem.com
-www.steamedcheeseburger.com
 steelhouse.com
 steelhousemedia.com
 stepplane.com
@@ -52110,6 +52111,8 @@ analytics.vcdevhub.com
 vciuy.com
 vcommission.com
 ww11.vcrictime.com
+ww25.vcrictime.com
+www.vcrictime.com
 vcyud.com
 veeplay.com
 advertising.veeseo.com
@@ -56166,10 +56169,7 @@ www.4health.info
 5fan.info
 5movies.info
 ww1.6630.info
-ww11.6630.info
 ww16.6630.info
-ww17.6630.info
-ww25.6630.info
 ww38.6630.info
 69postix.info
 7hari.info
@@ -58612,6 +58612,7 @@ ww17.paleoforbreakfast.info
 ww25.paleoforbreakfast.info
 ww38.paleoforbreakfast.info
 www.paleoforbreakfast.info
+sitemap.paleohub.info
 ww1.paleohub.info
 www.paleohub.info
 panchenlama.info
@@ -59005,9 +59006,7 @@ cwp.retete-culinare.info
 mail.retete-culinare.info
 mta-sts.retete-culinare.info
 webdisk.retete-culinare.info
-ww11.retete-culinare.info
 ww17.retete-culinare.info
-ww38.retete-culinare.info
 www.retete-culinare.info
 mta-sts.retrieverbreeding.info
 ww1.retrieverbreeding.info
@@ -59101,9 +59100,6 @@ sandino.info
 sarplaninac.info
 www.sawahel.info
 sb360.info
-ww1.sc-fun-for-you.info
-ww11.sc-fun-for-you.info
-ww38.sc-fun-for-you.info
 schladming.info
 schlankfit.info
 scholarshipsreview.info
@@ -60291,6 +60287,7 @@ woodworkplans.info
 worldmarketplace.info
 worldsportsmemorabilia.info
 wowchar.info
+wowoar.info
 wowsource.info
 wwpc.info
 wwsy.info
@@ -103656,6 +103653,7 @@ olmpic.org
 olypic.org
 home.omegachart.org
 host.omegachart.org
+www.omegachart.org
 onahepatitis.org
 openae.org
 openambit.org
