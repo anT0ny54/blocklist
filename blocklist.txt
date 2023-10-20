@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338731
+# Ignored duplicates: 338854
 
 pixel.ad
 roq.ad
@@ -4828,7 +4828,6 @@ afpesp.com
 afraidlanguage.com
 afrhugaqzbt.com
 africafashioninternational.com
-ww11.africamagictv.com
 ww25.africamagictv.com
 www.afripa.com
 afullspa.com
@@ -5705,22 +5704,16 @@ wpengine-cf.amplitude.com
 www.amplitude.com
 amsterdam-apartments.com
 auth.amsterdam-map.com
-authsmtp.amsterdam-map.com
 com.amsterdam-map.com
-email.amsterdam-map.com
 imap1.amsterdam-map.com
 imap2.amsterdam-map.com
 m.amsterdam-map.com
-mail.amsterdam-map.com
-mail01.amsterdam-map.com
 mail1.amsterdam-map.com
 mail2.amsterdam-map.com
 mail8.amsterdam-map.com
 mailbox.amsterdam-map.com
-mailer.amsterdam-map.com
 mailgate.amsterdam-map.com
 mailgw.amsterdam-map.com
-mailhost.amsterdam-map.com
 mailrelay.amsterdam-map.com
 mailserver.amsterdam-map.com
 mailsrv.amsterdam-map.com
@@ -5729,30 +5722,22 @@ ms1.amsterdam-map.com
 mta1.amsterdam-map.com
 mx.amsterdam-map.com
 mx01.amsterdam-map.com
-mx1.amsterdam-map.com
 mx2.amsterdam-map.com
 mx20.amsterdam-map.com
-mx3.amsterdam-map.com
-mx4.amsterdam-map.com
 mx7.amsterdam-map.com
 ns.amsterdam-map.com
-ns1.amsterdam-map.com
 ns2.amsterdam-map.com
-po.amsterdam-map.com
-pop.amsterdam-map.com
 post.amsterdam-map.com
 postmaster.amsterdam-map.com
 root.amsterdam-map.com
 secure.amsterdam-map.com
 seed.amsterdam-map.com
 server.amsterdam-map.com
-smtps.amsterdam-map.com
 tiger.amsterdam-map.com
 tw.amsterdam-map.com
 vmail.amsterdam-map.com
 vnet.amsterdam-map.com
 www.amsterdam-map.com
-www2.amsterdam-map.com
 amstubs.com
 analaurie.com
 aire.analytics-egain.com
@@ -6218,7 +6203,6 @@ rock2.authcaptcha.com
 sass2.authcaptcha.com
 sea2.authcaptcha.com
 stone2.authcaptcha.com
-ww25.authorstreem.com
 auto---insurance---quotes.com
 autoescolabrasiliense.com
 autofrr.com
@@ -6883,7 +6867,6 @@ bestclasslanguage.com
 bestcoinsignals.com
 bestcontentonline.com
 www.bestdressedbaby.com
-www.bestfactorybundles.com
 go.bestmobiworld.com
 bestnetzero.com
 bestofattorney.com
@@ -6918,8 +6901,6 @@ bfijteodglun.com
 bfmio.com
 bgstechnik.com
 bhandarimaruti.com
-ww11.bhandhan.com
-www.bhandhan.com
 campaign.bharatmatrimony.com
 bhcumsc.com
 bheyafry.com
@@ -7632,7 +7613,6 @@ cdn.caprofitx.com
 templates.caprofitx.com
 captainbicycle.com
 captainstablehotel.com
-www.captgarys.com
 car---insurance--quotes.com
 car--insurance--quotes.com
 caramellbbw.com
@@ -7964,6 +7944,7 @@ century21pattysnell.com
 centuryautobodylv.com
 ta-collector.centurygame.com
 smetrics.centurylink.com
+ww38.email.certfiles.com
 mail.certfiles.com
 mailout.certfiles.com
 mailserver.certfiles.com
@@ -14837,7 +14818,6 @@ ww1.eroshemales.com
 ww35.eroshemales.com
 www.eroshemales.com
 eroticrealm.com
-ww25.escort-gold.com
 escortpunterforum.com
 eskime.com
 eskimotuibe.com
@@ -15075,7 +15055,6 @@ exposebox.com
 expresscameras.com
 expressdirections.com
 exsteze.com
-ww25.extasy-sp.com
 m.extellio.com
 script.extellio.com
 exteneze.com
@@ -15598,6 +15577,7 @@ www.funny-like.com
 funnyyordie.com
 ww1.funordie.com
 ww25.funordie.com
+www.funordie.com
 funsite24.com
 funtafreeh.com
 furryfork.com
@@ -16687,11 +16667,6 @@ glittermyway.com
 globalbrandprotector.com
 globalismedia.com
 globalsiteanalytics.com
-ipe.globaltrainee.com
-mail5.globaltrainee.com
-mail7.globaltrainee.com
-ms.globaltrainee.com
-posta.globaltrainee.com
 sitemap.globaltrainee.com
 sitemaps.globaltrainee.com
 ww11.globaltrainee.com
@@ -17420,7 +17395,6 @@ gwallet.com
 gwnrecords.com
 gyanin.com
 www.gymsharkswedens.com
-ww25.gzxrong.com
 h-bid.com
 api-cdn.h-cdn.com
 ard-de.h-cdn.com
@@ -17633,7 +17607,6 @@ hi-rezstudios.com
 hibachiexpressusa.com
 hibbertsports.com
 hiconversion.com
-ww38.hiddenmms.com
 www.hiddenmms.com
 high-savings.com
 highcpmrevenuenetwork.com
@@ -18197,7 +18170,6 @@ inagbe.com
 inatgrm.com
 dev.sbi.inbintranet.com
 magento.sbi.inbintranet.com
-online.sbi.inbintranet.com
 shop.sbi.inbintranet.com
 staging.sbi.inbintranet.com
 test.sbi.inbintranet.com
@@ -18685,7 +18657,13 @@ jobsidubai.com
 jobsmnc.com
 jocasal.com
 counter.joeldare.com
-joempegs.com
+mail10.joempegs.com
+mailhost.joempegs.com
+mailrelay.joempegs.com
+mailsrv.joempegs.com
+mxs.joempegs.com
+ns2.joempegs.com
+www.joempegs.com
 joepraise.com
 joesclassicmovies.com
 jofukapu.com
@@ -18740,7 +18718,6 @@ zimbra.judaicaworldwide.com
 juicemobile.com
 juicyads.com
 jumboquiz.com
-jumeriahbeach.com
 jump6geo.com
 jumpstarttaggingsolutions.com
 jumptap.com
@@ -19410,7 +19387,6 @@ linkvertise.com
 liquidm.com
 lisasophia.com
 lisnr.com
-listn2myradio.com
 al1.listrakbi.com
 at1.listrakbi.com
 barcode.listrakbi.com
@@ -35714,7 +35690,6 @@ liquidad.narrowcastmedia.com
 nastydollars.com
 natacha-masseuse-paris.com
 natgeoyyo.com
-ww25.search.nationalbaza.com
 nationalcostumercare.com
 nationaltimber.com
 natsyvideotube.com
@@ -42953,32 +42928,6 @@ workforcesoftware.pushwoosh.com
 x5.pushwoosh.com
 yandex.pushwoosh.com
 zong.pushwoosh.com
-authsmtp.pusnet.com
-barracuda.pusnet.com
-comune.pusnet.com
-gate.pusnet.com
-gateway.pusnet.com
-gw.pusnet.com
-home.pusnet.com
-host.pusnet.com
-mail02.pusnet.com
-mail12.pusnet.com
-mail2.pusnet.com
-mail3.pusnet.com
-ww16.mail5.pusnet.com
-mails.pusnet.com
-mx02.pusnet.com
-mx1.pusnet.com
-ns1.pusnet.com
-ww25.ns2.pusnet.com
-poczta.pusnet.com
-ww16.post.pusnet.com
-smtp01.pusnet.com
-smtpauth.pusnet.com
-smtpseguro.pusnet.com
-srv.pusnet.com
-ww11.pusnet.com
-www.pusnet.com
 putasviejas.com
 puwoqog.com
 pxl-mailtracker.com
@@ -46612,6 +46561,11 @@ c.riskified.com
 riskijatt.com
 ristorante-golfoparadiso.com
 riteaidebenefits.com
+ww1.ritmoblog.com
+ww11.ritmoblog.com
+ww17.ritmoblog.com
+ww25.ritmoblog.com
+ww38.ritmoblog.com
 ritzykey.com
 ritzyragsboutique.com
 rivarly.com
@@ -52528,7 +52482,6 @@ v2.visualwebsiteoptimizer.com
 www.visualwebsiteoptimizer.com
 vitadesks.com
 ww25.vivoscandicci.com
-www.vivoscandicci.com
 vivtracking.com
 vizu.com
 vizury.com
@@ -53311,7 +53264,6 @@ attribution.wolverine.com
 womanear.com
 analytics.wonderanal.com
 wonderlandads.com
-ww38.wonjiintl.com
 www.woogiewoo.com
 woomio.com
 woopra.com
@@ -55878,11 +55830,7 @@ maco.co.il
 meal.co.il
 megared.co.il
 meidashoa.co.il
-cpcalendars.mellex.co.il
 cpcontacts.mellex.co.il
-mail.mellex.co.il
-webdisk.mellex.co.il
-www.mellex.co.il
 mortein.co.il
 movefree.co.il
 mucinex.co.il
@@ -56169,7 +56117,6 @@ www.4health.info
 5fan.info
 5movies.info
 ww1.6630.info
-ww16.6630.info
 ww38.6630.info
 69postix.info
 7hari.info
@@ -56304,7 +56251,6 @@ aerjournal.info
 afreeurl.info
 africanlegends.info
 aftereffectvn.info
-ww1.ahhadesigns.info
 ww16.ahhadesigns.info
 ww17.ahhadesigns.info
 ww25.ahhadesigns.info
@@ -57458,6 +57404,8 @@ ww25.ejabah.info
 ww38.ejabah.info
 www.ejabah.info
 el-youm.info
+mail.eldolarparalelo.info
+ww1.eldolarparalelo.info
 www.eldolarparalelo.info
 electromenager.info
 mail.elweva.info
@@ -58144,6 +58092,13 @@ lsrd.info
 luatdoanhnghiep.info
 lucario.info
 lucypindergallery.info
+mail.lukisan.info
+ns1.lukisan.info
+webdisk.lukisan.info
+ww1.lukisan.info
+ww17.lukisan.info
+ww25.lukisan.info
+ww38.lukisan.info
 luoli.info
 luvita.info
 luxfilm.info
@@ -58612,8 +58567,10 @@ ww17.paleoforbreakfast.info
 ww25.paleoforbreakfast.info
 ww38.paleoforbreakfast.info
 www.paleoforbreakfast.info
+mail.paleohub.info
 sitemap.paleohub.info
 ww1.paleohub.info
+ww25.paleohub.info
 www.paleohub.info
 panchenlama.info
 passports.info
@@ -59001,13 +58958,7 @@ ww25.renktir.info
 www.renktir.info
 resorthotels.info
 restplatz.info
-cpcalendars.retete-culinare.info
-cwp.retete-culinare.info
-mail.retete-culinare.info
-mta-sts.retete-culinare.info
-webdisk.retete-culinare.info
 ww17.retete-culinare.info
-www.retete-culinare.info
 mta-sts.retrieverbreeding.info
 ww1.retrieverbreeding.info
 ww17.retrieverbreeding.info
@@ -59366,11 +59317,6 @@ ww25.sserbanro.info
 ww38.sserbanro.info
 www.sserbanro.info
 cpcalendars.ssf2online.info
-ww1.ssf2online.info
-ww16.ssf2online.info
-ww17.ssf2online.info
-ww25.ssf2online.info
-ww38.ssf2online.info
 ssmatomeantenna.info
 lagu.stafabanddl.info
 m.stafabanddl.info
@@ -59490,6 +59436,8 @@ ww25.tap7500.info
 ww38.tap7500.info
 www.tap7500.info
 taraftarium24hd.info
+ww25.tarjetarojatv.info
+www.tarjetarojatv.info
 tauruszodiac.info
 www.taxecarbone.info
 auth.taxreps.info
@@ -60156,15 +60104,8 @@ videoking.info
 videoprivate.info
 videotyt.info
 vidk.info
-cpcalendars.vinhomescity-tranduyhung.info
 cpcontacts.vinhomescity-tranduyhung.info
 mail.vinhomescity-tranduyhung.info
-webdisk.vinhomescity-tranduyhung.info
-ww1.vinhomescity-tranduyhung.info
-ww16.vinhomescity-tranduyhung.info
-ww25.vinhomescity-tranduyhung.info
-ww38.vinhomescity-tranduyhung.info
-www.vinhomescity-tranduyhung.info
 www.virtualbus.info
 az.visapornotv.info
 be.visapornotv.info
@@ -104159,11 +104100,13 @@ rivinia.org
 rkmtbs.org
 metrics.robinhood.org
 rocat.org
+mail.rocketai.org
 ww1.rocketai.org
 ww16.rocketai.org
 ww17.rocketai.org
 ww25.rocketai.org
 ww38.rocketai.org
+www.rocketai.org
 roulemafrite.org
 royalarmouriesshop.org
 run3.org
