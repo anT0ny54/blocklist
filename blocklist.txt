@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338854
+# Ignored duplicates: 338969
 
 pixel.ad
 roq.ad
@@ -7523,8 +7523,6 @@ buxbal.com
 buxoal.com
 buy-ad.com
 buyonlineretinanow.com
-jagi.buypixelads.com
-www.buypixelads.com
 buyrumba.com
 buysellads.com
 buythethings.com
@@ -7919,6 +7917,7 @@ cdnsynd.com
 cdnwidget.com
 activate.cdw.com
 activate.cdwg.com
+ceciliavenus.com
 ns2.ced7000pro.com
 ww38.ced7000pro.com
 www.ced7000pro.com
@@ -7944,15 +7943,21 @@ century21pattysnell.com
 centuryautobodylv.com
 ta-collector.centurygame.com
 smetrics.centurylink.com
-ww38.email.certfiles.com
+email.certfiles.com
+m.certfiles.com
 mail.certfiles.com
+mail02.certfiles.com
 mailout.certfiles.com
 mailserver.certfiles.com
+mailsrv.certfiles.com
 mailx.certfiles.com
+mx02.certfiles.com
 mx2.certfiles.com
 ns.certfiles.com
 ns1.certfiles.com
+po.certfiles.com
 poczta.certfiles.com
+smtpauth.certfiles.com
 ww1.certfiles.com
 ww11.certfiles.com
 ww16.certfiles.com
@@ -9471,6 +9476,7 @@ datapointlimited.com
 dataunlocker.com
 dataxu.com
 datemeboy.com
+daughterstone.com
 metrics.daveandbusters.com
 davidloyd.com
 davidmannaudio.com
@@ -14397,6 +14403,7 @@ live-stream-feeds.dynamicyield.com
 live-stream-feeds-staging.dynamicyield.com
 login-playtech.dynamicyield.com
 lp.dynamicyield.com
+mail.dynamicyield.com
 marketing.dynamicyield.com
 gw.metadata.dynamicyield.com
 mobile-connector.dynamicyield.com
@@ -16671,7 +16678,6 @@ sitemap.globaltrainee.com
 sitemaps.globaltrainee.com
 ww11.globaltrainee.com
 ww16.globaltrainee.com
-ww11.ww25.globaltrainee.com
 affiliates.globat.com
 ml.globenewswire.com
 globlb.com
@@ -17743,7 +17749,6 @@ hotmey.com
 hotnewhihop.com
 hotnewhiphopsongs.com
 hotnewhophop.com
-hotpinoyplanet.com
 backup.hotsalewear.com
 m.hotsalewear.com
 ww1.hotsalewear.com
@@ -18168,16 +18173,6 @@ vwrap.imrworldwide.com
 imtwjwoasak.com
 inagbe.com
 inatgrm.com
-dev.sbi.inbintranet.com
-magento.sbi.inbintranet.com
-shop.sbi.inbintranet.com
-staging.sbi.inbintranet.com
-test.sbi.inbintranet.com
-dev.sbionline.inbintranet.com
-magento.sbionline.inbintranet.com
-old.sbionline.inbintranet.com
-shop.sbionline.inbintranet.com
-test.sbionline.inbintranet.com
 ww1.inbintranet.com
 tracking.inboxads.com
 inboxdollars.com
@@ -18657,12 +18652,6 @@ jobsidubai.com
 jobsmnc.com
 jocasal.com
 counter.joeldare.com
-mail10.joempegs.com
-mailhost.joempegs.com
-mailrelay.joempegs.com
-mailsrv.joempegs.com
-mxs.joempegs.com
-ns2.joempegs.com
 www.joempegs.com
 joepraise.com
 joesclassicmovies.com
@@ -19829,9 +19818,7 @@ locpub.com
 locsensads.com
 smetrics.loft.com
 logbor.com
-ww11.logdelnarco.com
-ww25.logdelnarco.com
-www.logdelnarco.com
+logdelnarco.com
 logentries.com
 01.loggly.com
 23snaps.loggly.com
@@ -21425,12 +21412,6 @@ mehabus.com
 meijiers.com
 meiratboutique.com
 communications.melitaltd.com
-banners.mellowads.com
-s1.mellowads.com
-s2.mellowads.com
-s3.mellowads.com
-tracking.mellowads.com
-www.mellowads.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -35351,7 +35332,6 @@ mydeptfree.com
 mydickssortinggoods.com
 4jslg.mydiscoverdard.com
 ww1.mydiscoverdard.com
-www.mydiscoverdard.com
 myeloma-info.com
 myerizon.com
 myesaytv.com
@@ -35778,7 +35758,6 @@ ncuwtufam.com
 adproxy.ndmdhs.com
 ndparking.com
 ndroip.com
-ads.ndtv1.com
 analyze.neatab.com
 calc.neatab.com
 cdn.neatab.com
@@ -36241,7 +36220,6 @@ sgsurveys.nielseniq.com
 stgonline.nielseniq.com
 sts.nielseniq.com
 surveys.nielseniq.com
-ww25.night-cats.com
 ww35.night-cats.com
 nightfallroad.com
 nihulhon.com
@@ -47381,6 +47359,7 @@ toryburch-e.sailthru.com
 valuemags-a.sailthru.com
 web.sailthru.com
 www.sailthru.com
+a.sakh.com
 tracking.etidning.salaallehanda.com
 tracking.salaallehanda.com
 webapi.staging.salamantex.com
@@ -49385,6 +49364,7 @@ stickyadstv.com
 stiffgame.com
 stifflinks.com
 stilo-club.com
+stimulatingsneeze.com
 stivers-ricsovers.com
 stmichaelsmuseum.com
 dc.stokke.com
@@ -50651,7 +50631,6 @@ www.topdisplaynetwork.com
 topfifty.com
 topforall.com
 toppmarkensverige.com
-toprebates.com
 topsir.com
 topssneakers.com
 topstats.com
@@ -55711,8 +55690,6 @@ skroutza.skroutz.gr
 ads.soweb.gr
 ad.gt
 3o9s.short.gy
-tracking.concedehousingstrainnotice.hair
-tracking.vagueunlikecowerscreamforbid.hair
 creative.prf.hn
 mrporter-creative.prf.hn
 stats.anchor.host
@@ -55959,7 +55936,7 @@ dreams.org.il
 gaycenter.org.il
 haganah.org.il
 icci.org.il
-iloug.org.il
+autodiscover.iloug.org.il
 kids-world.org.il
 physicaplus.org.il
 shin-tech.org.il
@@ -56116,7 +56093,6 @@ www.4health.info
 52youwu.info
 5fan.info
 5movies.info
-ww1.6630.info
 ww38.6630.info
 69postix.info
 7hari.info
@@ -56252,10 +56228,7 @@ afreeurl.info
 africanlegends.info
 aftereffectvn.info
 ww16.ahhadesigns.info
-ww17.ahhadesigns.info
 ww25.ahhadesigns.info
-ww38.ahhadesigns.info
-www.ahhadesigns.info
 ainu.info
 www.akiba-pr.info
 alcea.info
@@ -56401,8 +56374,6 @@ autria.info
 www.av18.info
 ww16.av815.info
 ww25.av815.info
-ww38.av815.info
-www.av815.info
 av99cn.info
 avlist.info
 avpt.info
@@ -57964,6 +57935,7 @@ ww17.kievonline.info
 ww38.kievonline.info
 www.kievonline.info
 kikou.info
+m.killonsight.info
 kimtragedy.info
 kinderlaehmung.info
 kinesiotape.info
@@ -57982,6 +57954,7 @@ kleio.info
 klussenbedrijven.info
 knochenmark.info
 komaneko.info
+pop.konp.info
 www.konp.info
 konsan.info
 konyaalti.info
@@ -58092,6 +58065,7 @@ lsrd.info
 luatdoanhnghiep.info
 lucario.info
 lucypindergallery.info
+jual.lukisan.info
 mail.lukisan.info
 ns1.lukisan.info
 webdisk.lukisan.info
@@ -58474,6 +58448,12 @@ ww38.nrxdh.info
 ww84.nrxdh.info
 www.nrxdh.info
 nswap.info
+ww1.nuclear-imaging.info
+ww11.nuclear-imaging.info
+ww16.nuclear-imaging.info
+ww17.nuclear-imaging.info
+ww25.nuclear-imaging.info
+ww38.nuclear-imaging.info
 www.nuclear-imaging.info
 nudegirls.info
 nuwes.info
@@ -59329,7 +59309,6 @@ ww1.stafabanddl.info
 ww16.stafabanddl.info
 ww17.stafabanddl.info
 ww25.stafabanddl.info
-ww38.stafabanddl.info
 www.stafabanddl.info
 ww1.startbeestlife.info
 ww16.startbeestlife.info
@@ -59867,6 +59846,9 @@ youtube.ukbypass.info
 yts.ukbypass.info
 ukryj.info
 ulinktech.info
+cpcalendars.ultransport.info
+cpcontacts.ultransport.info
+webdisk.ultransport.info
 ww1.ultransport.info
 ww17.ultransport.info
 ww38.ultransport.info
@@ -60104,8 +60086,6 @@ videoking.info
 videoprivate.info
 videotyt.info
 vidk.info
-cpcontacts.vinhomescity-tranduyhung.info
-mail.vinhomescity-tranduyhung.info
 www.virtualbus.info
 az.visapornotv.info
 be.visapornotv.info
@@ -61172,6 +61152,7 @@ bestazon.io
 cdn.biddercore.io
 bid.bidr.io
 media.bidr.io
+media-dev.bidr.io
 prod.bidr.io
 stinger-ad.bidr.io
 ad.bitmedia.io
@@ -73273,10 +73254,7 @@ web1.adf.ly
 web2.adf.ly
 assets.context.ly
 count.ly
-tracking.baypacketaddressepisode.makeup
-tracking.namerealopendrawflesh.makeup
 tracking.pastapplauddeterseminarproof.makeup
-tracking.playerobjectwordingbasinbank.makeup
 vast.spotim.market
 execution-cicorzeu.ci360.marketing
 execution-cicplusp.ci360.marketing
@@ -73775,7 +73753,6 @@ pl.domain.name
 pm.domain.name
 pn.domain.name
 pr.domain.name
-premium.domain.name
 proxy.domain.name
 ps.domain.name
 pt.domain.name
@@ -74792,7 +74769,6 @@ e-10251-us-east-1.adzerk.net
 e-10256.adzerk.net
 e-10256-us-east-1.adzerk.net
 e-10257.adzerk.net
-e-10257-us-east-1.adzerk.net
 e-10258-us-east-1.adzerk.net
 e-10274.adzerk.net
 e-10274-us-east-1.adzerk.net
@@ -74833,7 +74809,6 @@ e-10421-eu-central-1.adzerk.net
 e-10426.adzerk.net
 e-10426-us-east-1.adzerk.net
 e-10431.adzerk.net
-e-10435.adzerk.net
 e-10435-us-east-1.adzerk.net
 e-10442.adzerk.net
 e-10442-us-east-1.adzerk.net
@@ -95576,7 +95551,6 @@ karppausinfo.net
 katespisnups.net
 kbj19.net
 kerei.net
-kidmose.net
 kinguit.net
 kinquin.net
 kitchenremodelingguide.net
@@ -96463,6 +96437,7 @@ hb-api-stage.omtrdc.net
 k8s-mock-server.hb-fa-dev.omtrdc.net
 router-ethos.hb-fa-dev.omtrdc.net
 hb-fa-stage.omtrdc.net
+hb-stage.omtrdc.net
 heartbeats.omtrdc.net
 bmo.com.insight.omtrdc.net
 bmocm.com.insight.omtrdc.net
@@ -102795,7 +102770,6 @@ englishonline.org
 engracia.org
 account.epfindia.org
 chat.epfindia.org
-www.ww17.epfindia.org
 eplore.org
 epsthailand.org
 ervaringswerkers.org
@@ -103146,9 +103120,7 @@ impslp.org
 imslo.org
 imslt.org
 incident-report.org
-mx.indesa.org
 ww17.indesa.org
-www.indesa.org
 indexxx.org
 indianaexpeditions.org
 indonesianembassy-china.org
