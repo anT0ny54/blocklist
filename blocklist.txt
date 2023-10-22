@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338969
+# Ignored duplicates: 338970
 
 pixel.ad
 roq.ad
@@ -663,7 +663,6 @@ sdbx-engine.datadome.co
 sdbx-sre.datadome.co
 sslgen-angel.datadome.co
 sslgen-auspost.datadome.co
-sslgen-cflow.datadome.co
 sslgen-compara.datadome.co
 sslgen-ecia.datadome.co
 sslgen-kabum.datadome.co
@@ -5635,6 +5634,7 @@ api.amplitude.com
 api-secure-fs.amplitude.com
 api2.amplitude.com
 bounce.amplitude.com
+brand.amplitude.com
 cdn.amplitude.com
 corp-static.amplitude.com
 corpsite.amplitude.com
@@ -5703,36 +5703,21 @@ vercel-sanity.amplitude.com
 wpengine-cf.amplitude.com
 www.amplitude.com
 amsterdam-apartments.com
-auth.amsterdam-map.com
 com.amsterdam-map.com
-imap1.amsterdam-map.com
-imap2.amsterdam-map.com
-m.amsterdam-map.com
-mail1.amsterdam-map.com
-mail2.amsterdam-map.com
 mail8.amsterdam-map.com
 mailbox.amsterdam-map.com
 mailgate.amsterdam-map.com
-mailgw.amsterdam-map.com
 mailrelay.amsterdam-map.com
-mailserver.amsterdam-map.com
 mailsrv.amsterdam-map.com
-mailx.amsterdam-map.com
 ms1.amsterdam-map.com
 mta1.amsterdam-map.com
-mx.amsterdam-map.com
 mx01.amsterdam-map.com
-mx2.amsterdam-map.com
 mx20.amsterdam-map.com
 mx7.amsterdam-map.com
 ns.amsterdam-map.com
 ns2.amsterdam-map.com
-post.amsterdam-map.com
-postmaster.amsterdam-map.com
 root.amsterdam-map.com
-secure.amsterdam-map.com
 seed.amsterdam-map.com
-server.amsterdam-map.com
 tiger.amsterdam-map.com
 tw.amsterdam-map.com
 vmail.amsterdam-map.com
@@ -5768,6 +5753,8 @@ animalattractionstv.com
 animporn.com
 aniview.com
 ads.annabac.com
+ww35.annaiengg.com
+www.annaiengg.com
 annieoccasions.com
 p.annodeliver.com
 annoncesintimes.com
@@ -7284,7 +7271,6 @@ breadbalance.com
 breakableinsurance.com
 brealtime.com
 breastcancerguides.com
-www.brettsplaceonthebay.com
 brewfanatics.com
 ads.bridgebase.com
 adserver.bridgebase.com
@@ -14623,7 +14609,6 @@ santander.edigitalsurvey.com
 test.edigitalsurvey.com
 topaz.edigitalsurvey.com
 www.edigitalsurvey.com
-www.edit-friendster.com
 editarfoto.com
 edw.edmunds.com
 edtub.com
@@ -15219,7 +15204,6 @@ old.fiowertucci.com
 shop.fiowertucci.com
 test.fiowertucci.com
 www.fiowertucci.com
-ww11.fipinocupid.com
 ads-game-187f4.firebaseapp.com
 firebasegoogle.com
 fireworkadservices.com
@@ -16635,7 +16619,11 @@ www.gettingurl.com
 getwetvidoes.com
 metrics.gfycat.com
 px.gfycat.com
-ghanamotoin.com
+dev.ghanamotoin.com
+magento.ghanamotoin.com
+pm.ghanamotoin.com
+status.ghanamotoin.com
+ww25.ghanamotoin.com
 ghananations.com
 mail.ghmproperties.com
 giagoc.com
@@ -17613,7 +17601,6 @@ hi-rezstudios.com
 hibachiexpressusa.com
 hibbertsports.com
 hiconversion.com
-www.hiddenmms.com
 high-savings.com
 highcpmrevenuenetwork.com
 highfalutinroom.com
@@ -18173,7 +18160,6 @@ vwrap.imrworldwide.com
 imtwjwoasak.com
 inagbe.com
 inatgrm.com
-ww1.inbintranet.com
 tracking.inboxads.com
 inboxdollars.com
 incestboard.com
@@ -35438,14 +35424,11 @@ myverizin.com
 myxerfreeringtones.com
 mzhhiphop.com
 metrics.mzstatic.com
-api.n131adserv.com
 cdn.n131adserv.com
 mx7.n131adserv.com
-ns1.n131adserv.com
 ns150.n131adserv.com
 ns156.n131adserv.com
 ns171.n131adserv.com
-ns2.n131adserv.com
 ns5.n131adserv.com
 www.n131adserv.com
 www2.n131adserv.com
@@ -35972,11 +35955,13 @@ got.newrelic.com
 gov-collector.newrelic.com
 gov-collector-001.newrelic.com
 gov-collector-007.newrelic.com
+gov-httptools.newrelic.com
 gov-identity-api.newrelic.com
 gov-infra-api.newrelic.com
 gov-infrastructure-command-api.newrelic.com
 gov-log-api.newrelic.com
 gov-metric-api.newrelic.com
+gov-staging-httptools.newrelic.com
 gov-trace-api.newrelic.com
 grpc.newrelic.com
 helix.newrelic.com
@@ -36115,6 +36100,7 @@ test-api.newrelic.com
 test-blue-sky.newrelic.com
 test-httptools.newrelic.com
 test1.newrelic.com
+test2-httptools.newrelic.com
 test5.newrelic.com
 testttts.newrelic.com
 tls10.newrelic.com
@@ -40859,6 +40845,7 @@ expeng-prod-use1.expeng.optimizely.com
 ice.expeng.optimizely.com
 flags.inte.expeng.optimizely.com
 ice.inte.expeng.optimizely.com
+flags.prep.expeng.optimizely.com
 ai-backend.prod.expeng.optimizely.com
 extensions.optimizely.com
 feedback.optimizely.com
@@ -48206,7 +48193,6 @@ sharp-concepts.com
 sharppatch.com
 sheetsnthings.com
 sheezts.com
-www.sheiismart.com
 shemaletugjob.com
 shesubscriptions.com
 shikshabd.com
@@ -51226,6 +51212,8 @@ amp.ub-analytics.com
 assets.ub-analytics.com
 events.ub-analytics.com
 events-integration.ub-analytics.com
+tracker.ub-analytics.com
+tracker-integration.ub-analytics.com
 ubaholic.com
 assets.ubembed.com
 197654070b0e4b05add9b2994aea3887.js.ubembed.com
@@ -52493,6 +52481,7 @@ api.vntsm.com
 api-market.vntsm.com
 avp.vntsm.com
 cdn1.vntsm.com
+fastly-test.vntsm.com
 hb.vntsm.com
 hb-ab.vntsm.com
 hb-backup.vntsm.com
@@ -55807,7 +55796,6 @@ maco.co.il
 meal.co.il
 megared.co.il
 meidashoa.co.il
-cpcontacts.mellex.co.il
 mortein.co.il
 movefree.co.il
 mucinex.co.il
@@ -55936,7 +55924,6 @@ dreams.org.il
 gaycenter.org.il
 haganah.org.il
 icci.org.il
-autodiscover.iloug.org.il
 kids-world.org.il
 physicaplus.org.il
 shin-tech.org.il
@@ -56093,7 +56080,6 @@ www.4health.info
 52youwu.info
 5fan.info
 5movies.info
-ww38.6630.info
 69postix.info
 7hari.info
 game.8591.info
@@ -57534,7 +57520,6 @@ firstnews.info
 fishinginisrael.info
 fisse.info
 ww1.fkwv.info
-ww11.fkwv.info
 ww16.fkwv.info
 ww17.fkwv.info
 ww25.fkwv.info
@@ -57954,6 +57939,7 @@ kleio.info
 klussenbedrijven.info
 knochenmark.info
 komaneko.info
+mail.konp.info
 pop.konp.info
 www.konp.info
 konsan.info
@@ -58519,10 +58505,13 @@ ww11.onlymature.info
 ww16.onlymature.info
 ww38.onlymature.info
 www.onlymature.info
-ww17.jasaseo.onthespot.info
+jasaseo.onthespot.info
 mail.onthespot.info
+ww1.onthespot.info
 ww11.onthespot.info
 ww17.onthespot.info
+ww38.onthespot.info
+www.onthespot.info
 onzeweb.info
 optisyen.info
 optymalni.info
@@ -58938,7 +58927,6 @@ ww25.renktir.info
 www.renktir.info
 resorthotels.info
 restplatz.info
-ww17.retete-culinare.info
 mta-sts.retrieverbreeding.info
 ww1.retrieverbreeding.info
 ww17.retrieverbreeding.info
@@ -59165,6 +59153,8 @@ www.sitedata.info
 sixcalifornias.info
 ads.sjon.info
 sjsu.info
+ww11.skengineers.info
+ww17.skengineers.info
 www.skengineers.info
 skivacation.info
 www.slipper.info
@@ -74809,7 +74799,6 @@ e-10421-eu-central-1.adzerk.net
 e-10426.adzerk.net
 e-10426-us-east-1.adzerk.net
 e-10431.adzerk.net
-e-10435-us-east-1.adzerk.net
 e-10442.adzerk.net
 e-10442-us-east-1.adzerk.net
 e-10445.adzerk.net
@@ -74846,8 +74835,6 @@ e-10583-us-east-1.adzerk.net
 e-10590.adzerk.net
 e-10594.adzerk.net
 e-10594-us-east-1.adzerk.net
-e-10600.adzerk.net
-e-10600-us-east-1.adzerk.net
 e-10602.adzerk.net
 e-10602-us-east-1.adzerk.net
 e-10621.adzerk.net
@@ -102768,8 +102755,6 @@ english-heritage.org
 englishforevryone.org
 englishonline.org
 engracia.org
-account.epfindia.org
-chat.epfindia.org
 eplore.org
 epsthailand.org
 ervaringswerkers.org
@@ -103120,7 +103105,6 @@ impslp.org
 imslo.org
 imslt.org
 incident-report.org
-ww17.indesa.org
 indexxx.org
 indianaexpeditions.org
 indonesianembassy-china.org
@@ -104652,8 +104636,6 @@ ww38.vivekanandamahavidyalaya.org
 www.vivekanandamahavidyalaya.org
 vodmo.org
 voltairnet.org
-ww12.volunteercentre.org
-www.volunteercentre.org
 volunteerteachers.org
 volvo-c30.org
 votepinellas.org
