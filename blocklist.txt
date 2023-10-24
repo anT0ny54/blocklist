@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338960
+# Ignored duplicates: 338957
 
 pixel.ad
 roq.ad
@@ -5702,26 +5702,6 @@ vercel-sanity.amplitude.com
 wpengine-cf.amplitude.com
 www.amplitude.com
 amsterdam-apartments.com
-com.amsterdam-map.com
-mail8.amsterdam-map.com
-mailbox.amsterdam-map.com
-mailgate.amsterdam-map.com
-mailrelay.amsterdam-map.com
-mailsrv.amsterdam-map.com
-ms1.amsterdam-map.com
-mta1.amsterdam-map.com
-mx01.amsterdam-map.com
-mx20.amsterdam-map.com
-mx7.amsterdam-map.com
-ns.amsterdam-map.com
-ns2.amsterdam-map.com
-root.amsterdam-map.com
-seed.amsterdam-map.com
-tiger.amsterdam-map.com
-tw.amsterdam-map.com
-vmail.amsterdam-map.com
-vnet.amsterdam-map.com
-www.amsterdam-map.com
 amstubs.com
 analaurie.com
 aire.analytics-egain.com
@@ -6105,7 +6085,6 @@ asuprep.com
 aswpapius.com
 aswpsdkus.com
 atantabraves.com
-www.atecasec.com
 atgsvcs.com
 analytics.athome.com
 analytics-2.athome.com
@@ -16620,9 +16599,6 @@ www.gettingurl.com
 getwetvidoes.com
 metrics.gfycat.com
 px.gfycat.com
-dev.ghanamotoin.com
-magento.ghanamotoin.com
-ww25.ghanamotoin.com
 ghananations.com
 mail.ghmproperties.com
 giagoc.com
@@ -26964,6 +26940,7 @@ mktoresp.com
 414-pof-656.mktoweb.com
 414-tpu-575.mktoweb.com
 414-tuo-750.mktoweb.com
+414-wvj-477.mktoweb.com
 414-xmy-838.mktoweb.com
 414-ycq-919.mktoweb.com
 415-fqd-101.mktoweb.com
@@ -27078,6 +27055,7 @@ mktoresp.com
 426-mvv-683.mktoweb.com
 426-plt-087.mktoweb.com
 426-qvd-114.mktoweb.com
+426-usk-560.mktoweb.com
 426-xbt-179.mktoweb.com
 426-yld-083.mktoweb.com
 426-zbx-726.mktoweb.com
@@ -35422,9 +35400,7 @@ mzhhiphop.com
 metrics.mzstatic.com
 cdn.n131adserv.com
 ns150.n131adserv.com
-ns156.n131adserv.com
 ns171.n131adserv.com
-ns5.n131adserv.com
 www.n131adserv.com
 n69.com
 miner.nablabee.com
@@ -43251,8 +43227,6 @@ rateqoute.com
 ratracerevolution.com
 ravenjs.com
 sitemap.rayban-outlet.com
-ww1.rayban-outlet.com
-ww17.rayban-outlet.com
 ww25.rayban-outlet.com
 ww38.rayban-outlet.com
 www.rayban-outlet.com
@@ -48609,6 +48583,7 @@ cfg.skollabs.com
 skreeened.com
 skreemed.com
 skyadsmart.com
+mvideo.skydivecaliforniacity.com
 skylineosx.com
 api.promotions.skype.com
 bo.promotions.skype.com
@@ -50393,7 +50368,6 @@ thepsoriaticarthritis.com
 therapistla.com
 therestorationservices.com
 therheumatoidarthritis.com
-www.thesaurussurf.com
 analytics-tracker.thescore.com
 thesexmatrice.com
 thesignatureroomstl.com
@@ -53121,9 +53095,7 @@ beacon.wikia-services.com
 athena-ads.wikia.com
 wikia-ads.wikia.com
 wiktravel.com
-mail.wiliamsonoma.com
 ww1.wiliamsonoma.com
-www.wiliamsonoma.com
 willitdetonate.com
 winanp.com
 winareo.com
@@ -56353,7 +56325,6 @@ autopaintrepairs.info
 www.autopuls.info
 autria.info
 www.av18.info
-ww16.av815.info
 ww25.av815.info
 av99cn.info
 avlist.info
@@ -57358,6 +57329,7 @@ www.ejabah.info
 el-youm.info
 mail.eldolarparalelo.info
 ww1.eldolarparalelo.info
+ww17.eldolarparalelo.info
 www.eldolarparalelo.info
 electromenager.info
 mail.elweva.info
@@ -57535,6 +57507,8 @@ ww38.formadv.info
 www.formadv.info
 ww1.formenterazen.info
 ww16.formenterazen.info
+ww17.formenterazen.info
+ww25.formenterazen.info
 www.formenterazen.info
 forthewomen.info
 mx.fotomodelle.info
@@ -57796,7 +57770,6 @@ hotmusic.info
 hotxtube.info
 hounslow.info
 how-to-loose-weight.info
-howtodrawhq.info
 hpps.info
 hudebni-kluby.info
 humoristique.info
@@ -57943,7 +57916,9 @@ kreativan.info
 kreditvergleicheab.info
 krisallendaily.info
 www.kristijan.info
-kritika.info
+ww17.kritika.info
+ww25.kritika.info
+ww38.kritika.info
 kroatien.info
 krzewy.info
 kumang45d.info
@@ -59140,8 +59115,11 @@ www.sitedata.info
 sixcalifornias.info
 ads.sjon.info
 sjsu.info
+ww1.skengineers.info
 ww11.skengineers.info
 ww17.skengineers.info
+ww25.skengineers.info
+ww38.skengineers.info
 www.skengineers.info
 skivacation.info
 www.slipper.info
@@ -59278,13 +59256,8 @@ ssmatomeantenna.info
 lagu.stafabanddl.info
 m.stafabanddl.info
 mp3.stafabanddl.info
-mvideo.stafabanddl.info
 ovh.stafabanddl.info
 s.stafabanddl.info
-wap.stafabanddl.info
-ww1.stafabanddl.info
-ww16.stafabanddl.info
-ww25.stafabanddl.info
 www.stafabanddl.info
 ww1.startbeestlife.info
 ww16.startbeestlife.info
@@ -102873,6 +102846,8 @@ funpix.org
 ww1.futurecomp.org
 ww25.futurecomp.org
 ww38.futurecomp.org
+ww62.futurecomp.org
+ww82.futurecomp.org
 futurme.org
 gacaa.org
 gachidom.org
@@ -103082,7 +103057,6 @@ iapsr.org
 go.icann.org
 icj-cji.org
 icun.org
-ideasemu.org
 idiotenapostroph.org
 igrid.org
 ihric.org
@@ -113010,7 +112984,8 @@ pixel.watch
 childrenlawyer.win
 hashing.win
 hemnes.win
-ponystudent.win
+events.ponystudent.win
+sitemap.ponystudent.win
 spoonstory.win
 swiftmining.win
 tx.cdnjs.work
