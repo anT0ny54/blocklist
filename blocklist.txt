@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338957
+# Ignored duplicates: 339028
 
 pixel.ad
 roq.ad
@@ -104,7 +104,6 @@ ad-balancer.at
 ad4m.at
 ad4mat.at
 chello.at
-tagm.eduscho.at
 tms.elitepartner.at
 adc.emp.at
 tms.gay-parship.at
@@ -5735,6 +5734,7 @@ ads.annabac.com
 ww11.annaiengg.com
 ww25.annaiengg.com
 ww35.annaiengg.com
+ww38.annaiengg.com
 www.annaiengg.com
 annieoccasions.com
 p.annodeliver.com
@@ -9620,6 +9620,7 @@ s95.research.de.com
 de17a.com
 de17aserver.com
 a.deadlinefunnel.com
+acf1.deadlinefunnel.com
 api.deadlinefunnel.com
 app.deadlinefunnel.com
 b.deadlinefunnel.com
@@ -14728,6 +14729,7 @@ ww11.emperorguesthouse.com
 ww16.emperorguesthouse.com
 ww2.emperorguesthouse.com
 ww25.emperorguesthouse.com
+ww29.emperorguesthouse.com
 ww35.emperorguesthouse.com
 ww38.emperorguesthouse.com
 www.emperorguesthouse.com
@@ -15183,7 +15185,6 @@ dev.fiowertucci.com
 old.fiowertucci.com
 shop.fiowertucci.com
 test.fiowertucci.com
-www.fiowertucci.com
 ads-game-187f4.firebaseapp.com
 firebasegoogle.com
 fireworkadservices.com
@@ -17893,7 +17894,6 @@ icloid.com
 ads.icloseli.com
 feedbackws.icloud.com
 messaging.metrics.icloud.com
-icloudserv.com
 icloudzne.com
 icngular.com
 iconosquare.com
@@ -18609,7 +18609,6 @@ jobsidubai.com
 jobsmnc.com
 jocasal.com
 counter.joeldare.com
-www.joempegs.com
 joepraise.com
 joesclassicmovies.com
 jofukapu.com
@@ -19664,6 +19663,7 @@ publicopiniononline.localiq.com
 order.qa.localiq.com
 qtcgateway-prod-usa.localiq.com
 qtcgateway-qa-usa.localiq.com
+qtcglobalservice-prod-usa.localiq.com
 qtcglobalservice-qa-usa.localiq.com
 reachlocal.localiq.com
 recruitment.localiq.com
@@ -35290,8 +35290,6 @@ mydentalimplantsguide.com
 mydepotaccount.com
 mydeptfree.com
 mydickssortinggoods.com
-4jslg.mydiscoverdard.com
-ww1.mydiscoverdard.com
 myeloma-info.com
 myerizon.com
 myesaytv.com
@@ -41083,6 +41081,7 @@ m.optvdo.com
 mc.optvdo.com
 p.optvdo.com
 rtb.optvdo.com
+s-09.optvdo.com
 v.optvdo.com
 v-01-stage.optvdo.com
 v2v.optvdo.com
@@ -46517,9 +46516,7 @@ rkdms.com
 rktch.com
 rlcdn.com
 ww16.admin.rlcworks.com
-ww16.rlcworks.com
 ww17.rlcworks.com
-ww25.rlcworks.com
 ww38.rlcworks.com
 www.rlcworks.com
 rlets.com
@@ -47862,6 +47859,7 @@ test-subscribe-stats.selectablemedia.com
 www.selectablemedia.com
 selected-search.com
 selectivesummer.com
+selectofmychoices.com
 stats.self.com
 stats2.self.com
 semasio.com
@@ -49298,6 +49296,7 @@ statecollegefarmers.com
 statefarmus.com
 adobe-dtm.staticsfly.com
 stationeryart.com
+west.statisticplatform.com
 stats4all.com
 statsie.com
 jukol.statslight.com
@@ -51829,7 +51828,6 @@ uryod.com
 mx1.us-airways.com
 ns3.us-airways.com
 ww1.us-airways.com
-www.us-airways.com
 usabilla.com
 usabirdsupply.com
 usairtways.com
@@ -51897,7 +51895,6 @@ dev-privacy.userreport.com
 feedback.userreport.com
 gauth.userreport.com
 gfk.userreport.com
-helpdesk.userreport.com
 ics.userreport.com
 info.userreport.com
 johstest.userreport.com
@@ -56325,7 +56322,6 @@ autopaintrepairs.info
 www.autopuls.info
 autria.info
 www.av18.info
-ww25.av815.info
 av99cn.info
 avlist.info
 avpt.info
@@ -56589,6 +56585,8 @@ analytics.bitrix.info
 bizbuildermastery.info
 bled.info
 blockchani.info
+ww17.blogreview.info
+ww38.blogreview.info
 blogvlw.info
 bluehippo.info
 bluenews.info
@@ -57486,12 +57484,7 @@ financialsecurity.info
 firstnews.info
 fishinginisrael.info
 fisse.info
-ww1.fkwv.info
-ww16.fkwv.info
-ww17.fkwv.info
 ww25.fkwv.info
-ww38.fkwv.info
-www.fkwv.info
 flex-tech.info
 flixzone.info
 forbest.info
@@ -57916,9 +57909,6 @@ kreativan.info
 kreditvergleicheab.info
 krisallendaily.info
 www.kristijan.info
-ww17.kritika.info
-ww25.kritika.info
-ww38.kritika.info
 kroatien.info
 krzewy.info
 kumang45d.info
@@ -59251,13 +59241,14 @@ ww17.sserbanro.info
 ww25.sserbanro.info
 ww38.sserbanro.info
 www.sserbanro.info
-cpcalendars.ssf2online.info
 ssmatomeantenna.info
 lagu.stafabanddl.info
-m.stafabanddl.info
+ww1.m.stafabanddl.info
+ww11.m.stafabanddl.info
+ww17.m.stafabanddl.info
+ww38.m.stafabanddl.info
 mp3.stafabanddl.info
 ovh.stafabanddl.info
-s.stafabanddl.info
 www.stafabanddl.info
 ww1.startbeestlife.info
 ww16.startbeestlife.info
@@ -94140,7 +94131,17 @@ ww25.eeepadhacks.net
 ww31.eeepadhacks.net
 ww38.eeepadhacks.net
 ww82.eeepadhacks.net
+accounts.effectivemeasure.net
+adt.effectivemeasure.net
+id-cdn.effectivemeasure.net
+images.effectivemeasure.net
+in.effectivemeasure.net
 in-ssl.effectivemeasure.net
+n.effectivemeasure.net
+ph2.effectivemeasure.net
+t-beta.effectivemeasure.net
+th.effectivemeasure.net
+v.effectivemeasure.net
 elasticad.net
 dan.elemen.net
 ww11.elemen.net
@@ -96118,7 +96119,9 @@ chi-staging-cloud-collector.nr-data.net
 chi-staging-collector.nr-data.net
 chi-staging-infra-api.nr-data.net
 chi-staging-insights-collector.nr-data.net
+dualstack.dev.nr-data.net
 dr01.nr-data.net
+dualstack.nr-data.net
 edge.nr-data.net
 eu-bander-snatch.cell.eu.nr-data.net
 eu-big-cone.cell.eu.nr-data.net
@@ -96197,6 +96200,7 @@ staging-synthetics-horde.nr-data.net
 staging-synthetics-horde-admin-tmp.nr-data.net
 staging-synthetics-horde-gpc.nr-data.net
 staging-wayfinder.nr-data.net
+dualstack.staging.nr-data.net
 synthetics-horde.nr-data.net
 synthetics-horde-gpc.nr-data.net
 syslog.nr-data.net
@@ -99284,6 +99288,7 @@ rgw.rook-ceph.asgard-prod-f.ams2.k8s.sendgrid.net
 alertmanager.general-prod-a.ams2.k8s.sendgrid.net
 blackbox.general-prod-a.ams2.k8s.sendgrid.net
 grafana.general-prod-a.ams2.k8s.sendgrid.net
+imp.general-prod-a.ams2.k8s.sendgrid.net
 metaldata.general-prod-a.ams2.k8s.sendgrid.net
 prometheus.general-prod-a.ams2.k8s.sendgrid.net
 servernameapi.general-prod-a.ams2.k8s.sendgrid.net
@@ -99306,12 +99311,39 @@ prometheus.geopod-prod-a.ap-northeast-1a.aws.k8s.sendgrid.net
 alertmanager.geopod-prod-a.ap-southeast-1a.aws.k8s.sendgrid.net
 blackbox.geopod-prod-a.ap-southeast-1a.aws.k8s.sendgrid.net
 prometheus.geopod-prod-a.ap-southeast-1a.aws.k8s.sendgrid.net
+alertmanager.asgard-prod-a.eu-central-1.aws.k8s.sendgrid.net
+atc-web.asgard-prod-a.eu-central-1.aws.k8s.sendgrid.net
+blackbox.asgard-prod-a.eu-central-1.aws.k8s.sendgrid.net
+ips.asgard-prod-a.eu-central-1.aws.k8s.sendgrid.net
+sq.mp.asgard-prod-a.eu-central-1.aws.k8s.sendgrid.net
+postoffice.asgard-prod-a.eu-central-1.aws.k8s.sendgrid.net
+prometheus.asgard-prod-a.eu-central-1.aws.k8s.sendgrid.net
+dash.rook-ceph.asgard-prod-a.eu-central-1.aws.k8s.sendgrid.net
+rgw.rook-ceph.asgard-prod-a.eu-central-1.aws.k8s.sendgrid.net
 alertmanager.geopod-prod-a.eu-central-1a.aws.k8s.sendgrid.net
 blackbox.geopod-prod-a.eu-central-1a.aws.k8s.sendgrid.net
 prometheus.geopod-prod-a.eu-central-1a.aws.k8s.sendgrid.net
 alertmanager.geopod-prod-a.eu-central-1b.aws.k8s.sendgrid.net
 blackbox.geopod-prod-a.eu-central-1b.aws.k8s.sendgrid.net
 prometheus.geopod-prod-a.eu-central-1b.aws.k8s.sendgrid.net
+alertmanager.asgard-prod-a.eu-west-1.aws.k8s.sendgrid.net
+atc-web.asgard-prod-a.eu-west-1.aws.k8s.sendgrid.net
+blackbox.asgard-prod-a.eu-west-1.aws.k8s.sendgrid.net
+ips.asgard-prod-a.eu-west-1.aws.k8s.sendgrid.net
+sq.mp.asgard-prod-a.eu-west-1.aws.k8s.sendgrid.net
+postoffice.asgard-prod-a.eu-west-1.aws.k8s.sendgrid.net
+prometheus.asgard-prod-a.eu-west-1.aws.k8s.sendgrid.net
+dash.rook-ceph.asgard-prod-a.eu-west-1.aws.k8s.sendgrid.net
+rgw.rook-ceph.asgard-prod-a.eu-west-1.aws.k8s.sendgrid.net
+alertmanager.asgard-stage-a.eu-west-1.aws.k8s.sendgrid.net
+atc-web.asgard-stage-a.eu-west-1.aws.k8s.sendgrid.net
+blackbox.asgard-stage-a.eu-west-1.aws.k8s.sendgrid.net
+ips.asgard-stage-a.eu-west-1.aws.k8s.sendgrid.net
+sq.mp.asgard-stage-a.eu-west-1.aws.k8s.sendgrid.net
+postoffice.asgard-stage-a.eu-west-1.aws.k8s.sendgrid.net
+prometheus.asgard-stage-a.eu-west-1.aws.k8s.sendgrid.net
+dash.rook-ceph.asgard-stage-a.eu-west-1.aws.k8s.sendgrid.net
+rgw.rook-ceph.asgard-stage-a.eu-west-1.aws.k8s.sendgrid.net
 alertmanager.mgmtdub1-prod.eu-west-1.aws.k8s.sendgrid.net
 am-aggregator.mgmtdub1-prod.eu-west-1.aws.k8s.sendgrid.net
 blackbox.mgmtdub1-prod.eu-west-1.aws.k8s.sendgrid.net
@@ -99378,6 +99410,7 @@ atc-web.asgard-prod-a.us-east-2.aws.k8s.sendgrid.net
 blackbox.asgard-prod-a.us-east-2.aws.k8s.sendgrid.net
 ips.asgard-prod-a.us-east-2.aws.k8s.sendgrid.net
 sq.mp.asgard-prod-a.us-east-2.aws.k8s.sendgrid.net
+postoffice.asgard-prod-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.asgard-prod-a.us-east-2.aws.k8s.sendgrid.net
 dash.rook-ceph.asgard-prod-a.us-east-2.aws.k8s.sendgrid.net
 rgw.rook-ceph.asgard-prod-a.us-east-2.aws.k8s.sendgrid.net
@@ -99394,6 +99427,7 @@ atc-web.asgard-stage-a.us-east-2.aws.k8s.sendgrid.net
 blackbox.asgard-stage-a.us-east-2.aws.k8s.sendgrid.net
 ips.asgard-stage-a.us-east-2.aws.k8s.sendgrid.net
 sq.mp.asgard-stage-a.us-east-2.aws.k8s.sendgrid.net
+postoffice.asgard-stage-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.asgard-stage-a.us-east-2.aws.k8s.sendgrid.net
 dash.rook-ceph.asgard-stage-a.us-east-2.aws.k8s.sendgrid.net
 rgw.rook-ceph.asgard-stage-a.us-east-2.aws.k8s.sendgrid.net
@@ -99429,21 +99463,34 @@ alertmanager.mgmtaws-prod.us-east-2.aws.k8s.sendgrid.net
 blackbox.mgmtaws-prod.us-east-2.aws.k8s.sendgrid.net
 prometheus.mgmtaws-prod.us-east-2.aws.k8s.sendgrid.net
 alertmanager.mgmtaws-stage.us-east-2.aws.k8s.sendgrid.net
+am-aggregator.mgmtaws-stage.us-east-2.aws.k8s.sendgrid.net
 blackbox.mgmtaws-stage.us-east-2.aws.k8s.sendgrid.net
 prometheus.mgmtaws-stage.us-east-2.aws.k8s.sendgrid.net
 alertmanager.mgmtmdw1-stage.us-east-2.aws.k8s.sendgrid.net
 am-aggregator.mgmtmdw1-stage.us-east-2.aws.k8s.sendgrid.net
 blackbox.mgmtmdw1-stage.us-east-2.aws.k8s.sendgrid.net
 prometheus.mgmtmdw1-stage.us-east-2.aws.k8s.sendgrid.net
+alertmanager.sigint-dev-b.us-east-2.aws.k8s.sendgrid.net
+blackbox.sigint-dev-b.us-east-2.aws.k8s.sendgrid.net
+prometheus.sigint-dev-b.us-east-2.aws.k8s.sendgrid.net
 alertmanager.asgard-prod-a.us-east-2a.aws.k8s.sendgrid.net
 blackbox.asgard-prod-a.us-east-2a.aws.k8s.sendgrid.net
 prometheus.asgard-prod-a.us-east-2a.aws.k8s.sendgrid.net
 dash.rook-ceph.asgard-prod-a.us-east-2a.aws.k8s.sendgrid.net
 rgw.rook-ceph.asgard-prod-a.us-east-2a.aws.k8s.sendgrid.net
+alertmanager.geopod-prod-a.us-east-2a.aws.k8s.sendgrid.net
+blackbox.geopod-prod-a.us-east-2a.aws.k8s.sendgrid.net
+prometheus.geopod-prod-a.us-east-2a.aws.k8s.sendgrid.net
 alertmanager.sigint-dev-b.us-east-2a.aws.k8s.sendgrid.net
 blackbox.sigint-dev-b.us-east-2a.aws.k8s.sendgrid.net
 cortex.sigint-dev-b.us-east-2a.aws.k8s.sendgrid.net
 prometheus.sigint-dev-b.us-east-2a.aws.k8s.sendgrid.net
+alertmanager.geopod-prod-a.us-east-2b.aws.k8s.sendgrid.net
+blackbox.geopod-prod-a.us-east-2b.aws.k8s.sendgrid.net
+prometheus.geopod-prod-a.us-east-2b.aws.k8s.sendgrid.net
+alertmanager.geopod-prod-a.us-east-2c.aws.k8s.sendgrid.net
+blackbox.geopod-prod-a.us-east-2c.aws.k8s.sendgrid.net
+prometheus.geopod-prod-a.us-east-2c.aws.k8s.sendgrid.net
 ace-uvs-api.ace.aai-prod-a.us-west-2.aws.k8s.sendgrid.net
 alertmanager.aai-prod-a.us-west-2.aws.k8s.sendgrid.net
 nsqadmin.antiabuse.aai-prod-a.us-west-2.aws.k8s.sendgrid.net
@@ -99531,6 +99578,7 @@ rgw.rook-ceph.asgard-prod-f.dub1.k8s.sendgrid.net
 alertmanager.general-prod-a.dub1.k8s.sendgrid.net
 blackbox.general-prod-a.dub1.k8s.sendgrid.net
 grafana.general-prod-a.dub1.k8s.sendgrid.net
+imp.general-prod-a.dub1.k8s.sendgrid.net
 metaldata.general-prod-a.dub1.k8s.sendgrid.net
 prometheus.general-prod-a.dub1.k8s.sendgrid.net
 servernameapi.general-prod-a.dub1.k8s.sendgrid.net
@@ -100302,6 +100350,7 @@ rgw.rook-ceph.event-prod-a.mdw1.k8s.sendgrid.net
 alertmanager.event-stage-a.mdw1.k8s.sendgrid.net
 blackbox.event-stage-a.mdw1.k8s.sendgrid.net
 mew-api-s1mdw1-ing.event-stage-a.mdw1.k8s.sendgrid.net
+es-oauthserver.postr.event-stage-a.mdw1.k8s.sendgrid.net
 prometheus.event-stage-a.mdw1.k8s.sendgrid.net
 dash.rook-ceph.event-stage-a.mdw1.k8s.sendgrid.net
 rgw.rook-ceph.event-stage-a.mdw1.k8s.sendgrid.net
@@ -100345,6 +100394,7 @@ gurl.mp.general-prod-a.mdw1.k8s.sendgrid.net
 sq.mp.general-prod-a.mdw1.k8s.sendgrid.net
 parseapi-checker.mxd.general-prod-a.mdw1.k8s.sendgrid.net
 nestapi.general-prod-a.mdw1.k8s.sendgrid.net
+opseng-docs.general-prod-a.mdw1.k8s.sendgrid.net
 prometheus.general-prod-a.mdw1.k8s.sendgrid.net
 dash.rook-ceph.general-prod-a.mdw1.k8s.sendgrid.net
 rgw.rook-ceph.general-prod-a.mdw1.k8s.sendgrid.net
@@ -100434,6 +100484,7 @@ alertmanager.mgmt-stage-b.mdw1.k8s.sendgrid.net
 am-aggregator.mgmt-stage-b.mdw1.k8s.sendgrid.net
 grpc.argocd.mgmt-stage-b.mdw1.k8s.sendgrid.net
 ui.argocd.mgmt-stage-b.mdw1.k8s.sendgrid.net
+blackbox.mgmt-stage-b.mdw1.k8s.sendgrid.net
 capl-gw.mgmt-stage-b.mdw1.k8s.sendgrid.net
 hapi.mgmt-stage-b.mdw1.k8s.sendgrid.net
 prometheus.mgmt-stage-b.mdw1.k8s.sendgrid.net
@@ -102317,7 +102368,9 @@ colegioregistradores.org
 collive.org
 coloradomesa.org
 colorguild.org
-combat18.org
+ww11.combat18.org
+ww17.combat18.org
+ww38.combat18.org
 comipens.org
 comkp.org
 commackpta.org
@@ -109412,6 +109465,10 @@ tracking.etidning.nynashamnsposten.se
 tracking.nynashamnsposten.se
 tracking.etidning.op.se
 tracking.op.se
+tracker.kollega.open-analytics.se
+tracker.kulturradet.open-analytics.se
+tracker.lakemedelsverket.open-analytics.se
+tracker.transportstyrelsen.open-analytics.se
 stats.poddtoppen.se
 track.postkodlotteriet.se
 gtm.proff.se
