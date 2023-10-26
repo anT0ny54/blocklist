@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 339028
+# Ignored duplicates: 339102
 
 pixel.ad
 roq.ad
@@ -6934,10 +6934,7 @@ bilizzard.com
 www.billgateshelp.com
 billigastelanet.com
 billigastforsakring.com
-image.billing-select.com
-tv.billing-select.com
 ww1.billing-select.com
-www.billing-select.com
 billyblank.com
 billywitchdoctor.com
 bilojobs.com
@@ -11167,6 +11164,7 @@ elon-essay-help.dnset.com
 eluarsdbec.dnset.com
 emaildock.dnset.com
 emine.dnset.com
+cl.emos.dnset.com
 emsky.dnset.com
 emzcop.dnset.com
 enableit.dnset.com
@@ -11507,6 +11505,7 @@ grupbudi01.dnset.com
 www.grupicapoerty.dnset.com
 grupwayoutuberff.dnset.com
 gruup-bokeep-wa.dnset.com
+gscloud.dnset.com
 gstatic.dnset.com
 gthdsfs.dnset.com
 gtlarenitems.dnset.com
@@ -11545,6 +11544,7 @@ hmbloodspin19.dnset.com
 hmclrewaards.dnset.com
 hmspinreward18.dnset.com
 hodabaya.dnset.com
+hogar.dnset.com
 holder.dnset.com
 hoshiworld.dnset.com
 hostdaonamecasse12.dnset.com
@@ -11615,6 +11615,7 @@ ioufds.dnset.com
 islandretreat.dnset.com
 isola.dnset.com
 itarenofrec.dnset.com
+au.itativ.dnset.com
 item18newsin.dnset.com
 itembugspinnew.dnset.com
 itemfree-pubgm.dnset.com
@@ -12322,6 +12323,7 @@ onwfrestoring.dnset.com
 openalt.dnset.com
 openprofiler.dnset.com
 openrewardds19.dnset.com
+au.optionz.dnset.com
 order-miler-review-official-postal-carrier-review.dnset.com
 order-view-onlinemai-postal-mailusps.dnset.com
 ordpubg.dnset.com
@@ -15216,6 +15218,7 @@ flagcounter.com
 flairadscpc.com
 ww11.flaitradar24.com
 ww25.flaitradar24.com
+ww35.flaitradar24.com
 ww38.flaitradar24.com
 www.flaitradar24.com
 flakesrental.com
@@ -19272,6 +19275,8 @@ gcmail3.linksynergy.com
 getdeeplink.linksynergy.com
 global-header-qa.linksynergy.com
 image.linksynergy.com
+invite-preprod-cdn.linksynergy.com
+invite-staging-cdn.linksynergy.com
 linkshare-api.linksynergy.com
 linktranet.linksynergy.com
 lld2.linksynergy.com
@@ -19328,7 +19333,6 @@ vamail2.linksynergy.com
 vamail3.linksynergy.com
 m.www.linksynergy.com
 linktarget.com
-linkvertise.com
 liquidm.com
 lisasophia.com
 lisnr.com
@@ -51949,10 +51953,6 @@ use1qa-anysite.userreport.com
 use1qa-anysite2.userreport.com
 visitanalytics.userreport.com
 www.userreport.com
-zendesk1.userreport.com
-zendesk2.userreport.com
-zendesk3.userreport.com
-zendesk4.userreport.com
 usertestin.com
 cdn.userty.com
 by.uservoice.com
@@ -52415,7 +52415,6 @@ useruploads.visualwebsiteoptimizer.com
 v2.visualwebsiteoptimizer.com
 www.visualwebsiteoptimizer.com
 vitadesks.com
-ww25.vivoscandicci.com
 vivtracking.com
 vizu.com
 vizury.com
@@ -57853,6 +57852,7 @@ kajak.info
 kamikazi.info
 kampanjakoodi.info
 kanshulou.info
+ww1.karate2014.info
 www.karate2014.info
 kariiresoudanjo.info
 karlovyvary.info
@@ -57898,6 +57898,9 @@ knochenmark.info
 komaneko.info
 mail.konp.info
 pop.konp.info
+ww1.konp.info
+ww17.konp.info
+ww25.konp.info
 www.konp.info
 konsan.info
 konyaalti.info
@@ -58989,6 +58992,7 @@ ww17.sectionz.info
 ww25.sectionz.info
 ww38.sectionz.info
 www.sectionz.info
+www.sedot.info
 aftereffects.seednet.info
 iphone.seednet.info
 ww1.seednet.info
@@ -59107,6 +59111,7 @@ ads.sjon.info
 sjsu.info
 ww1.skengineers.info
 ww11.skengineers.info
+ww16.skengineers.info
 ww17.skengineers.info
 ww25.skengineers.info
 ww38.skengineers.info
@@ -59242,14 +59247,10 @@ ww25.sserbanro.info
 ww38.sserbanro.info
 www.sserbanro.info
 ssmatomeantenna.info
-lagu.stafabanddl.info
 ww1.m.stafabanddl.info
 ww11.m.stafabanddl.info
 ww17.m.stafabanddl.info
 ww38.m.stafabanddl.info
-mp3.stafabanddl.info
-ovh.stafabanddl.info
-www.stafabanddl.info
 ww1.startbeestlife.info
 ww16.startbeestlife.info
 ww25.startbeestlife.info
@@ -59274,6 +59275,7 @@ www.stroyclub.info
 studnet.info
 subsidios.info
 suertetrabajos.info
+ww16.upla.sumariados.info
 webdisk.sunbuster.info
 www.sunbuster.info
 sunderlandinsurance.info
@@ -74285,7 +74287,6 @@ yoyo.7eer.net
 yumi-kim.7eer.net
 jbvantage.co.zashutterstock.7eer.net
 zenfolio.7eer.net
-bestbuy.7tiv.net
 88-f.net
 8az.net
 8hn.net
@@ -74780,7 +74781,6 @@ e-10563.adzerk.net
 e-10563-us-east-1.adzerk.net
 e-10565.adzerk.net
 e-10565-us-east-1.adzerk.net
-e-10572.adzerk.net
 e-10581.adzerk.net
 e-10581-eu-central-1.adzerk.net
 e-10581-eu-west-1.adzerk.net
@@ -94136,7 +94136,9 @@ adt.effectivemeasure.net
 id-cdn.effectivemeasure.net
 images.effectivemeasure.net
 in.effectivemeasure.net
+in-cdn.effectivemeasure.net
 in-ssl.effectivemeasure.net
+it.effectivemeasure.net
 n.effectivemeasure.net
 ph2.effectivemeasure.net
 t-beta.effectivemeasure.net
@@ -101672,6 +101674,7 @@ vitalitis.net
 vivads.net
 w55c.net
 wach-movies.net
+www.walkingdeadseason3.net
 walmartgiftcard.net
 wapatv.net
 wapkink.net
@@ -101938,7 +101941,6 @@ kingfish.fishing.net.nz
 static.ws.apsis.one
 aj1070.online
 besocial.online
-store-notification.online
 12js.org
 1377x.org
 16js.org
@@ -102591,6 +102593,7 @@ cpcontacts.digipos.org
 mail.digipos.org
 webdisk.digipos.org
 www.digipos.org
+ww17.digitalbazaar.org
 www.digitalbazaar.org
 dirtyvideos.org
 disasterflorida.org
