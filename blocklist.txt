@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 339102
+# Ignored duplicates: 339326
 
 pixel.ad
 roq.ad
@@ -14169,6 +14169,7 @@ files.dotandad.com
 jscdn1.dotandad.com
 js.tiscali.dotandad.com
 ui.dotandad.com
+ww01.dotandad.com
 www.dotandad.com
 dotnemania.com
 dotomi.com
@@ -14693,7 +14694,6 @@ elizabethmattress.com
 elliottchevroletcadillac.com
 elmananadevalles.com
 elocalisting.com
-www.elonpresent.com
 elonshares.com
 eloqua.com
 elsitiofeliz.com
@@ -15184,9 +15184,6 @@ findyourcasino.com
 fingereach.com
 fingersgames.com
 dev.fiowertucci.com
-old.fiowertucci.com
-shop.fiowertucci.com
-test.fiowertucci.com
 ads-game-187f4.firebaseapp.com
 firebasegoogle.com
 fireworkadservices.com
@@ -18294,6 +18291,7 @@ internetxfinity.com
 internshps.com
 interpolls.com
 survey.interquest.com
+intershieldismart.com
 intervalleyhealth.com
 intowow.com
 tags.prd.api.a.intuit.com
@@ -19200,6 +19198,7 @@ licoshnit.com
 lieber-tower.com
 liektuan.com
 life--insurance--quotes.com
+lifeinsurance--quotes.com
 lifeinsurancequotescenter.com
 lifestreet.com
 ligadx.com
@@ -35402,7 +35401,6 @@ mzhhiphop.com
 metrics.mzstatic.com
 cdn.n131adserv.com
 ns150.n131adserv.com
-ns171.n131adserv.com
 www.n131adserv.com
 n69.com
 miner.nablabee.com
@@ -41085,9 +41083,27 @@ m.optvdo.com
 mc.optvdo.com
 p.optvdo.com
 rtb.optvdo.com
+s-01.optvdo.com
+s-02.optvdo.com
+s-03.optvdo.com
+s-05.optvdo.com
+s-06.optvdo.com
+s-08.optvdo.com
 s-09.optvdo.com
+s-108.optvdo.com
+s-109.optvdo.com
+s-110.optvdo.com
+s-113.optvdo.com
+s-114.optvdo.com
+s-117.optvdo.com
+s-118.optvdo.com
+s-119.optvdo.com
 v.optvdo.com
 v-01-stage.optvdo.com
+v-53.optvdo.com
+v-55.optvdo.com
+v-64.optvdo.com
+v-65.optvdo.com
 v2v.optvdo.com
 cobrowse.oraclecloud.com
 ccexperimentsstatic.oracleoutsourcing.com
@@ -48783,6 +48799,7 @@ tg.test.socdm.com
 tg.socdm.com
 xrost.socdm.com
 yieldone.socdm.com
+social---impact.com
 socialannex.com
 socialnetworksreward.com
 socialnetworksrewards.com
@@ -56177,7 +56194,6 @@ aerjournal.info
 afreeurl.info
 africanlegends.info
 aftereffectvn.info
-ww25.ahhadesigns.info
 ainu.info
 www.akiba-pr.info
 alcea.info
@@ -56560,7 +56576,6 @@ bigger-penis.info
 biggerpenisnow.info
 bigrealestate.info
 bijsluiterscore.info
-www.bill-gates.info
 mail.bimba.info
 www.bimba.info
 binarytribune.info
@@ -56584,8 +56599,7 @@ analytics.bitrix.info
 bizbuildermastery.info
 bled.info
 blockchani.info
-ww17.blogreview.info
-ww38.blogreview.info
+blogreview.info
 blogvlw.info
 bluehippo.info
 bluenews.info
@@ -56928,7 +56942,6 @@ ww25.cclove12.info
 ww7.cclove12.info
 www.cclove12.info
 cctv-camera.info
-www.cd-player.info
 cediss.info
 celebmafia.info
 www.celiaimrie.info
@@ -57429,8 +57442,6 @@ ww38.familydick.info
 www.familydick.info
 fangot.info
 fanserials.info
-ww1.fappu.info
-www.fappu.info
 fasan.info
 fatma.info
 fatorfiction.info
@@ -57955,7 +57966,7 @@ laoselv.info
 lapakdewa.info
 laptopsinhvien.info
 lcov.info
-ldir.info
+ww16.business.ldir.info
 leadinglifestyles.info
 lebensgefuehl.info
 leber-galle.info
@@ -58942,7 +58953,6 @@ ww25.rutur.info
 ww6.rutur.info
 www.rutur.info
 rxhd.info
-www.saalbach-hinterglemm.info
 autodiscover.saiphptc.info
 cpcalendars.saiphptc.info
 cpcontacts.saiphptc.info
@@ -59037,10 +59047,6 @@ ww11.sese377.info
 ww16.sese377.info
 ww25.sese377.info
 www.sese377.info
-ww1.sese755.info
-ww25.sese755.info
-ww38.sese755.info
-www.sese755.info
 seventorrents5.info
 everyoneflv.sexitunes.info
 expensiveavi.sexitunes.info
@@ -75706,7 +75712,6 @@ bidswitch.net
 ad0.bigmir.net
 c.bigmir.net
 billyjons.net
-www.binancefund.net
 binanceteam.net
 mail.binancevent.net
 pop.binancevent.net
@@ -75730,6 +75735,7 @@ acceptable.buysellads.net
 cdn-s2s.buysellads.net
 cdn4.buysellads.net
 email.buysellads.net
+static4.buysellads.net
 c212.net
 adpushup1.cachefly.net
 adpushup2.cachefly.net
@@ -94139,8 +94145,11 @@ in.effectivemeasure.net
 in-cdn.effectivemeasure.net
 in-ssl.effectivemeasure.net
 it.effectivemeasure.net
+jo.effectivemeasure.net
 n.effectivemeasure.net
 ph2.effectivemeasure.net
+www.s.effectivemeasure.net
+sea-cdn.effectivemeasure.net
 t-beta.effectivemeasure.net
 th.effectivemeasure.net
 v.effectivemeasure.net
@@ -101535,6 +101544,7 @@ subarurelease.net
 suncolonyapts.net
 sundenlink.net
 superhikaye.net
+supersp0rt.net
 surfthechanel.net
 links.swingsearch.net
 ww1.swingsearch.net
@@ -103612,7 +103622,6 @@ sphere.outbrain.org
 static3.outbrain.org
 www.outbrain.org
 zemanta-ny.outbrain.org
-zemanta-nychi.outbrain.org
 zemanta-sa.outbrain.org
 oxfarm.org
 ozgurlukdergisi.org
@@ -103676,7 +103685,6 @@ plantesforkids.org
 platinumautosales.org
 dc-767e39a2bd1b.playbuzz.org
 ww1.playbuzz.org
-ww17.playbuzz.org
 ww38.playbuzz.org
 www.playbuzz.org
 playtetris.org
@@ -104323,6 +104331,7 @@ sqiirt.org
 sqldev.org
 sqllitebrowser.org
 squ1.org
+squiret.org
 squirtt.org
 squirtz.org
 squurt.org
@@ -112781,7 +112790,6 @@ live.demand.supply
 www.voe.sx
 audience.systems
 lightstep.medium.systems
-ql.tc
 adservio.tech
 armis.tech
 coinbasepro.tech
