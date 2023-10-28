@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 339326
+# Ignored duplicates: 339338
 
 pixel.ad
 roq.ad
@@ -4596,6 +4596,7 @@ adultmoviesales.com
 adultpinay.com
 cluster.adultworld.com
 newt1.adultworld.com
+ww25.adulysearch.com
 adunity.com
 adup-tech.com
 ap.adups.com
@@ -8105,6 +8106,7 @@ app.clearbit.com
 autocomplete.clearbit.com
 batch.clearbit.com
 cdn.clearbit.com
+chat.clearbit.com
 cio.clearbit.com
 claim.clearbit.com
 closeio.clearbit.com
@@ -8136,6 +8138,7 @@ home.clearbit.com
 hubspot.clearbit.com
 kafka.infra.clearbit.com
 jaeger.os.infra.clearbit.com
+ipcompany.clearbit.com
 js.clearbit.com
 log.clearbit.com
 logo-core.clearbit.com
@@ -8160,6 +8163,7 @@ reveal-ga.clearbit.com
 risk.clearbit.com
 salesforce-extension.clearbit.com
 segment.clearbit.com
+sfdc.clearbit.com
 staging-os13.os.staging.clearbit.com
 staging-os27.os.staging.clearbit.com
 staging-watchlist-es56.os.staging.clearbit.com
@@ -17021,7 +17025,6 @@ click.google-analytics.com
 region1.google-analytics.com
 alt1.sandbox.google-analytics.com
 www-alv.google-analytics.com
-www.google-assistant.com
 google-docs.com
 google-money.com
 google-porn.com
@@ -17361,6 +17364,7 @@ gwallet.com
 gwnrecords.com
 gyanin.com
 www.gymsharkswedens.com
+www.gzxrong.com
 h-bid.com
 api-cdn.h-cdn.com
 ard-de.h-cdn.com
@@ -17702,7 +17706,6 @@ hotels-in-israel.com
 click.mail.hotels.com
 www.hotfreebees.com
 hotjar.com
-hotkeys.com
 hotmaaail.com
 hotmey.com
 hotnewhihop.com
@@ -19332,6 +19335,7 @@ vamail2.linksynergy.com
 vamail3.linksynergy.com
 m.www.linksynergy.com
 linktarget.com
+ww1.linmkedin.com
 liquidm.com
 lisasophia.com
 lisnr.com
@@ -35399,8 +35403,6 @@ myverizin.com
 myxerfreeringtones.com
 mzhhiphop.com
 metrics.mzstatic.com
-cdn.n131adserv.com
-ns150.n131adserv.com
 www.n131adserv.com
 n69.com
 miner.nablabee.com
@@ -35711,6 +35713,7 @@ ncuwtufam.com
 adproxy.ndmdhs.com
 ndparking.com
 ndroip.com
+ads.ndtv1.com
 analyze.neatab.com
 calc.neatab.com
 cdn.neatab.com
@@ -41088,6 +41091,7 @@ s-02.optvdo.com
 s-03.optvdo.com
 s-05.optvdo.com
 s-06.optvdo.com
+s-07.optvdo.com
 s-08.optvdo.com
 s-09.optvdo.com
 s-108.optvdo.com
@@ -41100,10 +41104,26 @@ s-118.optvdo.com
 s-119.optvdo.com
 v.optvdo.com
 v-01-stage.optvdo.com
+v-03.optvdo.com
+v-04.optvdo.com
+v-06.optvdo.com
+v-08.optvdo.com
+v-10.optvdo.com
+v-12.optvdo.com
+v-13.optvdo.com
+v-15.optvdo.com
+v-17.optvdo.com
+v-18.optvdo.com
 v-53.optvdo.com
 v-55.optvdo.com
+v-57.optvdo.com
+v-58.optvdo.com
+v-59.optvdo.com
+v-61.optvdo.com
+v-63.optvdo.com
 v-64.optvdo.com
 v-65.optvdo.com
+v-79.optvdo.com
 v2v.optvdo.com
 cobrowse.oraclecloud.com
 ccexperimentsstatic.oracleoutsourcing.com
@@ -42793,7 +42813,6 @@ pushmejs.com
 trc.pushnami.com
 pushnice.com
 pushno.com
-ads.pushplay.com
 s-eu-1.pushpushgo.com
 pushspring.com
 pushtisahitya.com
@@ -48197,6 +48216,10 @@ shoopcar.com
 shopayhome.com
 trk.a.shopdisney.com
 shophee.com
+ww1.ww1.shophieparis.com
+ww25.ww1.shophieparis.com
+ww38.ww1.shophieparis.com
+ww35.shophieparis.com
 shopkick.com
 shopofcosplay.com
 shoppingads.com
@@ -49328,6 +49351,7 @@ statxpress.com
 stayisland.com
 steadfastsound.com
 steadfastsystem.com
+www.steamedcheeseburger.com
 steelhouse.com
 steelhousemedia.com
 stepplane.com
@@ -55414,7 +55438,6 @@ pr-star.de
 praddpro.de
 ad.profiwin.de
 cgicounter.puretec.de
-bnnrrv.qontentum.de
 ads.quoka.de
 rankchamp.de
 ranking-charts.de
@@ -57966,7 +57989,6 @@ laoselv.info
 lapakdewa.info
 laptopsinhvien.info
 lcov.info
-ww16.business.ldir.info
 leadinglifestyles.info
 lebensgefuehl.info
 leber-galle.info
@@ -59282,6 +59304,7 @@ studnet.info
 subsidios.info
 suertetrabajos.info
 ww16.upla.sumariados.info
+ww1.sumariados.info
 webdisk.sunbuster.info
 www.sunbuster.info
 sunderlandinsurance.info
@@ -60419,7 +60442,6 @@ admp.io
 adnami.io
 adnami2.io
 adpredictive.io
-dy.adserve.io
 3p-pix.adstk.io
 conv-pix.adstk.io
 doraemon.adstk.io
@@ -94139,6 +94161,11 @@ ww38.eeepadhacks.net
 ww82.eeepadhacks.net
 accounts.effectivemeasure.net
 adt.effectivemeasure.net
+ae.effectivemeasure.net
+c-waa.effectivemeasure.net
+dk.effectivemeasure.net
+fr-cdn.effectivemeasure.net
+hk.effectivemeasure.net
 id-cdn.effectivemeasure.net
 images.effectivemeasure.net
 in.effectivemeasure.net
@@ -94146,13 +94173,24 @@ in-cdn.effectivemeasure.net
 in-ssl.effectivemeasure.net
 it.effectivemeasure.net
 jo.effectivemeasure.net
+ke-cdn.effectivemeasure.net
 n.effectivemeasure.net
+netme-ssl.effectivemeasure.net
+nets.effectivemeasure.net
+ng-cdn.effectivemeasure.net
+p.effectivemeasure.net
 ph2.effectivemeasure.net
 www.s.effectivemeasure.net
 sea-cdn.effectivemeasure.net
+stream.effectivemeasure.net
+survey-b.effectivemeasure.net
 t-beta.effectivemeasure.net
+test.effectivemeasure.net
 th.effectivemeasure.net
+ua.effectivemeasure.net
+us.effectivemeasure.net
 v.effectivemeasure.net
+wwww.effectivemeasure.net
 elasticad.net
 dan.elemen.net
 ww11.elemen.net
@@ -101728,6 +101766,7 @@ wwwbrita.net
 wwwdiziizle.net
 wwwilsos.net
 wwwmymercy.net
+wwwoptonline.net
 wwwxmeye.net
 xemeye.net
 xn--hava-85a.net
@@ -102183,7 +102222,6 @@ azmoun.org
 azmunakan.org
 media.babelinks.org
 sitemaps.babelinks.org
-ww1.babelinks.org
 ww11.babelinks.org
 ww38.babelinks.org
 www.babelinks.org
@@ -102372,7 +102410,6 @@ cnyjeep.org
 coc-resources.org
 www.codigest.org
 cogiclive.org
-cogsdev.org
 cokesburycollege.org
 colde.org
 colecountycollector.org
@@ -104364,7 +104401,6 @@ prod.stream-hd.org
 shop.stream-hd.org
 stg.stream-hd.org
 test.stream-hd.org
-ww1.stream-hd.org
 www.stream-hd.org
 streamtowatch.org
 streetworkout.org
@@ -104426,6 +104462,8 @@ teensx.org
 tehbox.org
 mail.teknobilim.org
 www.teknobilim.org
+ns1.telegramco.org
+ns2.telegramco.org
 televisiongratis.org
 temo-mail.org
 temporarymail.org
@@ -112790,7 +112828,6 @@ live.demand.supply
 www.voe.sx
 audience.systems
 lightstep.medium.systems
-adservio.tech
 armis.tech
 coinbasepro.tech
 sommelier.futurehybrid.tech
@@ -113052,8 +113089,6 @@ pixel.watch
 childrenlawyer.win
 hashing.win
 hemnes.win
-events.ponystudent.win
-sitemap.ponystudent.win
 spoonstory.win
 swiftmining.win
 tx.cdnjs.work
