@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 339403
+# Ignored duplicates: 339483
 
 pixel.ad
 roq.ad
@@ -14304,7 +14304,9 @@ ssl2.duapps.com
 whosthat.duapps.com
 revive.dubcnm.com
 ducel.com
+mail.dufibepe.com
 ww1.dufibepe.com
+www.dufibepe.com
 dumbpop.com
 dunill.com
 excess.duolingo.com
@@ -17366,6 +17368,7 @@ gwallet.com
 gwnrecords.com
 gyanin.com
 www.gymsharkswedens.com
+ww25.gzxrong.com
 www.gzxrong.com
 h-bid.com
 api-cdn.h-cdn.com
@@ -19337,7 +19340,10 @@ vamail2.linksynergy.com
 vamail3.linksynergy.com
 m.www.linksynergy.com
 linktarget.com
+elb.linmkedin.com
 ww1.linmkedin.com
+ww25.linmkedin.com
+ww38.linmkedin.com
 www.linmkedin.com
 liquidm.com
 lisasophia.com
@@ -22413,7 +22419,6 @@ midsizesuvhub.com
 ww1.midwestsportsevents.com
 ww17.midwestsportsevents.com
 ww38.midwestsportsevents.com
-www.midwestsportsevents.com
 ww1.mikeschanksworld.com
 ww11.mikeschanksworld.com
 ww16.mikeschanksworld.com
@@ -41098,6 +41103,7 @@ s-08.optvdo.com
 s-09.optvdo.com
 s-10.optvdo.com
 s-106.optvdo.com
+s-107.optvdo.com
 s-108.optvdo.com
 s-109.optvdo.com
 s-110.optvdo.com
@@ -41113,6 +41119,7 @@ v-04.optvdo.com
 v-06.optvdo.com
 v-08.optvdo.com
 v-10.optvdo.com
+v-11.optvdo.com
 v-12.optvdo.com
 v-13.optvdo.com
 v-15.optvdo.com
@@ -41125,9 +41132,16 @@ v-57.optvdo.com
 v-58.optvdo.com
 v-59.optvdo.com
 v-61.optvdo.com
+v-62.optvdo.com
 v-63.optvdo.com
 v-64.optvdo.com
 v-65.optvdo.com
+v-73.optvdo.com
+v-74.optvdo.com
+v-75.optvdo.com
+v-76.optvdo.com
+v-77.optvdo.com
+v-78.optvdo.com
 v-79.optvdo.com
 v2v.optvdo.com
 cobrowse.oraclecloud.com
@@ -41978,7 +41992,6 @@ old.podersa.com
 shop.podersa.com
 sitemaps.podersa.com
 test.podersa.com
-ww1.podersa.com
 ww25.podersa.com
 www.podersa.com
 connect.podium.com
@@ -43269,6 +43282,7 @@ adz.rashflash.com
 rateqoute.com
 ww16.ww1.ratracebellion.com
 ww16.ratracebellion.com
+www.ratracebellion.com
 ratracerevolution.com
 ravenjs.com
 sitemap.rayban-outlet.com
@@ -46561,7 +46575,6 @@ www.rkdfashions.com
 rkdms.com
 rktch.com
 rlcdn.com
-ww17.rlcworks.com
 ww38.rlcworks.com
 rlets.com
 rmbutterfly.com
@@ -46911,7 +46924,6 @@ mail.rubiconproject.com
 mail-lax2.rubiconproject.com
 marketplace-api.rubiconproject.com
 messages.rubiconproject.com
-micro.rubiconproject.com
 mp.rubiconproject.com
 mpbs.rubiconproject.com
 o-eus.rubiconproject.com
@@ -48203,6 +48215,8 @@ sharp-concepts.com
 sharppatch.com
 sheetsnthings.com
 sheezts.com
+ww1.sheiismart.com
+ww31.sheiismart.com
 shemaletugjob.com
 shesubscriptions.com
 shikshabd.com
@@ -48221,10 +48235,9 @@ shoopcar.com
 shopayhome.com
 trk.a.shopdisney.com
 shophee.com
-ww1.ww1.shophieparis.com
-ww25.ww1.shophieparis.com
-ww38.ww1.shophieparis.com
+ww1.shophieparis.com
 ww35.shophieparis.com
+ww38.shophieparis.com
 shopkick.com
 shopofcosplay.com
 shoppingads.com
@@ -52240,6 +52253,7 @@ ads.vidoomy.com
 vidora.com
 vidsdbm.com
 www.vidyoutube.com
+www.vienamairline.com
 viewbix.com
 viewdeos.com
 viewsignage.com
@@ -53136,6 +53150,7 @@ beacon.wikia-services.com
 athena-ads.wikia.com
 wikia-ads.wikia.com
 wiktravel.com
+mta-sts.mail.wiliamsonoma.com
 ww1.wiliamsonoma.com
 willitdetonate.com
 winanp.com
@@ -56159,11 +56174,6 @@ ww12.abbottandcostello.info
 ww7.abbottandcostello.info
 www.abbottandcostello.info
 abportal.info
-gaga1.2.1643419428.1532492192.acehonline.info
-ipv6.acehonline.info
-mail.acehonline.info
-mvideo.acehonline.info
-www.acehonline.info
 actiegeld.info
 actu30.info
 actualite.info
@@ -56245,8 +56255,6 @@ allgalle.info
 wpstats.alsahabmedia.info
 ww1.alsahabmedia.info
 ww11.alsahabmedia.info
-ww16.alsahabmedia.info
-ww17.alsahabmedia.info
 ww25.alsahabmedia.info
 ww38.alsahabmedia.info
 alsjl-news.info
@@ -56687,7 +56695,6 @@ mvideo.brshare.info
 ww1.brshare.info
 ww16.brshare.info
 ww17.brshare.info
-ww25.brshare.info
 ww38.brshare.info
 www.brshare.info
 brunei.info
@@ -57127,7 +57134,6 @@ data-recovery.info
 datentarife.info
 static.datingss.info
 ww1.datingss.info
-ww16.datingss.info
 ww2.datingss.info
 ww3.datingss.info
 coolgames.datsfree.info
@@ -57417,7 +57423,6 @@ ww17.etain.info
 www.etain.info
 etarin.info
 ethanfletcher.info
-mail.eurocardsharing.info
 www.telecity.eurocardsharing.info
 ww1.eurocardsharing.info
 ww25.eurocardsharing.info
@@ -57455,13 +57460,12 @@ www.falvguwen.info
 familiengarten.info
 autodiscover.familydick.info
 mail.familydick.info
-video.familydick.info
+ww1.video.familydick.info
+ww25.video.familydick.info
+ww38.video.familydick.info
 webdisk.familydick.info
 ww1.familydick.info
-ww16.familydick.info
-ww17.familydick.info
 ww25.familydick.info
-ww38.familydick.info
 www.familydick.info
 fangot.info
 fanserials.info
@@ -57517,7 +57521,6 @@ financialsecurity.info
 firstnews.info
 fishinginisrael.info
 fisse.info
-ww25.fkwv.info
 flex-tech.info
 flixzone.info
 forbest.info
@@ -57939,6 +57942,8 @@ konsan.info
 konyaalti.info
 koorlive.info
 kotaklagu.info
+cpcalendars.kozi.info
+webdisk.kozi.info
 ww38.kozi.info
 www.kozi.info
 kreativan.info
@@ -58090,9 +58095,6 @@ ww1.malbilder.info
 ww11.malbilder.info
 ww16.malbilder.info
 ww25.malbilder.info
-ww3.malbilder.info
-ww38.malbilder.info
-www.malbilder.info
 manapeddapuram.info
 manga-channel.info
 mangareading.info
@@ -59273,10 +59275,6 @@ ww25.sserbanro.info
 ww38.sserbanro.info
 www.sserbanro.info
 ssmatomeantenna.info
-ww1.m.stafabanddl.info
-ww11.m.stafabanddl.info
-ww17.m.stafabanddl.info
-ww38.m.stafabanddl.info
 ww1.startbeestlife.info
 ww16.startbeestlife.info
 ww25.startbeestlife.info
@@ -59304,6 +59302,7 @@ suertetrabajos.info
 temuko.sumariados.info
 upla.sumariados.info
 ww1.sumariados.info
+ww38.sumariados.info
 webdisk.sunbuster.info
 www.sunbuster.info
 sunderlandinsurance.info
@@ -60056,6 +60055,8 @@ verthewalkingdeadonline.info
 mail.vestige.info
 webdisk.vestige.info
 www.vestige.info
+ww25.videoindir.info
+www.videoindir.info
 videoking.info
 videoprivate.info
 videotyt.info
@@ -60136,17 +60137,6 @@ webreggi.info
 webspro.info
 webworth.info
 weimei.info
-cleanstep.wesua.info
-juicer.wesua.info
-klol.wesua.info
-molniaizmelchitel.wesua.info
-niss.wesua.info
-plast.wesua.info
-rmilod.wesua.info
-silic.wesua.info
-smarttv.wesua.info
-sssticks.wesua.info
-ww38.wesua.info
 wfrtys.info
 white-media.info
 whs.info
@@ -94160,11 +94150,15 @@ ae.effectivemeasure.net
 au2.effectivemeasure.net
 c-ssl.effectivemeasure.net
 c-waa.effectivemeasure.net
+ca-cdn.effectivemeasure.net
 ca-ssl.effectivemeasure.net
 cdn.effectivemeasure.net
+com.effectivemeasure.net
 dk.effectivemeasure.net
+ep-mimecast.effectivemeasure.net
 fr-cdn.effectivemeasure.net
 gb.effectivemeasure.net
+gb-cdn.effectivemeasure.net
 hk.effectivemeasure.net
 hk-cdn.effectivemeasure.net
 id.effectivemeasure.net
@@ -94178,6 +94172,7 @@ it.effectivemeasure.net
 jo.effectivemeasure.net
 ke-cdn.effectivemeasure.net
 live-ssl.effectivemeasure.net
+m4ohml2fk8dk6e6v8svjj4p15i5nj15j.effectivemeasure.net
 n.effectivemeasure.net
 ncollector.effectivemeasure.net
 ndetect-survey.effectivemeasure.net
@@ -94207,7 +94202,9 @@ test.effectivemeasure.net
 th.effectivemeasure.net
 ua.effectivemeasure.net
 ui.effectivemeasure.net
+urvey.effectivemeasure.net
 us.effectivemeasure.net
+us3.effectivemeasure.net
 v.effectivemeasure.net
 vicgov.effectivemeasure.net
 vn-cdn.effectivemeasure.net
@@ -100528,7 +100525,6 @@ prometheus.general-stage-a.mdw1.k8s.sendgrid.net
 dash.rook-ceph.general-stage-a.mdw1.k8s.sendgrid.net
 rgw.rook-ceph.general-stage-a.mdw1.k8s.sendgrid.net
 servernameapi.general-stage-a.mdw1.k8s.sendgrid.net
-sgstatsrest-ing.general-stage-a.mdw1.k8s.sendgrid.net
 smtp-sink-s1mdw1.general-stage-a.mdw1.k8s.sendgrid.net
 stitcher-s1mdw1.general-stage-a.mdw1.k8s.sendgrid.net
 supapi.general-stage-a.mdw1.k8s.sendgrid.net
@@ -102440,9 +102436,6 @@ colegioregistradores.org
 collive.org
 coloradomesa.org
 colorguild.org
-ww11.combat18.org
-ww17.combat18.org
-ww38.combat18.org
 comipens.org
 comkp.org
 commackpta.org
@@ -103618,7 +103611,6 @@ nyschoolsurvey.org
 nysters.org
 ww1.oahow.org
 ww38.oahow.org
-www.oahow.org
 oakparkschool.org
 oasissanctuary.org
 objectifdemocratie.org
@@ -104408,11 +104400,6 @@ stmonicatucson.org
 stopanimalcrueltyhsc.org
 stoptextstopwrecks.org
 cloud.stream-hd.org
-dev.stream-hd.org
-magento.stream-hd.org
-ns1.stream-hd.org
-ns2.stream-hd.org
-shop.stream-hd.org
 stg.stream-hd.org
 www.stream-hd.org
 streamtowatch.org
