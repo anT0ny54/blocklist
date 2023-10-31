@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 339483
+# Ignored duplicates: 339511
 
 pixel.ad
 roq.ad
@@ -6934,7 +6934,6 @@ bilizzard.com
 www.billgateshelp.com
 billigastelanet.com
 billigastforsakring.com
-ww1.billing-select.com
 billyblank.com
 billywitchdoctor.com
 bilojobs.com
@@ -17368,8 +17367,7 @@ gwallet.com
 gwnrecords.com
 gyanin.com
 www.gymsharkswedens.com
-ww25.gzxrong.com
-www.gzxrong.com
+gzxrong.com
 h-bid.com
 api-cdn.h-cdn.com
 ard-de.h-cdn.com
@@ -41107,6 +41105,7 @@ s-107.optvdo.com
 s-108.optvdo.com
 s-109.optvdo.com
 s-110.optvdo.com
+s-111.optvdo.com
 s-113.optvdo.com
 s-114.optvdo.com
 s-117.optvdo.com
@@ -43282,12 +43281,11 @@ adz.rashflash.com
 rateqoute.com
 ww16.ww1.ratracebellion.com
 ww16.ratracebellion.com
+ww25.ratracebellion.com
 www.ratracebellion.com
 ratracerevolution.com
 ravenjs.com
 sitemap.rayban-outlet.com
-ww25.rayban-outlet.com
-ww38.rayban-outlet.com
 www.rayban-outlet.com
 raybanonlineshop.com
 rayjump.com
@@ -45834,7 +45832,6 @@ s-ris.res-x.com
 www.res-x.com
 resalag.com
 resaomkring.com
-www.rescuepetsmypets.com
 flare.researchnow.com
 inbound01.researchnow.com
 inbound02.researchnow.com
@@ -46575,7 +46572,6 @@ www.rkdfashions.com
 rkdms.com
 rktch.com
 rlcdn.com
-ww38.rlcworks.com
 rlets.com
 rmbutterfly.com
 rmgserving.com
@@ -48642,7 +48638,7 @@ cfg.skollabs.com
 skreeened.com
 skreemed.com
 skyadsmart.com
-mvideo.skydivecaliforniacity.com
+www.skydivecaliforniacity.com
 skylineosx.com
 api.promotions.skype.com
 bo.promotions.skype.com
@@ -49034,9 +49030,6 @@ www.sportacents.com
 sportboobs.com
 sportkeeda.com
 sportovnivozy.com
-ww1.sportsgames247.com
-ww41.sportsgames247.com
-www.sportsgames247.com
 sportslut.com
 sportyfy.com
 adeventtracker.spotify.com
@@ -51887,9 +51880,6 @@ urgentwinupdates.com
 urizz.com
 uruswan.com
 uryod.com
-mx1.us-airways.com
-ns3.us-airways.com
-ww1.us-airways.com
 usabilla.com
 usabirdsupply.com
 usairtways.com
@@ -54863,7 +54853,6 @@ es.yourseniorcarenetwork.com
 et.yourseniorcarenetwork.com
 fr.yourseniorcarenetwork.com
 hr.yourseniorcarenetwork.com
-id.yourseniorcarenetwork.com
 it.yourseniorcarenetwork.com
 ko.yourseniorcarenetwork.com
 link.yourseniorcarenetwork.com
@@ -54878,7 +54867,6 @@ pop.yourseniorcarenetwork.com
 ro.yourseniorcarenetwork.com
 sitemaps.yourseniorcarenetwork.com
 sk.yourseniorcarenetwork.com
-sl.yourseniorcarenetwork.com
 sv.yourseniorcarenetwork.com
 ta.yourseniorcarenetwork.com
 te.yourseniorcarenetwork.com
@@ -56252,9 +56240,7 @@ ww38.allclipart.info
 www.allclipart.info
 allergene.info
 allgalle.info
-wpstats.alsahabmedia.info
 ww1.alsahabmedia.info
-ww11.alsahabmedia.info
 ww25.alsahabmedia.info
 ww38.alsahabmedia.info
 alsjl-news.info
@@ -56695,7 +56681,6 @@ mvideo.brshare.info
 ww1.brshare.info
 ww16.brshare.info
 ww17.brshare.info
-ww38.brshare.info
 www.brshare.info
 brunei.info
 brzozow.info
@@ -57133,9 +57118,6 @@ www.darknets.info
 data-recovery.info
 datentarife.info
 static.datingss.info
-ww1.datingss.info
-ww2.datingss.info
-ww3.datingss.info
 coolgames.datsfree.info
 datsfree.datsfree.info
 funnyandjokes.datsfree.info
@@ -57423,9 +57405,7 @@ ww17.etain.info
 www.etain.info
 etarin.info
 ethanfletcher.info
-www.telecity.eurocardsharing.info
 ww1.eurocardsharing.info
-ww25.eurocardsharing.info
 eventsco.info
 evergreenseniorliving.info
 ww1.evershine.info
@@ -57593,7 +57573,6 @@ funtvshow.info
 ww1.futjakot.info
 ww17.futjakot.info
 www.futjakot.info
-ww1.futurestudys.info
 www.futurestudys.info
 fyo.info
 g75v47q60.info
@@ -57805,7 +57784,15 @@ hunchun.info
 hurdleyreer.info
 hxcz.info
 hypnonet.info
-hypo2.info
+article-v.hypo2.info
+doc-q.hypo2.info
+hit-r.hypo2.info
+info-h.hypo2.info
+top-0.hypo2.info
+ww1.hypo2.info
+ww25.hypo2.info
+ww38.hypo2.info
+www.hypo2.info
 i-standart.info
 iasa.info
 icolist1.info
@@ -57863,6 +57850,7 @@ javanenvansuriname.info
 jayrigby.info
 jebar.info
 jetztodernie.info
+jezdeckaskola.info
 jianyue.info
 jinan.info
 jinseikenko.info
@@ -58094,7 +58082,6 @@ malaysiaup.info
 ww1.malbilder.info
 ww11.malbilder.info
 ww16.malbilder.info
-ww25.malbilder.info
 manapeddapuram.info
 manga-channel.info
 mangareading.info
@@ -58930,14 +58917,10 @@ ww25.reunionideas.info
 ww38.reunionideas.info
 www.reunionideas.info
 rewy.info
-ns1.rexhado.info
-ns2.rexhado.info
 shanes.rexhado.info
 ww1.rexhado.info
-ww16.rexhado.info
 ww25.rexhado.info
 ww38.rexhado.info
-www.rexhado.info
 ritual-service.info
 riuu.info
 rksi.info
@@ -58999,6 +58982,7 @@ ww17.salemfonden.info
 ww25.salemfonden.info
 ww38.salemfonden.info
 www.salemfonden.info
+www.saludablemente.info
 samstha.info
 cpcontacts.sancarlosminas.info
 mail.sancarlosminas.info
@@ -60056,6 +60040,7 @@ mail.vestige.info
 webdisk.vestige.info
 www.vestige.info
 ww25.videoindir.info
+ww38.videoindir.info
 www.videoindir.info
 videoking.info
 videoprivate.info
@@ -67969,12 +67954,16 @@ funbox-rprd-318-tests.yellowblue.io
 funbox-rprd-319.yellowblue.io
 funbox-rprd-319-unittests.yellowblue.io
 funbox-rprd-330-gdpr.yellowblue.io
+funbox-rprd-334-monitorreprort.yellowblue.io
 funbox-rprd-341-gam-module-refactor.yellowblue.io
 funbox-rprd-341-gam-module-refactor-inifinte-fixes.yellowblue.io
 funbox-rprd-341-gam-module-refactor-options.yellowblue.io
 funbox-rprd-342.yellowblue.io
 funbox-rprd-342-gam-module.yellowblue.io
 funbox-rprd-345-infinite-scroll--slot.yellowblue.io
+funbox-rprd-347-ad-unit-type-fixes.yellowblue.io
+funbox-rprd-347-ad-unit-type-fixes-new.yellowblue.io
+funbox-rprd-359-reportadvertiserdomain.yellowblue.io
 funbox-rprd-363-refactorauctionclass.yellowblue.io
 funbox-rprd-378-ad-slot-path.yellowblue.io
 funbox-rprd-378-ad-slot-path-backup.yellowblue.io
@@ -67995,6 +67984,12 @@ funbox-rprd-392-min-floor.yellowblue.io
 funbox-rprd-396-report-bl-flow.yellowblue.io
 funbox-rprd-397-blflowidfix.yellowblue.io
 funbox-rprd-409-reportadunitload.yellowblue.io
+funbox-rprd-414-coppa.yellowblue.io
+funbox-rprd-419-us-privacy-aps-fix.yellowblue.io
+funbox-rprd-423.yellowblue.io
+funbox-rprd-423-iab-categories.yellowblue.io
+funbox-rprd-439-reportwrapperidonaul.yellowblue.io
+funbox-rprd-443-sizes.yellowblue.io
 funbox-rprd-52-tagsauction.yellowblue.io
 funbox-rprd-52-tagsauction-adjusttoresponse.yellowblue.io
 funbox-rprd-52-tagsfix.yellowblue.io
@@ -94143,22 +94138,31 @@ ww25.eeepadhacks.net
 ww31.eeepadhacks.net
 ww38.eeepadhacks.net
 ww82.eeepadhacks.net
+7s.effectivemeasure.net
+9044478959fe47bb.effectivemeasure.net
 accounts.effectivemeasure.net
+ad.effectivemeasure.net
 admax.effectivemeasure.net
 adt.effectivemeasure.net
 ae.effectivemeasure.net
+ap-ssl.effectivemeasure.net
 au2.effectivemeasure.net
+c-cdn.effectivemeasure.net
+c-drp.effectivemeasure.net
 c-ssl.effectivemeasure.net
 c-waa.effectivemeasure.net
+ca.effectivemeasure.net
 ca-cdn.effectivemeasure.net
 ca-ssl.effectivemeasure.net
 cdn.effectivemeasure.net
 com.effectivemeasure.net
+cz-cdn.effectivemeasure.net
 dk.effectivemeasure.net
 ep-mimecast.effectivemeasure.net
 fr-cdn.effectivemeasure.net
 gb.effectivemeasure.net
 gb-cdn.effectivemeasure.net
+gb-ssl.effectivemeasure.net
 hk.effectivemeasure.net
 hk-cdn.effectivemeasure.net
 id.effectivemeasure.net
@@ -94167,12 +94171,15 @@ ikoo-cdn.effectivemeasure.net
 images.effectivemeasure.net
 in.effectivemeasure.net
 in-cdn.effectivemeasure.net
+in-https.effectivemeasure.net
 in-ssl.effectivemeasure.net
 it.effectivemeasure.net
 jo.effectivemeasure.net
 ke-cdn.effectivemeasure.net
 live-ssl.effectivemeasure.net
 m4ohml2fk8dk6e6v8svjj4p15i5nj15j.effectivemeasure.net
+me-ap.effectivemeasure.net
+www.my-ssl.effectivemeasure.net
 n.effectivemeasure.net
 ncollector.effectivemeasure.net
 ndetect-survey.effectivemeasure.net
@@ -94185,6 +94192,7 @@ nsurvey.effectivemeasure.net
 null-ssl.effectivemeasure.net
 nz.effectivemeasure.net
 p.effectivemeasure.net
+p-cdn.effectivemeasure.net
 p-ssl.effectivemeasure.net
 ph2.effectivemeasure.net
 pk-ssl.effectivemeasure.net
@@ -94194,10 +94202,13 @@ sea-cdn.effectivemeasure.net
 servey.effectivemeasure.net
 sg.effectivemeasure.net
 sqv055hfkxa5y14aec3opl1ga60acobm.effectivemeasure.net
+ssl.effectivemeasure.net
 stream.effectivemeasure.net
 survey-b.effectivemeasure.net
 survey-cdn.effectivemeasure.net
 t-beta.effectivemeasure.net
+t-test.effectivemeasure.net
+tag.effectivemeasure.net
 test.effectivemeasure.net
 th.effectivemeasure.net
 ua.effectivemeasure.net
@@ -94209,10 +94220,15 @@ v.effectivemeasure.net
 vicgov.effectivemeasure.net
 vn-cdn.effectivemeasure.net
 vn-ssl.effectivemeasure.net
+www-cdn.effectivemeasure.net
 www1.effectivemeasure.net
 www10.effectivemeasure.net
+www2.effectivemeasure.net
 www3.effectivemeasure.net
+www3-cdn.effectivemeasure.net
 www4.effectivemeasure.net
+www5.effectivemeasure.net
+www7.effectivemeasure.net
 wwww.effectivemeasure.net
 elasticad.net
 dan.elemen.net
@@ -103730,9 +103746,6 @@ planetsexstories.org
 planocad.org
 plantesforkids.org
 platinumautosales.org
-ww1.playbuzz.org
-ww38.playbuzz.org
-www.playbuzz.org
 playtetris.org
 plela.org
 pmasterson.org
@@ -104399,8 +104412,6 @@ stmarysseattle.org
 stmonicatucson.org
 stopanimalcrueltyhsc.org
 stoptextstopwrecks.org
-cloud.stream-hd.org
-stg.stream-hd.org
 www.stream-hd.org
 streamtowatch.org
 streetworkout.org
