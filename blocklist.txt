@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 339511
+# Ignored duplicates: 339558
 
 pixel.ad
 roq.ad
@@ -6540,7 +6540,6 @@ balsum.com
 ebill.banarepublic.com
 eservice.banarepublic.com
 ewervice.banarepublic.com
-ww1.banarepublic.com
 www.banarepublic.com
 bancocredicop.com
 bancodelchaco.com
@@ -14303,9 +14302,11 @@ ssl2.duapps.com
 whosthat.duapps.com
 revive.dubcnm.com
 ducel.com
+m.dufibepe.com
 mail.dufibepe.com
 ww1.dufibepe.com
 www.dufibepe.com
+www1.dufibepe.com
 dumbpop.com
 dunill.com
 excess.duolingo.com
@@ -15423,7 +15424,6 @@ free-banners.com
 free-blank-sheet-music.com
 free-form-studios.com
 freebanner.com
-img.freecalculation.com
 freeclubpenguinmembership.com
 freecountercode.com
 freecounterstat.com
@@ -17798,7 +17798,6 @@ httpool.com
 httpqvc.com
 httptrack.com
 httpturbotax.com
-huang-jianhua.com
 hubadnetwork.com
 eventtracking.hubapi.com
 track.hubspot.com
@@ -18279,6 +18278,7 @@ devcdn.intergi.com
 games.intergi.com
 html5player.intergi.com
 kb.intergi.com
+land.intergi.com
 mail.intergi.com
 mayhem.intergi.com
 notifications.intergi.com
@@ -19000,7 +19000,7 @@ t.am.kohls.com
 ww8.kohls.com
 koindut.com
 kol7agh.com
-kolhscarrers.com
+www.kolhscarrers.com
 kolkwi4tzicraamabilis.com
 komonplus.com
 komoona.com
@@ -19338,11 +19338,7 @@ vamail2.linksynergy.com
 vamail3.linksynergy.com
 m.www.linksynergy.com
 linktarget.com
-elb.linmkedin.com
-ww1.linmkedin.com
-ww25.linmkedin.com
-ww38.linmkedin.com
-www.linmkedin.com
+linmkedin.com
 liquidm.com
 lisasophia.com
 lisnr.com
@@ -42401,7 +42397,6 @@ naenaesnaturals.postaffiliatepro.com
 nastycash.postaffiliatepro.com
 naturallivingfamily.postaffiliatepro.com
 naturalvet.postaffiliatepro.com
-needion.postaffiliatepro.com
 netech.postaffiliatepro.com
 ngnutra.postaffiliatepro.com
 nihonichiban.postaffiliatepro.com
@@ -48232,6 +48227,7 @@ shopayhome.com
 trk.a.shopdisney.com
 shophee.com
 ww1.shophieparis.com
+ww25.shophieparis.com
 ww35.shophieparis.com
 ww38.shophieparis.com
 shopkick.com
@@ -51379,7 +51375,6 @@ ad.universcine.com
 universityparkaudi.com
 unknowncrate.com
 unknowntray.com
-unless.com
 unlimitedtouch4u.com
 4.unoadsrv.com
 a.unoadsrv.com
@@ -51945,7 +51940,6 @@ datasite.userreport.com
 dev-app.userreport.com
 dev-privacy.userreport.com
 feedback.userreport.com
-gauth.userreport.com
 gfk.userreport.com
 ics.userreport.com
 info.userreport.com
@@ -54846,36 +54840,12 @@ adjuggler.yourdictionary.com
 www.yourgoingtohell.com
 yourkadspunew.com
 yourpornamateur.com
-auth.yourseniorcarenetwork.com
-bn.yourseniorcarenetwork.com
-el.yourseniorcarenetwork.com
 es.yourseniorcarenetwork.com
-et.yourseniorcarenetwork.com
 fr.yourseniorcarenetwork.com
-hr.yourseniorcarenetwork.com
-it.yourseniorcarenetwork.com
 ko.yourseniorcarenetwork.com
-link.yourseniorcarenetwork.com
-lv.yourseniorcarenetwork.com
-mail.yourseniorcarenetwork.com
-mail1.yourseniorcarenetwork.com
-mail2.yourseniorcarenetwork.com
-mx0.yourseniorcarenetwork.com
-mx01.yourseniorcarenetwork.com
-nl.yourseniorcarenetwork.com
-pop.yourseniorcarenetwork.com
 ro.yourseniorcarenetwork.com
-sitemaps.yourseniorcarenetwork.com
 sk.yourseniorcarenetwork.com
-sv.yourseniorcarenetwork.com
-ta.yourseniorcarenetwork.com
 te.yourseniorcarenetwork.com
-tr.yourseniorcarenetwork.com
-ww1.yourseniorcarenetwork.com
-ww11.yourseniorcarenetwork.com
-ww17.yourseniorcarenetwork.com
-ww25.yourseniorcarenetwork.com
-ww38.yourseniorcarenetwork.com
 www.yourseniorcarenetwork.com
 yourtexasenefits.com
 yourtube8.com
@@ -54887,6 +54857,7 @@ ads.youtube.com
 youtubebuddy.com
 ww25.youtubeco.com
 ww38.youtubeco.com
+www.youtubeco.com
 youtubecreators.com
 youtubefreeporn.com
 youtubegetmusicsoft.com
@@ -57786,12 +57757,7 @@ hxcz.info
 hypnonet.info
 article-v.hypo2.info
 doc-q.hypo2.info
-hit-r.hypo2.info
 info-h.hypo2.info
-top-0.hypo2.info
-ww1.hypo2.info
-ww25.hypo2.info
-ww38.hypo2.info
 www.hypo2.info
 i-standart.info
 iasa.info
@@ -57950,7 +57916,7 @@ lacle.info
 ladyzhyn.info
 lafamiglia.info
 lagupedia.info
-www.lajmeshqip.info
+lajmeshqip.info
 lajmi.info
 dewiq.laloo.info
 duvef.laloo.info
@@ -58917,10 +58883,8 @@ ww25.reunionideas.info
 ww38.reunionideas.info
 www.reunionideas.info
 rewy.info
-shanes.rexhado.info
 ww1.rexhado.info
 ww25.rexhado.info
-ww38.rexhado.info
 ritual-service.info
 riuu.info
 rksi.info
@@ -59134,10 +59098,8 @@ skivacation.info
 www.slipper.info
 imap1.slut.info
 imap2.slut.info
-m.slut.info
 www.slut.info
 www1.slut.info
-www2.slut.info
 smarterfernsehen.info
 snapohack.info
 sneeuwklokjes.info
@@ -59601,7 +59563,6 @@ tnttorent.info
 tomboytools.info
 tonion.info
 ww1.toonkor.info
-ww25.toonkor.info
 top55.info
 topers.info
 toplum.info
@@ -59688,11 +59649,6 @@ truyengay.info
 ww17.tsuki-subs.info
 www.tsuki-subs.info
 tugaflix.info
-mail.turcambrils.info
-webdisk.turcambrils.info
-ww16.turcambrils.info
-ww17.turcambrils.info
-ww25.turcambrils.info
 www.turcambrils.info
 ww1.tutvse.info
 ww11.tutvse.info
@@ -60039,6 +59995,7 @@ verthewalkingdeadonline.info
 mail.vestige.info
 webdisk.vestige.info
 www.vestige.info
+ww1.videoindir.info
 ww25.videoindir.info
 ww38.videoindir.info
 www.videoindir.info
@@ -94138,6 +94095,8 @@ ww25.eeepadhacks.net
 ww31.eeepadhacks.net
 ww38.eeepadhacks.net
 ww82.eeepadhacks.net
+3ad.effectivemeasure.net
+7au-cdn.effectivemeasure.net
 7s.effectivemeasure.net
 9044478959fe47bb.effectivemeasure.net
 accounts.effectivemeasure.net
@@ -94147,6 +94106,7 @@ adt.effectivemeasure.net
 ae.effectivemeasure.net
 ap-ssl.effectivemeasure.net
 au2.effectivemeasure.net
+au3.effectivemeasure.net
 c-cdn.effectivemeasure.net
 c-drp.effectivemeasure.net
 c-ssl.effectivemeasure.net
@@ -94157,6 +94117,7 @@ ca-ssl.effectivemeasure.net
 cdn.effectivemeasure.net
 com.effectivemeasure.net
 cz-cdn.effectivemeasure.net
+dev.effectivemeasure.net
 dk.effectivemeasure.net
 ep-mimecast.effectivemeasure.net
 fr-cdn.effectivemeasure.net
@@ -94165,6 +94126,7 @@ gb-cdn.effectivemeasure.net
 gb-ssl.effectivemeasure.net
 hk.effectivemeasure.net
 hk-cdn.effectivemeasure.net
+hk-ssl.effectivemeasure.net
 id.effectivemeasure.net
 id-cdn.effectivemeasure.net
 ikoo-cdn.effectivemeasure.net
@@ -94194,6 +94156,7 @@ nz.effectivemeasure.net
 p.effectivemeasure.net
 p-cdn.effectivemeasure.net
 p-ssl.effectivemeasure.net
+ph.effectivemeasure.net
 ph2.effectivemeasure.net
 pk-ssl.effectivemeasure.net
 www.s.effectivemeasure.net
@@ -94203,6 +94166,7 @@ servey.effectivemeasure.net
 sg.effectivemeasure.net
 sqv055hfkxa5y14aec3opl1ga60acobm.effectivemeasure.net
 ssl.effectivemeasure.net
+stage.effectivemeasure.net
 stream.effectivemeasure.net
 survey-b.effectivemeasure.net
 survey-cdn.effectivemeasure.net
@@ -94215,11 +94179,14 @@ ua.effectivemeasure.net
 ui.effectivemeasure.net
 urvey.effectivemeasure.net
 us.effectivemeasure.net
+us1.effectivemeasure.net
 us3.effectivemeasure.net
 v.effectivemeasure.net
 vicgov.effectivemeasure.net
 vn-cdn.effectivemeasure.net
 vn-ssl.effectivemeasure.net
+wldcrdrcrd.effectivemeasure.net
+ww10.effectivemeasure.net
 www-cdn.effectivemeasure.net
 www1.effectivemeasure.net
 www10.effectivemeasure.net
@@ -96161,7 +96128,6 @@ vnet.next-power.net
 vps.next-power.net
 ww1.next-power.net
 ww16.next-power.net
-ww25.next-power.net
 ww38.next-power.net
 ww4.next-power.net
 ww5.next-power.net
@@ -99523,6 +99489,7 @@ alertmanager.autobots-prod-a.us-east-2.aws.k8s.sendgrid.net
 blackbox.autobots-prod-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.autobots-prod-a.us-east-2.aws.k8s.sendgrid.net
 alertmanager.autobots-stage-a.us-east-2.aws.k8s.sendgrid.net
+backstage.autobots-stage-a.us-east-2.aws.k8s.sendgrid.net
 blackbox.autobots-stage-a.us-east-2.aws.k8s.sendgrid.net
 core.harbor-a.autobots-stage-a.us-east-2.aws.k8s.sendgrid.net
 prometheus.autobots-stage-a.us-east-2.aws.k8s.sendgrid.net
@@ -102258,7 +102225,6 @@ azdachshundrescue.org
 azmonakan.org
 azmoun.org
 azmunakan.org
-media.babelinks.org
 ww11.babelinks.org
 app.backinstock.org
 baillii.org
@@ -102871,7 +102837,6 @@ ad.exyws.org
 eyeofthecat.org
 ezpassnj.org
 f1tv.org
-ww17.face-copyright.org
 ww35.face-copyright.org
 fafas.org
 fairygardening.org
@@ -109175,6 +109140,7 @@ warlog.ru
 yadro.ru
 adsdk.yandex.ru
 an.yandex.ru
+appmetrica.yandex.ru
 awaps.yandex.ru
 bs.yandex.ru
 1060699972.mc.yandex.ru
