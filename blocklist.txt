@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338923
+# Ignored duplicates: 338909
 
 pixel.ad
 roq.ad
@@ -5139,6 +5139,7 @@ altitude-arena.com
 aluxurycars.com
 alxgtyqhio.com
 amateurgallore.com
+amazesoft.com
 amazingassistedliving.com
 amazingcounters.com
 amazon-adsystem.com
@@ -17385,6 +17386,7 @@ guffawdecipher.com
 guhafohu.com
 guieco.com
 www.guiguiland.com
+guisinart.com
 guitarfedish.com
 gukacado.com
 gulfcoastconnections.com
@@ -22534,6 +22536,7 @@ www.miyoutube.com
 mkt8668.com
 mkt932.com
 mkt941.com
+mkto-ab040164.com
 mkto-ab090106.com
 mkto-ab100012.com
 mkto-ab110094.com
@@ -35753,7 +35756,6 @@ calc.neatab.com
 cdn.neatab.com
 services.neatab.com
 staging.neatab.com
-try.neatab.com
 www.neatab.com
 needlessnorth.com
 needyneedle.com
@@ -43014,7 +43016,6 @@ qalitygigant.com
 qamod.com
 qchomesforrent.com
 qctop.com
-mx.qdatasales.com
 hlok.qertewrt.com
 qgmns.com
 p3.qhimgs0.com
@@ -43358,8 +43359,10 @@ raresummer.com
 rarioshack.com
 adz.rashflash.com
 rateqoute.com
-ww16.ww1.ratracebellion.com
+ww1.ratracebellion.com
+ww11.ratracebellion.com
 ww16.ratracebellion.com
+ww2.ratracebellion.com
 ww25.ratracebellion.com
 www.ratracebellion.com
 ratracerevolution.com
@@ -49946,6 +49949,7 @@ hardware.supplyframe.com
 im.supplyframe.com
 intelligence.supplyframe.com
 ipplan.supplyframe.com
+hq.it.supplyframe.com
 itvm.supplyframe.com
 jp.supplyframe.com
 kb.supplyframe.com
@@ -50754,9 +50758,6 @@ topsir.com
 topssneakers.com
 topstats.com
 ww1.topwheels-belgium.com
-ww17.topwheels-belgium.com
-ww38.topwheels-belgium.com
-www.topwheels-belgium.com
 toqofa.com
 toreentsmd.com
 oas.toronto.com
@@ -52355,8 +52356,7 @@ ads.vidoomy.com
 vidora.com
 vidsdbm.com
 www.vidyoutube.com
-ww1.vienamairline.com
-www.vienamairline.com
+vienamairline.com
 viewbix.com
 viewdeos.com
 viewsignage.com
@@ -53340,7 +53340,6 @@ es.wix.com
 frog.wix.com
 l.wix.com
 mobile.lc.wix.com
-premium.wix.com
 ru.wix.com
 toad.wix.com
 ucc.wix.com
@@ -54969,9 +54968,7 @@ www.youtalkback.com
 youtu8.com
 ads.youtube.com
 youtubebuddy.com
-ww25.youtubeco.com
-ww38.youtubeco.com
-www.youtubeco.com
+youtubeco.com
 youtubecreators.com
 youtubefreeporn.com
 youtubegetmusicsoft.com
@@ -55299,7 +55296,6 @@ marketing.net.brillen.de
 cash4popup.de
 clicktag.de
 cloud-miner.de
-commindo-media-ressourcen.de
 foo.cosmocode.de
 coupling-media.de
 stats.datawrapper.de
@@ -56612,6 +56608,7 @@ ww17.bigger-penis.info
 www.bigger-penis.info
 biggerpenisnow.info
 bigrealestate.info
+www.biip.info
 bijsluiterscore.info
 mail.bimba.info
 www.bimba.info
@@ -57607,7 +57604,6 @@ funtvshow.info
 ww1.futjakot.info
 ww17.futjakot.info
 www.futjakot.info
-www.futurestudys.info
 gjebf.fyo.info
 old.fyo.info
 smtps.fyo.info
@@ -57868,10 +57864,6 @@ interwork.info
 investition.info
 ipboard.info
 iphonedata.info
-mail.iprisonbreak.info
-webdisk.iprisonbreak.info
-ww17.iprisonbreak.info
-www.iprisonbreak.info
 iptv-gratuit.info
 iptvserver.info
 iptvturk.info
@@ -57979,6 +57971,7 @@ ww25.konp.info
 www.konp.info
 konsan.info
 konyaalti.info
+www.kooora.info
 koorlive.info
 kotaklagu.info
 cpcalendars.kozi.info
@@ -58340,10 +58333,8 @@ mt04.info
 muanyagablak.info
 mueckenschutz.info
 mail.mujerbella.info
-sitemap.mujerbella.info
 ww1.mujerbella.info
 ww16.mujerbella.info
-ww25.mujerbella.info
 ww38.mujerbella.info
 www.mujerbella.info
 muldental.info
@@ -59622,7 +59613,6 @@ techdocs.info
 mail.technicalguruji.info
 ww38.technicalguruji.info
 www.technicalguruji.info
-mail.techstudy.info
 www.techstudy.info
 techxperts.info
 tekstynaukowe.info
@@ -59788,11 +59778,10 @@ ww17.totaalbalans.info
 ww25.totaalbalans.info
 www.totaalbalans.info
 bacaboke.totoarena.info
-bacabokep.totoarena.info
 bacabokep1.totoarena.info
 betfortuna188.totoarena.info
 burberrys-outletonline.totoarena.info
-carapasangjudi.totoarena.info
+www.carapasangjudi.totoarena.info
 coachstoreonlinee13.totoarena.info
 datahk.totoarena.info
 dewitoto.totoarena.info
@@ -59801,14 +59790,11 @@ goldensearoyale.totoarena.info
 grouiptoto.totoarena.info
 grouptoto.totoarena.info
 grouptoto1.totoarena.info
-gruptoto.totoarena.info
 handbagsmichaelkors.totoarena.info
 indotogel.totoarena.info
 ituunik.totoarena.info
 jalatato.totoarena.info
-jalatoto.totoarena.info
 jangkartoto.totoarena.info
-jayapoker.totoarena.info
 katespade.totoarena.info
 king4d.totoarena.info
 layarfilm.totoarena.info
@@ -64207,6 +64193,7 @@ redshell.io
 training.ac-utility.redventures.io
 adtech.redventures.io
 airhorn.redventures.io
+askhr.redventures.io
 gateway.atom.redventures.io
 test.atom.redventures.io
 atomizer.redventures.io
@@ -64304,6 +64291,7 @@ thopkins.sandbox.redventures.io
 together.sandbox.redventures.io
 tpg-product.sandbox.redventures.io
 travel-planningbooking.sandbox.redventures.io
+travelplatform.sandbox.redventures.io
 wealth.sandbox.redventures.io
 credible-dev.secrets.redventures.io
 credible-prod.secrets.redventures.io
@@ -75573,6 +75561,7 @@ ww35.altissimo.net
 ww38.altissimo.net
 www.altissimo.net
 zmail.altissimo.net
+altjar.net
 amateurtubeporn.net
 amazingvacationhomesfl.net
 analytics-active.net
@@ -96287,6 +96276,7 @@ nb69.net
 nedstatbasic.net
 nend.net
 neodatatype.net
+neocounter.neoworx-blog-tools.net
 netpool.netbookia.net
 beaconimages.netflix.net
 netmats.net
@@ -96296,7 +96286,6 @@ newsexpert.net
 newssplash.net
 segment.psg.nexstardigital.net
 art.next-power.net
-auth.next-power.net
 authsmtp.next-power.net
 barracuda.next-power.net
 box.next-power.net
@@ -96310,7 +96299,6 @@ gw.next-power.net
 hermes.next-power.net
 home.next-power.net
 host.next-power.net
-internet.next-power.net
 m.next-power.net
 mail.next-power.net
 mail01.next-power.net
@@ -96329,11 +96317,9 @@ mailapp.next-power.net
 mailbox.next-power.net
 mailer.next-power.net
 mailgate.next-power.net
-mailgw.next-power.net
 mailrelay.next-power.net
 mails.next-power.net
 mailserver.next-power.net
-mailx.next-power.net
 mbox.next-power.net
 ms.next-power.net
 ms1.next-power.net
@@ -96352,7 +96338,6 @@ mx7.next-power.net
 mxs.next-power.net
 ns.next-power.net
 ns2.next-power.net
-out.next-power.net
 outmail.next-power.net
 poczta.next-power.net
 pop.next-power.net
@@ -96364,13 +96349,10 @@ relay2.next-power.net
 root.next-power.net
 seed.next-power.net
 send.next-power.net
-server.next-power.net
 server1.next-power.net
 smtp01.next-power.net
-smtpauth.next-power.net
 smtps.next-power.net
 smtpseguro.next-power.net
-sniper.next-power.net
 srv.next-power.net
 ssl.next-power.net
 thor.next-power.net
@@ -96380,12 +96362,9 @@ vip.next-power.net
 vnet.next-power.net
 vps.next-power.net
 ww1.next-power.net
-ww16.next-power.net
-ww38.next-power.net
 ww4.next-power.net
 ww5.next-power.net
 www.next-power.net
-zimbra.next-power.net
 analytics.nextopia.net
 nextperf.net
 ae.nflximg.net
@@ -102476,7 +102455,6 @@ azdachshundrescue.org
 azmonakan.org
 www.azmoun.org
 azmunakan.org
-ww11.babelinks.org
 app.backinstock.org
 baillii.org
 bajkidladzieci.org
@@ -103090,7 +103068,6 @@ ad.exyws.org
 eyeofthecat.org
 ezpassnj.org
 f1tv.org
-ww35.face-copyright.org
 fafas.org
 fairygardening.org
 ac.familoysearch.org
@@ -103171,10 +103148,6 @@ auvztv6.freecardgamesonline.org
 d5kd.freecardgamesonline.org
 mail.freecardgamesonline.org
 mlk2k2vu.freecardgamesonline.org
-ww1.freecardgamesonline.org
-ww17.freecardgamesonline.org
-ww25.freecardgamesonline.org
-ww38.freecardgamesonline.org
 www.freecardgamesonline.org
 x4.freecardgamesonline.org
 freecoinbase.org
@@ -103410,7 +103383,6 @@ highprofit.org
 hionline.org
 hirensboot.org
 hiringourheros.org
-hittai.org
 hkhanacademy.org
 hlcomission.org
 hngu.org
@@ -103548,6 +103520,7 @@ lacapinc.org
 lacar.org
 lakhonmeinek.org
 lamarisd.org
+langirt.org
 langleyfuc.org
 lapels.org
 vd.laptop-battery.org
