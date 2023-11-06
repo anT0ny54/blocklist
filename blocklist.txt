@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338885
+# Ignored duplicates: 338846
 
 pixel.ad
 roq.ad
@@ -872,7 +872,6 @@ servertrack.co
 sift.co
 silverpush.co
 snackly.co
-spotad.co
 tagtoo.co
 teemo.co
 tourn.co
@@ -16527,7 +16526,6 @@ gcpdirect.com
 gdcdcovers.com
 gdmconvtrck.com
 gdmgsecure.com
-gdprcountryrestriction.com
 gearsofwars2.com
 gemini-btc.com
 gemius.com
@@ -34735,7 +34733,6 @@ app.monstercampaigns.com
 monsterpops.com
 monumetric.com
 monycontro.com
-clicks.monzo.com
 mookie1.com
 mopinion.com
 mopub.com
@@ -54953,11 +54950,6 @@ adjuggler.yourdictionary.com
 www.yourgoingtohell.com
 yourkadspunew.com
 yourpornamateur.com
-es.yourseniorcarenetwork.com
-ko.yourseniorcarenetwork.com
-sk.yourseniorcarenetwork.com
-te.yourseniorcarenetwork.com
-www.yourseniorcarenetwork.com
 yourtexasenefits.com
 yourtube8.com
 yourwebbars.com
@@ -56162,6 +56154,9 @@ ww1.abbottandcostello.info
 ww12.abbottandcostello.info
 ww7.abbottandcostello.info
 www.abbottandcostello.info
+ww1.abono.info
+ww11.abono.info
+ww38.abono.info
 abportal.info
 actiegeld.info
 actu30.info
@@ -56244,8 +56239,6 @@ ww38.allclipart.info
 www.allclipart.info
 allergene.info
 allgalle.info
-ww1.alsahabmedia.info
-ww38.alsahabmedia.info
 alsjl-news.info
 alterzon.info
 amagrlsuk.info
@@ -56420,6 +56413,7 @@ ww38.balkaria.info
 www.balkaria.info
 www.bancurifunny.info
 bandwurm.info
+webdisk.barcs.info
 www.barcs.info
 barepunting.info
 barvinok.info
@@ -57034,6 +57028,8 @@ ww38.computer-arts.info
 www.computer-arts.info
 computersetc.info
 concertandco.info
+foro.consolasportatiles.info
+ww17.consolasportatiles.info
 www.consolasportatiles.info
 consolida.info
 coolinc.info
@@ -57439,6 +57435,7 @@ www.etain.info
 ww1.etarin.info
 www.etarin.info
 ethanfletcher.info
+www.euro-news.info
 dev.eventsco.info
 magento.eventsco.info
 old.eventsco.info
@@ -57475,8 +57472,6 @@ ww25.falvguwen.info
 ww38.falvguwen.info
 www.falvguwen.info
 familiengarten.info
-ww1.video.familydick.info
-ww38.video.familydick.info
 ww25.familydick.info
 fangot.info
 fanserials.info
@@ -58113,8 +58108,6 @@ malalady.info
 ww1.malayalambible.info
 ww17.malayalambible.info
 malaysiaup.info
-ww1.malbilder.info
-ww16.malbilder.info
 manapeddapuram.info
 manga-channel.info
 mangareading.info
@@ -58325,7 +58318,6 @@ muanyagablak.info
 mueckenschutz.info
 mail.mujerbella.info
 ww1.mujerbella.info
-ww16.mujerbella.info
 ww38.mujerbella.info
 www.mujerbella.info
 muldental.info
@@ -59035,8 +59027,6 @@ ww25.reunionideas.info
 ww38.reunionideas.info
 www.reunionideas.info
 rewy.info
-ww1.rexhado.info
-ww25.rexhado.info
 ritual-service.info
 riuu.info
 rksi.info
@@ -59460,6 +59450,10 @@ tagasite.info
 takeaway.info
 www.takebin.info
 ww17.facebook.takipcisiteleri.info
+ww38.facebook.takipcisiteleri.info
+ww17.instagram.takipcisiteleri.info
+ww38.instagram.takipcisiteleri.info
+ww38.takipcisiteleri.info
 www.takipcisiteleri.info
 taoy999.info
 ap.tap7500.info
@@ -59773,11 +59767,8 @@ www.carapasangjudi.totoarena.info
 grouiptoto.totoarena.info
 ituunik.totoarena.info
 jalatato.totoarena.info
-katespade.totoarena.info
-layarfilms1.totoarena.info
 mail.totoarena.info
 sitemap.totoarena.info
-www.totoarena.info
 touring24.info
 toutsurtlemcen.info
 toy-terrier.info
@@ -95648,6 +95639,7 @@ beaconapi.helpscout.net
 mktg.helpscout.net
 hentai-anime.net
 heyjohnny.net
+www.hilltopads.net
 hindimovie4u.net
 hiverr.net
 hoaian.net
@@ -96239,7 +96231,6 @@ authsmtp.next-power.net
 barracuda.next-power.net
 box.next-power.net
 com.next-power.net
-comune.next-power.net
 correo.next-power.net
 cs.next-power.net
 gate.next-power.net
@@ -96247,9 +96238,7 @@ gateway.next-power.net
 gw.next-power.net
 hermes.next-power.net
 home.next-power.net
-host.next-power.net
 m.next-power.net
-mail.next-power.net
 mail01.next-power.net
 mail02.next-power.net
 mail1.next-power.net
@@ -96287,7 +96276,6 @@ mx7.next-power.net
 mxs.next-power.net
 ns.next-power.net
 ns2.next-power.net
-outmail.next-power.net
 poczta.next-power.net
 pop.next-power.net
 post.next-power.net
@@ -96301,18 +96289,14 @@ send.next-power.net
 server1.next-power.net
 smtp01.next-power.net
 smtps.next-power.net
-smtpseguro.next-power.net
 srv.next-power.net
 ssl.next-power.net
 thor.next-power.net
 tiger.next-power.net
 tw.next-power.net
 vip.next-power.net
-vnet.next-power.net
 vps.next-power.net
-ww1.next-power.net
 ww4.next-power.net
-ww5.next-power.net
 www.next-power.net
 analytics.nextopia.net
 nextperf.net
@@ -103780,7 +103764,6 @@ nylotery.org
 nypg.org
 nyschoolsurvey.org
 nysters.org
-ww1.oahow.org
 oakparkschool.org
 oasissanctuary.org
 objectifdemocratie.org
@@ -103828,6 +103811,7 @@ opestreetmap.org
 oraesatta.org
 orbotech.org
 organizando.org
+ww25.ww25.orgyzilla.org
 ww31.orgyzilla.org
 orproject.org
 orsm.org
