@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338846
+# Ignored duplicates: 338851
 
 pixel.ad
 roq.ad
@@ -6790,7 +6790,6 @@ bellacorlighting.com
 bellomaui.com
 bellparking.com
 bellsourth.com
-www.bellsouthmail.com
 bellsoutrh.com
 dist.belnk.com
 belstat.com
@@ -9664,8 +9663,6 @@ decoycreation.com
 dedell.com
 deepakprakashan.com
 deepintent.com
-ws.defectivesun.com
-www.wss.defectivesun.com
 defenderappmobile.com
 deflorazione.com
 deflortaion.com
@@ -14165,7 +14162,7 @@ doppler10.com
 dorpbox.com
 ad.dotandad.com
 act.bal.dotandad.com
-cnfm.ad2.bal.dotandad.com
+ad2.bal.dotandad.com
 af.bal.dotandad.com
 cnfm.bal.dotandad.com
 mobile.bal.dotandad.com
@@ -35750,10 +35747,8 @@ ndroip.com
 ads.ndtv1.com
 analyze.neatab.com
 calc.neatab.com
-cdn.neatab.com
 services.neatab.com
 staging.neatab.com
-www.neatab.com
 needlessnorth.com
 needyneedle.com
 ww1.neewgoogle.com
@@ -40918,7 +40913,7 @@ www.174286067.log.optimizely.com
 275071578.log.optimizely.com
 2752720792.log.optimizely.com
 277476176.log.optimizely.com
-284419414.log.optimizely.com
+www.284419414.log.optimizely.com
 284748925.log.optimizely.com
 2855120346.log.optimizely.com
 2882300122.log.optimizely.com
@@ -48429,6 +48424,7 @@ static.site24x7rum.com
 sitedataprocessing.com
 se1.siteimprove.com
 siteimproveanalytics.com
+ww1.siteintheworld.com
 ww25.siteintheworld.com
 ww38.siteintheworld.com
 www.siteintheworld.com
@@ -50752,7 +50748,6 @@ toppmarkensverige.com
 topsir.com
 topssneakers.com
 topstats.com
-ww1.topwheels-belgium.com
 toqofa.com
 toreentsmd.com
 oas.toronto.com
@@ -56157,6 +56152,7 @@ www.abbottandcostello.info
 ww1.abono.info
 ww11.abono.info
 ww38.abono.info
+www.abono.info
 abportal.info
 actiegeld.info
 actu30.info
@@ -57089,7 +57085,6 @@ webdisk.darknets.info
 www.darknets.info
 data-recovery.info
 datentarife.info
-static.datingss.info
 coolgames.datsfree.info
 datsfree.datsfree.info
 funnyandjokes.datsfree.info
@@ -57472,7 +57467,6 @@ ww25.falvguwen.info
 ww38.falvguwen.info
 www.falvguwen.info
 familiengarten.info
-ww25.familydick.info
 fangot.info
 fanserials.info
 fasan.info
@@ -57968,6 +57962,7 @@ kreativan.info
 kreditvergleicheab.info
 krisallendaily.info
 www.kristijan.info
+ww1.kritika.info
 kroatien.info
 krzewy.info
 kumang45d.info
@@ -58105,8 +58100,6 @@ ww17.maitreya.info
 ww38.maitreya.info
 www.maitreya.info
 malalady.info
-ww1.malayalambible.info
-ww17.malayalambible.info
 malaysiaup.info
 manapeddapuram.info
 manga-channel.info
@@ -58291,8 +58284,6 @@ monroviatrustlaw.info
 www.monstersat.info
 montavilla.info
 host.moonlitecoin.info
-ns1.moonlitecoin.info
-ns2.moonlitecoin.info
 ww1.moonlitecoin.info
 ww17.moonlitecoin.info
 ww38.moonlitecoin.info
@@ -58489,6 +58480,8 @@ www.novonovo.info
 mail.npd-blog.info
 www.npd-blog.info
 npic.info
+www.nrgroup.info
+www1.nrgroup.info
 nrpg.info
 ww1.nrxdh.info
 ww11.nrxdh.info
@@ -59344,11 +59337,6 @@ ww17.blog.sserbanro.info
 ww25.blog.sserbanro.info
 ww38.blog.sserbanro.info
 magazin.sserbanro.info
-ww1.sserbanro.info
-ww11.sserbanro.info
-ww17.sserbanro.info
-ww25.sserbanro.info
-ww38.sserbanro.info
 www.sserbanro.info
 ssmatomeantenna.info
 ww1.startbeestlife.info
@@ -59763,12 +59751,6 @@ webdisk.totaalbalans.info
 ww17.totaalbalans.info
 ww25.totaalbalans.info
 www.totaalbalans.info
-www.carapasangjudi.totoarena.info
-grouiptoto.totoarena.info
-ituunik.totoarena.info
-jalatato.totoarena.info
-mail.totoarena.info
-sitemap.totoarena.info
 touring24.info
 toutsurtlemcen.info
 toy-terrier.info
@@ -60123,6 +60105,7 @@ ww1.valuedirectories.info
 ww17.valuedirectories.info
 www.valuedirectories.info
 vatname.info
+ww25.vbucks.info
 vbucksfortnitefree.info
 vchas.info
 vchitel.info
@@ -96155,6 +96138,7 @@ vpn-us-east-1.monetate.net
 vpn-us-west-2.monetate.net
 web.monetate.net
 www.monetate.net
+www.monmetier.net
 montclairsports.net
 moquta.net
 morrisonproductions.net
@@ -96242,7 +96226,6 @@ m.next-power.net
 mail01.next-power.net
 mail02.next-power.net
 mail1.next-power.net
-mail10.next-power.net
 mail11.next-power.net
 mail12.next-power.net
 mail2.next-power.net
@@ -101841,9 +101824,7 @@ advideo.uimserv.net
 madclient.uimserv.net
 ww17.undressedwomen.net
 ww25.undressedwomen.net
-ww38.undressedwomen.net
 ww84.undressedwomen.net
-www.undressedwomen.net
 track.unear.net
 upapi.net
 updtr.net
@@ -103813,6 +103794,8 @@ orbotech.org
 organizando.org
 ww25.ww25.orgyzilla.org
 ww31.orgyzilla.org
+ww38.orgyzilla.org
+www.orgyzilla.org
 orproject.org
 orsm.org
 osecac.org
@@ -109222,16 +109205,7 @@ ads1.mediacapital.pt
 adimgs.sapo.pt
 hybrid-advancelocal.perso.aws.arc.pub
 targeting.perso.aws.arc.pub
-client.a.pxi.pub
-collector.a.pxi.pub
-human-chl.a.pxi.pub
-prometheus-prd.a.pxi.pub
-redash.a.pxi.pub
-research-kibana.a.pxi.pub
-research-kibana-6.a.pxi.pub
-research-kibana-iap.a.pxi.pub
-slack-bot.a.pxi.pub
-tableau.a.pxi.pub
+a.pxi.pub
 client.staging.pxi.pub
 collector.staging.pxi.pub
 5mcwl.pw
