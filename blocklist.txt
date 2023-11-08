@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338851
+# Ignored duplicates: 338905
 
 pixel.ad
 roq.ad
@@ -6897,7 +6897,6 @@ platform.bidgear.com
 as.bidmatrixdsp.com
 eu.bidmatrixdsp.com
 vg.bidmatrixdsp.com
-www.bidobserver.com
 beacon.bidsimulator.com
 files.bidsimulator.com
 go.bidsimulator.com
@@ -35746,7 +35745,6 @@ ndparking.com
 ndroip.com
 ads.ndtv1.com
 analyze.neatab.com
-calc.neatab.com
 services.neatab.com
 staging.neatab.com
 needlessnorth.com
@@ -42033,6 +42031,7 @@ old.podersa.com
 shop.podersa.com
 sitemaps.podersa.com
 test.podersa.com
+ww1.podersa.com
 ww25.podersa.com
 www.podersa.com
 connect.podium.com
@@ -42684,7 +42683,6 @@ mx20.prantikv.com
 ns1.prantikv.com
 postmaster.prantikv.com
 server2.prantikv.com
-www.prantikv.com
 prazeruniversal.com
 preanimal.com
 preapps.com
@@ -48424,7 +48422,9 @@ static.site24x7rum.com
 sitedataprocessing.com
 se1.siteimprove.com
 siteimproveanalytics.com
+jdkyl.siteintheworld.com
 ww1.siteintheworld.com
+ww16.siteintheworld.com
 ww25.siteintheworld.com
 ww38.siteintheworld.com
 www.siteintheworld.com
@@ -50827,7 +50827,6 @@ trafficz.com
 traffiliate.com
 traffiq.com
 trafforsrv.com
-trafikstyrelsen.com
 trafmag.com
 ablink.comms.trainline.com
 traktrafficflow.com
@@ -56207,6 +56206,8 @@ ww25.adidasspringblade2.info
 ww38.adidasspringblade2.info
 ww7.adidasspringblade2.info
 www.adidasspringblade2.info
+autodiscover.aditech.info
+cpcontacts.aditech.info
 adm-vids.info
 advertisers.info
 aerjournal.info
@@ -57772,6 +57773,7 @@ www.healthtips1.info
 healthy-weight-loss-plan.info
 heart-work.info
 heartbreakers.info
+ww1.helphouse.info
 ww38.helphouse.info
 www.helphouse.info
 helpmeout.info
@@ -57945,6 +57947,7 @@ knochenmark.info
 komaneko.info
 mail.konp.info
 pop.konp.info
+sitemap.konp.info
 ww1.konp.info
 ww17.konp.info
 ww25.konp.info
@@ -57961,6 +57964,7 @@ www.kozi.info
 kreativan.info
 kreditvergleicheab.info
 krisallendaily.info
+ww17.kristijan.info
 www.kristijan.info
 ww1.kritika.info
 kroatien.info
@@ -59437,10 +59441,11 @@ ta365.info
 tagasite.info
 takeaway.info
 www.takebin.info
-ww17.facebook.takipcisiteleri.info
-ww38.facebook.takipcisiteleri.info
-ww17.instagram.takipcisiteleri.info
-ww38.instagram.takipcisiteleri.info
+facebook.takipcisiteleri.info
+instagram.takipcisiteleri.info
+mail.takipcisiteleri.info
+ns1.takipcisiteleri.info
+ns2.takipcisiteleri.info
 ww38.takipcisiteleri.info
 www.takipcisiteleri.info
 taoy999.info
@@ -59874,6 +59879,7 @@ ukryj.info
 ulinktech.info
 cpcalendars.ultransport.info
 cpcontacts.ultransport.info
+mail.ultransport.info
 webdisk.ultransport.info
 ww1.ultransport.info
 ww17.ultransport.info
@@ -75826,6 +75832,7 @@ boysonyourscreen.net
 brandads.net
 browse.net
 btglss.net
+bubbas-diner.net
 acceptable.buysellads.net
 cdn-s2s.buysellads.net
 cdn4.buysellads.net
@@ -96210,76 +96217,6 @@ newsandmore.net
 newsexpert.net
 newssplash.net
 segment.psg.nexstardigital.net
-art.next-power.net
-authsmtp.next-power.net
-barracuda.next-power.net
-box.next-power.net
-com.next-power.net
-correo.next-power.net
-cs.next-power.net
-gate.next-power.net
-gateway.next-power.net
-gw.next-power.net
-hermes.next-power.net
-home.next-power.net
-m.next-power.net
-mail01.next-power.net
-mail02.next-power.net
-mail1.next-power.net
-mail11.next-power.net
-mail12.next-power.net
-mail2.next-power.net
-mail3.next-power.net
-mail4.next-power.net
-mail6.next-power.net
-mail7.next-power.net
-mail8.next-power.net
-mailapp.next-power.net
-mailbox.next-power.net
-mailer.next-power.net
-mailgate.next-power.net
-mailrelay.next-power.net
-mails.next-power.net
-mailserver.next-power.net
-mbox.next-power.net
-ms.next-power.net
-ms1.next-power.net
-mta.next-power.net
-mta1.next-power.net
-mx.next-power.net
-mx01.next-power.net
-mx02.next-power.net
-mx1.next-power.net
-mx10.next-power.net
-mx2.next-power.net
-mx20.next-power.net
-mx3.next-power.net
-mx5.next-power.net
-mx7.next-power.net
-mxs.next-power.net
-ns.next-power.net
-ns2.next-power.net
-poczta.next-power.net
-pop.next-power.net
-post.next-power.net
-posta.next-power.net
-postmaster.next-power.net
-relay1.next-power.net
-relay2.next-power.net
-root.next-power.net
-seed.next-power.net
-send.next-power.net
-server1.next-power.net
-smtp01.next-power.net
-smtps.next-power.net
-srv.next-power.net
-ssl.next-power.net
-thor.next-power.net
-tiger.next-power.net
-tw.next-power.net
-vip.next-power.net
-vps.next-power.net
-ww4.next-power.net
 www.next-power.net
 analytics.nextopia.net
 nextperf.net
@@ -101769,7 +101706,6 @@ ads.as4x.tmcs.net
 rekl.tns-cs.net
 ssl-rekl.tns-cs.net
 todaytvseries.net
-topgamesites.net
 totalh.net
 tplikmodem.net
 tplimkmodem.net
@@ -101823,7 +101759,6 @@ adimg.uimserv.net
 advideo.uimserv.net
 madclient.uimserv.net
 ww17.undressedwomen.net
-ww25.undressedwomen.net
 ww84.undressedwomen.net
 track.unear.net
 upapi.net
@@ -103745,6 +103680,7 @@ nylotery.org
 nypg.org
 nyschoolsurvey.org
 nysters.org
+www.oahow.org
 oakparkschool.org
 oasissanctuary.org
 objectifdemocratie.org
@@ -103792,7 +103728,7 @@ opestreetmap.org
 oraesatta.org
 orbotech.org
 organizando.org
-ww25.ww25.orgyzilla.org
+ww25.orgyzilla.org
 ww31.orgyzilla.org
 ww38.orgyzilla.org
 www.orgyzilla.org
@@ -109538,7 +109474,6 @@ tracking.etidning.borlangetidning.se
 tracking.borlangetidning.se
 collect.breakit.se
 tracking.byggindustrin.se
-cardata.se
 analytics.ci-360.se
 analytics.ciseway.se
 widget.cdn.citygate.se
@@ -109652,7 +109587,6 @@ servedby.lintigroup.se
 banner.linux.se
 tracking.etidning.ljusdalsposten.se
 tracking.ljusdalsposten.se
-ljuskompaniet.se
 tracking.etidning.ljusnan.se
 tracking.ljusnan.se
 tracking.etidning.lt.se
