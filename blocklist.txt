@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338905
+# Ignored duplicates: 338878
 
 pixel.ad
 roq.ad
@@ -501,6 +501,7 @@ www.admaster.com.cn
 xtrader-cm.admaster.com.cn
 yoyi-cm.admaster.com.cn
 analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn
+securemetrics.apple.com.cn
 ads.doit.com.cn
 1osz.elilaifs.cn
 38oa.elilaifs.cn
@@ -4390,6 +4391,7 @@ deliveryengine.qaintakilacms.staging.adswizz.com
 sbfl-staging1-dns.staging.adswizz.com
 sbfl-staging2-dns.staging.adswizz.com
 sbfl-staging3-dns.staging.adswizz.com
+mig.us-west-2.staging.adswizz.com
 status.adswizz.com
 stickyads.adswizz.com
 streamguys.adswizz.com
@@ -5651,6 +5653,7 @@ fit.amplitude.com
 fr.amplitude.com
 get.amplitude.com
 go.amplitude.com
+gsblink.amplitude.com
 gshlink.amplitude.com
 gsnlink.amplitude.com
 gsslink.amplitude.com
@@ -7923,6 +7926,7 @@ channelintelligence.com
 ww1.chaperraldodge.com
 ww25.chaperraldodge.com
 www.chaperraldodge.com
+www.characterdepot.com
 chargecracker.com
 addsuite.chargeplatform.com
 adengine.chargeplatform.com
@@ -8867,7 +8871,6 @@ cr8-one.com
 crabbychin.com
 cradelpoint.com
 mail.craft2000.com
-ww1.craft2000.com
 www.craft2000.com
 craftprimes.com
 craftvillas.com
@@ -15241,6 +15244,7 @@ firstliberybank.com
 firstlightera.com
 firstnatiionalbank.com
 firstpromoter.com
+firsttexture.com
 collector.fitanalytics.com
 collector-de.fitanalytics.com
 customizations.fitanalytics.com
@@ -16649,6 +16653,7 @@ j2.giftbasketforall.com
 j3.giftbasketforall.com
 j4.giftbasketforall.com
 j5.giftbasketforall.com
+ww6.giftbasketforall.com
 www.gigoogle.com
 gilobs.com
 gimbal.com
@@ -35750,7 +35755,6 @@ staging.neatab.com
 needlessnorth.com
 needyneedle.com
 ww1.neewgoogle.com
-ww25.neewgoogle.com
 www.neewgoogle.com
 neglot.com
 nehnutelnosti.com
@@ -42671,18 +42675,11 @@ ppmmouthguard.com
 pr0nhub.com
 comune.prantikv.com
 mail.prantikv.com
-mail1.prantikv.com
 mail12.prantikv.com
 mail5.prantikv.com
-mailsrv.prantikv.com
-mx.prantikv.com
 mx0.prantikv.com
-mx1.prantikv.com
 mx10.prantikv.com
-mx20.prantikv.com
-ns1.prantikv.com
 postmaster.prantikv.com
-server2.prantikv.com
 prazeruniversal.com
 preanimal.com
 preapps.com
@@ -52104,6 +52101,7 @@ by.uservoice.com
 userzoom.com
 ushepatitis.com
 ushomesauctions.com
+link.email.usmagazine.com
 uspstracking.com
 usshopcn.com
 uswairwaysmastercard.com
@@ -54415,7 +54413,6 @@ xsslabphpbb.com
 xtendmedia.com
 xtify.com
 xtmobile.com
-xtremetop100.com
 ads2.xumo.com
 hls-beacons.xumo.com
 xvdioes.com
@@ -57774,6 +57771,7 @@ healthy-weight-loss-plan.info
 heart-work.info
 heartbreakers.info
 ww1.helphouse.info
+ww17.helphouse.info
 ww38.helphouse.info
 www.helphouse.info
 helpmeout.info
@@ -58057,6 +58055,7 @@ xnxx.loby.info
 xvideos.loby.info
 youporn.loby.info
 lokalizacja.info
+www.lovexxxpics.info
 lowescoupon.info
 lrcs.info
 lspeed.info
@@ -58312,8 +58311,6 @@ mt04.info
 muanyagablak.info
 mueckenschutz.info
 mail.mujerbella.info
-ww1.mujerbella.info
-ww38.mujerbella.info
 www.mujerbella.info
 muldental.info
 multi3ker.info
@@ -103457,12 +103454,9 @@ mauiefcu.org
 mazilla.org
 mbgclub.org
 ww1.mbhsfcu.org
-ww11.mbhsfcu.org
-ww17.mbhsfcu.org
 ww25.mbhsfcu.org
 ww31.mbhsfcu.org
 ww38.mbhsfcu.org
-www.mbhsfcu.org
 mc-thias.org
 mclearn.org
 mcstayfamily.org
@@ -104921,6 +104915,7 @@ wwwushistory.org
 wwwworkintexas.org
 wwwymca.org
 xcdsql.org
+www.xhamstre.org
 xposedmagazinenews.org
 xvedios.org
 y20turkey.org
