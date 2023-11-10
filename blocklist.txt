@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338878
+# Ignored duplicates: 338745
 
 pixel.ad
 roq.ad
@@ -8280,7 +8280,6 @@ igor.clickmeter.com
 indonesia.clickmeter.com
 ip.clickmeter.com
 isengard.clickmeter.com
-jasonmoffatt.clickmeter.com
 jez888.clickmeter.com
 kino.clickmeter.com
 kiss.clickmeter.com
@@ -14773,7 +14772,6 @@ envirofine.com
 envisonreports.com
 enzajit.com
 ww25.hostmaster.hostmaster.eonenergt.com
-ww25.eonenergt.com
 www.eonenergt.com
 eperon-medieval.com
 metric-public-service-prod.ol.epicgames.com
@@ -18741,6 +18739,8 @@ ping-meta-origin-prd.jwpltx.com
 ping-meta-prd.jwpltx.com
 ping-origin-dev.jwpltx.com
 ping-origin-prd.jwpltx.com
+ping-placement-origin-dev.jwpltx.com
+ping-placement-origin-prd.jwpltx.com
 stg.jwpltx.com
 g.jwpsrv.com
 jyjwche.com
@@ -19099,7 +19099,6 @@ larivieredemeraude.com
 lasaoren.com
 laserveradedomaina.com
 www.lastminurte.com
-lasugo.com
 latestflashupdate.com
 latestflashupdates.com
 latexmatresscompany.com
@@ -34829,6 +34828,7 @@ fs.corp.mparticle.com
 qa.corp.mparticle.com
 share.corp.mparticle.com
 sso.corp.mparticle.com
+vault.corp.mparticle.com
 vpn2.corp.mparticle.com
 dm257.mparticle.com
 dummy-app.mparticle.com
@@ -40845,6 +40845,7 @@ example.optimizely.com
 expeng-inte-use1.expeng.optimizely.com
 expeng-prep-use1.expeng.optimizely.com
 expeng-prod-use1.expeng.optimizely.com
+flags.expeng.optimizely.com
 ice.expeng.optimizely.com
 flags.inte.expeng.optimizely.com
 ice.inte.expeng.optimizely.com
@@ -42310,6 +42311,7 @@ functionalself.postaffiliatepro.com
 fundraising.postaffiliatepro.com
 funfactory.postaffiliatepro.com
 futurestay.postaffiliatepro.com
+fyndrr.postaffiliatepro.com
 gasp.postaffiliatepro.com
 getafollower.postaffiliatepro.com
 getrxd.postaffiliatepro.com
@@ -42679,7 +42681,6 @@ mail12.prantikv.com
 mail5.prantikv.com
 mx0.prantikv.com
 mx10.prantikv.com
-postmaster.prantikv.com
 prazeruniversal.com
 preanimal.com
 preapps.com
@@ -48270,9 +48271,11 @@ sheetsnthings.com
 sheezts.com
 ww1.sheiismart.com
 ww11.sheiismart.com
+ww16.sheiismart.com
 ww25.sheiismart.com
 ww31.sheiismart.com
 ww38.sheiismart.com
+www.sheiismart.com
 shemaletugjob.com
 shesubscriptions.com
 shikshabd.com
@@ -51615,6 +51618,9 @@ ads23.unoadsrv.com
 ads230.unoadsrv.com
 ads231.unoadsrv.com
 ads232.unoadsrv.com
+ads233.unoadsrv.com
+ads234.unoadsrv.com
+ads235.unoadsrv.com
 ads24.unoadsrv.com
 ads25.unoadsrv.com
 ads26.unoadsrv.com
@@ -56205,6 +56211,7 @@ ww7.adidasspringblade2.info
 www.adidasspringblade2.info
 autodiscover.aditech.info
 cpcontacts.aditech.info
+mail.aditech.info
 adm-vids.info
 advertisers.info
 aerjournal.info
@@ -57474,7 +57481,6 @@ fazu.info
 fcsite.info
 ww11.fdating.info
 ww38.fdating.info
-www.fdating.info
 mail.ferdos.info
 www.ferdos.info
 ferienhausinnorwegen.info
@@ -58287,9 +58293,6 @@ monroviatrustlaw.info
 www.monstersat.info
 montavilla.info
 host.moonlitecoin.info
-ww1.moonlitecoin.info
-ww17.moonlitecoin.info
-ww38.moonlitecoin.info
 foto.moqr.info
 ww38.moqr.info
 www.mosrenta.info
@@ -58943,6 +58946,9 @@ ww17.python-os.info
 ww38.python-os.info
 www.python-os.info
 que-significa-mi-nombre.info
+cpcalendars.quebradadehumahuaca.info
+mail.quebradadehumahuaca.info
+webdisk.quebradadehumahuaca.info
 quepaso.info
 quicktime-download.info
 rabidshare.info
@@ -59237,6 +59243,15 @@ ww17.socialsnatcher.info
 ww25.socialsnatcher.info
 ww38.socialsnatcher.info
 www.socialsnatcher.info
+autodiscover.solarvip.info
+cpcalendars.solarvip.info
+cpcontacts.solarvip.info
+mail.solarvip.info
+phpmyadmin.solarvip.info
+webdisk.solarvip.info
+ww1.solarvip.info
+ww17.solarvip.info
+ww38.solarvip.info
 www.solarvip.info
 solicita.info
 www.sondage.info
@@ -60108,6 +60123,7 @@ ww1.valuedirectories.info
 ww17.valuedirectories.info
 www.valuedirectories.info
 vatname.info
+ww16.vbucks.info
 ww25.vbucks.info
 vbucksfortnitefree.info
 vchas.info
@@ -67949,7 +67965,6 @@ throtle.io
 tracdelight.io
 tribl.io
 trugaze.io
-tubi.io
 addelivery-engine-api.voodoo-ads.io
 airflow.voodoo-ads.io
 campaign-assets.voodoo-ads.io
@@ -95075,8 +95090,8 @@ ashns1-ext2.fwmrm.net
 ashsstestvip2.fwmrm.net
 ads.aws.fwmrm.net
 adsdev.aws.fwmrm.net
-clickhouse.prd.af.aws.fwmrm.net
-clickhouse.stg.af.aws.fwmrm.net
+prd.af.aws.fwmrm.net
+stg.af.aws.fwmrm.net
 awstools.aws.fwmrm.net
 dev.cps.aws.fwmrm.net
 dev.creative.aws.fwmrm.net
@@ -95133,6 +95148,7 @@ spark.ocelot.prd.ml.aws.fwmrm.net
 thanos-bucket.ocelot.prd.ml.aws.fwmrm.net
 thanos-query.ocelot.prd.ml.aws.fwmrm.net
 ibis.stg.ml.aws.fwmrm.net
+modplus.aws.fwmrm.net
 stg.net.aws.fwmrm.net
 opsdev.aws.fwmrm.net
 ops.sandbox.aws.fwmrm.net
@@ -95142,6 +95158,7 @@ stg.aws.fwmrm.net
 alertmanager.dev.synergy.aws.fwmrm.net
 argo-workflows.dev.synergy.aws.fwmrm.net
 auth.dev.synergy.aws.fwmrm.net
+cost-analyzer.dev.synergy.aws.fwmrm.net
 grafana.dev.synergy.aws.fwmrm.net
 otel-collector.dev.synergy.aws.fwmrm.net
 prometheus.dev.synergy.aws.fwmrm.net
@@ -95149,6 +95166,7 @@ thanos-bucket.dev.synergy.aws.fwmrm.net
 thanos-query.dev.synergy.aws.fwmrm.net
 alertmanager.prd.synergy.aws.fwmrm.net
 auth.prd.synergy.aws.fwmrm.net
+cost-analyzer.prd.synergy.aws.fwmrm.net
 grafana.prd.synergy.aws.fwmrm.net
 otel-collector.prd.synergy.aws.fwmrm.net
 prometheus.prd.synergy.aws.fwmrm.net
@@ -95156,6 +95174,7 @@ thanos-bucket.prd.synergy.aws.fwmrm.net
 thanos-query.prd.synergy.aws.fwmrm.net
 alertmanager.stg.synergy.aws.fwmrm.net
 auth.stg.synergy.aws.fwmrm.net
+cost-analyzer.stg.synergy.aws.fwmrm.net
 grafana.stg.synergy.aws.fwmrm.net
 otel-collector.stg.synergy.aws.fwmrm.net
 prometheus.stg.synergy.aws.fwmrm.net
@@ -101755,7 +101774,6 @@ ufim.net
 adimg.uimserv.net
 advideo.uimserv.net
 madclient.uimserv.net
-ww17.undressedwomen.net
 ww84.undressedwomen.net
 track.unear.net
 upapi.net
@@ -101808,7 +101826,6 @@ webtrekk.net
 whachmovies.net
 whitedate.net
 whoisonline.net
-bmbstatic.blob.core.windows.net
 cookiesuksouth.blob.core.windows.net
 mg2assetsdev.blob.core.windows.net
 optanon.blob.core.windows.net
@@ -102301,6 +102318,7 @@ azdachshundrescue.org
 azmonakan.org
 www.azmoun.org
 azmunakan.org
+media.babelinks.org
 app.backinstock.org
 baillii.org
 bajkidladzieci.org
@@ -103455,8 +103473,6 @@ mazilla.org
 mbgclub.org
 ww1.mbhsfcu.org
 ww25.mbhsfcu.org
-ww31.mbhsfcu.org
-ww38.mbhsfcu.org
 mc-thias.org
 mclearn.org
 mcstayfamily.org
@@ -109456,7 +109472,6 @@ resor-external.barnsemester.se
 tracking.etidning.bblat.se
 tracking.bblat.se
 bettingstugan.se
-bilcertificat.se
 bksn.se
 newstats.blogg.se
 stats.blogg.se
@@ -109489,22 +109504,15 @@ girohjalm.com.se
 www.guesssverige.com.se
 gym-shark-sverige.com.se
 www.gymshark-sweden.com.se
-gymsharksverige.com.se
 hollistersverige.com.se
 inov-8.com.se
 jackwolfskinsverige.com.se
-legero.com.se
 loewe.com.se
 longchampstockholm.com.se
-lululemonstockholm.com.se
 marmotsverige.com.se
-mouskor.com.se
 nobull-sverige.com.se
 palmangelssverige.com.se
-pumaskorrea.com.se
 serenitycandles.com.se
-tretorn-rea.com.se
-vagabondskorrea.com.se
 www.vejaskor.com.se
 vejaskorstockholm.com.se
 dinapengar.compricer.se
