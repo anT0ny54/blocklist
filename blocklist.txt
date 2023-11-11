@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338745
+# Ignored duplicates: 338760
 
 pixel.ad
 roq.ad
@@ -7400,6 +7400,7 @@ screenshots.bugherd.com
 sidebar.bugherd.com
 status.bugherd.com
 test.bugherd.com
+ui-v2.bugherd.com
 webflow.bugherd.com
 www.bugherd.com
 content.analytics.bugsnag.com
@@ -9593,7 +9594,6 @@ ww2.db-ip.com
 www1.db-ip.com
 www2.db-ip.com
 www3.db-ip.com
-dbbsrv.com
 dbidatatech.com
 dbmvideos.com
 dbrauexm2013.com
@@ -14772,7 +14772,6 @@ envirofine.com
 envisonreports.com
 enzajit.com
 ww25.hostmaster.hostmaster.eonenergt.com
-www.eonenergt.com
 eperon-medieval.com
 metric-public-service-prod.ol.epicgames.com
 ads.epltalk.com
@@ -22921,6 +22920,7 @@ mktoresp.com
 033-rkd-847.mktoweb.com
 033-tkx-221.mktoweb.com
 033-uqw-519.mktoweb.com
+033-vwr-701.mktoweb.com
 033-wvw-214.mktoweb.com
 033-xib-934.mktoweb.com
 034-cxj-761.mktoweb.com
@@ -22962,6 +22962,7 @@ mktoresp.com
 037-wai-533.mktoweb.com
 037-xbo-999.mktoweb.com
 037-xrm-603.mktoweb.com
+038-fnz-633.mktoweb.com
 038-ghp-751.mktoweb.com
 038-krl-592.mktoweb.com
 038-lmz-365.mktoweb.com
@@ -24348,6 +24349,7 @@ mktoresp.com
 175-beq-590.mktoweb.com
 175-bxb-006.mktoweb.com
 175-fjp-387.mktoweb.com
+175-fwy-158.mktoweb.com
 175-oox-133.mktoweb.com
 175-pdr-491.mktoweb.com
 175-ukr-711.mktoweb.com
@@ -24578,6 +24580,7 @@ mktoresp.com
 193-tpm-433.mktoweb.com
 193-unk-656.mktoweb.com
 193-wpe-346.mktoweb.com
+193-yie-290.mktoweb.com
 194-aog-653.mktoweb.com
 194-aty-897.mktoweb.com
 194-iqc-404.mktoweb.com
@@ -26766,6 +26769,7 @@ mktoresp.com
 394-fcn-081.mktoweb.com
 394-gfk-497.mktoweb.com
 394-ieu-816.mktoweb.com
+394-ipm-414.mktoweb.com
 394-rca-171.mktoweb.com
 394-ulj-856.mktoweb.com
 394-vfb-287.mktoweb.com
@@ -26992,6 +26996,7 @@ mktoresp.com
 416-atx-044.mktoweb.com
 416-hec-185.mktoweb.com
 416-hhl-113.mktoweb.com
+416-igp-956.mktoweb.com
 416-jdx-583.mktoweb.com
 416-jpx-728.mktoweb.com
 416-ldx-286.mktoweb.com
@@ -29509,6 +29514,7 @@ mktoresp.com
 657-edd-313.mktoweb.com
 657-eto-627.mktoweb.com
 657-fth-425.mktoweb.com
+657-ikz-299.mktoweb.com
 657-uav-638.mktoweb.com
 657-ygo-935.mktoweb.com
 658-dvw-371.mktoweb.com
@@ -30313,6 +30319,7 @@ mktoresp.com
 735-bye-368.mktoweb.com
 735-cwi-679.mktoweb.com
 735-evy-012.mktoweb.com
+735-gvp-745.mktoweb.com
 735-jto-507.mktoweb.com
 735-lme-924.mktoweb.com
 735-mga-661.mktoweb.com
@@ -30792,6 +30799,7 @@ mktoresp.com
 779-wgg-323.mktoweb.com
 779-yen-422.mktoweb.com
 779-zhh-801.mktoweb.com
+780-bdu-686.mktoweb.com
 780-dqm-060.mktoweb.com
 780-edv-369.mktoweb.com
 780-lrh-126.mktoweb.com
@@ -31045,6 +31053,7 @@ mktoresp.com
 801-fka-641.mktoweb.com
 801-fmu-970.mktoweb.com
 801-fpc-090.mktoweb.com
+801-hrt-022.mktoweb.com
 801-jls-289.mktoweb.com
 801-onq-704.mktoweb.com
 801-rke-596.mktoweb.com
@@ -31284,6 +31293,7 @@ mktoresp.com
 824-igk-847.mktoweb.com
 824-jlg-389.mktoweb.com
 824-mht-304.mktoweb.com
+824-mtw-586.mktoweb.com
 824-myy-062.mktoweb.com
 824-qvu-545.mktoweb.com
 824-sfq-121.mktoweb.com
@@ -35749,12 +35759,8 @@ adproxy.ndmdhs.com
 ndparking.com
 ndroip.com
 ads.ndtv1.com
-analyze.neatab.com
-services.neatab.com
-staging.neatab.com
 needlessnorth.com
 needyneedle.com
-ww1.neewgoogle.com
 www.neewgoogle.com
 neglot.com
 nehnutelnosti.com
@@ -50990,6 +50996,7 @@ truck--insurance--quotes.com
 truckpapaer.com
 truckstomatoes.com
 truconversion.com
+truculentrate.com
 ads-partner-noneu.truecaller.com
 ads-segment-profile-noneu.truecaller.com
 ads5-noneu.truecaller.com
@@ -56151,6 +56158,8 @@ ww1.abbottandcostello.info
 ww12.abbottandcostello.info
 ww7.abbottandcostello.info
 www.abbottandcostello.info
+cpcalendars.abono.info
+mail.abono.info
 ww1.abono.info
 ww11.abono.info
 ww38.abono.info
@@ -56210,8 +56219,13 @@ ww38.adidasspringblade2.info
 ww7.adidasspringblade2.info
 www.adidasspringblade2.info
 autodiscover.aditech.info
+chandra.aditech.info
 cpcontacts.aditech.info
+devbox.aditech.info
+images.aditech.info
+kranti.aditech.info
 mail.aditech.info
+newtosap.aditech.info
 adm-vids.info
 advertisers.info
 aerjournal.info
@@ -56265,7 +56279,6 @@ ww38.anash.info
 ww7.anash.info
 www.anash.info
 andreas-hofer.info
-ww11.androidfilmy.info
 androidioshacks.info
 androidpolice.info
 angebote.info
@@ -57480,7 +57493,6 @@ fatorfiction.info
 fazu.info
 fcsite.info
 ww11.fdating.info
-ww38.fdating.info
 mail.ferdos.info
 www.ferdos.info
 ferienhausinnorwegen.info
@@ -57971,6 +57983,7 @@ krisallendaily.info
 ww17.kristijan.info
 www.kristijan.info
 ww1.kritika.info
+www.kritika.info
 kroatien.info
 krzewy.info
 kumang45d.info
@@ -58314,7 +58327,6 @@ mt04.info
 muanyagablak.info
 mueckenschutz.info
 mail.mujerbella.info
-www.mujerbella.info
 muldental.info
 multi3ker.info
 multivitamine.info
@@ -58776,6 +58788,7 @@ uz.priority-pass.info
 vi.priority-pass.info
 ww1.priority-pass.info
 zh.priority-pass.info
+mail.privatejobs.info
 www.prlinkpop.info
 problemhaut.info
 procurements.info
@@ -58949,6 +58962,9 @@ que-significa-mi-nombre.info
 cpcalendars.quebradadehumahuaca.info
 mail.quebradadehumahuaca.info
 webdisk.quebradadehumahuaca.info
+ww1.quebradadehumahuaca.info
+ww17.quebradadehumahuaca.info
+ww38.quebradadehumahuaca.info
 quepaso.info
 quicktime-download.info
 rabidshare.info
@@ -59251,6 +59267,7 @@ phpmyadmin.solarvip.info
 webdisk.solarvip.info
 ww1.solarvip.info
 ww17.solarvip.info
+ww25.solarvip.info
 ww38.solarvip.info
 www.solarvip.info
 solicita.info
@@ -59347,13 +59364,6 @@ www.spreekwoorden.info
 www.spruiten.info
 spycamsfromguys.info
 sqmf.info
-ww1.blog.sserbanro.info
-ww11.blog.sserbanro.info
-ww17.blog.sserbanro.info
-ww25.blog.sserbanro.info
-ww38.blog.sserbanro.info
-magazin.sserbanro.info
-www.sserbanro.info
 ssmatomeantenna.info
 ww1.startbeestlife.info
 ww16.startbeestlife.info
@@ -59733,7 +59743,6 @@ ww1.tnggz.info
 ww38.tnggz.info
 www.tnggz.info
 tnoa2019.info
-mvideo.tnpsctamil.info
 ww1.tnpsctamil.info
 ww17.tnpsctamil.info
 www.tnpsctamil.info
@@ -59758,7 +59767,6 @@ toram.info
 torentgames.info
 torino.info
 ww16.torjacka.info
-ww17.torjacka.info
 ww25.torjacka.info
 www.torjacka.info
 torrentgamesps2.info
@@ -60200,7 +60208,6 @@ ww25.vu7ag.info
 ww38.vu7ag.info
 www.vu7ag.info
 wadainews.info
-ww1.waldgeist.info
 ww17.waldgeist.info
 ww25.waldgeist.info
 www.waldgeist.info
@@ -101774,7 +101781,6 @@ ufim.net
 adimg.uimserv.net
 advideo.uimserv.net
 madclient.uimserv.net
-ww84.undressedwomen.net
 track.unear.net
 upapi.net
 updtr.net
