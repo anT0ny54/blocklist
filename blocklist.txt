@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338839
+# Ignored duplicates: 338866
 
 pixel.ad
 roq.ad
@@ -8391,6 +8391,7 @@ cmptch.com
 cn-zixiutang.com
 gdsapi.cnbc.com
 mps.cnbc.com
+cncpt-central.com
 cncptx.com
 urs.cnet.com
 agility.cnn.com
@@ -8620,6 +8621,7 @@ conerstone.com
 conexionsuperior.com
 digitalfeedback.euro.confirmit.com
 adexchange.connatix.com
+adgen-cdn.connatix.com
 adserver.connatix.com
 assets.connatix.com
 assets-staging.connatix.com
@@ -17086,6 +17088,7 @@ googlemqil.com
 googlenewssubmit.com
 googleoptimize.com
 wintricksbanner.googlepages.com
+googleplaystor.com
 googleplaystoreapks.com
 googleplsy.com
 googleprank.com
@@ -19312,6 +19315,8 @@ media.linksynergy.com
 merchant.linksynergy.com
 mftp.linksynergy.com
 mobile.linksynergy.com
+partnerships-preprod-cdn.linksynergy.com
+partnerships-staging-cdn.linksynergy.com
 registry.docker.private.linksynergy.com
 wcdc.kaas.private.linksynergy.com
 va.private.linksynergy.com
@@ -51445,7 +51450,6 @@ prometheus-usc1.ads-exchange-shared.stg.mon.corp.unity3d.com
 thanos-grpc-usc1.ads-exchange-shared.stg.mon.corp.unity3d.com
 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 httpkafka.ads.prd.ie.internal.unity3d.com
-httpkafka-master.ads.prd.ie.internal.unity3d.com
 publisher-event.ads.prd.ie.internal.unity3d.com
 ads-privacy-api.prd.mz.internal.unity3d.com
 mediation-instantiation.prd.mz.internal.unity3d.com
@@ -53520,7 +53524,6 @@ a.xanga.com
 xapads.com
 xapxmaawcsk.com
 analytics.xelondigital.com
-xenfra.com
 xertive.com
 xf1ogger.com
 oascentral.xfinity.com
@@ -57421,8 +57424,6 @@ pp.etain.info
 ww1.etain.info
 ww17.etain.info
 www.etain.info
-ww1.etarin.info
-www.etarin.info
 ethanfletcher.info
 www.euro-news.info
 dev.eventsco.info
@@ -57468,7 +57469,6 @@ fatma.info
 fatorfiction.info
 fazu.info
 fcsite.info
-ww11.fdating.info
 mail.ferdos.info
 www.ferdos.info
 ferienhausinnorwegen.info
@@ -57589,7 +57589,6 @@ gaigoisaigon.info
 ww1.galiana.info
 ww16.galiana.info
 ww25.galiana.info
-ww38.galiana.info
 www.galiana.info
 galtuer.info
 galzu.info
@@ -57760,7 +57759,7 @@ healthbeautyvn.info
 healthdiet.info
 www.healthontrack.info
 www.healthtips1.info
-healthy-weight-loss-plan.info
+www.healthy-weight-loss-plan.info
 heart-work.info
 heartbreakers.info
 helphouse.info
@@ -57808,7 +57807,7 @@ ifsaciusta.info
 ifullreview.info
 igopro.info
 ihtiyar.info
-ilfornello.info
+www.ilfornello.info
 ilit.info
 ilkoala.info
 ilovepix.info
@@ -57881,7 +57880,6 @@ jupiter-directory.info
 kabhebrew.info
 kajak.info
 kamikazi.info
-ww11.kampanjakoodi.info
 kanshulou.info
 ww1.karate2014.info
 www.karate2014.info
@@ -58453,7 +58451,6 @@ noorani.info
 noraredenoma.info
 noticias365.info
 ww1.novaonautoadssword.info
-ww11.novaonautoadssword.info
 www.novaonautoadssword.info
 novax.info
 cpcontacts.novonovo.info
@@ -58758,6 +58755,9 @@ vi.priority-pass.info
 ww1.priority-pass.info
 zh.priority-pass.info
 mail.privatejobs.info
+ww1.privatejobs.info
+ww17.privatejobs.info
+www.privatejobs.info
 www.prlinkpop.info
 problemhaut.info
 procurements.info
@@ -59471,7 +59471,6 @@ ww25.tarjetarojatv.info
 www.tarjetarojatv.info
 ww1.tauruszodiac.info
 ww3.tauruszodiac.info
-www.tauruszodiac.info
 www.taxecarbone.info
 auth.taxreps.info
 authsmtp.taxreps.info
@@ -59580,7 +59579,6 @@ tdds.info
 ads2.techads.info
 techcrome.info
 techdocs.info
-mail.technicalguruji.info
 ww38.technicalguruji.info
 www.technicalguruji.info
 www.techstudy.info
@@ -59712,8 +59710,6 @@ ww1.tnggz.info
 ww38.tnggz.info
 www.tnggz.info
 tnoa2019.info
-ww17.tnpsctamil.info
-www.tnpsctamil.info
 tnttorent.info
 tomboytools.info
 tonion.info
@@ -95043,7 +95039,6 @@ fullspa.net
 funafterdark.net
 funnymathgames.net
 futbollive.net
-api.vanilla.futurecdn.net
 fuzk.net
 adex2.fwmrm.net
 adexpd.fwmrm.net
@@ -102225,6 +102220,7 @@ americanthinker.org
 analytics.amiunique.org
 android4play.org
 androidsoundboard.org
+androidstock.org
 anefrank.org
 angletv.org
 annaunivedu.org
@@ -102290,6 +102286,7 @@ azmonakan.org
 www.azmoun.org
 azmunakan.org
 media.babelinks.org
+ww11.babelinks.org
 app.backinstock.org
 baillii.org
 bajkidladzieci.org
@@ -103442,8 +103439,6 @@ matriculafacil.org
 mauiefcu.org
 mazilla.org
 mbgclub.org
-ww1.mbhsfcu.org
-ww25.mbhsfcu.org
 mc-thias.org
 mclearn.org
 mcstayfamily.org
@@ -104879,8 +104874,6 @@ treehouse.wwoz.org
 www211.org
 wwwamfirst.org
 wwwbayareafasttrak.org
-ww25.wwwbelco.org
-ww31.wwwbelco.org
 wwwdiabetes.org
 wwweecu.org
 wwwfreedompass.org
@@ -113037,7 +113030,6 @@ af-ad.co.uk
 ensighten.airnewzealand.co.uk
 and.co.uk
 iad.anm.co.uk
-a1.api.bbc.co.uk
 r.bbci.co.uk
 click.e.bbcmail.co.uk
 t.news.browns-restaurants.co.uk
