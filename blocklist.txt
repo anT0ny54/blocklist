@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338896
+# Ignored duplicates: 338956
 
 pixel.ad
 roq.ad
@@ -9297,6 +9297,7 @@ scomcluster.cxense.com
 social.cxense.com
 sp1cluster.cxense.com
 src.cxense.com
+ss.cxense.com
 stage.cxense.com
 stage-web.cxense.com
 stats-collector.cxense.com
@@ -9584,8 +9585,7 @@ dc-storm.com
 dcxservice.com
 ddl-musik.com
 ddoge.com
-s32.research.de.com
-s62.research.de.com
+i2.s62.research.de.com
 s79.research.de.com
 de17a.com
 de17aserver.com
@@ -16630,6 +16630,7 @@ j2.giftbasketforall.com
 j3.giftbasketforall.com
 j4.giftbasketforall.com
 j5.giftbasketforall.com
+ww5.giftbasketforall.com
 ww6.giftbasketforall.com
 www.giftbasketforall.com
 www.gigoogle.com
@@ -41729,7 +41730,6 @@ sj2-pvnmr12.pinger.com
 sj2-pvnmr14.pinger.com
 sj2-pvnmr15.pinger.com
 x.pinger.com
-ww25.pingudu.com
 pinkdoorboutique.com
 pinncle.com
 analytics.pinsightmedia.com
@@ -42338,6 +42338,7 @@ ingrammicrocloud.postaffiliatepro.com
 ingrammicrocloudca.postaffiliatepro.com
 intaime.postaffiliatepro.com
 intcitizens.postaffiliatepro.com
+intelliverse.postaffiliatepro.com
 internetmuhendisi.postaffiliatepro.com
 investyadnya.postaffiliatepro.com
 invigormedical.postaffiliatepro.com
@@ -45939,7 +45940,6 @@ ww2.reyoutube.com
 ww5.reyoutube.com
 www.reyoutube.com
 rezonence.com
-ww25.rezultait.com
 rezutati.com
 rezync.com
 134842711840976p.rfihub.com
@@ -57580,8 +57580,6 @@ www.fyo.info
 g75v47q60.info
 gaigoisaigon.info
 ww1.galiana.info
-ww16.galiana.info
-ww25.galiana.info
 www.galiana.info
 galtuer.info
 galzu.info
@@ -59382,8 +59380,6 @@ ww1.sutekh.info
 ww16.sutekh.info
 ww38.sutekh.info
 www.sutekh.info
-m.suzxx.info
-www1.suzxx.info
 api.svabe.info
 app.svabe.info
 apps.svabe.info
@@ -67961,7 +67957,6 @@ wurfl.io
 api.yellowblue.io
 audio-player-service-production.yellowblue.io
 audio-player-service-staging.yellowblue.io
-audio-player-transcriber-production.yellowblue.io
 audio-player-transcriber-staging.yellowblue.io
 cookie-sync-desktop.yellowblue.io
 cs.yellowblue.io
@@ -102255,6 +102250,7 @@ azmonakan.org
 www.azmoun.org
 azmunakan.org
 media.babelinks.org
+ww1.babelinks.org
 ww11.babelinks.org
 app.backinstock.org
 baillii.org
@@ -102865,6 +102861,7 @@ ad.exyws.org
 eyeofthecat.org
 ezpassnj.org
 f1tv.org
+ww38.face-copyright.org
 fafas.org
 fairygardening.org
 ac.familoysearch.org
@@ -104517,8 +104514,12 @@ teensx.org
 tehbox.org
 mail.teknobilim.org
 www.teknobilim.org
+www.acc2023.telegramco.org
+www.cbb2023.telegramco.org
+www.cde2023.telegramco.org
 ns1.telegramco.org
 ns2.telegramco.org
+www.telegramco.org
 televisiongratis.org
 temo-mail.org
 temporarymail.org
@@ -104863,7 +104864,7 @@ wwwushistory.org
 wwwworkintexas.org
 wwwymca.org
 xcdsql.org
-www.xhamstre.org
+xhamstre.org
 xposedmagazinenews.org
 xvedios.org
 y20turkey.org
