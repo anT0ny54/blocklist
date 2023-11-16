@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338956
+# Ignored duplicates: 338910
 
 pixel.ad
 roq.ad
@@ -6616,6 +6616,7 @@ ww25.bdsm-latex.com
 www.ww38.bdsm-latex.com
 www.ww5.bdsm-latex.com
 www.bdsm-latex.com
+ww12.beachbodywaxvb.com
 beachfront.com
 track.beachfrontreach.com
 beamincrease.com
@@ -8035,7 +8036,6 @@ chrysleronnicholasville.com
 chryslerretiree.com
 chubbycreature.com
 chukiecheeses.com
-cdn.churnkit.com
 chusero.com
 cifacanada.com
 cilkonlay.com
@@ -14522,6 +14522,7 @@ eadexchange.com
 ads.eagletribune.com
 r.ealeo.com
 earlychildren.com
+www.earlyshowcbsnews.com
 earnonfeedback.com
 earth-dancing.com
 earthquakescarf.com
@@ -15205,11 +15206,9 @@ findcheapflighttickets.com
 findcommerce.com
 findmadelaine.com
 findsynology.com
-record.findtrustclicks.com
 findyourcasino.com
 fingereach.com
 ww1.fingersgames.com
-www.fingersgames.com
 ads-game-187f4.firebaseapp.com
 firebasegoogle.com
 fireworkadservices.com
@@ -15548,7 +15547,6 @@ ftcsc.com
 www.ftjcfx.com
 wwww.ftjcfx.com
 ftravelocity.com
-www.ftvdb.com
 ftvpparadise.com
 fubotumo.com
 fuckfaye.com
@@ -17384,7 +17382,7 @@ guysmovie.com
 gwallet.com
 gwnrecords.com
 gyanin.com
-www.gymsharkswedens.com
+www.gym-sharksweden.com
 gzxrong.com
 h-bid.com
 api-cdn.h-cdn.com
@@ -19027,8 +19025,6 @@ adsimg.kompas.com
 apis.kompas.com
 img.kompasads.com
 ads.kompass.com
-ww25.kompoas.com
-ww35.kompoas.com
 komsantv.com
 konferansereiser.com
 adserver.kontent.com
@@ -22375,7 +22371,6 @@ zto.dds.microsoft.com
 telemetry.microsoft.com
 uhf.microsoft.com
 microsoftinline.com
-www.microsoftlonline.com
 microsoftnline.com
 microsoftomline.com
 7login.microsoftonilne.com
@@ -42788,18 +42783,10 @@ psdplace.com
 www.psp35.com
 pspioz.com
 psychedelicchess.com
-1ae64e5e3fad9274b43e5b81de8ef0db.ptalo.com
 4jslg.ptalo.com
-53e16605e1b67a3e2260783714988983.ptalo.com
-5bae3435b5096c093b49664c928638ca.ptalo.com
-7b5b315823d660684e0ea8eb518c28bc.ptalo.com
-9c51f4b97d82ee4bfacab8047ff2e988.ptalo.com
-9fa46b5135bb294b8bd2864bf0fb702e.ptalo.com
-a159c1ff691ebad3af840945fe2e37ec.ptalo.com
 box.ptalo.com
 comune.ptalo.com
 email.ptalo.com
-f0f74bdd54c6885584d454a8da464892.ptalo.com
 mail11.ptalo.com
 mail12.ptalo.com
 mail2.ptalo.com
@@ -42814,7 +42801,6 @@ ns2.ptalo.com
 server2.ptalo.com
 smtps.ptalo.com
 ww11.ptalo.com
-www.ptalo.com
 www.ptestexapta.com
 deliver.ptgncdn.com
 ptoushoa.com
@@ -56194,6 +56180,7 @@ www.adidasspringblade2.info
 autodiscover.aditech.info
 ww17.blog.aditech.info
 chandra.aditech.info
+cpcalendars.aditech.info
 cpcontacts.aditech.info
 devbox.aditech.info
 images.aditech.info
@@ -57827,6 +57814,7 @@ iptv-gratuit.info
 iptvserver.info
 iptvturk.info
 ipv6news.info
+www.iranfilms.info
 irkut.info
 isong.info
 it-notes.info
@@ -58440,7 +58428,6 @@ www.nonude-stars.info
 noorani.info
 noraredenoma.info
 noticias365.info
-ww1.novaonautoadssword.info
 www.novaonautoadssword.info
 novax.info
 cpcontacts.novonovo.info
@@ -58924,6 +58911,7 @@ webdisk.quebradadehumahuaca.info
 ww1.quebradadehumahuaca.info
 ww17.quebradadehumahuaca.info
 ww38.quebradadehumahuaca.info
+www.quebradadehumahuaca.info
 quepaso.info
 quicktime-download.info
 rabidshare.info
@@ -59553,7 +59541,6 @@ ads2.techads.info
 techcrome.info
 techdocs.info
 ww38.technicalguruji.info
-www.technicalguruji.info
 www.techstudy.info
 techxperts.info
 tekstynaukowe.info
@@ -67955,7 +67942,6 @@ schema-api.video.wmcdp.io
 schema-export.video.wmcdp.io
 wurfl.io
 api.yellowblue.io
-audio-player-service-production.yellowblue.io
 audio-player-service-staging.yellowblue.io
 audio-player-transcriber-staging.yellowblue.io
 cookie-sync-desktop.yellowblue.io
@@ -101820,6 +101806,7 @@ uploaded.yieldlove-ad-serving.net
 tracking.v2.yieldlove-ad-serving.net
 yieldmanager.net
 ads.yldmgrimg.net
+yoads.net
 yojizz.net
 yooujizz.net
 yospace.net
@@ -102250,8 +102237,11 @@ azmonakan.org
 www.azmoun.org
 azmunakan.org
 media.babelinks.org
+sitemaps.babelinks.org
 ww1.babelinks.org
 ww11.babelinks.org
+ww38.babelinks.org
+www.babelinks.org
 app.backinstock.org
 baillii.org
 bajkidladzieci.org
@@ -102861,7 +102851,9 @@ ad.exyws.org
 eyeofthecat.org
 ezpassnj.org
 f1tv.org
+ww1.face-copyright.org
 ww38.face-copyright.org
+www.face-copyright.org
 fafas.org
 fairygardening.org
 ac.familoysearch.org
