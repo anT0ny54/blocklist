@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 338910
+# Ignored duplicates: 338737
 
 pixel.ad
 roq.ad
@@ -7515,7 +7515,6 @@ ww11.c-loverz.com
 ww17.c-loverz.com
 ww25.c-loverz.com
 ww31.c-loverz.com
-ww38.c-loverz.com
 www.c-loverz.com
 c1exchange.com
 c3metrics.com
@@ -8266,9 +8265,7 @@ clickmanager.com
 cnvrsns.clickmeter.com
 commerce.clickmeter.com
 conversions.clickmeter.com
-autoconfig.forums.clickmeter.com
 gsm.clickmeter.com
-indonesia.clickmeter.com
 webdisk.ip.clickmeter.com
 www.kino.clickmeter.com
 www.kiss.clickmeter.com
@@ -8276,7 +8273,6 @@ m0.clickmeter.com
 www.malaysia.clickmeter.com
 www.management.clickmeter.com
 www.map.clickmeter.com
-www.maps.clickmeter.com
 www.mars.clickmeter.com
 www.mob.clickmeter.com
 www.mp.clickmeter.com
@@ -8289,12 +8285,10 @@ www.prueba.clickmeter.com
 www.quotes.clickmeter.com
 rb-redirect.clickmeter.com
 www.realestate.clickmeter.com
-www.redirect.clickmeter.com
 www.s2.clickmeter.com
 www.sanatate.clickmeter.com
 www.scripts.clickmeter.com
 www.singapore.clickmeter.com
-www.space.clickmeter.com
 status.clickmeter.com
 www.clickmeter.com
 clickpoint.com
@@ -9585,8 +9579,60 @@ dc-storm.com
 dcxservice.com
 ddl-musik.com
 ddoge.com
-i2.s62.research.de.com
-s79.research.de.com
+b104.s79.research.de.com
+b106.s79.research.de.com
+b108.s79.research.de.com
+b111.s79.research.de.com
+b112.s79.research.de.com
+b113.s79.research.de.com
+b117.s79.research.de.com
+b120.s79.research.de.com
+b121.s79.research.de.com
+b127.s79.research.de.com
+b129.s79.research.de.com
+b131.s79.research.de.com
+b135.s79.research.de.com
+b141.s79.research.de.com
+b143.s79.research.de.com
+b145.s79.research.de.com
+b146.s79.research.de.com
+b148.s79.research.de.com
+b151.s79.research.de.com
+b158.s79.research.de.com
+b161.s79.research.de.com
+b168.s79.research.de.com
+b17.s79.research.de.com
+b170.s79.research.de.com
+b171.s79.research.de.com
+b177.s79.research.de.com
+b184.s79.research.de.com
+b185.s79.research.de.com
+b186.s79.research.de.com
+b188.s79.research.de.com
+b192.s79.research.de.com
+b193.s79.research.de.com
+b194.s79.research.de.com
+b22.s79.research.de.com
+b23.s79.research.de.com
+b25.s79.research.de.com
+b27.s79.research.de.com
+b28.s79.research.de.com
+b30.s79.research.de.com
+b35.s79.research.de.com
+b4.s79.research.de.com
+b42.s79.research.de.com
+b43.s79.research.de.com
+b44.s79.research.de.com
+b5.s79.research.de.com
+b52.s79.research.de.com
+b59.s79.research.de.com
+b6.s79.research.de.com
+b64.s79.research.de.com
+b69.s79.research.de.com
+b70.s79.research.de.com
+b76.s79.research.de.com
+b79.s79.research.de.com
+b97.s79.research.de.com
 de17a.com
 de17aserver.com
 a.deadlinefunnel.com
@@ -14755,7 +14801,6 @@ enviousthread.com
 envirofine.com
 envisonreports.com
 enzajit.com
-ww25.hostmaster.hostmaster.eonenergt.com
 eperon-medieval.com
 metric-public-service-prod.ol.epicgames.com
 ads.epltalk.com
@@ -15208,7 +15253,6 @@ findmadelaine.com
 findsynology.com
 findyourcasino.com
 fingereach.com
-ww1.fingersgames.com
 ads-game-187f4.firebaseapp.com
 firebasegoogle.com
 fireworkadservices.com
@@ -21382,9 +21426,6 @@ ww1.megauploaud.com
 www.megauploaud.com
 mehabus.com
 meijiers.com
-ww17.meiratboutique.com
-ww25.meiratboutique.com
-ww38.meiratboutique.com
 www.meiratboutique.com
 communications.melitaltd.com
 meltmilk.com
@@ -53419,6 +53460,7 @@ wwethemesongs.com
 wweyoutube.com
 www-6pm.com
 www-banorte.com
+www.www-omegle.com
 www-orkut.com
 www-us-computershare.com
 www-youjizz.com
@@ -53498,7 +53540,11 @@ www.wwwwaptrik.com
 wwwxnnx.com
 wwwyouporno.com
 wwwyoutob.com
-wwwyoutubr.com
+ww1.wwwyoutubr.com
+ww17.wwwyoutubr.com
+ww25.wwwyoutubr.com
+ww31.wwwyoutubr.com
+www.wwwyoutubr.com
 wwwyouyube.com
 wydhamrewards.com
 wydhamvacationrentals.com
@@ -56188,6 +56234,7 @@ kranti.aditech.info
 mail.aditech.info
 newtosap.aditech.info
 ww17.aditech.info
+www.aditech.info
 adm-vids.info
 advertisers.info
 aerjournal.info
@@ -57113,7 +57160,6 @@ www.delhicallgirls.info
 demisroussos.info
 ww16.denada.info
 ww17.denada.info
-ww25.denada.info
 ww38.denada.info
 www.denada.info
 www1.denada.info
@@ -57526,7 +57572,6 @@ ww38.freeiphonesex.info
 www.freeiphonesex.info
 freelancewriter88.info
 freenet.info
-ww41.freenetflixaccount.info
 freepornsearch.info
 abcd.freesbmblog.info
 airflow-prod.freesbmblog.info
@@ -57566,7 +57611,6 @@ ww38.fyo.info
 www.fyo.info
 g75v47q60.info
 gaigoisaigon.info
-ww1.galiana.info
 www.galiana.info
 galtuer.info
 galzu.info
@@ -58140,44 +58184,19 @@ webdisk.megafast.info
 www.megafast.info
 meituyy.info
 arrow.meks.info
-auth.meks.info
-bank-america.meks.info
+ww25.bank-america.meks.info
 ww6.forum.meks.info
 hermes.meks.info
-imap2.meks.info
 mail.meks.info
-mail2.meks.info
-mail3.meks.info
-mailgate.meks.info
-mailgw.meks.info
-mailin.meks.info
-mailout.meks.info
-mailserver.meks.info
-mailx.meks.info
-mx.meks.info
-mx1.meks.info
-newmail.meks.info
-ns.meks.info
-ns1.meks.info
-ns2.meks.info
 originals.meks.info
-pop.meks.info
-post.meks.info
-postmaster.meks.info
-relay1.meks.info
-tv.meks.info
-vmail.meks.info
 ww1.meks.info
 ww11.meks.info
 ww16.meks.info
 ww17.meks.info
 ww25.meks.info
 ww38.meks.info
-ww43.meks.info
 ww6.meks.info
 www.meks.info
-www1.meks.info
-www2.meks.info
 mercusuar.info
 merictech.info
 aaa.messletters.info
@@ -58277,9 +58296,6 @@ multi3ker.info
 multivitamine.info
 multiweblibre.info
 mur-porteur.info
-ww1.museum-of-artifacts.info
-ww16.museum-of-artifacts.info
-ww25.museum-of-artifacts.info
 ww38.museum-of-artifacts.info
 www.museum-of-artifacts.info
 dc-13f44999a436.music-bg.info
@@ -58428,7 +58444,6 @@ www.nonude-stars.info
 noorani.info
 noraredenoma.info
 noticias365.info
-www.novaonautoadssword.info
 novax.info
 cpcontacts.novonovo.info
 ww1.novonovo.info
@@ -58896,6 +58911,7 @@ zmail.psylocke.info
 pubnative.info
 puntolimpio.info
 pusat-bahasa.info
+ww1.putana.info
 www.putana.info
 pword.info
 mail.python-os.info
@@ -59355,6 +59371,8 @@ ww1.superdata.info
 ww17.superdata.info
 www.superdata.info
 superego.info
+mail.supermom.info
+ww1.supermom.info
 www.supermom.info
 supermoto.info
 suprdeal.info
@@ -59649,7 +59667,6 @@ ww25.thesensei.info
 ww38.thesensei.info
 www.thesensei.info
 www.thewinner.info
-www.threaded.info
 api.thruster.info
 cdn.thruster.info
 cf.thruster.info
@@ -95495,7 +95512,6 @@ elsevier.gscontxt.net
 elsevier-ash.gscontxt.net
 elsevier-lax.gscontxt.net
 eotws.gscontxt.net
-esi-nj.gscontxt.net
 euronews-ams.gscontxt.net
 fairfaxmedia.gscontxt.net
 fairfaxmedia-ams.gscontxt.net
@@ -101467,6 +101483,7 @@ u19dcspa34.sotreq.net
 u19dcssa87.sotreq.net
 u19dcsuma37.sotreq.net
 u19dcvsp65.sotreq.net
+u19epo2mtz.sotreq.net
 u19fpwmtz.sotreq.net
 u19fsmtz.sotreq.net
 u19gitlab1azr.sotreq.net
@@ -101481,6 +101498,7 @@ u19sdo00.sotreq.net
 u19spi00.sotreq.net
 u19spp00.sotreq.net
 u19sqp00.sotreq.net
+u19vcsamtz.sotreq.net
 u19was1mtz.sotreq.net
 u19xapp8mtz.sotreq.net
 ufcumvk.sotreq.net
@@ -104835,7 +104853,6 @@ www211.org
 wwwamfirst.org
 wwwbayareafasttrak.org
 wwwdiabetes.org
-wwweecu.org
 wwwfreedompass.org
 wwwhondafcu.org
 wwwinova.org
