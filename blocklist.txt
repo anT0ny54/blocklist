@@ -6399,6 +6399,7 @@ adx.int.monitor.azure.com
 cds.int.monitor.azure.com
 livediagnostics.int.monitor.azure.com
 mist.int.monitor.azure.com
+js.monitor.azure.com
 live.monitor.azure.com
 metrics.monitor.azure.com
 management.ppe.monitor.azure.com
