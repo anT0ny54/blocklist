@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 337798
+# Ignored duplicates: 337799
 
 pixel.ad
 roq.ad
@@ -110210,7 +110210,6 @@ gym-shark-sverige.com.se
 www.gymshark-sweden.com.se
 loewe.com.se
 longchampstockholm.com.se
-marmotsverige.com.se
 palmangelssverige.com.se
 serenitycandles.com.se
 www.vejaskor.com.se
