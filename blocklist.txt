@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 337799
+# Ignored duplicates: 337800
 
 pixel.ad
 roq.ad
@@ -6135,9 +6135,6 @@ austiran.com
 dwh-tracking.it.auth0.com
 ocean2.authcaptcha.com
 rock2.authcaptcha.com
-sass2.authcaptcha.com
-sea2.authcaptcha.com
-stone2.authcaptcha.com
 auto---insurance---quotes.com
 autoescolabrasiliense.com
 autofrr.com
@@ -7300,7 +7297,7 @@ audience.api.brightcove.com
 metrics.brightcove.com
 brightedge.com
 brightfunnel.com
-app.brightinfo.com
+brightinfo.com
 brightmountainmedia.com
 brigitteassistentes.com
 cdndata-tealeaf-us-1.brilliantcollector.com
@@ -19005,7 +19002,6 @@ landingtree.com
 landrovermalaysia.com
 activate.lanebryant.com
 langhort.com
-lanistaads.com
 largebrass.com
 larivieredemeraude.com
 lasaoren.com
@@ -56130,7 +56126,6 @@ pxl.host
 tbe.host
 ctnetwork.hu
 ads.deltha.hu
-ads.gaypoint.hu
 sher.index.hu
 keymedia.hu
 audit.median.hu
@@ -102925,7 +102920,6 @@ bbcos.org
 bcbcal.org
 beanstock.org
 www.bedpunjab.org
-api.miner.beeppool.org
 beeurl.org
 behive.org
 backup.bensonfire.org
@@ -113636,7 +113630,6 @@ lightstep.medium.systems
 armis.tech
 coinbasepro.tech
 sommelier.futurehybrid.tech
-volvelle.tech
 ads5.matichon.co.th
 truehits1.gits.net.th
 truehits2.gits.net.th
@@ -113931,7 +113924,6 @@ premiumstats.xyz
 quatrefeuillepolonaise.xyz
 sbird.xyz
 server-status.xyz
-trk.us-learn-teacher-poetry.xyz
 cdn.vip-hd-movies.xyz
 adsrv.iol.co.za
 itomedia.co.za
