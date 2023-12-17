@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 337800
+# Ignored duplicates: 337799
 
 pixel.ad
 roq.ad
@@ -110393,6 +110393,7 @@ tracking.tranastidning.se
 annons.turist.se
 tagging-service.tv4.se
 tagging-service.tv4play.se
+analytics.undeco.se
 ads.varldenidag.se
 tracking.etidning.vastgotabladet.se
 tracking.vastgotabladet.se
