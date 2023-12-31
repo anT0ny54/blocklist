@@ -84724,6 +84724,7 @@ ads2.webdrive.no
 network.ad.nu
 stats.agrar.nu
 mega.folkbladet.nu
+tracking.klt.nu
 ads.nyatider.nu
 extern.prisjakt.nu
 tracking.etidning.st.nu
@@ -88140,6 +88141,7 @@ tracking.etidning.arbetarbladet.se
 tracking.arbetarbladet.se
 tracking.bandypuls.se
 resor-external.barnsemester.se
+tracking.barometern.se
 tracking.etidning.bblat.se
 tracking.bblat.se
 bettingstugan.se
@@ -88148,12 +88150,14 @@ newstats.blogg.se
 stats.blogg.se
 statistik.blogg1.se
 blogtoplist.se
+tracking.blt.se
 tapet.bonniernews.se
 brandy.bonniernewslifestyle.se
 fusion.bonniertidskrifter.se
 tracking.etidning.borlangetidning.se
 tracking.borlangetidning.se
 collect.breakit.se
+tracking.bt.se
 tracking.byggindustrin.se
 analytics.ci-360.se
 analytics.ciseway.se
@@ -88247,7 +88251,9 @@ openx.jaktsidan.se
 tracking.jnytt.se
 tracking.etidning.jp.se
 tracking.jp.se
+tracking.kalmarposten.se
 analytics.kb.se
+tracking.kristianstadsbladet.se
 www.kundvisaren.se
 kyrkoskatten.se
 kyrkskatt.se
@@ -88264,6 +88270,7 @@ tracking.ltz.se
 matomo.lulea.se
 tracking.market.se
 mediakraft.se
+tracking.meraosterlen.se
 metapic.se
 mindreskatt.se
 stat.modette.se
@@ -88278,6 +88285,7 @@ ads.nordichardware.se
 ads.nordreportern.se
 tracking.etidning.norrteljetidning.se
 tracking.norrteljetidning.se
+tracking.nsk.se
 tracking.omniture.nt.se
 tracking.etidning.nvp.se
 tracking.nvp.se
@@ -88287,6 +88295,7 @@ stat.nyheter24.se
 revive.nyheteridag.se
 tracking.etidning.nynashamnsposten.se
 tracking.nynashamnsposten.se
+tracking.olandsbladet.se
 tracking.etidning.op.se
 tracking.op.se
 tracker.kollega.open-analytics.se
@@ -88325,6 +88334,7 @@ tracking.etidning.smalanningen.se
 tracking.smalanningen.se
 analytics.smhi.se
 analytics-smhise.smhi.se
+tracking.smp.se
 tracking.etidning.smt.se
 tracking.smt.se
 adserver.so-rummet.se
@@ -88341,6 +88351,7 @@ d.suntcontent.se
 statistik.svenskaakademien.se
 annons.svenskjakt.se
 analytics.svt.se
+tracking.sydostran.se
 tracking.etidning.sydsvenskan.se
 tracking.sydsvenskan.se
 tailsweep.se
@@ -88354,13 +88365,16 @@ stat.torgen.se
 tourn.se
 tracking.etidning.tranastidning.se
 tracking.tranastidning.se
+tracking.trelleborgsallehanda.se
 annons.turist.se
 tagging-service.tv4.se
 tagging-service.tv4play.se
 analytics.undeco.se
+tracking.ut.se
 ads.varldenidag.se
 tracking.etidning.vastgotabladet.se
 tracking.vastgotabladet.se
+tracking.vaxjobladet.se
 tracking.etidning.vetlandaposten.se
 tracking.vetlandaposten.se
 viagogo.se
@@ -88370,6 +88384,8 @@ tracking.etidning.vlt.se
 tracking.vlt.se
 tracking.etidning.vn.se
 tracking.vn.se
+tracking.vxonews.se
+tracking.ystadsallehanda.se
 www.amp.services
 heatmap.services
 marketingautomation.services
