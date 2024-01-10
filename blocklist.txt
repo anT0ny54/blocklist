@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358669
+# Ignored duplicates: 358670
 
 pixel.ad
 roq.ad
@@ -42848,6 +42848,7 @@ matomo.chsc.dk
 cncpt.dk
 ads.edbindex.dk
 ia.ekstrabladet.dk
+ad1.emediate.dk
 ad2.emediate.dk
 ad3.emediate.dk
 ad4.emediate.dk
