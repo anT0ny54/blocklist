@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358670
+# Ignored duplicates: 358668
 
 pixel.ad
 roq.ad
@@ -4417,7 +4417,6 @@ ww17.alsader.com
 ww3.alsader.com
 www.alsader.com
 alsmotorhomes.com
-ads.alt.com
 altitude-arena.com
 aluxurycars.com
 alxgtyqhio.com
@@ -4852,7 +4851,6 @@ ambra.com
 ambroseshoemaker.com
 mms.amc.com
 amdgt.com
-ads.amdmb.com
 amefly.com
 ameraicanidol.com
 amerenuemissouri.com
@@ -4886,7 +4884,6 @@ ns3.amgdgt.com
 ns4.amgdgt.com
 amicalis.com
 amidaz.com
-ads.amigos.com
 banners.amigos.com
 ww1.amiibox.com
 ww38.amiibox.com
@@ -5310,7 +5307,6 @@ asdasdd.com
 asewlfjqwlflkew.com
 ashcdn.com
 ashleyfurnituehomestore.com
-ads.asiafriendfinder.com
 banners.asiafriendfinder.com
 asianamateurclips.com
 asianmedia.com
@@ -5365,7 +5361,6 @@ ww38.aslitv.com
 ww6.aslitv.com
 www.aslitv.com
 www2.aslitv.com
-ads.aspalliance.com
 pixel.aspirei.com
 asrcajsuql.com
 assoc-amazon.com
@@ -6345,10 +6340,8 @@ bigassblonde.com
 bigbangmedia.com
 bigbazarprofitclub.com
 bigcartal.com
-ads.bigchurch.com
 bigclicks.com
 bigdogdot.com
-ads.bigfoot.com
 biggishgames.com
 biggsfashionsny.com
 logger-load-balancer.bigmarker.com
@@ -6505,7 +6498,6 @@ bluekai.com
 bluelightcard.com
 bluelithium.com
 bluemedicare.com
-ads.bluemountain.com
 bluepistons.com
 blueshielsca.com
 blueskydownload.com
@@ -37630,7 +37622,6 @@ ti-brend.com
 tiantianpokemon.com
 ticketaunt.com
 click.mailing.ticketmaster.com
-ads.as4x.tmcs.ticketmaster.com
 ticklesign.com
 ticksel.com
 tracking.tidalhifi.com
@@ -61384,7 +61375,6 @@ australianmuseum.net
 autofficinamonzese.net
 autotaxcredit.net
 autthorize.net
-ads.avazu.net
 avazutracking.net
 adncdnend.azureedge.net
 connext-cdn.ec.azureedge.net
@@ -85305,7 +85295,6 @@ timecommerce.net
 tia.timeinc.net
 tinh1gio.net
 ads.tmcs.net
-ads.as4x.tmcs.net
 rekl.tns-cs.net
 ssl-rekl.tns-cs.net
 todaytvseries.net
