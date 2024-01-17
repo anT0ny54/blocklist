@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358659
+# Ignored duplicates: 358646
 
 pixel.ad
 roq.ad
@@ -127,7 +127,6 @@ activate.aami.com.au
 ads.fairfax.com.au
 activate.gio.com.au
 marokeconstruction.com.au
-adserver.news.com.au
 ncg.tags.news.com.au
 ads.optusnet.com.au
 pulse.synergy.net.au
@@ -1945,7 +1944,6 @@ adherants.com
 adhese.com
 adhood.com
 adiant.com
-adserver.adigitalrepublic.com
 adikteev.com
 adiltwork.com
 adimore.com
@@ -4223,7 +4221,6 @@ ajasin.com
 ajfmiqxugc.com
 ak0gsh40.com
 akademifantasia9.com
-adserver.akamanda.com
 analytics.akaunting.com
 akbaralami.com
 akinato.com
@@ -5194,7 +5191,6 @@ aprenderingles-sila.com
 apsalar.com
 tr.apsisforms.com
 apsislead.com
-adserver.aptdynamics.com
 apture.com
 dl1.api.apusapps.com
 dl2.api.apusapps.com
@@ -6226,7 +6222,6 @@ ww41.bestbuysstore.com
 www.bestbuysstore.com
 bestclasslanguage.com
 bestcoinsignals.com
-adserver.bestcontentonline.com
 bicat.bestcontentonline.com
 bis.bestcontentonline.com
 bis-ssl.bestcontentonline.com
@@ -14926,7 +14921,6 @@ frgoogle.com
 fribux.com
 frickcreditunion.com
 friendbuy.com
-adserver.friendfinder.com
 banners.friendfinder.com
 openads.friendfinder.com
 friendster-tweekers.com
@@ -16412,7 +16406,6 @@ good--impact.com
 goodeyeonline.com
 goodgamestudis.com
 telemetry.goodlifefitness.com
-adserver.goodnuze.com
 goodousekeeping.com
 goodwaygroup.com
 goodyeardealer.com
@@ -16952,8 +16945,6 @@ tracking-impressions.herokuapp.com
 upcart.herokuapp.com
 upsell-now.herokuapp.com
 wpcdn1.herokuapp.com
-adserver.allinviews.com.herokudns.com
-adserver.beeviewd.com.herokudns.com
 classtag.com.herokudns.com
 optimizely.com.herokudns.com
 usefomo.com.herokudns.com
@@ -17949,7 +17940,6 @@ rtb-al-eu.jampp.com
 rtb-aod.jampp.com
 rtb-lb-us2.jampp.com
 static.jampp.com
-adserver.janes.com
 janetscafealpine.com
 jangoradio.com
 cdn-social.janrain.com
@@ -23371,7 +23361,6 @@ click.nvgaming.nvidia.com
 nxstrib.com
 nxtck.com
 nxtoolbox.com
-adserver.nydailynews.com
 nyhat.com
 a-reporting.nytimes.com
 ads.nytimes.com
@@ -23389,7 +23378,6 @@ obscenesidewalk.com
 observantice.com
 oclasrv.com
 ads.oddschecker.com
-adserver.oddschecker.com
 odeswk.com
 odewsk.com
 off--white.com
@@ -28499,7 +28487,6 @@ palettone.com
 palmbay-hotel.com
 play.pampopholf.com
 s3.pampopholf.com
-adserver.panaceapublishing.com
 panadvert.com
 pancreaticcancer101.com
 pandemicreferenceguides.com
@@ -35852,7 +35839,6 @@ vps.spectroniq.com
 www.spectroniq.com
 zimbra.spectroniq.com
 zmail.spectroniq.com
-ads10.speedbit.com
 speedcurve.com
 speedomizer.com
 speedosnextdoor.com
@@ -36129,10 +36115,6 @@ static.startappservice.com
 trackdownload.startappservice.com
 vastevent.startappservice.com
 video.startappservice.com
-adsatt.abc.starwave.com
-adsatt.abcnews.starwave.com
-adsatt.espn.starwave.com
-adsatt.go.starwave.com
 analytics.starz.com
 stat24.com
 a001.statcounter.com
@@ -39677,7 +39659,6 @@ tagman.virgin-atlantic.com
 virginatalntic.com
 virginatlantc.com
 tagman.virginatlantic.com
-adserver.virginmedia.com
 virginmediativo.com
 virginmovil.com
 virgionmobile.com
@@ -39685,11 +39666,6 @@ www.virgnatlantic.com
 banners.virtuagirlhd.com
 cbanners.virtuagirlhd.com
 ad.virtual-nights.com
-ads1.virtual-nights.com
-ads2.virtual-nights.com
-ads3.virtual-nights.com
-ads4.virtual-nights.com
-ads5.virtual-nights.com
 virtualvincent.com
 ads.virtuopolitan.com
 www.visafoservices.com
@@ -42491,7 +42467,6 @@ bannerads.de
 1.belboon.de
 www1.belboon.de
 bestsrv.de
-adserver.betandwin.de
 www.bioverlag-online.de
 blogcounter.de
 miranda.bounced.de
@@ -42693,8 +42668,6 @@ mediascale.de
 megacash.de
 megawerbung.de
 matomo.meinberg.de
-adserver1.mindshare.de
-adserver2.mindshare.de
 banner.mindshare.de
 mlm.de
 creative.mlsat02.de
@@ -42749,8 +42722,6 @@ tagm.tchibo.de
 tfag.de
 banner.titan-dsl.de
 top-casting-termine.de
-ads2004.treiberupdate.de
-adserver.trojaner-info.de
 trustaproiam.de
 trusteverything.de
 www.vareangold.de
@@ -42876,7 +42847,6 @@ eas.almamedia.fi
 analysis.fi
 sanoma.fi
 adimages.sanomawsoy.fi
-adserver.sanomawsoy.fi
 simpli.fi
 revive.tv7.fi
 analytics-sdk.yle.fi
@@ -81129,7 +81099,7 @@ www.fwmrm.net
 www-east.fwmrm.net
 www-vip.fwmrm.net
 fxstyle.net
-adserver.game-focus.net
+www.adserver.game-focus.net
 game2girl.net
 gamebongda.net
 ads.gamecity.net
@@ -82664,7 +82634,6 @@ polopoloonline.net
 popads.net
 popcash.net
 porn-factory.net
-adserver.portugalmail.net
 ww16.potinga.net
 www.potinga.net
 primetime.net
@@ -85223,7 +85192,6 @@ testyourproject.net
 thailandating.net
 thailandfactory.net
 thehuhn.net
-adserver.theonering.net
 therapsevices.net
 thestarofbethlehem.net
 thriftyfloridamama.net
@@ -92741,7 +92709,6 @@ swa.metro.co.uk
 stats.mirrorfootball.co.uk
 openx.mondiale.co.uk
 moneyexpert.co.uk
-ads2.net-communities.co.uk
 ophan.co.uk
 www.photo-ads.co.uk
 prestigerefurbishments.co.uk
