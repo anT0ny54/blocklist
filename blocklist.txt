@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358690
+# Ignored duplicates: 358691
 
 pixel.ad
 roq.ad
@@ -29688,6 +29688,7 @@ theanimeutopia.quroa.com
 www.quroa.com
 qwapi.com
 qwilr.com
+cdn.qwtag.com
 cdn.r-adimg.com
 cdn-stg.r-adimg.com
 r2beat.com
@@ -61021,6 +61022,7 @@ b2badvantage.net
 stats.bahnhof.net
 bandwidthx.net
 bannerconnect.net
+c.bannerflow.net
 bannersolution.net
 bannertrack.net
 baots.net
@@ -85339,6 +85341,7 @@ advert.vg.no
 advertisement.vg.no
 click.vgnett.no
 ads2.webdrive.no
+rum-reporter-prod.exp.bn.nr
 network.ad.nu
 stats.agrar.nu
 mega.folkbladet.nu
@@ -89162,6 +89165,7 @@ tagging-service.tv4.se
 tagging-service.tv4play.se
 analytics.undeco.se
 tracking.ut.se
+analytics.vackertvader.se
 ads.varldenidag.se
 tracking.etidning.vastgotabladet.se
 tracking.vastgotabladet.se
