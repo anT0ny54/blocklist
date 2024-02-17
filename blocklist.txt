@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358691
+# Ignored duplicates: 358692
 
 pixel.ad
 roq.ad
@@ -14712,7 +14712,6 @@ track.freemmo2017.com
 ww16.freemotorinsurancequote.com
 freemspacman.com
 matomo.freeones.com
-freeonlineusers.com
 srepdata.freep.com
 ww1.freepatternsdonnascrochetdesign.com
 ww16.freepatternsdonnascrochetdesign.com
@@ -17915,6 +17914,7 @@ s3-us-west-2.jsrdn.com
 tv.jsrdn.com
 v.jsrdn.com
 juamv.com
+jubilantglimmer.com
 barracuda.judaicaworldwide.com
 email.judaicaworldwide.com
 mail.judaicaworldwide.com
@@ -29700,7 +29700,6 @@ www.rachelraydaytimeshow.com
 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 2241ebfaa3552d8f3cc7-097177e23ef6af91de146dbe8baea183.ssl.cf2.rackcdn.com
 7c89c6d9373fce92e3d7-f9125777349c6cb7748299aa773c2449.ssl.cf2.rackcdn.com
-radarurl.com
 ads.radialserver.com
 radiate.com
 radiateprose.com
@@ -37582,6 +37581,7 @@ tranaero.com
 traneline.com
 tranformise.com
 tranquilcanyon.com
+tranquilplume.com
 tranquilside.com
 transaction-id.com
 transitodemedellin.com
