@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358438
+# Ignored duplicates: 358437
 
 pixel.ad
 roq.ad
@@ -88906,7 +88906,6 @@ tns-counter.ru
 st.top100.ru
 ttarget.ru
 a.ucoz.ru
-vceilinichego.ru
 volgatermolazer.ru
 warlog.ru
 yadro.ru
@@ -92572,6 +92571,9 @@ sommelier.futurehybrid.tech
 ads5.matichon.co.th
 truehits1.gits.net.th
 truehits2.gits.net.th
+aeros01.tk
+axoncoho.tk
+hhb123.tk
 acbp0020171456.page.tl
 cpx.to
 p.estream.to
