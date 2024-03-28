@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358437
+# Ignored duplicates: 358434
 
 pixel.ad
 roq.ad
@@ -3122,7 +3122,7 @@ adserver.adswizz.com
 adsradios.adswizz.com
 deliveryengine.ahqadl.adswizz.com
 deliveryengine.akilacms.adswizz.com
-alpha.adswizz.com
+audioserve.alpha.adswizz.com
 amnet.adswizz.com
 ams.adswizz.com
 analytics.adswizz.com
@@ -20148,7 +20148,6 @@ www.megauploaud.com
 mehabus.com
 meijiers.com
 www.meiratboutique.com
-communications.melitaltd.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -92741,7 +92740,6 @@ stats.mirrorfootball.co.uk
 openx.mondiale.co.uk
 moneyexpert.co.uk
 ophan.co.uk
-www.photo-ads.co.uk
 prestigerefurbishments.co.uk
 click.comm.rcibank.co.uk
 nir.regmedia.co.uk
