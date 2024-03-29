@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358434
+# Ignored duplicates: 358436
 
 pixel.ad
 roq.ad
@@ -20148,6 +20148,7 @@ www.megauploaud.com
 mehabus.com
 meijiers.com
 www.meiratboutique.com
+communications.melitaltd.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -28738,7 +28739,6 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
-ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -92740,6 +92740,7 @@ stats.mirrorfootball.co.uk
 openx.mondiale.co.uk
 moneyexpert.co.uk
 ophan.co.uk
+www.photo-ads.co.uk
 prestigerefurbishments.co.uk
 click.comm.rcibank.co.uk
 nir.regmedia.co.uk
