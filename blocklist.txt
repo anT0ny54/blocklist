@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358635
+# Ignored duplicates: 358633
 
 pixel.ad
 roq.ad
@@ -34257,7 +34257,6 @@ senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
-ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -36775,7 +36774,6 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
-ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -41944,7 +41942,6 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
-window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -52980,6 +52977,7 @@ tracdelight.io
 tribl.io
 trugaze.io
 turbolion.io
+ad.vidverto.io
 addelivery-engine-api.voodoo-ads.io
 airflow.voodoo-ads.io
 campaign-assets.voodoo-ads.io
@@ -92444,6 +92442,7 @@ free-counter.co.uk
 future-fie-assets.co.uk
 widgets.future-fie.co.uk
 future-price.co.uk
+t.gatorleads.co.uk
 adservice.google.co.uk
 grapeshot.co.uk
 adimage.guardian.co.uk
