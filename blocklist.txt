@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358633
+# Ignored duplicates: 358635
 
 pixel.ad
 roq.ad
@@ -7479,7 +7479,6 @@ www.cloudflane.com
 metrics.cloudflarebolt.com
 cloudflareinsights.com
 mediavine-res.cloudinary.com
-cloudiq.com
 clpis4sale.com
 clrstm.com
 clubcarslon.com
@@ -28004,7 +28003,6 @@ packagetrak.com
 www.packersmoversmohali.com
 packtrackplus.com
 analytics.paddle.com
-paddleangle.com
 padsbrown.com
 ah.padssup.com
 ak.padssup.com
@@ -33919,7 +33917,6 @@ scr2prmmic.com
 scraptu.com
 scratch2cash.com
 screechingfurniture.com
-screechingslip.com
 screechingstocking.com
 screechingstove.com
 statsapi.screen9.com
@@ -34257,6 +34254,7 @@ senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
+ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -34379,7 +34377,6 @@ shakeelabiz.com
 shakegoldfish.com
 shakesuggestion.com
 shakytaste.com
-shareadspace.com
 20partner.shareaholic.com
 29.shareaholic.com
 2fanalytics.shareaholic.com
@@ -36774,6 +36771,7 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
+ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -41942,6 +41940,7 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
+window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -88497,6 +88496,7 @@ stage-1.trredir.pro
 stage-2.trredir.pro
 withdromnit.pro
 ads.shasha.ps
+ad.dnoticias.pt
 adimgs.sapo.pt
 hybrid-advancelocal.perso.aws.arc.pub
 targeting.perso.aws.arc.pub
