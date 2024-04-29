@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358634
+# Ignored duplicates: 358635
 
 pixel.ad
 roq.ad
@@ -5369,10 +5369,7 @@ ausgovindia.com
 ausieman.com
 austiran.com
 dwh-tracking.it.auth0.com
-rock2.authcaptcha.com
-sass2.authcaptcha.com
-sea2.authcaptcha.com
-stone2.authcaptcha.com
+ocean2.authcaptcha.com
 auto---insurance---quotes.com
 autoescolabrasiliense.com
 autofrr.com
@@ -19088,6 +19085,7 @@ mapsvoyage.com
 maracaj.com
 marbledistributor.com
 adfeed.marchex.com
+ppc.adhere.marchex.com
 call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
@@ -36755,6 +36753,7 @@ teamobie.com
 teamviewerdownload.com
 teatrodelosentidos.com
 tebenefits.com
+tics.techdirt.com
 p11.techlab-cdn.com
 technicalfacilitation.com
 technicplatform.com
