@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358635
+# Ignored duplicates: 358634
 
 pixel.ad
 roq.ad
@@ -5370,6 +5370,10 @@ ausieman.com
 austiran.com
 dwh-tracking.it.auth0.com
 ocean2.authcaptcha.com
+rock2.authcaptcha.com
+sass2.authcaptcha.com
+sea2.authcaptcha.com
+stone2.authcaptcha.com
 auto---insurance---quotes.com
 autoescolabrasiliense.com
 autofrr.com
