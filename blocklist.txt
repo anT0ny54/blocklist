@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358043
+# Ignored duplicates: 358041
 
 pixel.ad
 roq.ad
@@ -3723,6 +3723,7 @@ adultadvertising.com
 newt1.adultadworld.com
 www.adultentertainmentsites.com
 adultere.com
+ads.adultfriendfinder.com
 adserver.adultfriendfinder.com
 banners.adultfriendfinder.com
 geobanner.adultfriendfinder.com
@@ -6293,7 +6294,6 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
-ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -8955,7 +8955,6 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
-ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -29039,6 +29038,7 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
+ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -88960,6 +88960,7 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
+cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
