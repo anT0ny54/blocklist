@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358041
+# Ignored duplicates: 358042
 
 pixel.ad
 roq.ad
@@ -3723,7 +3723,6 @@ adultadvertising.com
 newt1.adultadworld.com
 www.adultentertainmentsites.com
 adultere.com
-ads.adultfriendfinder.com
 adserver.adultfriendfinder.com
 banners.adultfriendfinder.com
 geobanner.adultfriendfinder.com
@@ -6294,6 +6293,7 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
+ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -8955,6 +8955,7 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
+ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -14267,6 +14268,7 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
+banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -19114,7 +19116,6 @@ logsss.com
 logua.com
 lojafemmefatale.com
 lokaplatform.com
-nimwss-us-shark.lolopool.com
 longborntube.com
 longhairyo.com
 longinglettuce.com
@@ -29178,7 +29179,6 @@ privy.com
 privymktg.com
 prmtracking.com
 proalliance.com
-naj22.proasdf.com
 probablepartner.com
 procareusa.com
 processplantation.com
@@ -40180,7 +40180,6 @@ wellsfargodealerseevices.com
 wellsfargodealerservicrs.com
 wellsfargofiance.com
 wellsfsrgobank.com
-welved.com
 ww1.wendelford.com
 ww25.wendelford.com
 ww38.wendelford.com
@@ -92884,7 +92883,6 @@ analytics.xcal.tv
 analytics.eu-1.xcal.tv
 metricscollector.lp.xcal.tv
 breaktime.com.tw
-ox1.shopcool.com.tw
 tagtoo.com.tw
 opinion.com.ua
 hit.ua
