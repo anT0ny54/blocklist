@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358041
+# Ignored duplicates: 358043
 
 pixel.ad
 roq.ad
@@ -100,6 +100,7 @@ partner.permutive.app
 sdk-test-service.permutive.app
 cdn.routy.app
 system-notify.app
+unidentifiedanalytics.web.app
 track.yetric.app
 bannerlandia.com.ar
 smrt.as
@@ -5161,6 +5162,7 @@ aprenderingles-sila.com
 apsalar.com
 tr.apsisforms.com
 apsislead.com
+aptabase.com
 apture.com
 dl1.api.apusapps.com
 dl2.api.apusapps.com
@@ -6294,7 +6296,6 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
-ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -14269,7 +14270,6 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
-banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -17715,7 +17715,6 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
-ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -19117,6 +19116,7 @@ logsss.com
 logua.com
 lojafemmefatale.com
 lokaplatform.com
+nimwss-us-shark.lolopool.com
 longborntube.com
 longhairyo.com
 longinglettuce.com
@@ -34513,7 +34513,6 @@ senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
-ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -88959,7 +88958,6 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
-cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
