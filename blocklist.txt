@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358042
+# Ignored duplicates: 358041
 
 pixel.ad
 roq.ad
@@ -3724,7 +3724,6 @@ adultadvertising.com
 newt1.adultadworld.com
 www.adultentertainmentsites.com
 adultere.com
-ads.adultfriendfinder.com
 adserver.adultfriendfinder.com
 banners.adultfriendfinder.com
 geobanner.adultfriendfinder.com
@@ -6296,6 +6295,7 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
+ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -14528,7 +14528,6 @@ farmergoldfish.com
 farskids340.com
 fascinatedfeather.com
 fashionbrandsdiscounts.com
-fast-redirecting.com
 fastclick.com
 fastestyoutubedownloader.com
 fastflashupdates.com
@@ -16066,6 +16065,8 @@ s.getsmartcontent.com
 www.getsmartcontent.com
 www.gettingurl.com
 getwetvidoes.com
+metrics.gfycat.com
+px.gfycat.com
 ghananations.com
 mail.ghmproperties.com
 giagoc.com
@@ -29040,7 +29041,6 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
-ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -34513,7 +34513,6 @@ senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
-ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -42598,7 +42597,6 @@ tagm.tchibo.dk
 telemetric.dk
 banner10.zetasystem.dk
 alpha.me2.do
-www.jquery-cdn.download
 bnrs.ilm.ee
 adservice.google.com.eg
 gml.email
@@ -60910,7 +60908,6 @@ prebid.appnexusgslb.net
 approvedtraffic.net
 aralego.net
 arsdev.net
-artisany.net
 ashleydaniels.net
 media.aso1.net
 aswanicalicut.net
@@ -88960,6 +88957,7 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
+cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
@@ -92960,7 +92958,6 @@ sift.co.uk
 specificmedia.co.uk
 nir.theregister.co.uk
 attribution.theworks.co.uk
-tntclix.co.uk
 valuedopinions.co.uk
 em1.yoursantander.co.uk
 zencudo.co.uk
