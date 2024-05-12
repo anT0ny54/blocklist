@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358041
+# Ignored duplicates: 358042
 
 pixel.ad
 roq.ad
@@ -6295,7 +6295,6 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
-ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -8957,7 +8956,6 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
-ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -19379,7 +19377,6 @@ mapsvoyage.com
 maracaj.com
 marbledistributor.com
 adfeed.marchex.com
-ppc.adhere.marchex.com
 call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
@@ -29041,6 +29038,7 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
+ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -34513,6 +34511,7 @@ senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
+ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -37055,7 +37054,6 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
-ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -42235,7 +42233,6 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
-window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -42597,6 +42594,7 @@ tagm.tchibo.dk
 telemetric.dk
 banner10.zetasystem.dk
 alpha.me2.do
+www.jquery-cdn.download
 bnrs.ilm.ee
 adservice.google.com.eg
 gml.email
@@ -45417,7 +45415,6 @@ ww2.ner-de-mi-nis-6.info
 ww25.ner-de-mi-nis-6.info
 ww38.ner-de-mi-nis-6.info
 ww84.ner-de-mi-nis-6.info
-www.ner-de-mi-nis-6.info
 www42.ner-de-mi-nis-6.info
 nervositaet.info
 neumedia.info
@@ -89002,8 +88999,6 @@ bmnr.pw
 bmst.pw
 fvl1f.pw
 h78xb.pw
-new.minr.pw
-test.minr.pw
 tdzvm.pw
 zlp6s.pw
 www.hostingcloud.racing
