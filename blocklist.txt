@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358042
+# Ignored duplicates: 358041
 
 pixel.ad
 roq.ad
@@ -3724,6 +3724,7 @@ adultadvertising.com
 newt1.adultadworld.com
 www.adultentertainmentsites.com
 adultere.com
+ads.adultfriendfinder.com
 adserver.adultfriendfinder.com
 banners.adultfriendfinder.com
 geobanner.adultfriendfinder.com
@@ -6295,6 +6296,7 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
+ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -8956,6 +8958,7 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
+ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -17713,7 +17716,6 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
-ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -19377,7 +19379,7 @@ mapsvoyage.com
 maracaj.com
 marbledistributor.com
 adfeed.marchex.com
-call-ad-network-api.marchex.com
+ppc.adhere.marchex.com
 marfeelcache.com
 marinsm.com
 marisada.com
@@ -28523,8 +28525,6 @@ paleleaf.com
 palentyoffish.com
 palettone.com
 palmbay-hotel.com
-play.pampopholf.com
-s3.pampopholf.com
 panadvert.com
 pancreaticcancer101.com
 pandemicreferenceguides.com
@@ -37054,6 +37054,7 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
+ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -42233,6 +42234,7 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
+window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -45415,6 +45417,7 @@ ww2.ner-de-mi-nis-6.info
 ww25.ner-de-mi-nis-6.info
 ww38.ner-de-mi-nis-6.info
 ww84.ner-de-mi-nis-6.info
+www.ner-de-mi-nis-6.info
 www42.ner-de-mi-nis-6.info
 nervositaet.info
 neumedia.info
@@ -58883,7 +58886,6 @@ analytics.samdd.me
 pixel.shodan.me
 5ea0417f90194.site123.me
 systemlog.me
-contribute.to-support.me
 s.woet.me
 xedo.me
 xfin.me
@@ -88999,6 +89001,8 @@ bmnr.pw
 bmst.pw
 fvl1f.pw
 h78xb.pw
+new.minr.pw
+test.minr.pw
 tdzvm.pw
 zlp6s.pw
 www.hostingcloud.racing
