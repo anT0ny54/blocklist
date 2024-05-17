@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358041
+# Ignored duplicates: 358043
 
 pixel.ad
 roq.ad
@@ -6296,7 +6296,6 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
-ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -8958,7 +8957,6 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
-ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -14271,6 +14269,7 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
+banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -19118,6 +19117,7 @@ logsss.com
 logua.com
 lojafemmefatale.com
 lokaplatform.com
+nimwss-us-shark.lolopool.com
 longborntube.com
 longhairyo.com
 longinglettuce.com
@@ -42236,7 +42236,6 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
-window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -42528,7 +42527,6 @@ dn.planetapes.de
 ads.ppvmedien.de
 pr-star.de
 praddpro.de
-ad.profiwin.de
 cgicounter.puretec.de
 ads.quoka.de
 ranking-charts.de
@@ -85436,6 +85434,7 @@ conversive.nl
 ads.femmefab.nl
 ads2.femmefab.nl
 openx.financialpublishers.nl
+marketing.hearstmagazines.nl
 leadz01.isn.nl
 kliks.nl
 ads.tripod.lycos.nl
@@ -88958,6 +88957,7 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
+cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
