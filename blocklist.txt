@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358043
+# Ignored duplicates: 358041
 
 pixel.ad
 roq.ad
@@ -8957,6 +8957,7 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
+ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -14269,7 +14270,6 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
-banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -19117,7 +19117,6 @@ logsss.com
 logua.com
 lojafemmefatale.com
 lokaplatform.com
-nimwss-us-shark.lolopool.com
 longborntube.com
 longhairyo.com
 longinglettuce.com
@@ -29041,7 +29040,6 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
-ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -29236,7 +29234,6 @@ propellerclick.com
 prostate-pleasure-guide.com
 protagcdn.com
 protectcrev.com
-protectivemetrics.com
 metrics.protectmyid.com
 protectsubrev.com
 protesidenext.com
@@ -29708,7 +29705,6 @@ data.queryly.com
 related.queryly.com
 cm.quest.com
 questcommunications.com
-tls.telemetry.swe.quicinc.com
 quickflashupdater.com
 quickflashupdating.com
 quicknewsplus.com
@@ -34514,6 +34510,7 @@ senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
+ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -36223,7 +36220,6 @@ steamedcheeseburger.com
 steelhouse.com
 steelhousemedia.com
 steepscale.com
-stepplane.com
 stereamsex.com
 sterlingxxx.com
 stevepromo.com
@@ -37056,7 +37052,6 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
-ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -42236,6 +42231,7 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
+window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -42527,6 +42523,7 @@ dn.planetapes.de
 ads.ppvmedien.de
 pr-star.de
 praddpro.de
+ad.profiwin.de
 cgicounter.puretec.de
 ads.quoka.de
 ranking-charts.de
@@ -85434,7 +85431,6 @@ conversive.nl
 ads.femmefab.nl
 ads2.femmefab.nl
 openx.financialpublishers.nl
-marketing.hearstmagazines.nl
 leadz01.isn.nl
 kliks.nl
 ads.tripod.lycos.nl
