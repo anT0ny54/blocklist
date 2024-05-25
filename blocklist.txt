@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358040
+# Ignored duplicates: 358039
 
 pixel.ad
 roq.ad
@@ -6612,7 +6612,6 @@ btefair.com
 btinternernet.com
 btloader.com
 web.btncdn.com
-admanager.btopenworld.com
 log.btopenworld.com
 staticads.btopenworld.com
 rtas-s2s-22.btrll.com
@@ -16067,7 +16066,7 @@ s.getsmartcontent.com
 www.getsmartcontent.com
 www.gettingurl.com
 getwetvidoes.com
-px.gfycat.com
+metrics.gfycat.com
 ghananations.com
 mail.ghmproperties.com
 giagoc.com
@@ -23260,34 +23259,14 @@ ushadsp1wadc014.ad.nike.com
 analytics.nike.com
 trk.comms.nike.com
 insight.nikkasystems.com
-seed-1.nimiq-network.com
-seed-10.nimiq-network.com
-seed-11.nimiq-network.com
-seed-12.nimiq-network.com
 seed-13.nimiq-network.com
 seed-14.nimiq-network.com
 seed-15.nimiq-network.com
-seed-16.nimiq-network.com
-seed-17.nimiq-network.com
-seed-18.nimiq-network.com
-seed-19.nimiq-network.com
-seed-2.nimiq-network.com
-seed-20.nimiq-network.com
-seed-3.nimiq-network.com
 seed-4.nimiq-network.com
 seed-5.nimiq-network.com
 seed-6.nimiq-network.com
-seed-7.nimiq-network.com
-seed-8.nimiq-network.com
-seed-9.nimiq-network.com
 miner.nimiq.com
 seed-1.nimiq.com
-seed-10.nimiq.com
-seed-11.nimiq.com
-seed-12.nimiq.com
-seed-13.nimiq.com
-seed-14.nimiq.com
-seed-15.nimiq.com
 seed-16.nimiq.com
 seed-17.nimiq.com
 seed-18.nimiq.com
@@ -23295,12 +23274,6 @@ seed-19.nimiq.com
 seed-2.nimiq.com
 seed-20.nimiq.com
 seed-3.nimiq.com
-seed-4.nimiq.com
-seed-5.nimiq.com
-seed-6.nimiq.com
-seed-7.nimiq.com
-seed-8.nimiq.com
-seed-9.nimiq.com
 nimiqpool.com
 ninesmsn.com
 ninjakloack.com
@@ -29707,7 +29680,6 @@ data.queryly.com
 related.queryly.com
 cm.quest.com
 questcommunications.com
-tls.telemetry.swe.quicinc.com
 quickflashupdater.com
 quickflashupdating.com
 quicknewsplus.com
@@ -37053,7 +37025,6 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
-ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -85378,7 +85349,6 @@ proxy-can-1.inf.nimiq.network
 proxy-deu-1.inf.nimiq.network
 proxy-deu-2.inf.nimiq.network
 proxy-fra-3.inf.nimiq.network
-proxy-gbr-1.inf.nimiq.network
 proxy-pol-1.inf.nimiq.network
 proxy-pol-2.inf.nimiq.network
 seed-can-1.inf.nimiq.network
@@ -85389,29 +85359,13 @@ seed-deu-3.inf.nimiq.network
 seed-deu-4.inf.nimiq.network
 seed-fra-1.inf.nimiq.network
 seed-fra-3.inf.nimiq.network
-seed-gbr-1.inf.nimiq.network
-seed-gbr-2.inf.nimiq.network
 seed-pol-1.inf.nimiq.network
 seed-pol-2.inf.nimiq.network
 seed-pol-3.inf.nimiq.network
 seed-pol-4.inf.nimiq.network
-seed-1.nimiq.network
 seed-10.nimiq.network
 seed-11.nimiq.network
 seed-12.nimiq.network
-seed-13.nimiq.network
-seed-14.nimiq.network
-seed-15.nimiq.network
-seed-16.nimiq.network
-seed-17.nimiq.network
-seed-18.nimiq.network
-seed-19.nimiq.network
-seed-2.nimiq.network
-seed-20.nimiq.network
-seed-3.nimiq.network
-seed-4.nimiq.network
-seed-5.nimiq.network
-seed-6.nimiq.network
 seed-7.nimiq.network
 seed-8.nimiq.network
 seed-9.nimiq.network
