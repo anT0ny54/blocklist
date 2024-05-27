@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358040
+# Ignored duplicates: 358041
 
 pixel.ad
 roq.ad
@@ -951,6 +951,7 @@ zc2ab3054.webengage.co
 zc2ab3738.webengage.co
 webmining.co
 wordads.co
+t.x.co
 000webhostapp.com
 mail.0204sex.com
 mail01.0204sex.com
@@ -14270,6 +14271,7 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
+banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -17715,6 +17717,7 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
+ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -18621,6 +18624,7 @@ track.lexico.com
 lfeeder.com
 lfstmedia.com
 lgsmartad.com
+click.email.lhh.com
 b-code.liadm.com
 b-dcr-production.liadm.com
 b-staging-collector.liadm.com
@@ -19116,6 +19120,7 @@ logsss.com
 logua.com
 lojafemmefatale.com
 lokaplatform.com
+nimwss-us-shark.lolopool.com
 longborntube.com
 longhairyo.com
 longinglettuce.com
@@ -23257,14 +23262,34 @@ ushadsp1wadc014.ad.nike.com
 analytics.nike.com
 trk.comms.nike.com
 insight.nikkasystems.com
+seed-1.nimiq-network.com
+seed-10.nimiq-network.com
+seed-11.nimiq-network.com
+seed-12.nimiq-network.com
 seed-13.nimiq-network.com
 seed-14.nimiq-network.com
 seed-15.nimiq-network.com
+seed-16.nimiq-network.com
+seed-17.nimiq-network.com
+seed-18.nimiq-network.com
+seed-19.nimiq-network.com
+seed-2.nimiq-network.com
+seed-20.nimiq-network.com
+seed-3.nimiq-network.com
 seed-4.nimiq-network.com
 seed-5.nimiq-network.com
 seed-6.nimiq-network.com
+seed-7.nimiq-network.com
+seed-8.nimiq-network.com
+seed-9.nimiq-network.com
 miner.nimiq.com
 seed-1.nimiq.com
+seed-10.nimiq.com
+seed-11.nimiq.com
+seed-12.nimiq.com
+seed-13.nimiq.com
+seed-14.nimiq.com
+seed-15.nimiq.com
 seed-16.nimiq.com
 seed-17.nimiq.com
 seed-18.nimiq.com
@@ -23272,6 +23297,12 @@ seed-19.nimiq.com
 seed-2.nimiq.com
 seed-20.nimiq.com
 seed-3.nimiq.com
+seed-4.nimiq.com
+seed-5.nimiq.com
+seed-6.nimiq.com
+seed-7.nimiq.com
+seed-8.nimiq.com
+seed-9.nimiq.com
 nimiqpool.com
 ninesmsn.com
 ninjakloack.com
@@ -34484,6 +34515,7 @@ senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
+ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -37025,6 +37057,7 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
+ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -85349,6 +85382,7 @@ proxy-can-1.inf.nimiq.network
 proxy-deu-1.inf.nimiq.network
 proxy-deu-2.inf.nimiq.network
 proxy-fra-3.inf.nimiq.network
+proxy-gbr-1.inf.nimiq.network
 proxy-pol-1.inf.nimiq.network
 proxy-pol-2.inf.nimiq.network
 seed-can-1.inf.nimiq.network
@@ -85359,13 +85393,29 @@ seed-deu-3.inf.nimiq.network
 seed-deu-4.inf.nimiq.network
 seed-fra-1.inf.nimiq.network
 seed-fra-3.inf.nimiq.network
+seed-gbr-1.inf.nimiq.network
+seed-gbr-2.inf.nimiq.network
 seed-pol-1.inf.nimiq.network
 seed-pol-2.inf.nimiq.network
 seed-pol-3.inf.nimiq.network
 seed-pol-4.inf.nimiq.network
+seed-1.nimiq.network
 seed-10.nimiq.network
 seed-11.nimiq.network
 seed-12.nimiq.network
+seed-13.nimiq.network
+seed-14.nimiq.network
+seed-15.nimiq.network
+seed-16.nimiq.network
+seed-17.nimiq.network
+seed-18.nimiq.network
+seed-19.nimiq.network
+seed-2.nimiq.network
+seed-20.nimiq.network
+seed-3.nimiq.network
+seed-4.nimiq.network
+seed-5.nimiq.network
+seed-6.nimiq.network
 seed-7.nimiq.network
 seed-8.nimiq.network
 seed-9.nimiq.network
@@ -88909,7 +88959,6 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
-cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
