@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 358041
+# Ignored duplicates: 358042
 
 pixel.ad
 roq.ad
@@ -3725,6 +3725,7 @@ adultadvertising.com
 newt1.adultadworld.com
 www.adultentertainmentsites.com
 adultere.com
+ads.adultfriendfinder.com
 adserver.adultfriendfinder.com
 banners.adultfriendfinder.com
 geobanner.adultfriendfinder.com
@@ -6296,7 +6297,6 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
-ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -19118,7 +19118,6 @@ logsss.com
 logua.com
 lojafemmefatale.com
 lokaplatform.com
-nimwss-us-shark.lolopool.com
 longborntube.com
 longhairyo.com
 longinglettuce.com
@@ -19381,6 +19380,7 @@ maracaj.com
 marbledistributor.com
 adfeed.marchex.com
 ppc.adhere.marchex.com
+call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
 marisada.com
@@ -29041,7 +29041,6 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
-ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -36960,6 +36959,7 @@ tagdelivery.com
 taggingyourpals.com
 tagheur.com
 tagsrvcs.com
+tagtoo.com
 tailsweep.com
 d.tailtarget.com
 t.tailtarget.com
@@ -37054,6 +37054,7 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
+ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -81265,6 +81266,7 @@ larati.net
 www.lduhtrp.net
 wwww.lduhtrp.net
 leadboltads.net
+leadinfo.net
 custom-proxy.leadpages.net
 leakybasementrepair.net
 levelaccess.net
@@ -85460,6 +85462,7 @@ advert.vg.no
 advertisement.vg.no
 click.vgnett.no
 ads2.webdrive.no
+plausible.webfokus.no
 rum-reporter-prod.exp.bn.nr
 network.ad.nu
 stats.agrar.nu
@@ -88955,7 +88958,6 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
-cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
