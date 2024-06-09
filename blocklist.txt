@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 357447
+# Ignored duplicates: 357449
 
 pixel.ad
 roq.ad
@@ -6324,6 +6324,7 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
+ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -9028,7 +9029,6 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
-ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -15961,7 +15961,6 @@ www.getsmartcontent.com
 www.gettingurl.com
 getwetvidoes.com
 metrics.gfycat.com
-px.gfycat.com
 ghananations.com
 mail.ghmproperties.com
 giagoc.com
@@ -17547,6 +17546,7 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
+ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -20287,7 +20287,6 @@ www.megauploaud.com
 mehabus.com
 meijiers.com
 www.meiratboutique.com
-communications.melitaltd.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -29606,7 +29605,6 @@ data.queryly.com
 related.queryly.com
 cm.quest.com
 questcommunications.com
-tls.telemetry.swe.quicinc.com
 quickflashupdater.com
 quickflashupdating.com
 quicknewsplus.com
@@ -36979,6 +36977,7 @@ teamobie.com
 teamviewerdownload.com
 teatrodelosentidos.com
 tebenefits.com
+tics.techdirt.com
 p11.techlab-cdn.com
 technicalfacilitation.com
 technicplatform.com
@@ -36994,7 +36993,6 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
-ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -42256,7 +42254,6 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
-window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -81109,6 +81106,7 @@ gamebongda.net
 ads.gamecity.net
 ads2.gamecity.net
 ads3.gamecity.net
+ads4.gamecity.net
 ads6.gamecity.net
 ads7.gamecity.net
 gamesites100.net
@@ -89141,6 +89139,7 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
+cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
