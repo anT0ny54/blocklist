@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 357446
+# Ignored duplicates: 357449
 
 pixel.ad
 roq.ad
@@ -6324,6 +6324,7 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
+ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -17546,6 +17547,7 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
+ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -18944,7 +18946,6 @@ logsss.com
 logua.com
 lojafemmefatale.com
 lokaplatform.com
-nimwss-us-shark.lolopool.com
 longborntube.com
 longhairyo.com
 lookbookhq.com
@@ -19207,6 +19208,7 @@ mapsvoyage.com
 maracaj.com
 marbledistributor.com
 adfeed.marchex.com
+ppc.adhere.marchex.com
 call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
@@ -20286,7 +20288,6 @@ www.megauploaud.com
 mehabus.com
 meijiers.com
 www.meiratboutique.com
-communications.melitaltd.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -34438,6 +34439,7 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
+ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -34456,6 +34458,7 @@ serpentshampoo.com
 serranoimoveis.com
 serv0.com
 serv1swork.com
+servclick1move.com
 servebom.com
 p.servedat.com
 m.servedby-buysellads.com
@@ -36993,6 +36996,7 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
+ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
