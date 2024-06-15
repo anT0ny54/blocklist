@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 357445
+# Ignored duplicates: 357449
 
 pixel.ad
 roq.ad
@@ -6324,6 +6324,7 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
+ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -14084,7 +14085,6 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
-banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -17532,7 +17532,6 @@ instantcheckmate.com
 instantflashupdates.com
 instantmadness.com
 insticator.com
-instinctiveads.com
 insurads.com
 insurance---quotes.com
 insurance--quotes.com
@@ -17547,6 +17546,7 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
+ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -28948,7 +28948,6 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
-ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -34439,7 +34438,6 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
-ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -42258,6 +42256,7 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
+window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -42523,7 +42522,6 @@ mediascale.de
 megacash.de
 megawerbung.de
 matomo.meinberg.de
-banner.mindshare.de
 mlm.de
 creative.mlsat02.de
 tracking.mlsat02.de
@@ -46955,7 +46953,6 @@ webdisk.twentyone.info
 ww1.twentyone.info
 ww17.twentyone.info
 www.twentyone.info
-ads.twojatv.info
 twzoa.info
 mail.typolemag.info
 www.typolemag.info
