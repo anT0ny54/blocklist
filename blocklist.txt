@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 357449
+# Ignored duplicates: 357445
 
 pixel.ad
 roq.ad
@@ -6324,7 +6324,6 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
-ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -14085,6 +14084,7 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
+banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -17546,7 +17546,6 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
-ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -20287,7 +20286,6 @@ www.megauploaud.com
 mehabus.com
 meijiers.com
 www.meiratboutique.com
-communications.melitaltd.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -28948,6 +28946,7 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
+ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -36994,7 +36993,6 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
-ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -42256,7 +42254,6 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
-window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -46953,6 +46950,7 @@ webdisk.twentyone.info
 ww1.twentyone.info
 ww17.twentyone.info
 www.twentyone.info
+ads.twojatv.info
 twzoa.info
 mail.typolemag.info
 www.typolemag.info
