@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 357446
+# Ignored duplicates: 357447
 
 pixel.ad
 roq.ad
@@ -248,7 +248,6 @@ tms.parship.ch
 tagm.tchibo.ch
 ads.watson.ch
 adserver.bdoce.cl
-acid-adserver.click
 ashgrrwt.click
 3sstudioprivatelimited10241062.o18.click
 absolutedigimedia10140799.o18.click
@@ -6531,7 +6530,6 @@ brazercafe.com
 brazilmodelcast.com
 brazras.com
 braztech.com
-ads.brazzers.com
 ads2.brazzers.com
 tour.brazzers.com
 breadbalance.com
@@ -14400,7 +14398,6 @@ starman.fathomdns.com
 starman-new.fathomdns.com
 fatshackbbq.com
 faultycanvas.com
-ads.faxo.com
 fbcloud.com
 fbline.com
 februarylovestory.com
@@ -18945,7 +18942,6 @@ logsss.com
 logua.com
 lojafemmefatale.com
 lokaplatform.com
-nimwss-us-shark.lolopool.com
 longborntube.com
 longhairyo.com
 lookbookhq.com
@@ -28949,7 +28945,6 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
-ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -34524,7 +34519,6 @@ ww25.sexect.com
 ww35.sexect.com
 ww38.sexect.com
 ww5.sexect.com
-sexinyourcity.com
 sexlist.com
 sexonthestreets.com
 sexsat.com
@@ -36998,7 +36992,6 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
-ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -80639,7 +80632,6 @@ ww6.fickeria.net
 www.fickeria.net
 zimbra.fickeria.net
 fickparties.net
-fineoffer.net
 fishingclub.net
 flero.net
 flippty.net
@@ -81272,6 +81264,7 @@ imprev.net
 incontrolhobbies.net
 indiamateurs.net
 indyboxes.net
+r.edge.inmobicdn.net
 l-cs.inmobicdn.net
 l-dsp.inmobicdn.net
 l-new.inmobicdn.net
@@ -81815,9 +81808,7 @@ myonline-shop.net
 mypagerank.net
 powerbi.com.4test12.o365---bdl.btfrancedemo.myshn.net
 powerbi.com.rantec1.o365---lab.ransecurityshn2.myshn.net
-mystat-in.net
 mythmem.net
-mytop-in.net
 myvisualiq.net
 myxmovies.net
 devint.mzbcdn.net
@@ -82682,7 +82673,6 @@ railtouring.net
 dev.rallyad-server.net
 randyorton.net
 stats.rdphv.net
-readserver.net
 realvu.net
 bmrg.reflected.net
 glassmoni.researchgate.net
@@ -89146,6 +89136,7 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
+cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
@@ -89772,6 +89763,16 @@ backup.sh
 hits.sh
 megapu.sh
 nim.sh
+minero-proxy-01.now.sh
+minero-proxy-02.now.sh
+minero-proxy-03.now.sh
+mxcdn1.now.sh
+mxcdn2.now.sh
+npcdn1.now.sh
+party-vqgdyvoycc.now.sh
+sxcdn02.now.sh
+sxcdn4.now.sh
+sxcdn6.now.sh
 scarf.sh
 ana.whisper.sh
 ads.citymagazine.si
