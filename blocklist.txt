@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 356506
+# Ignored duplicates: 356503
 
 pixel.ad
 roq.ad
@@ -9193,7 +9193,6 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
-ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -16178,7 +16177,6 @@ www.getsmartcontent.com
 www.gettingurl.com
 getwetvidoes.com
 metrics.gfycat.com
-px.gfycat.com
 ghananations.com
 mail.ghmproperties.com
 giagoc.com
@@ -17185,6 +17183,7 @@ hondafinancialservcies.com
 hondagenset.com
 honeybakeforyou.com
 honeycombceramics.com
+honorablehall.com
 honorableland.com
 honybunny.com
 click.hookupinyourcity.com
@@ -18870,7 +18869,6 @@ www.listrakbi.com
 littlegirlsnude.com
 live-cric.com
 live-mocha.com
-analytics.live.com
 liveadexchanger.com
 liveintent.com
 creatives.livejasmin.com
@@ -19429,6 +19427,7 @@ maracaj.com
 marbledistributor.com
 adfeed.marchex.com
 ppc.adhere.marchex.com
+call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
 marisada.com
@@ -20508,6 +20507,7 @@ www.megauploaud.com
 mehabus.com
 meijiers.com
 www.meiratboutique.com
+communications.melitaltd.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -29304,7 +29304,6 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
-ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -42990,7 +42989,6 @@ www.tracking.mlsat03.de
 creative.mlsat04.de
 tracking.mlsat04.de
 www.mlsat04.de
-clicks.mods.de
 mr-rank.de
 adserver.mrnetworks.de
 ad.nachtagenten.de
@@ -43005,6 +43003,7 @@ cdn2.planetapes.de
 cdn3.planetapes.de
 dn.planetapes.de
 ads.ppvmedien.de
+pr-star.de
 praddpro.de
 ad.profiwin.de
 cgicounter.puretec.de
@@ -43021,6 +43020,7 @@ serviceimg.de
 servscrpt.de
 spezialreporte.de
 sponsorads.de
+sponsorpro.de
 stats.stb-ottow.de
 stroeer.de
 superclix.de
@@ -89636,6 +89636,7 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
+cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
