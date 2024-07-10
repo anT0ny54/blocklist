@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 356505
+# Ignored duplicates: 356506
 
 pixel.ad
 roq.ad
@@ -6359,6 +6359,7 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
+ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -14267,6 +14268,7 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
+banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -16175,6 +16177,7 @@ s.getsmartcontent.com
 www.getsmartcontent.com
 www.gettingurl.com
 getwetvidoes.com
+metrics.gfycat.com
 px.gfycat.com
 ghananations.com
 mail.ghmproperties.com
@@ -18490,6 +18493,7 @@ kmarta.com
 kmartfedback.com
 kmartfeedack.com
 kmatfeedback.com
+knitstamp.com
 knorex.com
 knottyswing.com
 kochava.com
@@ -19426,6 +19430,7 @@ mapsvoyage.com
 maracaj.com
 marbledistributor.com
 adfeed.marchex.com
+ppc.adhere.marchex.com
 call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
@@ -20506,6 +20511,7 @@ www.megauploaud.com
 mehabus.com
 meijiers.com
 www.meiratboutique.com
+communications.melitaltd.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -28764,6 +28770,8 @@ ww16.palentyoffish.com
 www.palentyoffish.com
 palettone.com
 palmbay-hotel.com
+play.pampopholf.com
+s3.pampopholf.com
 panadvert.com
 pancreaticcancer101.com
 pandemicreferenceguides.com
@@ -29300,6 +29308,7 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
+ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -29437,6 +29446,7 @@ track3.pricespider.com
 track4.pricespider.com
 wtbevents.pricespider.com
 priceypies.com
+pricklydebt.com
 priefy.com
 ads.printscr.com
 track.privacyatclearbit.com
@@ -40535,6 +40545,8 @@ waaqaui01.webtrends.com
 waaqaui02.webtrends.com
 www.webtrends.com
 webtrendslive.com
+report-1.appmetrica.webvisor.com
+report-2.appmetrica.webvisor.com
 webwiseforradio.com
 webxcdn.com
 webxmr.com
@@ -42997,6 +43009,7 @@ peep-auktion.de
 cdn2.planetapes.de
 cdn3.planetapes.de
 dn.planetapes.de
+ads.ppvmedien.de
 pr-star.de
 praddpro.de
 ad.profiwin.de
@@ -81688,7 +81701,6 @@ imprev.net
 incontrolhobbies.net
 indiamateurs.net
 indyboxes.net
-r.edge.inmobicdn.net
 l-cs.inmobicdn.net
 l-dsp.inmobicdn.net
 l-new.inmobicdn.net
@@ -85798,6 +85810,8 @@ beap1.cb.g01.yahoodns.net
 ir2-beap.cb.g01.yahoodns.net
 wc.yahoodns.net
 yamadashoukai.net
+report.appmetrica.yandex.net
+report-partners.appmetrica.yandex.net
 analytics.mobile.yandex.net
 static-mon.yandex.net
 yandexadexchange.net
@@ -89787,9 +89801,10 @@ vceilinichego.ru
 volgatermolazer.ru
 warlog.ru
 yadro.ru
+report.ap.yandex-net.ru
 adsdk.yandex.ru
 an.yandex.ru
-appmetrica.yandex.ru
+api.appmetrica.yandex.ru
 awaps.yandex.ru
 bs.yandex.ru
 1060699972.mc.yandex.ru
