@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 356506
+# Ignored duplicates: 356520
 
 pixel.ad
 roq.ad
@@ -14268,7 +14268,6 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
-banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -19430,7 +19429,6 @@ mapsvoyage.com
 maracaj.com
 marbledistributor.com
 adfeed.marchex.com
-ppc.adhere.marchex.com
 call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
@@ -22301,7 +22299,6 @@ blu.mobileads.msn.com
 col.mobileads.msn.com
 dub.mobileads.msn.com
 popup.msn.com
-r.msn.com
 rmads.msn.com
 tags.msnbc.com
 mstrlytcs.com
@@ -28770,7 +28767,6 @@ ww16.palentyoffish.com
 www.palentyoffish.com
 palettone.com
 palmbay-hotel.com
-play.pampopholf.com
 s3.pampopholf.com
 panadvert.com
 pancreaticcancer101.com
@@ -29308,7 +29304,6 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
-ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -34812,6 +34807,7 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
+ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -37371,7 +37367,6 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
-ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -42722,7 +42717,6 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
-window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -81701,6 +81695,7 @@ imprev.net
 incontrolhobbies.net
 indiamateurs.net
 indyboxes.net
+r.edge.inmobicdn.net
 l-cs.inmobicdn.net
 l-dsp.inmobicdn.net
 l-new.inmobicdn.net
@@ -93671,21 +93666,7 @@ shoofle.tv
 smartcdn.tv
 smartstream.tv
 spotx.tv
-ads.superawesome.tv
-auth.superawesome.tv
-us-west-2.awesomeads.superawesome.tv
-broker.cloud.superawesome.tv
-dashboard.superawesome.tv
-ads.dev.superawesome.tv
-broker.classifier.dev.superawesome.tv
-doc.superawesome.tv
-eu-west-1-ads.superawesome.tv
-hackday.superawesome.tv
-hello-world.superawesome.tv
-hub.superawesome.tv
-kws.superawesome.tv
-staging.superawesome.tv
-us-east-1-ads.superawesome.tv
+superawesome.tv
 sync.tv
 syndicaster.tv
 teads.tv
