@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 356520
+# Ignored duplicates: 356522
 
 pixel.ad
 roq.ad
@@ -3741,7 +3741,6 @@ adultadvertising.com
 newt1.adultadworld.com
 www.adultentertainmentsites.com
 adultere.com
-ads.adultfriendfinder.com
 adserver.adultfriendfinder.com
 banners.adultfriendfinder.com
 geobanner.adultfriendfinder.com
@@ -7752,7 +7751,6 @@ tml.clmbtech.com
 cloisteredcord.com
 closedcows.com
 closertothedirt.com
-www.cloudflane.com
 metrics.cloudflarebolt.com
 cloudflareinsights.com
 mediavine-res.cloudinary.com
@@ -16176,6 +16174,7 @@ s.getsmartcontent.com
 www.getsmartcontent.com
 www.gettingurl.com
 getwetvidoes.com
+metrics.gfycat.com
 px.gfycat.com
 ghananations.com
 mail.ghmproperties.com
@@ -17762,6 +17761,7 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
+ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -28765,6 +28765,8 @@ ww16.palentyoffish.com
 www.palentyoffish.com
 palettone.com
 palmbay-hotel.com
+play.pampopholf.com
+s3.pampopholf.com
 panadvert.com
 pancreaticcancer101.com
 pandemicreferenceguides.com
@@ -29301,6 +29303,7 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
+ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -89636,6 +89639,7 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
+cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
@@ -93721,6 +93725,7 @@ t.news.browns-restaurants.co.uk
 captify.co.uk
 adserver.cherryfind.co.uk
 clickcompare.co.uk
+c.corporate-fundraising.co.uk
 data.creditexpert.co.uk
 crta.dailymail.co.uk
 fff.dailymail.co.uk
