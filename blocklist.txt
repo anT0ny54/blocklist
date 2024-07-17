@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 356522
+# Ignored duplicates: 356521
 
 pixel.ad
 roq.ad
@@ -14769,6 +14769,7 @@ www.flligelpi.com
 flmman.com
 floexclusivo.com
 floodprincipal.com
+flourishinginnovation.com
 flowertuccl.com
 floweryflavor.com
 flowgo.com
@@ -19426,7 +19427,6 @@ maracaj.com
 marbledistributor.com
 adfeed.marchex.com
 ppc.adhere.marchex.com
-call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
 marisada.com
@@ -22296,7 +22296,6 @@ blu.mobileads.msn.com
 col.mobileads.msn.com
 dub.mobileads.msn.com
 popup.msn.com
-r.msn.com
 rmads.msn.com
 tags.msnbc.com
 mstrlytcs.com
@@ -37351,7 +37350,6 @@ teamobie.com
 teamviewerdownload.com
 teatrodelosentidos.com
 tebenefits.com
-tics.techdirt.com
 p11.techlab-cdn.com
 technicalfacilitation.com
 technicplatform.com
@@ -81695,7 +81693,6 @@ imprev.net
 incontrolhobbies.net
 indiamateurs.net
 indyboxes.net
-r.edge.inmobicdn.net
 l-cs.inmobicdn.net
 l-dsp.inmobicdn.net
 l-new.inmobicdn.net
