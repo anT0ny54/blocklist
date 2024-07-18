@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 356521
+# Ignored duplicates: 356524
 
 pixel.ad
 roq.ad
@@ -3741,6 +3741,7 @@ adultadvertising.com
 newt1.adultadworld.com
 www.adultentertainmentsites.com
 adultere.com
+ads.adultfriendfinder.com
 adserver.adultfriendfinder.com
 banners.adultfriendfinder.com
 geobanner.adultfriendfinder.com
@@ -7751,6 +7752,7 @@ tml.clmbtech.com
 cloisteredcord.com
 closedcows.com
 closertothedirt.com
+www.cloudflane.com
 metrics.cloudflarebolt.com
 cloudflareinsights.com
 mediavine-res.cloudinary.com
@@ -9190,7 +9192,6 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
-ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -17762,7 +17763,6 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
-ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -19427,6 +19427,7 @@ maracaj.com
 marbledistributor.com
 adfeed.marchex.com
 ppc.adhere.marchex.com
+call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
 marisada.com
@@ -20506,7 +20507,6 @@ www.megauploaud.com
 mehabus.com
 meijiers.com
 www.meiratboutique.com
-communications.melitaltd.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -22296,6 +22296,7 @@ blu.mobileads.msn.com
 col.mobileads.msn.com
 dub.mobileads.msn.com
 popup.msn.com
+r.msn.com
 rmads.msn.com
 tags.msnbc.com
 mstrlytcs.com
@@ -29968,7 +29969,6 @@ data.queryly.com
 related.queryly.com
 cm.quest.com
 questcommunications.com
-tls.telemetry.swe.quicinc.com
 quickflashupdater.com
 quickflashupdating.com
 quicknewsplus.com
@@ -37350,6 +37350,7 @@ teamobie.com
 teamviewerdownload.com
 teatrodelosentidos.com
 tebenefits.com
+tics.techdirt.com
 p11.techlab-cdn.com
 technicalfacilitation.com
 technicplatform.com
@@ -37365,6 +37366,7 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
+ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -81693,6 +81695,7 @@ imprev.net
 incontrolhobbies.net
 indiamateurs.net
 indyboxes.net
+r.edge.inmobicdn.net
 l-cs.inmobicdn.net
 l-dsp.inmobicdn.net
 l-new.inmobicdn.net
