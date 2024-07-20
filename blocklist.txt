@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 356520
+# Ignored duplicates: 356523
 
 pixel.ad
 roq.ad
@@ -9193,7 +9193,6 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
-ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -14268,6 +14267,7 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
+banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -19428,6 +19428,7 @@ mapsvoyage.com
 maracaj.com
 marbledistributor.com
 adfeed.marchex.com
+ppc.adhere.marchex.com
 call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
@@ -28768,6 +28769,7 @@ www.palentyoffish.com
 palettone.com
 palmbay-hotel.com
 play.pampopholf.com
+s3.pampopholf.com
 panadvert.com
 pancreaticcancer101.com
 pandemicreferenceguides.com
@@ -33421,7 +33423,6 @@ rktch.com
 rlcdn.com
 rlets.com
 rmbutterfly.com
-rmgserving.com
 cdn.rmtag.com
 intljs.rmtag.com
 js.rmtag.com
@@ -34808,7 +34809,6 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
-ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -42719,6 +42719,7 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
+window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -53938,6 +53939,7 @@ stats.umami.is
 ad4mat.it
 adshrink.it
 scambiobanner.aruba.it
+plausible.avris.it
 promos.bwin.it
 mediaserver.bwinpartypartners.it
 comprabanner.it
