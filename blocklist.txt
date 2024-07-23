@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 356521
+# Ignored duplicates: 356523
 
 pixel.ad
 roq.ad
@@ -17032,6 +17032,7 @@ heathteacher.com
 heavyplayground.com
 hebphoto.com
 hebrew-learning.com
+heimi-lwx.com
 heirloomreproductions.com
 heisejinyao.com
 hellobar.com
@@ -22602,8 +22603,6 @@ ww5.mzhhiphop.com
 www.mzhhiphop.com
 metrics.mzstatic.com
 n69.com
-miner.nablabee.com
-wss.nablabee.com
 nachoanalytics.com
 hybridclient.naiadsystems.com
 manifest-server.naiadsystems.com
@@ -34808,7 +34807,6 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
-ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -37368,6 +37366,7 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
+ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -59343,7 +59342,6 @@ whsports.onelink.me
 whus.onelink.me
 wish.onelink.me
 zingmp3.onelink.me
-analytics.samdd.me
 pixel.shodan.me
 5ea0417f90194.site123.me
 systemlog.me
@@ -81697,7 +81695,6 @@ imprev.net
 incontrolhobbies.net
 indiamateurs.net
 indyboxes.net
-r.edge.inmobicdn.net
 l-cs.inmobicdn.net
 l-dsp.inmobicdn.net
 l-new.inmobicdn.net
@@ -89641,6 +89638,7 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
+cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
@@ -90035,6 +90033,7 @@ tracking.dagenssamhalle.se
 tracking.dagligvarunytt.se
 tracking.etidning.dalademokraten.se
 tracking.dalademokraten.se
+tracking.borssnack.di.se
 tracking.ditv.di.se
 tracking.etidning.di.se
 tracking.di.se
