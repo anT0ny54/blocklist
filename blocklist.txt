@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 356523
+# Ignored duplicates: 356520
 
 pixel.ad
 roq.ad
@@ -246,6 +246,7 @@ www.honcode.ch
 tms.parship.ch
 tagm.tchibo.ch
 ads.watson.ch
+link.go.chase
 adserver.bdoce.cl
 ashgrrwt.click
 3sstudioprivatelimited10241062.o18.click
@@ -3741,7 +3742,6 @@ adultadvertising.com
 newt1.adultadworld.com
 www.adultentertainmentsites.com
 adultere.com
-ads.adultfriendfinder.com
 adserver.adultfriendfinder.com
 banners.adultfriendfinder.com
 geobanner.adultfriendfinder.com
@@ -14268,6 +14268,7 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
+banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -15022,6 +15023,7 @@ frightenedpotato.com
 fritolayemplyment.com
 frivolousdressorder.com
 tracking.frmllc.com
+frogator.com
 frogerr.com
 fronttoad.com
 antispam.frostfire.com
@@ -22603,6 +22605,8 @@ ww5.mzhhiphop.com
 www.mzhhiphop.com
 metrics.mzstatic.com
 n69.com
+miner.nablabee.com
+wss.nablabee.com
 nachoanalytics.com
 hybridclient.naiadsystems.com
 manifest-server.naiadsystems.com
@@ -23477,7 +23481,6 @@ norstatsurveys.com
 north-outlet.com
 northfloridafamilyfunguide.com
 northjerey.com
-banner.northsky.com
 northstartheatre.com
 nortonspywear.com
 norweigancrusielines.com
@@ -29305,6 +29308,7 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
+ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -34807,6 +34811,7 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
+ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -59342,6 +59347,7 @@ whsports.onelink.me
 whus.onelink.me
 wish.onelink.me
 zingmp3.onelink.me
+analytics.samdd.me
 pixel.shodan.me
 5ea0417f90194.site123.me
 systemlog.me
@@ -81695,6 +81701,7 @@ imprev.net
 incontrolhobbies.net
 indiamateurs.net
 indyboxes.net
+r.edge.inmobicdn.net
 l-cs.inmobicdn.net
 l-dsp.inmobicdn.net
 l-new.inmobicdn.net
