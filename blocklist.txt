@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 356523
+# Ignored duplicates: 356522
 
 pixel.ad
 roq.ad
@@ -3742,7 +3742,6 @@ adultadvertising.com
 newt1.adultadworld.com
 www.adultentertainmentsites.com
 adultere.com
-ads.adultfriendfinder.com
 adserver.adultfriendfinder.com
 banners.adultfriendfinder.com
 geobanner.adultfriendfinder.com
@@ -6360,7 +6359,6 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
-ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -14269,7 +14267,6 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
-banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -17768,7 +17765,6 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
-ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -29310,6 +29306,7 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
+ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -34812,6 +34809,7 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
+ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -35335,7 +35333,6 @@ queue.simpleanalyticscdn.com
 queue-es.simpleanalyticscdn.com
 screenshots.simpleanalyticscdn.com
 scripts.simpleanalyticscdn.com
-ads.simplyhired.com
 simpsonisate.com
 simpsonizene.com
 simulateswing.com
@@ -37371,6 +37368,7 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
+ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -42721,7 +42719,6 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
-window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -43195,6 +43192,7 @@ sbx.pagesjaunes.fr
 tms.parship.fr
 piximedia.fr
 eule1.pmu.fr
+links.prosservice.fr
 pub.realmedia.fr
 netc.sfr.fr
 dev.shoes.fr
