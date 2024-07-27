@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 356522
+# Ignored duplicates: 356523
 
 pixel.ad
 roq.ad
@@ -3742,6 +3742,7 @@ adultadvertising.com
 newt1.adultadworld.com
 www.adultentertainmentsites.com
 adultere.com
+ads.adultfriendfinder.com
 adserver.adultfriendfinder.com
 banners.adultfriendfinder.com
 geobanner.adultfriendfinder.com
@@ -3973,7 +3974,6 @@ pixel.adxtrem.com
 www.adxtrem.com
 adxyield.com
 adyoulike.com
-adz2you.com
 adzbazar.com
 adzestocp.com
 adzmath.com
@@ -6359,6 +6359,7 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
+ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -9192,7 +9193,6 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
-ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -14267,6 +14267,7 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
+banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -17765,6 +17766,7 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
+ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -42719,6 +42721,7 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
+window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -59344,7 +59347,6 @@ whsports.onelink.me
 whus.onelink.me
 wish.onelink.me
 zingmp3.onelink.me
-analytics.samdd.me
 pixel.shodan.me
 5ea0417f90194.site123.me
 systemlog.me
@@ -89642,7 +89644,6 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
-cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
@@ -93781,6 +93782,7 @@ attribution.theworks.co.uk
 valuedopinions.co.uk
 em1.yoursantander.co.uk
 zencudo.co.uk
+url9467.comms-2.zoopla.co.uk
 links.zoopla.co.uk
 hexusads.fluent.ltd.uk
 search-api.fie.future.net.uk
