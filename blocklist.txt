@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 356523
+# Ignored duplicates: 356518
 
 pixel.ad
 roq.ad
@@ -6359,6 +6359,7 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
+ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -22290,7 +22291,8 @@ msearches.com
 flextrack.msi-aci.com
 msi-computer.com
 ads.msn.com
-ads1.msn.com
+a.ads1.msn.com
+b.ads1.msn.com
 ads2.msn.com
 confiant.msn.com
 browser.events.data.msn.com
@@ -34801,7 +34803,6 @@ test-subscribe-stats.selectablemedia.com
 www.selectablemedia.com
 selected-search.com
 selectivesummer.com
-selectofmychoices.com
 stats.self.com
 stats2.self.com
 semasio.com
@@ -37371,6 +37372,7 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
+ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -42721,7 +42723,6 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
-window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -48772,7 +48773,6 @@ backtrace.io
 telemetry.bambuser.io
 beop.io
 bestazon.io
-cdn.biddercore.io
 bid.bidr.io
 media.bidr.io
 media-dev.bidr.io
@@ -81700,6 +81700,7 @@ imprev.net
 incontrolhobbies.net
 indiamateurs.net
 indyboxes.net
+r.edge.inmobicdn.net
 l-cs.inmobicdn.net
 l-dsp.inmobicdn.net
 l-new.inmobicdn.net
