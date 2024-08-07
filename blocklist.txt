@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 355701
+# Ignored duplicates: 355702
 
 pixel.ad
 roq.ad
@@ -9358,7 +9358,6 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
-ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -14500,7 +14499,6 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
-banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -16413,7 +16411,6 @@ www.getsmartcontent.com
 www.gettingurl.com
 getwetvidoes.com
 metrics.gfycat.com
-px.gfycat.com
 ghananations.com
 mail.ghmproperties.com
 giagoc.com
@@ -19457,6 +19454,7 @@ lycero.com
 adbuyer3.lycos.com
 ratings.lycos.com
 lynnsauto.com
+lyricshook.com
 lysxtreme.com
 lzjl.com
 lzufdthrffiihutfg1.com
@@ -19669,7 +19667,6 @@ maracaj.com
 marbledistributor.com
 adfeed.marchex.com
 ppc.adhere.marchex.com
-call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
 marisada.com
@@ -20723,6 +20720,7 @@ medicaresupplementinsuranceguide.com
 medicaresupplementmentors.com
 eas.mediekompaniet.com
 mediterraneanboatrentals.com
+mediumshort.com
 medleyads.com
 meeluu.com
 ads.meetcelebs.com
@@ -20772,6 +20770,7 @@ messnger.com
 metaadsnet.com
 metaboltonic.com
 metaffiliation.com
+metajaws.com
 metalyzer.com
 metanetwork.com
 metaphysical-tools.com
@@ -28734,6 +28733,7 @@ outoftheboxgifts.com
 outriggermedia.com
 analytics.ovative.com
 overconfidentfood.com
+overkick.com
 overstockspas.com
 overture.com
 analytics.ovh.com
@@ -29644,6 +29644,7 @@ podersa.com
 connect.podium.com
 analytics.podtrac.com
 poduveli.com
+poemprompt.com
 ads.pof.com
 pofug.com
 pointlesshour.com
@@ -33064,6 +33065,7 @@ otc-cdn.relevant-digital.com
 schibsted-cdn.relevant-digital.com
 relicrank.com
 relmaxtop.com
+reloadphoto.com
 remaxx.com
 rememberdiscussion.com
 remox.com
@@ -36283,6 +36285,7 @@ www.softwarealltel.com
 soggysponge.com
 soggyzoo.com
 soguq.com
+soicos.com
 alaskaair.sojern.com
 api.sojern.com
 app.sojern.com
@@ -36728,6 +36731,7 @@ www.stapleasadvantage.com
 staplesandmore.com
 staplesblackfriday.com
 starffa.com
+starkscale.com
 start-new-search.com
 startapp.com
 adclick.startappservice.com
@@ -37534,6 +37538,7 @@ supedrug.com
 aaguides.superawesome.com
 marketing.superawesome.com
 superbnike.com
+superchichair.com
 t.email.superdrug.com
 superficialsquare.com
 superonclick.com
@@ -37983,6 +37988,7 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
+ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -43257,6 +43263,7 @@ zoharlevy.com
 analytics.zoho.com
 salesiq.zoho.com
 webanalytics.zohodcm.com
+zonewedgeshaft.com
 zoo356.com
 vdc.zoomph.com
 zoophiliatube.com
@@ -43327,7 +43334,6 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
-window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -44290,6 +44296,7 @@ ww7.adidasspringblade2.info
 www.adidasspringblade2.info
 aditech.info
 adm-vids.info
+email-link.adtidy.info
 advertisers.info
 aerjournal.info
 afreeurl.info
@@ -82395,6 +82402,7 @@ imprev.net
 incontrolhobbies.net
 indiamateurs.net
 indyboxes.net
+r.edge.inmobicdn.net
 l-cs.inmobicdn.net
 l-dsp.inmobicdn.net
 l-new.inmobicdn.net
@@ -90504,6 +90512,7 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
+cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
