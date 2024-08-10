@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 355703
+# Ignored duplicates: 355701
 
 pixel.ad
 roq.ad
@@ -5243,7 +5243,6 @@ apxlv.com
 aqpogwawr.com
 servedby.aqua-adserver.com
 aquaplatform.com
-aquaticanswer.com
 aquaticowl.com
 collect-metrics.aquro.com
 ar1nvz5.com
@@ -16412,7 +16411,6 @@ s.getsmartcontent.com
 www.getsmartcontent.com
 www.gettingurl.com
 getwetvidoes.com
-metrics.gfycat.com
 px.gfycat.com
 ghananations.com
 mail.ghmproperties.com
@@ -17984,7 +17982,6 @@ installermoney.com
 installfarm.com
 instantcheckmate.com
 instantflashupdates.com
-instantmadness.com
 insticator.com
 insurads.com
 insurance---quotes.com
@@ -18000,7 +17997,6 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
-ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -22522,7 +22518,8 @@ msearches.com
 flextrack.msi-aci.com
 msi-computer.com
 ads.msn.com
-ads1.msn.com
+a.ads1.msn.com
+b.ads1.msn.com
 ads2.msn.com
 confiant.msn.com
 browser.events.data.msn.com
@@ -29651,6 +29648,7 @@ connect.podium.com
 analytics.podtrac.com
 poduveli.com
 poemprompt.com
+ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -35235,7 +35233,6 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
-ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -37977,7 +37974,6 @@ smtps.teatrodelosentidos.com
 ww25.teatrodelosentidos.com
 www.teatrodelosentidos.com
 tebenefits.com
-tics.techdirt.com
 p11.techlab-cdn.com
 technicalfacilitation.com
 technicplatform.com
@@ -43338,7 +43334,6 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
-window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -43466,7 +43461,6 @@ sso.immobilienscout24.de
 tracking.immobilienscout24.de
 intelliad.de
 api.intensifier.de
-tracking.internetstores.de
 interreklame.de
 ads.ioam.de
 ads3.ioam.de
@@ -81774,7 +81768,6 @@ ww6.fickeria.net
 www.fickeria.net
 zimbra.fickeria.net
 fickparties.net
-fineoffer.net
 fishingclub.net
 flero.net
 flippty.net
@@ -82407,6 +82400,7 @@ imprev.net
 incontrolhobbies.net
 indiamateurs.net
 indyboxes.net
+r.edge.inmobicdn.net
 l-cs.inmobicdn.net
 l-dsp.inmobicdn.net
 l-new.inmobicdn.net
