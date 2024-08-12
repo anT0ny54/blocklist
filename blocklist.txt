@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 355702
+# Ignored duplicates: 355698
 
 pixel.ad
 roq.ad
@@ -9357,6 +9357,7 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
+ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -14498,6 +14499,7 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
+banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -16409,7 +16411,6 @@ s.getsmartcontent.com
 www.getsmartcontent.com
 www.gettingurl.com
 getwetvidoes.com
-metrics.gfycat.com
 px.gfycat.com
 ghananations.com
 mail.ghmproperties.com
@@ -22518,8 +22519,7 @@ msearches.com
 flextrack.msi-aci.com
 msi-computer.com
 ads.msn.com
-a.ads1.msn.com
-b.ads1.msn.com
+ads1.msn.com
 ads2.msn.com
 confiant.msn.com
 browser.events.data.msn.com
@@ -29108,8 +29108,6 @@ ww16.palentyoffish.com
 www.palentyoffish.com
 palettone.com
 palmbay-hotel.com
-play.pampopholf.com
-s3.pampopholf.com
 panadvert.com
 pancreaticcancer101.com
 pandemicreferenceguides.com
@@ -29648,7 +29646,6 @@ connect.podium.com
 analytics.podtrac.com
 poduveli.com
 poemprompt.com
-ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -35233,7 +35230,6 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
-ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -90513,7 +90509,6 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
-cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
