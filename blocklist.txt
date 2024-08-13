@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 355698
+# Ignored duplicates: 355699
 
 pixel.ad
 roq.ad
@@ -16411,6 +16411,7 @@ s.getsmartcontent.com
 www.getsmartcontent.com
 www.gettingurl.com
 getwetvidoes.com
+metrics.gfycat.com
 px.gfycat.com
 ghananations.com
 mail.ghmproperties.com
@@ -19668,7 +19669,6 @@ maracaj.com
 marbledistributor.com
 adfeed.marchex.com
 ppc.adhere.marchex.com
-call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
 marisada.com
@@ -22519,7 +22519,8 @@ msearches.com
 flextrack.msi-aci.com
 msi-computer.com
 ads.msn.com
-ads1.msn.com
+a.ads1.msn.com
+b.ads1.msn.com
 ads2.msn.com
 confiant.msn.com
 browser.events.data.msn.com
@@ -22530,7 +22531,6 @@ blu.mobileads.msn.com
 col.mobileads.msn.com
 dub.mobileads.msn.com
 popup.msn.com
-r.msn.com
 rmads.msn.com
 tags.msnbc.com
 mstrlytcs.com
@@ -22745,7 +22745,6 @@ myesaytv.com
 myevecondo.com
 myexnude.com
 myfavoritethingsfl.com
-analytics.myfinance.com
 myfirstdayphotogallery.com
 myfitneesspal.com
 myfloridacess.com
@@ -29108,6 +29107,8 @@ ww16.palentyoffish.com
 www.palentyoffish.com
 palettone.com
 palmbay-hotel.com
+play.pampopholf.com
+s3.pampopholf.com
 panadvert.com
 pancreaticcancer101.com
 pandemicreferenceguides.com
@@ -29646,6 +29647,7 @@ connect.podium.com
 analytics.podtrac.com
 poduveli.com
 poemprompt.com
+ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -35230,6 +35232,7 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
+ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -37075,6 +37078,7 @@ stilo-club.com
 stimulatingsneeze.com
 stivers-ricsovers.com
 stmichaelsmuseum.com
+emailer.stockbit.com
 dc.stokke.com
 stomachscience.com
 www.stopsteam.com
@@ -37971,7 +37975,6 @@ smtps.teatrodelosentidos.com
 ww25.teatrodelosentidos.com
 www.teatrodelosentidos.com
 tebenefits.com
-tics.techdirt.com
 p11.techlab-cdn.com
 technicalfacilitation.com
 technicplatform.com
@@ -82399,7 +82402,6 @@ imprev.net
 incontrolhobbies.net
 indiamateurs.net
 indyboxes.net
-r.edge.inmobicdn.net
 l-cs.inmobicdn.net
 l-dsp.inmobicdn.net
 l-new.inmobicdn.net
