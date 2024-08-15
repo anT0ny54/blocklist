@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 355702
+# Ignored duplicates: 355701
 
 pixel.ad
 roq.ad
@@ -3751,6 +3751,7 @@ adultadvertising.com
 newt1.adultadworld.com
 www.adultentertainmentsites.com
 adultere.com
+ads.adultfriendfinder.com
 adserver.adultfriendfinder.com
 banners.adultfriendfinder.com
 geobanner.adultfriendfinder.com
@@ -9356,7 +9357,6 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
-ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -14498,7 +14498,6 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
-banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -17996,6 +17995,7 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
+ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -22516,7 +22516,8 @@ msearches.com
 flextrack.msi-aci.com
 msi-computer.com
 ads.msn.com
-ads1.msn.com
+a.ads1.msn.com
+b.ads1.msn.com
 ads2.msn.com
 confiant.msn.com
 browser.events.data.msn.com
@@ -34287,6 +34288,7 @@ wiki-internal.rubiconproject.com
 www.rubiconproject.com
 rubriks.com
 api.rudderlabs.com
+api.rudderstack.com
 sanity-dataplane.rudderstack.com
 rude-son.com
 ruderulette.com
@@ -35229,6 +35231,7 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
+ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
