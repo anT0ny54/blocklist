@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 355700
+# Ignored duplicates: 355698
 
 pixel.ad
 roq.ad
@@ -198,7 +198,6 @@ foxnews.blog
 mkto-panda123.music.blog
 www.4x4brasil.com.br
 banners.bol.com.br
-www3.convergenciadigital.com.br
 adserver.diariodosertao.com.br
 anuncios.edicaoms.com.br
 goiasprodutos.com.br
@@ -970,7 +969,6 @@ www.0204sex.com
 webstats.100procent.com
 100pushup.com
 101com.com
-101order.com
 10e-9corp.com
 123unlock.com
 vip.126.com
@@ -1401,7 +1399,6 @@ ads.abovetopsecret.com
 cdn.abrankings.com
 abruptroad.com
 absorbingband.com
-absorbingcorn.com
 abstractedauthority.com
 abtasty.com
 abuelasfollando.com
@@ -3743,7 +3740,6 @@ adtooxcirrus.com
 adtouchlabs.com
 js.adtra.com
 adtraction.com
-adtriplex.com
 cdn.adtrue.com
 adtz.com
 www.aduldfriendfinders.com
@@ -7503,7 +7499,6 @@ ads.cheabit.com
 cheap--insurance--quotes.com
 cheaphomealarmsystems.com
 cheatwives.com
-checkm8.com
 checkminuscompositions.com
 bt.cheqzone.com
 production.cheq-airflow.cheqzone.com
@@ -7875,7 +7870,6 @@ recade.clmbtech.com
 static.clmbtech.com
 tbl.clmbtech.com
 tml.clmbtech.com
-cloisteredcord.com
 closedcows.com
 closertothedirt.com
 www.cloudflane.com
@@ -17417,7 +17411,6 @@ hondafinancialservcies.com
 hondagenset.com
 honeybakeforyou.com
 honeycombceramics.com
-honorablehall.com
 honorableland.com
 honybunny.com
 click.hookupinyourcity.com
@@ -19666,7 +19659,6 @@ maracaj.com
 marbledistributor.com
 adfeed.marchex.com
 ppc.adhere.marchex.com
-call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
 marisada.com
@@ -20745,7 +20737,6 @@ www.megauploaud.com
 mehabus.com
 meijiers.com
 www.meiratboutique.com
-communications.melitaltd.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -22517,7 +22508,8 @@ msearches.com
 flextrack.msi-aci.com
 msi-computer.com
 ads.msn.com
-ads1.msn.com
+a.ads1.msn.com
+b.ads1.msn.com
 ads2.msn.com
 confiant.msn.com
 browser.events.data.msn.com
@@ -22528,7 +22520,6 @@ blu.mobileads.msn.com
 col.mobileads.msn.com
 dub.mobileads.msn.com
 popup.msn.com
-r.msn.com
 rmads.msn.com
 tags.msnbc.com
 mstrlytcs.com
@@ -29646,6 +29637,7 @@ connect.podium.com
 analytics.podtrac.com
 poduveli.com
 poemprompt.com
+ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -30392,7 +30384,6 @@ data.queryly.com
 related.queryly.com
 cm.quest.com
 questcommunications.com
-tls.telemetry.swe.quicinc.com
 quickflashupdater.com
 quickflashupdating.com
 quicknewsplus.com
@@ -34288,6 +34279,7 @@ wiki-internal.rubiconproject.com
 www.rubiconproject.com
 rubriks.com
 api.rudderlabs.com
+cdn.rudderlabs.com
 api.rudderstack.com
 sanity-dataplane.rudderstack.com
 rude-son.com
@@ -35231,7 +35223,6 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
-ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -38633,7 +38624,6 @@ smetrics.traderonline.com
 tradingworks.com
 traduction-en-ligne.com
 traffic-exchange.com
-traffic-redirecting.com
 trafficcontrolmarketing.com
 trafficdownload.com
 trafficforce.com
@@ -39981,6 +39971,7 @@ www.uzxkuwalnjp.com
 ads.v-lazer.com
 v1adserver.com
 v6rxv5coo5.com
+statcounter.va-endpoint.com
 vacances-pour-tous-savoie.com
 vacaneedasap.com
 auth.vacationstx.com
@@ -43832,7 +43823,6 @@ openx.smcaen.fr
 tradelab.fr
 visual-pagerank.fr
 weborama.fr
-ads.adsbtc.fun
 ads.a-snag-smartmoney.fyi
 autologica.ga
 lnks.gd
@@ -54485,6 +54475,7 @@ tribl.io
 trugaze.io
 turbolion.io
 ad.vidverto.io
+loadbalancer.visitor-analytics.io
 addelivery-engine-api.voodoo-ads.io
 airflow.voodoo-ads.io
 campaign-assets.voodoo-ads.io
@@ -82950,7 +82941,6 @@ mystat-in.net
 ww1.mythmem.net
 ww5.mythmem.net
 www.mythmem.net
-mytop-in.net
 myvisualiq.net
 myxmovies.net
 devint.mzbcdn.net
@@ -90513,6 +90503,7 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
+cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
@@ -94334,6 +94325,8 @@ armis.tech
 coinbasepro.tech
 sommelier.futurehybrid.tech
 ads5.matichon.co.th
+truehits1.gits.net.th
+truehits2.gits.net.th
 aeros01.tk
 axoncoho.tk
 hhb123.tk
