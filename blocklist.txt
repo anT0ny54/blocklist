@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 355698
+# Ignored duplicates: 355701
 
 pixel.ad
 roq.ad
@@ -198,6 +198,7 @@ foxnews.blog
 mkto-panda123.music.blog
 www.4x4brasil.com.br
 banners.bol.com.br
+www3.convergenciadigital.com.br
 adserver.diariodosertao.com.br
 anuncios.edicaoms.com.br
 goiasprodutos.com.br
@@ -6412,6 +6413,7 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
+ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -9349,6 +9351,7 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
+ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -19659,6 +19662,7 @@ maracaj.com
 marbledistributor.com
 adfeed.marchex.com
 ppc.adhere.marchex.com
+call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
 marisada.com
@@ -20737,6 +20741,7 @@ www.megauploaud.com
 mehabus.com
 meijiers.com
 www.meiratboutique.com
+communications.melitaltd.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -22508,8 +22513,7 @@ msearches.com
 flextrack.msi-aci.com
 msi-computer.com
 ads.msn.com
-a.ads1.msn.com
-b.ads1.msn.com
+ads1.msn.com
 ads2.msn.com
 confiant.msn.com
 browser.events.data.msn.com
@@ -22520,6 +22524,7 @@ blu.mobileads.msn.com
 col.mobileads.msn.com
 dub.mobileads.msn.com
 popup.msn.com
+r.msn.com
 rmads.msn.com
 tags.msnbc.com
 mstrlytcs.com
@@ -30384,6 +30389,7 @@ data.queryly.com
 related.queryly.com
 cm.quest.com
 questcommunications.com
+tls.telemetry.swe.quicinc.com
 quickflashupdater.com
 quickflashupdating.com
 quicknewsplus.com
@@ -35223,6 +35229,7 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
+ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -90503,7 +90510,6 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
-cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
