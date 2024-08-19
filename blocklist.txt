@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 355701
+# Ignored duplicates: 355702
 
 pixel.ad
 roq.ad
@@ -6413,7 +6413,6 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
-ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -14493,7 +14492,6 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
-banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -22739,7 +22737,6 @@ myesaytv.com
 myevecondo.com
 myexnude.com
 myfavoritethingsfl.com
-analytics.myfinance.com
 myfirstdayphotogallery.com
 myfitneesspal.com
 myfloridacess.com
@@ -29642,7 +29639,6 @@ connect.podium.com
 analytics.podtrac.com
 poduveli.com
 poemprompt.com
-ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -90510,6 +90506,7 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
+cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
