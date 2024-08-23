@@ -6413,6 +6413,7 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
+ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -14492,7 +14493,6 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
-banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -22512,8 +22512,7 @@ msearches.com
 flextrack.msi-aci.com
 msi-computer.com
 ads.msn.com
-a.ads1.msn.com
-b.ads1.msn.com
+ads1.msn.com
 ads2.msn.com
 confiant.msn.com
 browser.events.data.msn.com
@@ -22739,7 +22738,6 @@ myesaytv.com
 myevecondo.com
 myexnude.com
 myfavoritethingsfl.com
-analytics.myfinance.com
 myfirstdayphotogallery.com
 myfitneesspal.com
 myfloridacess.com
@@ -29642,7 +29640,6 @@ connect.podium.com
 analytics.podtrac.com
 poduveli.com
 poemprompt.com
-ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -35229,6 +35226,7 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
+ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -90509,6 +90507,7 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
+cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
