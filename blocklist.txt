@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 355700
+# Ignored duplicates: 355703
 
 pixel.ad
 roq.ad
@@ -6414,6 +6414,7 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
+ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -16405,6 +16406,7 @@ s.getsmartcontent.com
 www.getsmartcontent.com
 www.gettingurl.com
 getwetvidoes.com
+metrics.gfycat.com
 px.gfycat.com
 ghananations.com
 mail.ghmproperties.com
@@ -19661,6 +19663,7 @@ maracaj.com
 marbledistributor.com
 adfeed.marchex.com
 ppc.adhere.marchex.com
+call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
 marisada.com
@@ -22522,6 +22525,7 @@ blu.mobileads.msn.com
 col.mobileads.msn.com
 dub.mobileads.msn.com
 popup.msn.com
+r.msn.com
 rmads.msn.com
 tags.msnbc.com
 mstrlytcs.com
@@ -37967,6 +37971,7 @@ smtps.teatrodelosentidos.com
 ww25.teatrodelosentidos.com
 www.teatrodelosentidos.com
 tebenefits.com
+tics.techdirt.com
 p11.techlab-cdn.com
 technicalfacilitation.com
 technicplatform.com
@@ -43327,6 +43332,7 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
+window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
