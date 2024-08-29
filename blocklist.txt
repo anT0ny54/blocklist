@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 355701
+# Ignored duplicates: 355703
 
 pixel.ad
 roq.ad
@@ -6414,7 +6414,6 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
-ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -17992,6 +17991,7 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
+ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -22512,8 +22512,7 @@ msearches.com
 flextrack.msi-aci.com
 msi-computer.com
 ads.msn.com
-a.ads1.msn.com
-b.ads1.msn.com
+ads1.msn.com
 ads2.msn.com
 confiant.msn.com
 browser.events.data.msn.com
@@ -22524,7 +22523,6 @@ blu.mobileads.msn.com
 col.mobileads.msn.com
 dub.mobileads.msn.com
 popup.msn.com
-r.msn.com
 rmads.msn.com
 tags.msnbc.com
 mstrlytcs.com
@@ -29641,6 +29639,7 @@ connect.podium.com
 analytics.podtrac.com
 poduveli.com
 poemprompt.com
+ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -30387,7 +30386,6 @@ data.queryly.com
 related.queryly.com
 cm.quest.com
 questcommunications.com
-tls.telemetry.swe.quicinc.com
 quickflashupdater.com
 quickflashupdating.com
 quicknewsplus.com
@@ -43331,7 +43329,6 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
-window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -90507,7 +90504,6 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
-cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
