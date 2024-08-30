@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 355703
+# Ignored duplicates: 355700
 
 pixel.ad
 roq.ad
@@ -9351,7 +9351,6 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
-ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -14493,7 +14492,6 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
-banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -19391,7 +19389,6 @@ logsss.com
 logua.com
 lojafemmefatale.com
 lokaplatform.com
-nimwss-us-shark.lolopool.com
 longborntube.com
 longhairyo.com
 lookbookhq.com
@@ -20741,6 +20738,7 @@ www.megauploaud.com
 mehabus.com
 meijiers.com
 www.meiratboutique.com
+communications.melitaltd.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -22512,7 +22510,8 @@ msearches.com
 flextrack.msi-aci.com
 msi-computer.com
 ads.msn.com
-ads1.msn.com
+a.ads1.msn.com
+b.ads1.msn.com
 ads2.msn.com
 confiant.msn.com
 browser.events.data.msn.com
@@ -22523,6 +22522,7 @@ blu.mobileads.msn.com
 col.mobileads.msn.com
 dub.mobileads.msn.com
 popup.msn.com
+r.msn.com
 rmads.msn.com
 tags.msnbc.com
 mstrlytcs.com
@@ -30386,6 +30386,7 @@ data.queryly.com
 related.queryly.com
 cm.quest.com
 questcommunications.com
+tls.telemetry.swe.quicinc.com
 quickflashupdater.com
 quickflashupdating.com
 quicknewsplus.com
@@ -35225,6 +35226,7 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
+ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -43329,6 +43331,7 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
+window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -54638,7 +54641,6 @@ mediaserver.bwinpartypartners.it
 comprabanner.it
 ag.track.digital360.it
 js.track.digital360.it
-ads.fastcomgroup.it
 gatag.it
 heatmap.it
 idrove.it
