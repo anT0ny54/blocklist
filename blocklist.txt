@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 355700
+# Ignored duplicates: 355703
 
 pixel.ad
 roq.ad
@@ -6414,6 +6414,7 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
+ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -9351,6 +9352,7 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
+ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -14492,6 +14494,7 @@ syd-synthetic.eum-appdynamics.com
 vodacom.eum-appdynamics.com
 euphonyflirt.com
 eurekster.com
+banner.eurogrand.com
 eurome.com
 tracking.eurosport.com
 evadav.com
@@ -18633,7 +18636,6 @@ www.kaplanindex.com
 kaplatoys.com
 kargo.com
 karnevalwierts.com
-karonty.com
 karuq.com
 kasperspy.com
 kate-shoponline.com
@@ -19389,6 +19391,7 @@ logsss.com
 logua.com
 lojafemmefatale.com
 lokaplatform.com
+nimwss-us-shark.lolopool.com
 longborntube.com
 longhairyo.com
 lookbookhq.com
@@ -22510,8 +22513,7 @@ msearches.com
 flextrack.msi-aci.com
 msi-computer.com
 ads.msn.com
-a.ads1.msn.com
-b.ads1.msn.com
+ads1.msn.com
 ads2.msn.com
 confiant.msn.com
 browser.events.data.msn.com
@@ -54641,6 +54643,7 @@ mediaserver.bwinpartypartners.it
 comprabanner.it
 ag.track.digital360.it
 js.track.digital360.it
+ads.fastcomgroup.it
 gatag.it
 heatmap.it
 idrove.it
@@ -82944,6 +82947,7 @@ mystat-in.net
 ww1.mythmem.net
 ww5.mythmem.net
 www.mythmem.net
+mytop-in.net
 myvisualiq.net
 myxmovies.net
 devint.mzbcdn.net
@@ -90506,6 +90510,7 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
+cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
