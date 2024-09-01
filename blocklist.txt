@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 355703
+# Ignored duplicates: 355701
 
 pixel.ad
 roq.ad
@@ -17992,7 +17992,6 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
-ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -35228,7 +35227,6 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
-ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -90892,7 +90890,6 @@ girohjalm.com.se
 www.guesssverige.com.se
 www.gymshark-sweden.com.se
 longchampstockholm.com.se
-palmangelssverige.com.se
 www.vejaskor.com.se
 dinapengar.compricer.se
 levaochbo.compricer.se
@@ -91064,7 +91061,6 @@ cdn.sprida.se
 gtm.stampenmedia.se
 storymedia.se
 matomo.studio.se
-analytics.sunet.se
 d.suntcontent.se
 statistik.svenskaakademien.se
 analytics.svenskdam.se
