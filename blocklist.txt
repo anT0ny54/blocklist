@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 353929
+# Ignored duplicates: 353928
 
 pixel.ad
 roq.ad
@@ -3738,6 +3738,7 @@ adultadvertising.com
 newt1.adultadworld.com
 www.adultentertainmentsites.com
 adultere.com
+ads.adultfriendfinder.com
 adserver.adultfriendfinder.com
 banners.adultfriendfinder.com
 geobanner.adultfriendfinder.com
@@ -9691,7 +9692,6 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
-ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -16805,7 +16805,6 @@ s.getsmartcontent.com
 www.getsmartcontent.com
 www.gettingurl.com
 getwetvidoes.com
-metrics.gfycat.com
 px.gfycat.com
 ghananations.com
 mail.ghmproperties.com
@@ -18390,6 +18389,7 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
+ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -19788,7 +19788,6 @@ logsss.com
 logua.com
 lojafemmefatale.com
 lokaplatform.com
-nimwss-us-shark.lolopool.com
 longborntube.com
 longhairyo.com
 lookbookhq.com
@@ -20114,7 +20113,6 @@ maracaj.com
 marbledistributor.com
 adfeed.marchex.com
 ppc.adhere.marchex.com
-call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
 marisada.com
@@ -22957,7 +22955,8 @@ msearches.com
 flextrack.msi-aci.com
 msi-computer.com
 ads.msn.com
-ads1.msn.com
+a.ads1.msn.com
+b.ads1.msn.com
 ads2.msn.com
 confiant.msn.com
 browser.events.data.msn.com
@@ -22968,7 +22967,6 @@ blu.mobileads.msn.com
 col.mobileads.msn.com
 dub.mobileads.msn.com
 popup.msn.com
-r.msn.com
 rmads.msn.com
 tags.msnbc.com
 mstrlytcs.com
@@ -38723,7 +38721,6 @@ smtps.teatrodelosentidos.com
 ww25.teatrodelosentidos.com
 www.teatrodelosentidos.com
 tebenefits.com
-tics.techdirt.com
 p11.techlab-cdn.com
 technicalfacilitation.com
 technicplatform.com
@@ -38739,6 +38736,7 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
+ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
