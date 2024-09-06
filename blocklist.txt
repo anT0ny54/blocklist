@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 353931
+# Ignored duplicates: 353927
 
 pixel.ad
 roq.ad
@@ -18391,7 +18391,6 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
-ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -20115,8 +20114,6 @@ mapsvoyage.com
 maracaj.com
 marbledistributor.com
 adfeed.marchex.com
-ppc.adhere.marchex.com
-call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
 marisada.com
@@ -23601,6 +23598,7 @@ agility.ncaa.com
 sanalytics.ncaa.com
 ncaafb.com
 ncaudienceexchange.com
+ads.nccwebs.com
 ndparking.com
 ndroip.com
 nebulacrescent.com
@@ -30991,7 +30989,6 @@ ad.queryly.com
 data.queryly.com
 related.queryly.com
 cm.quest.com
-tls.telemetry.swe.quicinc.com
 quickflashupdater.com
 quickflashupdating.com
 quicknewsplus.com
@@ -35790,7 +35787,6 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
-ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -38725,7 +38721,6 @@ smtps.teatrodelosentidos.com
 ww25.teatrodelosentidos.com
 www.teatrodelosentidos.com
 tebenefits.com
-tics.techdirt.com
 p11.techlab-cdn.com
 technicalfacilitation.com
 technicplatform.com
@@ -39666,6 +39661,7 @@ ww16.tubesgalor.com
 ww25.tubesgalor.com
 ww38.tubesgalor.com
 tubesgals.com
+hive.tubetitties.com
 tubhaolic.com
 ww1.tubholic.com
 www.tubholic.com
@@ -91893,6 +91889,7 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
+cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
