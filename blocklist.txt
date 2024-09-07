@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 353927
+# Ignored duplicates: 353930
 
 pixel.ad
 roq.ad
@@ -16806,7 +16806,6 @@ s.getsmartcontent.com
 www.getsmartcontent.com
 www.gettingurl.com
 getwetvidoes.com
-metrics.gfycat.com
 px.gfycat.com
 ghananations.com
 mail.ghmproperties.com
@@ -18391,6 +18390,7 @@ intentiq.com
 interactvereporting.com
 intercom-clicks.com
 api-visitor-analytics.intercom.com
+ads.intergi.com
 app.intergi.com
 aws.intergi.com
 beta.intergi.com
@@ -20114,6 +20114,8 @@ mapsvoyage.com
 maracaj.com
 marbledistributor.com
 adfeed.marchex.com
+ppc.adhere.marchex.com
+call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
 marisada.com
@@ -23598,7 +23600,6 @@ agility.ncaa.com
 sanalytics.ncaa.com
 ncaafb.com
 ncaudienceexchange.com
-ads.nccwebs.com
 ndparking.com
 ndroip.com
 nebulacrescent.com
@@ -30989,6 +30990,7 @@ ad.queryly.com
 data.queryly.com
 related.queryly.com
 cm.quest.com
+tls.telemetry.swe.quicinc.com
 quickflashupdater.com
 quickflashupdating.com
 quicknewsplus.com
@@ -35787,6 +35789,7 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
+ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -38721,6 +38724,7 @@ smtps.teatrodelosentidos.com
 ww25.teatrodelosentidos.com
 www.teatrodelosentidos.com
 tebenefits.com
+tics.techdirt.com
 p11.techlab-cdn.com
 technicalfacilitation.com
 technicplatform.com
@@ -38736,7 +38740,6 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
-ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -39155,7 +39158,6 @@ thisiswaldo.com
 thomastorch.com
 thomsomreuters.com
 thoughmudder.com
-sponsors.thoughtsmedia.com
 cdn.threadloom.com
 threedgames.com
 d.thriftbooks.com
@@ -44277,7 +44279,6 @@ mine.nahnoji.cz
 navrcholu.cz
 adserver.nearby.cz
 add.newmedia.cz
-window.nixnet.cz
 ads.nyx.cz
 ads.oxyshop.cz
 partner.pelikan.cz
@@ -44741,7 +44742,6 @@ pub.hardware.fr
 kwptg.kantarworldpanel.fr
 kdata.fr
 keepass.fr
-leadplace.fr
 ads.multimania.lycos.fr
 images.orangepublicite.fr
 sbx.pagesjaunes.fr
@@ -91889,7 +91889,6 @@ adserver.o2.pl
 oan.pl
 republika.onet.pl
 odbierz-bony.ovp.pl
-cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
 rads.realadmin.pl
@@ -95803,7 +95802,6 @@ mycounter.ua
 krb.devphp.org.ua
 a5.overclockers.ua
 ads.pfl.ua
-tracking.1-a1502-bi.co.uk
 tracking.21-a4652-bi.co.uk
 tracking.28-91473-wbm.co.uk
 tracking.39-bb4a9-osm.co.uk
