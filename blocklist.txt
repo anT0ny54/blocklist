@@ -6477,6 +6477,7 @@ adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
 track.bizjournals.com
+ad.bizo.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
@@ -9691,6 +9692,7 @@ digestiondrawer.com
 seal.digicert.com
 digitalkites.com
 ad.digitallook.com
+ads.digitalmedianet.com
 digitalmerkat.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 hbid.ams3.cdn.digitaloceanspaces.com
@@ -20114,6 +20116,7 @@ maracaj.com
 marbledistributor.com
 adfeed.marchex.com
 ppc.adhere.marchex.com
+call-ad-network-api.marchex.com
 marfeelcache.com
 marinsm.com
 marisada.com
@@ -21189,6 +21192,7 @@ www.megauploaud.com
 mehabus.com
 meijiers.com
 www.meiratboutique.com
+communications.melitaltd.com
 meltmilk.com
 meltwater.com
 memfault.com
@@ -22955,7 +22959,8 @@ msearches.com
 flextrack.msi-aci.com
 msi-computer.com
 ads.msn.com
-ads1.msn.com
+a.ads1.msn.com
+b.ads1.msn.com
 ads2.msn.com
 confiant.msn.com
 browser.events.data.msn.com
@@ -30218,7 +30223,6 @@ connect.podium.com
 analytics.podtrac.com
 poduveli.com
 poemprompt.com
-ads.pof.com
 pofug.com
 pointlesshour.com
 pointlessprofit.com
@@ -35786,7 +35790,6 @@ ww25.senaisorocaba.com
 sendmepixel.com
 cdn.sendpulse.com
 senecyt.com
-ads.seniorfriendfinder.com
 sensortower.com
 sentry-cdn.com
 seonify.com
@@ -38737,7 +38740,6 @@ mail.techniservinc.com
 95068.technoratimedia.com
 95069.technoratimedia.com
 96759.technoratimedia.com
-ad.technoratimedia.com
 ad-cdn.technoratimedia.com
 adapex.technoratimedia.com
 aditude.technoratimedia.com
@@ -44531,7 +44533,6 @@ layer-ad.de
 layer-ads.de
 ligatus.de
 link-booster.de
-links-ranking.de
 ads.tripod.lycos.de
 adnews.maddog2000.de
 madvertise.de
