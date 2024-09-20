@@ -84,6 +84,7 @@ vdo.ai
 vi.ai
 m1.torrenti.al
 tru.am
+paa-reporting-advertising.amazon
 geolocation.1trust.app
 matomo.crossiety.app
 freegeoip.app
@@ -17259,6 +17260,7 @@ clouderrorreporting.googleapis.com
 crashlyticsreports-pa.googleapis.com
 firebaselogging-pa.googleapis.com
 test.firebaselogging.googleapis.com
+ogads-pa.googleapis.com
 googleblack.com
 googlecalender.com
 googleespn.com
@@ -44742,6 +44744,7 @@ kdata.fr
 keepass.fr
 leadplace.fr
 ads.multimania.lycos.fr
+mediasquare.fr
 images.orangepublicite.fr
 sbx.pagesjaunes.fr
 tms.parship.fr
