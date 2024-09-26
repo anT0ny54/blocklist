@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 353921
+# Ignored duplicates: 353928
 
 pixel.ad
 roq.ad
@@ -34478,6 +34478,7 @@ crumbs.robinhood.com
 ads.roblox.com
 metrics.roblox.com
 rocjband.com
+rockagainst.com
 rockbadn.com
 rockerbox.com
 rocketadv.com
@@ -90011,7 +90012,6 @@ ww1.noticias-cambridgeesol.org
 ww17.noticias-cambridgeesol.org
 ww38.noticias-cambridgeesol.org
 www.noticias-cambridgeesol.org
-www.notmining.org
 notpad-plus-plus.org
 novalighting.org
 novosti-mk.org
