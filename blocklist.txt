@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 353928
+# Ignored duplicates: 353929
 
 pixel.ad
 roq.ad
@@ -90012,6 +90012,7 @@ ww1.noticias-cambridgeesol.org
 ww17.noticias-cambridgeesol.org
 ww38.noticias-cambridgeesol.org
 www.noticias-cambridgeesol.org
+www.notmining.org
 notpad-plus-plus.org
 novalighting.org
 novosti-mk.org
