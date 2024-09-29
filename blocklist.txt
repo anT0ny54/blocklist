@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 353928
+# Ignored duplicates: 353927
 
 pixel.ad
 roq.ad
@@ -95788,6 +95788,7 @@ strips.vidible.tv
 trk.vidible.tv
 us-east-1.vidible.tv
 us-west-1.vidible.tv
+play.vidzi.tv
 play.video2.stream.vidzi.tv
 ads.viralize.tv
 targeting.voxus.tv
