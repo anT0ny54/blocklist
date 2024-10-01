@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 353929
+# Ignored duplicates: 353928
 
 pixel.ad
 roq.ad
@@ -61232,8 +61232,6 @@ adserver.mobi
 dsfffmb.mobi
 events.fgol.mobi
 inner-active.mobi
-masture.mobi
-mmetrix.mobi
 mydas.mobi
 vserv.mobi
 clarity.ms
@@ -95723,9 +95721,6 @@ axoncoho.tk
 hhb123.tk
 acbp0020171456.page.tl
 cpx.to
-p.estream.to
-play.estream.to
-video.streaming.estream.to
 feed.aservice.tools
 www.aservice.tools
 mail.binancegiveaway.top
