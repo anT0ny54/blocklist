@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 353939
+# Ignored duplicates: 353940
 
 pixel.ad
 roq.ad
@@ -19907,7 +19907,7 @@ ww25.magicobux.com
 www.magicobux.com
 magmypics.com
 magscustomerservice.com
-a.magsrv.com
+magsrv.com
 mahan-news.com
 mahasagar.com
 mahohaq.com
@@ -39253,6 +39253,7 @@ ww1.triton-topo.com
 www.triton-topo.com
 trknths.com
 trkoptimizer.com
+live.trmzum.com
 tropbox.com
 antispam.tropicanagoldcasino.com
 auth.tropicanagoldcasino.com
