@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 353940
+# Ignored duplicates: 353939
 
 pixel.ad
 roq.ad
@@ -36612,7 +36612,7 @@ tracking.skyword.com
 analytics.slashdotmedia.com
 ww1.sleeklogo.com
 www.sleeklogo.com
-sleeknote.com
+analytics.sleeknote.com
 pulse.sleepnumber.com
 b.sli-spark.com
 slickstream.com
