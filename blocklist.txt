@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 337974
+# Ignored duplicates: 337973
 
 pixel.ad
 roq.ad
@@ -43842,7 +43842,7 @@ reklama.mironet.cz
 js.nahnoji.cz
 mine.nahnoji.cz
 navrcholu.cz
-adserver.nearby.cz
+www.adserver.nearby.cz
 add.newmedia.cz
 window.nixnet.cz
 ads.nyx.cz
