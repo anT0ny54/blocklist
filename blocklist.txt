@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 337973
+# Ignored duplicates: 337974
 
 pixel.ad
 roq.ad
@@ -19170,6 +19170,7 @@ ww38.lcs-solar.com
 www.lcs-solar.com
 lcwaiki.com
 ldoltapes.com
+lead02.com
 leadbolt.com
 leadclick.com
 leaddyno.com
@@ -43842,7 +43843,7 @@ reklama.mironet.cz
 js.nahnoji.cz
 mine.nahnoji.cz
 navrcholu.cz
-www.adserver.nearby.cz
+adserver.nearby.cz
 add.newmedia.cz
 window.nixnet.cz
 ads.nyx.cz
@@ -48819,6 +48820,7 @@ www.totaalbalans.info
 touring24.info
 toutsurtlemcen.info
 toy-terrier.info
+mylead-tracking.tracknow.info
 translator.info
 travelersales.info
 traveller.info
@@ -87541,6 +87543,7 @@ t.zucks.net
 ksk.z.zucks.net
 zoe.zucks.net
 adtracker.network
+go-link.network
 mon-deu-1.inf.nimiq.network
 mon-deu-2.inf.nimiq.network
 mon-deu-3.inf.nimiq.network
@@ -91606,11 +91609,13 @@ adocean.pl
 adsequence.pl
 adserver.pl
 wt.bankmillennium.pl
+click-1.pl
 clickonometrics.pl
 adv.donejty.pl
 adserver.echdk.pl
 gemius.pl
 go.pl
+go-redirect.pl
 banners.iq.pl
 ads.liberte.pl
 metin2mody.pl
@@ -91628,6 +91633,7 @@ odbierz-bony.ovp.pl
 cdn1.pebx.pl
 ad.prv.pl
 quartic.pl
+re-direct.pl
 rads.realadmin.pl
 app2.salesmanago.pl
 app3.salesmanago.pl
@@ -91643,6 +91649,7 @@ broadcast.pm
 analytics.freedom.press
 bepsuglyba.pro
 clgserv.pro
+click4.pro
 evadavdsp.pro
 ww1.halleyperson.pro
 ww12.halleyperson.pro
@@ -91882,6 +91889,7 @@ p1019.mimilcnf.pro
 p242.mimilcnf.pro
 www.mimilcnf.pro
 piwik.pro
+redrection.pro
 sskmnews.pro
 stage-1.trredir.pro
 stage-2.trredir.pro
