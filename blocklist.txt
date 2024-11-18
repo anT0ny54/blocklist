@@ -44214,7 +44214,6 @@ delivery.adten.eu
 braze.eu
 manageadv.cblogs.eu
 click-2.eu
-cloud-miner.eu
 conversantmedia.eu
 browser-http-intake.logs.datadoghq.eu
 rum-http-intake.logs.datadoghq.eu
@@ -92204,6 +92203,7 @@ analytics.apotekhjartat.se
 tracking.etidning.arbetarbladet.se
 tracking.arbetarbladet.se
 analytics.arvika.se
+smetrics.avanza.se
 tracking.bandypuls.se
 resor-external.barnsemester.se
 tracking.barometern.se
