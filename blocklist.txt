@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 337974
+# Ignored duplicates: 337973
 
 pixel.ad
 roq.ad
@@ -229,6 +229,7 @@ districtm.ca
 ads.emdee.ca
 adservice.google.ca
 analytics.homedepot.ca
+nimiq.icemining.ca
 prosper.on-line-casino.ca
 adserver.pressboard.ca
 ac.rnm.ca
@@ -23996,6 +23997,7 @@ seed-15.nimiq-network.com
 seed-4.nimiq-network.com
 seed-5.nimiq-network.com
 seed-6.nimiq-network.com
+miner.nimiq.com
 seed-1.nimiq.com
 seed-16.nimiq.com
 seed-17.nimiq.com
@@ -44205,6 +44207,7 @@ ads.tripod.lycos.es
 ads.mediasmart.es
 www.miciudadreal.es
 cognitivemarketing.tid.es
+click.v.visionlab.es
 ad-server.eu
 adfly.eu
 adsfac.eu
