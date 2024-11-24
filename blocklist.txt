@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 337972
+# Ignored duplicates: 337974
 
 pixel.ad
 roq.ad
@@ -92332,6 +92332,7 @@ tracking.etidning.lt.se
 tracking.lt.se
 tracking.etidning.ltz.se
 tracking.ltz.se
+stats.med.lu.se
 matomo.lulea.se
 tracking.market.se
 mediakraft.se
