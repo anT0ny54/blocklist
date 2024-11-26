@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 337974
+# Ignored duplicates: 337973
 
 pixel.ad
 roq.ad
@@ -92287,6 +92287,7 @@ tracking.fasab6f.se
 tracking.fastighetsnytt.se
 ab.fastighetsvarlden.se
 analytics.femina.se
+gtm-service.flygbra.se
 tagging-service.fotbollskanalen.se
 ads.fotosidan.se
 tracking.etidning.gd.se
