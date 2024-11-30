@@ -6420,6 +6420,7 @@ go.bidsimulator.com
 list.bidsimulator.com
 video.bidsimulator.com
 view.bidsimulator.com
+bidsopt.com
 web2.ams.bidstalk.com
 api.bidstalk.com
 bids.bidstalk.com
@@ -6638,7 +6639,6 @@ mobile-tracking.bloomberg.com
 sponsored.bloomberg.com
 tracking.bloomberg.com
 bloomberguk.com
-blueadvertise.com
 blueberryinn.com
 bluebillywig.com
 bluebubbleballroom.com
@@ -38946,7 +38946,6 @@ trackingsoft.com
 trackjs.com
 trackmysales.com
 tracksmall.com
-trackuhub.com
 trackverify.com
 tracot.com
 tractionize.com
@@ -41736,6 +41735,7 @@ wiprocareers.com
 wirecomic.com
 analytics.wirefly.com
 wirypaste.com
+ablink.info.wise.com
 wisepops.com
 ads.wish.com
 a.wishabi.com
@@ -92251,6 +92251,7 @@ levaochbo.compricer.se
 ads.compro.se
 curemedia.se
 tracking.dagensmedia.se
+tracking.nyhetstjansterna.dagensmedicin.se
 tracking.dagensmedicin.se
 tracking.dagenssamhalle.se
 tracking.dagligvarunytt.se
@@ -92260,6 +92261,7 @@ stat.devote.se
 tracking.borssnack.di.se
 tracking.ditv.di.se
 tracking.etidning.di.se
+tracking.nyhetstjansterna.di.se
 tracking.di.se
 digitaliseringsinitiativet.se
 dinbilgaranti.se
@@ -92295,6 +92297,7 @@ tracking.fastighetsnytt.se
 ab.fastighetsvarlden.se
 analytics.femina.se
 gtm-service.flygbra.se
+tracking.folkracepuls.se
 tagging-service.fotbollskanalen.se
 ads.fotosidan.se
 tracking.etidning.gd.se
@@ -92327,6 +92330,7 @@ tracking.etidning.jp.se
 tracking.jp.se
 tracking.kalmarposten.se
 analytics.kb.se
+tracking.kpwebben.se
 tracking.kristianstadsbladet.se
 www.kundvisaren.se
 analys.landskrona.se
@@ -92349,6 +92353,7 @@ metapic.se
 stat.modette.se
 tracking.etidning.moratidning.se
 tracking.moratidning.se
+tracking.morgonexpressen.se
 analytics.motherhood.se
 ads.motorvarlden.se
 mtpc.se
