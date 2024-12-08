@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345776
+# Ignored duplicates: 345775
 
 pixel.ad
 roq.ad
@@ -4011,6 +4011,7 @@ ahdol.com
 aheadday.com
 ahmedshobeir.com
 ahoritah.com
+analytics.ahrefs.com
 ahsmedicare.com
 aibsgc.com
 aiertpay.com
@@ -7478,6 +7479,7 @@ convertcart.com
 cdn-1.convertexperiments.com
 cdn-2.convertexperiments.com
 cdn-3.convertexperiments.com
+cdn-4.convertexperiments.com
 cname1.convertexperiments.com
 logs.convertexperiments.com
 metrics.convertexperiments.com
@@ -42863,6 +42865,7 @@ ads.a-snag-smartmoney.fyi
 autologica.ga
 lnks.gd
 clean.gg
+mylead.global
 telemetry.consumersentinel.gov
 go.dhs.gov
 dap.digitalgov.gov
@@ -42900,6 +42903,7 @@ stat.dyna.ultraweb.hu
 ad.wavu.hu
 audit.webinform.hu
 adplus.co.id
+www.flashb.id
 props.id
 qualia.id
 digitize.ie
@@ -86599,6 +86603,7 @@ filmesonlinegratishd.org
 filmhot.org
 finalfantasy12.org
 financelacity.org
+fireads.org
 fixwilsonyard.org
 flightplanner.org
 floridabuildingcode.org
@@ -90099,6 +90104,7 @@ backend.qimtek.se
 advert.rabaldermedia.se
 cdn.reaktion.se
 secure.reaktion.se
+analytics.recept.se
 regstat.se
 research-int.se
 external.reseguiden.se
