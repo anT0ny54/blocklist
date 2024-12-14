@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345776
+# Ignored duplicates: 345775
 
 pixel.ad
 roq.ad
@@ -3657,6 +3657,7 @@ adtechjp.com
 a.adtechus.com
 ad-us-ec.adtechus.com
 ad-us-wc.adtechus.com
+adserver.adtechus.com
 adserver-east.adtechus.com
 adserver-qcmtc.adtechus.com
 adserver-qcscd.adtechus.com
@@ -4837,7 +4838,6 @@ sidebar.angelfire.com
 angelsinuniform.com
 mediax.angloinfo.com
 mediaz.angloinfo.com
-angossa.com
 anhguera.com
 animalattractionstv.com
 animporn.com
@@ -6761,7 +6761,6 @@ releases.cdn-jquery.com
 www.cdn-jquery.com
 six.cdn-net.com
 cdnativ.com
-tracker.cdnbye.com
 t.cdnopw.com
 www.cdnopw.com
 i.cdnpark.com
@@ -17635,7 +17634,6 @@ leadid.com
 leadlander.com
 leadnationmedia.com
 leadsbridge.com
-lightcast.leadscoringcenter.com
 leadspace.com
 t.leady.com
 leadzupc.com
@@ -35327,6 +35325,7 @@ sophia-network.com
 ww25.sopitayponvistiendoamores.com
 ww38.sopitayponvistiendoamores.com
 sopubok.com
+sordidsmile.com
 sortable.com
 www.soulcams.com
 eventgateway.soundcloud.com
@@ -42642,6 +42641,7 @@ cdn3.planetapes.de
 dn.planetapes.de
 ads.playzo.de
 pr-star.de
+praddpro.de
 ad.profiwin.de
 cgicounter.puretec.de
 ads.quoka.de
