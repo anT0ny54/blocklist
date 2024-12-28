@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345758
+# Ignored duplicates: 345757
 
 pixel.ad
 roq.ad
@@ -7787,9 +7787,6 @@ crusharcade.com
 crvhonda.com
 crypto-loot.com
 crypto-webminer.com
-dev.cryptobara.com
-digger.cryptobara.com
-miner.cryptobara.com
 cryptofollow.com
 cryptoforhealth.com
 crystalboulevard.com
@@ -14086,7 +14083,6 @@ frightenedpotato.com
 fritolayemplyment.com
 frivolousdressorder.com
 tracking.frmllc.com
-frogator.com
 frogerr.com
 fronttoad.com
 frostfire.com
@@ -16153,7 +16149,6 @@ zmail.hobbylandinc.com
 hocgeese.com
 hockeyhavoc.com
 hockyapp.com
-ad.hodomobile.com
 hodup.com
 hofopuno.com
 hofucuqu.com
@@ -17573,6 +17568,7 @@ latestflashupdate.com
 latestflashupdates.com
 latexmatresscompany.com
 ads.latinongroup.com
+laughcloth.com
 launchbit.com
 app.launchdarkly.com
 clientsdk.launchdarkly.com
@@ -85663,7 +85659,6 @@ ad4mat.nl
 adpepper.nl
 adscience.nl
 adworx.nl
-bannermarkt.nl
 belstat.nl
 checkstat.nl
 conversive.nl
@@ -89736,7 +89731,6 @@ ttarget.ru
 a.ucoz.ru
 vceilinichego.ru
 volgatermolazer.ru
-warlog.ru
 yadro.ru
 report.ap.yandex-net.ru
 adsdk.yandex.ru
