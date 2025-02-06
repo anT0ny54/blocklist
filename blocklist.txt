@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345754
+# Ignored duplicates: 345757
 
 pixel.ad
 roq.ad
@@ -12960,6 +12960,7 @@ sd.duapps.com
 sdk.duapps.com
 ssl2.duapps.com
 whosthat.duapps.com
+r.marketing.dubaisothebys.com
 revive.dubcnm.com
 ducel.com
 dufibepe.com
