@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345757
+# Ignored duplicates: 345756
 
 pixel.ad
 roq.ad
@@ -7960,7 +7960,7 @@ curvesgym.com
 cushiondrum.com
 customcardtable.com
 customcarparts.com
-customeriomail.com
+e-eu.customeriomail.com
 customnink.com
 customsbannersfast.com
 cutechin.com
