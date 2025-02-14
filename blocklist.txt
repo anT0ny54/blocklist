@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345756
+# Ignored duplicates: 345757
 
 pixel.ad
 roq.ad
@@ -7952,6 +7952,7 @@ n01d06.cumulus-cloud.com
 n01d07.cumulus-cloud.com
 orange.cumulus-cloud.com
 curalate.com
+curbminers.com
 api-logger.curejoy.com
 secure.curl7bike.com
 cursomaxx.com
