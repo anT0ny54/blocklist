@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345757
+# Ignored duplicates: 345726
 
 pixel.ad
 roq.ad
@@ -3656,8 +3656,6 @@ adserver-qcscd.adtechus.com
 adserver-west.adtechus.com
 adserverec.adtechus.com
 adserverwc.adtechus.com
-aka-cdn.adtechus.com
-aka-cdn-ns.adtechus.com
 aol-heliosiq.adtechus.com
 core.adtechus.com
 cstest.adtechus.com
@@ -5195,7 +5193,35 @@ attributionapp.com
 attugrils.com
 attwilreless.com
 ar.atwola.com
-at.atwola.com
+10.at.atwola.com
+11.at.atwola.com
+12.at.atwola.com
+13.at.atwola.com
+14.at.atwola.com
+18.at.atwola.com
+19.at.atwola.com
+20.at.atwola.com
+21.at.atwola.com
+22.at.atwola.com
+23.at.atwola.com
+24.at.atwola.com
+25.at.atwola.com
+26.at.atwola.com
+5.at.atwola.com
+6.at.atwola.com
+cdn.at.atwola.com
+de.at.atwola.com
+fr.at.atwola.com
+ingest.at.atwola.com
+jp.at.atwola.com
+mads.at.atwola.com
+ol.at.atwola.com
+qua-eu.at.atwola.com
+ssp.at.atwola.com
+tacoda.at.atwola.com
+ter-ap.at.atwola.com
+ter-us.at.atwola.com
+uk.at.atwola.com
 cdn.atwola.com
 secure-cdn.atwola.com
 flv.stream.atwola.com
