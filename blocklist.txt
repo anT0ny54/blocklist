@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345726
+# Ignored duplicates: 345757
 
 pixel.ad
 roq.ad
@@ -422,7 +422,6 @@ stpd.cloud
 event.syndigo.cloud
 50million.club
 hoho.club
-intnotif.club
 traffic.club
 lianmeng.360.cn
 adsrvr.cn
@@ -2981,6 +2980,7 @@ adserver.com
 adserverhd.com
 adserverplus.com
 adserverpub.com
+adserversolutions.com
 a.adservertq.com
 c.adservertq.com
 e.adservertq.com
@@ -3656,6 +3656,8 @@ adserver-qcscd.adtechus.com
 adserver-west.adtechus.com
 adserverec.adtechus.com
 adserverwc.adtechus.com
+aka-cdn.adtechus.com
+aka-cdn-ns.adtechus.com
 aol-heliosiq.adtechus.com
 core.adtechus.com
 cstest.adtechus.com
@@ -5193,35 +5195,7 @@ attributionapp.com
 attugrils.com
 attwilreless.com
 ar.atwola.com
-10.at.atwola.com
-11.at.atwola.com
-12.at.atwola.com
-13.at.atwola.com
-14.at.atwola.com
-18.at.atwola.com
-19.at.atwola.com
-20.at.atwola.com
-21.at.atwola.com
-22.at.atwola.com
-23.at.atwola.com
-24.at.atwola.com
-25.at.atwola.com
-26.at.atwola.com
-5.at.atwola.com
-6.at.atwola.com
-cdn.at.atwola.com
-de.at.atwola.com
-fr.at.atwola.com
-ingest.at.atwola.com
-jp.at.atwola.com
-mads.at.atwola.com
-ol.at.atwola.com
-qua-eu.at.atwola.com
-ssp.at.atwola.com
-tacoda.at.atwola.com
-ter-ap.at.atwola.com
-ter-us.at.atwola.com
-uk.at.atwola.com
+at.atwola.com
 cdn.atwola.com
 secure-cdn.atwola.com
 flv.stream.atwola.com
@@ -6086,7 +6060,6 @@ bitmex-giveaway.com
 analytics-ingress-global.bitmovin.com
 bitstarz.com
 bitterstrawberry.com
-ads.bittorrent.com
 adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
@@ -22631,7 +22604,6 @@ www1.noaknafo.com
 zmail.noaknafo.com
 banner.noblepoker.com
 nobomu.com
-nocturnalloom.com
 nogufu.com
 noiselessplough.com
 ww1.nokiaconectors.com
@@ -47047,6 +47019,7 @@ webdisk.twentyone.info
 ww1.twentyone.info
 ww17.twentyone.info
 www.twentyone.info
+ads.twojatv.info
 twzoa.info
 mail.typolemag.info
 www.typolemag.info
@@ -59240,7 +59213,6 @@ jt.ms
 rbl.ms
 adservice.google.com.mt
 ads.independent.com.mt
-kmpiframe.keepmeposted.com.mt
 ads.newsbook.com.mt
 logs1.smithsonian.museum
 ato.mx
@@ -93399,7 +93371,6 @@ admatic.com.tr
 adtarget.com.tr
 tagm.tchibo.com.tr
 adap.tv
-adapt.tv
 adrise.tv
 affec.tv
 alphonso.tv
