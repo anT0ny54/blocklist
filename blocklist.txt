@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345757
+# Ignored duplicates: 345755
 
 pixel.ad
 roq.ad
@@ -6060,6 +6060,7 @@ bitmex-giveaway.com
 analytics-ingress-global.bitmovin.com
 bitstarz.com
 bitterstrawberry.com
+ads.bittorrent.com
 adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
@@ -17590,7 +17591,6 @@ ww38.lcs-solar.com
 www.lcs-solar.com
 lcwaiki.com
 ldoltapes.com
-lead02.com
 leadbolt.com
 leadclick.com
 leaddyno.com
@@ -22452,22 +22452,6 @@ ushadsp1wadc014.ad.nike.com
 analytics.nike.com
 trk.comms.nike.com
 insight.nikkasystems.com
-seed-13.nimiq-network.com
-seed-14.nimiq-network.com
-seed-15.nimiq-network.com
-seed-4.nimiq-network.com
-seed-5.nimiq-network.com
-seed-6.nimiq-network.com
-miner.nimiq.com
-seed-1.nimiq.com
-seed-16.nimiq.com
-seed-17.nimiq.com
-seed-18.nimiq.com
-seed-19.nimiq.com
-seed-2.nimiq.com
-seed-20.nimiq.com
-seed-3.nimiq.com
-nimiqpool.com
 antispam.ninesmsn.com
 authsmtp.ninesmsn.com
 eml.ninesmsn.com
@@ -27508,7 +27492,6 @@ orbotech.com
 ww25.ordergenericviagra.com
 www.ordergenericviagra.com
 oreiily.com
-markhor.organicfruitapps.com
 ww1.orgazmika.com
 ww25.orgazmika.com
 www.orgazmika.com
@@ -28807,9 +28790,7 @@ www.purch.com
 pure-osaka.com
 www.puresweeteners.com
 pursuanthealth.com
-pushame.com
 pushance.com
-pushazer.com
 cdn.pushcrew.com
 pushengage.com
 pushmejs.com
@@ -36958,7 +36939,6 @@ smtpauth.termiix.com
 termites-pictures.com
 teroklof.com
 mine.terorie.com
-nimiq.terorie.com
 terra8nb.com
 terranovos.com
 terratracker.com
@@ -85548,53 +85528,6 @@ ksk.z.zucks.net
 zoe.zucks.net
 adtracker.network
 go-link.network
-mon-deu-1.inf.nimiq.network
-mon-deu-2.inf.nimiq.network
-mon-deu-3.inf.nimiq.network
-mon-fra-1.inf.nimiq.network
-mon-fra-2.inf.nimiq.network
-mon-gbr-1.inf.nimiq.network
-proxy-can-1.inf.nimiq.network
-proxy-deu-1.inf.nimiq.network
-proxy-deu-2.inf.nimiq.network
-proxy-fra-3.inf.nimiq.network
-proxy-gbr-1.inf.nimiq.network
-proxy-pol-1.inf.nimiq.network
-proxy-pol-2.inf.nimiq.network
-seed-can-1.inf.nimiq.network
-seed-can-2.inf.nimiq.network
-seed-deu-1.inf.nimiq.network
-seed-deu-2.inf.nimiq.network
-seed-deu-3.inf.nimiq.network
-seed-deu-4.inf.nimiq.network
-seed-fra-1.inf.nimiq.network
-seed-fra-3.inf.nimiq.network
-seed-gbr-1.inf.nimiq.network
-seed-gbr-2.inf.nimiq.network
-seed-pol-1.inf.nimiq.network
-seed-pol-2.inf.nimiq.network
-seed-pol-3.inf.nimiq.network
-seed-pol-4.inf.nimiq.network
-seed-1.nimiq.network
-seed-10.nimiq.network
-seed-11.nimiq.network
-seed-12.nimiq.network
-seed-13.nimiq.network
-seed-14.nimiq.network
-seed-15.nimiq.network
-seed-16.nimiq.network
-seed-17.nimiq.network
-seed-18.nimiq.network
-seed-19.nimiq.network
-seed-2.nimiq.network
-seed-20.nimiq.network
-seed-3.nimiq.network
-seed-4.nimiq.network
-seed-5.nimiq.network
-seed-6.nimiq.network
-seed-7.nimiq.network
-seed-8.nimiq.network
-seed-9.nimiq.network
 pub.network
 tracking.bonnier.news
 cpcalendars.eazybiz.ng
@@ -89905,7 +89838,6 @@ barbours.com.se
 www.championsverige.com.se
 fila.com.se
 footjoygolfskorrea.com.se
-www.guesssverige.com.se
 www.gymshark-sweden.com.se
 longchampstockholm.com.se
 www.vejaskor.com.se
@@ -90108,7 +90040,6 @@ tracking.etidning.tidningenangermanland.se
 tracking.tidningenangermanland.se
 tracking.etidning.tidningenharjedalen.se
 tracking.tidningenharjedalen.se
-statsapi.tiendeo.se
 stat.torgen.se
 tourn.se
 tracking.etidning.tranastidning.se
@@ -93379,6 +93310,7 @@ admatic.com.tr
 adtarget.com.tr
 tagm.tchibo.com.tr
 adap.tv
+adapt.tv
 adrise.tv
 affec.tv
 alphonso.tv
@@ -93582,7 +93514,6 @@ adpia.vn
 cleverads.vn
 eclick.vn
 smetrics.kone.vn
-node.nimiq.watch
 pixel.watch
 childrenlawyer.win
 hashing.win
