@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345757
+# Ignored duplicates: 345756
 
 pixel.ad
 roq.ad
@@ -5657,7 +5657,6 @@ bannerserver.com
 bannersnack.com
 bannerspace.com
 bannerswap.com
-bannertesting.com
 bannkofamerican.com
 barbiecooking.com
 barbiegiris.com
@@ -7359,6 +7358,7 @@ site-optimization-api.company-target.com
 t.company-target.com
 comparereaction.com
 comparethrmarket.com
+compiledoctor.com
 complementairesantetotal.com
 compulink-support.com
 comscore.com
@@ -7593,7 +7593,6 @@ cowopu.com
 cowuw.com
 coxmt.com
 coyotecarries.com
-banner.coza.com
 cozyhillside.com
 cpalead.com
 cpays.com
@@ -8153,6 +8152,7 @@ datapointlimited.com
 dataunlocker.com
 dataxu.com
 datemeboy.com
+daughterstone.com
 metrics.daveandbusters.com
 davidloyd.com
 davidmannaudio.com
@@ -8587,7 +8587,6 @@ digitalphotoprintingreviews.com
 ads.digitalpoint.com
 geo.digitalpoint.com
 digitalremedy.com
-affiliates.digitalriver.com
 adserver.digitoday.com
 antispam.digiwavetechnologies.com
 auth.digiwavetechnologies.com
@@ -13751,7 +13750,6 @@ fimserve.com
 finalltfast.com
 finansimgroup.com
 findcheapflighttickets.com
-findcommerce.com
 findmadelaine.com
 findsynology.com
 findyourcasino.com
@@ -36875,7 +36873,6 @@ spinbox.techtracker.com
 ins.techweb.com
 error-collector.ted.com
 metrics.ted.com
-tediousticket.com
 tedioustooth.com
 mail.tedwilliamshead.com
 ww1.tedwilliamshead.com
@@ -42590,7 +42587,6 @@ targad.de
 tagm.tchibo.de
 tfag.de
 banner.titan-dsl.de
-top-casting-termine.de
 trustaproiam.de
 trusteverything.de
 www.vareangold.de
