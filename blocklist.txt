@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345754
+# Ignored duplicates: 345753
 
 pixel.ad
 roq.ad
@@ -2197,7 +2197,6 @@ admex.com
 admidadsp.com
 adminder.com
 adminer.com
-adminshop.com
 ac.admitad.com
 ac2.admitad.com
 account.admitad.com
@@ -3908,7 +3907,6 @@ adzestocp.com
 adzmath.com
 adzmedia.com
 adzoka.com
-adzrevads.com
 aeabsexweb.com
 aegeansir.com
 tracking.aegpresents.com
@@ -8712,7 +8710,6 @@ dinseycruise.com
 directaclick.com
 banners.direction-x.com
 directivi.com
-directleads.com
 directorym.com
 adserver.directworksmedia.com
 dirtylittlehelpers.com
@@ -21964,7 +21961,6 @@ netaffiliation.com
 engine.espace.netavenir.com
 netclickstats.com
 adserver.netcollins.com
-netcommunities.com
 netdear.com
 beacon.netflix.com
 customerevents.netflix.com
@@ -23135,7 +23131,6 @@ oneandonlynetwork.com
 onedayflyers.com
 onedigitalad.com
 cm.oneidentity.com
-onenetworkdirect.com
 oneopinion.com
 www.oneshotketopro.com
 01.onesignal.com
@@ -31832,7 +31827,6 @@ ww16.registerservicedomains.com
 www.registerservicedomains.com
 www2.registerservicedomains.com
 zmail.registerservicedomains.com
-regnow.com
 www.regoplus.com
 regularplants.com
 reisen-24.com
@@ -39282,7 +39276,6 @@ virgionmobile.com
 www.virgnatlantic.com
 banners.virtuagirlhd.com
 cbanners.virtuagirlhd.com
-ad.virtual-nights.com
 virtualvincent.com
 ads.virtuopolitan.com
 www.visafoservices.com
@@ -42791,7 +42784,6 @@ tradelab.fr
 visual-pagerank.fr
 weborama.fr
 ads.adsbtc.fun
-ads.a-snag-smartmoney.fyi
 autologica.ga
 lnks.gd
 clean.gg
@@ -93390,7 +93382,6 @@ krb.devphp.org.ua
 a5.overclockers.ua
 ads.pfl.ua
 tracking.42-01pr5-osm-secure.co.uk
-tracking.5-47737-bi.co.uk
 ad4mat.co.uk
 adskeeper.co.uk
 af-ad.co.uk
