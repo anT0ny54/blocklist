@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345753
+# Ignored duplicates: 345754
 
 pixel.ad
 roq.ad
@@ -86282,7 +86282,6 @@ dc-7b715c8629f5.drakor.org
 mail.drakor.org
 webdisk.drakor.org
 www.drakor.org
-mine.blank.drawpad.org
 drbrambedkarcollege.org
 dreamwdith.org
 drivertexas.org
