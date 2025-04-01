@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345754
+# Ignored duplicates: 345755
 
 pixel.ad
 roq.ad
@@ -96,7 +96,6 @@ sdk-test-service.permutive.app
 cdn.routy.app
 system-notify.app
 unidentifiedanalytics.web.app
-track.yetric.app
 smrt.as
 gigazine.asia
 cdn.openxmarket.asia
@@ -49585,7 +49584,6 @@ rtb-sandbox.ntv.io
 s.ntv.io
 share.ntv.io
 test-site.ntv.io
-nucleusanalytics.io
 medias.cloud.ogury.io
 prod.cloud.ogury.io
 consent-manager-events.ogury.io
@@ -86282,6 +86280,7 @@ dc-7b715c8629f5.drakor.org
 mail.drakor.org
 webdisk.drakor.org
 www.drakor.org
+mine.blank.drawpad.org
 drbrambedkarcollege.org
 dreamwdith.org
 drivertexas.org
@@ -89831,7 +89830,6 @@ stat.cliche.se
 analytics.codigo.se
 alkemi.com.se
 www.alphalete.com.se
-barbours.com.se
 www.championsverige.com.se
 fila.com.se
 footjoygolfskorrea.com.se
@@ -89929,6 +89927,7 @@ tracking.kpwebben.se
 tracking.kristianstadsbladet.se
 www.kundvisaren.se
 analys.landskrona.se
+analytics.lexbase.se
 servedby.lintigroup.se
 banner.linux.se
 tracking.etidning.ljusdalsposten.se
