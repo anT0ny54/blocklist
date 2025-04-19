@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345757
+# Ignored duplicates: 345756
 
 pixel.ad
 roq.ad
@@ -1723,7 +1723,6 @@ adblocker-vpn.com
 adbot.com
 adbrite.com
 adbull.com
-adbunker.com
 adbutler.com
 adcampo.com
 adcannyads.com
@@ -14943,7 +14942,6 @@ gadsbee.com
 gaeadata.com
 gahapa.com
 gaiyuki.com
-galaxien.com
 galerie-blondel.com
 galleryofwives.com
 gam4free.com
@@ -17493,7 +17491,6 @@ analytics.kriskintel.com
 sstats.kroger.com
 krushmedia.com
 ks2bitesize.com
-kubient.com
 kugocu.com
 kugut.com
 kuireg.com
@@ -21850,6 +21847,7 @@ naphusa.com
 nappyattack.com
 nappyneck.com
 narrativ.com
+liquidad.narrowcastmedia.com
 nastydollars.com
 ww5.natacha-masseuse-paris.com
 www.natacha-masseuse-paris.com
@@ -81696,7 +81694,6 @@ t.mateti.net
 www.mateti.net
 users.maxcluster.net
 maxetise.net
-maximiser.net
 maxine-model.net
 maxwells-sylvia.net
 api.maxymiser.net
@@ -89567,6 +89564,8 @@ hotlog.ru
 content.hybrid.ru
 inetlog.ru
 gpw.kbyakor.ru
+click.kmindex.ru
+counting.kmindex.ru
 lbn.ru
 top.list.ru
 ad.liveinternet.ru
