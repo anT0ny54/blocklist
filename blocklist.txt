@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345757
+# Ignored duplicates: 345756
 
 pixel.ad
 roq.ad
@@ -23122,6 +23122,7 @@ onaudience.com
 onclasrv.com
 www.onclickalgo.com
 oneandonlynetwork.com
+wb-analytics.onecruiter.com
 onedayflyers.com
 onedigitalad.com
 cm.oneidentity.com
@@ -58924,7 +58925,7 @@ hits.puls.lv
 ads.radio1.lv
 topsite.lv
 api.adf.ly
-cdn.adf.ly
+www.cdn.adf.ly
 custom.adf.ly
 dmca.adf.ly
 fb.adf.ly
