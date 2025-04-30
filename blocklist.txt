@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345756
+# Ignored duplicates: 345757
 
 pixel.ad
 roq.ad
@@ -58925,7 +58925,7 @@ hits.puls.lv
 ads.radio1.lv
 topsite.lv
 api.adf.ly
-www.cdn.adf.ly
+cdn.adf.ly
 custom.adf.ly
 dmca.adf.ly
 fb.adf.ly
