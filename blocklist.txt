@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 343685
+# Ignored duplicates: 345757
 
 pixel.ad
 roq.ad
@@ -5386,6 +5386,7 @@ haus.awsmppl.com
 hiking.awsmppl.com
 hp.awsmppl.com
 icey.awsmppl.com
+ingreed.awsmppl.com
 inpector.awsmppl.com
 intelest.awsmppl.com
 interessantes.awsmppl.com
@@ -5400,6 +5401,7 @@ kkpopop.awsmppl.com
 kleen.awsmppl.com
 kvspizda.awsmppl.com
 lcavallaro.awsmppl.com
+linode.awsmppl.com
 ljkool.awsmppl.com
 login-now.awsmppl.com
 login-update.awsmppl.com
@@ -9028,7 +9030,7 @@ cash.app-usr312.dnset.com
 cash.app-view321.dnset.com
 cash.app-vrfy291.dnset.com
 apple-verify.dnset.com
-www.appleservice.dnset.com
+appleservice.dnset.com
 applestore.dnset.com
 applle.dnset.com
 appremshort.dnset.com
@@ -9129,8 +9131,8 @@ authenticateweils.dnset.com
 authenticatorserverwellz.dnset.com
 authoamwellxonnline.dnset.com
 authoristative-name.dnset.com
+authorize.dnset.com
 authorize-53rdonline.dnset.com
-www.authorize.dnset.com
 authorizeafcuverify.dnset.com
 authsafe-security.dnset.com
 authsecure03-chaseredirect.dnset.com
@@ -9270,7 +9272,7 @@ bugspinn15.dnset.com
 bugspinn19.dnset.com
 bugspinn19items.dnset.com
 bugspinn19new.dnset.com
-www.bugspins15.dnset.com
+bugspins15.dnset.com
 bugspins19.dnset.com
 bugsskinnew18.dnset.com
 bugsspinitems-x.dnset.com
@@ -9355,7 +9357,7 @@ cha-meanyouse.dnset.com
 chadstone-pocketwatch.dnset.com
 chas3online-scure.dnset.com
 chase-07bverify-info.dnset.com
-www.chase-fraudalert.dnset.com
+chase-fraudalert.dnset.com
 chase00.dnset.com
 chase03v.dnset.com
 chaseauthentication-server.dnset.com
@@ -10044,6 +10046,7 @@ fzma5.dnset.com
 g0ttfkw.dnset.com
 g1n2b56.dnset.com
 gabung-whatsapp18.dnset.com
+gabungyuk18.dnset.com
 bbslink.gae.dnset.com
 nodejsweb.gae.dnset.com
 rss.gae.dnset.com
@@ -10299,6 +10302,7 @@ join-groupxxwajap019.dnset.com
 join-grupwaxxxx.dnset.com
 join-wagrupx.dnset.com
 joinchatssexxindo3.dnset.com
+joingroupme.dnset.com
 joingruphot1.dnset.com
 joingrupwa.dnset.com
 jointgb.dnset.com
@@ -10567,7 +10571,7 @@ menra1306.dnset.com
 merchantusertd.dnset.com
 merfweb.dnset.com
 metafx.dnset.com
-www.metropubgm16.dnset.com
+metropubgm16.dnset.com
 metroupdate16.dnset.com
 mettroxbug16.dnset.com
 mfdsews.dnset.com
@@ -10680,7 +10684,7 @@ msettings.dnset.com
 mskinitems17.dnset.com
 msn.dnset.com
 msx.dnset.com
-www.mt-securemtbserver0oo.dnset.com
+mt-securemtbserver0oo.dnset.com
 mt-server0oosecureo1.dnset.com
 mt-servermtbsecure.dnset.com
 mt2verify.dnset.com
@@ -10702,9 +10706,9 @@ mtbonline-verify.dnset.com
 mtbonline003.dnset.com
 mtbsecure.dnset.com
 mtbuser-verify.dnset.com
-www.mtbuserverify-online.dnset.com
+mtbuserverify-online.dnset.com
 mtbverify-onlive.dnset.com
-www.mtbverify-security.dnset.com
+mtbverify-security.dnset.com
 mtonline.dnset.com
 mtonlinesupport.dnset.com
 mtreview-panel.dnset.com
@@ -11663,9 +11667,7 @@ secure03-loginssl.dnset.com
 secure03-loginsx2e.dnset.com
 secure03-loginx2re.dnset.com
 secure03-loginxsl.dnset.com
-abcd.secure030a.dnset.com
-cccc.secure030a.dnset.com
-www.secure030a.dnset.com
+secure030a.dnset.com
 secure03b-chasebankonlineprotection.dnset.com
 secure03ctznsbnk.dnset.com
 secure03update.dnset.com
@@ -12328,6 +12330,7 @@ verifycitizens-online.dnset.com
 verifycitizens-onnline.dnset.com
 verifycitizens-user.dnset.com
 verifycitizensnow-online.dnset.com
+verifycitizenx-online.dnset.com
 verifyfifthauth3rd-online.dnset.com
 verifyfiftthird-online.dnset.com
 verifyinfo1.dnset.com
