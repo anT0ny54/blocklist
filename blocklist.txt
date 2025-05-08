@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345757
+# Ignored duplicates: 345756
 
 pixel.ad
 roq.ad
@@ -89806,6 +89806,9 @@ fusion.bonniertidskrifter.se
 booli-logger.prod.booli.se
 tracking.etidning.borlangetidning.se
 tracking.borlangetidning.se
+bostad24.se
+bostadslistan.se
+bostadsportal.se
 collect.breakit.se
 stat.brollopstorget.se
 tracking.bt.se
@@ -89895,6 +89898,7 @@ tagging.hemnet.se
 analytics.hpscloud.se
 tracking.etidning.ht.se
 tracking.ht.se
+hyrio.se
 analytics.ica.se
 web-analytics.ica.se
 analytics.icagruppen.se
@@ -89974,6 +89978,9 @@ cdn.reaktion.se
 secure.reaktion.se
 analytics.recept.se
 regstat.se
+rentia.se
+rentify.se
+rentler.se
 research-int.se
 external.reseguiden.se
 ksdarprt.reseguiden.se
