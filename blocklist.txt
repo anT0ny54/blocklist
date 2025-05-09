@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345756
+# Ignored duplicates: 345757
 
 pixel.ad
 roq.ad
@@ -13686,6 +13686,7 @@ farskids340.com
 fashionbrandsdiscounts.com
 fast-redirecting.com
 fastclick.com
+t.fastcmp.com
 fastestyoutubedownloader.com
 fastflashupdates.com
 fastjest.com
