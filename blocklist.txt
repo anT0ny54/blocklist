@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345757
+# Ignored duplicates: 345728
 
 pixel.ad
 roq.ad
@@ -89575,7 +89575,34 @@ ntvk1.ru
 pbnet.ru
 popunder.ru
 counter.rambler.ru
-ssp.rambler.ru
+100profile.ssp.rambler.ru
+110profile.ssp.rambler.ru
+58profile.ssp.rambler.ru
+adblock.ssp.rambler.ru
+adblock-docs.ssp.rambler.ru
+click.ssp.rambler.ru
+click01.ssp.rambler.ru
+click02.ssp.rambler.ru
+img.ssp.rambler.ru
+img01.ssp.rambler.ru
+img02.ssp.rambler.ru
+img2.ssp.rambler.ru
+itp.ssp.rambler.ru
+lk.ssp.rambler.ru
+mg02.ssp.rambler.ru
+mobile.ssp.rambler.ru
+profile.ssp.rambler.ru
+profiule.ssp.rambler.ru
+rofile.ssp.rambler.ru
+rtb.ssp.rambler.ru
+stun.ssp.rambler.ru
+thumbs.ssp.rambler.ru
+thumbs01.ssp.rambler.ru
+video.ssp.rambler.ru
+www.ssp.rambler.ru
+zvedzda.ssp.rambler.ru
+zvesda.ssp.rambler.ru
+zvezda.ssp.rambler.ru
 top100-images.rambler.ru
 rate.ru
 banner.rbc.ru
@@ -93288,9 +93315,6 @@ axoncoho.tk
 hhb123.tk
 acbp0020171456.page.tl
 cpx.to
-p.estream.to
-play.estream.to
-video.streaming.estream.to
 feed.aservice.tools
 www.aservice.tools
 mail.binancegiveaway.top
