@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345728
+# Ignored duplicates: 345757
 
 pixel.ad
 roq.ad
@@ -13744,6 +13744,7 @@ fimserve.com
 finalltfast.com
 finansimgroup.com
 findcheapflighttickets.com
+findcommerce.com
 findmadelaine.com
 findsynology.com
 findyourcasino.com
@@ -14938,7 +14939,6 @@ gadsbee.com
 gaeadata.com
 gahapa.com
 gaiyuki.com
-galaxien.com
 galerie-blondel.com
 galleryofwives.com
 gam4free.com
@@ -15998,6 +15998,7 @@ heathteacher.com
 heavyplayground.com
 hebphoto.com
 hebrew-learning.com
+heimi-lwx.com
 heirloomreproductions.com
 heisejinyao.com
 hellobar.com
@@ -33719,7 +33720,6 @@ scurebrowsing.com
 scyorn.com
 scyprn.com
 sdfsdvc.com
-sdkfjxjertertry.com
 sdouthwest.com
 mattyonline.sea-patrol.com
 saveseapatrol.sea-patrol.com
@@ -38979,6 +38979,7 @@ rtb7.vertamedia.com
 s.vertamedia.com
 static.vertamedia.com
 sync.vertamedia.com
+verticalmass.com
 verve.com
 vervemobile.com
 vervewireless.com
@@ -85159,7 +85160,6 @@ zywemdebnjx.sotreq.net
 ccpa.sp-prod.net
 dialogue.sp-prod.net
 mms.sp-prod.net
-specially4u.net
 collector.pi.spectrum.net
 speectest.net
 sperdtest.net
@@ -89575,34 +89575,7 @@ ntvk1.ru
 pbnet.ru
 popunder.ru
 counter.rambler.ru
-100profile.ssp.rambler.ru
-110profile.ssp.rambler.ru
-58profile.ssp.rambler.ru
-adblock.ssp.rambler.ru
-adblock-docs.ssp.rambler.ru
-click.ssp.rambler.ru
-click01.ssp.rambler.ru
-click02.ssp.rambler.ru
-img.ssp.rambler.ru
-img01.ssp.rambler.ru
-img02.ssp.rambler.ru
-img2.ssp.rambler.ru
-itp.ssp.rambler.ru
-lk.ssp.rambler.ru
-mg02.ssp.rambler.ru
-mobile.ssp.rambler.ru
-profile.ssp.rambler.ru
-profiule.ssp.rambler.ru
-rofile.ssp.rambler.ru
-rtb.ssp.rambler.ru
-stun.ssp.rambler.ru
-thumbs.ssp.rambler.ru
-thumbs01.ssp.rambler.ru
-video.ssp.rambler.ru
-www.ssp.rambler.ru
-zvedzda.ssp.rambler.ru
-zvesda.ssp.rambler.ru
-zvezda.ssp.rambler.ru
+ssp.rambler.ru
 top100-images.rambler.ru
 rate.ru
 banner.rbc.ru
@@ -93315,6 +93288,9 @@ axoncoho.tk
 hhb123.tk
 acbp0020171456.page.tl
 cpx.to
+p.estream.to
+play.estream.to
+video.streaming.estream.to
 feed.aservice.tools
 www.aservice.tools
 mail.binancegiveaway.top
