@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345757
+# Ignored duplicates: 345758
 
 pixel.ad
 roq.ad
@@ -90028,6 +90028,7 @@ tracking.sydsvenskan.se
 tailsweep.se
 tagm.tchibo.se
 analytics.teknikveckan.se
+adsaga.telgenytt.se
 tracking.etidning.tidningenangermanland.se
 tracking.tidningenangermanland.se
 tracking.etidning.tidningenharjedalen.se
