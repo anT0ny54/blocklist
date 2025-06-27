@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345759
+# Ignored duplicates: 345758
 
 cadmus.script.ac
 pixel.ad
@@ -6098,6 +6098,7 @@ beta.bkrtx.com
 origin.bkrtx.com
 www.bkrtx.com
 blackboad.com
+eml.blackduck.com
 blackkfriday.com
 blackmillclothing.com
 blackopsairsoftguns.com
