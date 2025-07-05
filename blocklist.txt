@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345757
+# Ignored duplicates: 345758
 
 cadmus.script.ac
 pixel.ad
@@ -21377,6 +21377,7 @@ ww35.mummy8.com
 ww38.mummy8.com
 www.mummy8.com
 mundanenail.com
+mundanepollution.com
 muscleandfitnessforum.com
 musclehero.com
 ww25.musicasshow.com
@@ -89199,7 +89200,6 @@ app3.salesmanago.pl
 stat.pl
 adsrv2.swidnica24.pl
 tagm.tchibo.pl
-track-on.pl
 stat.webmedia.pl
 adserver.wolterskluwer.pl
 adv.wp.pl
@@ -93283,7 +93283,6 @@ video.streaming.estream.to
 feed.aservice.tools
 www.aservice.tools
 mail.binancegiveaway.top
-fingahvf.top
 push-notifications.top
 xxx2023.top
 admatic.com.tr
