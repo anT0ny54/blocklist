@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345757
+# Ignored duplicates: 345758
 
 cadmus.script.ac
 pixel.ad
@@ -85171,6 +85171,7 @@ www6.sstoday.net
 xfxsxhlr.sstoday.net
 ssvefrom.net
 st-av.net
+leue.stape.net
 statistik-gallup.net
 statserv.net
 beta-eue-1.steelcentral.net
