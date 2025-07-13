@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345756
+# Ignored duplicates: 345758
 
 cadmus.script.ac
 pixel.ad
@@ -8408,6 +8408,7 @@ deliverancerocks.com
 p.delivercdn.com
 delivered-by-madington.com
 deliverimp.com
+eclicks.deliveroo.com
 boomerang.dell.com
 nexus.dell.com
 nsm.dell.com
