@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345758
+# Ignored duplicates: 345757
 
 cadmus.script.ac
 pixel.ad
@@ -6618,6 +6618,7 @@ cashproonlinebankofamerica.com
 cashrequestonline.com
 cashxml.com
 ads.casinocity.com
+casinopays.com
 casinorewards.com
 casinotoplists.com
 casinotraffic.com
@@ -16368,6 +16369,7 @@ cdn.feeds.ibt.com
 tracking.ibxlink.com
 icanhazhotdog.com
 tracker.icerocket.com
+look.ichlnk.com
 icinemasurround.com
 iclarfied.com
 icloid.com
@@ -21961,6 +21963,7 @@ ichnaea-web.us-east-1.internal.dradis.netflix.com
 ichnaea-web.us-west-2.internal.dradis.netflix.com
 beacon.geo.netflix.com
 ichnaea.geo.netflix.com
+nmtracking.netflix.com
 ichnaea.eu-west-1.origin.prodaa.netflix.com
 ichnaea.us-east-1.origin.prodaa.netflix.com
 ichnaea.us-west-2.origin.prodaa.netflix.com
@@ -26015,6 +26018,7 @@ opienetwork.com
 opiumud.com
 opmnstr.com
 oppuz.com
+look.opskln.com
 scripts.opti-digital.com
 optimallimit.com
 www.optimeze.com
@@ -39004,6 +39008,9 @@ ww16.victoriassecrest.com
 ww17.victoriassecrest.com
 ww25.victoriassecrest.com
 www.victoriassecrest.com
+rpt-ads.vidaahub.com
+rsc-ads.vidaahub.com
+ter-jrnl-oc.vidaahub.com
 bis.vidazoo.com
 bisdr.vidazoo.com
 img.vidazoo.com
@@ -49853,6 +49860,7 @@ sdkconfig.pulse.schibsted.io
 adsgard.aprod.scopely.io
 collector.scopely.io
 beacon.searchspring.io
+telemetry.seenthis.io
 segment.io
 segmetrics.io
 cal.a.sentry.io
@@ -61409,6 +61417,8 @@ a-staging.bf-ad.net
 bhefry.net
 bidclix.net
 bidswitch.net
+ad0.bigmir.net
+c.bigmir.net
 billyjons.net
 binanceteam.net
 mail.binancevent.net
@@ -81325,7 +81335,6 @@ ithinkthereforeiam.net
 ivaremortgage.net
 iyotube.net
 jacquieetmichetvl.net
-jauchuwa.net
 javfinder.net
 jkuc.net
 jobs-journal.net
@@ -85320,6 +85329,7 @@ usertrack.net
 vellsouth.net
 verticalhealth.net
 vickyshop.net
+ads-portal-cdn.vidaatv.net
 api.vidiom.net
 lb.dub1.visto1.net
 lb.iad1.visto1.net
@@ -89546,6 +89556,8 @@ hotlog.ru
 content.hybrid.ru
 inetlog.ru
 gpw.kbyakor.ru
+click.kmindex.ru
+counting.kmindex.ru
 lbn.ru
 top.list.ru
 ad.liveinternet.ru
