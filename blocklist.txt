@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345758
+# Ignored duplicates: 345757
 
 cadmus.script.ac
 pixel.ad
@@ -85552,6 +85552,7 @@ deals.innocode.no
 am.medialaben.no
 log.medietall.no
 pinch.no
+annonser.snoap.no
 click.email.strawberry.no
 ad.tv2.no
 ads.vg.no
