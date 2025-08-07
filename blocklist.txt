@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345758
+# Ignored duplicates: 345757
 
 cadmus.script.ac
 pixel.ad
@@ -195,6 +195,7 @@ adanging.blog
 foxnews.blog
 mkto-panda123.music.blog
 analytics.blue
+www.4x4brasil.com.br
 banners.bol.com.br
 www3.convergenciadigital.com.br
 adserver.diariodosertao.com.br
