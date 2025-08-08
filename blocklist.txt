@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345757
+# Ignored duplicates: 345758
 
 cadmus.script.ac
 pixel.ad
@@ -53726,6 +53726,7 @@ saas.yellowblue.io
 seller-test.yellowblue.io
 webrv.yellowblue.io
 zentrick.io
+assets.zubitracker.io
 stats.umami.is
 ad4mat.it
 adshrink.it
@@ -64105,6 +64106,7 @@ tistory2.daumcdn.net
 tistory3.daumcdn.net
 tistory4.daumcdn.net
 dba-ora.net
+r1.ddlnk.net
 deal-2010.net
 debtreliefforyou.net
 accounts.decibelinsight.net
@@ -81124,7 +81126,6 @@ gamesites100.net
 gamma-tech.net
 garlanisd.net
 gavsim.net
-play.mine.gay-hotvideo.net
 www.quotes.gb.net
 geoplugin.net
 germanstudy.net
@@ -89905,6 +89906,7 @@ adserver.infotorg.se
 gwen.insertcoin.se
 investerarbrevet.se
 leadconnect.ipmaxi.se
+statistik.jagareforbundet.se
 openx.jaktsidan.se
 tracking.etidning.jp.se
 tracking.jp.se
