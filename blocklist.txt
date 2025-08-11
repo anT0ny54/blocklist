@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345758
+# Ignored duplicates: 345757
 
 cadmus.script.ac
 pixel.ad
@@ -36535,6 +36535,7 @@ root.sweetxxxmovies.com
 seed.sweetxxxmovies.com
 www.sweetxxxmovies.com
 cdn.swellrewards.com
+swetrix.com
 cc.swiftype.com
 s.swiftypecdn.com
 analytics.swiggy.com
