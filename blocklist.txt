@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345758
+# Ignored duplicates: 345756
 
 cadmus.script.ac
 pixel.ad
@@ -15196,7 +15196,7 @@ gmailol.com
 gmalto.com
 gmapil.com
 gmiai.com
-gmial.com
+www.gmial.com
 gmpail.com
 gmrlnd.com
 analytics.ext.go-tellm.com
@@ -18360,6 +18360,7 @@ ww16.mailtrafficrtb.com
 www.mailtrafficrtb.com
 mainad.com
 maincourserestaurant.com
+bb-pbc.mainroll.com
 lifeofsvea.mainroll.com
 maisongaia.com
 data.maisonsdumonde.com
@@ -79303,6 +79304,7 @@ dslinstallationbellsouth.net
 dubiavisa.net
 durationmedia.net
 duvalltaxcollect.net
+ls.dycdn.net
 dynad.net
 e-freesms.net
 e-planning.net
