@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345757
+# Ignored duplicates: 345758
 
 cadmus.script.ac
 pixel.ad
@@ -194,6 +194,7 @@ yospace.biz
 adanging.blog
 foxnews.blog
 mkto-panda123.music.blog
+analytics.blue
 www.4x4brasil.com.br
 banners.bol.com.br
 www3.convergenciadigital.com.br
@@ -243,6 +244,7 @@ ads.watson.ch
 link.go.chase
 adserver.bdoce.cl
 abc.pema.cl
+ashgrrwt.click
 3sstudioprivatelimited10241062.o18.click
 absolutedigimedia10140799.o18.click
 acceleratedad.o18.click
@@ -407,6 +409,7 @@ winkleads.o18.click
 xcessmobil.o18.click
 xperienceads10133229.o18.click
 zelanmedia10028545.o18.click
+panger-top.click
 pheegoab.click
 premium.analys.cloud
 advertising-cdn.dpgmedia.cloud
@@ -1685,6 +1688,7 @@ acxiom.com
 ad-brix.com
 ad-cupid.com
 ad-flow.com
+ad-miner.com
 ad-pixel.com
 ad-score.com
 ad-stir.com
@@ -3534,6 +3538,7 @@ cdn.adt356.com
 cdn.adt361.com
 cdn.adt512.com
 cdn.adt532.com
+cdn.adt574.com
 adt598.com
 acs.adtdp.com
 adp-pmk.adtdp.com
@@ -3916,6 +3921,7 @@ affanalytics.com
 affiliate-b.com
 affiliatetracking.com
 affiliatewindow.com
+go.affiliationcloud.com
 dc-e37896a9953c.affiliatly.com
 localhost.affiliatly.com
 mail.affiliatly.com
@@ -4815,6 +4821,7 @@ metrics.ancestry.com
 smetrics.ancestry.com
 track.anchorfree.com
 ancientact.com
+andlache.com
 analytics.anedot.com
 photography.angela-mathis.com
 sidebar.angelfire.com
@@ -5590,6 +5597,7 @@ baducci.com
 bagbeam.com
 bagnbros.com
 eiv.baidu.com
+baiduccdn1.com
 dup.baidustatic.com
 bailyfitness.com
 citrix.bakearella.com
@@ -5892,6 +5900,7 @@ bestbuyrvs.com
 bestbuys.com
 bestbuysstore.com
 bestclasslanguage.com
+bestcoinsignals.com
 bestcontentonline.com
 www.bestdressedbaby.com
 go.bestmobiworld.com
@@ -5919,6 +5928,7 @@ betterbannerscloud.com
 bettycocker.com
 ads.betweendigital.com
 cache.betweendigital.com
+bewaslac.com
 bewilderedblade.com
 beybleybattle.com
 beyodntherack.com
@@ -6917,6 +6927,7 @@ cision.com
 citadelbank.com
 metrics1.citi.com
 content22.online.citi.com
+analytics.citreamedia.com
 profile.citrix.com
 recommendation.citrix.com
 citzensfirstbank.com
@@ -7299,11 +7310,14 @@ autodiscover.coinbaseone.com
 mail.coinbaseone.com
 www.coinbaseone.com
 coinbaserewards.com
+coinblind.com
 mail.coindeskbtc.com
 my.coindeskbtc.com
 www.coindeskbtc.com
 coinerra.com
 www.coinimp.com
+coinminingonline.com
+coinnebula.com
 col3negorijinal.com
 colaretiree.com
 colaretirees.com
@@ -13063,6 +13077,7 @@ wlcampeonbet.adsrv.eacdn.com
 wlcashpointpartners.adsrv.eacdn.com
 wlcasinounlimited.adsrv.eacdn.com
 wlcg-partners.adsrv.eacdn.com
+wlcoolbet.adsrv.eacdn.com
 wldrf.adsrv.eacdn.com
 wleuroearners.adsrv.eacdn.com
 wlfanduel.adsrv.eacdn.com
@@ -13381,6 +13396,7 @@ estheticmeso.com
 esty.com
 etahub.com
 etargetnet.com
+eth-pocket.com
 ethaiinfo.com
 ethairdrops.com
 ethereum-cashcard.com
@@ -13628,6 +13644,7 @@ ezodn.com
 ezula.com
 ezwebsitetraffic.com
 ezwid.com
+f1tbit.com
 interact.f5.com
 f9pennsy3glvkm6ania.com
 fabswingerd.com
@@ -18194,6 +18211,7 @@ analytics.mabra.com
 mabydick.com
 maccomestics.com
 maccosmeticspro.com
+machieved.com
 fallback.machigames.com
 mx1.machigames.com
 ns3.machigames.com
@@ -42219,7 +42237,7 @@ matomo.activate.cz
 advisormedia.cz
 adserver.anawe.cz
 bm.annonce.cz
-www.authedwebmine.cz
+authedwebmine.cz
 bannery.cz
 billboard.cz
 ad.centrum.cz
@@ -48626,6 +48644,7 @@ analytics.cloudron.io
 stats.cloudwp.io
 zion-telemetry.api.cnn.io
 cr26h.codesandbox.io
+coinrail.io
 cointraffic.io
 concert.io
 segmentation.k8s.us-east-1--production.containers.aws.conde.io
@@ -86718,6 +86737,7 @@ go.icann.org
 icj-cji.org
 icun.org
 idiotenapostroph.org
+igrid.org
 ihric.org
 ihsdxb.org
 iisj.org
@@ -87687,6 +87707,7 @@ ww25.powervideos.org
 ww3.powervideos.org
 ww38.powervideos.org
 www.powervideos.org
+pr0gram.org
 prajakeeya.org
 prebid.org
 preparetexas.org
@@ -89469,6 +89490,8 @@ a.pxi.pub
 client.staging.pxi.pub
 collector.staging.pxi.pub
 www.autocapital.pw
+bmcm.pw
+bmnr.pw
 bmst.pw
 test.minr.pw
 tdzvm.pw
@@ -89554,6 +89577,7 @@ counting.kmindex.ru
 lbn.ru
 top.list.ru
 ad.liveinternet.ru
+losital.ru
 top100.mafia.ru
 ad.mail.ru
 top.mail.ru
@@ -89577,6 +89601,7 @@ tns-counter.ru
 st.top100.ru
 ttarget.ru
 a.ucoz.ru
+vceilinichego.ru
 volgatermolazer.ru
 yadro.ru
 report.ap.yandex-net.ru
@@ -89960,6 +89985,7 @@ advert.rabaldermedia.se
 cdn.reaktion.se
 secure.reaktion.se
 analytics.recept.se
+load.a.receptskatt.se
 regstat.se
 rentia.se
 rentify.se
