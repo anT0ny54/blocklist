@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345758
+# Ignored duplicates: 345757
 
 cadmus.script.ac
 pixel.ad
@@ -17616,7 +17616,6 @@ analytics.learnondemandsystems.com
 learnvlsi.com
 gapi.learnwithhomer.com
 leawesome.com
-adserver.lecool.com
 lectionarywordsatworship.com
 leetche.com
 leftliquid.com
@@ -82753,7 +82752,6 @@ rule20.net
 runtnc.net
 rvty.net
 sabrashop.net
-safeanalytics.net
 safefrome.net
 auth.satellitebr.net
 gateway.satellitebr.net
