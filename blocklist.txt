@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345758
+# Ignored duplicates: 345759
 
 cadmus.script.ac
 pixel.ad
@@ -31837,6 +31837,7 @@ rejoiner.com
 relaitor.com
 apps-cdn.relevant-digital.com
 cdn.relevant-digital.com
+eniro-cdn.relevant-digital.com
 mgdk-cdn.relevant-digital.com
 otc-cdn.relevant-digital.com
 schibsted-cdn.relevant-digital.com
