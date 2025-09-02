@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345759
+# Ignored duplicates: 345758
 
 cadmus.script.ac
 pixel.ad
@@ -21825,6 +21825,7 @@ www.nakedcraig.com
 nalurujo.com
 namechecp.com
 data.namesakeoscilloscopemarquis.com
+nametraff.com
 nanaimorealestateprices.com
 222.nancysfabrics.com
 antispam.nancysfabrics.com
