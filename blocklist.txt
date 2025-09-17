@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 346004
+# Ignored duplicates: 346005
 
 cadmus.script.ac
 pixel.ad
@@ -49381,6 +49381,7 @@ cdn-au.pagesense.io
 cdn-eu.pagesense.io
 cdn-in.pagesense.io
 cdn-jp.pagesense.io
+partnerlinks.io
 adopt.pendo.io
 adopt-studio.pendo.io
 adoptpartners.pendo.io
@@ -63678,6 +63679,7 @@ d2uap9jskdzp2.cloudfront.net
 d2ubx2mpeq0x2u.cloudfront.net
 d2v02itv0y9u9t.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
+d2zd0wa1vpt7j9.cloudfront.net
 d2ze07sbtyfzd0.cloudfront.net
 d2zv5rkii46miq.cloudfront.net
 d31vxm9ubutrmw.cloudfront.net
@@ -87352,6 +87354,8 @@ phoenixcenterbhs.org
 ads.phpclasses.org
 engage.physicstoday.org
 pi-hole.org
+f.pie.org
+t.pie.org
 piedmonthenry.org
 piratca.org
 pirlotv.org
