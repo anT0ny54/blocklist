@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 346005
+# Ignored duplicates: 346006
 
 cadmus.script.ac
 pixel.ad
@@ -7235,6 +7235,7 @@ cdnjs.cloudflane.com
 www.cloudflane.com
 metrics.cloudflarebolt.com
 cloudflareinsights.com
+cloudguppy.com
 mediavine-res.cloudinary.com
 clpis4sale.com
 clrstm.com
@@ -7378,6 +7379,7 @@ conductrics.com
 coneel.com
 conerstone.com
 conexionsuperior.com
+confidencetalks.com
 digitalfeedback.euro.confirmit.com
 adexchange.connatix.com
 adgen-cdn.connatix.com
@@ -8160,6 +8162,7 @@ www.davidmovi.com
 daviedmovie.com
 ww5.davischevy.com
 www.davischevy.com
+daybreaklights.com
 daylightmotorsinc.com
 daysinnbakersfieldca.com
 commercial.daznservices.com
@@ -13738,6 +13741,7 @@ filebx.com
 filemonsters.com
 filesmoster.com
 filimizlesene.com
+fillthemap.com
 filmha3.com
 filmsmania.com
 ads.filmup.com
@@ -15949,6 +15953,7 @@ hallyho.com
 haloapps.com
 haltingbadge.com
 hammerhearing.com
+hamsterspot.com
 hamtominn.com
 handmaidensgarden.com
 handsomehose.com
@@ -22448,7 +22453,6 @@ offaces-butional.com
 offer-go.com
 offerforge.com
 offermatica.com
-offerreality.com
 offerspace.com
 officialdonnasimpson.com
 officialgregorygorgeous.com
@@ -35786,6 +35790,7 @@ strossle.com
 strpjmp.com
 structurerod.com
 servedby.studads.com
+studycooking.com
 stupendoussleet.com
 stupendoussnow.com
 styledeluxe.com
@@ -44832,7 +44837,6 @@ www.messletters.info
 www.meulink.info
 mfsa.info
 mgacloop.info
-mi-de-ner-nis3.info
 mi-ner-nis-de-6.info
 miamivice.info
 micama.info
