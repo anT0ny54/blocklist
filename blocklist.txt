@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 346006
+# Ignored duplicates: 346005
 
 cadmus.script.ac
 pixel.ad
