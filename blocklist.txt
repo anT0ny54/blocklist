@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 346005
+# Ignored duplicates: 346006
 
 cadmus.script.ac
 pixel.ad
@@ -8578,6 +8578,7 @@ dievoelker.com
 nlytcs.diffen.com
 digestiondrawer.com
 seal.digicert.com
+ads.digitalcaramel.com
 digitalkites.com
 ad.digitallook.com
 ads.digitalmedianet.com
