@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 346006
+# Ignored duplicates: 346007
 
 cadmus.script.ac
 pixel.ad
@@ -15715,7 +15715,6 @@ gr.com
 click.mkt.grab.com
 smetrics.grainger.com
 graizoah.com
-play.gramombird.com
 grandcrowneleisure.com
 grandfatherguitar.com
 grandinrode.com
@@ -42428,7 +42427,6 @@ bitcoin-pocket.eu
 braze.eu
 manageadv.cblogs.eu
 click-2.eu
-cloud-miner.eu
 conversantmedia.eu
 browser-http-intake.logs.datadoghq.eu
 rum-http-intake.logs.datadoghq.eu
