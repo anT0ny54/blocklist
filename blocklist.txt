@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 346006
+# Ignored duplicates: 346007
 
 cadmus.script.ac
 pixel.ad
@@ -6000,6 +6000,7 @@ bilizzard.com
 www.billgateshelp.com
 billigastelanet.com
 billigastforsakring.com
+billtable.com
 billyblank.com
 billywitchdoctor.com
 bilojobs.com
@@ -7945,6 +7946,7 @@ secure.curl7bike.com
 cursomaxx.com
 curtaincows.com
 curvesgym.com
+curveshore.com
 cushiondrum.com
 customcardtable.com
 customcarparts.com
@@ -13988,6 +13990,7 @@ freeclubpenguinmembership.com
 freecountercode.com
 freecounterstat.com
 metrics.freecreditscore.com
+freedomgrail.com
 freefirearmsfx.com
 freejustteensite.com
 freelancemanga.com
@@ -17720,6 +17723,7 @@ linkprice.com
 linkrain.com
 linkreferral.com
 links-protect.com
+linksoutside.com
 linkswaper.com
 accounting.linksynergy.com
 ad.linksynergy.com
@@ -19299,6 +19303,7 @@ mercuryace.com
 merequartz.com
 attribution.merrell.com
 stats.merriam-webster.com
+messagelists.com
 messnger.com
 metaadsnet.com
 metaboltonic.com
@@ -39726,7 +39731,6 @@ ad.cc.webmd.com
 o.webmd.com
 ww1.webmdbaby.com
 webminepool.com
-webminerpool.com
 weborama.com
 webpinp.com
 analytics.webpushr.com
@@ -41295,6 +41299,7 @@ www2.yamails.com
 zimbra.yamails.com
 zmail.yamails.com
 yanaiarfi.com
+yandexmetrica.com
 yaskyatv.com
 yatube.com
 ww1.ycarli.com
@@ -53343,7 +53348,6 @@ smarterhq.io
 snapsmedia.io
 sophi.io
 static.sparechange.io
-www.sparechange.io
 spgo.io
 split.io
 cdn.splitbee.io
@@ -93080,6 +93084,9 @@ axoncoho.tk
 hhb123.tk
 acbp0020171456.page.tl
 cpx.to
+p.estream.to
+play.estream.to
+video.streaming.estream.to
 feed.aservice.tools
 www.aservice.tools
 adsflowprime.top
