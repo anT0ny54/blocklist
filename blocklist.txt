@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 346007
+# Ignored duplicates: 346014
 
 cadmus.script.ac
 audio.ad
@@ -13325,7 +13325,6 @@ emailtrafficnetwork.com
 emailtrafficnetworks.com
 emailtrafficrtb.com
 emaritesgroupcareers.com
-analytics.emarketer.com
 ematations.com
 config.emb-api.com
 data.emb-api.com
@@ -15057,7 +15056,6 @@ gemius.com
 www.gemlocomotivemid.com
 geneaguide.com
 analytics.generalmills.com
-generateoffice.com
 adserver.generationiron.com
 www.geniedownload.com
 librato-collector.genius.com
@@ -16191,6 +16189,7 @@ hoptheshop.com
 hoqug.com
 horneybuds.com
 horneycam.com
+ads.horsehero.com
 hosag.com
 hosllister.com
 hospitalitycreditunion.com
@@ -31624,12 +31623,7 @@ regularplants.com
 reisen-24.com
 rejoiner.com
 relaitor.com
-apps-cdn.relevant-digital.com
-cdn.relevant-digital.com
-eniro-cdn.relevant-digital.com
-mgdk-cdn.relevant-digital.com
-otc-cdn.relevant-digital.com
-schibsted-cdn.relevant-digital.com
+relevant-digital.com
 relicrank.com
 relmaxtop.com
 remaxx.com
@@ -34960,7 +34954,6 @@ track.software-codes.com
 ww1.softwarealltel.com
 www.softwarealltel.com
 soggysponge.com
-soggyzoo.com
 soguq.com
 soicos.com
 alaskaair.sojern.com
@@ -38590,7 +38583,6 @@ ww1.uswairwaysmastercard.com
 www.uswairwaysmastercard.com
 utahrightstoknow.com
 utl-1.com
-tracking.utlservice.com
 utrbanoutfitters.com
 ww11.utroent.com
 ww25.utroent.com
@@ -39758,7 +39750,6 @@ ad.cc.webmd.com
 o.webmd.com
 ww1.webmdbaby.com
 webminepool.com
-webminerpool.com
 weborama.com
 webpinp.com
 analytics.webpushr.com
@@ -85375,7 +85366,6 @@ am.medialaben.no
 log.medietall.no
 pinch.no
 annonser.snoap.no
-click.email.strawberry.no
 ad.tv2.no
 ads.vg.no
 advert.vg.no
