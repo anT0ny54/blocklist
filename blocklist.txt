@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 346014
+# Ignored duplicates: 346013
 
 cadmus.script.ac
 audio.ad
@@ -28501,7 +28501,7 @@ protagcdn.com
 protectcrev.com
 metrics.protectmyid.com
 protectsubrev.com
-protesidenext.com
+www.protesidenext.com
 protestcopy.com
 proton-tm.com
 protopline.com
