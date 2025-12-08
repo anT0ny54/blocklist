@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 346013
+# Ignored duplicates: 346014
 
 cadmus.script.ac
 audio.ad
