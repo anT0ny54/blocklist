@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 346014
+# Ignored duplicates: 346013
 
 cadmus.script.ac
 audio.ad
@@ -541,6 +541,7 @@ jqa.6sc.co
 p.6sc.co
 s.6sc.co
 t.6sc.co
+adcel.co
 adk2.co
 prebid.adnxs.co
 adpxl.co
@@ -6234,8 +6235,6 @@ ads.boylesports.com
 boyonthenet.com
 bpath.com
 bpdresources.com
-ads.brabys.com
-adsfeed.brabys.com
 braincash.com
 tag.brainient.com
 client-analytics.braintreegateway.com
@@ -7369,6 +7368,7 @@ site-optimization-api.company-target.com
 t.company-target.com
 comparereaction.com
 comparethrmarket.com
+compilework.com
 complementairesantetotal.com
 compulink-support.com
 comscore.com
@@ -7779,9 +7779,6 @@ crusharcade.com
 crvhonda.com
 crypto-loot.com
 crypto-webminer.com
-dev.cryptobara.com
-digger.cryptobara.com
-miner.cryptobara.com
 cryptofollow.com
 cryptoforhealth.com
 crystalboulevard.com
@@ -8572,6 +8569,7 @@ dianeychannal.com
 dianomi.com
 diaryhub.com
 dibujosmanga.com
+dicecandies.com
 dickeckland.com
 dickssportiggoods.com
 ceops.dickssportinggoods.com
@@ -20386,7 +20384,6 @@ misuu.com
 mittencattle.com
 tracking.intl.miui.com
 tracking.miui.com
-mix2ads.com
 mixedreading.com
 mixedtraffic.com
 mixeringtones.com
@@ -27834,7 +27831,6 @@ ww38.pennsound.com
 pennyweb.com
 peoplecourtraw.com
 pepperjamnetwork.com
-perceivequarter.com
 percentmobile.com
 perfdrive.com
 perfectaudience.com
@@ -85882,7 +85878,6 @@ ww17.consulfrance-edimbourg.org
 ww38.consulfrance-edimbourg.org
 www.consulfrance-edimbourg.org
 www1.consulfrance-edimbourg.org
-metrics.consumerreports.org
 smetrics.consumerreports.org
 coresera.org
 cornerstoneaog.org
