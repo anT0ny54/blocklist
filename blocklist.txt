@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 346014
+# Ignored duplicates: 346009
 
 cadmus.script.ac
 audio.ad
@@ -17568,7 +17568,11 @@ landingtree.com
 landkarts.com
 landrovermalaysia.com
 activate.lanebryant.com
-langhort.com
+amz.langhort.com
+chat.langhort.com
+d.langhort.com
+data.langhort.com
+s.langhort.com
 matomo.lantmannen.com
 largebrass.com
 larivieredemeraude.com
