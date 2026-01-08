@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 346009
+# Ignored duplicates: 346015
 
 cadmus.script.ac
 audio.ad
@@ -2875,6 +2875,7 @@ adocean-global.com
 adoftheyear.com
 adonspot.com
 adonstudio.com
+adopsboost.com
 adoptunmec.com
 adorigin.com
 adotaretudodebom.com
@@ -17538,6 +17539,7 @@ analytics.kriskintel.com
 sstats.kroger.com
 krushmedia.com
 ks2bitesize.com
+kueezrtb.com
 kugocu.com
 kugut.com
 kuireg.com
@@ -17568,11 +17570,7 @@ landingtree.com
 landkarts.com
 landrovermalaysia.com
 activate.lanebryant.com
-amz.langhort.com
-chat.langhort.com
-d.langhort.com
-data.langhort.com
-s.langhort.com
+langhort.com
 matomo.lantmannen.com
 largebrass.com
 larivieredemeraude.com
@@ -63802,7 +63800,7 @@ collegelatinas.net
 colorkids.net
 community-baptist.net
 comxcast.net
-cdn.confiant-integrations.net
+confiant-integrations.net
 connecthackensackumc.net
 connecting-to-the.net
 connexity.net
@@ -82453,6 +82451,7 @@ tag.owneriq.net
 wcclicks.owneriq.net
 www.owneriq.net
 ads.p161.net
+p7cloud.net
 pages03.net
 www.sc.pages06.net
 ww1.paimt.net
