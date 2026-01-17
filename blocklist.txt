@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345915
+# Ignored duplicates: 345916
 
 cadmus.script.ac
 audio.ad
@@ -4822,6 +4822,7 @@ ancientact.com
 andlache.com
 analytics.anedot.com
 photography.angela-mathis.com
+sidebar.angelfire.com
 angelsinuniform.com
 mediax.angloinfo.com
 mediaz.angloinfo.com
@@ -18237,6 +18238,8 @@ luxstiaxg.com
 lwadifa.com
 lwadm.com
 lycero.com
+adbuyer3.lycos.com
+ratings.lycos.com
 lynnsauto.com
 lyricshook.com
 lysxtreme.com
@@ -20395,6 +20398,7 @@ misuu.com
 mittencattle.com
 tracking.intl.miui.com
 tracking.miui.com
+mix2ads.com
 mixedreading.com
 mixedtraffic.com
 mixeringtones.com
@@ -33988,6 +33992,7 @@ serving-sys.com
 servinggta.com
 sesamestats.com
 interactions.sesamy.com
+sessioncam.com
 antispam.setransp-aju.com
 comune.setransp-aju.com
 mail.setransp-aju.com
@@ -37397,6 +37402,7 @@ triolisme.com
 tripadvvisor.com
 tripleadvisors.com
 triplelift.com
+ads.tripod.com
 ww1.triton-topo.com
 www.triton-topo.com
 trkoptimizer.com
@@ -42425,6 +42431,7 @@ layer-ad.de
 layer-ads.de
 ligatus.de
 link-booster.de
+ads.tripod.lycos.de
 adnews.maddog2000.de
 madvertise.de
 banner.media-system.de
@@ -42538,6 +42545,7 @@ ad4mat.es
 modatri.aegon.es
 publicidad.elmundo.es
 gaug.es
+ads.tripod.lycos.es
 ads.mediasmart.es
 www.miciudadreal.es
 cognitivemarketing.tid.es
@@ -42644,6 +42652,7 @@ kwptg.kantarworldpanel.fr
 kdata.fr
 keepass.fr
 leadplace.fr
+ads.multimania.lycos.fr
 mediasquare.fr
 images.orangepublicite.fr
 sbx.pagesjaunes.fr
@@ -49756,7 +49765,6 @@ travel-platform.redventures.io
 volt.redventures.io
 volt-development.redventures.io
 remerge.io
-revlift.io
 rocks.io
 healthstats.rollick.io
 rtxt.io
@@ -63815,7 +63823,6 @@ d2uap9jskdzp2.cloudfront.net
 d2ubx2mpeq0x2u.cloudfront.net
 d2v02itv0y9u9t.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
-d2zd0wa1vpt7j9.cloudfront.net
 d2ze07sbtyfzd0.cloudfront.net
 d2zv5rkii46miq.cloudfront.net
 d31vxm9ubutrmw.cloudfront.net
@@ -85451,6 +85458,7 @@ ads2.femmefab.nl
 openx.financialpublishers.nl
 leadz01.isn.nl
 kliks.nl
+ads.tripod.lycos.nl
 m4n.nl
 ads.massinfra.nl
 microdefender.nl
@@ -89147,7 +89155,6 @@ broadcast.pm
 analytics.freedom.press
 trk.4ff.pro
 bepsuglyba.pro
-best-click.pro
 clgserv.pro
 click4.pro
 clickngo.pro
@@ -90016,7 +90023,6 @@ wec-assets-api.terminus.services
 adservice.google.com.sg
 backup.sh
 hits.sh
-megapu.sh
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
@@ -93350,6 +93356,8 @@ ssc.independent.co.uk
 stats.independent.co.uk
 stats.lobster-writer.co.uk
 adn.lrb.co.uk
+ads.tripod.lycos.co.uk
+hit.webcentre.lycos.co.uk
 intent.macworld.co.uk
 metadsp.co.uk
 swa.metro.co.uk
