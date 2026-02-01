@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345912
+# Ignored duplicates: 345914
 
 cadmus.script.ac
 audio.ad
@@ -17733,6 +17733,7 @@ somniture.lightingdirect.com
 lightspeedcash.com
 lightstep.com
 lijit.com
+limecodesign.com
 limewiear.com
 limurol.com
 data.lincoln.com
@@ -89426,7 +89427,6 @@ www.hostingcloud.racing
 adsco.re
 attribution.report
 n.rich
-t.fml.rip
 ads.adstream.com.ro
 adserver.creativeads.ro
 mail.creativeads.ro
@@ -89751,8 +89751,6 @@ tracking.bt.se
 tracking.byggindustrin.se
 analytics.ci-360.se
 analytics.ciseway.se
-widget.cdn.citygate.se
-widget.citygate.se
 stat.cliche.se
 analytics.codigo.se
 alkemi.com.se
