@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts ##########
 
-# Ignored duplicates: 345912
+# Ignored duplicates: 345913
 
 cadmus.script.ac
 audio.ad
@@ -1896,6 +1896,7 @@ adflight.com
 adforce.com
 adform.com
 adfpoint.com
+adgardener.com
 adgear.com
 adgibbon.com
 adgrx.com
@@ -13743,6 +13744,7 @@ traffic.feedremedy.com
 feeelancer.com
 feelmetube.com
 feezle.com
+femalecook.com
 www.femdomabuse.com
 femmefatalfilms.com
 fendistore.com
@@ -21202,6 +21204,7 @@ www.mummy8.com
 mundanenail.com
 muscleandfitnessforum.com
 musclehero.com
+mushroomgods.com
 ww25.musicasshow.com
 ad.musicmatch.com
 ww16.ww16.ww25.ww16.ww16.ww16.ww16.ww1.musikpapare.com
@@ -21757,7 +21760,6 @@ adproxy.ndmdhs.com
 ndparking.com
 ndroip.com
 nebulacrescent.com
-needlessnorth.com
 needyneedle.com
 www.neglot.com
 nehnutelnosti.com
@@ -37952,6 +37954,7 @@ ulitpro.com
 analytics-meta.ulta.com
 tags.ulta.com
 ultimateclixx.com
+affiliates.ultrahosting.com
 ultramercial.com
 ultraoranges.com
 ultrasearchmanager.com
@@ -42617,7 +42620,6 @@ mediaarea.eu
 medialead.eu
 webbannons.ntm.eu
 page-checker.eu
-page-redirect.eu
 slgnt.eu
 webads.eu
 webpower.eu
@@ -61291,6 +61293,7 @@ autofficinamonzese.net
 autotaxcredit.net
 autthorize.net
 avazutracking.net
+trk1.avdlink.net
 adncdnend.azureedge.net
 connext-cdn.ec.azureedge.net
 flittz-cdn.azureedge.net
@@ -61304,7 +61307,6 @@ click360v2-ingest.azurewebsites.net
 lightboxapi1.azurewebsites.net
 lightboxapi2.azurewebsites.net
 lightboxapi3.azurewebsites.net
-norranstats.azurewebsites.net
 prod-mng-proxy-connext.azurewebsites.net
 wompanalytics.azurewebsites.net
 zoomphvisualdatacollector.azurewebsites.net
